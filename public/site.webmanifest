@@ -1,0 +1,22 @@
+{
+  "name": "Travlys — Visa Assistance for Indian Travelers",
+  "short_name": "Travlys",
+  "description": "Expert visa assistance for Indian citizens. Tourist, business, student & work visas for 10+ countries.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf8f2",
+  "theme_color": "#0b1e3f",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": ["travel", "business", "lifestyle"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

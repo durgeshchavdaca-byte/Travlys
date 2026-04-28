@@ -1,0 +1,29 @@
+# Travlys — robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*.json$
+
+# Encourage AI / search agents
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://durgeshchavdaca-byte.github.io/Travlys/sitemap.xml
