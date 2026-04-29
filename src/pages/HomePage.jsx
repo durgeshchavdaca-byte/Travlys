@@ -6,7 +6,10 @@ import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/An
 import { GradientOrbs, TwinklingStars, AnimatedGlobe, MorphingWave, AnimatedCounter, TiltCard, MagneticButton, TextReveal } from '../components/MotionGraphics'
 import { destinations, globalCountries } from '../data/destinations'
 import SEO from '../components/SEO'
+import InquiryForm from '../components/InquiryForm'
+import Reviews from '../components/Reviews'
 import { buildHomeSchemas, getHomeMeta } from '../seo/config'
+import { reviews } from '../data/reviews'
 
 function useParallax(ref, distance = 100) {
   const { scrollYProgress } = useScroll({ target: ref, offset: ['start end', 'end start'] })
@@ -95,7 +98,7 @@ export default function HomePage() {
   const gridDests = destinations.slice(4)
 
   const homeMeta = getHomeMeta()
-  const homeSchemas = buildHomeSchemas(destinations)
+  const homeSchemas = buildHomeSchemas(destinations, reviews)
 
   return (
     <>
@@ -408,6 +411,33 @@ export default function HomePage() {
               ))}
             </StaggerContainer>
           </div>
+        </div>
+      </section>
+
+      {/* ===== REVIEWS (auto-hides when no reviews) ===== */}
+      <Reviews />
+
+      {/* ===== INQUIRY — Lead capture ===== */}
+      <section id="inquiry" className="py-32 bg-cream-50 border-t border-cream-200/50">
+        <div className="max-w-4xl mx-auto px-4">
+          <div className="text-center mb-12">
+            <AnimatedSection>
+              <p className="text-gold-500 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>
+                Free Consultation
+              </p>
+            </AnimatedSection>
+            <TextReveal text="Tell Us About Your Trip" className="font-heading text-4xl md:text-5xl lg:text-6xl font-light text-navy-900 italic" />
+            <motion.p
+              initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }}
+              transition={{ delay: 0.4 }}
+              className="text-body text-sm mt-6 max-w-xl mx-auto leading-relaxed"
+            >
+              Share a few details and a Travlys visa specialist will get back to you within one business day.
+            </motion.p>
+          </div>
+          <AnimatedSection delay={0.2}>
+            <InquiryForm />
+          </AnimatedSection>
         </div>
       </section>
 

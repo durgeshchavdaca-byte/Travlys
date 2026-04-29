@@ -6,6 +6,7 @@ import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/An
 import { GradientOrbs, TwinklingStars, PassportStamp, FloatingIcons } from '../components/MotionGraphics'
 import { destinations } from '../data/destinations'
 import SEO from '../components/SEO'
+import InquiryForm from '../components/InquiryForm'
 import { buildVisaSchemas, getVisaMeta } from '../seo/config'
 
 export default function VisaPage() {
@@ -210,6 +211,20 @@ export default function VisaPage() {
           </div>
         </section>
       )}
+
+      {/* Inquiry — destination-specific lead capture */}
+      <section className="py-20 bg-white">
+        <div className="max-w-3xl mx-auto px-4">
+          <AnimatedSection className="text-center mb-10">
+            <p className="text-gold-500 text-sm uppercase tracking-[0.2em] font-semibold mb-3">Free Consultation</p>
+            <h2 className="font-heading text-2xl md:text-3xl font-bold text-navy-900">Apply for Your {dest.name} Visa</h2>
+            <p className="text-body text-sm mt-4">Tell us about your trip and a Travlys specialist will get back within one business day.</p>
+          </AnimatedSection>
+          <AnimatedSection delay={0.15}>
+            <InquiryForm defaultDestination={dest.name} />
+          </AnimatedSection>
+        </div>
+      </section>
 
       {/* CTA */}
       <section className="relative py-20 bg-navy-900 overflow-hidden">

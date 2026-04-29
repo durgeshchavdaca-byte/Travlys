@@ -22,7 +22,7 @@ export const HOME_FAQS = [
   { q: 'How long does a typical visa application take?', a: 'Processing times vary by country and category — from 3-5 working days for Singapore and Malaysia e-visas, to 15-30 working days for Schengen visas. We share exact timelines during consultation.' },
 ]
 
-export function buildHomeSchemas(destinations) {
+export function buildHomeSchemas(destinations, reviews = []) {
   return [
     {
       '@context': 'https://schema.org',
@@ -59,7 +59,54 @@ export function buildHomeSchemas(destinations) {
         acceptedAnswer: { '@type': 'Answer', text: a },
       })),
     },
+    ...buildReviewSchemas(reviews),
   ]
+}
+
+// HowTo schema — eligible for rich-snippet step boxes in Google when
+// a user searches "how to apply for [country] visa from india".
+export function buildHowToSchema(dest) {
+  if (!dest.processSteps?.length) return null
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: `How to apply for a ${dest.name} visa from India`,
+    description: `Step-by-step process to apply for a ${dest.name} visa with Travlys's expert guidance.`,
+    totalTime: dest.processingTime ? `Approximate processing: ${dest.processingTime}` : undefined,
+    supply: (dest.documents || []).slice(0, 6).map((d) => ({
+      '@type': 'HowToSupply',
+      name: d,
+    })),
+    step: dest.processSteps.map((step, i) => {
+      const [name, ...rest] = String(step).split(' - ')
+      return {
+        '@type': 'HowToStep',
+        position: i + 1,
+        name: name?.trim() || `Step ${i + 1}`,
+        text: rest.length ? rest.join(' - ').trim() : String(step),
+      }
+    }),
+  }
+}
+
+// Review schema — when reviews are added in src/data/reviews.js, each
+// gets emitted so star ratings are eligible to appear in SERP.
+export function buildReviewSchemas(reviews, organizationId = `${SITE_URL}/#organization`) {
+  if (!reviews?.length) return []
+  return reviews.map((r) => ({
+    '@context': 'https://schema.org',
+    '@type': 'Review',
+    author: { '@type': 'Person', name: r.author },
+    datePublished: r.date,
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: String(r.rating),
+      bestRating: '5',
+      worstRating: '1',
+    },
+    reviewBody: r.text,
+    itemReviewed: { '@id': organizationId },
+  }))
 }
 
 export function buildVisaSchemas(dest) {
@@ -126,6 +173,7 @@ export function buildVisaSchemas(dest) {
           },
         ]
       : []),
+    ...(buildHowToSchema(dest) ? [buildHowToSchema(dest)] : []),
   ]
 }
 

@@ -5,6 +5,7 @@ import Footer from './components/Footer'
 import HomePage from './pages/HomePage'
 import VisaPage from './pages/VisaPage'
 import ScrollToTop from './components/ScrollToTop'
+import StickyContact from './components/StickyContact'
 import { ScrollProgress } from './components/MotionGraphics'
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         </AnimatePresence>
       </main>
       <Footer />
+      <StickyContact />
     </div>
   )
 }

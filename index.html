@@ -77,10 +77,11 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "TravelAgency",
+      "@type": ["TravelAgency", "LocalBusiness"],
       "@id": "https://travlys.com/#organization",
       "name": "Travlys",
       "alternateName": "Travlys Visa Assistance",
+      "slogan": "Visa Assistance Made Easy",
       "url": "https://travlys.com/",
       "logo": "https://travlys.com/favicon.svg",
       "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop&q=80",
@@ -88,21 +89,61 @@
       "telephone": "+91-8200918967",
       "email": "info@travlys.com",
       "priceRange": "₹₹",
-      "areaServed": {
-        "@type": "Country",
-        "name": "India"
-      },
+      "currenciesAccepted": "INR",
+      "paymentAccepted": "Cash, Credit Card, UPI, Bank Transfer",
+      "areaServed": [
+        { "@type": "Country", "name": "India" },
+        { "@type": "Country", "name": "United States" },
+        { "@type": "Country", "name": "United Kingdom" },
+        { "@type": "Country", "name": "Canada" },
+        { "@type": "Country", "name": "Australia" },
+        { "@type": "Country", "name": "Schengen Area" }
+      ],
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "IN"
       },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-8200918967",
-        "contactType": "customer service",
-        "email": "info@travlys.com",
-        "areaServed": "IN",
-        "availableLanguage": ["English", "Hindi"]
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+91-8200918967",
+          "contactType": "customer service",
+          "email": "info@travlys.com",
+          "areaServed": "IN",
+          "availableLanguage": ["English", "Hindi"]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+91-8200918967",
+          "contactType": "sales",
+          "email": "info@travlys.com",
+          "areaServed": "IN",
+          "availableLanguage": ["English", "Hindi"]
+        }
+      ],
+      "knowsAbout": [
+        "USA visa applications",
+        "UK visa applications",
+        "Canada visa applications",
+        "Australia visa applications",
+        "Schengen visa applications",
+        "Singapore visa applications",
+        "UAE visa applications",
+        "Tourist visa",
+        "Business visa",
+        "Student visa",
+        "Work visa",
+        "Visa interview preparation",
+        "DS-160 form filing",
+        "VFS appointment booking"
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "19:00"
       },
       "sameAs": [
         "https://wa.me/918200918967"
