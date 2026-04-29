@@ -5,7 +5,8 @@ import { ArrowRight, CheckCircle, Phone, MessageCircle, ChevronRight, Plane } fr
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
 import { GradientOrbs, TwinklingStars, PassportStamp, FloatingIcons } from '../components/MotionGraphics'
 import { destinations } from '../data/destinations'
-import SEO, { SITE_URL } from '../components/SEO'
+import SEO from '../components/SEO'
+import { buildVisaSchemas, getVisaMeta } from '../seo/config'
 
 export default function VisaPage() {
   const { slug } = useParams()
@@ -41,82 +42,12 @@ export default function VisaPage() {
     .map(s => destinations.find(d => d.slug === s))
     .filter(Boolean)
 
-  const pagePath = `/visa/${dest.slug}`
-  const heroImage = dest.image.replace('w=600&h=400', 'w=1200&h=630')
-
-  const visaSchemas = [
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: 'Visa Destinations', item: `${SITE_URL}/#featured` },
-        { '@type': 'ListItem', position: 3, name: `${dest.name} Visa`, item: `${SITE_URL}${pagePath}` },
-      ],
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'Service',
-      '@id': `${SITE_URL}${pagePath}#service`,
-      serviceType: `${dest.name} Visa Assistance`,
-      name: `${dest.name} Visa Assistance for Indian Citizens`,
-      description: dest.description,
-      provider: { '@id': `${SITE_URL}/#organization` },
-      areaServed: { '@type': 'Country', name: 'India' },
-      audience: { '@type': 'PeopleAudience', name: 'Indian passport holders' },
-      url: `${SITE_URL}${pagePath}`,
-      image: heroImage,
-      ...(dest.priceValue
-        ? {
-            offers: {
-              '@type': 'Offer',
-              price: String(dest.priceValue),
-              priceCurrency: dest.currency || 'INR',
-              availability: 'https://schema.org/InStock',
-              url: `${SITE_URL}${pagePath}`,
-            },
-          }
-        : {}),
-      hasOfferCatalog: {
-        '@type': 'OfferCatalog',
-        name: `${dest.name} Visa Categories`,
-        itemListElement: (dest.categories || []).map((c) => ({
-          '@type': 'Offer',
-          itemOffered: {
-            '@type': 'Service',
-            name: c.name,
-            description: c.description,
-          },
-        })),
-      },
-    },
-    ...(dest.faqs?.length
-      ? [
-          {
-            '@context': 'https://schema.org',
-            '@type': 'FAQPage',
-            mainEntity: dest.faqs.map(({ q, a }) => ({
-              '@type': 'Question',
-              name: q,
-              acceptedAnswer: { '@type': 'Answer', text: a },
-            })),
-          },
-        ]
-      : []),
-  ]
+  const visaMeta = getVisaMeta(dest)
+  const visaSchemas = buildVisaSchemas(dest)
 
   return (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: 0.4 }}>
-      <SEO
-        title={dest.metaTitle || `${dest.name} Visa for Indian Citizens`}
-        description={dest.metaDescription || dest.description}
-        path={pagePath}
-        keywords={dest.keywords}
-        image={heroImage}
-        imageAlt={`${dest.name} visa assistance by Travlys`}
-        type="article"
-        jsonLd={visaSchemas}
-      />
+      <SEO {...visaMeta} jsonLd={visaSchemas} />
 
       {/* Breadcrumb */}
       <nav className="bg-cream-50 py-3 px-4 border-b border-cream-200/50">

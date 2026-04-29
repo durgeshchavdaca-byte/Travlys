@@ -5,15 +5,8 @@ import { ArrowRight, Globe, Briefcase, Users, CheckCircle, Phone, Mail, MessageC
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
 import { GradientOrbs, TwinklingStars, AnimatedGlobe, MorphingWave, AnimatedCounter, TiltCard, MagneticButton, TextReveal } from '../components/MotionGraphics'
 import { destinations, globalCountries } from '../data/destinations'
-import SEO, { SITE_URL } from '../components/SEO'
-
-const HOME_FAQS = [
-  { q: 'What countries does Travlys provide visa assistance for?', a: 'Travlys offers visa assistance for the United States, United Kingdom, Canada, Australia, New Zealand, Netherlands (Schengen), Singapore, UAE, Thailand and Malaysia, with support for tourist, business, student and work categories.' },
-  { q: 'How does the Travlys visa assistance process work?', a: 'We follow a six-step process — consultation, document checklist, application preparation, submission, real-time tracking, and outcome communication — designed to simplify your visa journey end-to-end.' },
-  { q: 'Do you guarantee visa approval?', a: 'No consultant can guarantee approval — the final decision rests with the issuing embassy or consulate. Travlys ensures your application is complete, accurate and well-prepared, which significantly improves outcomes (98% success rate across 5,000+ applications).' },
-  { q: 'How can I get in touch with a Travlys visa expert?', a: 'You can reach our visa specialists via WhatsApp at +91 8200918967, by phone at the same number, or by email at info@travlys.com.' },
-  { q: 'How long does a typical visa application take?', a: 'Processing times vary by country and category — from 3-5 working days for Singapore and Malaysia e-visas, to 15-30 working days for Schengen visas. We share exact timelines during consultation.' },
-]
+import SEO from '../components/SEO'
+import { buildHomeSchemas, getHomeMeta } from '../seo/config'
 
 function useParallax(ref, distance = 100) {
   const { scrollYProgress } = useScroll({ target: ref, offset: ['start end', 'end start'] })
@@ -101,53 +94,12 @@ export default function HomePage() {
   const featuredDests = destinations.slice(0, 4)
   const gridDests = destinations.slice(4)
 
-  const homeSchemas = [
-    {
-      '@context': 'https://schema.org',
-      '@type': 'WebSite',
-      '@id': `${SITE_URL}/#website`,
-      url: `${SITE_URL}/`,
-      name: 'Travlys',
-      description: 'Visa assistance services for Indian travelers',
-      inLanguage: 'en-IN',
-      publisher: { '@id': `${SITE_URL}/#organization` },
-      potentialAction: {
-        '@type': 'SearchAction',
-        target: `${SITE_URL}/?q={search_term_string}`,
-        'query-input': 'required name=search_term_string',
-      },
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'ItemList',
-      name: 'Visa Destinations Offered by Travlys',
-      itemListElement: destinations.map((d, i) => ({
-        '@type': 'ListItem',
-        position: i + 1,
-        name: `${d.name} Visa`,
-        url: `${SITE_URL}/visa/${d.slug}`,
-      })),
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'FAQPage',
-      mainEntity: HOME_FAQS.map(({ q, a }) => ({
-        '@type': 'Question',
-        name: q,
-        acceptedAnswer: { '@type': 'Answer', text: a },
-      })),
-    },
-  ]
+  const homeMeta = getHomeMeta()
+  const homeSchemas = buildHomeSchemas(destinations)
 
   return (
     <>
-      <SEO
-        title="Visa Assistance for Indian Travelers"
-        description="Travlys offers expert visa assistance for Indian citizens — tourist, business, student and work visas for the USA, UK, Canada, Australia, Schengen, Singapore, UAE and more. 5,000+ visas with a 98% success rate."
-        path="/"
-        keywords="visa assistance india, visa consultants india, tourist visa, business visa, student visa, work visa, USA visa, UK visa, Canada visa, Australia visa, Schengen visa, Singapore visa, UAE visa"
-        jsonLd={homeSchemas}
-      />
+      <SEO {...homeMeta} jsonLd={homeSchemas} />
 
       {/* ===== HERO — Cinematic fullscreen ===== */}
       <section ref={heroRef} className="relative h-screen flex items-center justify-center text-white overflow-hidden">

@@ -1,8 +1,15 @@
 import { useEffect } from 'react'
+import {
+  SITE_URL as _SITE_URL,
+  SITE_NAME as _SITE_NAME,
+  DEFAULT_OG_IMAGE as _DEFAULT_OG_IMAGE,
+  DEFAULT_OG_ALT,
+  DEFAULT_LOCALE,
+} from '../seo/config'
 
-export const SITE_URL = 'https://travlys.com'
-export const SITE_NAME = 'Travlys'
-export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.jpg`
+export const SITE_URL = _SITE_URL
+export const SITE_NAME = _SITE_NAME
+export const DEFAULT_OG_IMAGE = _DEFAULT_OG_IMAGE
 
 function dedupeHead(targetTitle) {
   if (typeof document === 'undefined') return
@@ -45,7 +52,7 @@ export default function SEO({
   description,
   path = '/',
   image = DEFAULT_OG_IMAGE,
-  imageAlt = 'Travlys — Premium Visa Assistance',
+  imageAlt = DEFAULT_OG_ALT,
   type = 'website',
   keywords,
   noindex = false,
@@ -78,7 +85,7 @@ export default function SEO({
 
       <meta {...m} property="og:type" content={type} />
       <meta {...m} property="og:site_name" content={SITE_NAME} />
-      <meta {...m} property="og:locale" content="en_IN" />
+      <meta {...m} property="og:locale" content={DEFAULT_LOCALE} />
       <meta {...m} property="og:url" content={canonical} />
       <meta {...m} property="og:title" content={fullTitle} />
       <meta {...m} property="og:description" content={description} />

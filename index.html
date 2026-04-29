@@ -5,42 +5,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <!-- Primary SEO -->
+    <!--
+      The build-time prerender script (scripts/prerender.mjs) injects
+      route-specific <title>, <meta name="description">, OG, Twitter,
+      canonical, hreflang and JSON-LD here for every route. The block
+      below is the dev/HMR fallback; in production it's overwritten.
+    -->
     <title>Travlys | Visa Assistance Services for Indian Travelers</title>
-    <meta name="description" content="Travlys offers expert visa assistance for Indian citizens travelling to the USA, UK, Canada, Australia, Schengen, Singapore, UAE and more. End-to-end documentation, application & interview support with a 98% success rate." />
-    <meta name="keywords" content="visa assistance india, visa consultants, tourist visa, business visa, student visa, work visa, USA visa, UK visa, Canada visa, Australia visa, Schengen visa, Singapore visa, UAE visa, Thailand visa, Malaysia visa, New Zealand visa, Netherlands visa, travel agency india, visa services for indian citizens" />
+    <meta name="description" content="Travlys offers expert visa assistance for Indian citizens travelling to the USA, UK, Canada, Australia, Schengen, Singapore, UAE and more." />
     <meta name="author" content="Travlys" />
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
     <meta name="googlebot" content="index, follow" />
-    <link rel="canonical" href="https://travlys.com/" />
 
-    <!-- Geo & Language -->
+    <!-- Geo & Language (universal) -->
     <meta name="geo.region" content="IN" />
     <meta name="geo.placename" content="India" />
     <meta http-equiv="content-language" content="en-IN" />
-    <link rel="alternate" hreflang="en-in" href="https://travlys.com/" />
-    <link rel="alternate" hreflang="x-default" href="https://travlys.com/" />
 
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
+    <!-- Static OG/Twitter parts that don't change per page -->
     <meta property="og:site_name" content="Travlys" />
     <meta property="og:locale" content="en_IN" />
-    <meta property="og:url" content="https://travlys.com/" />
-    <meta property="og:title" content="Travlys | Visa Assistance Services for Indian Travelers" />
-    <meta property="og:description" content="Expert visa assistance for Indian citizens. Tourist, business, student & work visas for 10+ countries. 5,000+ visas processed with a 98% success rate." />
-    <meta property="og:image" content="https://travlys.com/og-image.jpg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Travlys — Premium Visa Assistance" />
-
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@travlys" />
     <meta name="twitter:creator" content="@travlys" />
-    <meta name="twitter:title" content="Travlys | Visa Assistance Services for Indian Travelers" />
-    <meta name="twitter:description" content="Expert visa assistance for Indian citizens. Tourist, business, student & work visas for 10+ countries. 5,000+ visas processed with a 98% success rate." />
-    <meta name="twitter:image" content="https://travlys.com/og-image.jpg" />
-    <meta name="twitter:image:alt" content="Travlys — Premium Visa Assistance" />
+
+    <!-- Search engine ownership verification — replace the content="" with the
+         token from each tool. Empty values are ignored, so safe to leave. -->
+    <meta name="google-site-verification" content="" />
+    <meta name="msvalidate.01" content="" />
+    <meta name="yandex-verification" content="" />
+    <meta name="p:domain_verify" content="" />
 
     <!-- PWA / Theme -->
     <meta name="theme-color" content="#0b1e3f" />
@@ -55,12 +48,18 @@
     <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
     <link rel="apple-touch-icon" href="%BASE_URL%favicon.svg" />
 
-    <!-- Performance: preconnect & preload critical fonts -->
+    <!-- Performance: preconnect, dns-prefetch, preload critical resources -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preconnect" href="https://images.unsplash.com" crossorigin />
     <link rel="dns-prefetch" href="https://images.unsplash.com" />
     <link rel="dns-prefetch" href="https://wa.me" />
+    <link
+      rel="preload"
+      as="image"
+      href="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop&q=80"
+      fetchpriority="high"
+    />
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet" />
 
     <!-- SPA redirect handler — restores the path after 404.html bounces a deep link back here -->
@@ -74,7 +73,7 @@
       })();
     </script>
 
-    <!-- Organization Schema (site-wide) -->
+    <!-- Organization Schema (site-wide, identical on every page) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -84,7 +83,7 @@
       "alternateName": "Travlys Visa Assistance",
       "url": "https://travlys.com/",
       "logo": "https://travlys.com/favicon.svg",
-      "image": "https://travlys.com/og-image.jpg",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop&q=80",
       "description": "Travlys provides professional visa assistance for Indian citizens travelling worldwide, covering tourist, business, student and work visas with end-to-end documentation and interview support.",
       "telephone": "+91-8200918967",
       "email": "info@travlys.com",
