@@ -8,7 +8,7 @@
       // query string and bounce to index.html, where it gets decoded.
       // Adapted from https://github.com/rafgraph/spa-github-pages (MIT)
       (function () {
-        var pathSegmentsToKeep = 1; // /Travlys
+        var pathSegmentsToKeep = 0; // apex domain, no path prefix
         var l = window.location;
         l.replace(
           l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +

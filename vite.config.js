@@ -3,10 +3,9 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 // https://vitejs.dev/config/
-// Base is set to the GitHub Pages project path. To deploy to a custom domain
-// (e.g. https://www.travlys.com), set VITE_BASE=/ in the build environment
-// or hardcode base: '/' here.
+// base is "/" for the custom domain travlys.com (served at the apex).
+// Override with VITE_BASE=/Travlys/ to build for the project-pages URL.
 export default defineConfig({
-  base: process.env.VITE_BASE ?? '/Travlys/',
+  base: process.env.VITE_BASE ?? '/',
   plugins: [react(), tailwindcss()],
 })

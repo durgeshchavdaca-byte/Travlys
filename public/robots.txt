@@ -26,4 +26,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://durgeshchavdaca-byte.github.io/Travlys/sitemap.xml
+Sitemap: https://travlys.com/sitemap.xml

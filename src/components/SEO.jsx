@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 
-export const SITE_URL = 'https://durgeshchavdaca-byte.github.io/Travlys'
+export const SITE_URL = 'https://travlys.com'
 export const SITE_NAME = 'Travlys'
 export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.jpg`
 
