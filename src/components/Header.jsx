@@ -3,23 +3,50 @@ import { Link, useNavigate, useLocation } from 'react-router-dom'
 import { ChevronDown, Menu, X, Phone } from 'lucide-react'
 import { destinations } from '../data/destinations'
 
-function Logo({ tone = 'dark' }) {
+function Logo({ tone = 'dark', size = 34 }) {
   const fg = tone === 'light' ? '#ffffff' : '#0f1b4c'
+  const container = tone === 'light' ? 'rgba(255,255,255,0.06)' : '#0F1B4C'
+  const containerStroke = tone === 'light' ? 'rgba(255,255,255,0.22)' : 'transparent'
+  const mark = tone === 'light' ? '#ffffff' : '#ffffff'
   return (
-    <span className="flex items-center gap-2.5">
-      <svg width="32" height="32" viewBox="0 0 40 40" fill="none" aria-hidden>
-        <rect width="40" height="40" rx="11" fill="#ff7849" />
-        <path
-          d="M9 24 L21 12 L31 14 L22 23 L17 22 L13 26 Z"
-          fill="#ffffff"
-        />
-        <circle cx="27" cy="17" r="1.6" fill="#0f1b4c" />
+    <span className="flex items-center gap-2.5 select-none">
+      <svg
+        width={size}
+        height={size}
+        viewBox="0 0 64 64"
+        fill="none"
+        aria-hidden
+        className="shrink-0"
+      >
+        <rect width="64" height="64" rx="16" fill={container} stroke={containerStroke} strokeWidth="1" />
+        <circle cx="52" cy="10" r="3.5" fill="#FF7849" />
+        <rect x="10" y="21" width="34" height="6" rx="3" fill={mark} />
+        <path d="M40 16 L54 24 L40 32 Z" fill={mark} />
+        <rect x="29" y="21" width="6" height="29" rx="3" fill={mark} />
       </svg>
       <span
-        className="font-display text-[1.45rem] font-extrabold tracking-tight"
-        style={{ color: fg }}
+        className="font-display font-extrabold lowercase"
+        style={{
+          color: fg,
+          fontSize: '1.55rem',
+          letterSpacing: '-0.045em',
+          lineHeight: 1,
+        }}
       >
-        Travlys
+        travlys
+        <span
+          aria-hidden
+          style={{
+            display: 'inline-block',
+            width: '5px',
+            height: '5px',
+            borderRadius: '999px',
+            background: '#FF7849',
+            marginLeft: '2px',
+            verticalAlign: 'baseline',
+            transform: 'translateY(-1px)',
+          }}
+        />
       </span>
     </span>
   )
