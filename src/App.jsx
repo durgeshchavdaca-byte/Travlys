@@ -12,7 +12,7 @@ function App() {
   const location = useLocation()
 
   return (
-    <div className="min-h-screen flex flex-col bg-cream-50">
+    <div className="min-h-screen flex flex-col bg-sand-50">
       <ScrollProgress />
       <ScrollToTop />
       <Header />

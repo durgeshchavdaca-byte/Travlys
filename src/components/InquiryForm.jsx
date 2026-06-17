@@ -2,19 +2,10 @@ import { useState } from 'react'
 import { Send, CheckCircle2, Loader2 } from 'lucide-react'
 import { destinations } from '../data/destinations'
 
-// Inquiry form using FormSubmit.co — submissions are emailed straight
-// to info@travlys.com. Zero backend, zero signup. The first submission
-// from a new install triggers a one-time confirmation email to the
-// recipient address; click the link in that email to activate.
-//
-// To upgrade to a paid form service later (e.g. Web3Forms, Formspree),
-// replace FORM_ENDPOINT with their endpoint URL — the field names below
-// already match the convention.
-
 const FORM_ENDPOINT = 'https://formsubmit.co/ajax/info@travlys.com'
 
 export default function InquiryForm({ defaultDestination = '', compact = false }) {
-  const [status, setStatus] = useState('idle') // idle | sending | success | error
+  const [status, setStatus] = useState('idle')
   const [error, setError] = useState('')
 
   const handleSubmit = async (e) => {
@@ -23,7 +14,6 @@ export default function InquiryForm({ defaultDestination = '', compact = false }
     setError('')
 
     const data = new FormData(e.currentTarget)
-    // Spam protection — FormSubmit honeypot
     if (data.get('_honey')) {
       setStatus('success')
       return
@@ -44,167 +34,167 @@ export default function InquiryForm({ defaultDestination = '', compact = false }
       e.target.reset()
     } catch (err) {
       setStatus('error')
-      setError('Could not send right now. Please WhatsApp us at +91 8200918967.')
+      setError('Could not send right now. Please WhatsApp us at +91 82009 18967.')
     }
   }
 
   if (status === 'success') {
     return (
-      <div className="bg-cream-50 border border-gold-500/30 rounded-2xl p-8 text-center">
-        <CheckCircle2 className="w-12 h-12 text-gold-500 mx-auto mb-4" />
-        <h3 className="font-heading text-2xl font-light italic text-navy-900 mb-2">
-          Thank you!
+      <div className="card p-8 text-center">
+        <div className="w-14 h-14 rounded-full bg-mint-100 flex items-center justify-center mx-auto mb-5">
+          <CheckCircle2 className="w-7 h-7 text-mint-500" />
+        </div>
+        <h3 className="font-display text-2xl font-bold text-ink-900 mb-2">
+          Got it — we’re on it
         </h3>
-        <p className="text-body text-sm leading-relaxed">
-          Your inquiry has been sent. A Travlys visa specialist will reach out within one business day.
+        <p className="text-slate-muted text-[0.95rem] leading-relaxed max-w-md mx-auto">
+          A Travlys visa specialist will reach out within one working day with a tailored plan, timeline and quote. Need it faster?
+          <a href="https://wa.me/918200918967" className="text-coral-500 ml-1 hover:underline">WhatsApp us</a>.
         </p>
       </div>
     )
   }
 
+  const wrap = compact
+    ? ''
+    : 'bg-white border border-line rounded-3xl p-6 md:p-8 shadow-[var(--shadow-card)]'
+
   return (
     <form
       onSubmit={handleSubmit}
-      className={`space-y-4 ${compact ? '' : 'bg-cream-50 border border-cream-200/50 rounded-2xl p-6 md:p-8'}`}
+      className={`${wrap} space-y-4`}
       aria-label="Visa inquiry form"
     >
-      {/* FormSubmit hidden config */}
       <input type="hidden" name="_subject" value="New Travlys visa inquiry" />
       <input type="hidden" name="_template" value="table" />
       <input type="hidden" name="_captcha" value="false" />
       <input type="text" name="_honey" tabIndex="-1" autoComplete="off" className="hidden" aria-hidden="true" />
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <label className="block">
-          <span className="text-[10px] uppercase tracking-[0.2em] text-navy-700/60 block mb-2" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            Full Name *
-          </span>
+        <Field label="Full name" required>
           <input
             type="text"
             name="name"
             required
             autoComplete="name"
-            placeholder="Your name"
-            className="w-full px-4 py-3 bg-white border border-cream-200 rounded-xl text-sm text-navy-900 placeholder:text-navy-700/30 focus:outline-none focus:border-gold-500 transition-colors"
+            placeholder="Your full name"
+            className="input"
           />
-        </label>
-
-        <label className="block">
-          <span className="text-[10px] uppercase tracking-[0.2em] text-navy-700/60 block mb-2" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            Phone (WhatsApp) *
-          </span>
+        </Field>
+        <Field label="WhatsApp / Mobile" required>
           <input
             type="tel"
             name="phone"
             required
             autoComplete="tel"
             placeholder="+91 ..."
-            className="w-full px-4 py-3 bg-white border border-cream-200 rounded-xl text-sm text-navy-900 placeholder:text-navy-700/30 focus:outline-none focus:border-gold-500 transition-colors"
+            className="input"
           />
-        </label>
+        </Field>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <label className="block">
-          <span className="text-[10px] uppercase tracking-[0.2em] text-navy-700/60 block mb-2" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            Email *
-          </span>
+        <Field label="Email" required>
           <input
             type="email"
             name="email"
             required
             autoComplete="email"
             placeholder="you@example.com"
-            className="w-full px-4 py-3 bg-white border border-cream-200 rounded-xl text-sm text-navy-900 placeholder:text-navy-700/30 focus:outline-none focus:border-gold-500 transition-colors"
+            className="input"
           />
-        </label>
-
-        <label className="block">
-          <span className="text-[10px] uppercase tracking-[0.2em] text-navy-700/60 block mb-2" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            Destination
-          </span>
-          <select
-            name="destination"
-            defaultValue={defaultDestination}
-            className="w-full px-4 py-3 bg-white border border-cream-200 rounded-xl text-sm text-navy-900 focus:outline-none focus:border-gold-500 transition-colors"
-          >
-            <option value="">Choose a country</option>
+        </Field>
+        <Field label="Destination">
+          <select name="destination" defaultValue={defaultDestination} className="input">
+            <option value="">Pick a country</option>
             {destinations.map((d) => (
-              <option key={d.slug} value={d.name}>{d.name}</option>
+              <option key={d.slug} value={d.name}>{d.flag}  {d.name}</option>
             ))}
-            <option value="Other">Other / Not sure yet</option>
+            <option value="Other">Other / not sure yet</option>
           </select>
-        </label>
+        </Field>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <label className="block">
-          <span className="text-[10px] uppercase tracking-[0.2em] text-navy-700/60 block mb-2" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            Visa Type
-          </span>
-          <select
-            name="visa_type"
-            className="w-full px-4 py-3 bg-white border border-cream-200 rounded-xl text-sm text-navy-900 focus:outline-none focus:border-gold-500 transition-colors"
-          >
-            <option value="">Choose a category</option>
+        <Field label="Visa type">
+          <select name="visa_type" className="input">
+            <option value="">Pick a category</option>
             <option>Tourist</option>
             <option>Business</option>
             <option>Student</option>
             <option>Work / Employment</option>
             <option>Transit</option>
             <option>Family / Visit</option>
-            <option>Other</option>
+            <option>Not sure yet</option>
           </select>
-        </label>
-
-        <label className="block">
-          <span className="text-[10px] uppercase tracking-[0.2em] text-navy-700/60 block mb-2" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            Travel Date (approx.)
-          </span>
-          <input
-            type="month"
-            name="travel_date"
-            className="w-full px-4 py-3 bg-white border border-cream-200 rounded-xl text-sm text-navy-900 focus:outline-none focus:border-gold-500 transition-colors"
-          />
-        </label>
+        </Field>
+        <Field label="Travel month">
+          <input type="month" name="travel_date" className="input" />
+        </Field>
       </div>
 
-      <label className="block">
-        <span className="text-[10px] uppercase tracking-[0.2em] text-navy-700/60 block mb-2" style={{ fontFamily: 'var(--font-family-accent)' }}>
-          Message
-        </span>
+      <Field label="Anything we should know?">
         <textarea
           name="message"
           rows="3"
-          placeholder="Tell us about your travel plans, urgency, or any questions..."
-          className="w-full px-4 py-3 bg-white border border-cream-200 rounded-xl text-sm text-navy-900 placeholder:text-navy-700/30 focus:outline-none focus:border-gold-500 transition-colors resize-none"
+          placeholder="Travel dates, urgency, past refusals, group size — anything helps."
+          className="input resize-none"
         />
-      </label>
+      </Field>
 
-      <button
-        type="submit"
-        disabled={status === 'sending'}
-        className="group w-full md:w-auto px-8 py-4 bg-navy-900 text-white rounded-xl text-sm font-semibold tracking-wide hover:bg-gold-500 hover:text-navy-900 transition-all duration-500 disabled:opacity-60 disabled:cursor-not-allowed inline-flex items-center justify-center gap-3"
-      >
-        {status === 'sending' ? (
-          <>
-            <Loader2 className="w-4 h-4 animate-spin" /> Sending...
-          </>
-        ) : (
-          <>
-            Request Free Consultation
-            <Send className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-          </>
-        )}
-      </button>
+      <div className="flex flex-col-reverse sm:flex-row sm:items-center sm:justify-between gap-4 pt-1">
+        <p className="text-xs text-slate-faint leading-relaxed">
+          By submitting, you agree to be contacted by Travlys about your visa inquiry. We never share your details.
+        </p>
+        <button type="submit" disabled={status === 'sending'} className="btn btn-coral shrink-0">
+          {status === 'sending' ? (
+            <>
+              <Loader2 className="w-4 h-4 animate-spin" />
+              Sending...
+            </>
+          ) : (
+            <>
+              Request callback
+              <Send className="w-4 h-4" />
+            </>
+          )}
+        </button>
+      </div>
 
       {status === 'error' && (
-        <p className="text-sm text-red-600">{error}</p>
+        <p className="text-sm text-coral-600 font-medium">{error}</p>
       )}
 
-      <p className="text-[11px] text-navy-700/50 leading-relaxed">
-        By submitting, you agree to be contacted by Travlys regarding your visa inquiry. We respect your privacy and never share your details.
-      </p>
+      <style>{`
+        .input {
+          width: 100%;
+          padding: 0.85rem 1rem;
+          background: #ffffff;
+          border: 1px solid var(--color-line);
+          border-radius: 12px;
+          font-size: 0.95rem;
+          color: var(--color-slate-text);
+          font-family: var(--font-family-body);
+          transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .input::placeholder { color: var(--color-slate-faint); }
+        .input:focus {
+          outline: none;
+          border-color: var(--color-ink-700);
+          box-shadow: 0 0 0 4px rgba(45, 63, 137, 0.08);
+        }
+      `}</style>
     </form>
+  )
+}
+
+function Field({ label, required, children }) {
+  return (
+    <label className="block">
+      <span className="text-xs font-semibold text-ink-900 block mb-2">
+        {label} {required && <span className="text-coral-500">*</span>}
+      </span>
+      {children}
+    </label>
   )
 }

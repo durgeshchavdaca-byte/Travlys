@@ -1,102 +1,677 @@
-import { useState, useEffect, useRef } from 'react'
-import { Link } from 'react-router-dom'
-import { motion, useScroll, useTransform, useInView } from 'framer-motion'
-import { ArrowRight, Globe, Briefcase, Users, CheckCircle, Phone, Mail, MessageCircle, Plane, Building, MapPin, Compass, Shield, Clock, Award, Star, ArrowUpRight } from 'lucide-react'
+import { useState, useMemo, useRef } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
+import { motion } from 'framer-motion'
+import {
+  Search,
+  Plane,
+  ShieldCheck,
+  Clock3,
+  FileCheck2,
+  Users,
+  MessageCircle,
+  Phone,
+  ArrowRight,
+  ArrowUpRight,
+  CheckCircle2,
+  Sparkles,
+  Globe2,
+  Map,
+  Headphones,
+  Star,
+  Plus,
+  Calendar,
+  TrendingUp,
+  ChevronRight,
+} from 'lucide-react'
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
-import { GradientOrbs, TwinklingStars, AnimatedGlobe, MorphingWave, AnimatedCounter, TiltCard, MagneticButton, TextReveal } from '../components/MotionGraphics'
-import { destinations, globalCountries } from '../data/destinations'
+import { HeroBlobs, AnimatedCounter, TextReveal } from '../components/MotionGraphics'
+import { destinations, globalCountries, regions } from '../data/destinations'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Reviews from '../components/Reviews'
-import { buildHomeSchemas, getHomeMeta } from '../seo/config'
+import { buildHomeSchemas, getHomeMeta, HOME_FAQS } from '../seo/config'
 import { reviews } from '../data/reviews'
 
-function useParallax(ref, distance = 100) {
-  const { scrollYProgress } = useScroll({ target: ref, offset: ['start end', 'end start'] })
-  return useTransform(scrollYProgress, [0, 1], [-distance, distance])
-}
+/* ─── HERO ────────────────────────────────────────────────────────────────── */
 
-/* Large featured destination card */
-function FeaturedDestination({ dest, index, reversed }) {
-  const ref = useRef(null)
-  const isInView = useInView(ref, { once: true, margin: '-100px' })
-  const y = useParallax(ref, 60)
+function HeroSearch() {
+  const navigate = useNavigate()
+  const [query, setQuery] = useState('')
+  const [focused, setFocused] = useState(false)
+
+  const suggestions = useMemo(() => {
+    const q = query.trim().toLowerCase()
+    if (!q) return destinations.slice(0, 5)
+    return destinations.filter((d) => d.name.toLowerCase().includes(q)).slice(0, 6)
+  }, [query])
+
+  const pick = (d) => {
+    setQuery('')
+    setFocused(false)
+    navigate(`/visa/${d.slug}`)
+  }
 
   return (
-    <motion.div ref={ref} className={`grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-[70vh] ${reversed ? 'lg:direction-rtl' : ''}`}>
-      {/* Image side */}
-      <motion.div
-        className={`relative overflow-hidden ${reversed ? 'lg:order-2' : ''}`}
-        initial={{ clipPath: 'inset(0 100% 0 0)' }}
-        animate={isInView ? { clipPath: 'inset(0 0% 0 0)' } : {}}
-        transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
-      >
-        <motion.img
-          src={dest.image.replace('w=600&h=400', 'w=1200&h=800')}
-          alt={dest.name}
-          className="w-full h-full object-cover min-h-[400px] lg:min-h-full"
-          style={{ y }}
+    <div className="relative w-full max-w-2xl">
+      <div className="card flex items-center pl-5 pr-2 py-2 gap-3 rounded-full shadow-pop">
+        <Search className="w-5 h-5 text-slate-faint" />
+        <input
+          type="text"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          onFocus={() => setFocused(true)}
+          onBlur={() => setTimeout(() => setFocused(false), 180)}
+          placeholder="Where do you want to go? Try USA, Schengen, Dubai…"
+          className="flex-1 bg-transparent border-none outline-none text-[1rem] text-ink-900 placeholder:text-slate-faint py-2.5"
+          aria-label="Search destinations"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-navy-900/60 via-transparent to-transparent" />
-        <div className="absolute top-6 left-6">
-          <span className="text-[10px] text-white/50 uppercase tracking-[0.3em]" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            0{index + 1}
-          </span>
-        </div>
-      </motion.div>
-
-      {/* Text side */}
-      <div className={`flex flex-col justify-center p-8 lg:p-16 xl:p-24 bg-cream-50 ${reversed ? 'lg:order-1 lg:text-right' : ''}`}>
-        <motion.div
-          initial={{ opacity: 0, y: 40 }}
-          animate={isInView ? { opacity: 1, y: 0 } : {}}
-          transition={{ duration: 0.8, delay: 0.5, ease: [0.16, 1, 0.3, 1] }}
+        <button
+          type="button"
+          onClick={() => suggestions[0] && pick(suggestions[0])}
+          className="btn btn-coral py-2.5 px-5"
         >
-          <p className="text-gold-500 text-[10px] uppercase tracking-[0.3em] mb-4" style={{ fontFamily: 'var(--font-family-accent)' }}>
-            {dest.processingTime}
-          </p>
-          <h3 className="font-heading text-4xl md:text-5xl lg:text-6xl font-light text-navy-900 italic mb-6 leading-[1.1]">
-            {dest.name}
-          </h3>
-          <p className="text-body text-sm leading-[1.9] mb-8 max-w-md">
-            {dest.description}
-          </p>
-          <div className="flex items-end gap-6 mb-8">
-            <div>
-              <span className="text-[10px] text-navy-700/50 uppercase tracking-[0.2em] block mb-1" style={{ fontFamily: 'var(--font-family-accent)' }}>Starting from</span>
-              <span className="font-heading text-3xl font-light text-gold-500 italic">{dest.price}</span>
-            </div>
-          </div>
-          <Link to={`/visa/${dest.slug}`}
-            className={`group inline-flex items-center gap-3 text-navy-900 no-underline text-sm tracking-wide font-medium hover:text-gold-500 transition-colors duration-500 ${reversed ? 'flex-row-reverse' : ''}`}>
-            <span>Explore {dest.name}</span>
-            <div className="w-10 h-10 rounded-full border border-navy-900/20 flex items-center justify-center group-hover:bg-gold-500 group-hover:border-gold-500 transition-all duration-500">
-              <ArrowUpRight className="w-4 h-4 group-hover:text-navy-900 transition-colors" />
-            </div>
-          </Link>
-        </motion.div>
+          Search
+        </button>
       </div>
-    </motion.div>
+
+      {focused && (
+        <div className="absolute top-[calc(100%+8px)] left-0 right-0 bg-white border border-line rounded-2xl shadow-pop overflow-hidden z-30">
+          <p className="px-5 pt-4 pb-2 text-xs uppercase tracking-widest text-slate-faint font-semibold">
+            {query ? 'Matches' : 'Popular this week'}
+          </p>
+          <ul className="list-none p-2 m-0">
+            {suggestions.map((d) => (
+              <li key={d.slug}>
+                <button
+                  onMouseDown={(e) => e.preventDefault()}
+                  onClick={() => pick(d)}
+                  className="w-full flex items-center gap-3 px-3 py-3 rounded-xl hover:bg-sand-50 text-left bg-transparent border-none cursor-pointer transition-colors"
+                >
+                  <span className="text-2xl">{d.flag}</span>
+                  <span className="flex-1">
+                    <span className="font-semibold text-ink-900 block leading-tight">{d.name}</span>
+                    <span className="text-xs text-slate-muted">
+                      {d.visaType} · {d.processingTime}
+                    </span>
+                  </span>
+                  <span className="text-sm font-semibold text-coral-500">{d.price}</span>
+                  <ChevronRight className="w-4 h-4 text-slate-faint" />
+                </button>
+              </li>
+            ))}
+            {suggestions.length === 0 && (
+              <li className="px-3 py-4 text-sm text-slate-muted">
+                We don’t list that one yet — message us and we’ll see what we can do.
+              </li>
+            )}
+          </ul>
+        </div>
+      )}
+    </div>
   )
 }
 
+function Hero() {
+  return (
+    <section className="relative pt-32 pb-20 md:pt-40 md:pb-28 overflow-hidden mesh-warm">
+      <HeroBlobs />
+      <div className="absolute inset-0 dot-grid opacity-50 pointer-events-none" />
+
+      <div className="relative z-10 container-app">
+        <div className="text-center max-w-3xl mx-auto">
+          <motion.span
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5 }}
+            className="pill bg-white border border-line text-ink-900"
+          >
+            <Sparkles className="w-3.5 h-3.5 text-coral-500" />
+            Trusted by 5,000+ Indian travelers · 98% approval rate
+          </motion.span>
+
+          <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.75rem] lg:text-[4.25rem] font-extrabold text-ink-900 mt-6 leading-[1.02]">
+            <TextReveal text="Your visa," as="span" />
+            <br />
+            <span className="inline-block">
+              <span className="relative inline-block">
+                <span className="relative z-10 italic">handled.</span>
+                <span className="absolute -bottom-1 left-0 right-0 h-3 bg-coral-100 -z-0 rounded-full" />
+              </span>
+            </span>
+          </h1>
+
+          <motion.p
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.4, duration: 0.5 }}
+            className="text-[1.05rem] md:text-lg text-slate-muted mt-6 max-w-xl mx-auto leading-relaxed"
+          >
+            Tell us where you’re going. Travlys preps the application,
+            books the appointment, and coaches the interview — so you
+            walk in confident and out approved.
+          </motion.p>
+
+          <motion.div
+            initial={{ opacity: 0, y: 15 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.5, duration: 0.5 }}
+            className="flex justify-center mt-9"
+          >
+            <HeroSearch />
+          </motion.div>
+
+          {/* Quick-pick chips */}
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.7 }}
+            className="mt-6 flex flex-wrap items-center justify-center gap-2"
+          >
+            <span className="text-xs text-slate-muted font-medium mr-1">Quick pick:</span>
+            {destinations.slice(0, 6).map((d) => (
+              <Link key={d.slug} to={`/visa/${d.slug}`} className="chip no-underline hover:border-coral-500 hover:text-coral-600 transition-colors">
+                <span aria-hidden>{d.flag}</span>
+                <span>{d.name}</span>
+              </Link>
+            ))}
+          </motion.div>
+        </div>
+
+        {/* Mini trust row */}
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.9 }}
+          className="mt-14 grid grid-cols-2 md:grid-cols-4 gap-3 max-w-4xl mx-auto"
+        >
+          {[
+            { icon: ShieldCheck, label: '98% approval', sub: '5,000+ visas filed' },
+            { icon: Clock3, label: '~3 days', sub: 'avg e-Visa turnaround' },
+            { icon: Headphones, label: 'WhatsApp', sub: 'support until decision' },
+            { icon: TrendingUp, label: 'Transparent', sub: 'fees from ₹1,999' },
+          ].map((t, i) => (
+            <div key={i} className="card p-4 flex items-center gap-3">
+              <div className="w-10 h-10 rounded-xl bg-coral-50 flex items-center justify-center shrink-0">
+                <t.icon className="w-5 h-5 text-coral-500" />
+              </div>
+              <div>
+                <p className="font-semibold text-ink-900 text-sm leading-tight">{t.label}</p>
+                <p className="text-xs text-slate-muted">{t.sub}</p>
+              </div>
+            </div>
+          ))}
+        </motion.div>
+      </div>
+    </section>
+  )
+}
+
+/* ─── COUNTRIES GRID ─────────────────────────────────────────────────────── */
+
+function CountriesGrid() {
+  const [region, setRegion] = useState('all')
+  const filtered = useMemo(() => {
+    if (region === 'all') return destinations
+    return destinations.filter((d) => d.region === region)
+  }, [region])
+
+  return (
+    <section id="destinations" className="py-24 bg-sand-50 border-t border-line">
+      <div className="container-app">
+        <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-10">
+          <AnimatedSection className="max-w-2xl">
+            <span className="pill bg-white border border-line text-ink-900">
+              <Globe2 className="w-3.5 h-3.5 text-coral-500" />
+              10 destinations · live pricing
+            </span>
+            <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+              Pick a country.
+              <br />
+              See the full picture.
+            </h2>
+            <p className="text-slate-muted mt-4 text-[1.02rem]">
+              Each country page lays out the route, documents, embassy fees and timeline — no hidden steps.
+            </p>
+          </AnimatedSection>
+
+          <div className="flex flex-wrap gap-2">
+            {regions.map((r) => (
+              <button
+                key={r.value}
+                onClick={() => setRegion(r.value)}
+                className={`px-4 py-2 rounded-full text-sm font-medium border transition-colors ${
+                  region === r.value
+                    ? 'bg-ink-900 border-ink-900 text-white'
+                    : 'bg-white border-line text-slate-text hover:border-ink-700'
+                }`}
+              >
+                {r.name}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <StaggerContainer
+          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5"
+          stagger={0.05}
+        >
+          {filtered.map((d) => (
+            <StaggerItem key={d.slug}>
+              <CountryCard dest={d} />
+            </StaggerItem>
+          ))}
+        </StaggerContainer>
+
+        {filtered.length === 0 && (
+          <p className="text-center text-slate-muted py-8">
+            We don’t list that region yet — message us, we’ll see what we can do.
+          </p>
+        )}
+      </div>
+    </section>
+  )
+}
+
+function CountryCard({ dest }) {
+  return (
+    <Link to={`/visa/${dest.slug}`} className="country-card card overflow-hidden no-underline block group">
+      <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
+        <img
+          src={dest.image}
+          alt={`${dest.name} visa for Indian travelers`}
+          loading="lazy"
+          className="country-card-img w-full h-full object-cover"
+        />
+        <span className="absolute top-3 left-3 pill bg-white/95 text-ink-900 shadow-sm">
+          <span aria-hidden className="text-base leading-none">{dest.flag}</span>
+          {dest.visaType}
+        </span>
+        <span className="absolute top-3 right-3 pill bg-ink-900/85 text-white backdrop-blur">
+          <Clock3 className="w-3 h-3" /> {dest.processingTimeShort}
+        </span>
+      </div>
+      <div className="p-5">
+        <div className="flex items-center justify-between gap-2">
+          <h3 className="font-display text-xl font-bold text-ink-900 leading-tight">
+            {dest.name}
+          </h3>
+          <ArrowUpRight className="w-5 h-5 text-slate-faint group-hover:text-coral-500 transition-colors" />
+        </div>
+        <p className="text-sm text-slate-muted mt-1 line-clamp-1">{dest.tagline}</p>
+
+        <div className="mt-4 flex items-end justify-between gap-3">
+          <div>
+            <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold">Travlys fee</p>
+            <p className="font-display text-2xl font-extrabold text-ink-900">
+              {dest.price}
+            </p>
+          </div>
+          <span className="pill bg-coral-50 text-coral-600 font-semibold">
+            View details
+          </span>
+        </div>
+      </div>
+    </Link>
+  )
+}
+
+/* ─── HOW IT WORKS ──────────────────────────────────────────────────────── */
+
+function HowItWorks() {
+  const steps = [
+    { num: '01', title: 'Tell us where', desc: 'Pick a destination and share a quick brief — purpose, dates, who’s travelling.', icon: Map },
+    { num: '02', title: 'Get the route', desc: 'Within a working day, you get the right visa stream, document list, fees and a realistic timeline.', icon: FileCheck2 },
+    { num: '03', title: 'We prep, you sign', desc: 'We draft the application, sponsor letter and cover note. You review, e-sign, pay only after.', icon: Sparkles },
+    { num: '04', title: 'Book, file, track', desc: 'We lock the earliest appointment, file the visa, prep you for the interview, and track until decision.', icon: ShieldCheck },
+  ]
+  return (
+    <section id="how-it-works" className="py-24 bg-white border-t border-line">
+      <div className="container-app">
+        <AnimatedSection className="max-w-2xl mb-12">
+          <span className="pill bg-coral-50 text-coral-600">
+            <Plane className="w-3.5 h-3.5" /> How it works
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            Four steps from brief to boarding pass.
+          </h2>
+          <p className="text-slate-muted mt-4 text-[1.02rem]">
+            One brief, one specialist, one chat thread until your visa is in hand.
+          </p>
+        </AnimatedSection>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
+          {steps.map((s, i) => (
+            <AnimatedSection key={s.num} delay={i * 0.08}>
+              <div className="card p-7 h-full relative overflow-hidden">
+                <div className="absolute -top-6 -right-6 w-32 h-32 rounded-full bg-coral-50 opacity-50" />
+                <div className="relative">
+                  <p className="font-display text-5xl font-extrabold text-coral-500/30 leading-none">{s.num}</p>
+                  <div className="w-11 h-11 rounded-xl bg-ink-900 text-white flex items-center justify-center mt-4">
+                    <s.icon className="w-5 h-5" />
+                  </div>
+                  <h3 className="font-display text-xl font-bold text-ink-900 mt-5">{s.title}</h3>
+                  <p className="text-sm text-slate-muted mt-2 leading-relaxed">{s.desc}</p>
+                </div>
+              </div>
+            </AnimatedSection>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
+/* ─── TRUST + STATS BANNER ─────────────────────────────────────────────── */
+
+function StatsBanner() {
+  const stats = [
+    { value: 5000, suffix: '+', label: 'Visas processed', icon: FileCheck2 },
+    { value: 98, suffix: '%', label: 'Approval rate', icon: ShieldCheck },
+    { value: 10, suffix: '+', label: 'Countries handled', icon: Globe2 },
+    { value: 24, suffix: 'h', label: 'Avg first response', icon: Clock3 },
+  ]
+  return (
+    <section className="py-20 mesh-deep text-white relative overflow-hidden">
+      <div className="absolute inset-0 dot-grid-light opacity-40 pointer-events-none" />
+      <div className="relative z-10 container-app">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+          {stats.map((s, i) => (
+            <AnimatedSection key={i} delay={i * 0.08}>
+              <div className="text-center">
+                <div className="inline-flex w-12 h-12 rounded-xl bg-white/10 border border-white/15 items-center justify-center mb-3">
+                  <s.icon className="w-5 h-5 text-coral-400" />
+                </div>
+                <p className="font-display text-4xl md:text-5xl font-extrabold text-white">
+                  <AnimatedCounter value={s.value} suffix={s.suffix} />
+                </p>
+                <p className="text-sm text-white/65 mt-1">{s.label}</p>
+              </div>
+            </AnimatedSection>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
+/* ─── PRICING TABLE ────────────────────────────────────────────────────── */
+
+function PricingTable() {
+  return (
+    <section id="pricing" className="py-24 bg-sand-50 border-t border-line">
+      <div className="container-app">
+        <AnimatedSection className="max-w-2xl mx-auto text-center mb-14">
+          <span className="pill bg-coral-50 text-coral-600">
+            <TrendingUp className="w-3.5 h-3.5" /> Transparent pricing
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            One fee. No surprises.
+          </h2>
+          <p className="text-slate-muted mt-4 text-[1.02rem]">
+            Travlys fees below are flat — no per-document charges, no “urgency surcharges”. Embassy / VFS fees are paid directly to the authorities.
+          </p>
+        </AnimatedSection>
+
+        <AnimatedSection delay={0.1}>
+          <div className="card overflow-hidden">
+            <div className="overflow-x-auto">
+              <table className="w-full text-left border-collapse">
+                <thead className="bg-ink-950 text-white">
+                  <tr className="text-left">
+                    <th className="py-4 px-5 font-semibold text-sm">Country</th>
+                    <th className="py-4 px-5 font-semibold text-sm">Visa type</th>
+                    <th className="py-4 px-5 font-semibold text-sm">Processing</th>
+                    <th className="py-4 px-5 font-semibold text-sm">Travlys fee</th>
+                    <th className="py-4 px-5 font-semibold text-sm hidden md:table-cell">Stay</th>
+                    <th className="py-4 px-5 font-semibold text-sm"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {destinations.map((d, i) => (
+                    <tr
+                      key={d.slug}
+                      className={`border-b border-line last:border-0 transition-colors hover:bg-sand-50 ${
+                        i % 2 === 1 ? 'bg-sand-50/50' : ''
+                      }`}
+                    >
+                      <td className="py-4 px-5">
+                        <div className="flex items-center gap-3">
+                          <span className="text-xl" aria-hidden>{d.flag}</span>
+                          <span className="font-semibold text-ink-900">{d.name}</span>
+                        </div>
+                      </td>
+                      <td className="py-4 px-5">
+                        <span className="pill bg-sand-100 text-slate-text">{d.visaType}</span>
+                      </td>
+                      <td className="py-4 px-5 text-sm text-slate-text">{d.processingTime}</td>
+                      <td className="py-4 px-5 font-display font-bold text-ink-900">{d.price}</td>
+                      <td className="py-4 px-5 text-sm text-slate-muted hidden md:table-cell">
+                        {d.stayDuration}
+                      </td>
+                      <td className="py-4 px-5 text-right">
+                        <Link
+                          to={`/visa/${d.slug}`}
+                          className="btn btn-ghost py-2 px-4 text-xs"
+                        >
+                          Details <ArrowUpRight className="w-3.5 h-3.5" />
+                        </Link>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </AnimatedSection>
+
+        <p className="text-center text-xs text-slate-muted mt-6">
+          Government / embassy fees, biometrics charges and insurance are paid separately. Final quote shared after the brief.
+        </p>
+      </div>
+    </section>
+  )
+}
+
+/* ─── WHY TRAVLYS ──────────────────────────────────────────────────────── */
+
+function WhyTravlys() {
+  const features = [
+    { icon: Sparkles, title: 'Profile-tuned drafting', desc: 'Cover letters, SOPs and sponsor letters written for your specific profile — not stock templates.' },
+    { icon: Calendar, title: 'Real appointment booking', desc: 'We grab the earliest available VFS / embassy slots so your travel dates don’t get held hostage.' },
+    { icon: Users, title: 'Mock interviews', desc: 'Two live practice rounds for US, UK and Schengen interviews. Real questions, hard feedback.' },
+    { icon: ShieldCheck, title: 'Refusal-risk pre-check', desc: 'If your file is borderline, we flag it before you spend on embassy fees. No surprises.' },
+    { icon: Headphones, title: 'One thread, real humans', desc: 'WhatsApp chat with the same specialist from brief to decision. No ticketing carousel.' },
+    { icon: Plane, title: 'Beyond the visa', desc: 'Holiday packages, flights and stays available once the visa lands. One trip, one team.' },
+  ]
+  return (
+    <section className="py-24 bg-white border-t border-line">
+      <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-12">
+        <div className="lg:col-span-5 lg:sticky lg:top-28 lg:self-start">
+          <span className="pill bg-coral-50 text-coral-600">
+            <ShieldCheck className="w-3.5 h-3.5" /> Why Travlys
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            Built like the visa actually matters.
+          </h2>
+          <p className="text-slate-muted mt-4 text-[1.02rem]">
+            Most travelers don’t need a 200-question form — they need someone who has done the route 500 times and can spot the trap before it sets. That’s the job.
+          </p>
+
+          <div className="mt-7 flex flex-wrap gap-3">
+            <a href="https://wa.me/918200918967" className="btn btn-coral">
+              <MessageCircle className="w-4 h-4" /> Chat with a specialist
+            </a>
+            <Link to="/visa/usa-visa" className="btn btn-ghost">
+              See a sample country plan <ArrowUpRight className="w-4 h-4" />
+            </Link>
+          </div>
+        </div>
+
+        <div className="lg:col-span-7 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {features.map((f, i) => (
+            <AnimatedSection key={i} delay={i * 0.06}>
+              <div className="card p-6 h-full">
+                <div className="w-11 h-11 rounded-xl bg-ink-900 text-white flex items-center justify-center">
+                  <f.icon className="w-5 h-5" />
+                </div>
+                <h3 className="font-display text-lg font-bold text-ink-900 mt-4">{f.title}</h3>
+                <p className="text-sm text-slate-muted mt-2 leading-relaxed">{f.desc}</p>
+              </div>
+            </AnimatedSection>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
+/* ─── COUNTRY MARQUEE ─────────────────────────────────────────────────── */
+
+function MarqueeBar() {
+  return (
+    <section className="py-8 bg-ink-900 text-white overflow-hidden border-y border-white/10">
+      <div className="ticker-mask">
+        <div className="flex animate-marquee whitespace-nowrap">
+          {[...globalCountries, ...globalCountries].map((c, i) => (
+            <span key={i} className="inline-flex items-center gap-3 mx-7 font-display text-2xl md:text-3xl font-bold text-white/30">
+              <span className="w-1.5 h-1.5 rounded-full bg-coral-500" />
+              {c}
+            </span>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
+/* ─── CTA + REVIEWS + FAQ ─────────────────────────────────────────────── */
+
+function CtaBanner() {
+  return (
+    <section className="py-20 bg-sand-50 border-t border-line">
+      <div className="container-app">
+        <AnimatedSection>
+          <div className="card mesh-warm p-10 md:p-14 text-center md:text-left md:flex md:items-center md:justify-between gap-10 border-2 border-ink-900/5">
+            <div>
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900 leading-tight">
+                Ready to start your visa?
+              </h2>
+              <p className="text-slate-muted mt-3 max-w-xl">
+                Brief us in a minute. We come back within a working day with a route, timeline and quote — free, no obligation.
+              </p>
+            </div>
+            <div className="flex flex-col sm:flex-row gap-3 mt-6 md:mt-0 shrink-0">
+              <a href="https://wa.me/918200918967?text=Hi%20Travlys%2C%20I%20want%20visa%20help." className="btn btn-coral">
+                <MessageCircle className="w-4 h-4" /> WhatsApp now
+              </a>
+              <button
+                onClick={() => document.getElementById('inquiry')?.scrollIntoView({ behavior: 'smooth' })}
+                className="btn btn-primary"
+              >
+                Start application <ArrowRight className="w-4 h-4" />
+              </button>
+            </div>
+          </div>
+        </AnimatedSection>
+      </div>
+    </section>
+  )
+}
+
+function FaqSection() {
+  return (
+    <section id="faq" className="py-24 bg-white border-t border-line">
+      <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-12">
+        <div className="lg:col-span-4">
+          <span className="pill bg-coral-50 text-coral-600">
+            <Search className="w-3.5 h-3.5" /> FAQ
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            Questions, answered.
+          </h2>
+          <p className="text-slate-muted mt-4">
+            Still stuck? <a href="https://wa.me/918200918967" className="text-coral-500 font-medium">WhatsApp us</a> — most queries answered in under 15 minutes during working hours.
+          </p>
+        </div>
+
+        <div className="lg:col-span-8 space-y-3">
+          {HOME_FAQS.map((f, i) => (
+            <AnimatedSection key={i} delay={i * 0.04}>
+              <details className="faq card p-6 group">
+                <summary className="flex items-start justify-between gap-4">
+                  <h3 className="font-display text-lg font-bold text-ink-900 m-0 leading-snug">
+                    {f.q}
+                  </h3>
+                  <span className="faq-chev w-8 h-8 rounded-full bg-sand-100 flex items-center justify-center shrink-0">
+                    <Plus className="w-4 h-4 text-ink-900" />
+                  </span>
+                </summary>
+                <p className="text-slate-muted mt-4 text-[0.97rem] leading-relaxed">{f.a}</p>
+              </details>
+            </AnimatedSection>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
+function InquirySection() {
+  return (
+    <section id="inquiry" className="py-24 mesh-warm border-t border-line">
+      <div className="container-app">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+          <div className="lg:col-span-5 lg:sticky lg:top-28 lg:self-start">
+            <span className="pill bg-white border border-line text-ink-900">
+              <Sparkles className="w-3.5 h-3.5 text-coral-500" /> Free consultation
+            </span>
+            <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+              Tell us about your trip.
+            </h2>
+            <p className="text-slate-muted mt-4 text-[1.02rem]">
+              60 seconds to fill, one working day to get a route, document list, timeline and final quote.
+            </p>
+
+            <ul className="mt-7 space-y-3">
+              {[
+                'A real visa specialist reads your brief — not a bot.',
+                'Realistic timelines, no “overnight” promises.',
+                'You pay after we send a quote you’re happy with.',
+              ].map((line) => (
+                <li key={line} className="flex items-start gap-3 text-slate-text text-sm">
+                  <CheckCircle2 className="w-5 h-5 text-mint-500 shrink-0 mt-0.5" />
+                  <span>{line}</span>
+                </li>
+              ))}
+            </ul>
+
+            <div className="hidden lg:flex items-center gap-4 mt-8 text-sm">
+              <div className="flex -space-x-2">
+                {[1, 2, 3].map((i) => (
+                  <span
+                    key={i}
+                    className="w-9 h-9 rounded-full border-2 border-white bg-gradient-to-br from-coral-400 to-ink-900 flex items-center justify-center text-white font-semibold text-xs"
+                  >
+                    {['A', 'R', 'S'][i - 1]}
+                  </span>
+                ))}
+              </div>
+              <p className="text-slate-text font-medium">3 specialists online now</p>
+            </div>
+          </div>
+
+          <div className="lg:col-span-7">
+            <InquiryForm />
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}
+
+/* ─── PAGE ────────────────────────────────────────────────────────────── */
+
 export default function HomePage() {
-  const [scrollY, setScrollY] = useState(0)
-  const heroRef = useRef(null)
-  const { scrollYProgress } = useScroll()
-  const heroTextY = useTransform(scrollYProgress, [0, 0.2], [0, 150])
-  const heroOpacity = useTransform(scrollYProgress, [0, 0.15], [1, 0])
-  const heroImgScale = useTransform(scrollYProgress, [0, 0.3], [1, 1.3])
-
-  useEffect(() => {
-    const handleScroll = () => setScrollY(window.scrollY)
-    window.addEventListener('scroll', handleScroll, { passive: true })
-    return () => window.removeEventListener('scroll', handleScroll)
-  }, [])
-
-  const featuredDests = destinations.slice(0, 4)
-  const gridDests = destinations.slice(4)
-
   const homeMeta = getHomeMeta()
   const homeSchemas = buildHomeSchemas(destinations, reviews)
 
@@ -104,392 +679,17 @@ export default function HomePage() {
     <>
       <SEO {...homeMeta} jsonLd={homeSchemas} />
 
-      {/* ===== HERO — Cinematic fullscreen ===== */}
-      <section ref={heroRef} className="relative h-screen flex items-center justify-center text-white overflow-hidden">
-        <motion.div className="absolute inset-0" style={{ scale: heroImgScale }}>
-          <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop&q=80"
-            alt="Aerial view of a global travel destination — Travlys visa assistance for Indian travelers"
-            fetchPriority="high"
-            className="w-full h-full object-cover" />
-        </motion.div>
-        <div className="absolute inset-0 bg-navy-900/50" />
-        <GradientOrbs />
-
-        <motion.div style={{ y: heroTextY, opacity: heroOpacity }}
-          className="relative z-10 w-full max-w-5xl mx-auto px-4 text-center flex flex-col items-center">
-
-          <motion.div initial={{ scaleX: 0 }} animate={{ scaleX: 1 }} transition={{ duration: 1.5, delay: 0.3 }}
-            className="w-20 h-[1px] bg-gold-500/60 mb-10 origin-center" />
-
-          <motion.p initial={{ opacity: 0, letterSpacing: '0em' }}
-            animate={{ opacity: 1, letterSpacing: '0.4em' }}
-            transition={{ duration: 1.5, delay: 0.5 }}
-            className="text-gold-400/80 text-[11px] uppercase font-medium mb-8"
-            style={{ fontFamily: 'var(--font-family-accent)' }}>
-            Premium Visa Services
-          </motion.p>
-
-          <div className="overflow-hidden mb-2">
-            <motion.h1 initial={{ y: '100%' }} animate={{ y: 0 }}
-              transition={{ duration: 1.2, delay: 0.7, ease: [0.16, 1, 0.3, 1] }}
-              className="font-heading text-6xl md:text-8xl lg:text-9xl font-light tracking-[-0.02em]">
-              Visa Assistance
-            </motion.h1>
-          </div>
-          <div className="overflow-hidden mb-10">
-            <motion.h1 initial={{ y: '100%' }} animate={{ y: 0 }}
-              transition={{ duration: 1.2, delay: 0.9, ease: [0.16, 1, 0.3, 1] }}
-              className="font-heading text-6xl md:text-8xl lg:text-9xl font-light italic text-gradient-gold tracking-[-0.02em]">
-              Made Easy
-            </motion.h1>
-          </div>
-
-          <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, delay: 1.4 }}
-            className="text-body-on-dark text-sm max-w-lg mx-auto leading-relaxed mb-14">
-            Professional visa assistance for travelers across the globe. From documentation to submission, we ensure a seamless experience.
-          </motion.p>
-
-          <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 1.6 }}
-            className="flex gap-5">
-            <MagneticButton
-              onClick={() => document.getElementById('featured')?.scrollIntoView({ behavior: 'smooth' })}
-              className="group px-10 py-4 border border-white/20 text-white/80 bg-white/5 backdrop-blur-sm rounded-full text-sm tracking-wide font-medium hover:bg-gold-500 hover:text-navy-900 hover:border-gold-500 transition-all duration-500 flex items-center gap-3 cursor-pointer">
-              Explore <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-            </MagneticButton>
-            <MagneticButton href="https://wa.me/918200918967"
-              className="px-10 py-4 bg-gold-500 text-navy-900 rounded-full text-sm tracking-wide font-semibold hover:bg-gold-400 no-underline transition-all duration-500 shadow-2xl shadow-gold-500/20">
-              Get Assistance
-            </MagneticButton>
-          </motion.div>
-        </motion.div>
-
-        {/* Bottom scroll line */}
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 2.5 }}
-          className="absolute bottom-0 left-1/2 -translate-x-1/2 flex flex-col items-center">
-          <motion.div animate={{ height: ['0px', '60px', '0px'] }}
-            transition={{ duration: 2.5, repeat: Infinity, ease: 'easeInOut' }}
-            className="w-[1px] bg-gold-500/50" />
-        </motion.div>
-      </section>
-
-      {/* ===== STATS — Minimal editorial ===== */}
-      <section className="py-20 bg-cream-50 border-b border-cream-200/50">
-        <div className="max-w-6xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-0 divide-x divide-cream-200/50">
-          {[
-            { value: 10, suffix: '+', label: 'Countries' },
-            { value: 5000, suffix: '+', label: 'Visas Done' },
-            { value: 98, suffix: '%', label: 'Success' },
-            { value: 24, suffix: '/7', label: 'Support' },
-          ].map((stat, i) => (
-            <AnimatedSection key={i} delay={i * 0.15} className="text-center py-4">
-              <p className="font-heading text-5xl md:text-6xl font-light text-navy-900 italic mb-1">
-                <AnimatedCounter value={stat.value} suffix={stat.suffix} />
-              </p>
-              <p className="text-body-light text-[10px] uppercase tracking-[0.3em]" style={{ fontFamily: 'var(--font-family-accent)' }}>
-                {stat.label}
-              </p>
-            </AnimatedSection>
-          ))}
-        </div>
-      </section>
-
-      {/* ===== FEATURED DESTINATIONS — Editorial split layout ===== */}
-      <section id="featured" className="bg-cream-50">
-        <div className="max-w-[1600px] mx-auto">
-          <div className="text-center py-24 px-4">
-            <AnimatedSection>
-              <p className="text-gold-500 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>
-                Featured Destinations
-              </p>
-            </AnimatedSection>
-            <TextReveal text="Where Will You Go?" className="font-heading text-5xl md:text-6xl lg:text-7xl font-light text-navy-900 italic" />
-          </div>
-
-          {featuredDests.map((dest, i) => (
-            <FeaturedDestination key={dest.slug} dest={dest} index={i} reversed={i % 2 !== 0} />
-          ))}
-        </div>
-      </section>
-
-      {/* ===== MORE DESTINATIONS — Compact grid ===== */}
-      <section className="py-24 bg-white px-4">
-        <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-16">
-            <AnimatedSection>
-              <p className="text-gold-500 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>
-                More Destinations
-              </p>
-            </AnimatedSection>
-            <TextReveal text="Explore Further" className="font-heading text-4xl md:text-5xl font-light text-navy-900 italic" />
-            <div className="gold-divider mt-6" />
-          </div>
-
-          <StaggerContainer className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4" stagger={0.05}>
-            {gridDests.map((d) => (
-              <StaggerItem key={d.slug} variant="scaleIn">
-                <Link to={`/visa/${d.slug}`} className="group block rounded-2xl overflow-hidden no-underline relative aspect-[3/4] card-shine">
-                  <img src={d.image} alt={d.name} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" loading="lazy" />
-                  <div className="absolute inset-0 bg-gradient-to-t from-navy-900/90 via-navy-900/20 to-transparent" />
-                  <div className="absolute bottom-0 left-0 right-0 p-4">
-                    <h3 className="text-white font-heading text-lg font-light italic">{d.name}</h3>
-                    <p className="text-body-on-dark text-[10px] uppercase tracking-wider mt-1" style={{ fontFamily: 'var(--font-family-accent)' }}>
-                      {d.processingTime}
-                    </p>
-                  </div>
-                  <div className="absolute top-3 right-3 w-8 h-8 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-500 group-hover:scale-100 scale-50">
-                    <ArrowUpRight className="w-3.5 h-3.5 text-white" />
-                  </div>
-                </Link>
-              </StaggerItem>
-            ))}
-          </StaggerContainer>
-        </div>
-      </section>
-
-      {/* ===== VISA TYPES — Dark cinematic ===== */}
-      <section id="visa-types" className="relative py-32 bg-navy-900 overflow-hidden">
-        <TwinklingStars count={35} />
-        <MorphingWave />
-        <AnimatedGlobe className="absolute -right-32 -top-20 w-[600px] h-[600px] text-gold-500 hidden lg:block" />
-
-        <div className="relative z-10 max-w-6xl mx-auto px-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
-            {/* Left - heading */}
-            <div>
-              <AnimatedSection>
-                <p className="text-gold-500/80 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>
-                  Our Expertise
-                </p>
-              </AnimatedSection>
-              <TextReveal text="Understanding Visa Types" className="font-heading text-4xl md:text-5xl lg:text-6xl font-light text-white italic leading-[1.1]" />
-              <motion.div initial={{ scaleX: 0 }} whileInView={{ scaleX: 1 }} viewport={{ once: true }}
-                transition={{ duration: 1, delay: 0.5 }}
-                className="w-16 h-[1px] bg-gold-500/40 mt-8 origin-left" />
-            </div>
-
-            {/* Right - cards */}
-            <StaggerContainer className="space-y-6" stagger={0.15}>
-              {[
-                { icon: Globe, title: 'Tourist Visa', desc: 'Leisure activities, sightseeing, vacations, visiting friends and family. Complete application support for accuracy and timely submission.' },
-                { icon: Briefcase, title: 'Business Visa', desc: 'Professional engagements — meetings, conferences, exhibitions, trade activities. Full documentation and procedural support.' },
-                { icon: Users, title: 'Employment Visa', desc: 'Legal work authorization abroad. Eligibility checks, employer documentation, and application filing guidance.' },
-              ].map(({ icon: Icon, title, desc }) => (
-                <StaggerItem key={title}>
-                  <div className="group flex gap-6 p-6 rounded-2xl border border-white/5 hover:border-gold-500/20 hover:bg-white/5 transition-all duration-700">
-                    <div className="w-12 h-12 bg-gold-500/10 border border-gold-500/15 rounded-xl flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform duration-500">
-                      <Icon className="w-5 h-5 text-gold-500" />
-                    </div>
-                    <div>
-                      <h3 className="font-heading text-xl font-light text-white italic mb-2">{title}</h3>
-                      <p className="text-body-on-dark text-sm leading-[1.8]">{desc}</p>
-                    </div>
-                  </div>
-                </StaggerItem>
-              ))}
-            </StaggerContainer>
-          </div>
-        </div>
-      </section>
-
-      {/* ===== PROCESS — Bold numbered ===== */}
-      <section id="process" className="py-32 bg-cream-50 overflow-hidden">
-        <div className="max-w-6xl mx-auto px-4">
-          <div className="text-center mb-24">
-            <AnimatedSection>
-              <p className="text-gold-500 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>The Process</p>
-            </AnimatedSection>
-            <TextReveal text="Six Simple Steps" className="font-heading text-5xl md:text-6xl lg:text-7xl font-light text-navy-900 italic" />
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-12 gap-y-16">
-            {[
-              { title: 'Consultation', desc: 'Assess your travel purpose, background, and visa eligibility.' },
-              { title: 'Documents', desc: 'Comprehensive checklist of required documents tailored to your visa.' },
-              { title: 'Preparation', desc: 'Our experts prepare and verify your complete application.' },
-              { title: 'Submission', desc: 'Appointment scheduling and application submission support.' },
-              { title: 'Tracking', desc: 'Real-time status updates on your application progress.' },
-              { title: 'Outcome', desc: 'Final passport and visa outcome communication.' },
-            ].map((step, i) => (
-              <AnimatedSection key={i} delay={i * 0.1}>
-                <div className="group">
-                  <span className="font-heading text-7xl md:text-8xl font-light text-gold-500/15 italic leading-none block mb-4 group-hover:text-gold-500/30 transition-colors duration-700">
-                    0{i + 1}
-                  </span>
-                  <h3 className="font-heading text-2xl font-light text-navy-900 italic mb-3">{step.title}</h3>
-                  <p className="text-body-light text-sm leading-[1.9]">{step.desc}</p>
-                </div>
-              </AnimatedSection>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ===== MARQUEE ===== */}
-      <section className="py-8 bg-navy-900 overflow-hidden border-y border-white/5">
-        <div className="flex animate-marquee whitespace-nowrap">
-          {[...globalCountries, ...globalCountries].map((country, i) => (
-            <span key={i} className="inline-flex items-center gap-3 mx-8 text-white/15 font-heading text-2xl md:text-3xl italic">
-              <span className="w-1.5 h-1.5 rounded-full bg-gold-500/30" />
-              {country}
-            </span>
-          ))}
-        </div>
-      </section>
-
-      {/* ===== CTA — Full bleed ===== */}
-      <section className="relative py-40 overflow-hidden">
-        <div className="absolute inset-0">
-          <img src="https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=1920&h=800&fit=crop&q=80"
-            alt="Passenger looking out an aircraft window — start your travel journey with Travlys"
-            loading="lazy"
-            className="w-full h-full object-cover" />
-        </div>
-        <div className="absolute inset-0 bg-navy-900/80" />
-        <TwinklingStars count={15} />
-
-        <div className="relative z-10 max-w-3xl mx-auto px-4 text-center">
-          <AnimatedSection>
-            <p className="text-gold-500/80 text-[10px] uppercase tracking-[0.4em] font-medium mb-8" style={{ fontFamily: 'var(--font-family-accent)' }}>
-              Start Your Journey
-            </p>
-          </AnimatedSection>
-          <TextReveal text="Ready to Travel?" className="font-heading text-5xl md:text-7xl lg:text-8xl font-light text-white italic" />
-          <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }}
-            transition={{ delay: 0.5 }}
-            className="text-body-on-dark mt-8 mb-14 text-sm leading-relaxed max-w-md mx-auto">
-            Let our specialists handle the visa complexities while you focus on your journey.
-          </motion.p>
-          <AnimatedSection delay={0.6}>
-            <div className="flex flex-col sm:flex-row gap-5 justify-center">
-              <MagneticButton href="https://wa.me/918200918967"
-                className="group px-10 py-4 border border-white/15 text-white/70 bg-white/5 backdrop-blur-sm rounded-full text-sm tracking-wide font-medium hover:bg-gold-500 hover:text-navy-900 hover:border-gold-500 transition-all duration-500 no-underline flex items-center gap-3">
-                Speak With an Expert <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-              </MagneticButton>
-              <MagneticButton
-                onClick={() => document.getElementById('featured')?.scrollIntoView({ behavior: 'smooth' })}
-                className="px-10 py-4 bg-gold-500 text-navy-900 rounded-full text-sm tracking-wide font-semibold hover:bg-gold-400 transition-all duration-500 cursor-pointer border-none shadow-2xl shadow-gold-500/20">
-                Apply for Visa
-              </MagneticButton>
-            </div>
-          </AnimatedSection>
-        </div>
-      </section>
-
-      {/* ===== SERVICES — Minimal ===== */}
-      <section className="py-32 bg-white">
-        <div className="max-w-6xl mx-auto px-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-start">
-            <div className="lg:sticky lg:top-32">
-              <AnimatedSection>
-                <p className="text-gold-500 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>Beyond Visas</p>
-              </AnimatedSection>
-              <TextReveal text="More Services" className="font-heading text-5xl md:text-6xl font-light text-navy-900 italic" />
-              <motion.div initial={{ scaleX: 0 }} whileInView={{ scaleX: 1 }} viewport={{ once: true }}
-                transition={{ duration: 1, delay: 0.5 }}
-                className="w-16 h-[1px] bg-gold-500/40 mt-8 origin-left" />
-            </div>
-
-            <StaggerContainer className="space-y-0 divide-y divide-cream-200/50" stagger={0.1}>
-              {[
-                { icon: Plane, title: 'Holiday Packages', desc: 'Domestic and international travel packages designed to suit your preferences' },
-                { icon: Building, title: 'Flight Bookings', desc: 'Assistance with domestic and international air ticket bookings' },
-                { icon: MapPin, title: 'Hotel & Accommodation', desc: 'Booking support for hotels, resorts, and vacation stays at competitive prices' },
-              ].map(({ icon: Icon, title, desc }) => (
-                <StaggerItem key={title}>
-                  <div className="group flex items-start gap-6 py-10 cursor-pointer">
-                    <div className="w-12 h-12 bg-cream-50 border border-cream-200/50 rounded-xl flex items-center justify-center shrink-0 group-hover:bg-gold-500/10 group-hover:border-gold-500/20 transition-all duration-700">
-                      <Icon className="w-5 h-5 text-body-light group-hover:text-gold-500 transition-colors duration-500" />
-                    </div>
-                    <div className="flex-1">
-                      <h3 className="font-heading text-2xl font-light text-navy-900 italic mb-2 group-hover:text-gold-500 transition-colors duration-500">{title}</h3>
-                      <p className="text-body-light text-sm leading-[1.9]">{desc}</p>
-                    </div>
-                    <ArrowUpRight className="w-5 h-5 text-navy-700/15 group-hover:text-gold-500 transition-all duration-500 mt-2 group-hover:translate-x-1 group-hover:-translate-y-1" />
-                  </div>
-                </StaggerItem>
-              ))}
-            </StaggerContainer>
-          </div>
-        </div>
-      </section>
-
-      {/* ===== REVIEWS (auto-hides when no reviews) ===== */}
+      <Hero />
+      <CountriesGrid />
+      <HowItWorks />
+      <StatsBanner />
+      <PricingTable />
+      <WhyTravlys />
+      <MarqueeBar />
       <Reviews />
-
-      {/* ===== INQUIRY — Lead capture ===== */}
-      <section id="inquiry" className="py-32 bg-cream-50 border-t border-cream-200/50">
-        <div className="max-w-4xl mx-auto px-4">
-          <div className="text-center mb-12">
-            <AnimatedSection>
-              <p className="text-gold-500 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>
-                Free Consultation
-              </p>
-            </AnimatedSection>
-            <TextReveal text="Tell Us About Your Trip" className="font-heading text-4xl md:text-5xl lg:text-6xl font-light text-navy-900 italic" />
-            <motion.p
-              initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }}
-              transition={{ delay: 0.4 }}
-              className="text-body text-sm mt-6 max-w-xl mx-auto leading-relaxed"
-            >
-              Share a few details and a Travlys visa specialist will get back to you within one business day.
-            </motion.p>
-          </div>
-          <AnimatedSection delay={0.2}>
-            <InquiryForm />
-          </AnimatedSection>
-        </div>
-      </section>
-
-      {/* ===== CONTACT — Split ===== */}
-      <section id="contact" className="relative bg-navy-900 overflow-hidden">
-        <TwinklingStars count={20} />
-        <MorphingWave />
-
-        <div className="relative z-10 grid grid-cols-1 lg:grid-cols-2 min-h-[80vh]">
-          {/* Left */}
-          <div className="flex flex-col justify-center p-8 lg:p-16 xl:p-24">
-            <AnimatedSection>
-              <p className="text-gold-500/40 text-[10px] uppercase tracking-[0.4em] font-medium mb-6" style={{ fontFamily: 'var(--font-family-accent)' }}>Contact</p>
-            </AnimatedSection>
-            <TextReveal text="Get in Touch" className="font-heading text-5xl md:text-6xl font-light text-white italic" />
-            <motion.div initial={{ scaleX: 0 }} whileInView={{ scaleX: 1 }} viewport={{ once: true }}
-              transition={{ duration: 1, delay: 0.5 }}
-              className="w-16 h-[1px] bg-gold-500/30 mt-8 mb-12 origin-left" />
-
-            <div className="space-y-6">
-              <a href="tel:+918200918967" className="flex items-center gap-4 text-cream-200/40 hover:text-gold-400 no-underline transition-all duration-500 group">
-                <div className="w-12 h-12 rounded-xl border border-white/5 flex items-center justify-center group-hover:border-gold-500/20 group-hover:bg-gold-500/5 transition-all duration-500">
-                  <Phone className="w-5 h-5 text-gold-500/80 group-hover:text-gold-500" />
-                </div>
-                <span className="text-sm" style={{ fontFamily: 'var(--font-family-accent)' }}>8200918967</span>
-              </a>
-              <a href="mailto:info@travlys.com" className="flex items-center gap-4 text-cream-200/40 hover:text-gold-400 no-underline transition-all duration-500 group">
-                <div className="w-12 h-12 rounded-xl border border-white/5 flex items-center justify-center group-hover:border-gold-500/20 group-hover:bg-gold-500/5 transition-all duration-500">
-                  <Mail className="w-5 h-5 text-gold-500/80 group-hover:text-gold-500" />
-                </div>
-                <span className="text-sm" style={{ fontFamily: 'var(--font-family-accent)' }}>info@travlys.com</span>
-              </a>
-            </div>
-          </div>
-
-          {/* Right */}
-          <div className="flex flex-col justify-center items-center p-8 lg:p-16 border-t lg:border-t-0 lg:border-l border-white/5">
-            <AnimatedSection variant="scaleIn" className="w-full max-w-sm">
-              <div className="space-y-4">
-                <MagneticButton href="https://wa.me/918200918967"
-                  className="w-full flex items-center justify-center gap-3 px-8 py-5 bg-gold-500 text-navy-900 rounded-2xl font-semibold hover:bg-gold-400 no-underline transition-all duration-500 shadow-2xl shadow-gold-500/10 text-sm tracking-wide">
-                  <MessageCircle className="w-5 h-5" /> WhatsApp
-                </MagneticButton>
-                <MagneticButton href="tel:+918200918967"
-                  className="w-full flex items-center justify-center gap-3 px-8 py-5 border border-white/10 text-body-on-dark rounded-2xl font-medium hover:bg-white/5 hover:text-gold-400 hover:border-gold-500/20 no-underline transition-all duration-500 text-sm tracking-wide">
-                  <Phone className="w-5 h-5" /> Call Now
-                </MagneticButton>
-              </div>
-            </AnimatedSection>
-          </div>
-        </div>
-      </section>
+      <CtaBanner />
+      <FaqSection />
+      <InquirySection />
     </>
   )
 }

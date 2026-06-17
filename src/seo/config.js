@@ -4,22 +4,37 @@
 
 export const SITE_URL = 'https://travlys.com'
 export const SITE_NAME = 'Travlys'
-// Default Open Graph image — currently the same aerial-travel hero as the
-// home page, served from Unsplash at 1200x630. Replace by uploading a
-// branded JPG/PNG to public/og-image.jpg and changing this constant to
-// `${SITE_URL}/og-image.jpg`.
 export const DEFAULT_OG_IMAGE =
-  'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop&q=80'
-export const DEFAULT_OG_ALT = 'Travlys — Premium Visa Assistance'
+  'https://images.unsplash.com/photo-1488085061387-422e29b40080?w=1200&h=630&fit=crop&q=80'
+export const DEFAULT_OG_ALT = 'Travlys — Visa Assistance for Indian Travelers'
 export const DEFAULT_LOCALE = 'en_IN'
 export const DEFAULT_LANG = 'en-IN'
 
 export const HOME_FAQS = [
-  { q: 'What countries does Travlys provide visa assistance for?', a: 'Travlys offers visa assistance for the United States, United Kingdom, Canada, Australia, New Zealand, Netherlands (Schengen), Singapore, UAE, Thailand and Malaysia, with support for tourist, business, student and work categories.' },
-  { q: 'How does the Travlys visa assistance process work?', a: 'We follow a six-step process — consultation, document checklist, application preparation, submission, real-time tracking, and outcome communication — designed to simplify your visa journey end-to-end.' },
-  { q: 'Do you guarantee visa approval?', a: 'No consultant can guarantee approval — the final decision rests with the issuing embassy or consulate. Travlys ensures your application is complete, accurate and well-prepared, which significantly improves outcomes (98% success rate across 5,000+ applications).' },
-  { q: 'How can I get in touch with a Travlys visa expert?', a: 'You can reach our visa specialists via WhatsApp at +91 8200918967, by phone at the same number, or by email at info@travlys.com.' },
-  { q: 'How long does a typical visa application take?', a: 'Processing times vary by country and category — from 3-5 working days for Singapore and Malaysia e-visas, to 15-30 working days for Schengen visas. We share exact timelines during consultation.' },
+  {
+    q: 'Which visas does Travlys help with?',
+    a: 'Travlys handles visa applications for the US, UK, Canada, Australia, New Zealand, the Schengen area (via the Netherlands), Singapore, UAE / Dubai, Thailand and Malaysia — across tourist, business, student and work categories.',
+  },
+  {
+    q: 'How does the application process work?',
+    a: 'Pick your destination, submit a short brief, and we’ll come back within a working day with a route, document checklist, timeline and quote. After that: we draft the application, lock the appointment, coach the interview where relevant, and track the file until you get a decision.',
+  },
+  {
+    q: 'How much do you charge?',
+    a: 'Service fees start at ₹1,999 for Malaysia eNTRI and ₹2,499 for the Singapore e-Visa, going up to ₹14,999 for the US embassy visa. Government / embassy fees are paid separately. Full pricing is on the homepage.',
+  },
+  {
+    q: 'Do you guarantee visa approval?',
+    a: 'No honest consultant can — the embassy decides. What we do guarantee is a complete, accurate, well-positioned application. We have a 98% approval rate across 5,000+ applications and we’ll flag refusal risks before you spend on embassy fees.',
+  },
+  {
+    q: 'How do I reach a real person?',
+    a: 'WhatsApp +91 82009 18967 for fastest response, or email info@travlys.com. We reply within working hours (Mon–Sat, 9 AM – 7 PM IST).',
+  },
+  {
+    q: 'My visa was refused before — can you help?',
+    a: 'Yes. Send us your refusal letter; we’ll review the reason and tell you whether a re-application is worth filing and what would need to change. There’s no charge for the assessment.',
+  },
 ]
 
 export function buildHomeSchemas(destinations, reviews = []) {
@@ -30,7 +45,7 @@ export function buildHomeSchemas(destinations, reviews = []) {
       '@id': `${SITE_URL}/#website`,
       url: `${SITE_URL}/`,
       name: SITE_NAME,
-      description: 'Visa assistance services for Indian travelers',
+      description: 'Visa assistance for Indian travelers — US, UK, Canada, Australia, Schengen, Singapore, UAE and more.',
       inLanguage: DEFAULT_LANG,
       publisher: { '@id': `${SITE_URL}/#organization` },
       potentialAction: {
@@ -63,34 +78,30 @@ export function buildHomeSchemas(destinations, reviews = []) {
   ]
 }
 
-// HowTo schema — eligible for rich-snippet step boxes in Google when
-// a user searches "how to apply for [country] visa from india".
 export function buildHowToSchema(dest) {
   if (!dest.processSteps?.length) return null
   return {
     '@context': 'https://schema.org',
     '@type': 'HowTo',
     name: `How to apply for a ${dest.name} visa from India`,
-    description: `Step-by-step process to apply for a ${dest.name} visa with Travlys's expert guidance.`,
+    description: `Step-by-step process for the ${dest.name} visa via Travlys.`,
     totalTime: dest.processingTime ? `Approximate processing: ${dest.processingTime}` : undefined,
     supply: (dest.documents || []).slice(0, 6).map((d) => ({
       '@type': 'HowToSupply',
       name: d,
     })),
     step: dest.processSteps.map((step, i) => {
-      const [name, ...rest] = String(step).split(' - ')
+      const [name, ...rest] = String(step).split(' — ')
       return {
         '@type': 'HowToStep',
         position: i + 1,
         name: name?.trim() || `Step ${i + 1}`,
-        text: rest.length ? rest.join(' - ').trim() : String(step),
+        text: rest.length ? rest.join(' — ').trim() : String(step),
       }
     }),
   }
 }
 
-// Review schema — when reviews are added in src/data/reviews.js, each
-// gets emitted so star ratings are eligible to appear in SERP.
 export function buildReviewSchemas(reviews, organizationId = `${SITE_URL}/#organization`) {
   if (!reviews?.length) return []
   return reviews.map((r) => ({
@@ -112,7 +123,7 @@ export function buildReviewSchemas(reviews, organizationId = `${SITE_URL}/#organ
 export function buildVisaSchemas(dest) {
   const pagePath = `/visa/${dest.slug}`
   const canonical = `${SITE_URL}${pagePath}`
-  const heroImage = dest.image.replace('w=600&h=400', 'w=1200&h=630')
+  const heroImage = dest.heroImage || dest.image
 
   return [
     {
@@ -120,7 +131,7 @@ export function buildVisaSchemas(dest) {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: 'Visa Destinations', item: `${SITE_URL}/#featured` },
+        { '@type': 'ListItem', position: 2, name: 'Visa Destinations', item: `${SITE_URL}/#destinations` },
         { '@type': 'ListItem', position: 3, name: `${dest.name} Visa`, item: canonical },
       ],
     },
@@ -181,10 +192,10 @@ export function getHomeMeta() {
   return {
     title: 'Visa Assistance for Indian Travelers',
     description:
-      'Travlys offers expert visa assistance for Indian citizens — tourist, business, student and work visas for the USA, UK, Canada, Australia, Schengen, Singapore, UAE and more. 5,000+ visas with a 98% success rate.',
+      'Travlys handles your visa from start to stamp — US, UK, Canada, Australia, Schengen, Singapore, UAE and more. 5,000+ visas processed at a 98% approval rate. Transparent pricing from ₹1,999.',
     path: '/',
     keywords:
-      'visa assistance india, visa consultants india, tourist visa, business visa, student visa, work visa, USA visa, UK visa, Canada visa, Australia visa, Schengen visa, Singapore visa, UAE visa',
+      'visa assistance india, visa consultants india, US visa india, UK visa india, Canada visa india, Schengen visa india, Singapore visa, UAE visa, tourist visa india, business visa india, student visa india, travlys',
     type: 'website',
     image: DEFAULT_OG_IMAGE,
     imageAlt: DEFAULT_OG_ALT,
@@ -193,7 +204,7 @@ export function getHomeMeta() {
 
 export function getVisaMeta(dest) {
   const pagePath = `/visa/${dest.slug}`
-  const heroImage = dest.image.replace('w=600&h=400', 'w=1200&h=630')
+  const heroImage = dest.heroImage || dest.image
   return {
     title: dest.metaTitle || `${dest.name} Visa for Indian Citizens`,
     description: dest.metaDescription || dest.description,
