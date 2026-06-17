@@ -108,7 +108,7 @@ export default function InquiryForm({ defaultDestination = '', compact = false }
           <select name="destination" defaultValue={defaultDestination} className="input">
             <option value="">Pick a country</option>
             {destinations.map((d) => (
-              <option key={d.slug} value={d.name}>{d.flag}  {d.name}</option>
+              <option key={d.slug} value={d.name}>{d.name}</option>
             ))}
             <option value="Other">Other / not sure yet</option>
           </select>

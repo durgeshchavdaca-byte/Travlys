@@ -22,6 +22,7 @@ import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import { destinations } from '../data/destinations'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
+import Flag from '../components/Flag'
 import { buildVisaSchemas, getVisaMeta } from '../seo/config'
 
 function SnapshotItem({ icon: Icon, label, value }) {
@@ -108,7 +109,7 @@ export default function VisaPage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-end">
             <div className="lg:col-span-7">
               <span className="pill bg-white/10 border border-white/20 text-white backdrop-blur">
-                <span className="text-base">{dest.flag}</span>
+                <Flag code={dest.code} name={dest.name} size={16} />
                 {dest.visaType} · {dest.region}
               </span>
               <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-extrabold text-white mt-5 leading-[1.02]">
@@ -420,7 +421,7 @@ export default function VisaPage() {
                     </div>
                     <div className="p-3">
                       <p className="font-semibold text-ink-900 text-sm leading-tight flex items-center gap-1.5">
-                        <span aria-hidden>{r.flag}</span> {r.name}
+                        <Flag code={r.code} name={r.name} size={14} /> {r.name}
                       </p>
                       <p className="text-xs text-slate-muted mt-0.5">{r.price}</p>
                     </div>

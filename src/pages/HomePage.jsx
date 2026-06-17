@@ -29,6 +29,7 @@ import { destinations, globalCountries, regions } from '../data/destinations'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Reviews from '../components/Reviews'
+import Flag from '../components/Flag'
 import { buildHomeSchemas, getHomeMeta, HOME_FAQS } from '../seo/config'
 import { reviews } from '../data/reviews'
 
@@ -87,7 +88,7 @@ function HeroSearch() {
                   onClick={() => pick(d)}
                   className="w-full flex items-center gap-3 px-3 py-3 rounded-xl hover:bg-sand-50 text-left bg-transparent border-none cursor-pointer transition-colors"
                 >
-                  <span className="text-2xl">{d.flag}</span>
+                  <Flag code={d.code} name={d.name} size={24} />
                   <span className="flex-1">
                     <span className="font-semibold text-ink-900 block leading-tight">{d.name}</span>
                     <span className="text-xs text-slate-muted">
@@ -170,7 +171,7 @@ function Hero() {
             <span className="text-xs text-slate-muted font-medium mr-1">Quick pick:</span>
             {destinations.slice(0, 6).map((d) => (
               <Link key={d.slug} to={`/visa/${d.slug}`} className="chip no-underline hover:border-coral-500 hover:text-coral-600 transition-colors">
-                <span aria-hidden>{d.flag}</span>
+                <Flag code={d.code} name={d.name} size={16} />
                 <span>{d.name}</span>
               </Link>
             ))}
@@ -283,7 +284,7 @@ function CountryCard({ dest }) {
           className="country-card-img w-full h-full object-cover"
         />
         <span className="absolute top-3 left-3 pill bg-white/95 text-ink-900 shadow-sm">
-          <span aria-hidden className="text-base leading-none">{dest.flag}</span>
+          <Flag code={dest.code} name={dest.name} size={14} />
           {dest.visaType}
         </span>
         <span className="absolute top-3 right-3 pill bg-ink-900/85 text-white backdrop-blur">
@@ -436,7 +437,7 @@ function PricingTable() {
                     >
                       <td className="py-4 px-5">
                         <div className="flex items-center gap-3">
-                          <span className="text-xl" aria-hidden>{d.flag}</span>
+                          <Flag code={d.code} name={d.name} size={20} />
                           <span className="font-semibold text-ink-900">{d.name}</span>
                         </div>
                       </td>

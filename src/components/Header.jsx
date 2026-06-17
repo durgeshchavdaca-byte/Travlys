@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { Link, useNavigate, useLocation } from 'react-router-dom'
 import { ChevronDown, Menu, X, Phone } from 'lucide-react'
 import { destinations } from '../data/destinations'
+import Flag from './Flag'
 
 function Logo({ tone = 'dark', size = 34 }) {
   const fg = tone === 'light' ? '#ffffff' : '#0f1b4c'
@@ -133,7 +134,7 @@ export default function Header() {
                     className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm text-slate-text hover:bg-sand-50 hover:text-ink-900 no-underline transition-colors"
                     onClick={() => setDropdownOpen(false)}
                   >
-                    <span className="text-xl" aria-hidden>{d.flag}</span>
+                    <Flag code={d.code} name={d.name} size={20} />
                     <span className="flex-1">
                       <span className="font-semibold text-ink-900 block leading-tight">{d.name}</span>
                       <span className="text-xs text-slate-muted">{d.processingTime} · {d.price}</span>
@@ -206,7 +207,7 @@ export default function Header() {
                   to={`/visa/${d.slug}`}
                   className="flex items-center gap-2 py-2.5 text-sm text-slate-text no-underline"
                 >
-                  <span className="text-base">{d.flag}</span>
+                  <Flag code={d.code} name={d.name} size={16} />
                   <span>{d.name}</span>
                 </Link>
               ))}
