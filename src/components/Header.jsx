@@ -5,9 +5,9 @@ import { destinations } from '../data/destinations'
 
 function Logo({ tone = 'dark', size = 34 }) {
   const fg = tone === 'light' ? '#ffffff' : '#0f1b4c'
-  const container = tone === 'light' ? 'rgba(255,255,255,0.06)' : '#0F1B4C'
-  const containerStroke = tone === 'light' ? 'rgba(255,255,255,0.22)' : 'transparent'
-  const mark = tone === 'light' ? '#ffffff' : '#ffffff'
+  const container = tone === 'light' ? 'rgba(255,255,255,0.08)' : '#0F1B4C'
+  const containerStroke = tone === 'light' ? 'rgba(255,255,255,0.28)' : 'transparent'
+  const mark = '#ffffff'
   return (
     <span className="flex items-center gap-2.5 select-none">
       <svg
@@ -72,6 +72,12 @@ export default function Header() {
     setDropdownOpen(false)
   }, [location.pathname])
 
+  // Country / visa pages have a dark image-hero at the top. While the
+  // header is over that hero (not scrolled), switch all chrome to a
+  // light-on-dark tone so it's readable.
+  const isDarkHeroPage = location.pathname.startsWith('/visa/')
+  const useLightChrome = isDarkHeroPage && !scrolled && !mobileOpen
+
   const goSection = (id) => {
     setMobileOpen(false)
     if (location.pathname !== '/') {
@@ -81,6 +87,10 @@ export default function Header() {
       document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' })
     }
   }
+
+  const navTextColor = useLightChrome
+    ? 'text-white/85 hover:text-white'
+    : 'text-slate-text hover:text-ink-900'
 
   return (
     <header
@@ -92,19 +102,19 @@ export default function Header() {
     >
       <div className="container-app flex items-center justify-between h-[72px]">
         <Link to="/" className="no-underline" aria-label="Travlys home">
-          <Logo tone="dark" />
+          <Logo tone={useLightChrome ? 'light' : 'dark'} />
         </Link>
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center gap-1">
-          <NavLink onClick={() => goSection('destinations')}>Destinations</NavLink>
+          <NavLink onClick={() => goSection('destinations')} colorClass={navTextColor}>Destinations</NavLink>
           <div
             className="relative"
             onMouseEnter={() => setDropdownOpen(true)}
             onMouseLeave={() => setDropdownOpen(false)}
           >
             <button
-              className="flex items-center gap-1 px-4 py-2 text-[0.95rem] font-medium text-slate-text hover:text-ink-900 transition-colors bg-transparent border-none cursor-pointer"
+              className={`flex items-center gap-1 px-4 py-2 text-[0.95rem] font-medium ${navTextColor} transition-colors bg-transparent border-none cursor-pointer`}
               onClick={() => setDropdownOpen((v) => !v)}
               aria-expanded={dropdownOpen}
             >
@@ -133,25 +143,34 @@ export default function Header() {
               </div>
             )}
           </div>
-          <NavLink onClick={() => goSection('how-it-works')}>How it works</NavLink>
-          <NavLink onClick={() => goSection('pricing')}>Pricing</NavLink>
-          <NavLink onClick={() => goSection('faq')}>FAQ</NavLink>
+          <NavLink onClick={() => goSection('how-it-works')} colorClass={navTextColor}>How it works</NavLink>
+          <NavLink onClick={() => goSection('pricing')} colorClass={navTextColor}>Pricing</NavLink>
+          <NavLink onClick={() => goSection('faq')} colorClass={navTextColor}>FAQ</NavLink>
         </nav>
 
         <div className="hidden md:flex items-center gap-3">
           <a
             href="tel:+918200918967"
-            className="flex items-center gap-2 text-sm font-medium text-ink-900 no-underline hover:text-coral-500 transition-colors"
+            className={`flex items-center gap-2 text-sm font-medium no-underline transition-colors ${
+              useLightChrome
+                ? 'text-white/90 hover:text-coral-400'
+                : 'text-ink-900 hover:text-coral-500'
+            }`}
           >
             <Phone className="w-4 h-4" /> +91 82009 18967
           </a>
-          <button onClick={() => goSection('inquiry')} className="btn btn-primary">
+          <button
+            onClick={() => goSection('inquiry')}
+            className={useLightChrome ? 'btn btn-coral' : 'btn btn-primary'}
+          >
             Start application
           </button>
         </div>
 
         <button
-          className="md:hidden bg-transparent border-none cursor-pointer text-ink-900"
+          className={`md:hidden bg-transparent border-none cursor-pointer ${
+            useLightChrome ? 'text-white' : 'text-ink-900'
+          }`}
           onClick={() => setMobileOpen((v) => !v)}
           aria-label={mobileOpen ? 'Close menu' : 'Open menu'}
           aria-expanded={mobileOpen}
@@ -208,11 +227,11 @@ export default function Header() {
   )
 }
 
-function NavLink({ children, onClick }) {
+function NavLink({ children, onClick, colorClass = 'text-slate-text hover:text-ink-900' }) {
   return (
     <button
       onClick={onClick}
-      className="px-4 py-2 text-[0.95rem] font-medium text-slate-text hover:text-ink-900 transition-colors bg-transparent border-none cursor-pointer"
+      className={`px-4 py-2 text-[0.95rem] font-medium ${colorClass} transition-colors bg-transparent border-none cursor-pointer`}
     >
       {children}
     </button>

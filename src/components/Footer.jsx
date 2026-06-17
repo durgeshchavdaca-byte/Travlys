@@ -48,6 +48,26 @@ export default function Footer() {
                 <span>Mon – Sat, 9 AM – 7 PM IST</span>
               </p>
             </div>
+
+            <address className="not-italic mt-7 pt-6 border-t border-white/10 text-sm text-white/70 leading-relaxed">
+              <p className="text-coral-500 text-[0.7rem] uppercase tracking-[0.18em] font-semibold mb-2">
+                Office
+              </p>
+              <p>
+                605, Shivalik Shilp II,<br />
+                Near Hotel ITC Narmada, Keshav Baug,<br />
+                Vastrapur, Ahmedabad,<br />
+                Gujarat 380015, India
+              </p>
+              <a
+                href="https://www.google.com/maps/search/?api=1&query=Shivalik+Shilp+II+Keshav+Baug+Vastrapur+Ahmedabad+380015"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1 mt-3 text-coral-400 hover:text-coral-300 no-underline text-xs font-medium"
+              >
+                View on map <ArrowUpRight className="w-3 h-3" />
+              </a>
+            </address>
           </div>
 
           {/* Popular destinations */}
