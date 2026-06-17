@@ -188,7 +188,7 @@ function Hero() {
             { icon: ShieldCheck, label: '98% approval', sub: '5,000+ visas filed' },
             { icon: Clock3, label: '~3 days', sub: 'avg e-Visa turnaround' },
             { icon: Headphones, label: 'WhatsApp', sub: 'support until decision' },
-            { icon: TrendingUp, label: 'Transparent', sub: 'fees from ₹1,999' },
+            { icon: TrendingUp, label: 'Transparent', sub: 'fees from ₹999' },
           ].map((t, i) => (
             <div key={i} className="card p-4 flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl bg-coral-50 flex items-center justify-center shrink-0">

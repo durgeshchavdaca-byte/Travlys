@@ -21,7 +21,7 @@ export const HOME_FAQS = [
   },
   {
     q: 'How much do you charge?',
-    a: 'Service fees start at ₹1,999 for Malaysia eNTRI and ₹2,499 for the Singapore e-Visa, going up to ₹14,999 for the US embassy visa. Government / embassy fees are paid separately. Full pricing is on the homepage.',
+    a: 'Service fees start at ₹999 for Malaysia eNTRI and ₹1,950 for Thailand, going up to ₹19,940 for the US embassy visa. Government / embassy fees are paid separately. Full pricing is on the homepage.',
   },
   {
     q: 'Do you guarantee visa approval?',
@@ -192,7 +192,7 @@ export function getHomeMeta() {
   return {
     title: 'Visa Assistance for Indian Travelers',
     description:
-      'Travlys handles your visa from start to stamp — US, UK, Canada, Australia, Schengen, Singapore, UAE and more. 5,000+ visas processed at a 98% approval rate. Transparent pricing from ₹1,999.',
+      'Travlys handles your visa from start to stamp — US, UK, Canada, Australia, Schengen, Singapore, UAE and more. 5,000+ visas processed at a 98% approval rate. Transparent pricing from ₹999.',
     path: '/',
     keywords:
       'visa assistance india, visa consultants india, US visa india, UK visa india, Canada visa india, Schengen visa india, Singapore visa, UAE visa, tourist visa india, business visa india, student visa india, travlys',

@@ -16,8 +16,8 @@ export const destinations = [
     validity: 'Up to 10 years',
     stayDuration: 'Up to 6 months / visit',
     entryType: 'Multiple',
-    price: 'From ₹14,999',
-    priceValue: 14999,
+    price: 'From ₹19,940',
+    priceValue: 19940,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=1600&h=900&fit=crop',
@@ -55,7 +55,7 @@ export const destinations = [
       },
       {
         q: 'How much does Travlys charge for US visa assistance?',
-        a: 'Our service starts at ₹14,999 for B1/B2 — covering DS-160, documentation, mock interview and appointment booking. The US embassy fee (currently $185) is paid separately to the embassy.',
+        a: 'Our service starts at ₹19,940 for B1/B2 — covering DS-160, documentation, mock interview and appointment booking. The US embassy fee (currently $185) is paid separately to the embassy.',
       },
     ],
     categories: [
@@ -96,8 +96,8 @@ export const destinations = [
     validity: '6 months – 10 years',
     stayDuration: 'Up to 6 months / visit',
     entryType: 'Multiple',
-    price: 'From ₹9,999',
-    priceValue: 9999,
+    price: 'From ₹12,950',
+    priceValue: 12950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=1600&h=900&fit=crop',
@@ -124,7 +124,7 @@ export const destinations = [
       { q: 'How long does a UK visa take from India?', a: 'Standard processing is around 3 weeks from biometrics. Priority (5 working days) and Super Priority (next working day) are available where slots exist — we’ll advise based on your travel dates.' },
       { q: 'Do I need a TB test for a UK visa?', a: 'Yes — Indian applicants applying for stays longer than 6 months must submit a TB test certificate from a UKVI-approved clinic. We refer you to one near you.' },
       { q: 'What is the Standard Visitor Visa?', a: 'It’s the visa most leisure and business travelers use — valid for tourism, business meetings, short courses, and certain medical visits up to 6 months per stay.' },
-      { q: 'How much do you charge for UK visa help?', a: 'Service starts at ₹9,999 for the Standard Visitor Visa. UKVI fees and VFS charges are paid separately to the respective authorities.' },
+      { q: 'How much do you charge for UK visa help?', a: 'Service starts at ₹12,950 for the Standard Visitor Visa. UKVI fees and VFS charges are paid separately to the respective authorities.' },
     ],
     categories: [
       { name: 'Standard Visitor', purpose: 'Tourism, business, medical, short courses', description: 'Up to 6 months per stay; long-validity options (2/5/10 years) available with travel history.' },
@@ -163,8 +163,8 @@ export const destinations = [
     validity: 'Up to 10 years',
     stayDuration: 'Up to 6 months / visit',
     entryType: 'Multiple',
-    price: 'From ₹11,499',
-    priceValue: 11499,
+    price: 'From ₹14,950',
+    priceValue: 14950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1600&h=900&fit=crop',
@@ -191,7 +191,7 @@ export const destinations = [
       { q: 'Do Indians need a visa for Canada?', a: 'Yes — Indian passport holders need a TRV (visitor visa), study permit or work permit. eTA is generally not available for Indian passport holders.' },
       { q: 'How long does the Canada visitor visa take?', a: 'Typical IRCC processing from India runs 4–8 weeks once biometrics are submitted. Peak season can extend this.' },
       { q: 'Is biometrics required for Canada visas in India?', a: 'Yes — applicants in India submit biometrics at a VFS centre as part of every IRCC application.' },
-      { q: 'How much does Travlys charge for Canada visa help?', a: 'Service starts at ₹11,499 for visitor visas. IRCC and VFS fees are paid separately to the authorities.' },
+      { q: 'How much does Travlys charge for Canada visa help?', a: 'Service starts at ₹14,950 for visitor visas. IRCC and VFS fees are paid separately to the authorities.' },
     ],
     categories: [
       { name: 'Visitor Visa (TRV)', purpose: 'Tourism, family visits', description: 'Multiple-entry visa valid up to 10 years or passport expiry, with stays up to 6 months per visit.' },
@@ -230,8 +230,8 @@ export const destinations = [
     validity: '1–3 years',
     stayDuration: 'Up to 3 months / visit',
     entryType: 'Multiple',
-    price: 'From ₹8,499',
-    priceValue: 8499,
+    price: 'From ₹4,950',
+    priceValue: 4950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1600&h=900&fit=crop',
@@ -258,7 +258,7 @@ export const destinations = [
       { q: 'How long does an Australia visa take from India?', a: 'Visitor visas (Subclass 600) commonly process in 2–6 weeks; student visas (500) take longer and depend on the institution and course start date.' },
       { q: 'What is the GTE statement?', a: 'Genuine Temporary Entrant — a written statement explaining why you’ll return to India after your visit or studies. It’s pivotal to approvals; we draft it with you.' },
       { q: 'Do I need biometrics for an Australia visa?', a: 'Many applicants are asked for biometrics at VFS during processing. We book the appointment for you if requested.' },
-      { q: 'How much does Travlys charge for an Australia visa?', a: 'Service starts at ₹8,499 for the visitor stream. DHA visa application charges (VAC) are paid separately.' },
+      { q: 'How much does Travlys charge for an Australia visa?', a: 'Service starts at ₹4,950 for the visitor stream. DHA visa application charges (VAC) are paid separately.' },
     ],
     categories: [
       { name: 'Visitor Visa (600)', purpose: 'Tourism, family', description: 'Tourist or Sponsored Family stream for short visits, with multiple-entry validity up to 3 years.' },
@@ -297,8 +297,8 @@ export const destinations = [
     validity: 'Up to 5 years',
     stayDuration: '90 days in any 180',
     entryType: 'Multiple',
-    price: 'From ₹4,999',
-    priceValue: 4999,
+    price: 'From ₹2,950',
+    priceValue: 2950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1576924542622-772579c8d6e7?w=1600&h=900&fit=crop',
@@ -325,7 +325,7 @@ export const destinations = [
       { q: 'Is a Netherlands visa the same as a Schengen visa?', a: 'A short-stay Netherlands visa is a Schengen visa — it permits travel across all 26 Schengen countries within the granted validity and duration.' },
       { q: 'How long does the Schengen visa take?', a: 'Standard processing is 15 calendar days; busy travel windows can stretch to 30. We recommend applying 4–6 weeks before travel.' },
       { q: 'Do I need travel insurance?', a: 'Yes — Schengen rules require travel insurance with minimum €30,000 medical cover valid across the Schengen area for the full visa duration.' },
-      { q: 'How much do you charge for Schengen visa help?', a: 'Service starts at ₹4,999. The embassy fee (currently €90) is paid separately to the embassy via VFS.' },
+      { q: 'How much do you charge for Schengen visa help?', a: 'Service starts at ₹2,950. The embassy fee (currently €90 / ~₹9,600) is paid separately to the embassy via VFS.' },
     ],
     categories: [
       { name: 'Tourist (Type C)', purpose: 'Tourism', description: 'Single or multiple-entry short-stay visa for leisure across the Schengen area.' },
@@ -365,8 +365,8 @@ export const destinations = [
     validity: 'Up to 2 years',
     stayDuration: 'Up to 30 days / visit',
     entryType: 'Multiple',
-    price: 'From ₹2,499',
-    priceValue: 2499,
+    price: 'From ₹2,950',
+    priceValue: 2950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1565967511849-76a60a516170?w=1600&h=900&fit=crop',
@@ -379,7 +379,7 @@ export const destinations = [
       'Indian passport holders need a visa for Singapore. The e-Visa is fully online — once submitted, decisions arrive in 3–5 working days. We take care of file accuracy and the financial sufficiency narrative ICA looks for.',
     metaTitle: 'Singapore Visa from India | e-Visa in 3–5 Days — Travlys',
     metaDescription:
-      'Get your Singapore e-Visa from India in 3–5 working days. Travlys handles submission, document review and ICA queries from ₹2,499.',
+      'Get your Singapore e-Visa from India in 3–5 working days. Travlys handles submission, document review and ICA queries from ₹2,950.',
     keywords:
       'singapore visa from india, singapore e-visa, singapore tourist visa, singapore visa fee, singapore evisa consultants',
     includes: [
@@ -391,7 +391,7 @@ export const destinations = [
     ],
     faqs: [
       { q: 'How long does a Singapore e-Visa take from India?', a: 'Typically 3–5 working days when the file is complete. Same-day decisions occur but are not guaranteed.' },
-      { q: 'How much does it cost?', a: 'Travlys service starts at ₹2,499; ICA visa fee is paid separately.' },
+      { q: 'How much does it cost?', a: 'Travlys service starts at ₹2,950; ICA visa fee is paid separately.' },
       { q: 'Documents required?', a: 'Passport, photograph, travel itinerary, hotel bookings, financial documents and an employment / sponsorship letter.' },
       { q: 'Can families apply together?', a: 'Yes — we file family applications as a single batch with a consolidated travel narrative.' },
     ],
@@ -428,8 +428,8 @@ export const destinations = [
     validity: '60 days from issue',
     stayDuration: '14 / 30 / 60 days',
     entryType: 'Single / Multiple',
-    price: 'From ₹6,799',
-    priceValue: 6799,
+    price: 'From ₹2,500',
+    priceValue: 2500,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&h=900&fit=crop',
@@ -442,7 +442,7 @@ export const destinations = [
       'Indians need a visa to enter the UAE. Multiple e-Visa categories are available — 14, 30 and 60-day single or multiple-entry. Travlys files through approved channels with documentation tuned to GDRFA preferences.',
     metaTitle: 'Dubai & UAE Visa from India | Tourist e-Visa, 30 / 60-day',
     metaDescription:
-      'Get a Dubai / UAE tourist e-Visa from India in 2–4 working days with Travlys. 14, 30 and 60-day single and multiple-entry options from ₹6,799.',
+      'Get a Dubai / UAE tourist e-Visa from India in 2–4 working days with Travlys. 14, 30 and 60-day single and multiple-entry options from ₹2,500.',
     keywords:
       'uae visa from india, dubai visa from india, dubai tourist visa, uae e-visa, dubai 30 day visa, dubai 60 day visa, transit visa uae',
     includes: [
@@ -493,8 +493,8 @@ export const destinations = [
     validity: '90 days from issue',
     stayDuration: 'Up to 60 days / visit',
     entryType: 'Single',
-    price: 'From ₹3,499',
-    priceValue: 3499,
+    price: 'From ₹1,950',
+    priceValue: 1950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1528181304800-259b08848526?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=1600&h=900&fit=crop',
@@ -507,7 +507,7 @@ export const destinations = [
       'Indian passport holders need a visa for tourism stays in Thailand beyond the e-Visa-on-Arrival route. The e-Visa allows stays of up to 60 days and is filed online via the Royal Thai e-Visa portal.',
     metaTitle: 'Thailand Visa from India | Tourist e-Visa — Travlys',
     metaDescription:
-      'Apply for a Thailand tourist e-Visa from India with Travlys. Document review, e-Visa portal filing and embassy query handling for 60-day stays from ₹3,499.',
+      'Apply for a Thailand tourist e-Visa from India with Travlys. Document review, e-Visa portal filing and embassy query handling for 60-day stays from ₹1,950.',
     keywords:
       'thailand visa from india, thailand tourist e-visa, thailand evisa india, thailand visa documents, thailand visa consultants',
     includes: [
@@ -520,7 +520,7 @@ export const destinations = [
     faqs: [
       { q: 'Do Indians need a visa for Thailand?', a: 'Yes. The tourist e-Visa is the standard route for stays up to 60 days; longer stays need different categories.' },
       { q: 'How long does processing take?', a: 'Typically 5–10 working days through the official e-Visa portal. Peak season can extend slightly.' },
-      { q: 'How much does Travlys charge?', a: 'Service starts at ₹3,499. The embassy fee is paid separately to the Royal Thai government.' },
+      { q: 'How much does Travlys charge?', a: 'Service starts at ₹1,950. The embassy fee is paid separately to the Royal Thai government.' },
     ],
     categories: [
       { name: 'Tourist e-Visa', purpose: 'Tourism', description: 'For leisure travel and family visits, up to 60 days per stay.' },
@@ -555,8 +555,8 @@ export const destinations = [
     validity: 'Up to 3 years',
     stayDuration: 'Up to 9 months',
     entryType: 'Multiple',
-    price: 'From ₹9,499',
-    priceValue: 9499,
+    price: 'From ₹6,950',
+    priceValue: 6950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1469521669194-babb45599def?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1600&h=900&fit=crop',
@@ -581,7 +581,7 @@ export const destinations = [
     ],
     faqs: [
       { q: 'How long does an NZ visa take from India?', a: 'INZ visitor visas typically process in 2–6 weeks; longer for work and student routes depending on documents and any additional checks.' },
-      { q: 'How much do you charge?', a: 'Service starts at ₹9,499 for the visitor stream. INZ visa fees and IELTS/medical costs are paid separately.' },
+      { q: 'How much do you charge?', a: 'Service starts at ₹6,950 for the visitor stream. INZ visa fees and IELTS/medical costs are paid separately.' },
       { q: 'Do I need a medical?', a: 'Medicals and police clearances are required for some categories or stays. We confirm based on your specific application.' },
     ],
     categories: [
@@ -620,8 +620,8 @@ export const destinations = [
     validity: '3 months',
     stayDuration: 'Up to 30 days',
     entryType: 'Single',
-    price: 'From ₹1,999',
-    priceValue: 1999,
+    price: 'From ₹999',
+    priceValue: 999,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1567892737950-30c4db37f9eb?w=1600&h=900&fit=crop',
@@ -634,7 +634,7 @@ export const destinations = [
       'Indian passport holders can use eNTRI for stays up to 15 days or apply for an e-Visa for stays up to 30 days. Travlys files via the official Imigresen Malaysia channels.',
     metaTitle: 'Malaysia Visa from India | eNTRI & e-Visa — Travlys',
     metaDescription:
-      'Get a Malaysia eNTRI or e-Visa from India with Travlys. 2–4 working day processing, document verification and Imigresen submission from ₹1,999.',
+      'Get a Malaysia eNTRI or e-Visa from India with Travlys. 2–4 working day processing, document verification and Imigresen submission from ₹999.',
     keywords:
       'malaysia visa from india, malaysia entri, malaysia evisa, malaysia tourist visa, malaysia visa documents',
     includes: [
@@ -647,7 +647,7 @@ export const destinations = [
     faqs: [
       { q: 'eNTRI vs e-Visa — which do I need?', a: 'eNTRI works for short tourism (up to 15 days). For 30-day stays or business visits, you need the e-Visa. We pick the right one based on your itinerary.' },
       { q: 'How long does an eNTRI take?', a: 'Typically 2–4 working days from a clean file submission.' },
-      { q: 'How much do you charge?', a: 'Service starts at ₹1,999. Imigresen fees are paid separately.' },
+      { q: 'How much do you charge?', a: 'Service starts at ₹999. Imigresen fees are paid separately.' },
     ],
     categories: [
       { name: 'eNTRI', purpose: 'Short tourism', description: 'Single-entry, valid for stays up to 15 days. Direct entry to peninsular Malaysia required.' },
