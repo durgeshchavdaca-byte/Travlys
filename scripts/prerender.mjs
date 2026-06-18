@@ -243,6 +243,44 @@ async function main() {
   console.log(`\nPre-rendered ${routes.length} routes:`)
   routes.forEach((r) => console.log(`  ✓ ${r}`))
   console.log(`\nRegenerated sitemap.xml (lastmod ${today}) and llms.txt`)
+
+  // IndexNow — ping Bing, Yandex, Naver, Seznam, Yep with the URL list.
+  // Only runs in CI (i.e. real GitHub Actions deploys) so local builds
+  // don't notify search engines about pre-prod content.
+  if (process.env.CI === 'true') {
+    await pingIndexNow(routes).catch((err) => {
+      console.error('IndexNow ping failed (non-fatal):', err.message)
+    })
+  } else {
+    console.log('\nSkipping IndexNow ping (set CI=true to enable).')
+  }
+}
+
+async function pingIndexNow(routes) {
+  const KEY = '4f8b3d92a17e4c5fb6a8d2e9c4f1b7a3'
+  const host = SITE_URL.replace(/^https?:\/\//, '').replace(/\/$/, '')
+  const body = JSON.stringify({
+    host,
+    key: KEY,
+    keyLocation: `${SITE_URL}/${KEY}.txt`,
+    urlList: routes.map((r) => `${SITE_URL}${r}`),
+  })
+
+  const res = await fetch('https://api.indexnow.org/IndexNow', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json; charset=utf-8',
+      'Host': 'api.indexnow.org',
+    },
+    body,
+  })
+
+  if (res.ok || res.status === 202) {
+    console.log(`\nIndexNow: pinged ${routes.length} URLs (status ${res.status})`)
+  } else {
+    const text = await res.text().catch(() => '')
+    throw new Error(`IndexNow returned ${res.status}: ${text.slice(0, 200)}`)
+  }
 }
 
 main().catch((err) => {
