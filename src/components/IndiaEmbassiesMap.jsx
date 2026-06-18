@@ -15,7 +15,10 @@ import {
   Marker,
   Annotation,
 } from 'react-simple-maps'
-import worldGeo from 'world-atlas/countries-110m.json'
+// India outline sourced from datameet/maps (CC BY 4.0, Survey of
+// India compliant boundaries — full Indian territorial claim
+// including J&K and Aksai Chin). Simplified to ~70 KB with @turf/simplify.
+import indiaGeo from '../data/india-borders.json'
 
 // US diplomatic missions in India, with real lat/long.
 const MISSIONS = [
@@ -121,45 +124,41 @@ export default function IndiaEmbassiesMap() {
 
           {/* India landmass with 3D-feel shadow + gradient fill */}
           <g filter="url(#ie-shadow)">
-            <Geographies geography={worldGeo}>
+            <Geographies geography={indiaGeo}>
               {({ geographies }) =>
-                geographies
-                  .filter((g) => g.properties?.name === 'India')
-                  .map((geo) => (
-                    <Geography
-                      key={geo.rsmKey}
-                      geography={geo}
-                      fill="url(#ie-land)"
-                      stroke="#A07C2C"
-                      strokeOpacity={0.65}
-                      strokeWidth={1.1}
-                      style={{
-                        default: { outline: 'none' },
-                        hover:   { outline: 'none' },
-                        pressed: { outline: 'none' },
-                      }}
-                    />
-                  ))
+                geographies.map((geo) => (
+                  <Geography
+                    key={geo.rsmKey}
+                    geography={geo}
+                    fill="url(#ie-land)"
+                    stroke="#A07C2C"
+                    strokeOpacity={0.65}
+                    strokeWidth={1.1}
+                    style={{
+                      default: { outline: 'none' },
+                      hover:   { outline: 'none' },
+                      pressed: { outline: 'none' },
+                    }}
+                  />
+                ))
               }
             </Geographies>
             {/* highlight gloss along the top edge */}
-            <Geographies geography={worldGeo}>
+            <Geographies geography={indiaGeo}>
               {({ geographies }) =>
-                geographies
-                  .filter((g) => g.properties?.name === 'India')
-                  .map((geo) => (
-                    <Geography
-                      key={`hl-${geo.rsmKey}`}
-                      geography={geo}
-                      fill="url(#ie-highlight)"
-                      stroke="none"
-                      style={{
-                        default: { outline: 'none', pointerEvents: 'none' },
-                        hover:   { outline: 'none', pointerEvents: 'none' },
-                        pressed: { outline: 'none', pointerEvents: 'none' },
-                      }}
-                    />
-                  ))
+                geographies.map((geo) => (
+                  <Geography
+                    key={`hl-${geo.rsmKey}`}
+                    geography={geo}
+                    fill="url(#ie-highlight)"
+                    stroke="none"
+                    style={{
+                      default: { outline: 'none', pointerEvents: 'none' },
+                      hover:   { outline: 'none', pointerEvents: 'none' },
+                      pressed: { outline: 'none', pointerEvents: 'none' },
+                    }}
+                  />
+                ))
               }
             </Geographies>
           </g>

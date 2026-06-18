@@ -13,7 +13,9 @@ import {
   Marker,
   Line,
 } from 'react-simple-maps'
-import worldGeo from 'world-atlas/countries-110m.json'
+// 50m resolution: 4x more detail than 110m (cleaner coastlines, smaller
+// island chains visible), still CC0 Natural Earth data.
+import worldGeo from 'world-atlas/countries-50m.json'
 
 // Travlys origin (India centroid, approximately).
 const ORIGIN = { lng: 78.9629, lat: 22.0, label: 'India' }
