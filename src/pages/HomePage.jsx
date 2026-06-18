@@ -209,44 +209,22 @@ function Hero() {
           </motion.span>
 
           <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.75rem] lg:text-[4.25rem] font-extrabold text-ink-900 mt-6 leading-[1.02]">
-            <TextReveal text="Your visa," as="span" />
+            <TextReveal text="Less paperwork." as="span" />
             <br />
             <span className="hero-italic-mark">
-              <span className="relative italic">handled.</span>
+              <span className="relative italic">More postcards.</span>
             </span>
           </h1>
-
-          {/* Travel-enthu hook — three-beat with the punchline in
-              coral italic. Sits between the H1 and the functional
-              subtitle so first-time visitors get the feeling, then
-              the explanation. */}
-          <motion.p
-            initial={{ opacity: 0, y: 12 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.5, duration: 0.55 }}
-            className="font-display text-xl sm:text-2xl md:text-[1.7rem] text-ink-900 mt-7 leading-[1.25] max-w-2xl mx-auto"
-            style={{ fontWeight: 500, letterSpacing: '-0.018em' }}
-          >
-            Pack the camera. Plan the playlist.{' '}
-            <span className="relative inline-block italic font-semibold text-coral-600">
-              Leave the paperwork to us.
-              <span
-                aria-hidden
-                className="absolute left-0 right-0 -bottom-0.5 h-[3px] rounded-full"
-                style={{ background: 'linear-gradient(90deg, transparent, #ff7849 30%, #ecc878 70%, transparent)' }}
-              />
-            </span>
-          </motion.p>
 
           <motion.p
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.65, duration: 0.5 }}
-            className="text-[0.98rem] md:text-base text-slate-muted mt-5 max-w-xl mx-auto leading-relaxed"
+            transition={{ delay: 0.5, duration: 0.5 }}
+            className="text-[1.05rem] md:text-lg text-slate-muted mt-6 max-w-xl mx-auto leading-relaxed"
           >
-            5,000+ Indian travelers boarded with Travlys. Tell us where
-            you’re going — we prep the application, book the appointment,
-            and coach the interview.
+            5,000+ Indian travelers have boarded with Travlys. Tell us
+            where you’re going — we prep the application, book the
+            appointment, and coach the interview.
           </motion.p>
 
           <motion.div
