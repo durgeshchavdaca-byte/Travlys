@@ -131,14 +131,9 @@ export default function Footer() {
 
       <div className="relative z-10 border-t border-white/10">
         <div className="container-app py-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
-          <div className="max-w-2xl">
-            <p className="text-xs text-white/50 leading-relaxed">
-              Visa decisions are made by embassies and immigration authorities, not by Travlys. Fees, processing windows and document requirements may change without notice. Service fees shown are exclusive of government / embassy fees.
-            </p>
-            <p className="text-[11px] text-white/35 mt-2 leading-relaxed">
-              Map data: India boundary © <a href="https://github.com/datameet/maps" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/60">datameet/maps</a> (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/60">CC BY 4.0</a>, Survey of India compliant). World map © <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/60">Natural Earth</a> (public domain).
-            </p>
-          </div>
+          <p className="text-xs text-white/50 max-w-2xl leading-relaxed">
+            Visa decisions are made by embassies and immigration authorities, not by Travlys. Fees, processing windows and document requirements may change without notice. Service fees shown are exclusive of government / embassy fees.
+          </p>
           <p className="text-xs text-white/55 shrink-0">© {new Date().getFullYear()} Travlys. All rights reserved.</p>
         </div>
       </div>
