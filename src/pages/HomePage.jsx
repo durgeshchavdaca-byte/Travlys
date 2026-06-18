@@ -113,10 +113,87 @@ function HeroSearch() {
   )
 }
 
+function HeroBackdrop() {
+  return (
+    <>
+      {/* Rotating wireframe globe — sits behind the headline, very low opacity */}
+      <div
+        className="absolute right-[-160px] top-[80px] w-[460px] h-[460px] pointer-events-none hidden md:block"
+        style={{ perspective: '900px' }}
+      >
+        <div className="globe-spin w-full h-full">
+          <svg viewBox="0 0 200 200" className="w-full h-full" fill="none" stroke="#0f1b4c" strokeWidth="0.45" opacity="0.18">
+            <circle cx="100" cy="100" r="95" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(30 100 100)" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(60 100 100)" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(90 100 100)" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(120 100 100)" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(150 100 100)" />
+            <ellipse cx="100" cy="100" rx="60" ry="95" />
+            <ellipse cx="100" cy="100" rx="28" ry="95" />
+            <ellipse cx="100" cy="100" rx="85" ry="95" />
+            <line x1="100" y1="5" x2="100" y2="195" />
+            <line x1="5" y1="100" x2="195" y2="100" />
+          </svg>
+        </div>
+      </div>
+
+      {/* Mirror globe on the left — smaller, even fainter, for balance */}
+      <div
+        className="absolute left-[-120px] bottom-[40px] w-[300px] h-[300px] pointer-events-none hidden lg:block"
+        style={{ perspective: '900px' }}
+      >
+        <div className="globe-spin w-full h-full" style={{ animationDirection: 'reverse', animationDuration: '90s' }}>
+          <svg viewBox="0 0 200 200" className="w-full h-full" fill="none" stroke="#d4a64a" strokeWidth="0.45" opacity="0.22">
+            <circle cx="100" cy="100" r="95" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(45 100 100)" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(90 100 100)" />
+            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(135 100 100)" />
+            <ellipse cx="100" cy="100" rx="55" ry="95" />
+            <ellipse cx="100" cy="100" rx="85" ry="95" />
+          </svg>
+        </div>
+      </div>
+
+      {/* Animated dashed flight-path arc near the bottom of the hero */}
+      <svg
+        className="absolute left-0 right-0 bottom-[-20px] w-full h-32 pointer-events-none hidden md:block"
+        viewBox="0 0 1200 120"
+        preserveAspectRatio="none"
+        fill="none"
+      >
+        <defs>
+          <linearGradient id="hero-path-grad" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%"  stopColor="#d4a64a" stopOpacity="0" />
+            <stop offset="20%" stopColor="#d4a64a" stopOpacity="0.6" />
+            <stop offset="50%" stopColor="#ff7849" stopOpacity="0.85" />
+            <stop offset="80%" stopColor="#d4a64a" stopOpacity="0.6" />
+            <stop offset="100%" stopColor="#d4a64a" stopOpacity="0" />
+          </linearGradient>
+        </defs>
+        <path
+          className="flight-path"
+          d="M0,90 C200,30 400,110 600,55 C800,15 1000,95 1200,40"
+          stroke="url(#hero-path-grad)"
+          strokeWidth="2.5"
+          strokeLinecap="round"
+        />
+        {/* tiny aeroplane silhouette at the end of the path */}
+        <g transform="translate(1170 40) rotate(-12)">
+          <path d="M-12,-1 L8,-3 L10,0 L8,3 L-12,1 L-9,4 L-14,4 L-16,0 L-14,-4 L-9,-4 Z" fill="#ff7849" opacity="0.85" />
+        </g>
+      </svg>
+    </>
+  )
+}
+
 function Hero() {
   return (
     <section className="relative pt-32 pb-20 md:pt-40 md:pb-28 overflow-hidden mesh-warm">
       <HeroBlobs />
+      <HeroBackdrop />
       <div className="absolute inset-0 dot-grid opacity-50 pointer-events-none" />
 
       <div className="relative z-10 container-app">
@@ -134,11 +211,8 @@ function Hero() {
           <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.75rem] lg:text-[4.25rem] font-extrabold text-ink-900 mt-6 leading-[1.02]">
             <TextReveal text="Your visa," as="span" />
             <br />
-            <span className="inline-block">
-              <span className="relative inline-block">
-                <span className="relative z-10 italic">handled.</span>
-                <span className="absolute -bottom-1 left-0 right-0 h-3 bg-coral-100 -z-0 rounded-full" />
-              </span>
+            <span className="hero-italic-mark">
+              <span className="relative italic">handled.</span>
             </span>
           </h1>
 
@@ -275,45 +349,58 @@ function CountriesGrid() {
 }
 
 function CountryCard({ dest }) {
+  const isPremium = dest.visaType === 'Embassy Visa'
   return (
-    <Link to={`/visa/${dest.slug}`} className="country-card card overflow-hidden no-underline block group">
-      <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
-        <img
-          src={dest.image}
-          alt={`${dest.name} visa for Indian travelers`}
-          loading="lazy"
-          className="country-card-img w-full h-full object-cover"
-        />
-        <span className="absolute top-3 left-3 pill bg-white/95 text-ink-900 shadow-sm">
-          <Flag code={dest.code} name={dest.name} size={14} />
-          {dest.visaType}
-        </span>
-        <span className="absolute top-3 right-3 pill bg-ink-900/85 text-white backdrop-blur">
-          <Clock3 className="w-3 h-3" /> {dest.processingTimeShort}
-        </span>
-      </div>
-      <div className="p-5">
-        <div className="flex items-center justify-between gap-2">
-          <h3 className="font-display text-xl font-bold text-ink-900 leading-tight">
-            {dest.name}
-          </h3>
-          <ArrowUpRight className="w-5 h-5 text-slate-faint group-hover:text-coral-500 transition-colors" />
-        </div>
-        <p className="text-sm text-slate-muted mt-1 line-clamp-1">{dest.tagline}</p>
-
-        <div className="mt-4 flex items-end justify-between gap-3">
-          <div>
-            <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold">Travlys fee</p>
-            <p className="font-display text-2xl font-extrabold text-ink-900">
-              {dest.price}
-            </p>
-          </div>
-          <span className="pill bg-coral-50 text-coral-600 font-semibold">
-            View details
+    <div className="tilt-3d">
+      <Link
+        to={`/visa/${dest.slug}`}
+        className="country-card card tilt-3d-inner overflow-hidden no-underline block group"
+      >
+        <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
+          <img
+            src={dest.image}
+            alt={`${dest.name} visa for Indian travelers`}
+            loading="lazy"
+            className="country-card-img w-full h-full object-cover"
+          />
+          {/* subtle bottom-gradient veil for legibility */}
+          <span className="absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-ink-950/55 to-transparent pointer-events-none" />
+          <span className="absolute top-3 left-3 pill bg-white/95 text-ink-900 shadow-sm">
+            <Flag code={dest.code} name={dest.name} size={14} />
+            {dest.visaType}
           </span>
+          <span className="absolute top-3 right-3 pill bg-ink-900/85 text-white backdrop-blur">
+            <Clock3 className="w-3 h-3" /> {dest.processingTimeShort}
+          </span>
+          {isPremium && (
+            <span className="premium-badge absolute bottom-3 left-3 z-10">
+              <span className="text-[0.85em]">★</span> Premium
+            </span>
+          )}
         </div>
-      </div>
-    </Link>
+        <div className="p-5">
+          <div className="flex items-center justify-between gap-2">
+            <h3 className="font-display text-xl font-bold text-ink-900 leading-tight">
+              {dest.name}
+            </h3>
+            <ArrowUpRight className="w-5 h-5 text-slate-faint group-hover:text-coral-500 transition-colors" />
+          </div>
+          <p className="text-sm text-slate-muted mt-1 line-clamp-1">{dest.tagline}</p>
+
+          <div className="mt-4 flex items-end justify-between gap-3">
+            <div>
+              <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold">Travlys fee</p>
+              <p className="font-display text-2xl font-extrabold text-ink-900">
+                {dest.price}
+              </p>
+            </div>
+            <span className="pill bg-coral-50 text-coral-600 font-semibold">
+              View details
+            </span>
+          </div>
+        </div>
+      </Link>
+    </div>
   )
 }
 
@@ -373,24 +460,46 @@ function StatsBanner() {
     { value: 24, suffix: 'h', label: 'Avg first response', icon: Clock3 },
   ]
   return (
-    <section className="py-20 mesh-deep text-white relative overflow-hidden">
+    <section className="py-20 mesh-deep text-white relative overflow-hidden paper-grain">
       <div className="absolute inset-0 dot-grid-light opacity-40 pointer-events-none" />
+      {/* Gold flight-path arc behind the stats */}
+      <svg
+        className="absolute inset-x-0 top-1/2 -translate-y-1/2 w-full h-40 pointer-events-none hidden md:block opacity-60"
+        viewBox="0 0 1200 160"
+        preserveAspectRatio="none"
+        fill="none"
+      >
+        <defs>
+          <linearGradient id="stats-path-grad" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%"  stopColor="#d4a64a" stopOpacity="0" />
+            <stop offset="50%" stopColor="#ecc878" stopOpacity="0.4" />
+            <stop offset="100%" stopColor="#d4a64a" stopOpacity="0" />
+          </linearGradient>
+        </defs>
+        <path
+          d="M0,120 C300,40 600,120 900,40 C1050,5 1150,55 1200,40"
+          stroke="url(#stats-path-grad)"
+          strokeWidth="1.5"
+          strokeDasharray="4 6"
+        />
+      </svg>
       <div className="relative z-10 container-app">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
           {stats.map((s, i) => (
             <AnimatedSection key={i} delay={i * 0.08}>
               <div className="text-center">
                 <div className="inline-flex w-12 h-12 rounded-xl bg-white/10 border border-white/15 items-center justify-center mb-3">
-                  <s.icon className="w-5 h-5 text-coral-400" />
+                  <s.icon className="w-5 h-5 text-gold-400" />
                 </div>
-                <p className="font-display text-4xl md:text-5xl font-extrabold text-white">
+                <p className="font-display text-4xl md:text-5xl font-extrabold gold-text">
                   <AnimatedCounter value={s.value} suffix={s.suffix} />
                 </p>
-                <p className="text-sm text-white/65 mt-1">{s.label}</p>
+                <p className="text-sm text-white/70 mt-1">{s.label}</p>
               </div>
             </AnimatedSection>
           ))}
         </div>
+        <div className="luxe-divider mt-12" />
       </div>
     </section>
   )

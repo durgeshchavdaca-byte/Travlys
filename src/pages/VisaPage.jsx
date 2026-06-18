@@ -32,6 +32,55 @@ function prettyDate(iso) {
 }
 import { buildVisaSchemas, getVisaMeta } from '../seo/config'
 
+// Decorative passport-stamp SVG — hand-drawn, no copyrighted artwork.
+// Concentric circles + dashed outer ring + the destination's ISO code
+// at the centre, with "TRAVLYS" curved along the top arc and "APPROVED"
+// across the centre. Sits at low opacity in the hero corner.
+function PassportStamp({ className = '', code = '', country = '' }) {
+  return (
+    <div className={`${className} pointer-events-none select-none opacity-[0.18] -rotate-[8deg]`} aria-hidden>
+      <svg viewBox="0 0 240 240" fill="none" className="w-full h-full">
+        <defs>
+          <path id="ps-arc-top" d="M 30 120 A 90 90 0 0 1 210 120" />
+          <path id="ps-arc-bot" d="M 30 120 A 90 90 0 0 0 210 120" />
+        </defs>
+        <circle cx="120" cy="120" r="108" stroke="#ffffff" strokeWidth="1.5" strokeDasharray="3 5" />
+        <circle cx="120" cy="120" r="92" stroke="#ffffff" strokeWidth="2" />
+        <circle cx="120" cy="120" r="72" stroke="#ffffff" strokeWidth="1" />
+        <text fontFamily="'Cabinet Grotesk', sans-serif" fontWeight="700" fontSize="14" letterSpacing="6" fill="#ffffff">
+          <textPath href="#ps-arc-top" startOffset="50%" textAnchor="middle">TRAVLYS · VISA SERVICES</textPath>
+        </text>
+        <text fontFamily="'Cabinet Grotesk', sans-serif" fontWeight="500" fontSize="10" letterSpacing="6" fill="#ffffff">
+          <textPath href="#ps-arc-bot" startOffset="50%" textAnchor="middle">{country.toUpperCase()}</textPath>
+        </text>
+        <text
+          x="120" y="118"
+          textAnchor="middle"
+          fontFamily="'Cabinet Grotesk', sans-serif"
+          fontWeight="800"
+          fontSize="44"
+          letterSpacing="4"
+          fill="#ffffff"
+        >{code}</text>
+        <text
+          x="120" y="148"
+          textAnchor="middle"
+          fontFamily="'Cabinet Grotesk', sans-serif"
+          fontWeight="500"
+          fontSize="11"
+          letterSpacing="6"
+          fill="#ffffff"
+        >APPROVED</text>
+        {/* tiny star decorations between TRAVLYS and APPROVED */}
+        <g fill="#ffffff">
+          <circle cx="40" cy="120" r="2" />
+          <circle cx="200" cy="120" r="2" />
+        </g>
+      </svg>
+    </div>
+  )
+}
+
 function SnapshotItem({ icon: Icon, label, value }) {
   return (
     <div className="flex items-start gap-3">
@@ -176,6 +225,32 @@ export default function VisaPage() {
         <div className="absolute inset-0 bg-gradient-to-r from-ink-950/85 via-ink-950/70 to-ink-950/40" />
         <HeroBlobs />
 
+        {/* Decorative passport stamp — sits in the hero corner. */}
+        <PassportStamp className="absolute right-6 lg:right-16 top-24 lg:top-28 w-[180px] h-[180px] lg:w-[260px] lg:h-[260px] hidden md:block" code={dest.code} country={dest.name} />
+
+        {/* Animated dashed flight-path arc across the hero */}
+        <svg
+          className="absolute left-0 right-0 top-1/3 w-full h-32 pointer-events-none hidden md:block"
+          viewBox="0 0 1200 100"
+          preserveAspectRatio="none"
+          fill="none"
+        >
+          <defs>
+            <linearGradient id="visa-path-grad" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0%"  stopColor="#d4a64a" stopOpacity="0" />
+              <stop offset="50%" stopColor="#ecc878" stopOpacity="0.45" />
+              <stop offset="100%" stopColor="#d4a64a" stopOpacity="0" />
+            </linearGradient>
+          </defs>
+          <path
+            className="flight-path"
+            d="M0,60 C200,10 400,90 600,40 C800,5 1000,85 1200,30"
+            stroke="url(#visa-path-grad)"
+            strokeWidth="1.5"
+            strokeLinecap="round"
+          />
+        </svg>
+
         <div className="relative z-10 container-app">
           <nav className="flex items-center gap-2 text-xs text-white/65 mb-6">
             <Link to="/" className="hover:text-coral-400 no-underline text-white/65">Home</Link>
@@ -216,7 +291,13 @@ export default function VisaPage() {
 
             {/* Snapshot card */}
             <div className="lg:col-span-5">
-              <div className="card p-6 md:p-7 bg-white">
+              <div className="card p-6 md:p-7 bg-white relative overflow-hidden">
+                {/* Thin gold accent line at the top edge */}
+                <span
+                  aria-hidden
+                  className="absolute top-0 inset-x-0 h-[3px]"
+                  style={{ background: 'linear-gradient(90deg, transparent, #d4a64a 30%, #ecc878 50%, #d4a64a 70%, transparent)' }}
+                />
                 <div className="flex items-center justify-between gap-3">
                   <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold">Travlys fee</p>
                   <span className="pill bg-mint-100 text-mint-500 font-semibold">In stock · book now</span>
