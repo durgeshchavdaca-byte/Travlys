@@ -20,6 +20,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 import { destinations } from '../src/data/destinations.js'
+import { CITIES } from '../src/data/cities.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -28,8 +29,10 @@ import {
   DEFAULT_LOCALE,
   buildHomeSchemas,
   buildVisaSchemas,
+  buildCityVisaSchemas,
   getHomeMeta,
   getVisaMeta,
+  getCityVisaMeta,
 } from '../src/seo/config.js'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -138,7 +141,7 @@ function renderRoute(template, meta, schemas) {
   return html
 }
 
-function buildSitemap(destinations, today) {
+function buildSitemap(destinations, cities, today) {
   const url = (path) => `${SITE_URL}${path}`
   const lines = [
     '<?xml version="1.0" encoding="UTF-8"?>',
@@ -176,6 +179,20 @@ function buildSitemap(destinations, today) {
       '    </image:image>',
       '  </url>',
     )
+    // City × country variants — programmatic SEO for "<country> visa from <city>".
+    for (const c of cities) {
+      const p = `/visa/${d.slug}/from/${c.slug}`
+      lines.push(
+        '  <url>',
+        `    <loc>${url(p)}</loc>`,
+        `    <lastmod>${today}</lastmod>`,
+        '    <changefreq>monthly</changefreq>',
+        `    <priority>0.7</priority>`,
+        `    <xhtml:link rel="alternate" hreflang="en-in" href="${url(p)}" />`,
+        `    <xhtml:link rel="alternate" hreflang="x-default" href="${url(p)}" />`,
+        '  </url>',
+      )
+    }
   }
   lines.push('</urlset>')
   return lines.join('\n') + '\n'
@@ -233,9 +250,23 @@ async function main() {
     routes.push(meta.path)
   }
 
+  // City × country pages, write dist/visa/<slug>/from/<city>/index.html
+  // for every combination. 10 dests × 12 cities = 120 new SEO pages.
+  for (const dest of destinations) {
+    for (const city of CITIES) {
+      const meta = getCityVisaMeta(dest, city)
+      const schemas = buildCityVisaSchemas(dest, city)
+      const html = renderRoute(template, meta, schemas)
+      const dir = path.join(dist, 'visa', dest.slug, 'from', city.slug)
+      await fs.mkdir(dir, { recursive: true })
+      await fs.writeFile(path.join(dir, 'index.html'), html)
+      routes.push(meta.path)
+    }
+  }
+
   // Sitemap, regenerate with today's lastmod
   const today = new Date().toISOString().slice(0, 10)
-  await fs.writeFile(path.join(dist, 'sitemap.xml'), buildSitemap(destinations, today))
+  await fs.writeFile(path.join(dist, 'sitemap.xml'), buildSitemap(destinations, CITIES, today))
 
   // llms.txt, AI-bot discoverability
   await fs.writeFile(path.join(dist, 'llms.txt'), buildLlmsTxt(destinations))

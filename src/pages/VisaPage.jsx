@@ -20,6 +20,7 @@ import {
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
 import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import { destinations, getCostBreakdown } from '../data/destinations'
+import { CITIES } from '../data/cities'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
@@ -549,6 +550,42 @@ export default function VisaPage() {
             <a href="tel:+918200918967" className="btn btn-on-dark">
               <Phone className="w-4 h-4" /> +91 82009 18967
             </a>
+          </div>
+        </div>
+      </section>
+
+      {/* City × country cross-links — feeds Google a clean internal-link graph
+          for every "<country> visa from <city>" landing page. */}
+      <section className="py-16 bg-white border-t border-line">
+        <div className="container-app">
+          <div className="flex items-end justify-between gap-4 mb-6">
+            <div>
+              <span className="pill bg-coral-50 text-coral-600">From your city</span>
+              <h2 className="font-display text-2xl md:text-3xl font-extrabold text-ink-900 mt-3 leading-tight">
+                Apply for a {dest.name} visa from your city.
+              </h2>
+              <p className="text-sm text-slate-muted mt-2 max-w-xl">
+                We file {dest.name} visas for applicants across India. Pick your city
+                for VFS centre, jurisdiction and travel-hub specifics.
+              </p>
+            </div>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+            {CITIES.map((c) => (
+              <Link
+                key={c.slug}
+                to={`/visa/${dest.slug}/from/${c.slug}`}
+                className="card p-4 no-underline group"
+              >
+                <div className="flex items-center justify-between gap-2">
+                  <p className="font-display font-bold text-ink-900 leading-tight">
+                    {dest.name} from {c.name}
+                  </p>
+                  <ArrowUpRight className="w-4 h-4 text-slate-faint group-hover:text-coral-500 transition-colors shrink-0" />
+                </div>
+                <p className="text-xs text-slate-muted mt-1">{c.state}</p>
+              </Link>
+            ))}
           </div>
         </div>
       </section>

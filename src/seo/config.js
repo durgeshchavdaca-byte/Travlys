@@ -422,6 +422,141 @@ export function getHomeMeta() {
   }
 }
 
+// City × country meta. Targets queries like "USA visa from Mumbai" or
+// "Schengen visa from Bengaluru" with their own static HTML, title,
+// description and structured data.
+export function getCityVisaMeta(dest, city) {
+  const pagePath = `/visa/${dest.slug}/from/${city.slug}`
+  const heroImage = dest.heroImage || dest.image
+  return {
+    title: `${dest.name} Visa from ${city.name}: Apply with Travlys (${city.state})`,
+    description:
+      `Apply for a ${dest.name} visa from ${city.name}, ${city.state} with Travlys. ` +
+      `${dest.processingTime} processing, VFS at ${city.vfsCenter}, jurisdiction: ${city.nearestConsulate}. ` +
+      `Service from ${dest.price}. 98% approval rate across 5,000+ Indian visas.`,
+    path: pagePath,
+    keywords: [
+      `${dest.name.toLowerCase()} visa from ${city.name.toLowerCase()}`,
+      `${dest.name.toLowerCase()} visa ${city.name.toLowerCase()}`,
+      `${dest.name.toLowerCase()} visa consultants ${city.name.toLowerCase()}`,
+      `${dest.name.toLowerCase()} visa agent ${city.name.toLowerCase()}`,
+      `${dest.name.toLowerCase()} visa appointment ${city.name.toLowerCase()}`,
+      `vfs ${city.name.toLowerCase()}`,
+      `${city.name.toLowerCase()} ${dest.name.toLowerCase()} visa cost`,
+      `travlys ${city.name.toLowerCase()}`,
+    ].join(', '),
+    type: 'article',
+    image: heroImage,
+    imageAlt: `${dest.name} visa assistance from ${city.name}, ${city.state} — Travlys`,
+    city,
+    dest,
+  }
+}
+
+export function buildCityVisaSchemas(dest, city) {
+  const pagePath = `/visa/${dest.slug}/from/${city.slug}`
+  const canonical = `${SITE_URL}${pagePath}`
+  const heroImage = dest.heroImage || dest.image
+  const meta = getCityVisaMeta(dest, city)
+
+  return [
+    buildWebPageSchema(meta),
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+        { '@type': 'ListItem', position: 2, name: `${dest.name} Visa`, item: `${SITE_URL}/visa/${dest.slug}` },
+        { '@type': 'ListItem', position: 3, name: `From ${city.name}`, item: canonical },
+      ],
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Service',
+      '@id': `${canonical}#service`,
+      serviceType: `${dest.name} Visa Assistance for ${city.name} Residents`,
+      name: `${dest.name} Visa from ${city.name} via Travlys`,
+      description: meta.description,
+      provider: { '@id': `${SITE_URL}/#organization` },
+      areaServed: [
+        { '@type': 'City', name: city.name, containedIn: { '@type': 'AdministrativeArea', name: city.state } },
+        { '@type': 'AdministrativeArea', name: city.state },
+      ],
+      audience: { '@type': 'PeopleAudience', name: `Indian passport holders in ${city.name}` },
+      url: canonical,
+      image: heroImage,
+      brand: { '@type': 'Brand', name: SITE_NAME },
+      ...(dest.priceValue
+        ? {
+            offers: {
+              '@type': 'Offer',
+              price: String(dest.priceValue),
+              priceCurrency: dest.currency || 'INR',
+              availability: 'https://schema.org/InStock',
+              url: canonical,
+              seller: { '@id': `${SITE_URL}/#organization` },
+            },
+          }
+        : {}),
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Place',
+      '@id': `${canonical}#place`,
+      name: city.name,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: city.name,
+        addressRegion: city.state,
+        addressCountry: 'IN',
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: String(city.lat),
+        longitude: String(city.lng),
+      },
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: [
+        {
+          '@type': 'Question',
+          name: `Where do I submit biometrics for a ${dest.name} visa from ${city.name}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `For a ${dest.name} visa from ${city.name}, biometrics are taken at the VFS centre in ${city.vfsCenter}. Travlys books the earliest available slot and prepares your full file before the appointment.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `Which embassy or consulate handles ${dest.name} visa applications from ${city.name}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Applicants from ${city.name} (${city.state}) fall under the jurisdiction of the ${city.nearestConsulate} for ${dest.name} visa processing.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `Can I apply for a ${dest.name} visa from ${city.name} without travelling to ${city.nearestConsulate.includes('Embassy') ? 'New Delhi' : 'the consulate city'}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Most of the application is online or at your local VFS in ${city.name}. You only travel to the consulate or embassy on the interview day. Travlys handles document prep, form filing and appointment booking remotely.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `How much does a ${dest.name} visa cost from ${city.name}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Travlys service fee for a ${dest.name} visa starts at ${dest.price}. Embassy / VFS fees are paid separately to the authority. Total estimate depends on the visa subcategory and current FX.`,
+          },
+        },
+      ],
+    },
+  ]
+}
+
 export function getVisaMeta(dest) {
   const pagePath = `/visa/${dest.slug}`
   const heroImage = dest.heroImage || dest.image

@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import HomePage from './pages/HomePage'
 import VisaPage from './pages/VisaPage'
+import CityVisaPage from './pages/CityVisaPage'
 import ScrollToTop from './components/ScrollToTop'
 import StickyContact from './components/StickyContact'
 import { ScrollProgress } from './components/MotionGraphics'
@@ -21,6 +22,7 @@ function App() {
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<HomePage />} />
             <Route path="/visa/:slug" element={<VisaPage />} />
+            <Route path="/visa/:slug/from/:city" element={<CityVisaPage />} />
           </Routes>
         </AnimatePresence>
       </main>
