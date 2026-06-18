@@ -154,7 +154,7 @@ function buildSitemap(destinations, today) {
     `    <xhtml:link rel="alternate" hreflang="x-default" href="${url('/')}" />`,
     '    <image:image>',
     `      <image:loc>${escapeXml(DEFAULT_OG_IMAGE)}</image:loc>`,
-    '      <image:title>Travlys — Visa Assistance for Indian Travelers</image:title>',
+    '      <image:title>Travlys, Visa Assistance for Indian Travelers</image:title>',
     '      <image:caption>Apply for US, UK, Canada, Schengen and more visas from India.</image:caption>',
     '    </image:image>',
     '  </url>',
@@ -181,7 +181,7 @@ function buildSitemap(destinations, today) {
   return lines.join('\n') + '\n'
 }
 
-// llms.txt — emerging convention for letting AI search tools discover
+// llms.txt, emerging convention for letting AI search tools discover
 // your site's structure and key URLs. Cheap to ship, no downside.
 function buildLlmsTxt(destinations) {
   const lines = [
@@ -197,7 +197,7 @@ function buildLlmsTxt(destinations) {
     '## Visa destination pages',
     ...destinations.map(
       (d) =>
-        `- [${d.name} Visa](${SITE_URL}/visa/${d.slug}): ${d.tagline || d.subtitle} — from ${d.price}, processing ${d.processingTime}`,
+        `- [${d.name} Visa](${SITE_URL}/visa/${d.slug}): ${d.tagline || d.subtitle}, from ${d.price}, processing ${d.processingTime}`,
     ),
     '',
     '## Contact',
@@ -215,14 +215,14 @@ async function main() {
 
   const routes = []
 
-  // Home — overwrite dist/index.html with home-specific meta
+  // Home, overwrite dist/index.html with home-specific meta
   const homeMeta = getHomeMeta()
   const homeSchemas = buildHomeSchemas(destinations)
   const homeHtml = renderRoute(template, homeMeta, homeSchemas)
   await fs.writeFile(indexPath, homeHtml)
   routes.push('/')
 
-  // Visa pages — write dist/visa/<slug>/index.html
+  // Visa pages, write dist/visa/<slug>/index.html
   for (const dest of destinations) {
     const meta = getVisaMeta(dest)
     const schemas = buildVisaSchemas(dest)
@@ -233,18 +233,18 @@ async function main() {
     routes.push(meta.path)
   }
 
-  // Sitemap — regenerate with today's lastmod
+  // Sitemap, regenerate with today's lastmod
   const today = new Date().toISOString().slice(0, 10)
   await fs.writeFile(path.join(dist, 'sitemap.xml'), buildSitemap(destinations, today))
 
-  // llms.txt — AI-bot discoverability
+  // llms.txt, AI-bot discoverability
   await fs.writeFile(path.join(dist, 'llms.txt'), buildLlmsTxt(destinations))
 
   console.log(`\nPre-rendered ${routes.length} routes:`)
   routes.forEach((r) => console.log(`  ✓ ${r}`))
   console.log(`\nRegenerated sitemap.xml (lastmod ${today}) and llms.txt`)
 
-  // IndexNow — ping Bing, Yandex, Naver, Seznam, Yep with the URL list.
+  // IndexNow, ping Bing, Yandex, Naver, Seznam, Yep with the URL list.
   // Only runs in CI (i.e. real GitHub Actions deploys) so local builds
   // don't notify search engines about pre-prod content.
   if (process.env.CI === 'true') {

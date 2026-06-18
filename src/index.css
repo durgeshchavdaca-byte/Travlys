@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  /* Brand — deep indigo + warm coral, tuned for travel/visa SaaS */
+  /* Brand, deep indigo + warm coral, tuned for travel/visa SaaS */
   --color-ink-950: #0a1230;
   --color-ink-900: #0f1b4c;
   --color-ink-800: #1a2862;
@@ -21,7 +21,7 @@
   --color-amber-500: #f5a524;
   --color-amber-100: #fdecc8;
 
-  /* Gold — used sparingly for the luxe accent paired with coral.
+  /* Gold, used sparingly for the luxe accent paired with coral.
      Coral stays the primary accent; gold appears on stats, dividers,
      premium badges, and the rotating globe wireframe. */
   --color-gold-700: #a07c2c;
@@ -42,14 +42,14 @@
 
   --color-line: #ece9df;
 
-  /* Typography — Switzer for body, Cabinet Grotesk for display.
+  /* Typography, Switzer for body, Cabinet Grotesk for display.
      Both from Fontshare (Indian Type Foundry). Distinct enough to
      not feel like a generic tech-template default; pair handles
      UI body, marketing headlines, and editorial italics. */
   --font-family-body: 'Switzer', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
   --font-family-display: 'Cabinet Grotesk', 'Switzer', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
 
-  /* Shadows — layered for a real sense of elevation, Apple-style.
+  /* Shadows, layered for a real sense of elevation, Apple-style.
      Each card is sitting on 3 stacked shadows: a tight near-surface
      contact shadow, a midrange diffusion shadow, and a soft far shadow. */
   --shadow-card: 0 1px 2px rgba(15, 27, 76, 0.04), 0 8px 24px rgba(15, 27, 76, 0.06);
@@ -158,7 +158,7 @@ body {
   box-shadow: var(--shadow-3d-hover);
 }
 
-/* Perspective-tilt wrapper — child .tilt-3d-inner rotates slightly on
+/* Perspective-tilt wrapper, child .tilt-3d-inner rotates slightly on
    hover to give a real sense of depth without JS. Apply tilt-3d to
    the OUTER element, tilt-3d-inner to the interactive child. */
 .tilt-3d {
@@ -173,7 +173,7 @@ body {
   transform: rotateX(2.5deg) rotateY(-3deg) translateZ(8px);
 }
 
-/* Gold gradient text — used on big stats and the occasional luxury
+/* Gold gradient text, used on big stats and the occasional luxury
    accent. Animates subtly so it catches the eye without being gaudy. */
 .gold-text {
   background: linear-gradient(135deg, #a07c2c 0%, #d4a64a 30%, #ecc878 50%, #d4a64a 70%, #a07c2c 100%);
@@ -189,7 +189,7 @@ body {
   50%      { background-position: 100% 50%; }
 }
 
-/* Thin gold-foil divider — a fine hairline that fades in/out.
+/* Thin gold-foil divider, a fine hairline that fades in/out.
    Use between section blocks for a more editorial / luxe feel. */
 .luxe-divider {
   height: 1px;
@@ -204,7 +204,7 @@ body {
   max-width: 280px;
 }
 
-/* Subtle paper-grain noise — overlays an off-white grain on dark
+/* Subtle paper-grain noise, overlays an off-white grain on dark
    sections so they feel like physical paper rather than digital
    solid fill. Almost invisible but adds richness. */
 .paper-grain {
@@ -388,7 +388,7 @@ details.faq summary::-webkit-details-marker { display: none; }
 details.faq[open] .faq-chev { transform: rotate(45deg); }
 .faq-chev { transition: transform 0.3s; }
 
-/* Premium gold badge — ribbon-style tag for embassy-tier visas
+/* Premium gold badge, ribbon-style tag for embassy-tier visas
    (USA / UK / Canada) to telegraph "high-touch service". */
 .premium-badge {
   display: inline-flex;
@@ -408,7 +408,7 @@ details.faq[open] .faq-chev { transform: rotate(45deg); }
   animation: gold-shimmer 6s linear infinite;
 }
 
-/* Hero italic accent — fat gradient underline behind the word. */
+/* Hero italic accent, fat gradient underline behind the word. */
 .hero-italic-mark {
   position: relative;
   display: inline-block;
@@ -425,7 +425,7 @@ details.faq[open] .faq-chev { transform: rotate(45deg); }
   z-index: -1;
 }
 
-/* Travel motif — animated globe wireframe (slow rotate). */
+/* Travel motif, animated globe wireframe (slow rotate). */
 @keyframes globe-rotate {
   from { transform: rotateY(0deg); }
   to   { transform: rotateY(360deg); }
@@ -445,7 +445,7 @@ details.faq[open] .faq-chev { transform: rotate(45deg); }
   animation: path-trace 6s linear forwards;
 }
 
-/* Floating travel pin — small dot with a "ping" pulse */
+/* Floating travel pin, small dot with a "ping" pulse */
 @keyframes pin-ping {
   0%   { transform: scale(1);   opacity: 0.9; }
   70%  { transform: scale(2.4); opacity: 0;   }

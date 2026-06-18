@@ -32,7 +32,7 @@ function prettyDate(iso) {
 }
 import { buildVisaSchemas, getVisaMeta } from '../seo/config'
 
-// Decorative passport-stamp SVG — hand-drawn, no copyrighted artwork.
+// Decorative passport-stamp SVG, hand-drawn, no copyrighted artwork.
 // Concentric circles + dashed outer ring + the destination's ISO code
 // at the centre, with "TRAVLYS" curved along the top arc and "APPROVED"
 // across the centre. Sits at low opacity in the hero corner.
@@ -114,7 +114,7 @@ function CostBreakdownSection({ dest }) {
           </h2>
           <p className="text-slate-muted mt-4 text-[1.02rem] leading-relaxed">
             Two parts: the Travlys service fee (flat, paid to us) and the embassy / VFS fee
-            (paid directly to the authority — we don’t mark it up). Forex moves, so the
+            (paid directly to the authority, we don’t mark it up). Forex moves, so the
             INR conversion is a current snapshot.
           </p>
           <p className="text-slate-faint mt-3 text-sm">
@@ -129,7 +129,7 @@ function CostBreakdownSection({ dest }) {
                 <tr className="border-b border-line">
                   <td className="py-4 px-5">
                     <p className="font-semibold text-ink-900">Travlys service fee</p>
-                    <p className="text-xs text-slate-muted mt-0.5">Flat — covers everything in the “Travlys handles” list above</p>
+                    <p className="text-xs text-slate-muted mt-0.5">Flat, covers everything in the “Travlys handles” list above</p>
                   </td>
                   <td className="py-4 px-5 text-right font-display font-bold text-ink-900 text-lg">
                     {cost.serviceLabel}
@@ -183,14 +183,14 @@ export default function VisaPage() {
       <>
         <SEO
           title="Visa Destination Not Found"
-          description="That visa destination isn’t on Travlys yet. Browse our supported countries — US, UK, Canada, Australia, Schengen, Singapore, UAE and more."
+          description="That visa destination isn’t on Travlys yet. Browse our supported countries, US, UK, Canada, Australia, Schengen, Singapore, UAE and more."
           path={`/visa/${slug || ''}`}
           noindex
         />
         <div className="min-h-[60vh] flex items-center justify-center bg-sand-50">
           <div className="text-center container-app">
             <h1 className="font-display text-4xl font-extrabold text-ink-900 mb-4">Destination not found</h1>
-            <p className="text-slate-muted mb-6">We don’t have a page for that one — but we probably handle it. Let’s talk.</p>
+            <p className="text-slate-muted mb-6">We don’t have a page for that one, but we probably handle it. Let’s talk.</p>
             <Link to="/" className="btn btn-primary">Back to home</Link>
           </div>
         </div>
@@ -217,7 +217,7 @@ export default function VisaPage() {
         >
           <img
             src={dest.heroImage || dest.image}
-            alt={`${dest.name} skyline — visa assistance for Indian travelers`}
+            alt={`${dest.name} skyline, visa assistance for Indian travelers`}
             fetchPriority="high"
             className="w-full h-[120%] object-cover"
           />
@@ -225,7 +225,7 @@ export default function VisaPage() {
         <div className="absolute inset-0 bg-gradient-to-r from-ink-950/85 via-ink-950/70 to-ink-950/40" />
         <HeroBlobs />
 
-        {/* Decorative passport stamp — sits in the hero corner. */}
+        {/* Decorative passport stamp, sits in the hero corner. */}
         <PassportStamp className="absolute right-6 lg:right-16 top-24 lg:top-28 w-[180px] h-[180px] lg:w-[260px] lg:h-[260px] hidden md:block" code={dest.code} country={dest.name} />
 
         {/* Animated dashed flight-path arc across the hero */}
@@ -366,7 +366,7 @@ export default function VisaPage() {
         </div>
       </section>
 
-      {/* Cost breakdown — answers "how much does <country> visa cost from India" */}
+      {/* Cost breakdown, answers "how much does <country> visa cost from India" */}
       <CostBreakdownSection dest={dest} />
 
       {/* Visa categories */}
@@ -422,8 +422,8 @@ export default function VisaPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
             {dest.processSteps.map((step, i) => {
-              const [head, ...rest] = step.split(' — ')
-              const body = rest.length ? rest.join(' — ') : ''
+              const [head, ...rest] = step.split(', ')
+              const body = rest.length ? rest.join(', ') : ''
               return (
                 <AnimatedSection key={i} delay={i * 0.05}>
                   <div className="card p-6 h-full flex gap-4">
@@ -454,7 +454,7 @@ export default function VisaPage() {
                 The {dest.name} visa checklist.
               </h2>
               <p className="text-slate-muted mt-4">
-                These are the most-common requirements — we send a profile-specific checklist within a day of your brief.
+                These are the most-common requirements, we send a profile-specific checklist within a day of your brief.
               </p>
               <a href="https://wa.me/918200918967" className="btn btn-coral mt-6">
                 <MessageCircle className="w-4 h-4" /> Get my checklist
@@ -485,10 +485,10 @@ export default function VisaPage() {
             <div className="lg:col-span-4">
               <span className="pill bg-coral-50 text-coral-600">Frequently asked</span>
               <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
-                {dest.name} visa — FAQs.
+                {dest.name} visa, FAQs.
               </h2>
               <p className="text-slate-muted mt-4">
-                Still need clarity? <a href="https://wa.me/918200918967" className="text-coral-500 font-medium">Message us</a> — most answers in under 15 minutes.
+                Still need clarity? <a href="https://wa.me/918200918967" className="text-coral-500 font-medium">Message us</a>, most answers in under 15 minutes.
               </p>
             </div>
             <div className="lg:col-span-8 space-y-3">
@@ -522,7 +522,7 @@ export default function VisaPage() {
                 Begin your {dest.name} visa.
               </h2>
               <p className="text-slate-muted mt-4">
-                Drop your details — a Travlys specialist comes back within a working day with a route, fee breakdown and earliest possible appointment dates.
+                Drop your details, a Travlys specialist comes back within a working day with a route, fee breakdown and earliest possible appointment dates.
               </p>
             </div>
             <div className="lg:col-span-7">

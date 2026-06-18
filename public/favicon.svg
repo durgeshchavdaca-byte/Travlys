@@ -1,13 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Travlys">
   <title>Travlys</title>
-  <!-- brand container -->
   <rect width="64" height="64" rx="16" fill="#0F1B4C"/>
-  <!-- destination marker (coral accent) -->
-  <circle cx="52" cy="10" r="3.5" fill="#FF7849"/>
-  <!-- lowercase "t" — crossbar -->
-  <rect x="10" y="21" width="34" height="6" rx="3" fill="#FFFFFF"/>
-  <!-- departure arrowhead extending from crossbar's right end -->
-  <path d="M40 16 L54 24 L40 32 Z" fill="#FFFFFF"/>
-  <!-- lowercase "t" — stem -->
-  <rect x="29" y="21" width="6" height="29" rx="3" fill="#FFFFFF"/>
+  <circle cx="32" cy="32" r="22" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.18"/>
+  <circle cx="32" cy="32" r="14" fill="#FF7849"/>
 </svg>

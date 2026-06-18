@@ -11,8 +11,8 @@ export const destinations = [
     accent: '#3b5bdb',
     region: 'Americas',
     visaType: 'Embassy Visa',
-    processingTime: '3–8 weeks',
-    processingTimeShort: '3–8 wks',
+    processingTime: '3-8 weeks',
+    processingTimeShort: '3-8 wks',
     validity: 'Up to 10 years',
     stayDuration: 'Up to 6 months / visit',
     entryType: 'Multiple',
@@ -23,11 +23,11 @@ export const destinations = [
     heroImage: 'https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=1600&h=900&fit=crop',
     tagline: 'B1/B2, F-1, H-1B and beyond',
     description:
-      'Full-spectrum support for the US visa process — DS-160 review, document prep tuned to your profile, mock interview rehearsal with seasoned consular-prep coaches, and appointment booking.',
+      'Full-spectrum support for the US visa process, DS-160 review, document prep tuned to your profile, mock interview rehearsal with seasoned consular-prep coaches, and appointment booking.',
     subtitle: 'End-to-end help for the US embassy visa journey',
     aboutTitle: 'About the US visa for Indian travelers',
     aboutText:
-      'Indian passport holders need a valid US visa for any visit — tourism, business, study, employment or transit. The process is managed by the US Department of State, runs through the DS-160 online form, and includes an in-person interview at a US embassy or consulate in India. Travlys handles preparation end-to-end so you walk into the interview confident.',
+      'Indian passport holders need a valid US visa for any visit, tourism, business, study, employment or transit. The process is managed by the US Department of State, runs through the DS-160 online form, and includes an in-person interview at a US embassy or consulate in India. Travlys handles preparation end-to-end so you walk into the interview confident.',
     metaTitle: 'US Visa from India 2026: Apply from ₹19,940 | Travlys',
     metaDescription:
       'Get your USA visa from India in 2026 with Travlys. B1/B2, F-1 and H-1B with DS-160 review, document prep, mock-interview coaching and embassy appointment booking from ₹19,940.',
@@ -43,19 +43,19 @@ export const destinations = [
     faqs: [
       {
         q: 'How long does it take to get a US visa from India?',
-        a: 'Interview wait times at US consulates in India fluctuate. Once your interview is done, B1/B2 stamping typically arrives within 1–2 weeks. We help you grab the earliest available slot.',
+        a: 'Interview wait times at US consulates in India fluctuate. Once your interview is done, B1/B2 stamping typically arrives within 1-2 weeks. We help you grab the earliest available slot.',
       },
       {
         q: 'What documents do I need for a US tourist visa?',
-        a: 'Passport (6+ months validity), DS-160 confirmation, fee receipt, visa-spec photograph, appointment letter, financial statements covering the past 3–6 months, and proof of strong ties to India (employment, family, assets).',
+        a: 'Passport (6+ months validity), DS-160 confirmation, fee receipt, visa-spec photograph, appointment letter, financial statements covering the past 3-6 months, and proof of strong ties to India (employment, family, assets).',
       },
       {
         q: 'Do you guarantee a US visa approval?',
-        a: 'No consultant honestly can — the consular officer decides. What we do guarantee is a complete, accurate application and thorough interview prep, which is the single biggest factor in approvals.',
+        a: 'No consultant honestly can, the consular officer decides. What we do guarantee is a complete, accurate application and thorough interview prep, which is the single biggest factor in approvals.',
       },
       {
         q: 'How much does Travlys charge for US visa assistance?',
-        a: 'Our service starts at ₹19,940 for B1/B2 — covering DS-160, documentation, mock interview and appointment booking. The US embassy fee (currently $185) is paid separately to the embassy.',
+        a: 'Our service starts at ₹19,940 for B1/B2, covering DS-160, documentation, mock interview and appointment booking. The US embassy fee (currently $185) is paid separately to the embassy.',
       },
     ],
     categories: [
@@ -65,12 +65,12 @@ export const destinations = [
       { name: 'L-1 Intracompany Transfer', purpose: 'Internal company move', description: 'For managers, executives or specialized employees moving to a US office of a multinational.' },
     ],
     processSteps: [
-      'Profile review — we map your travel purpose, history and financial story to the right visa category.',
-      'DS-160 walkthrough — we prepare your form and review every answer before submission.',
-      'Document set — a tailored checklist with templates for cover letter, itinerary and financials.',
-      'Appointment booking — VAC biometrics and embassy interview slots locked at the earliest dates.',
-      'Mock interview — two practice rounds with real consular questions and answer coaching.',
-      'Day-of support — a quick call before you walk in, plus passport return tracking after.',
+      'Profile review, we map your travel purpose, history and financial story to the right visa category.',
+      'DS-160 walkthrough, we prepare your form and review every answer before submission.',
+      'Document set, a tailored checklist with templates for cover letter, itinerary and financials.',
+      'Appointment booking, VAC biometrics and embassy interview slots locked at the earliest dates.',
+      'Mock interview, two practice rounds with real consular questions and answer coaching.',
+      'Day-of support, a quick call before you walk in, plus passport return tracking after.',
     ],
     documents: [
       'Passport with 6+ months validity beyond intended stay',
@@ -93,7 +93,7 @@ export const destinations = [
     visaType: 'Embassy Visa',
     processingTime: '3 weeks (Standard)',
     processingTimeShort: '~3 wks',
-    validity: '6 months – 10 years',
+    validity: '6 months - 10 years',
     stayDuration: 'Up to 6 months / visit',
     entryType: 'Multiple',
     price: 'From ₹12,950',
@@ -107,10 +107,10 @@ export const destinations = [
     subtitle: 'UKVI applications handled end-to-end',
     aboutTitle: 'About the UK visa for Indian travelers',
     aboutText:
-      'Indian nationals need a UK visa for visits, study, work and family travel. Applications run through the UKVI online portal followed by VFS biometrics in India. We focus on the genuine-visitor test — financial credibility, travel history and clear travel purpose — which is what UKVI decision-makers actually weigh.',
+      'Indian nationals need a UK visa for visits, study, work and family travel. Applications run through the UKVI online portal followed by VFS biometrics in India. We focus on the genuine-visitor test, financial credibility, travel history and clear travel purpose, which is what UKVI decision-makers actually weigh.',
     metaTitle: 'UK Visa from India 2026: Standard Visitor in 3 Weeks | Travlys',
     metaDescription:
-      'Apply for a UK visa from India in 3 weeks with Travlys. UKVI form, VFS biometrics, TB-test guidance and visa-grade cover letters for Standard Visitor, Student and Skilled Worker — from ₹12,950.',
+      'Apply for a UK visa from India in 3 weeks with Travlys. UKVI form, VFS biometrics, TB-test guidance and visa-grade cover letters for Standard Visitor, Student and Skilled Worker, from ₹12,950.',
     keywords:
       'uk visa from india, uk standard visitor visa, uk student visa, uk skilled worker visa, ukvi india, uk tb test, uk visa consultants india',
     includes: [
@@ -121,9 +121,9 @@ export const destinations = [
       'Priority / Super Priority advice where eligible',
     ],
     faqs: [
-      { q: 'How long does a UK visa take from India?', a: 'Standard processing is around 3 weeks from biometrics. Priority (5 working days) and Super Priority (next working day) are available where slots exist — we’ll advise based on your travel dates.' },
-      { q: 'Do I need a TB test for a UK visa?', a: 'Yes — Indian applicants applying for stays longer than 6 months must submit a TB test certificate from a UKVI-approved clinic. We refer you to one near you.' },
-      { q: 'What is the Standard Visitor Visa?', a: 'It’s the visa most leisure and business travelers use — valid for tourism, business meetings, short courses, and certain medical visits up to 6 months per stay.' },
+      { q: 'How long does a UK visa take from India?', a: 'Standard processing is around 3 weeks from biometrics. Priority (5 working days) and Super Priority (next working day) are available where slots exist, we’ll advise based on your travel dates.' },
+      { q: 'Do I need a TB test for a UK visa?', a: 'Yes, Indian applicants applying for stays longer than 6 months must submit a TB test certificate from a UKVI-approved clinic. We refer you to one near you.' },
+      { q: 'What is the Standard Visitor Visa?', a: 'It’s the visa most leisure and business travelers use, valid for tourism, business meetings, short courses, and certain medical visits up to 6 months per stay.' },
       { q: 'How much do you charge for UK visa help?', a: 'Service starts at ₹12,950 for the Standard Visitor Visa. UKVI fees and VFS charges are paid separately to the respective authorities.' },
     ],
     categories: [
@@ -158,8 +158,8 @@ export const destinations = [
     accent: '#d62828',
     region: 'Americas',
     visaType: 'Embassy Visa',
-    processingTime: '4–8 weeks',
-    processingTimeShort: '4–8 wks',
+    processingTime: '4-8 weeks',
+    processingTimeShort: '4-8 wks',
     validity: 'Up to 10 years',
     stayDuration: 'Up to 6 months / visit',
     entryType: 'Multiple',
@@ -170,7 +170,7 @@ export const destinations = [
     heroImage: 'https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1600&h=900&fit=crop',
     tagline: 'Visitor, Study Permit, Work Permit',
     description:
-      'IRCC applications across Visitor (TRV), Study Permit and Work Permit streams — biometrics booking, financial-sufficiency framing and a narrative that addresses dual-intent concerns clearly.',
+      'IRCC applications across Visitor (TRV), Study Permit and Work Permit streams, biometrics booking, financial-sufficiency framing and a narrative that addresses dual-intent concerns clearly.',
     subtitle: 'Visitor visas, study permits and work permits',
     aboutTitle: 'About the Canada visa for Indian travelers',
     aboutText:
@@ -188,9 +188,9 @@ export const destinations = [
       'Refusal-risk pre-check',
     ],
     faqs: [
-      { q: 'Do Indians need a visa for Canada?', a: 'Yes — Indian passport holders need a TRV (visitor visa), study permit or work permit. eTA is generally not available for Indian passport holders.' },
-      { q: 'How long does the Canada visitor visa take?', a: 'Typical IRCC processing from India runs 4–8 weeks once biometrics are submitted. Peak season can extend this.' },
-      { q: 'Is biometrics required for Canada visas in India?', a: 'Yes — applicants in India submit biometrics at a VFS centre as part of every IRCC application.' },
+      { q: 'Do Indians need a visa for Canada?', a: 'Yes, Indian passport holders need a TRV (visitor visa), study permit or work permit. eTA is generally not available for Indian passport holders.' },
+      { q: 'How long does the Canada visitor visa take?', a: 'Typical IRCC processing from India runs 4-8 weeks once biometrics are submitted. Peak season can extend this.' },
+      { q: 'Is biometrics required for Canada visas in India?', a: 'Yes, applicants in India submit biometrics at a VFS centre as part of every IRCC application.' },
       { q: 'How much does Travlys charge for Canada visa help?', a: 'Service starts at ₹14,950 for visitor visas. IRCC and VFS fees are paid separately to the authorities.' },
     ],
     categories: [
@@ -225,9 +225,9 @@ export const destinations = [
     accent: '#0a8754',
     region: 'Oceania',
     visaType: 'Embassy Visa',
-    processingTime: '2–6 weeks',
-    processingTimeShort: '2–6 wks',
-    validity: '1–3 years',
+    processingTime: '2-6 weeks',
+    processingTimeShort: '2-6 wks',
+    validity: '1-3 years',
     stayDuration: 'Up to 3 months / visit',
     entryType: 'Multiple',
     price: 'From ₹4,950',
@@ -241,10 +241,10 @@ export const destinations = [
     subtitle: 'Visitor, student and work visas via ImmiAccount',
     aboutTitle: 'About the Australia visa for Indian travelers',
     aboutText:
-      'Indians need a valid Australian visa for any visit. Applications run through ImmiAccount with biometrics at VFS where requested. Decision-makers focus on the Genuine Temporary Entrant criterion — your file must demonstrate clear ties and a credible purpose.',
+      'Indians need a valid Australian visa for any visit. Applications run through ImmiAccount with biometrics at VFS where requested. Decision-makers focus on the Genuine Temporary Entrant criterion, your file must demonstrate clear ties and a credible purpose.',
     metaTitle: 'Australia Visa from India 2026: Subclass 600 from ₹4,950 | Travlys',
     metaDescription:
-      'Australia visa from India in 2-6 weeks with Travlys. Subclass 600 Visitor, 500 Student and Work streams — ImmiAccount drafting, GTE statement help and biometrics from ₹4,950.',
+      'Australia visa from India in 2-6 weeks with Travlys. Subclass 600 Visitor, 500 Student and Work streams, ImmiAccount drafting, GTE statement help and biometrics from ₹4,950.',
     keywords:
       'australia visa from india, subclass 600, australia student visa 500, australia work visa, immiaccount india, australia visa consultants',
     includes: [
@@ -255,8 +255,8 @@ export const destinations = [
       'Status tracking until decision',
     ],
     faqs: [
-      { q: 'How long does an Australia visa take from India?', a: 'Visitor visas (Subclass 600) commonly process in 2–6 weeks; student visas (500) take longer and depend on the institution and course start date.' },
-      { q: 'What is the GTE statement?', a: 'Genuine Temporary Entrant — a written statement explaining why you’ll return to India after your visit or studies. It’s pivotal to approvals; we draft it with you.' },
+      { q: 'How long does an Australia visa take from India?', a: 'Visitor visas (Subclass 600) commonly process in 2-6 weeks; student visas (500) take longer and depend on the institution and course start date.' },
+      { q: 'What is the GTE statement?', a: 'Genuine Temporary Entrant, a written statement explaining why you’ll return to India after your visit or studies. It’s pivotal to approvals; we draft it with you.' },
       { q: 'Do I need biometrics for an Australia visa?', a: 'Many applicants are asked for biometrics at VFS during processing. We book the appointment for you if requested.' },
       { q: 'How much does Travlys charge for an Australia visa?', a: 'Service starts at ₹4,950 for the visitor stream. DHA visa application charges (VAC) are paid separately.' },
     ],
@@ -292,8 +292,8 @@ export const destinations = [
     accent: '#ff7849',
     region: 'Europe',
     visaType: 'Schengen Visa',
-    processingTime: '15–30 days',
-    processingTimeShort: '15–30 d',
+    processingTime: '15-30 days',
+    processingTimeShort: '15-30 d',
     validity: 'Up to 5 years',
     stayDuration: '90 days in any 180',
     entryType: 'Multiple',
@@ -302,13 +302,13 @@ export const destinations = [
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1576924542622-772579c8d6e7?w=1600&h=900&fit=crop',
-    tagline: 'Schengen via Netherlands — 26 countries unlocked',
+    tagline: 'Schengen via Netherlands, 26 countries unlocked',
     description:
       'Netherlands-issued Schengen visa with travel-insurance bundles, VFS appointment booking and a cover letter that maps your itinerary to the main-destination rule.',
-    subtitle: 'Schengen via the Netherlands — clean, fast, well-documented',
+    subtitle: 'Schengen via the Netherlands, clean, fast, well-documented',
     aboutTitle: 'About the Netherlands Schengen visa',
     aboutText:
-      'A Netherlands-issued Schengen short-stay visa lets you travel across all 26 Schengen states for up to 90 days in any 180-day period. The main-destination rule applies — you must apply through the country where you’ll spend the most time. Travlys aligns your itinerary, accommodation and cover letter to make that case cleanly.',
+      'A Netherlands-issued Schengen short-stay visa lets you travel across all 26 Schengen states for up to 90 days in any 180-day period. The main-destination rule applies, you must apply through the country where you’ll spend the most time. Travlys aligns your itinerary, accommodation and cover letter to make that case cleanly.',
     metaTitle: 'Schengen Visa from India 2026: ₹2,950, 15-Day Processing | Travlys',
     metaDescription:
       'Get a Netherlands Schengen visa from India in 15-30 days from ₹2,950. Travlys handles VFS appointment booking, €30,000+ travel insurance, biometrics and visa-grade cover letter.',
@@ -322,9 +322,9 @@ export const destinations = [
       'Biometrics-day support',
     ],
     faqs: [
-      { q: 'Is a Netherlands visa the same as a Schengen visa?', a: 'A short-stay Netherlands visa is a Schengen visa — it permits travel across all 26 Schengen countries within the granted validity and duration.' },
-      { q: 'How long does the Schengen visa take?', a: 'Standard processing is 15 calendar days; busy travel windows can stretch to 30. We recommend applying 4–6 weeks before travel.' },
-      { q: 'Do I need travel insurance?', a: 'Yes — Schengen rules require travel insurance with minimum €30,000 medical cover valid across the Schengen area for the full visa duration.' },
+      { q: 'Is a Netherlands visa the same as a Schengen visa?', a: 'A short-stay Netherlands visa is a Schengen visa, it permits travel across all 26 Schengen countries within the granted validity and duration.' },
+      { q: 'How long does the Schengen visa take?', a: 'Standard processing is 15 calendar days; busy travel windows can stretch to 30. We recommend applying 4-6 weeks before travel.' },
+      { q: 'Do I need travel insurance?', a: 'Yes, Schengen rules require travel insurance with minimum €30,000 medical cover valid across the Schengen area for the full visa duration.' },
       { q: 'How much do you charge for Schengen visa help?', a: 'Service starts at ₹2,950. The embassy fee (currently €90 / ~₹9,600) is paid separately to the embassy via VFS.' },
     ],
     categories: [
@@ -360,8 +360,8 @@ export const destinations = [
     accent: '#ed2939',
     region: 'Asia',
     visaType: 'e-Visa',
-    processingTime: '3–5 working days',
-    processingTimeShort: '3–5 d',
+    processingTime: '3-5 working days',
+    processingTimeShort: '3-5 d',
     validity: 'Up to 2 years',
     stayDuration: 'Up to 30 days / visit',
     entryType: 'Multiple',
@@ -370,13 +370,13 @@ export const destinations = [
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1565967511849-76a60a516170?w=1600&h=900&fit=crop',
-    tagline: 'e-Visa in 3–5 working days',
+    tagline: 'e-Visa in 3-5 working days',
     description:
       'Singapore e-Visa with end-to-end documentation, ICA submission and PDF visa delivered straight to your inbox.',
     subtitle: 'Singapore e-Visa, sorted in a week',
     aboutTitle: 'About the Singapore e-Visa',
     aboutText:
-      'Indian passport holders need a visa for Singapore. The e-Visa is fully online — once submitted, decisions arrive in 3–5 working days. We take care of file accuracy and the financial sufficiency narrative ICA looks for.',
+      'Indian passport holders need a visa for Singapore. The e-Visa is fully online, once submitted, decisions arrive in 3-5 working days. We take care of file accuracy and the financial sufficiency narrative ICA looks for.',
     metaTitle: 'Singapore Visa from India 2026: e-Visa in 3-5 Days, ₹2,950 | Travlys',
     metaDescription:
       'Singapore e-Visa from India in 3-5 working days from ₹2,950. Travlys handles ICA submission, document quality check, query handling and email delivery of your approved e-Visa PDF.',
@@ -390,10 +390,10 @@ export const destinations = [
       'Travel-day support',
     ],
     faqs: [
-      { q: 'How long does a Singapore e-Visa take from India?', a: 'Typically 3–5 working days when the file is complete. Same-day decisions occur but are not guaranteed.' },
+      { q: 'How long does a Singapore e-Visa take from India?', a: 'Typically 3-5 working days when the file is complete. Same-day decisions occur but are not guaranteed.' },
       { q: 'How much does it cost?', a: 'Travlys service starts at ₹2,950; ICA visa fee is paid separately.' },
       { q: 'Documents required?', a: 'Passport, photograph, travel itinerary, hotel bookings, financial documents and an employment / sponsorship letter.' },
-      { q: 'Can families apply together?', a: 'Yes — we file family applications as a single batch with a consolidated travel narrative.' },
+      { q: 'Can families apply together?', a: 'Yes, we file family applications as a single batch with a consolidated travel narrative.' },
     ],
     categories: [
       { name: 'Tourist e-Visa', purpose: 'Tourism', description: 'For leisure travel and friends-family visits, up to 30 days per stay.' },
@@ -423,8 +423,8 @@ export const destinations = [
     accent: '#00723f',
     region: 'Middle East',
     visaType: 'e-Visa',
-    processingTime: '2–4 working days',
-    processingTimeShort: '2–4 d',
+    processingTime: '2-4 working days',
+    processingTimeShort: '2-4 d',
     validity: '60 days from issue',
     stayDuration: '14 / 30 / 60 days',
     entryType: 'Single / Multiple',
@@ -435,11 +435,11 @@ export const destinations = [
     heroImage: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&h=900&fit=crop',
     tagline: '14 / 30 / 60-day Dubai e-Visa',
     description:
-      'UAE / Dubai e-Visa with quick turnaround — we file via approved channels and deliver the PDF visa to your inbox before you pack.',
+      'UAE / Dubai e-Visa with quick turnaround, we file via approved channels and deliver the PDF visa to your inbox before you pack.',
     subtitle: 'Dubai e-Visa with rapid turnaround',
     aboutTitle: 'About the UAE / Dubai visa',
     aboutText:
-      'Indians need a visa to enter the UAE. Multiple e-Visa categories are available — 14, 30 and 60-day single or multiple-entry. Travlys files through approved channels with documentation tuned to GDRFA preferences.',
+      'Indians need a visa to enter the UAE. Multiple e-Visa categories are available, 14, 30 and 60-day single or multiple-entry. Travlys files through approved channels with documentation tuned to GDRFA preferences.',
     metaTitle: 'Dubai Visa from India 2026: 14 / 30 / 60-day from ₹2,500 | Travlys',
     metaDescription:
       'Dubai and UAE tourist e-Visa from India in 2-4 working days from ₹2,500. 14, 30 and 60-day single & multiple-entry options with full documentation and PDF visa delivered to your inbox.',
@@ -453,7 +453,7 @@ export const destinations = [
       'Validity / entry advisory',
     ],
     faqs: [
-      { q: 'How fast can I get a Dubai visa?', a: 'UAE e-Visas are usually issued in 2–4 working days. Express options are available for some categories.' },
+      { q: 'How fast can I get a Dubai visa?', a: 'UAE e-Visas are usually issued in 2-4 working days. Express options are available for some categories.' },
       { q: 'What’s the difference between 30 and 60 day visas?', a: '30-day visa allows a 30-day stay; 60-day allows 60. Both come in single or multiple-entry. We help pick based on your itinerary.' },
       { q: 'Do I need a visa to transit through Dubai?', a: 'A 48 or 96-hour transit visa may be required depending on layover duration and airline. We assess case-by-case.' },
       { q: 'What documents are needed?', a: 'Passport copy, photograph, confirmed return tickets, hotel booking and financial proof in most cases.' },
@@ -488,8 +488,8 @@ export const destinations = [
     accent: '#ed1c24',
     region: 'Asia',
     visaType: 'e-Visa',
-    processingTime: '5–10 working days',
-    processingTimeShort: '5–10 d',
+    processingTime: '5-10 working days',
+    processingTimeShort: '5-10 d',
     validity: '90 days from issue',
     stayDuration: 'Up to 60 days / visit',
     entryType: 'Single',
@@ -519,7 +519,7 @@ export const destinations = [
     ],
     faqs: [
       { q: 'Do Indians need a visa for Thailand?', a: 'Yes. The tourist e-Visa is the standard route for stays up to 60 days; longer stays need different categories.' },
-      { q: 'How long does processing take?', a: 'Typically 5–10 working days through the official e-Visa portal. Peak season can extend slightly.' },
+      { q: 'How long does processing take?', a: 'Typically 5-10 working days through the official e-Visa portal. Peak season can extend slightly.' },
       { q: 'How much does Travlys charge?', a: 'Service starts at ₹1,950. The embassy fee is paid separately to the Royal Thai government.' },
     ],
     categories: [
@@ -550,8 +550,8 @@ export const destinations = [
     accent: '#00247d',
     region: 'Oceania',
     visaType: 'Embassy Visa',
-    processingTime: '2–6 weeks',
-    processingTimeShort: '2–6 wks',
+    processingTime: '2-6 weeks',
+    processingTimeShort: '2-6 wks',
     validity: 'Up to 3 years',
     stayDuration: 'Up to 9 months',
     entryType: 'Multiple',
@@ -569,7 +569,7 @@ export const destinations = [
       'Indians need an INZ visa for New Zealand. Applications are filed online and decided by Immigration New Zealand based on character, health and credibility of intent.',
     metaTitle: 'New Zealand Visa from India 2026: INZ Visitor from ₹6,950 | Travlys',
     metaDescription:
-      'Apply for an Immigration New Zealand (INZ) visa from India — visitor, work, student — from ₹6,950. Travlys handles online drafting, character/health declarations and medical/PCC referrals.',
+      'Apply for an Immigration New Zealand (INZ) visa from India, visitor, work, student, from ₹6,950. Travlys handles online drafting, character/health declarations and medical/PCC referrals.',
     keywords:
       'new zealand visa from india, nz visitor visa, new zealand work visa, new zealand student visa, immigration new zealand india',
     includes: [
@@ -580,7 +580,7 @@ export const destinations = [
       'Decision tracking',
     ],
     faqs: [
-      { q: 'How long does an NZ visa take from India?', a: 'INZ visitor visas typically process in 2–6 weeks; longer for work and student routes depending on documents and any additional checks.' },
+      { q: 'How long does an NZ visa take from India?', a: 'INZ visitor visas typically process in 2-6 weeks; longer for work and student routes depending on documents and any additional checks.' },
       { q: 'How much do you charge?', a: 'Service starts at ₹6,950 for the visitor stream. INZ visa fees and IELTS/medical costs are paid separately.' },
       { q: 'Do I need a medical?', a: 'Medicals and police clearances are required for some categories or stays. We confirm based on your specific application.' },
     ],
@@ -615,8 +615,8 @@ export const destinations = [
     accent: '#ffcc00',
     region: 'Asia',
     visaType: 'eNTRI / e-Visa',
-    processingTime: '2–4 working days',
-    processingTimeShort: '2–4 d',
+    processingTime: '2-4 working days',
+    processingTimeShort: '2-4 d',
     validity: '3 months',
     stayDuration: 'Up to 30 days',
     entryType: 'Single',
@@ -625,9 +625,9 @@ export const destinations = [
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1567892737950-30c4db37f9eb?w=1600&h=900&fit=crop',
-    tagline: 'eNTRI or e-Visa — pick the right one',
+    tagline: 'eNTRI or e-Visa, pick the right one',
     description:
-      'Malaysia eNTRI for short trips or full e-Visa for longer stays — Travlys files via official Imigresen channels.',
+      'Malaysia eNTRI for short trips or full e-Visa for longer stays, Travlys files via official Imigresen channels.',
     subtitle: 'eNTRI and e-Visa filed through official channels',
     aboutTitle: 'About the Malaysia visa',
     aboutText:
@@ -645,8 +645,8 @@ export const destinations = [
       'Approved visa emailed',
     ],
     faqs: [
-      { q: 'eNTRI vs e-Visa — which do I need?', a: 'eNTRI works for short tourism (up to 15 days). For 30-day stays or business visits, you need the e-Visa. We pick the right one based on your itinerary.' },
-      { q: 'How long does an eNTRI take?', a: 'Typically 2–4 working days from a clean file submission.' },
+      { q: 'eNTRI vs e-Visa, which do I need?', a: 'eNTRI works for short tourism (up to 15 days). For 30-day stays or business visits, you need the e-Visa. We pick the right one based on your itinerary.' },
+      { q: 'How long does an eNTRI take?', a: 'Typically 2-4 working days from a clean file submission.' },
       { q: 'How much do you charge?', a: 'Service starts at ₹999. Imigresen fees are paid separately.' },
     ],
     categories: [
@@ -688,7 +688,7 @@ export const regions = [
 ]
 
 // Approximate government / embassy fees paid directly to the visa
-// authority — separate from the Travlys service fee. INR conversions
+// authority, separate from the Travlys service fee. INR conversions
 // are indicative and shift with FX; we always show the original
 // currency alongside so it stays honest.
 export const GOV_FEES = {

@@ -1,5 +1,5 @@
 // Customer reviews / testimonials. Add real ones below as you collect
-// them — the site will automatically render them in a Reviews section
+// them, the site will automatically render them in a Reviews section
 // AND emit Review JSON-LD that makes ⭐⭐⭐⭐⭐ stars eligible to appear
 // next to your listings in Google search results.
 //
@@ -7,12 +7,12 @@
 // can trigger a Google manual penalty.
 //
 // Each review supports:
-//   author       — customer name (required)
-//   rating       — 1-5 (required, integer or decimal)
-//   date         — ISO date string e.g. "2026-04-15"
-//   destination  — e.g. "USA Visa" / "Schengen Visa" (helps SEO context)
-//   text         — the review body (required)
-//   location     — e.g. "Mumbai, India" (optional, helps local relevance)
+//   author      , customer name (required)
+//   rating      , 1-5 (required, integer or decimal)
+//   date        , ISO date string e.g. "2026-04-15"
+//   destination , e.g. "USA Visa" / "Schengen Visa" (helps SEO context)
+//   text        , the review body (required)
+//   location    , e.g. "Mumbai, India" (optional, helps local relevance)
 
 export const reviews = [
   // {

@@ -4,32 +4,15 @@ import { ChevronDown, Menu, X, Phone } from 'lucide-react'
 import { destinations } from '../data/destinations'
 import Flag from './Flag'
 
-function Logo({ tone = 'dark', size = 34 }) {
+function Logo({ tone = 'dark' }) {
   const fg = tone === 'light' ? '#ffffff' : '#0f1b4c'
-  const container = tone === 'light' ? 'rgba(255,255,255,0.08)' : '#0F1B4C'
-  const containerStroke = tone === 'light' ? 'rgba(255,255,255,0.28)' : 'transparent'
-  const mark = '#ffffff'
   return (
-    <span className="flex items-center gap-2.5 select-none">
-      <svg
-        width={size}
-        height={size}
-        viewBox="0 0 64 64"
-        fill="none"
-        aria-hidden
-        className="shrink-0"
-      >
-        <rect width="64" height="64" rx="16" fill={container} stroke={containerStroke} strokeWidth="1" />
-        <circle cx="52" cy="10" r="3.5" fill="#FF7849" />
-        <rect x="10" y="21" width="34" height="6" rx="3" fill={mark} />
-        <path d="M40 16 L54 24 L40 32 Z" fill={mark} />
-        <rect x="29" y="21" width="6" height="29" rx="3" fill={mark} />
-      </svg>
+    <span className="flex items-center select-none">
       <span
         className="font-display font-extrabold lowercase"
         style={{
           color: fg,
-          fontSize: '1.55rem',
+          fontSize: '1.7rem',
           letterSpacing: '-0.045em',
           lineHeight: 1,
         }}
@@ -39,8 +22,8 @@ function Logo({ tone = 'dark', size = 34 }) {
           aria-hidden
           style={{
             display: 'inline-block',
-            width: '5px',
-            height: '5px',
+            width: '6px',
+            height: '6px',
             borderRadius: '999px',
             background: '#FF7849',
             marginLeft: '2px',

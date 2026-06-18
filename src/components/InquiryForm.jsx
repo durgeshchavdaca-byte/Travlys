@@ -45,7 +45,7 @@ export default function InquiryForm({ defaultDestination = '', compact = false }
           <CheckCircle2 className="w-7 h-7 text-mint-500" />
         </div>
         <h3 className="font-display text-2xl font-bold text-ink-900 mb-2">
-          Got it — we’re on it
+          Got it, we’re on it
         </h3>
         <p className="text-slate-muted text-[0.95rem] leading-relaxed max-w-md mx-auto">
           A Travlys visa specialist will reach out within one working day with a tailored plan, timeline and quote. Need it faster?
@@ -137,7 +137,7 @@ export default function InquiryForm({ defaultDestination = '', compact = false }
         <textarea
           name="message"
           rows="3"
-          placeholder="Travel dates, urgency, past refusals, group size — anything helps."
+          placeholder="Travel dates, urgency, past refusals, group size, anything helps."
           className="input resize-none"
         />
       </Field>

@@ -45,7 +45,7 @@ export default function Footer() {
               </a>
               <p className="flex items-start gap-2 text-white/55 text-sm">
                 <MapPin className="w-4 h-4 text-coral-500 mt-0.5 shrink-0" />
-                <span>Mon – Sat, 9 AM – 7 PM IST</span>
+                <span>Mon - Sat, 9 AM - 7 PM IST</span>
               </p>
             </div>
 

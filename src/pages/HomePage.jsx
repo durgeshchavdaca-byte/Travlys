@@ -103,7 +103,7 @@ function HeroSearch() {
             ))}
             {suggestions.length === 0 && (
               <li className="px-3 py-4 text-sm text-slate-muted">
-                We don’t list that one yet — message us and we’ll see what we can do.
+                We don’t list that one yet, message us and we’ll see what we can do.
               </li>
             )}
           </ul>
@@ -116,7 +116,7 @@ function HeroSearch() {
 function HeroBackdrop() {
   return (
     <>
-      {/* Rotating wireframe globe — sits behind the headline, very low opacity */}
+      {/* Rotating wireframe globe, sits behind the headline, very low opacity */}
       <div
         className="absolute right-[-160px] top-[80px] w-[460px] h-[460px] pointer-events-none hidden md:block"
         style={{ perspective: '900px' }}
@@ -139,7 +139,7 @@ function HeroBackdrop() {
         </div>
       </div>
 
-      {/* Mirror globe on the left — smaller, even fainter, for balance */}
+      {/* Mirror globe on the left, smaller, even fainter, for balance */}
       <div
         className="absolute left-[-120px] bottom-[40px] w-[300px] h-[300px] pointer-events-none hidden lg:block"
         style={{ perspective: '900px' }}
@@ -223,7 +223,7 @@ function Hero() {
             className="text-[1.05rem] md:text-lg text-slate-muted mt-6 max-w-xl mx-auto leading-relaxed"
           >
             5,000+ Indian travelers have boarded with Travlys. Tell us
-            where you’re going — we prep the application, book the
+            where you’re going, we prep the application, book the
             appointment, and coach the interview.
           </motion.p>
 
@@ -306,7 +306,7 @@ function CountriesGrid() {
               See the full picture.
             </h2>
             <p className="text-slate-muted mt-4 text-[1.02rem]">
-              Each country page lays out the route, documents, embassy fees and timeline — no hidden steps.
+              Each country page lays out the route, documents, embassy fees and timeline, no hidden steps.
             </p>
           </AnimatedSection>
 
@@ -340,7 +340,7 @@ function CountriesGrid() {
 
         {filtered.length === 0 && (
           <p className="text-center text-slate-muted py-8">
-            We don’t list that region yet — message us, we’ll see what we can do.
+            We don’t list that region yet, message us, we’ll see what we can do.
           </p>
         )}
       </div>
@@ -408,7 +408,7 @@ function CountryCard({ dest }) {
 
 function HowItWorks() {
   const steps = [
-    { num: '01', title: 'Tell us where', desc: 'Pick a destination and share a quick brief — purpose, dates, who’s travelling.', icon: Map },
+    { num: '01', title: 'Tell us where', desc: 'Pick a destination and share a quick brief, purpose, dates, who’s travelling.', icon: Map },
     { num: '02', title: 'Get the route', desc: 'Within a working day, you get the right visa stream, document list, fees and a realistic timeline.', icon: FileCheck2 },
     { num: '03', title: 'We prep, you sign', desc: 'We draft the application, sponsor letter and cover note. You review, e-sign, pay only after.', icon: Sparkles },
     { num: '04', title: 'Book, file, track', desc: 'We lock the earliest appointment, file the visa, prep you for the interview, and track until decision.', icon: ShieldCheck },
@@ -519,7 +519,7 @@ function PricingTable() {
             One fee. No surprises.
           </h2>
           <p className="text-slate-muted mt-4 text-[1.02rem]">
-            Travlys fees below are flat — no per-document charges, no “urgency surcharges”. Embassy / VFS fees are paid directly to the authorities.
+            Travlys fees below are flat, no per-document charges, no “urgency surcharges”. Embassy / VFS fees are paid directly to the authorities.
           </p>
         </AnimatedSection>
 
@@ -587,7 +587,7 @@ function PricingTable() {
 
 function WhyTravlys() {
   const features = [
-    { icon: Sparkles, title: 'Profile-tuned drafting', desc: 'Cover letters, SOPs and sponsor letters written for your specific profile — not stock templates.' },
+    { icon: Sparkles, title: 'Profile-tuned drafting', desc: 'Cover letters, SOPs and sponsor letters written for your specific profile, not stock templates.' },
     { icon: Calendar, title: 'Real appointment booking', desc: 'We grab the earliest available VFS / embassy slots so your travel dates don’t get held hostage.' },
     { icon: Users, title: 'Mock interviews', desc: 'Two live practice rounds for US, UK and Schengen interviews. Real questions, hard feedback.' },
     { icon: ShieldCheck, title: 'Refusal-risk pre-check', desc: 'If your file is borderline, we flag it before you spend on embassy fees. No surprises.' },
@@ -605,7 +605,7 @@ function WhyTravlys() {
             Built like the visa actually matters.
           </h2>
           <p className="text-slate-muted mt-4 text-[1.02rem]">
-            Most travelers don’t need a 200-question form — they need someone who has done the route 500 times and can spot the trap before it sets. That’s the job.
+            Most travelers don’t need a 200-question form, they need someone who has done the route 500 times and can spot the trap before it sets. That’s the job.
           </p>
 
           <div className="mt-7 flex flex-wrap gap-3">
@@ -655,7 +655,7 @@ function MarqueeBar() {
   )
 }
 
-/* ─── LOCAL REACH — captures "visa consultants in [city]" queries ────── */
+/* ─── LOCAL REACH, captures "visa consultants in [city]" queries ────── */
 
 function LocalReachBand() {
   const cities = [
@@ -673,7 +673,7 @@ function LocalReachBand() {
             Visa help in Ahmedabad. Visa help across India.
           </h2>
           <p className="text-slate-muted mt-4 text-[1.02rem] leading-relaxed">
-            Travlys is headquartered in Ahmedabad, Gujarat — and we serve clients
+            Travlys is headquartered in Ahmedabad, Gujarat, and we serve clients
             from every Indian state remotely. Document collection, application
             drafting and tracking happen over WhatsApp and email; biometrics and
             embassy appointments are booked at your nearest VFS / embassy.
@@ -718,7 +718,7 @@ function CtaBanner() {
                 Ready to start your visa?
               </h2>
               <p className="text-slate-muted mt-3 max-w-xl">
-                Brief us in a minute. We come back within a working day with a route, timeline and quote — free, no obligation.
+                Brief us in a minute. We come back within a working day with a route, timeline and quote, free, no obligation.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 mt-6 md:mt-0 shrink-0">
@@ -751,7 +751,7 @@ function FaqSection() {
             Questions, answered.
           </h2>
           <p className="text-slate-muted mt-4">
-            Still stuck? <a href="https://wa.me/918200918967" className="text-coral-500 font-medium">WhatsApp us</a> — most queries answered in under 15 minutes during working hours.
+            Still stuck? <a href="https://wa.me/918200918967" className="text-coral-500 font-medium">WhatsApp us</a>, most queries answered in under 15 minutes during working hours.
           </p>
         </div>
 
@@ -795,7 +795,7 @@ function InquirySection() {
 
             <ul className="mt-7 space-y-3">
               {[
-                'A real visa specialist reads your brief — not a bot.',
+                'A real visa specialist reads your brief, not a bot.',
                 'Realistic timelines, no “overnight” promises.',
                 'You pay after we send a quote you’re happy with.',
               ].map((line) => (

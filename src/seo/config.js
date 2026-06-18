@@ -7,7 +7,7 @@ export const SITE_NAME = 'Travlys'
 export const SITE_TAGLINE = 'Your visa, handled.'
 export const DEFAULT_OG_IMAGE =
   'https://images.unsplash.com/photo-1488085061387-422e29b40080?w=1200&h=630&fit=crop&q=80'
-export const DEFAULT_OG_ALT = 'Travlys — Visa Assistance for Indian Travelers'
+export const DEFAULT_OG_ALT = 'Travlys, Visa Assistance for Indian Travelers'
 export const DEFAULT_LOCALE = 'en_IN'
 export const DEFAULT_LANG = 'en-IN'
 
@@ -35,7 +35,7 @@ export const BIZ = {
 export const HOME_FAQS = [
   {
     q: 'Which visas does Travlys help with?',
-    a: 'Travlys handles visa applications for the US, UK, Canada, Australia, New Zealand, the Schengen area (via the Netherlands), Singapore, UAE / Dubai, Thailand and Malaysia — across tourist, business, student and work categories.',
+    a: 'Travlys handles visa applications for the US, UK, Canada, Australia, New Zealand, the Schengen area (via the Netherlands), Singapore, UAE / Dubai, Thailand and Malaysia, across tourist, business, student and work categories.',
   },
   {
     q: 'How does the application process work?',
@@ -47,14 +47,14 @@ export const HOME_FAQS = [
   },
   {
     q: 'Do you guarantee visa approval?',
-    a: 'No honest consultant can — the embassy decides. What we do guarantee is a complete, accurate, well-positioned application. We have a 98% approval rate across 5,000+ applications and we’ll flag refusal risks before you spend on embassy fees.',
+    a: 'No honest consultant can, the embassy decides. What we do guarantee is a complete, accurate, well-positioned application. We have a 98% approval rate across 5,000+ applications and we’ll flag refusal risks before you spend on embassy fees.',
   },
   {
     q: 'How do I reach a real person?',
-    a: 'WhatsApp +91 82009 18967 for fastest response, or email info@travlys.com. We reply within working hours (Mon–Sat, 9 AM – 7 PM IST).',
+    a: 'WhatsApp +91 82009 18967 for fastest response, or email info@travlys.com. We reply within working hours (Mon-Sat, 9 AM - 7 PM IST).',
   },
   {
-    q: 'My visa was refused before — can you help?',
+    q: 'My visa was refused before, can you help?',
     a: 'Yes. Send us your refusal letter; we’ll review the reason and tell you whether a re-application is worth filing and what would need to change. There’s no charge for the assessment.',
   },
   {
@@ -81,7 +81,7 @@ export function buildOrganizationSchema() {
     logo: BIZ.logo,
     image: DEFAULT_OG_IMAGE,
     description:
-      'Travlys handles visa applications end-to-end for Indian travelers — US, UK, Canada, Australia, Schengen, Singapore, UAE, Thailand, Malaysia and New Zealand. Transparent pricing from ₹999, 98% approval rate across 5,000+ visas filed.',
+      'Travlys handles visa applications end-to-end for Indian travelers, US, UK, Canada, Australia, Schengen, Singapore, UAE, Thailand, Malaysia and New Zealand. Transparent pricing from ₹999, 98% approval rate across 5,000+ visas filed.',
     telephone: BIZ.phone,
     email: BIZ.email,
     priceRange: BIZ.priceRange,
@@ -246,7 +246,7 @@ export function buildHomeSchemas(destinations, reviews = []) {
       '@id': `${SITE_URL}/#website`,
       url: `${SITE_URL}/`,
       name: SITE_NAME,
-      description: 'Visa assistance for Indian travelers — US, UK, Canada, Australia, Schengen, Singapore, UAE and more.',
+      description: 'Visa assistance for Indian travelers, US, UK, Canada, Australia, Schengen, Singapore, UAE and more.',
       inLanguage: DEFAULT_LANG,
       publisher: { '@id': `${SITE_URL}/#organization` },
       potentialAction: {
@@ -298,12 +298,12 @@ export function buildHowToSchema(dest) {
       name: d,
     })),
     step: dest.processSteps.map((step, i) => {
-      const [name, ...rest] = String(step).split(' — ')
+      const [name, ...rest] = String(step).split(', ')
       return {
         '@type': 'HowToStep',
         position: i + 1,
         name: name?.trim() || `Step ${i + 1}`,
-        text: rest.length ? rest.join(' — ').trim() : String(step),
+        text: rest.length ? rest.join(', ').trim() : String(step),
       }
     }),
   }
