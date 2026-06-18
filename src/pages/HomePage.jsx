@@ -31,6 +31,7 @@ import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Reviews from '../components/Reviews'
 import Flag from '../components/Flag'
+import WorldMap from '../components/WorldMap'
 import { buildHomeSchemas, getHomeMeta, HOME_FAQS } from '../seo/config'
 import { reviews } from '../data/reviews'
 
@@ -655,6 +656,37 @@ function MarqueeBar() {
   )
 }
 
+/* ─── WORLD MAP — visual reach + flight paths from India ─────────────── */
+
+function WorldMapSection() {
+  return (
+    <section className="py-20 bg-white border-t border-line">
+      <div className="container-app">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+          <div className="lg:col-span-4">
+            <span className="pill bg-coral-50 text-coral-600">
+              <Globe2 className="w-3.5 h-3.5" /> Where we get you
+            </span>
+            <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+              From India to 10 destinations.
+            </h2>
+            <p className="text-slate-muted mt-4 text-[1.02rem] leading-relaxed">
+              Each dashed arc is a route Travlys files visas on, regularly. Click a pin to
+              jump to that country's page, pricing, document checklist and process.
+            </p>
+            <p className="text-slate-faint mt-3 text-sm">
+              India sits at the centre because every file leaves from there.
+            </p>
+          </div>
+          <div className="lg:col-span-8">
+            <WorldMap />
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}
+
 /* ─── LOCAL REACH, captures "visa consultants in [city]" queries ────── */
 
 function LocalReachBand() {
@@ -847,6 +879,7 @@ export default function HomePage() {
       <PricingTable />
       <WhyTravlys />
       <MarqueeBar />
+      <WorldMapSection />
       <LocalReachBand />
       <Reviews />
       <CtaBanner />

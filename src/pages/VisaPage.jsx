@@ -23,6 +23,7 @@ import { destinations, getCostBreakdown } from '../data/destinations'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
+import IndiaEmbassiesMap from '../components/IndiaEmbassiesMap'
 
 const BUILD_DATE = new Date().toISOString().slice(0, 10)
 function prettyDate(iso) {
@@ -97,6 +98,48 @@ function SnapshotItem({ icon: Icon, label, value }) {
 
 function inr(n) {
   return '₹' + n.toLocaleString('en-IN')
+}
+
+function UsEmbassiesSection() {
+  return (
+    <section className="py-20 bg-white border-t border-line">
+      <div className="container-app">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+          <div className="lg:col-span-5 lg:sticky lg:top-28">
+            <span className="pill bg-coral-50 text-coral-600">
+              <MapPin className="w-3.5 h-3.5" /> Where you'll apply
+            </span>
+            <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+              5 US missions across India.
+            </h2>
+            <p className="text-slate-muted mt-4 text-[1.02rem] leading-relaxed">
+              The US has 1 embassy and 4 consulates in India. The right one is
+              decided by where you live, not where you prefer, and Travlys helps
+              you pick the centre with the earliest interview slot inside your
+              eligible zone.
+            </p>
+            <ul className="mt-5 space-y-2 text-sm text-slate-text">
+              <li className="flex items-start gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-coral-500 mt-2 shrink-0" />
+                <span><strong className="font-semibold">Embassy</strong> in New Delhi, plus consulates in Mumbai, Kolkata, Hyderabad, Chennai.</span>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-coral-500 mt-2 shrink-0" />
+                <span>Each centre serves a fixed zone, biometrics (VAC) and the interview can be at the same city or two different cities.</span>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-coral-500 mt-2 shrink-0" />
+                <span>Travlys monitors all 5 calendars and books the earliest slot you qualify for.</span>
+              </li>
+            </ul>
+          </div>
+          <div className="lg:col-span-7">
+            <IndiaEmbassiesMap />
+          </div>
+        </div>
+      </div>
+    </section>
+  )
 }
 
 function CostBreakdownSection({ dest }) {
@@ -365,6 +408,10 @@ export default function VisaPage() {
           )}
         </div>
       </section>
+
+      {/* US visa only — interactive India map showing all 5 US diplomatic
+          missions so applicants know where their interview / VAC happens. */}
+      {dest.slug === 'usa-visa' && <UsEmbassiesSection />}
 
       {/* Cost breakdown, answers "how much does <country> visa cost from India" */}
       <CostBreakdownSection dest={dest} />
