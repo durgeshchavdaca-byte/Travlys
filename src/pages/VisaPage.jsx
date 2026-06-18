@@ -19,10 +19,17 @@ import {
 } from 'lucide-react'
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
 import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
-import { destinations } from '../data/destinations'
+import { destinations, getCostBreakdown } from '../data/destinations'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
+
+const BUILD_DATE = new Date().toISOString().slice(0, 10)
+function prettyDate(iso) {
+  return new Date(iso).toLocaleDateString('en-IN', {
+    day: 'numeric', month: 'long', year: 'numeric',
+  })
+}
 import { buildVisaSchemas, getVisaMeta } from '../seo/config'
 
 function SnapshotItem({ icon: Icon, label, value }) {
@@ -36,6 +43,78 @@ function SnapshotItem({ icon: Icon, label, value }) {
         <p className="font-semibold text-ink-900 text-[0.95rem] mt-0.5 leading-tight break-words">{value}</p>
       </div>
     </div>
+  )
+}
+
+function inr(n) {
+  return '₹' + n.toLocaleString('en-IN')
+}
+
+function CostBreakdownSection({ dest }) {
+  const cost = getCostBreakdown(dest)
+  if (!cost) return null
+  return (
+    <section className="py-20 bg-sand-50 border-t border-line">
+      <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+        <div className="lg:col-span-5">
+          <span className="pill bg-coral-50 text-coral-600">
+            <Sparkles className="w-3.5 h-3.5" /> Cost breakdown
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            How much does a {dest.name} visa cost from India?
+          </h2>
+          <p className="text-slate-muted mt-4 text-[1.02rem] leading-relaxed">
+            Two parts: the Travlys service fee (flat, paid to us) and the embassy / VFS fee
+            (paid directly to the authority — we don’t mark it up). Forex moves, so the
+            INR conversion is a current snapshot.
+          </p>
+          <p className="text-slate-faint mt-3 text-sm">
+            All figures shown for the most common visa subcategory for Indian travelers.
+          </p>
+        </div>
+
+        <div className="lg:col-span-7">
+          <div className="card overflow-hidden">
+            <table className="w-full text-left">
+              <tbody>
+                <tr className="border-b border-line">
+                  <td className="py-4 px-5">
+                    <p className="font-semibold text-ink-900">Travlys service fee</p>
+                    <p className="text-xs text-slate-muted mt-0.5">Flat — covers everything in the “Travlys handles” list above</p>
+                  </td>
+                  <td className="py-4 px-5 text-right font-display font-bold text-ink-900 text-lg">
+                    {cost.serviceLabel}
+                  </td>
+                </tr>
+                <tr className="border-b border-line">
+                  <td className="py-4 px-5">
+                    <p className="font-semibold text-ink-900">Embassy / VFS fee</p>
+                    <p className="text-xs text-slate-muted mt-0.5">Paid directly to {cost.govPayee}</p>
+                  </td>
+                  <td className="py-4 px-5 text-right">
+                    <p className="font-display font-bold text-ink-900 text-lg">{cost.govNative}</p>
+                    <p className="text-xs text-slate-muted">≈ {inr(cost.govInr)}</p>
+                  </td>
+                </tr>
+                <tr className="bg-ink-950 text-white">
+                  <td className="py-5 px-5">
+                    <p className="font-semibold">Total estimate</p>
+                    <p className="text-xs text-white/65 mt-0.5">Subject to forex + visa subcategory</p>
+                  </td>
+                  <td className="py-5 px-5 text-right">
+                    <p className="font-display font-extrabold text-2xl text-coral-400">≈ {inr(cost.total)}</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p className="text-xs text-slate-faint mt-3">
+            Optional extras (insurance, courier, biometrics where charged separately) are quoted
+            up-front before you commit. No surprise add-ons.
+          </p>
+        </div>
+      </div>
+    </section>
   )
 }
 
@@ -108,10 +187,15 @@ export default function VisaPage() {
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-end">
             <div className="lg:col-span-7">
-              <span className="pill bg-white/10 border border-white/20 text-white backdrop-blur">
-                <Flag code={dest.code} name={dest.name} size={16} />
-                {dest.visaType} · {dest.region}
-              </span>
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="pill bg-white/10 border border-white/20 text-white backdrop-blur">
+                  <Flag code={dest.code} name={dest.name} size={16} />
+                  {dest.visaType} · {dest.region}
+                </span>
+                <span className="pill bg-white/5 border border-white/15 text-white/75 backdrop-blur text-[0.7rem]">
+                  Updated {prettyDate(BUILD_DATE)}
+                </span>
+              </div>
               <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-extrabold text-white mt-5 leading-[1.02]">
                 <TextReveal text={`${dest.name} visa`} as="span" />
                 <br />
@@ -200,6 +284,9 @@ export default function VisaPage() {
           )}
         </div>
       </section>
+
+      {/* Cost breakdown — answers "how much does <country> visa cost from India" */}
+      <CostBreakdownSection dest={dest} />
 
       {/* Visa categories */}
       {dest.categories?.length > 0 && (

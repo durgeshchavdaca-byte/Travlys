@@ -545,6 +545,56 @@ function MarqueeBar() {
   )
 }
 
+/* ─── LOCAL REACH — captures "visa consultants in [city]" queries ────── */
+
+function LocalReachBand() {
+  const cities = [
+    'Ahmedabad', 'Mumbai', 'Delhi', 'Bengaluru', 'Hyderabad',
+    'Pune', 'Surat', 'Chennai', 'Kolkata', 'Vadodara', 'Rajkot', 'Jaipur',
+  ]
+  return (
+    <section className="py-20 bg-white border-t border-line">
+      <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+        <div className="lg:col-span-5">
+          <span className="pill bg-coral-50 text-coral-600">
+            <MapPin className="w-3.5 h-3.5" /> India-wide
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            Visa help in Ahmedabad. Visa help across India.
+          </h2>
+          <p className="text-slate-muted mt-4 text-[1.02rem] leading-relaxed">
+            Travlys is headquartered in Ahmedabad, Gujarat — and we serve clients
+            from every Indian state remotely. Document collection, application
+            drafting and tracking happen over WhatsApp and email; biometrics and
+            embassy appointments are booked at your nearest VFS / embassy.
+          </p>
+          <div className="mt-5 flex items-center gap-3 text-sm text-slate-text">
+            <MapPin className="w-4 h-4 text-coral-500 shrink-0" />
+            <span>605, Shivalik Shilp II, Near ITC Narmada, Vastrapur, Ahmedabad 380015</span>
+          </div>
+        </div>
+        <div className="lg:col-span-7">
+          <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold mb-3">
+            Recently served from
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {cities.map((c) => (
+              <span key={c} className="chip">
+                <MapPin className="w-3 h-3 text-coral-500" /> {c}
+              </span>
+            ))}
+          </div>
+          <p className="text-sm text-slate-muted mt-5 leading-relaxed">
+            Walk-ins to the Ahmedabad office are by appointment. For everything
+            else: WhatsApp <a href="https://wa.me/918200918967" className="text-coral-500 font-medium">+91 82009 18967</a> or
+            email <a href="mailto:info@travlys.com" className="text-coral-500 font-medium">info@travlys.com</a>.
+          </p>
+        </div>
+      </div>
+    </section>
+  )
+}
+
 /* ─── CTA + REVIEWS + FAQ ─────────────────────────────────────────────── */
 
 function CtaBanner() {
@@ -687,6 +737,7 @@ export default function HomePage() {
       <PricingTable />
       <WhyTravlys />
       <MarqueeBar />
+      <LocalReachBand />
       <Reviews />
       <CtaBanner />
       <FaqSection />

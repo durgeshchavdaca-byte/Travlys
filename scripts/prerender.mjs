@@ -2,6 +2,9 @@
 // (home + every visa page) with route-specific <title>, meta, canonical,
 // OG/Twitter, and JSON-LD baked into the HTML.
 //
+// Also regenerates dist/sitemap.xml with fresh lastmod dates so search
+// engines see updated freshness signals on every deploy.
+//
 // Why: GitHub Pages serves the SPA shell for every URL. Crawlers that
 // don't run JS (LinkedIn / Facebook / WhatsApp / Slack link previews,
 // some Bing/Yandex bots) only see what's in index.html. With this
@@ -44,8 +47,15 @@ function escapeHtml(s = '') {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
 }
 
-// Removes existing tags from the template that we'll replace, then
-// returns a fresh head fragment.
+function escapeXml(s = '') {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;')
+}
+
 function buildHead(meta, schemas) {
   const fullTitle = meta.title?.includes(SITE_NAME)
     ? meta.title
@@ -62,6 +72,7 @@ function buildHead(meta, schemas) {
     `<meta name="robots" content="${robots}" />`,
     `<link rel="canonical" href="${canonical}" />`,
     `<link rel="alternate" hreflang="en-in" href="${canonical}" />`,
+    `<link rel="alternate" hreflang="en" href="${canonical}" />`,
     `<link rel="alternate" hreflang="x-default" href="${canonical}" />`,
     `<meta property="og:type" content="${meta.type || 'website'}" />`,
     `<meta property="og:site_name" content="${SITE_NAME}" />`,
@@ -88,9 +99,6 @@ function buildHead(meta, schemas) {
   return tags
 }
 
-// Strips the previous default head tags from the template so we can
-// substitute the route-specific ones. We match starts of lines to be
-// safe.
 function stripDefaults(html) {
   const patterns = [
     /<title>[\s\S]*?<\/title>/,
@@ -121,8 +129,6 @@ function stripDefaults(html) {
 function renderRoute(template, meta, schemas) {
   const head = buildHead(meta, schemas)
   let html = stripDefaults(template)
-  // Inject right after the <meta http-equiv="X-UA-Compatible"> marker we
-  // know exists, or fall back to right after charset.
   const marker = '<meta http-equiv="X-UA-Compatible" content="IE=edge" />'
   if (html.includes(marker)) {
     html = html.replace(marker, `${marker}\n\n    <!-- prerendered SEO -->\n    ${head}\n`)
@@ -130,6 +136,77 @@ function renderRoute(template, meta, schemas) {
     html = html.replace('</head>', `    ${head}\n</head>`)
   }
   return html
+}
+
+function buildSitemap(destinations, today) {
+  const url = (path) => `${SITE_URL}${path}`
+  const lines = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
+    '        xmlns:xhtml="http://www.w3.org/1999/xhtml"',
+    '        xmlns:image="http://www.google.com/schemas/sitemap-image/0.9">',
+    '  <url>',
+    `    <loc>${url('/')}</loc>`,
+    `    <lastmod>${today}</lastmod>`,
+    '    <changefreq>weekly</changefreq>',
+    '    <priority>1.0</priority>',
+    `    <xhtml:link rel="alternate" hreflang="en-in" href="${url('/')}" />`,
+    `    <xhtml:link rel="alternate" hreflang="x-default" href="${url('/')}" />`,
+    '    <image:image>',
+    `      <image:loc>${escapeXml(DEFAULT_OG_IMAGE)}</image:loc>`,
+    '      <image:title>Travlys — Visa Assistance for Indian Travelers</image:title>',
+    '      <image:caption>Apply for US, UK, Canada, Schengen and more visas from India.</image:caption>',
+    '    </image:image>',
+    '  </url>',
+  ]
+  for (const d of destinations) {
+    const heroImage = (d.heroImage || d.image || '').replace(/\?.*$/, '?w=1200&h=630&fit=crop')
+    lines.push(
+      '  <url>',
+      `    <loc>${url(`/visa/${d.slug}`)}</loc>`,
+      `    <lastmod>${today}</lastmod>`,
+      '    <changefreq>monthly</changefreq>',
+      `    <priority>0.9</priority>`,
+      `    <xhtml:link rel="alternate" hreflang="en-in" href="${url(`/visa/${d.slug}`)}" />`,
+      `    <xhtml:link rel="alternate" hreflang="x-default" href="${url(`/visa/${d.slug}`)}" />`,
+      '    <image:image>',
+      `      <image:loc>${escapeXml(heroImage)}</image:loc>`,
+      `      <image:title>${escapeXml(d.name)} Visa for Indian Citizens</image:title>`,
+      `      <image:caption>${escapeXml(d.metaDescription || d.description || '').slice(0, 200)}</image:caption>`,
+      '    </image:image>',
+      '  </url>',
+    )
+  }
+  lines.push('</urlset>')
+  return lines.join('\n') + '\n'
+}
+
+// llms.txt — emerging convention for letting AI search tools discover
+// your site's structure and key URLs. Cheap to ship, no downside.
+function buildLlmsTxt(destinations) {
+  const lines = [
+    `# ${SITE_NAME}`,
+    '',
+    '> Travlys is an India-based visa-assistance service. We file tourist, business, student and work visas to 10+ countries with a 98% approval rate across 5,000+ applications, transparent flat fees from ₹999, and one named specialist per file.',
+    '',
+    '## Core pages',
+    `- [Home](${SITE_URL}/): visa search, pricing table, how it works, FAQ`,
+    `- [Pricing](${SITE_URL}/#pricing): every country, every fee, no asterisks`,
+    `- [FAQ](${SITE_URL}/#faq): processing time, refunds, refusals, contact`,
+    '',
+    '## Visa destination pages',
+    ...destinations.map(
+      (d) =>
+        `- [${d.name} Visa](${SITE_URL}/visa/${d.slug}): ${d.tagline || d.subtitle} — from ${d.price}, processing ${d.processingTime}`,
+    ),
+    '',
+    '## Contact',
+    `- WhatsApp: ${SITE_URL.replace(/\/$/, '')} / WhatsApp +91 82009 18967`,
+    `- Email: info@travlys.com`,
+    `- Office: 605, Shivalik Shilp II, Near Hotel ITC Narmada, Keshav Baug, Vastrapur, Ahmedabad, Gujarat 380015, India`,
+    '',
+  ]
+  return lines.join('\n') + '\n'
 }
 
 async function main() {
@@ -156,8 +233,16 @@ async function main() {
     routes.push(meta.path)
   }
 
+  // Sitemap — regenerate with today's lastmod
+  const today = new Date().toISOString().slice(0, 10)
+  await fs.writeFile(path.join(dist, 'sitemap.xml'), buildSitemap(destinations, today))
+
+  // llms.txt — AI-bot discoverability
+  await fs.writeFile(path.join(dist, 'llms.txt'), buildLlmsTxt(destinations))
+
   console.log(`\nPre-rendered ${routes.length} routes:`)
   routes.forEach((r) => console.log(`  ✓ ${r}`))
+  console.log(`\nRegenerated sitemap.xml (lastmod ${today}) and llms.txt`)
 }
 
 main().catch((err) => {

@@ -28,9 +28,9 @@ export const destinations = [
     aboutTitle: 'About the US visa for Indian travelers',
     aboutText:
       'Indian passport holders need a valid US visa for any visit — tourism, business, study, employment or transit. The process is managed by the US Department of State, runs through the DS-160 online form, and includes an in-person interview at a US embassy or consulate in India. Travlys handles preparation end-to-end so you walk into the interview confident.',
-    metaTitle: 'US Visa from India | B1/B2, F-1, H-1B — Travlys',
+    metaTitle: 'US Visa from India 2026: Apply from ₹19,940 | Travlys',
     metaDescription:
-      'Apply for a US visa from India with Travlys. DS-160 review, profile-matched document prep, mock-interview coaching and appointment booking for B1/B2, F-1, H-1B and L-1 categories.',
+      'Get your USA visa from India in 2026 with Travlys. B1/B2, F-1 and H-1B with DS-160 review, document prep, mock-interview coaching and embassy appointment booking from ₹19,940.',
     keywords:
       'us visa from india, b1 b2 visa, ds-160 help, f1 student visa, h1b visa india, us visa interview coaching, us tourist visa consultants',
     includes: [
@@ -108,9 +108,9 @@ export const destinations = [
     aboutTitle: 'About the UK visa for Indian travelers',
     aboutText:
       'Indian nationals need a UK visa for visits, study, work and family travel. Applications run through the UKVI online portal followed by VFS biometrics in India. We focus on the genuine-visitor test — financial credibility, travel history and clear travel purpose — which is what UKVI decision-makers actually weigh.',
-    metaTitle: 'UK Visa from India | Standard Visitor, Student, Skilled Worker',
+    metaTitle: 'UK Visa from India 2026: Standard Visitor in 3 Weeks | Travlys',
     metaDescription:
-      'Apply for a UK visa from India with Travlys. UKVI online form, VFS biometrics, TB-test guidance and visa-grade cover letters for Standard Visitor, Student and Skilled Worker categories.',
+      'Apply for a UK visa from India in 3 weeks with Travlys. UKVI form, VFS biometrics, TB-test guidance and visa-grade cover letters for Standard Visitor, Student and Skilled Worker — from ₹12,950.',
     keywords:
       'uk visa from india, uk standard visitor visa, uk student visa, uk skilled worker visa, ukvi india, uk tb test, uk visa consultants india',
     includes: [
@@ -175,9 +175,9 @@ export const destinations = [
     aboutTitle: 'About the Canada visa for Indian travelers',
     aboutText:
       'Indians need either a Visitor Visa (TRV), Study Permit, or Work Permit depending on travel purpose. IRCC decisions weigh financial proof, ties to India and a credible travel purpose. We frame your file to address dual-intent and refusal-risk factors head-on.',
-    metaTitle: 'Canada Visa from India | Visitor, Study & Work Permits',
+    metaTitle: 'Canada Visa from India 2026: Visitor, Study & Work | Travlys',
     metaDescription:
-      'Travlys handles Canada visa, study permit and work permit applications from India end-to-end — IRCC documentation, biometrics scheduling and refusal-risk review.',
+      'Apply for a Canada visa, study permit or work permit from India with Travlys. IRCC drafting, biometrics at VFS, financial sufficiency framing and refusal-risk review from ₹14,950.',
     keywords:
       'canada visa from india, canada visitor visa, canada study permit, canada work permit, ircc india, canada visa consultants, canada eta, canada biometrics india',
     includes: [
@@ -242,9 +242,9 @@ export const destinations = [
     aboutTitle: 'About the Australia visa for Indian travelers',
     aboutText:
       'Indians need a valid Australian visa for any visit. Applications run through ImmiAccount with biometrics at VFS where requested. Decision-makers focus on the Genuine Temporary Entrant criterion — your file must demonstrate clear ties and a credible purpose.',
-    metaTitle: 'Australia Visa from India | Subclass 600, 500 & Work',
+    metaTitle: 'Australia Visa from India 2026: Subclass 600 from ₹4,950 | Travlys',
     metaDescription:
-      'Apply for an Australia visa from India — Subclass 600 Visitor, 500 Student and Work streams. ImmiAccount drafting, biometrics support and GTE statement help by Travlys.',
+      'Australia visa from India in 2-6 weeks with Travlys. Subclass 600 Visitor, 500 Student and Work streams — ImmiAccount drafting, GTE statement help and biometrics from ₹4,950.',
     keywords:
       'australia visa from india, subclass 600, australia student visa 500, australia work visa, immiaccount india, australia visa consultants',
     includes: [
@@ -309,9 +309,9 @@ export const destinations = [
     aboutTitle: 'About the Netherlands Schengen visa',
     aboutText:
       'A Netherlands-issued Schengen short-stay visa lets you travel across all 26 Schengen states for up to 90 days in any 180-day period. The main-destination rule applies — you must apply through the country where you’ll spend the most time. Travlys aligns your itinerary, accommodation and cover letter to make that case cleanly.',
-    metaTitle: 'Netherlands Schengen Visa from India | VFS, Insurance',
+    metaTitle: 'Schengen Visa from India 2026: ₹2,950, 15-Day Processing | Travlys',
     metaDescription:
-      'Get your Netherlands Schengen visa from India in 15–30 days. Travlys handles VFS appointment, insurance with €30,000+ cover, biometrics and cover letter drafting.',
+      'Get a Netherlands Schengen visa from India in 15-30 days from ₹2,950. Travlys handles VFS appointment booking, €30,000+ travel insurance, biometrics and visa-grade cover letter.',
     keywords:
       'netherlands visa from india, schengen visa india, netherlands schengen visa, vfs netherlands appointment, schengen visa insurance, schengen visa consultants',
     includes: [
@@ -377,9 +377,9 @@ export const destinations = [
     aboutTitle: 'About the Singapore e-Visa',
     aboutText:
       'Indian passport holders need a visa for Singapore. The e-Visa is fully online — once submitted, decisions arrive in 3–5 working days. We take care of file accuracy and the financial sufficiency narrative ICA looks for.',
-    metaTitle: 'Singapore Visa from India | e-Visa in 3–5 Days — Travlys',
+    metaTitle: 'Singapore Visa from India 2026: e-Visa in 3-5 Days, ₹2,950 | Travlys',
     metaDescription:
-      'Get your Singapore e-Visa from India in 3–5 working days. Travlys handles submission, document review and ICA queries from ₹2,950.',
+      'Singapore e-Visa from India in 3-5 working days from ₹2,950. Travlys handles ICA submission, document quality check, query handling and email delivery of your approved e-Visa PDF.',
     keywords:
       'singapore visa from india, singapore e-visa, singapore tourist visa, singapore visa fee, singapore evisa consultants',
     includes: [
@@ -440,9 +440,9 @@ export const destinations = [
     aboutTitle: 'About the UAE / Dubai visa',
     aboutText:
       'Indians need a visa to enter the UAE. Multiple e-Visa categories are available — 14, 30 and 60-day single or multiple-entry. Travlys files through approved channels with documentation tuned to GDRFA preferences.',
-    metaTitle: 'Dubai & UAE Visa from India | Tourist e-Visa, 30 / 60-day',
+    metaTitle: 'Dubai Visa from India 2026: 14 / 30 / 60-day from ₹2,500 | Travlys',
     metaDescription:
-      'Get a Dubai / UAE tourist e-Visa from India in 2–4 working days with Travlys. 14, 30 and 60-day single and multiple-entry options from ₹2,500.',
+      'Dubai and UAE tourist e-Visa from India in 2-4 working days from ₹2,500. 14, 30 and 60-day single & multiple-entry options with full documentation and PDF visa delivered to your inbox.',
     keywords:
       'uae visa from india, dubai visa from india, dubai tourist visa, uae e-visa, dubai 30 day visa, dubai 60 day visa, transit visa uae',
     includes: [
@@ -505,9 +505,9 @@ export const destinations = [
     aboutTitle: 'About the Thailand visa',
     aboutText:
       'Indian passport holders need a visa for tourism stays in Thailand beyond the e-Visa-on-Arrival route. The e-Visa allows stays of up to 60 days and is filed online via the Royal Thai e-Visa portal.',
-    metaTitle: 'Thailand Visa from India | Tourist e-Visa — Travlys',
+    metaTitle: 'Thailand Visa from India 2026: Tourist e-Visa from ₹1,950 | Travlys',
     metaDescription:
-      'Apply for a Thailand tourist e-Visa from India with Travlys. Document review, e-Visa portal filing and embassy query handling for 60-day stays from ₹1,950.',
+      'Thailand tourist e-Visa from India for 60-day stays from ₹1,950. Travlys handles Royal Thai e-Visa portal filing, document verification, embassy queries and email delivery.',
     keywords:
       'thailand visa from india, thailand tourist e-visa, thailand evisa india, thailand visa documents, thailand visa consultants',
     includes: [
@@ -567,9 +567,9 @@ export const destinations = [
     aboutTitle: 'About the New Zealand visa',
     aboutText:
       'Indians need an INZ visa for New Zealand. Applications are filed online and decided by Immigration New Zealand based on character, health and credibility of intent.',
-    metaTitle: 'New Zealand Visa from India | Visitor, Work, Student',
+    metaTitle: 'New Zealand Visa from India 2026: INZ Visitor from ₹6,950 | Travlys',
     metaDescription:
-      'Apply for an INZ visa from India — visitor, work and student categories — with Travlys. Online application drafting, medical and police clearance guidance.',
+      'Apply for an Immigration New Zealand (INZ) visa from India — visitor, work, student — from ₹6,950. Travlys handles online drafting, character/health declarations and medical/PCC referrals.',
     keywords:
       'new zealand visa from india, nz visitor visa, new zealand work visa, new zealand student visa, immigration new zealand india',
     includes: [
@@ -632,9 +632,9 @@ export const destinations = [
     aboutTitle: 'About the Malaysia visa',
     aboutText:
       'Indian passport holders can use eNTRI for stays up to 15 days or apply for an e-Visa for stays up to 30 days. Travlys files via the official Imigresen Malaysia channels.',
-    metaTitle: 'Malaysia Visa from India | eNTRI & e-Visa — Travlys',
+    metaTitle: 'Malaysia Visa from India 2026: eNTRI / e-Visa from ₹999 | Travlys',
     metaDescription:
-      'Get a Malaysia eNTRI or e-Visa from India with Travlys. 2–4 working day processing, document verification and Imigresen submission from ₹999.',
+      'Malaysia eNTRI or e-Visa from India in 2-4 working days from ₹999. Travlys files via official Imigresen channels with full document review and approved visa delivered by email.',
     keywords:
       'malaysia visa from india, malaysia entri, malaysia evisa, malaysia tourist visa, malaysia visa documents',
     includes: [
@@ -686,3 +686,34 @@ export const regions = [
   { name: 'Oceania', value: 'Oceania' },
   { name: 'Middle East', value: 'Middle East' },
 ]
+
+// Approximate government / embassy fees paid directly to the visa
+// authority — separate from the Travlys service fee. INR conversions
+// are indicative and shift with FX; we always show the original
+// currency alongside so it stays honest.
+export const GOV_FEES = {
+  'usa-visa':         { native: '$185',        inr: 15500, payee: 'US embassy (MRV fee)' },
+  'uk-visa':          { native: '£127',        inr: 13400, payee: 'UKVI (via VFS)' },
+  'canada-visa':      { native: 'CAD 100',     inr: 6200,  payee: 'IRCC + biometrics' },
+  'australia-visa':   { native: 'AUD 195',     inr: 10800, payee: 'DHA (VAC)' },
+  'netherlands-visa': { native: '€90',         inr: 8200,  payee: 'Embassy via VFS' },
+  'singapore-visa':   { native: 'SGD 30',      inr: 1900,  payee: 'ICA Singapore' },
+  'uae-visa':         { native: 'AED 350',     inr: 8000,  payee: 'GDRFA Dubai' },
+  'thailand-visa':    { native: 'THB 2,000',   inr: 5000,  payee: 'Royal Thai e-Visa' },
+  'new-zealand-visa': { native: 'NZD 211',     inr: 10800, payee: 'Immigration New Zealand' },
+  'malaysia-visa':    { native: 'MYR 35',      inr: 700,   payee: 'Imigresen Malaysia' },
+}
+
+export function getCostBreakdown(dest) {
+  const gov = GOV_FEES[dest.slug]
+  if (!gov || !dest.priceValue) return null
+  const total = dest.priceValue + gov.inr
+  return {
+    service: dest.priceValue,
+    serviceLabel: dest.price,
+    govNative: gov.native,
+    govInr: gov.inr,
+    govPayee: gov.payee,
+    total,
+  }
+}

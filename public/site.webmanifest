@@ -1,13 +1,13 @@
 {
   "name": "Travlys — Visa Assistance for Indian Travelers",
   "short_name": "Travlys",
-  "description": "Expert visa assistance for Indian citizens. Tourist, business, student & work visas for 10+ countries.",
+  "description": "Apply for US, UK, Canada, Australia, Schengen, Singapore, UAE, Thailand and more visas from India. 98% approval rate, transparent fees from ₹999.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#faf8f2",
-  "theme_color": "#0b1e3f",
+  "background_color": "#faf9f5",
+  "theme_color": "#0a1230",
   "lang": "en-IN",
   "dir": "ltr",
   "categories": ["travel", "business", "lifestyle"],
@@ -17,6 +17,23 @@
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Apply for US Visa",
+      "url": "/visa/usa-visa",
+      "description": "Start your US B1/B2, F-1 or H-1B application"
+    },
+    {
+      "name": "Apply for Schengen",
+      "url": "/visa/netherlands-visa",
+      "description": "Schengen short-stay visa from India"
+    },
+    {
+      "name": "Apply for Dubai Visa",
+      "url": "/visa/uae-visa",
+      "description": "Dubai / UAE e-Visa in 2-4 days"
     }
   ]
 }
