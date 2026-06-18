@@ -16,6 +16,7 @@ import {
   Sparkles,
   Globe2,
   Map,
+  MapPin,
   Headphones,
   Star,
   Plus,
