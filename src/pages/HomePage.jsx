@@ -209,10 +209,10 @@ function Hero() {
           </motion.span>
 
           <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.75rem] lg:text-[4.25rem] font-extrabold text-ink-900 mt-6 leading-[1.02]">
-            <TextReveal text="Less paperwork." as="span" />
+            <TextReveal text="You pack the bags." as="span" />
             <br />
             <span className="hero-italic-mark">
-              <span className="relative italic">More postcards.</span>
+              <span className="relative italic">We handle the visa.</span>
             </span>
           </h1>
 
