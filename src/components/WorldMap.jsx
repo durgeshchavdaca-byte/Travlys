@@ -1,213 +1,193 @@
-// Stylised world map — continents are hand-drawn blob shapes, not a
-// geographic atlas. India is highlighted as the origin; every supported
-// destination gets a pulsing coral pin with a dashed flight-path arc
-// back to India.
-//
-// All paths are original. No copyrighted map data is used.
+// Real world map built on the Natural Earth public-domain TopoJSON
+// (via the world-atlas npm package, CC0). Renders proper country
+// shapes, then overlays Travlys's India origin, the 10 destination
+// pins, and dashed flight-path arcs computed by react-simple-maps's
+// great-circle Line component.
 
-import { useState } from 'react'
+import { useState, memo } from 'react'
 import { Link } from 'react-router-dom'
+import {
+  ComposableMap,
+  Geographies,
+  Geography,
+  Marker,
+  Line,
+} from 'react-simple-maps'
+import worldGeo from 'world-atlas/countries-110m.json'
 
-// SVG viewBox: 0 0 1000 520. Continent blobs are intentionally loose.
-const CONTINENTS = [
-  // North America
-  'M 65 110 C 55 80, 110 55, 175 65 C 235 75, 270 100, 285 140 C 295 175, 280 215, 245 240 C 200 260, 145 245, 105 220 C 75 200, 60 155, 65 110 Z',
-  // Central America strip
-  'M 200 245 C 210 240, 230 250, 245 260 C 250 275, 235 285, 220 280 C 205 270, 195 255, 200 245 Z',
-  // South America
-  'M 245 270 C 240 255, 275 245, 295 265 C 315 295, 322 345, 312 388 C 302 428, 276 446, 256 422 C 240 388, 240 322, 245 270 Z',
-  // Greenland
-  'M 360 60 C 360 50, 395 50, 410 65 C 420 80, 410 95, 390 95 C 370 92, 355 78, 360 60 Z',
-  // Europe
-  'M 460 105 C 455 90, 485 85, 515 95 C 545 105, 555 125, 548 145 C 540 165, 510 175, 482 168 C 463 160, 455 125, 460 105 Z',
-  // Africa
-  'M 478 195 C 470 180, 502 175, 532 192 C 565 213, 582 255, 575 305 C 568 340, 543 360, 515 352 C 485 340, 470 280, 478 195 Z',
-  // Middle East (wedge)
-  'M 555 175 C 555 165, 590 168, 605 180 C 615 195, 605 210, 588 210 C 568 205, 552 188, 555 175 Z',
-  // Asia (the big one)
-  'M 555 95 C 550 80, 605 65, 695 75 C 770 85, 830 115, 855 165 C 870 205, 845 250, 795 265 C 730 278, 645 270, 595 235 C 558 205, 545 140, 555 95 Z',
-  // India (handled by special marker, but a soft underlying blob anchors it)
-  'M 645 200 C 645 188, 680 188, 700 200 C 715 215, 712 240, 698 252 C 680 262, 660 252, 650 235 C 643 225, 642 210, 645 200 Z',
-  // SE Asia + Indonesia
-  'M 740 265 C 740 257, 780 257, 800 268 C 815 280, 808 295, 790 297 C 770 295, 745 282, 740 265 Z',
-  // Indonesia / archipelago dots
-  'M 770 305 C 770 300, 790 300, 800 308 C 805 315, 795 320, 785 318 C 775 315, 768 310, 770 305 Z',
-  // Japan
-  'M 875 165 C 873 158, 887 156, 893 165 C 897 175, 890 185, 882 183 C 875 180, 873 172, 875 165 Z',
-  // Australia
-  'M 770 365 C 765 350, 800 345, 835 360 C 865 375, 880 400, 855 415 C 825 425, 790 410, 770 390 C 765 385, 765 370, 770 365 Z',
-  // New Zealand
-  'M 895 410 C 895 405, 910 405, 915 415 C 918 425, 908 432, 900 428 C 895 425, 892 415, 895 410 Z',
-]
+// Travlys origin (India centroid, approximately).
+const ORIGIN = { lng: 78.9629, lat: 22.0, label: 'India' }
 
-// Approximate viewBox positions for our 10 destinations.
-// India origin sits at (665, 220).
-const ORIGIN = { x: 665, y: 220, label: 'India' }
-
+// Destinations with lng/lat (centroid of each country / capital area).
 const DESTS = [
-  { slug: 'usa-visa',         name: 'USA',       short: 'US', x: 175,  y: 150 },
-  { slug: 'canada-visa',      name: 'Canada',    short: 'CA', x: 195,  y: 100 },
-  { slug: 'uk-visa',          name: 'UK',        short: 'GB', x: 478,  y: 125 },
-  { slug: 'netherlands-visa', name: 'Schengen',  short: 'NL', x: 502,  y: 135 },
-  { slug: 'uae-visa',         name: 'UAE',       short: 'AE', x: 585,  y: 210 },
-  { slug: 'thailand-visa',    name: 'Thailand',  short: 'TH', x: 752,  y: 260 },
-  { slug: 'singapore-visa',   name: 'Singapore', short: 'SG', x: 780,  y: 295 },
-  { slug: 'malaysia-visa',    name: 'Malaysia',  short: 'MY', x: 765,  y: 280 },
-  { slug: 'new-zealand-visa', name: 'New Zealand', short: 'NZ', x: 905, y: 418 },
-  { slug: 'australia-visa',   name: 'Australia', short: 'AU', x: 820,  y: 385 },
+  { slug: 'usa-visa',         name: 'USA',         iso: 'USA',  lng: -98.0,   lat: 39.5 },
+  { slug: 'canada-visa',      name: 'Canada',      iso: 'CAN',  lng: -106.0,  lat: 56.1 },
+  { slug: 'uk-visa',          name: 'UK',          iso: 'GBR',  lng: -2.4,    lat: 54.0 },
+  { slug: 'netherlands-visa', name: 'Schengen',    iso: 'NLD',  lng: 5.3,     lat: 52.1 },
+  { slug: 'uae-visa',         name: 'UAE',         iso: 'ARE',  lng: 54.0,    lat: 24.0 },
+  { slug: 'thailand-visa',    name: 'Thailand',    iso: 'THA',  lng: 100.9,   lat: 15.9 },
+  { slug: 'singapore-visa',   name: 'Singapore',   iso: 'SGP',  lng: 103.8,   lat: 1.4 },
+  { slug: 'malaysia-visa',    name: 'Malaysia',    iso: 'MYS',  lng: 102.0,   lat: 4.2 },
+  { slug: 'new-zealand-visa', name: 'New Zealand', iso: 'NZL',  lng: 174.9,   lat: -40.9 },
+  { slug: 'australia-visa',   name: 'Australia',   iso: 'AUS',  lng: 133.8,   lat: -25.3 },
 ]
 
-// Build a quadratic Bezier arc from India to a destination.
-// Control point is offset perpendicular to the chord midpoint so the
-// arc curves nicely (longer chords get more lift).
-function arcPath(from, to) {
-  const mx = (from.x + to.x) / 2
-  const my = (from.y + to.y) / 2
-  const dx = to.x - from.x
-  const dy = to.y - from.y
-  const len = Math.sqrt(dx * dx + dy * dy)
-  // perpendicular offset
-  const lift = Math.min(120, len * 0.28)
-  // perpendicular unit, biased upward (negative y is up in SVG)
-  const px = -dy / len
-  const py = dx / len
-  const sign = py > 0 ? -1 : 1
-  const cx = mx + px * lift * sign
-  const cy = my + py * lift * sign
-  return `M ${from.x} ${from.y} Q ${cx} ${cy}, ${to.x} ${to.y}`
+const DEST_ISO = new Set(DESTS.map((d) => d.iso))
+
+// Memoised Geographies layer — country shapes don't change with hover
+// state, so we don't want to re-render them every mouse move.
+const CountriesLayer = memo(function CountriesLayer({ activeIso }) {
+  return (
+    <Geographies geography={worldGeo}>
+      {({ geographies }) =>
+        geographies.map((geo) => {
+          const iso = geo.id // 3-letter numeric in some sources; here it's the name code from properties
+          const name = geo.properties?.name
+          const isIndia = name === 'India'
+          const isServed = DESTS.some((d) => d.name === name || nameMatch(name, d))
+          const isActive = activeIso && nameMatch(name, DESTS.find((d) => d.iso === activeIso))
+          return (
+            <Geography
+              key={geo.rsmKey}
+              geography={geo}
+              fill={
+                isIndia
+                  ? '#FF7849'
+                  : isActive
+                  ? '#0F1B4C'
+                  : isServed
+                  ? '#0F1B4C40'
+                  : '#0F1B4C18'
+              }
+              stroke="#0F1B4C"
+              strokeOpacity={0.18}
+              strokeWidth={0.4}
+              style={{
+                default: { outline: 'none' },
+                hover:   { outline: 'none' },
+                pressed: { outline: 'none' },
+              }}
+            />
+          )
+        })
+      }
+    </Geographies>
+  )
+})
+
+function nameMatch(geoName, dest) {
+  if (!dest || !geoName) return false
+  if (geoName === dest.name) return true
+  // Handle Natural Earth's longer names
+  if (dest.iso === 'USA' && geoName === 'United States of America') return true
+  if (dest.iso === 'GBR' && geoName === 'United Kingdom') return true
+  return false
 }
 
 export default function WorldMap() {
-  const [hover, setHover] = useState(null)
+  const [activeIso, setActiveIso] = useState(null)
 
   return (
-    <div className="relative">
-      <svg
-        viewBox="0 0 1000 520"
-        className="w-full h-auto"
-        role="img"
-        aria-label="Map showing the destinations Travlys serves"
+    <div className="relative w-full">
+      <ComposableMap
+        projection="geoEqualEarth"
+        projectionConfig={{ scale: 165, center: [40, 18] }}
+        width={980}
+        height={520}
+        style={{ width: '100%', height: 'auto', overflow: 'visible' }}
       >
         <defs>
-          {/* faint dot pattern for the "ocean" background */}
-          <pattern id="wm-dots" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
-            <circle cx="2" cy="2" r="1" fill="#0F1B4C" fillOpacity="0.07" />
-          </pattern>
-          {/* gradient for flight paths */}
-          <linearGradient id="wm-flight" x1="0" y1="0" x2="1" y2="0">
+          <linearGradient id="wm-arc" x1="0" y1="0" x2="1" y2="0">
             <stop offset="0%"   stopColor="#FF7849" stopOpacity="0.85" />
-            <stop offset="60%"  stopColor="#ECC878" stopOpacity="0.55" />
-            <stop offset="100%" stopColor="#0F1B4C" stopOpacity="0.35" />
+            <stop offset="55%"  stopColor="#ECC878" stopOpacity="0.55" />
+            <stop offset="100%" stopColor="#0F1B4C" stopOpacity="0.30" />
           </linearGradient>
-          {/* soft glow for the India origin pulse */}
           <radialGradient id="wm-origin-glow">
             <stop offset="0%"   stopColor="#FF7849" stopOpacity="0.55" />
             <stop offset="100%" stopColor="#FF7849" stopOpacity="0" />
           </radialGradient>
-          {/* drop shadow for pins */}
-          <filter id="wm-pin-shadow" x="-50%" y="-50%" width="200%" height="200%">
-            <feGaussianBlur in="SourceAlpha" stdDeviation="2" />
-            <feOffset dy="2" />
+          <filter id="wm-shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="1.6" />
+            <feOffset dy="1.5" />
             <feComponentTransfer><feFuncA type="linear" slope="0.35" /></feComponentTransfer>
             <feMerge><feMergeNode /><feMergeNode in="SourceGraphic" /></feMerge>
           </filter>
         </defs>
 
-        {/* Ocean background */}
-        <rect width="1000" height="520" fill="url(#wm-dots)" />
+        <g>
+          <CountriesLayer activeIso={activeIso} />
 
-        {/* Continents */}
-        <g fill="#0F1B4C" fillOpacity="0.10" stroke="#0F1B4C" strokeOpacity="0.18" strokeWidth="0.8">
-          {CONTINENTS.map((d, i) => (
-            <path key={i} d={d} />
-          ))}
-        </g>
-
-        {/* Flight paths from India to each destination */}
-        <g fill="none" strokeLinecap="round">
+          {/* Flight paths India -> destinations */}
           {DESTS.map((d) => (
-            <path
-              key={`p-${d.slug}`}
-              d={arcPath(ORIGIN, d)}
-              stroke="url(#wm-flight)"
-              strokeWidth={hover === d.slug ? 2.2 : 1.4}
+            <Line
+              key={`arc-${d.slug}`}
+              from={[ORIGIN.lng, ORIGIN.lat]}
+              to={[d.lng, d.lat]}
+              stroke="url(#wm-arc)"
+              strokeWidth={activeIso === d.iso ? 2 : 1.2}
               strokeDasharray="4 5"
-              opacity={hover && hover !== d.slug ? 0.25 : 0.85}
+              strokeLinecap="round"
+              opacity={activeIso && activeIso !== d.iso ? 0.25 : 0.9}
               style={{ transition: 'stroke-width 0.3s, opacity 0.3s' }}
             />
           ))}
-        </g>
 
-        {/* India origin */}
-        <g>
-          <circle cx={ORIGIN.x} cy={ORIGIN.y} r="34" fill="url(#wm-origin-glow)" className="animate-pulse-soft" />
-          <circle cx={ORIGIN.x} cy={ORIGIN.y} r="9" fill="#FF7849" filter="url(#wm-pin-shadow)" />
-          <circle cx={ORIGIN.x} cy={ORIGIN.y} r="4" fill="#FFFFFF" />
-          <text
-            x={ORIGIN.x}
-            y={ORIGIN.y + 28}
-            textAnchor="middle"
-            fontFamily="'Cabinet Grotesk', sans-serif"
-            fontWeight="700"
-            fontSize="14"
-            fill="#0F1B4C"
-          >
-            India
-          </text>
-        </g>
+          {/* India origin */}
+          <Marker coordinates={[ORIGIN.lng, ORIGIN.lat]}>
+            <circle r={18} fill="url(#wm-origin-glow)" className="animate-pulse-soft" />
+            <circle r={6} fill="#FF7849" filter="url(#wm-shadow)" />
+            <circle r={2.5} fill="#FFFFFF" />
+            <text
+              y={-12}
+              textAnchor="middle"
+              fontFamily="'Cabinet Grotesk', sans-serif"
+              fontWeight="700"
+              fontSize="9"
+              fill="#0F1B4C"
+            >
+              India
+            </text>
+          </Marker>
 
-        {/* Destination pins */}
-        <g>
+          {/* Destination pins */}
           {DESTS.map((d) => {
-            const active = hover === d.slug
+            const active = activeIso === d.iso
             return (
-              <Link key={d.slug} to={`/visa/${d.slug}`}>
-                <g
-                  onMouseEnter={() => setHover(d.slug)}
-                  onMouseLeave={() => setHover(null)}
-                  style={{ cursor: 'pointer' }}
-                >
-                  {/* clickable padding circle */}
-                  <circle cx={d.x} cy={d.y} r="18" fill="transparent" />
-                  {/* ping ring */}
-                  <circle
-                    cx={d.x}
-                    cy={d.y}
-                    r={active ? 14 : 9}
-                    fill="#FF7849"
-                    fillOpacity="0.18"
-                    style={{ transition: 'r 0.3s' }}
-                  />
-                  {/* pin head */}
-                  <circle
-                    cx={d.x}
-                    cy={d.y}
-                    r={active ? 6.5 : 5}
-                    fill="#0F1B4C"
-                    stroke="#FFFFFF"
-                    strokeWidth="1.5"
-                    filter="url(#wm-pin-shadow)"
-                    style={{ transition: 'r 0.3s' }}
-                  />
-                  {/* label */}
-                  <text
-                    x={d.x}
-                    y={d.y - 12}
-                    textAnchor="middle"
-                    fontFamily="'Switzer', sans-serif"
-                    fontWeight="600"
-                    fontSize="11"
-                    fill="#0F1B4C"
-                    style={{ pointerEvents: 'none' }}
+              <Marker key={d.slug} coordinates={[d.lng, d.lat]}>
+                <Link to={`/visa/${d.slug}`}>
+                  <g
+                    onMouseEnter={() => setActiveIso(d.iso)}
+                    onMouseLeave={() => setActiveIso(null)}
+                    style={{ cursor: 'pointer' }}
                   >
-                    {d.name}
-                  </text>
-                </g>
-              </Link>
+                    <circle r={12} fill="transparent" />
+                    <circle r={active ? 9 : 6} fill="#FF7849" fillOpacity="0.22" style={{ transition: 'r 0.3s' }} />
+                    <circle
+                      r={active ? 4.5 : 3.5}
+                      fill="#0F1B4C"
+                      stroke="#FFFFFF"
+                      strokeWidth={1.1}
+                      filter="url(#wm-shadow)"
+                      style={{ transition: 'r 0.3s' }}
+                    />
+                    <text
+                      y={-9}
+                      textAnchor="middle"
+                      fontFamily="'Switzer', sans-serif"
+                      fontWeight="600"
+                      fontSize="8"
+                      fill="#0F1B4C"
+                      style={{ pointerEvents: 'none' }}
+                    >
+                      {d.name}
+                    </text>
+                  </g>
+                </Link>
+              </Marker>
             )
           })}
         </g>
-      </svg>
+      </ComposableMap>
     </div>
   )
 }

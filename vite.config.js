@@ -8,6 +8,11 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   base: process.env.VITE_BASE ?? '/',
   plugins: [react(), tailwindcss()],
+  optimizeDeps: {
+    // react-simple-maps ships UMD with CJS require('prop-types'); Vite needs
+    // to pre-bundle both so the import works in dev + prod.
+    include: ['react-simple-maps', 'prop-types'],
+  },
   build: {
     rollupOptions: {
       output: {
@@ -21,6 +26,8 @@ export default defineConfig({
           if (id.includes('react-router')) return 'react-vendor'
           if (id.includes('react-dom')) return 'react-vendor'
           if (id.includes('/react/')) return 'react-vendor'
+          if (id.includes('react-simple-maps') || id.includes('d3-') || id.includes('topojson-')) return 'maps'
+          if (id.includes('world-atlas')) return 'maps'
         },
       },
     },
