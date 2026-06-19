@@ -21,6 +21,8 @@ import { fileURLToPath } from 'node:url'
 
 import { destinations } from '../src/data/destinations.js'
 import { CITIES } from '../src/data/cities.js'
+import { reviews } from '../src/data/reviews.js'
+import { FEATURED_TESTIMONIALS } from '../src/data/testimonials.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -234,7 +236,7 @@ async function main() {
 
   // Home, overwrite dist/index.html with home-specific meta
   const homeMeta = getHomeMeta()
-  const homeSchemas = buildHomeSchemas(destinations)
+  const homeSchemas = buildHomeSchemas(destinations, reviews, FEATURED_TESTIMONIALS)
   const homeHtml = renderRoute(template, homeMeta, homeSchemas)
   await fs.writeFile(indexPath, homeHtml)
   routes.push('/')
