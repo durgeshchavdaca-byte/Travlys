@@ -77,112 +77,115 @@ export default function FeaturedTestimonials() {
           </p>
         </AnimatedSection>
 
-        <div className="max-w-3xl mx-auto space-y-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 lg:gap-6">
           {FEATURED_TESTIMONIALS.map((t, i) => (
-            <AnimatedSection key={t.slug} delay={i * 0.1}>
+            <AnimatedSection key={t.slug} delay={i * 0.1} className="h-full">
               <article
-                className="card p-8 md:p-10 relative"
+                className="card p-6 md:p-7 relative h-full flex flex-col"
                 itemScope
                 itemType="https://schema.org/Review"
               >
-                {/* Big decorative quote glyph */}
+                {/* Decorative quote glyph */}
                 <Quote
-                  className="absolute top-6 right-6 w-12 h-12"
+                  className="absolute top-5 right-5 w-9 h-9"
                   style={{ color: 'rgba(255, 120, 73, 0.18)' }}
                   aria-hidden
                 />
 
-                {/* The quote — supports either a single string or an array of
-                    paragraphs for testimonials with natural breaks. */}
+                {/* The quote — array or string */}
                 <blockquote
-                  className="font-display font-medium text-ink-900 leading-[1.35]"
+                  className="font-display font-medium text-ink-900 leading-[1.4] flex-1"
                   style={{
-                    fontSize: 'clamp(1.15rem, 2.1vw, 1.55rem)',
-                    letterSpacing: '-0.012em',
+                    fontSize: 'clamp(0.97rem, 1.25vw, 1.08rem)',
+                    letterSpacing: '-0.008em',
                   }}
                   itemProp="reviewBody"
                 >
                   {Array.isArray(t.quote) ? (
                     t.quote.map((para, j) => (
-                      <p key={j} className={j === 0 ? '' : 'mt-4'}>
+                      <p key={j} className={j === 0 ? '' : 'mt-3'}>
                         {j === 0 ? `"${para}` : para}
                         {j === t.quote.length - 1 ? '"' : ''}
                       </p>
                     ))
                   ) : (
-                    <>"{t.quote}"</>
+                    <p>"{t.quote}"</p>
                   )}
                 </blockquote>
 
                 {t.pullQuote && (
                   <p
-                    className="font-display italic text-coral-600 mt-6"
+                    className="font-display italic text-coral-600 mt-5"
                     style={{
-                      fontSize: 'clamp(1.25rem, 2.4vw, 1.7rem)',
-                      letterSpacing: '-0.018em',
+                      fontSize: 'clamp(1.05rem, 1.5vw, 1.2rem)',
+                      letterSpacing: '-0.014em',
                     }}
                   >
                     "{t.pullQuote}"
                   </p>
                 )}
 
-                {/* Attribution row, LinkedIn-style: round avatar + name + role */}
-                <div className="mt-8 pt-7 border-t border-line flex flex-wrap sm:flex-nowrap items-start sm:items-center gap-4 sm:gap-5">
+                {/* Attribution */}
+                <div className="mt-6 pt-5 border-t border-line flex items-start gap-3">
                   <RoundAvatar
                     src={t.image}
                     initials={t.initials}
                     name={t.name}
                     accent={t.accent}
-                    size={64}
+                    size={52}
                   />
 
                   <div className="flex-1 min-w-0">
-                    <p
-                      className="font-display text-lg font-extrabold text-ink-900 leading-tight"
-                      itemProp="author"
-                      itemScope
-                      itemType="https://schema.org/Person"
-                    >
-                      <span itemProp="name">{t.name}</span>
-                    </p>
-                    <p className="text-sm text-slate-text mt-0.5">
-                      <span className="font-semibold">{t.role}</span>
-                      {t.company ? (
-                        <>
-                          ,{' '}
-                          <span
-                            className="font-semibold"
-                            style={{ color: t.accent }}
-                          >
-                            {t.company}
-                          </span>
-                        </>
-                      ) : null}
-                    </p>
+                    <div className="flex items-start justify-between gap-2">
+                      <div className="min-w-0">
+                        <p
+                          className="font-display text-[1rem] font-extrabold text-ink-900 leading-tight"
+                          itemProp="author"
+                          itemScope
+                          itemType="https://schema.org/Person"
+                        >
+                          <span itemProp="name">{t.name}</span>
+                        </p>
+                        <p className="text-[0.78rem] text-slate-text mt-0.5">
+                          <span className="font-semibold">{t.role}</span>
+                          {t.company ? (
+                            <>
+                              ,{' '}
+                              <span
+                                className="font-semibold"
+                                style={{ color: t.accent }}
+                              >
+                                {t.company}
+                              </span>
+                            </>
+                          ) : null}
+                        </p>
+                      </div>
+
+                      {t.companyUrl && (
+                        <a
+                          href={t.companyUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center gap-1 text-[0.68rem] font-semibold no-underline transition-colors shrink-0 px-2.5 py-1.5 rounded-full border"
+                          style={{
+                            color: t.accent,
+                            borderColor: `${t.accent}33`,
+                            background: `${t.accent}0a`,
+                          }}
+                          aria-label={`Visit ${t.company}`}
+                        >
+                          Visit
+                          <ArrowUpRight className="w-3 h-3" />
+                        </a>
+                      )}
+                    </div>
                     {t.companyOneLiner && (
-                      <p className="text-xs text-slate-muted mt-1.5 leading-relaxed">
+                      <p className="text-[0.72rem] text-slate-muted mt-1.5 leading-snug">
                         {t.companyOneLiner}
                       </p>
                     )}
                   </div>
-
-                  {t.companyUrl && (
-                    <a
-                      href={t.companyUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-xs font-semibold no-underline transition-colors shrink-0 px-3 py-2 rounded-full border"
-                      style={{
-                        color: t.accent,
-                        borderColor: `${t.accent}33`,
-                        background: `${t.accent}0a`,
-                      }}
-                      aria-label={`Visit ${t.company}`}
-                    >
-                      Visit {t.company}
-                      <ArrowUpRight className="w-3.5 h-3.5" />
-                    </a>
-                  )}
                 </div>
 
                 {/* Hidden microdata */}
