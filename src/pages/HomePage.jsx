@@ -843,13 +843,13 @@ export default function HomePage() {
       <SEO {...homeMeta} jsonLd={homeSchemas} />
 
       <Hero />
+      <FeaturedTestimonials />
       <CountriesGrid />
       <HowItWorks />
       <StatsBanner />
       <PricingTable />
       <WhyTravlys />
       <MarqueeBar />
-      <FeaturedTestimonials />
       <LocalReachBand />
       <Reviews />
       <CtaBanner />
