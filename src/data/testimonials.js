@@ -31,12 +31,8 @@ export const FEATURED_TESTIMONIALS = [
     accent: '#F59E0B', // warm amber distinct from Jar's blue
     image: '/testimonials/abhay-jani.jpg',
     initials: 'AJ',
-    quote: [
-      'I used Travlys for my US visa. Entire process was really smooth & professional.',
-      'At each step, the professional guided me in-depth, really appreciate this personal touch.',
-      'Even during the interview, the team took a mock-interview mimicking actual interview scenarios.',
-      'Highly recommend to try Travlys for any of your visa services.',
-    ],
+    quote:
+      'I used Travlys for my US visa. Entire process was really smooth & professional. At each step, the professional guided me in-depth, really appreciate this personal touch. Even during the interview, the team took a mock-interview mimicking actual interview scenarios. Highly recommend to try Travlys for any of your visa services.',
     pullQuote: 'Highly recommend Travlys.',
     date: '2026-06-19',
   },
