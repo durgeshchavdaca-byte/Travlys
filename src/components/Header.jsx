@@ -128,8 +128,9 @@ export default function Header() {
             )}
           </div>
           <NavLink onClick={() => goSection('how-it-works')} colorClass={navTextColor}>How it works</NavLink>
-          <NavLink onClick={() => goSection('pricing')} colorClass={navTextColor}>Pricing</NavLink>
-          <NavLink onClick={() => goSection('faq')} colorClass={navTextColor}>FAQ</NavLink>
+          <NavLink onClick={() => navigate('/pricing')} colorClass={navTextColor}>Pricing</NavLink>
+          <NavLink onClick={() => navigate('/blog')} colorClass={navTextColor}>Blog</NavLink>
+          <NavLink onClick={() => navigate('/about')} colorClass={navTextColor}>About</NavLink>
         </nav>
 
         <div className="hidden md:flex items-center gap-3">
@@ -173,11 +174,17 @@ export default function Header() {
             <button onClick={() => goSection('how-it-works')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
               How it works
             </button>
-            <button onClick={() => goSection('pricing')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+            <button onClick={() => navigate('/pricing')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
               Pricing
             </button>
-            <button onClick={() => goSection('faq')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
-              FAQ
+            <button onClick={() => navigate('/blog')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+              Blog
+            </button>
+            <button onClick={() => navigate('/about')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+              About
+            </button>
+            <button onClick={() => navigate('/contact')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+              Contact
             </button>
 
             <p className="text-xs uppercase tracking-widest text-slate-faint pt-5 pb-2 font-semibold">

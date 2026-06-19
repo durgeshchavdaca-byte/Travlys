@@ -6,6 +6,11 @@ import HomePage from './pages/HomePage'
 import VisaPage from './pages/VisaPage'
 import CityVisaPage from './pages/CityVisaPage'
 import CityHubPage from './pages/CityHubPage'
+import AboutPage from './pages/AboutPage'
+import ContactPage from './pages/ContactPage'
+import PricingPage from './pages/PricingPage'
+import BlogIndexPage from './pages/BlogIndexPage'
+import BlogPostPage from './pages/BlogPostPage'
 import ScrollToTop from './components/ScrollToTop'
 import StickyContact from './components/StickyContact'
 import { ScrollProgress } from './components/MotionGraphics'
@@ -25,6 +30,11 @@ function App() {
             <Route path="/visa/:slug" element={<VisaPage />} />
             <Route path="/visa/:slug/from/:city" element={<CityVisaPage />} />
             <Route path="/from/:city" element={<CityHubPage />} />
+            <Route path="/about" element={<AboutPage />} />
+            <Route path="/contact" element={<ContactPage />} />
+            <Route path="/pricing" element={<PricingPage />} />
+            <Route path="/blog" element={<BlogIndexPage />} />
+            <Route path="/blog/:slug" element={<BlogPostPage />} />
           </Routes>
         </AnimatePresence>
       </main>

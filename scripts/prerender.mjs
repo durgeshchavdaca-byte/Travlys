@@ -23,6 +23,7 @@ import { destinations } from '../src/data/destinations.js'
 import { CITIES } from '../src/data/cities.js'
 import { reviews } from '../src/data/reviews.js'
 import { FEATURED_TESTIMONIALS } from '../src/data/testimonials.js'
+import { BLOG_POSTS } from '../src/data/blog.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -33,6 +34,8 @@ import {
   buildVisaSchemas,
   buildCityVisaSchemas,
   buildCityHubSchemas,
+  buildWebPageSchema,
+  buildAggregateOfferSchema,
   getHomeMeta,
   getVisaMeta,
   getCityVisaMeta,
@@ -212,6 +215,38 @@ function buildSitemap(destinations, cities, today) {
       '  </url>',
     )
   }
+  // Standalone pages: about / contact / pricing / blog index
+  for (const p of ['/about', '/contact', '/pricing', '/blog']) {
+    lines.push(
+      '  <url>',
+      `    <loc>${url(p)}</loc>`,
+      `    <lastmod>${today}</lastmod>`,
+      '    <changefreq>weekly</changefreq>',
+      `    <priority>0.85</priority>`,
+      `    <xhtml:link rel="alternate" hreflang="en-in" href="${url(p)}" />`,
+      `    <xhtml:link rel="alternate" hreflang="x-default" href="${url(p)}" />`,
+      '  </url>',
+    )
+  }
+  // Blog posts
+  for (const post of BLOG_POSTS) {
+    const p = `/blog/${post.slug}`
+    lines.push(
+      '  <url>',
+      `    <loc>${url(p)}</loc>`,
+      `    <lastmod>${post.date || today}</lastmod>`,
+      '    <changefreq>monthly</changefreq>',
+      `    <priority>0.8</priority>`,
+      `    <xhtml:link rel="alternate" hreflang="en-in" href="${url(p)}" />`,
+      `    <xhtml:link rel="alternate" hreflang="x-default" href="${url(p)}" />`,
+      '    <image:image>',
+      `      <image:loc>${escapeXml(post.heroImage)}</image:loc>`,
+      `      <image:title>${escapeXml(post.title)}</image:title>`,
+      `      <image:caption>${escapeXml(post.excerpt).slice(0, 200)}</image:caption>`,
+      '    </image:image>',
+      '  </url>',
+    )
+  }
   lines.push('</urlset>')
   return lines.join('\n') + '\n'
 }
@@ -251,6 +286,13 @@ function buildHtmlSitemap(destinations, cities, today) {
 
   const countryLinks = destinations.map((d) => ({ href: u(`/visa/${d.slug}`), label: `${d.name} Visa` }))
   const cityHubLinks = cities.map((c) => ({ href: u(`/from/${c.slug}`), label: `Visa from ${c.name}` }))
+  const standaloneLinks = [
+    { href: u('/about'), label: 'About Travlys' },
+    { href: u('/pricing'), label: 'Pricing' },
+    { href: u('/contact'), label: 'Contact' },
+    { href: u('/blog'), label: 'Editorial blog' },
+  ]
+  const blogLinks = BLOG_POSTS.map((p) => ({ href: u(`/blog/${p.slug}`), label: p.title }))
 
   // City × country grid, 120 entries grouped by destination
   const cityVisaSections = destinations
@@ -293,6 +335,11 @@ function buildHtmlSitemap(destinations, cities, today) {
   <li><a href="${u('/')}">Travlys home, visa assistance for Indian travelers</a></li>
 </ul>
 
+<h2>Core pages</h2>
+<ul>
+${linkList(standaloneLinks)}
+</ul>
+
 <h2>Visa destinations</h2>
 <ul>
 ${linkList(countryLinks)}
@@ -301,6 +348,11 @@ ${linkList(countryLinks)}
 <h2>City visa hubs</h2>
 <ul>
 ${linkList(cityHubLinks)}
+</ul>
+
+<h2>Editorial blog (${blogLinks.length} posts)</h2>
+<ul>
+${linkList(blogLinks)}
 </ul>
 
 <h2>Visa by city + country (${destinations.length * cities.length} pages)</h2>
@@ -362,6 +414,158 @@ async function main() {
     const schemas = buildCityHubSchemas(city, destinations)
     const html = renderRoute(template, meta, schemas)
     const dir = path.join(dist, 'from', city.slug)
+    await fs.mkdir(dir, { recursive: true })
+    await fs.writeFile(path.join(dir, 'index.html'), html)
+    routes.push(meta.path)
+  }
+
+  // Standalone pages: /about, /contact, /pricing
+  const standalones = [
+    {
+      path: '/about',
+      title: 'About Travlys: India-based visa consultants, 5,000+ visas filed',
+      description: 'Travlys is an India-based visa consultancy headquartered in Ahmedabad. 5,000+ visas filed, 98% approval rate, 10 destinations, flat fees from ₹999. Here is who we are and how we work.',
+      keywords: 'about travlys, travlys visa consultants, visa consultancy ahmedabad, india visa agency',
+      extra: [{ '@context': 'https://schema.org', '@type': 'AboutPage', '@id': `${SITE_URL}/about#aboutpage`, url: `${SITE_URL}/about`, mainEntity: { '@id': `${SITE_URL}/#organization` } }],
+    },
+    {
+      path: '/contact',
+      title: 'Contact Travlys: WhatsApp, phone, email and Ahmedabad office',
+      description: 'Reach Travlys visa consultants on WhatsApp +91 82009 18967, by email at info@travlys.com, or visit our Ahmedabad office. Hours, address, and inquiry form.',
+      keywords: 'contact travlys, travlys whatsapp, travlys phone, travlys ahmedabad office',
+      extra: [{ '@context': 'https://schema.org', '@type': 'ContactPage', '@id': `${SITE_URL}/contact#contactpage`, url: `${SITE_URL}/contact`, mainEntity: { '@id': `${SITE_URL}/#organization` } }],
+    },
+    {
+      path: '/pricing',
+      title: 'Travlys visa pricing: every country, every fee (2026)',
+      description: 'Transparent flat fees for every Travlys visa service. US, UK, Canada, Schengen, Singapore, UAE, Thailand and more from ₹999. Embassy / VFS fees paid separately.',
+      keywords: 'travlys pricing, visa cost from india, visa consultant fees india',
+      extra: [buildAggregateOfferSchema(destinations)].filter(Boolean),
+    },
+  ]
+  for (const sp of standalones) {
+    const meta = { ...sp, image: DEFAULT_OG_IMAGE, type: 'website' }
+    const schemas = [
+      buildWebPageSchema(meta),
+      {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+          { '@type': 'ListItem', position: 2, name: sp.path.slice(1).replace(/^\w/, (c) => c.toUpperCase()), item: `${SITE_URL}${sp.path}` },
+        ],
+      },
+      ...(sp.extra || []),
+    ]
+    const html = renderRoute(template, meta, schemas)
+    const dir = path.join(dist, sp.path.slice(1))
+    await fs.mkdir(dir, { recursive: true })
+    await fs.writeFile(path.join(dir, 'index.html'), html)
+    routes.push(sp.path)
+  }
+
+  // Blog index + posts
+  const blogIndexMeta = {
+    title: 'Visa guides and how-tos for Indian travelers | Travlys Blog',
+    description: 'Honest, no-fluff guides from Travlys visa consultants — US visa from India 2026, Schengen checklist, DS-160 mistakes, Dubai visa cost breakdown, and more.',
+    path: '/blog',
+    keywords: 'visa guide india, us visa guide india, schengen visa guide, ds-160 mistakes, dubai visa cost, travlys blog',
+    type: 'website',
+    image: DEFAULT_OG_IMAGE,
+  }
+  const blogIndexSchemas = [
+    buildWebPageSchema(blogIndexMeta),
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Blog',
+      '@id': `${SITE_URL}/blog#blog`,
+      url: `${SITE_URL}/blog`,
+      name: `${SITE_NAME} editorial`,
+      description: blogIndexMeta.description,
+      publisher: { '@id': `${SITE_URL}/#organization` },
+      blogPost: BLOG_POSTS.map((p) => ({
+        '@type': 'BlogPosting',
+        headline: p.title,
+        url: `${SITE_URL}/blog/${p.slug}`,
+        datePublished: p.date,
+        author: { '@type': 'Organization', name: SITE_NAME, url: `${SITE_URL}/` },
+      })),
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+        { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
+      ],
+    },
+  ]
+  {
+    const html = renderRoute(template, blogIndexMeta, blogIndexSchemas)
+    const dir = path.join(dist, 'blog')
+    await fs.mkdir(dir, { recursive: true })
+    await fs.writeFile(path.join(dir, 'index.html'), html)
+    routes.push('/blog')
+  }
+
+  for (const post of BLOG_POSTS) {
+    const meta = {
+      title: post.metaTitle || `${post.title} | ${SITE_NAME}`,
+      description: post.metaDescription || post.excerpt,
+      path: `/blog/${post.slug}`,
+      keywords: post.tags?.join(', '),
+      type: 'article',
+      image: post.heroImage,
+      imageAlt: post.title,
+    }
+    const articleBody = post.body
+      .filter((n) => n.type === 'p' || n.type === 'h2' || n.type === 'h3')
+      .map((n) => n.text)
+      .join('\n\n')
+    const schemas = [
+      buildWebPageSchema(meta),
+      {
+        '@context': 'https://schema.org',
+        '@type': 'BlogPosting',
+        '@id': `${SITE_URL}${meta.path}#post`,
+        headline: post.title,
+        description: meta.description,
+        image: [post.heroImage],
+        datePublished: post.date,
+        dateModified: post.date,
+        author: { '@type': 'Organization', name: SITE_NAME, url: `${SITE_URL}/` },
+        publisher: { '@id': `${SITE_URL}/#organization` },
+        mainEntityOfPage: `${SITE_URL}${meta.path}`,
+        articleBody: articleBody.slice(0, 2500),
+        wordCount: articleBody.split(/\s+/).length,
+        inLanguage: 'en-IN',
+        keywords: post.tags?.join(', '),
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+          { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
+          { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE_URL}${meta.path}` },
+        ],
+      },
+      ...(post.faqs?.length
+        ? [
+            {
+              '@context': 'https://schema.org',
+              '@type': 'FAQPage',
+              mainEntity: post.faqs.map(({ q, a }) => ({
+                '@type': 'Question',
+                name: q,
+                acceptedAnswer: { '@type': 'Answer', text: a },
+              })),
+            },
+          ]
+        : []),
+    ]
+    const html = renderRoute(template, meta, schemas)
+    const dir = path.join(dist, 'blog', post.slug)
     await fs.mkdir(dir, { recursive: true })
     await fs.writeFile(path.join(dir, 'index.html'), html)
     routes.push(meta.path)
