@@ -55,7 +55,10 @@
     <link rel="dns-prefetch" href="https://images.unsplash.com" />
     <link rel="dns-prefetch" href="https://wa.me" />
     <link rel="preconnect" href="https://flagcdn.com" crossorigin />
+    <!-- Cabinet Grotesk + Switzer from Fontshare. display=swap renders system font first, then swaps when Fontshare CSS resolves. preconnect above already warms the TLS handshake to fontshare CDN. -->
     <link href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@200,300,400,500,700,800&f[]=switzer@200,300,400,500,600,700,800,900&display=swap" rel="stylesheet" />
+    <!-- Preload LCP hero image so first paint shows it instantly. -->
+    <link rel="preload" as="image" href="https://images.unsplash.com/photo-1488085061387-422e29b40080?w=1200&h=630&fit=crop&q=80" fetchpriority="high" />
 
     <!-- SPA redirect handler, restores the path after 404.html bounces a deep link back here -->
     <script>

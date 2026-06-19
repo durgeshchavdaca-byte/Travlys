@@ -129,6 +129,55 @@ export default function Footer() {
         </div>
       </div>
 
+      {/* Popular searches — keyword-rich internal-linking rail for SEO. */}
+      <div className="relative z-10 border-t border-white/10">
+        <div className="container-app py-10">
+          <p className="text-coral-500 text-[0.7rem] uppercase tracking-[0.18em] font-semibold mb-5">
+            Popular searches
+          </p>
+          <div className="flex flex-wrap gap-x-5 gap-y-2 text-[0.82rem] text-white/65">
+            {[
+              ['USA visa from Mumbai',           '/visa/usa-visa/from/mumbai'],
+              ['USA visa from Delhi',            '/visa/usa-visa/from/delhi'],
+              ['USA visa from Bengaluru',        '/visa/usa-visa/from/bengaluru'],
+              ['USA visa from Hyderabad',        '/visa/usa-visa/from/hyderabad'],
+              ['UK visa from Delhi',             '/visa/uk-visa/from/delhi'],
+              ['UK visa from Mumbai',            '/visa/uk-visa/from/mumbai'],
+              ['Canada visa from Chandigarh',    '/visa/canada-visa/from/chandigarh'],
+              ['Canada visa from Delhi',         '/visa/canada-visa/from/delhi'],
+              ['Schengen visa from Mumbai',      '/visa/netherlands-visa/from/mumbai'],
+              ['Schengen visa from Bengaluru',   '/visa/netherlands-visa/from/bengaluru'],
+              ['Dubai visa from Ahmedabad',      '/visa/uae-visa/from/ahmedabad'],
+              ['Dubai visa from Mumbai',         '/visa/uae-visa/from/mumbai'],
+              ['Singapore visa from Chennai',    '/visa/singapore-visa/from/chennai'],
+              ['Thailand visa from Pune',        '/visa/thailand-visa/from/pune'],
+              ['Australia visa from Hyderabad',  '/visa/australia-visa/from/hyderabad'],
+              ['New Zealand visa from Kolkata',  '/visa/new-zealand-visa/from/kolkata'],
+              ['Visa consultants in Ahmedabad',  '/from/ahmedabad'],
+              ['Visa consultants in Mumbai',     '/from/mumbai'],
+              ['Visa consultants in Bengaluru',  '/from/bengaluru'],
+              ['Visa consultants in Delhi',      '/from/delhi'],
+              ['Visa consultants in Surat',      '/from/surat'],
+              ['Visa consultants in Jaipur',     '/from/jaipur'],
+            ].map(([label, href]) => (
+              <Link
+                key={href}
+                to={href}
+                className="hover:text-coral-400 no-underline transition-colors"
+              >
+                {label}
+              </Link>
+            ))}
+            <Link
+              to="/sitemap.html"
+              className="hover:text-coral-400 no-underline transition-colors text-coral-500 font-semibold"
+            >
+              See all 143 pages →
+            </Link>
+          </div>
+        </div>
+      </div>
+
       <div className="relative z-10 border-t border-white/10">
         <div className="container-app py-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
           <p className="text-xs text-white/50 max-w-2xl leading-relaxed">

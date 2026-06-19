@@ -32,9 +32,11 @@ import {
   buildHomeSchemas,
   buildVisaSchemas,
   buildCityVisaSchemas,
+  buildCityHubSchemas,
   getHomeMeta,
   getVisaMeta,
   getCityVisaMeta,
+  getCityHubMeta,
 } from '../src/seo/config.js'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -196,6 +198,20 @@ function buildSitemap(destinations, cities, today) {
       )
     }
   }
+  // City hub pages /from/<city>
+  for (const c of cities) {
+    const p = `/from/${c.slug}`
+    lines.push(
+      '  <url>',
+      `    <loc>${url(p)}</loc>`,
+      `    <lastmod>${today}</lastmod>`,
+      '    <changefreq>weekly</changefreq>',
+      `    <priority>0.8</priority>`,
+      `    <xhtml:link rel="alternate" hreflang="en-in" href="${url(p)}" />`,
+      `    <xhtml:link rel="alternate" hreflang="x-default" href="${url(p)}" />`,
+      '  </url>',
+    )
+  }
   lines.push('</urlset>')
   return lines.join('\n') + '\n'
 }
@@ -226,6 +242,78 @@ function buildLlmsTxt(destinations) {
     '',
   ]
   return lines.join('\n') + '\n'
+}
+
+function buildHtmlSitemap(destinations, cities, today) {
+  const u = (p) => `${SITE_URL}${p}`
+  const linkList = (items) =>
+    items.map((it) => `      <li><a href="${it.href}">${escapeHtml(it.label)}</a></li>`).join('\n')
+
+  const countryLinks = destinations.map((d) => ({ href: u(`/visa/${d.slug}`), label: `${d.name} Visa` }))
+  const cityHubLinks = cities.map((c) => ({ href: u(`/from/${c.slug}`), label: `Visa from ${c.name}` }))
+
+  // City × country grid, 120 entries grouped by destination
+  const cityVisaSections = destinations
+    .map(
+      (d) => `    <h3>${escapeHtml(d.name)} visa, from any city</h3>\n    <ul>\n${
+        cities.map((c) => `      <li><a href="${u(`/visa/${d.slug}/from/${c.slug}`)}">${escapeHtml(d.name)} visa from ${escapeHtml(c.name)}</a></li>`).join('\n')
+      }\n    </ul>`,
+    )
+    .join('\n\n')
+
+  return `<!doctype html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sitemap | Travlys</title>
+<meta name="description" content="Every visa page on Travlys — home, 10 country pages, 12 city hubs, and 120 city × country combinations.">
+<link rel="canonical" href="${u('/sitemap.html')}">
+<meta name="robots" content="index, follow">
+<style>
+  body { font-family: 'Switzer', system-ui, sans-serif; max-width: 900px; margin: 0 auto; padding: 48px 24px; line-height: 1.6; color: #2d3142; background: #faf9f5; }
+  h1 { font-size: 2rem; font-weight: 800; color: #0f1b4c; margin: 0 0 8px; letter-spacing: -0.02em; }
+  h2 { font-size: 1.2rem; font-weight: 700; color: #0f1b4c; margin: 32px 0 12px; letter-spacing: -0.01em; border-bottom: 1px solid #ece9df; padding-bottom: 8px; }
+  h3 { font-size: 0.95rem; font-weight: 700; color: #0f1b4c; margin: 20px 0 8px; }
+  ul { padding-left: 18px; margin: 0 0 14px; columns: 2; column-gap: 32px; }
+  li { margin: 4px 0; break-inside: avoid; }
+  a { color: #0f1b4c; text-decoration: none; border-bottom: 1px solid transparent; }
+  a:hover { border-bottom-color: #ff7849; color: #ff7849; }
+  .lede { color: #5a6072; font-size: 0.95rem; margin: 0 0 32px; }
+  .meta { color: #8c92a4; font-size: 0.78rem; margin-top: 48px; padding-top: 16px; border-top: 1px solid #ece9df; }
+  @media (max-width: 600px) { ul { columns: 1; } }
+</style>
+</head>
+<body>
+<h1>Travlys sitemap</h1>
+<p class="lede">Every page Travlys publishes, in one index. Updated ${today}.</p>
+
+<h2>Home</h2>
+<ul>
+  <li><a href="${u('/')}">Travlys home, visa assistance for Indian travelers</a></li>
+</ul>
+
+<h2>Visa destinations</h2>
+<ul>
+${linkList(countryLinks)}
+</ul>
+
+<h2>City visa hubs</h2>
+<ul>
+${linkList(cityHubLinks)}
+</ul>
+
+<h2>Visa by city + country (${destinations.length * cities.length} pages)</h2>
+${cityVisaSections}
+
+<p class="meta">
+  Programmatic index. XML sitemap for search engines:
+  <a href="${u('/sitemap.xml')}">sitemap.xml</a>.
+  AI-bot index: <a href="${u('/llms.txt')}">llms.txt</a>.
+</p>
+</body>
+</html>
+`
 }
 
 async function main() {
@@ -266,6 +354,19 @@ async function main() {
     }
   }
 
+  // City hub pages, write dist/from/<city>/index.html for each city.
+  // Captures "visa consultants in <city>" head queries with a dedicated
+  // landing that lists every destination available from that city.
+  for (const city of CITIES) {
+    const meta = getCityHubMeta(city, destinations)
+    const schemas = buildCityHubSchemas(city, destinations)
+    const html = renderRoute(template, meta, schemas)
+    const dir = path.join(dist, 'from', city.slug)
+    await fs.mkdir(dir, { recursive: true })
+    await fs.writeFile(path.join(dir, 'index.html'), html)
+    routes.push(meta.path)
+  }
+
   // Sitemap, regenerate with today's lastmod
   const today = new Date().toISOString().slice(0, 10)
   await fs.writeFile(path.join(dist, 'sitemap.xml'), buildSitemap(destinations, CITIES, today))
@@ -273,9 +374,14 @@ async function main() {
   // llms.txt, AI-bot discoverability
   await fs.writeFile(path.join(dist, 'llms.txt'), buildLlmsTxt(destinations))
 
+  // HTML sitemap, human + crawler readable index at /sitemap.html.
+  // Gives Google a deep link graph and gives visitors a discoverable
+  // index of every page on the site.
+  await fs.writeFile(path.join(dist, 'sitemap.html'), buildHtmlSitemap(destinations, CITIES, today))
+
   console.log(`\nPre-rendered ${routes.length} routes:`)
   routes.forEach((r) => console.log(`  ✓ ${r}`))
-  console.log(`\nRegenerated sitemap.xml (lastmod ${today}) and llms.txt`)
+  console.log(`\nRegenerated sitemap.xml (lastmod ${today}), sitemap.html and llms.txt`)
 
   // IndexNow, ping Bing, Yandex, Naver, Seznam, Yep with the URL list.
   // Only runs in CI (i.e. real GitHub Actions deploys) so local builds

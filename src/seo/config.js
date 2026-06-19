@@ -575,6 +575,90 @@ export function buildCityVisaSchemas(dest, city) {
   ]
 }
 
+// City hub page — /from/:city — lists all 10 visa destinations
+// available from that city. Captures head queries like
+// "visa consultants in mumbai", "visa from delhi".
+export function getCityHubMeta(city, destinations) {
+  const pagePath = `/from/${city.slug}`
+  const dests = destinations.map((d) => d.name).slice(0, 6).join(', ')
+  return {
+    title: `Visa Consultants in ${city.name} | Apply for ${dests} Visas | Travlys`,
+    description:
+      `Travlys files US, UK, Canada, Schengen, Singapore and more visas for ${city.name}, ${city.state} applicants. ` +
+      `VFS at ${city.vfsCenter}. 98% approval across 5,000+ Indian visas, transparent fees from ₹999.`,
+    path: pagePath,
+    keywords: [
+      `visa consultants in ${city.name.toLowerCase()}`,
+      `visa agent ${city.name.toLowerCase()}`,
+      `visa from ${city.name.toLowerCase()}`,
+      `${city.name.toLowerCase()} visa services`,
+      `vfs ${city.name.toLowerCase()}`,
+      `${city.name.toLowerCase()} travel agent`,
+      `tourist visa ${city.name.toLowerCase()}`,
+      `business visa ${city.name.toLowerCase()}`,
+      `travlys ${city.name.toLowerCase()}`,
+    ].join(', '),
+    type: 'website',
+    image: DEFAULT_OG_IMAGE,
+    imageAlt: `Travlys, visa services in ${city.name}, ${city.state}`,
+    city,
+  }
+}
+
+export function buildCityHubSchemas(city, destinations) {
+  const pagePath = `/from/${city.slug}`
+  const canonical = `${SITE_URL}${pagePath}`
+  const meta = getCityHubMeta(city, destinations)
+
+  return [
+    buildWebPageSchema(meta),
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+        { '@type': 'ListItem', position: 2, name: `Visa from ${city.name}`, item: canonical },
+      ],
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Place',
+      '@id': `${canonical}#place`,
+      name: city.name,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: city.name,
+        addressRegion: city.state,
+        addressCountry: 'IN',
+      },
+      geo: { '@type': 'GeoCoordinates', latitude: String(city.lat), longitude: String(city.lng) },
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Service',
+      '@id': `${canonical}#service`,
+      serviceType: 'Visa Assistance',
+      name: `Visa Services in ${city.name}, ${city.state}`,
+      description: meta.description,
+      provider: { '@id': `${SITE_URL}/#organization` },
+      areaServed: { '@type': 'City', name: city.name, containedIn: { '@type': 'AdministrativeArea', name: city.state } },
+      audience: { '@type': 'PeopleAudience', name: `Indian passport holders in ${city.name}` },
+      url: canonical,
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: `Visa destinations available from ${city.name}`,
+      itemListElement: destinations.map((d, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: `${d.name} Visa from ${city.name}`,
+        url: `${SITE_URL}/visa/${d.slug}/from/${city.slug}`,
+      })),
+    },
+  ]
+}
+
 export function getVisaMeta(dest) {
   const pagePath = `/visa/${dest.slug}`
   const heroImage = dest.heroImage || dest.image
