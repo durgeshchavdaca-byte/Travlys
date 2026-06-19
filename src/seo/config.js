@@ -237,7 +237,24 @@ export function buildWebPageSchema(meta) {
   }
 }
 
-export function buildHomeSchemas(destinations, reviews = []) {
+export function buildFeaturedTestimonialSchemas(featured = []) {
+  return featured.map((t) => ({
+    '@context': 'https://schema.org',
+    '@type': 'Review',
+    author: {
+      '@type': 'Person',
+      name: t.name,
+      jobTitle: t.role,
+      worksFor: t.company ? { '@type': 'Organization', name: t.company, url: t.companyUrl } : undefined,
+    },
+    datePublished: t.date,
+    reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5', worstRating: '1' },
+    reviewBody: t.quote,
+    itemReviewed: { '@id': `${SITE_URL}/#organization` },
+  }))
+}
+
+export function buildHomeSchemas(destinations, reviews = [], featured = []) {
   return [
     buildOrganizationSchema(),
     {
@@ -282,6 +299,7 @@ export function buildHomeSchemas(destinations, reviews = []) {
       })),
     },
     ...buildReviewSchemas(reviews),
+    ...buildFeaturedTestimonialSchemas(featured),
   ].filter(Boolean)
 }
 

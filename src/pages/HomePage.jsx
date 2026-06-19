@@ -30,9 +30,11 @@ import { destinations, globalCountries, regions } from '../data/destinations'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Reviews from '../components/Reviews'
+import FeaturedTestimonials from '../components/FeaturedTestimonials'
 import Flag from '../components/Flag'
 import { buildHomeSchemas, getHomeMeta, HOME_FAQS } from '../seo/config'
 import { reviews } from '../data/reviews'
+import { FEATURED_TESTIMONIALS } from '../data/testimonials'
 
 /* ─── HERO ────────────────────────────────────────────────────────────────── */
 
@@ -834,7 +836,7 @@ function InquirySection() {
 
 export default function HomePage() {
   const homeMeta = getHomeMeta()
-  const homeSchemas = buildHomeSchemas(destinations, reviews)
+  const homeSchemas = buildHomeSchemas(destinations, reviews, FEATURED_TESTIMONIALS)
 
   return (
     <>
@@ -847,6 +849,7 @@ export default function HomePage() {
       <PricingTable />
       <WhyTravlys />
       <MarqueeBar />
+      <FeaturedTestimonials />
       <LocalReachBand />
       <Reviews />
       <CtaBanner />
