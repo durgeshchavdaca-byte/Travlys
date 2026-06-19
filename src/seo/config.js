@@ -249,7 +249,7 @@ export function buildFeaturedTestimonialSchemas(featured = []) {
     },
     datePublished: t.date,
     reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5', worstRating: '1' },
-    reviewBody: t.quote,
+    reviewBody: Array.isArray(t.quote) ? t.quote.join(' ') : t.quote,
     itemReviewed: { '@id': `${SITE_URL}/#organization` },
   }))
 }

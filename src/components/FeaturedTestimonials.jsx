@@ -92,7 +92,8 @@ export default function FeaturedTestimonials() {
                   aria-hidden
                 />
 
-                {/* The quote */}
+                {/* The quote — supports either a single string or an array of
+                    paragraphs for testimonials with natural breaks. */}
                 <blockquote
                   className="font-display font-medium text-ink-900 leading-[1.35]"
                   style={{
@@ -101,7 +102,16 @@ export default function FeaturedTestimonials() {
                   }}
                   itemProp="reviewBody"
                 >
-                  "{t.quote}"
+                  {Array.isArray(t.quote) ? (
+                    t.quote.map((para, j) => (
+                      <p key={j} className={j === 0 ? '' : 'mt-4'}>
+                        {j === 0 ? `"${para}` : para}
+                        {j === t.quote.length - 1 ? '"' : ''}
+                      </p>
+                    ))
+                  ) : (
+                    <>"{t.quote}"</>
+                  )}
                 </blockquote>
 
                 {t.pullQuote && (
