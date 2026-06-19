@@ -187,7 +187,7 @@ export const BLOG_POSTS = [
     readMinutes: 6,
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
-    heroImage: 'https://images.unsplash.com/photo-1576924542622-772579c8d6e7?w=1600&h=900&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
     related: ['us-visa-from-india-2026-complete-guide', 'visa-consultant-vs-diy', 'visa-rejection-reasons-india'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [

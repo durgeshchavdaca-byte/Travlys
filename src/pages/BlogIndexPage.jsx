@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { ArrowUpRight, BookOpen, Clock3, Sparkles } from 'lucide-react'
@@ -6,6 +7,34 @@ import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import { BLOG_POSTS, BLOG_CATEGORIES } from '../data/blog'
 import SEO from '../components/SEO'
 import { SITE_URL, SITE_NAME, DEFAULT_OG_IMAGE } from '../seo/config'
+
+// Renders a hero image; on load error, swaps to a clean gradient panel
+// so a single broken Unsplash URL never dumps alt text onto the card.
+function PostThumb({ src, alt }) {
+  const [failed, setFailed] = useState(false)
+  if (failed || !src) {
+    return (
+      <div
+        aria-hidden
+        className="w-full h-full"
+        style={{
+          background:
+            'linear-gradient(135deg, #ffe2d6 0%, #ecc878 50%, #ffd9c2 100%)',
+        }}
+      />
+    )
+  }
+  return (
+    <img
+      src={src}
+      alt={alt}
+      loading="lazy"
+      decoding="async"
+      onError={() => setFailed(true)}
+      className="country-card-img w-full h-full object-cover"
+    />
+  )
+}
 
 const indexMeta = {
   title: 'Visa guides and how-tos for Indian travelers | Travlys Blog',
@@ -103,12 +132,7 @@ export default function BlogIndexPage() {
                   className="card overflow-hidden no-underline block h-full group flex flex-col"
                 >
                   <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
-                    <img
-                      src={p.heroImage}
-                      alt={p.title}
-                      loading="lazy"
-                      className="country-card-img w-full h-full object-cover"
-                    />
+                    <PostThumb src={p.heroImage} alt={p.title} />
                     <span className="absolute top-3 left-3 pill bg-white/95 text-ink-900 text-[0.7rem]">
                       {p.category}
                     </span>

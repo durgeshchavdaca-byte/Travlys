@@ -301,7 +301,7 @@ export const destinations = [
     priceValue: 2950,
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=900&h=600&fit=crop',
-    heroImage: 'https://images.unsplash.com/photo-1576924542622-772579c8d6e7?w=1600&h=900&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
     tagline: 'Schengen via Netherlands, 26 countries unlocked',
     description:
       'Netherlands-issued Schengen visa with travel-insurance bundles, VFS appointment booking and a cover letter that maps your itinerary to the main-destination rule.',
