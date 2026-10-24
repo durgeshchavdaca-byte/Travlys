@@ -79,7 +79,7 @@ export default function Footer() {
               {popular.map((d) => (
                 <li key={d.slug}>
                   <Link
-                    to={`/visa/${d.slug}`}
+                    to={`/visa/${d.slug}/`}
                     className="text-white/75 hover:text-coral-400 no-underline transition-colors"
                   >
                     {d.name} Visa
@@ -89,18 +89,25 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Services */}
+          {/* Resources */}
           <div className="md:col-span-2">
             <h3 className="text-coral-500 text-[0.7rem] uppercase tracking-[0.18em] font-semibold mb-5">
-              Services
+              Resources
             </h3>
             <ul className="space-y-3 text-[0.95rem] list-none p-0 m-0">
-              <li className="text-white/75">Tourist visas</li>
-              <li className="text-white/75">Business visas</li>
-              <li className="text-white/75">Student visas</li>
-              <li className="text-white/75">Work permits</li>
-              <li className="text-white/75">Schengen bundles</li>
-              <li className="text-white/75">Flight & stay</li>
+              {[
+                ['Visa questions answered', '/visa-questions/'],
+                ['Pricing', '/pricing/'],
+                ['Visa guides', '/blog/'],
+                ['About Travlys', '/about/'],
+                ['Contact', '/contact/'],
+              ].map(([label, href]) => (
+                <li key={href}>
+                  <Link to={href} className="text-white/75 hover:text-coral-400 no-underline transition-colors">
+                    {label}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
 
@@ -137,28 +144,28 @@ export default function Footer() {
           </p>
           <div className="flex flex-wrap gap-x-5 gap-y-2 text-[0.82rem] text-white/65">
             {[
-              ['USA visa from Mumbai',           '/visa/usa-visa/from/mumbai'],
-              ['USA visa from Delhi',            '/visa/usa-visa/from/delhi'],
-              ['USA visa from Bengaluru',        '/visa/usa-visa/from/bengaluru'],
-              ['USA visa from Hyderabad',        '/visa/usa-visa/from/hyderabad'],
-              ['UK visa from Delhi',             '/visa/uk-visa/from/delhi'],
-              ['UK visa from Mumbai',            '/visa/uk-visa/from/mumbai'],
-              ['Canada visa from Chandigarh',    '/visa/canada-visa/from/chandigarh'],
-              ['Canada visa from Delhi',         '/visa/canada-visa/from/delhi'],
-              ['Schengen visa from Mumbai',      '/visa/netherlands-visa/from/mumbai'],
-              ['Schengen visa from Bengaluru',   '/visa/netherlands-visa/from/bengaluru'],
-              ['Dubai visa from Ahmedabad',      '/visa/uae-visa/from/ahmedabad'],
-              ['Dubai visa from Mumbai',         '/visa/uae-visa/from/mumbai'],
-              ['Singapore visa from Chennai',    '/visa/singapore-visa/from/chennai'],
-              ['Thailand visa from Pune',        '/visa/thailand-visa/from/pune'],
-              ['Australia visa from Hyderabad',  '/visa/australia-visa/from/hyderabad'],
-              ['New Zealand visa from Kolkata',  '/visa/new-zealand-visa/from/kolkata'],
-              ['Visa consultants in Ahmedabad',  '/from/ahmedabad'],
-              ['Visa consultants in Mumbai',     '/from/mumbai'],
-              ['Visa consultants in Bengaluru',  '/from/bengaluru'],
-              ['Visa consultants in Delhi',      '/from/delhi'],
-              ['Visa consultants in Surat',      '/from/surat'],
-              ['Visa consultants in Jaipur',     '/from/jaipur'],
+              ['USA visa from Mumbai',           '/visa/usa-visa/from/mumbai/'],
+              ['USA visa from Delhi',            '/visa/usa-visa/from/delhi/'],
+              ['USA visa from Bengaluru',        '/visa/usa-visa/from/bengaluru/'],
+              ['USA visa from Hyderabad',        '/visa/usa-visa/from/hyderabad/'],
+              ['UK visa from Delhi',             '/visa/uk-visa/from/delhi/'],
+              ['UK visa from Mumbai',            '/visa/uk-visa/from/mumbai/'],
+              ['Canada visa from Chandigarh',    '/visa/canada-visa/from/chandigarh/'],
+              ['Canada visa from Delhi',         '/visa/canada-visa/from/delhi/'],
+              ['Schengen visa from Mumbai',      '/visa/netherlands-visa/from/mumbai/'],
+              ['Schengen visa from Bengaluru',   '/visa/netherlands-visa/from/bengaluru/'],
+              ['Dubai visa from Ahmedabad',      '/visa/uae-visa/from/ahmedabad/'],
+              ['Dubai visa from Mumbai',         '/visa/uae-visa/from/mumbai/'],
+              ['Singapore visa from Chennai',    '/visa/singapore-visa/from/chennai/'],
+              ['Thailand visa from Pune',        '/visa/thailand-visa/from/pune/'],
+              ['Australia visa from Hyderabad',  '/visa/australia-visa/from/hyderabad/'],
+              ['New Zealand visa from Kolkata',  '/visa/new-zealand-visa/from/kolkata/'],
+              ['Visa consultants in Ahmedabad',  '/from/ahmedabad/'],
+              ['Visa consultants in Mumbai',     '/from/mumbai/'],
+              ['Visa consultants in Bengaluru',  '/from/bengaluru/'],
+              ['Visa consultants in Delhi',      '/from/delhi/'],
+              ['Visa consultants in Surat',      '/from/surat/'],
+              ['Visa consultants in Jaipur',     '/from/jaipur/'],
             ].map(([label, href]) => (
               <Link
                 key={href}
@@ -168,12 +175,12 @@ export default function Footer() {
                 {label}
               </Link>
             ))}
-            <Link
-              to="/sitemap.html"
+            <a
+              href="/sitemap.html"
               className="hover:text-coral-400 no-underline transition-colors text-coral-500 font-semibold"
             >
-              See all 143 pages →
-            </Link>
+              See all pages →
+            </a>
           </div>
         </div>
       </div>

@@ -82,6 +82,285 @@ export const destinations = [
       'Employment letter, leave approval and salary slips',
     ],
     relatedDestinations: ['uk-visa', 'canada-visa', 'australia-visa', 'singapore-visa', 'uae-visa', 'netherlands-visa'],
+    // Long-form editorial content for /visa/usa-visa. Renders as an
+    // in-depth guide beneath the About section. This is the SEO
+    // heavy-lifter that targets the head-term cluster around
+    // "US visa from India", "us b1 b2 visa", "ds-160 mistakes",
+    // "us visa interview questions", "us visa fee india".
+    deepGuide: {
+      updatedOn: '2026-07-10',
+      reviewedBy: 'The Travlys US visa desk',
+      tldr:
+        'The US visa from India is not a paper application, it is an evidence-based conversation with a consular officer. Cost is roughly ₹35,000-40,000 all-in (MRV fee $185, service fee, VAC, courier). Total time from brief to stamped passport is typically 3-8 weeks, most of it interview-wait. DS-160 accuracy and interview coaching decide the outcome more than any single document.',
+      sections: [
+        {
+          h2: 'US visa from India in 2026: what actually decides the outcome',
+          body: [
+            {
+              type: 'p',
+              text: 'Every Indian applicant assumes the US visa is a document game. It is not. The consular officer at the US embassy or consulate has your DS-160 open on their screen and roughly 90 seconds to decide whether to approve you. The document folder in your hand almost never opens.',
+            },
+            {
+              type: 'p',
+              text: 'What decides the outcome is Section 214(b) of the US Immigration and Nationality Act, the presumption that every applicant is an intending immigrant unless they prove strong ties to India. Your job in that 90-second interview is to make that presumption fall away. That is the entire game.',
+            },
+            {
+              type: 'p',
+              text: 'Everything else, DS-160 answers, cover letter, financial statements, itinerary, is there to back up the story you will tell. If the interview story does not line up with the DS-160 answers you submitted three weeks ago, the visa is refused. So the preparation is not "collect documents", it is "build a consistent, credible narrative that the DS-160, the file and the interview all support".',
+            },
+          ],
+        },
+        {
+          h2: 'How much does a US visa cost from India in 2026',
+          body: [
+            {
+              type: 'p',
+              text: 'The full cost has two independent parts: the US government fee (paid to the embassy in USD) and the service fee (paid to a consultant if you are using one). Both are separate from optional add-ons like courier, insurance and biometrics upgrades.',
+            },
+            { type: 'h3', text: 'US government fees (paid directly to the embassy)' },
+            {
+              type: 'ul',
+              items: [
+                'MRV (Machine Readable Visa) fee: $185 for B1/B2, F-1, M and most non-immigrant categories. Roughly ₹15,500 at current forex.',
+                'H, L, O, P, Q and R work visas: $205 MRV.',
+                'E treaty investor / trader visas: $315 MRV.',
+                'Reciprocity fee: applies to specific nationalities and categories; nil for most Indian applicants on B1/B2.',
+                'SEVIS I-901 (for F-1 students only): $350, paid to ICE, not the embassy.',
+                'H-1B / L-1 anti-fraud and border-security fees are paid by the US employer, not the applicant.',
+              ],
+            },
+            { type: 'h3', text: 'Travlys service fee for the US visa' },
+            {
+              type: 'p',
+              text: 'Our flat service fee for a US B1/B2 visa from India starts at ₹19,940. That covers everything from DS-160 review through two mock interviews to embassy appointment booking. Student visas (F-1) and work visas (H-1B, L-1) carry different service fees because the paperwork depth is different, we quote those live once we have your I-20 or petition details.',
+            },
+            { type: 'h3', text: 'Add-ons you might see billed separately' },
+            {
+              type: 'ul',
+              items: [
+                'VFS courier delivery of your passport back home: ~₹500-800.',
+                'Photograph meeting the 5×5 cm US spec: ~₹200 at any VFS-approved studio.',
+                'Travel insurance (not required for the visa, but recommended for the trip): from ~₹1,500 depending on trip length.',
+                'Interview waiver (drop-box) courier: same ₹500-800 range if you qualify.',
+              ],
+            },
+            {
+              type: 'callout',
+              label: 'Realistic total',
+              text: 'For a first-time B1/B2 applicant from India, budget ₹35,000-40,000 all-in. Repeat applicants using the interview waiver save on time but not much on cost.',
+            },
+          ],
+        },
+        {
+          h2: 'DS-160 form: 8 mistakes that get Indian applicants refused',
+          body: [
+            {
+              type: 'p',
+              text: 'The DS-160 is a 100+ question online form and the source of most self-inflicted US visa refusals. The consular officer will read your DS-160 answers word-for-word during the interview and compare them with what you say in person. Discrepancies read as intent to deceive. Here are the eight most-common ways Indian applicants sabotage themselves.',
+            },
+            {
+              type: 'ul',
+              items: [
+                '1. Vague purpose of trip. "Vacation" or "meeting friends" reads as immigration intent. Name the state, the city, the number of nights, and what you will actually do there.',
+                '2. Zero travel history and no explanation for it. If your passport is blank, the officer needs a plausible reason (young applicant, first job, etc.) that lines up with your work history.',
+                '3. US-based contact chosen carelessly. The person you name as your US point of contact is a signal about your intent. Naming a distant cousin who "sponsors" your trip when you are actually staying at a hotel is a red flag.',
+                '4. Employer details that do not match your bank statements. If your DS-160 says you earn ₹15 lakh a year and your salary account shows ₹8 lakh in credits, the officer sees the gap.',
+                '5. Previous visa refusals hidden. Every US refusal, every Schengen refusal, every UK refusal, must be declared. The embassy has API access. Hiding one guarantees another refusal.',
+                '6. Family in the US listed as "no" when a cousin is on H-1B. Extended family in the US on work or student visas is not disqualifying. Hiding it is.',
+                '7. Inconsistent addresses over the last 5 years. If you moved cities for work, list every address; do not compress.',
+                '8. Wrong photo. The US spec is 5×5 cm, plain white background, taken in the last 6 months, no smile, no glasses. VFS rejects wrong photos on the biometrics day, and it delays your file by 2-3 weeks.',
+              ],
+            },
+            {
+              type: 'p',
+              text: 'Travlys reviews the DS-160 answer-by-answer before submission and flags each of these against your real profile. It is the single most impactful part of what we do.',
+            },
+          ],
+        },
+        {
+          h2: 'US visa interview: 12 questions Indian applicants actually get asked',
+          body: [
+            {
+              type: 'p',
+              text: 'The B1/B2 interview at the US embassy in New Delhi, Mumbai, Chennai, Kolkata or Hyderabad lasts 60-120 seconds. Consular officers are trained to ask short, high-signal questions in rapid succession. Here are the twelve most-frequent questions we see, in the order they usually come.',
+            },
+            {
+              type: 'ul',
+              items: [
+                'Why do you want to visit the United States? (Purpose of trip.)',
+                'How long will you stay?',
+                'Where will you stay, and who will you visit?',
+                'Have you been to the US before?',
+                'Which other countries have you traveled to?',
+                'What do you do for work, and how long have you been at your current employer?',
+                'How much do you earn?',
+                'Who is paying for the trip?',
+                'Are you married? Do you have children? What do they do?',
+                'Do you own property, and where?',
+                'Do you have relatives in the US?',
+                'What will make you come back to India?',
+              ],
+            },
+            {
+              type: 'p',
+              text: 'That last question, "what will make you come back to India", is the officer directly testing the 214(b) presumption. The strongest answers reference specific, unbreakable ties: your job with a return-to-work date, a spouse or aging parent you support, a home loan in your name, a business you run, elderly parents who depend on you. Weak answers are "my family is here" or "I love India". Both are true, neither is evidence.',
+            },
+            {
+              type: 'p',
+              text: 'Our two mock interviews at Travlys drill these exact questions with your real answers, in the order they are asked, at the pace they are asked. We stop you when your answer is honest but self-defeating and rebuild the phrasing until it is honest and defensible.',
+            },
+          ],
+        },
+        {
+          h2: 'US visa refused (214(b) or 221(g)): what it actually means and what to do next',
+          body: [
+            {
+              type: 'p',
+              text: 'A US visa refusal is not a lifetime ban. It is a decision on the file the officer read that morning. The two most-common refusal codes on the pink slip you walk out with are 214(b) and 221(g), and they mean very different things.',
+            },
+            { type: 'h3', text: '214(b): "you did not overcome the immigrant-intent presumption"' },
+            {
+              type: 'p',
+              text: 'This is the most-common refusal. It means the officer was not convinced you would return to India. You can re-apply immediately, there is no waiting period, but re-applying with the same file gets the same result. Something material has to change: a new job, a promotion, a marriage, a home purchase, a new travel history from a hard-to-get country. Or the file itself has to be rebuilt to surface ties that the previous application under-sold.',
+            },
+            { type: 'h3', text: '221(g): "administrative processing / missing documents"' },
+            {
+              type: 'p',
+              text: '221(g) means the officer needs more information before deciding. Sometimes it is a document you did not carry, sometimes it is a background check (common for H-1B applicants in specialised STEM fields, or applicants whose employer is on a watch-list). The pink slip lists what to send and where. Response windows are usually 60-365 days depending on the sub-code. Send exactly what is asked, nothing more, nothing less.',
+            },
+            {
+              type: 'p',
+              text: 'If you have been refused, send us the pink slip, we do a free assessment of whether re-application makes sense and what specifically needs to change first. Most of our re-application clients get approved on the second try because the second application is a different application, not the same one submitted twice.',
+            },
+          ],
+        },
+        {
+          h2: 'US embassy vs consulate: which one handles your city',
+          body: [
+            {
+              type: 'p',
+              text: 'There is one US embassy in India (New Delhi) and four US consulates general (Mumbai, Chennai, Hyderabad, Kolkata). Which one interviews you is decided by the city and state on your DS-160, though for B1/B2 you can technically pick any post that has an open slot. Practical guidance:',
+            },
+            {
+              type: 'ul',
+              items: [
+                'New Delhi Embassy: covers Punjab, Haryana, Rajasthan, Uttarakhand, Uttar Pradesh (west), Himachal Pradesh, J&K, Chandigarh, and Delhi NCR.',
+                'Mumbai Consulate: covers Maharashtra, Gujarat, Madhya Pradesh, Goa, Chhattisgarh, Daman & Diu, Dadra & Nagar Haveli.',
+                'Chennai Consulate: covers Tamil Nadu, Kerala, Karnataka, Puducherry, Andaman & Nicobar Islands, Lakshadweep.',
+                'Hyderabad Consulate: covers Telangana, Andhra Pradesh, Odisha (parts).',
+                'Kolkata Consulate: covers West Bengal, Bihar, Jharkhand, Odisha (parts), Sikkim, all seven NE states.',
+              ],
+            },
+            {
+              type: 'p',
+              text: 'If your assigned post has a 6-month wait, we routinely book you at a different post with a shorter queue. That is legal for B1/B2 and adds a plane ticket to your cost but subtracts months from your timeline.',
+            },
+          ],
+        },
+        {
+          h2: 'US visa processing time from India: current wait times',
+          body: [
+            {
+              type: 'p',
+              text: 'Wait times at US posts in India fluctuate dramatically. The State Department publishes them at travel.state.gov/visawait, but the numbers there lag reality by weeks. What we see in live cases as of mid-2026:',
+            },
+            {
+              type: 'ul',
+              items: [
+                'B1/B2 first-time: 3-12 months at Delhi, 2-8 months at Mumbai, 6-14 months at Hyderabad (Hyderabad has been the slowest post for two years running).',
+                'Interview waiver (drop-box) for repeat applicants: 2-6 weeks end-to-end.',
+                'F-1 students: 1-4 weeks (embassies prioritise student visas ahead of the academic year).',
+                'H-1B: 1-6 weeks post-lottery, subject to 221(g) administrative processing.',
+              ],
+            },
+            {
+              type: 'p',
+              text: 'From the moment a client engages us to the moment the stamped passport is back in hand, most B1/B2 files close in 3-8 weeks, because we do not wait for slots to open at the assigned post, we hunt every 24 hours and book the first one that opens anywhere legal for the applicant.',
+            },
+          ],
+        },
+        {
+          h2: 'Interview waiver (drop-box): who qualifies and how it works',
+          body: [
+            {
+              type: 'p',
+              text: 'The interview waiver, informally called "drop-box", lets qualifying repeat applicants skip the in-person interview and simply drop their passport at VFS. It is the fastest way to a US visa if you qualify. As of 2026 the rules for Indian applicants are:',
+            },
+            {
+              type: 'ul',
+              items: [
+                'You had a previous US visa in the same category (e.g. B1/B2 renewing B1/B2).',
+                'The previous visa expired within the last 48 months (this window has changed multiple times, so check current rules).',
+                'You have never been refused a US visa.',
+                'You have no ineligibility findings on your record.',
+                'You are physically in India when applying.',
+              ],
+            },
+            {
+              type: 'p',
+              text: 'Eligibility does not guarantee that the officer approves via drop-box, they can still ask you to appear for an interview. But roughly 90% of eligible files go through without a call-in. Travlys files ~40% of our current US caseload through drop-box.',
+            },
+          ],
+        },
+        {
+          h2: 'US visa validity, duration of stay, and multiple entries',
+          body: [
+            {
+              type: 'p',
+              text: 'This is where every applicant gets confused. The US visa has three separate time-related fields, and they do not mean the same thing.',
+            },
+            { type: 'h3', text: 'Visa validity (the sticker in your passport)' },
+            {
+              type: 'p',
+              text: 'For Indian B1/B2 applicants, the visa is typically issued for 10 years, meaning you can use it to enter the US up to the expiry printed on the sticker. This is the longest validity the US grants any nationality.',
+            },
+            { type: 'h3', text: 'Duration of stay (decided at the airport, not the embassy)' },
+            {
+              type: 'p',
+              text: 'The visa lets you travel to a US port of entry. The Customs and Border Protection officer at that port decides how long you can stay, marked on your I-94 record. B1/B2 usually gets 6 months per entry; the officer can grant less if your itinerary suggests you need less, or more only in exceptional cases with prior approval.',
+            },
+            { type: 'h3', text: 'Number of entries (multiple, in almost all cases)' },
+            {
+              type: 'p',
+              text: 'B1/B2 visas issued to Indian nationals are almost always multiple-entry, meaning you can enter and exit the US as many times as you want within the 10-year validity. Some rarer categories (like C-1 transit) are single-entry.',
+            },
+          ],
+        },
+        {
+          h2: 'Why hire Travlys instead of applying yourself',
+          body: [
+            {
+              type: 'p',
+              text: 'Applying for a US visa yourself is legal and free (the $185 MRV goes straight to the embassy). If you have a strong profile, an unshakeable travel history and an obvious return-to-India story, you should try. Most Indian applicants do not fit that description on their first US visa, and that is where we help.',
+            },
+            {
+              type: 'p',
+              text: 'What our fee actually buys you:',
+            },
+            {
+              type: 'ul',
+              items: [
+                'A DS-160 that has been reviewed by someone who has read thousands of these, cross-checked against your bank statements, employer letter and travel history for silent contradictions.',
+                'A cover letter and itinerary that presents your trip the way officers assess it, not the way travel-agent templates format it.',
+                'Two mock interviews with the exact question sequence Delhi / Mumbai / Chennai / Hyderabad / Kolkata are running this quarter, based on active case data.',
+                'Appointment hunting across all posts you are legally allowed to appear at, until we find the earliest slot.',
+                'A named specialist who stays on your file from brief to decision, so you do not re-explain your story to a ticket queue.',
+                'Post-interview support: if you get 221(g), we know exactly what to send and how to package it.',
+              ],
+            },
+            {
+              type: 'p',
+              text: 'The candid math: our fee is ₹19,940. A US visa refusal costs you the $185 MRV plus your travel time to the post, and it makes the next application harder because "previous refusal" is now on your record. If our involvement moves your approval odds by 20 percentage points, the expected value is very much in your favour. If you already have a 95% profile, save the money and self-file, we will tell you so at the free consult.',
+            },
+            {
+              type: 'callout',
+              label: 'Next step',
+              text: 'Send us your passport bio page, current CV and travel history on WhatsApp (+91 82009 18967). We come back within one working day with a route, timeline, quote and honest read on your odds. No obligation to proceed.',
+            },
+          ],
+        },
+      ],
+    },
   },
   {
     name: 'United Kingdom',

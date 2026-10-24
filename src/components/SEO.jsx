@@ -5,6 +5,7 @@ import {
   DEFAULT_OG_IMAGE as _DEFAULT_OG_IMAGE,
   DEFAULT_OG_ALT,
   DEFAULT_LOCALE,
+  pageUrl,
 } from '../seo/config'
 
 export const SITE_URL = _SITE_URL
@@ -47,6 +48,16 @@ function dedupeHead(targetTitle) {
   dedupe('link[rel="canonical"]', () => 'canonical')
 }
 
+// The prerendered HTML ships each page's JSON-LD in <head> for crawlers that
+// don't run JavaScript. Once React renders the same schemas for the page,
+// drop the static copies so the live DOM holds each schema exactly once.
+function dropStaticJsonLd() {
+  if (typeof document === 'undefined') return
+  document.head
+    .querySelectorAll('script[type="application/ld+json"]')
+    .forEach((el) => el.parentNode?.removeChild(el))
+}
+
 export default function SEO({
   title,
   description,
@@ -59,13 +70,14 @@ export default function SEO({
   jsonLd,
 }) {
   const fullTitle = title?.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`
-  const canonical = `${SITE_URL}${path}`
+  const canonical = pageUrl(path)
   const schemas = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : []
   const m = { 'data-rh': 'true' }
 
   useEffect(() => {
     dedupeHead(fullTitle)
-  }, [fullTitle, description, canonical, image, type, keywords, noindex])
+    if (schemas.length) dropStaticJsonLd()
+  }, [fullTitle, description, canonical, image, type, keywords, noindex, schemas.length])
 
   return (
     <>

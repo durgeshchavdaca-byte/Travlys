@@ -4,42 +4,10 @@ import { ShieldCheck, Users, FileCheck2, Globe2, MapPin, ArrowRight, Sparkles, H
 import AnimatedSection from '../components/AnimatedSection'
 import { HeroBlobs, TextReveal, AnimatedCounter } from '../components/MotionGraphics'
 import SEO from '../components/SEO'
-import { SITE_URL, SITE_NAME, DEFAULT_OG_IMAGE, buildWebPageSchema } from '../seo/config'
+import { ABOUT_META, buildAboutSchemas } from '../seo/pages'
 
-const meta = {
-  title: 'About Travlys: India-based visa consultants, 5,000+ visas filed',
-  description:
-    'Travlys is an India-based visa consultancy headquartered in Ahmedabad. 5,000+ visas filed, 98% approval rate, 10 destinations, flat fees from ₹999. Here is who we are and how we work.',
-  path: '/about',
-  keywords:
-    'about travlys, travlys visa consultants, visa consultancy ahmedabad, india visa agency, travlys team',
-  type: 'website',
-  image: DEFAULT_OG_IMAGE,
-  imageAlt: 'About Travlys, India-based visa consultancy',
-}
-
-function aboutSchemas() {
-  return [
-    buildWebPageSchema(meta),
-    {
-      '@context': 'https://schema.org',
-      '@type': 'AboutPage',
-      '@id': `${SITE_URL}/about#aboutpage`,
-      url: `${SITE_URL}/about`,
-      name: meta.title,
-      description: meta.description,
-      mainEntity: { '@id': `${SITE_URL}/#organization` },
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: 'About', item: `${SITE_URL}/about` },
-      ],
-    },
-  ]
-}
+const meta = ABOUT_META
+const aboutSchemas = buildAboutSchemas
 
 const STATS = [
   { value: 5000, suffix: '+', label: 'Visas filed', icon: FileCheck2 },
@@ -206,7 +174,7 @@ export default function AboutPage() {
               WhatsApp and email for clients across India.
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
-              <Link to="/contact" className="btn btn-primary">
+              <Link to="/contact/" className="btn btn-primary">
                 Contact details <ArrowRight className="w-4 h-4" />
               </Link>
               <a href="https://wa.me/918200918967" className="btn btn-ghost">WhatsApp now</a>

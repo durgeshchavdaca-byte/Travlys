@@ -113,7 +113,7 @@ export default function Header() {
                 {destinations.map((d) => (
                   <Link
                     key={d.slug}
-                    to={`/visa/${d.slug}`}
+                    to={`/visa/${d.slug}/`}
                     className="flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm text-slate-text hover:bg-sand-50 hover:text-ink-900 no-underline transition-colors"
                     onClick={() => setDropdownOpen(false)}
                   >
@@ -128,9 +128,9 @@ export default function Header() {
             )}
           </div>
           <NavLink onClick={() => goSection('how-it-works')} colorClass={navTextColor}>How it works</NavLink>
-          <NavLink onClick={() => navigate('/pricing')} colorClass={navTextColor}>Pricing</NavLink>
-          <NavLink onClick={() => navigate('/blog')} colorClass={navTextColor}>Blog</NavLink>
-          <NavLink onClick={() => navigate('/about')} colorClass={navTextColor}>About</NavLink>
+          <NavLink to="/pricing/" colorClass={navTextColor}>Pricing</NavLink>
+          <NavLink to="/blog/" colorClass={navTextColor}>Blog</NavLink>
+          <NavLink to="/about/" colorClass={navTextColor}>About</NavLink>
         </nav>
 
         <div className="hidden md:flex items-center gap-3">
@@ -174,18 +174,18 @@ export default function Header() {
             <button onClick={() => goSection('how-it-works')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
               How it works
             </button>
-            <button onClick={() => navigate('/pricing')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+            <Link to="/pricing/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
               Pricing
-            </button>
-            <button onClick={() => navigate('/blog')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+            </Link>
+            <Link to="/blog/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
               Blog
-            </button>
-            <button onClick={() => navigate('/about')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+            </Link>
+            <Link to="/about/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
               About
-            </button>
-            <button onClick={() => navigate('/contact')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
+            </Link>
+            <Link to="/contact/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
               Contact
-            </button>
+            </Link>
 
             <p className="text-xs uppercase tracking-widest text-slate-faint pt-5 pb-2 font-semibold">
               Countries
@@ -194,7 +194,7 @@ export default function Header() {
               {destinations.map((d) => (
                 <Link
                   key={d.slug}
-                  to={`/visa/${d.slug}`}
+                  to={`/visa/${d.slug}/`}
                   className="flex items-center gap-2 py-2.5 text-sm text-slate-text no-underline"
                 >
                   <Flag code={d.code} name={d.name} size={16} />
@@ -218,12 +218,19 @@ export default function Header() {
   )
 }
 
-function NavLink({ children, onClick, colorClass = 'text-slate-text hover:text-ink-900' }) {
+// Page links render as real <a href> so crawlers can follow them; in-page
+// section jumps stay buttons.
+function NavLink({ children, onClick, to, colorClass = 'text-slate-text hover:text-ink-900' }) {
+  const className = `px-4 py-2 text-[0.95rem] font-medium ${colorClass} transition-colors bg-transparent border-none cursor-pointer`
+  if (to) {
+    return (
+      <Link to={to} className={`${className} no-underline`}>
+        {children}
+      </Link>
+    )
+  }
   return (
-    <button
-      onClick={onClick}
-      className={`px-4 py-2 text-[0.95rem] font-medium ${colorClass} transition-colors bg-transparent border-none cursor-pointer`}
-    >
+    <button onClick={onClick} className={className}>
       {children}
     </button>
   )

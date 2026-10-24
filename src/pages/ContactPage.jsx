@@ -4,42 +4,11 @@ import AnimatedSection from '../components/AnimatedSection'
 import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
-import { SITE_URL, BIZ, DEFAULT_OG_IMAGE, buildWebPageSchema } from '../seo/config'
+import { BIZ } from '../seo/config'
+import { CONTACT_META, buildContactSchemas } from '../seo/pages'
 
-const meta = {
-  title: 'Contact Travlys: WhatsApp, phone, email and Ahmedabad office',
-  description:
-    'Reach Travlys visa consultants on WhatsApp +91 82009 18967, by email at info@travlys.com, or visit our Ahmedabad office. Hours, address, and inquiry form.',
-  path: '/contact',
-  keywords:
-    'contact travlys, travlys whatsapp, travlys phone, travlys ahmedabad office, visa consultants contact india',
-  type: 'website',
-  image: DEFAULT_OG_IMAGE,
-  imageAlt: 'Contact Travlys visa consultants',
-}
-
-function contactSchemas() {
-  return [
-    buildWebPageSchema(meta),
-    {
-      '@context': 'https://schema.org',
-      '@type': 'ContactPage',
-      '@id': `${SITE_URL}/contact#contactpage`,
-      url: `${SITE_URL}/contact`,
-      name: meta.title,
-      description: meta.description,
-      mainEntity: { '@id': `${SITE_URL}/#organization` },
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: 'Contact', item: `${SITE_URL}/contact` },
-      ],
-    },
-  ]
-}
+const meta = CONTACT_META
+const contactSchemas = buildContactSchemas
 
 const CHANNELS = [
   { icon: MessageCircle, label: 'WhatsApp', value: '+91 82009 18967', href: 'https://wa.me/918200918967', accent: 'Most replies in 15 min during work hours' },

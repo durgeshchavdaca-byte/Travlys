@@ -156,7 +156,7 @@ export default function WorldMap() {
             const active = activeIso === d.iso
             return (
               <Marker key={d.slug} coordinates={[d.lng, d.lat]}>
-                <Link to={`/visa/${d.slug}`}>
+                <Link to={`/visa/${d.slug}/`}>
                   <g
                     onMouseEnter={() => setActiveIso(d.iso)}
                     onMouseLeave={() => setActiveIso(null)}

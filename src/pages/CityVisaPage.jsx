@@ -24,7 +24,7 @@ import { CITIES, getCity } from '../data/cities'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
-import { buildCityVisaSchemas, getCityVisaMeta } from '../seo/config'
+import { buildCityVisaSchemas, getCityVisaMeta, getCityVisaFaqs } from '../seo/config'
 
 const BUILD_DATE = new Date().toISOString().slice(0, 10)
 function prettyDate(iso) {
@@ -112,7 +112,7 @@ export default function CityVisaPage() {
           <nav className="flex items-center gap-2 text-xs text-white/70 mb-6 flex-wrap">
             <Link to="/" className="hover:text-coral-400 no-underline text-white/70">Home</Link>
             <ChevronRight className="w-3 h-3" />
-            <Link to={`/visa/${dest.slug}`} className="hover:text-coral-400 no-underline text-white/70">{dest.name} Visa</Link>
+            <Link to={`/visa/${dest.slug}/`} className="hover:text-coral-400 no-underline text-white/70">{dest.name} Visa</Link>
             <ChevronRight className="w-3 h-3" />
             <span className="text-white">From {city.name}</span>
           </nav>
@@ -334,6 +334,26 @@ export default function CityVisaPage() {
         </section>
       )}
 
+      {/* FAQ, the same questions the page's FAQPage schema lists */}
+      <section id="faq" className="py-20 bg-white border-t border-line">
+        <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-12">
+          <div className="lg:col-span-4">
+            <span className="pill bg-coral-50 text-coral-600">FAQ</span>
+            <h2 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+              {dest.name} visa from {city.name}, answered.
+            </h2>
+          </div>
+          <div className="lg:col-span-8">
+            {getCityVisaFaqs(dest, city).map((f) => (
+              <article key={f.q} className="py-5 border-b border-line last:border-b-0">
+                <h3 className="font-display text-lg font-bold text-ink-900 m-0 leading-snug">{f.q}</h3>
+                <p className="text-slate-muted mt-2 text-[0.97rem] leading-relaxed m-0">{f.a}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Apply */}
       <section id="apply" className="py-20 mesh-warm border-t border-line">
         <div className="container-app">
@@ -368,7 +388,7 @@ export default function CityVisaPage() {
                 {dest.name} visa from other Indian cities.
               </h2>
             </div>
-            <Link to={`/visa/${dest.slug}`} className="hidden md:inline-flex btn btn-ghost">
+            <Link to={`/visa/${dest.slug}/`} className="hidden md:inline-flex btn btn-ghost">
               See base {dest.name} page <ArrowUpRight className="w-4 h-4" />
             </Link>
           </div>
@@ -376,7 +396,7 @@ export default function CityVisaPage() {
             {otherCities.map((c) => (
               <Link
                 key={c.slug}
-                to={`/visa/${dest.slug}/from/${c.slug}`}
+                to={`/visa/${dest.slug}/from/${c.slug}/`}
                 className="card p-4 no-underline group"
               >
                 <div className="flex items-center justify-between gap-2">

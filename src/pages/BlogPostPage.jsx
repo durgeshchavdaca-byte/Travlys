@@ -6,12 +6,7 @@ import { HeroBlobs } from '../components/MotionGraphics'
 import { getPost, BLOG_POSTS } from '../data/blog'
 import { destinations } from '../data/destinations'
 import SEO from '../components/SEO'
-import {
-  SITE_URL,
-  SITE_NAME,
-  DEFAULT_OG_IMAGE,
-  buildWebPageSchema,
-} from '../seo/config'
+import { getPostMeta, buildPostSchemas } from '../seo/pages'
 
 function fmtDate(iso) {
   return new Date(iso).toLocaleDateString('en-IN', {
@@ -79,62 +74,6 @@ function PostBody({ body }) {
   )
 }
 
-function buildPostSchemas(post) {
-  const pagePath = `/blog/${post.slug}`
-  const canonical = `${SITE_URL}${pagePath}`
-  const articleBody = post.body
-    .filter((n) => n.type === 'p' || n.type === 'h2' || n.type === 'h3')
-    .map((n) => n.text)
-    .join('\n\n')
-
-  return [
-    buildWebPageSchema({
-      title: post.metaTitle || `${post.title} | ${SITE_NAME}`,
-      description: post.metaDescription || post.excerpt,
-      path: pagePath,
-      image: post.heroImage,
-    }),
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BlogPosting',
-      '@id': `${canonical}#post`,
-      headline: post.title,
-      description: post.metaDescription || post.excerpt,
-      image: [post.heroImage],
-      datePublished: post.date,
-      dateModified: post.date,
-      author: { '@type': 'Organization', name: SITE_NAME, url: `${SITE_URL}/` },
-      publisher: { '@id': `${SITE_URL}/#organization` },
-      mainEntityOfPage: canonical,
-      articleBody: articleBody.slice(0, 2500),
-      wordCount: articleBody.split(/\s+/).length,
-      inLanguage: 'en-IN',
-      keywords: post.tags?.join(', '),
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
-        { '@type': 'ListItem', position: 3, name: post.title, item: canonical },
-      ],
-    },
-    ...(post.faqs?.length
-      ? [
-          {
-            '@context': 'https://schema.org',
-            '@type': 'FAQPage',
-            mainEntity: post.faqs.map(({ q, a }) => ({
-              '@type': 'Question',
-              name: q,
-              acceptedAnswer: { '@type': 'Answer', text: a },
-            })),
-          },
-        ]
-      : []),
-  ]
-}
 
 export default function BlogPostPage() {
   const { slug } = useParams()
@@ -152,22 +91,14 @@ export default function BlogPostPage() {
         <div className="min-h-[60vh] flex items-center justify-center bg-sand-50">
           <div className="text-center container-app">
             <h1 className="font-display text-4xl font-extrabold text-ink-900 mb-4">Article not found</h1>
-            <Link to="/blog" className="btn btn-primary">Back to blog</Link>
+            <Link to="/blog/" className="btn btn-primary">Back to blog</Link>
           </div>
         </div>
       </>
     )
   }
 
-  const meta = {
-    title: post.metaTitle || `${post.title} | ${SITE_NAME}`,
-    description: post.metaDescription || post.excerpt,
-    path: `/blog/${post.slug}`,
-    keywords: post.tags?.join(', '),
-    type: 'article',
-    image: post.heroImage,
-    imageAlt: post.title,
-  }
+  const meta = getPostMeta(post)
 
   const related = (post.related || [])
     .map((s) => BLOG_POSTS.find((p) => p.slug === s))
@@ -190,7 +121,7 @@ export default function BlogPostPage() {
           <nav className="flex items-center gap-2 text-xs text-white/70 mb-6 flex-wrap">
             <Link to="/" className="hover:text-coral-400 no-underline text-white/70">Home</Link>
             <ChevronRight className="w-3 h-3" />
-            <Link to="/blog" className="hover:text-coral-400 no-underline text-white/70">Blog</Link>
+            <Link to="/blog/" className="hover:text-coral-400 no-underline text-white/70">Blog</Link>
             <ChevronRight className="w-3 h-3" />
             <span className="text-white">{post.category}</span>
           </nav>
@@ -235,7 +166,7 @@ export default function BlogPostPage() {
                   From {ctaDest.price}, processing {ctaDest.processingTime}.
                 </p>
                 <div className="flex flex-wrap gap-3 mt-4">
-                  <Link to={`/visa/${ctaDest.slug}`} className="btn btn-primary">
+                  <Link to={`/visa/${ctaDest.slug}/`} className="btn btn-primary">
                     {post.cta.label}
                   </Link>
                   <a href="https://wa.me/918200918967" className="btn btn-ghost">
@@ -279,7 +210,7 @@ export default function BlogPostPage() {
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
               {related.map((r) => (
-                <Link key={r.slug} to={`/blog/${r.slug}`} className="card p-5 no-underline group h-full flex flex-col">
+                <Link key={r.slug} to={`/blog/${r.slug}/`} className="card p-5 no-underline group h-full flex flex-col">
                   <span className="pill bg-coral-50 text-coral-600 text-[0.7rem] self-start">{r.category}</span>
                   <h3 className="font-display text-base font-extrabold text-ink-900 leading-tight mt-3 line-clamp-2">
                     {r.title}

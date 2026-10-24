@@ -151,7 +151,7 @@ export default function CityHubPage() {
             {destinations.map((d) => (
               <StaggerItem key={d.slug}>
                 <Link
-                  to={`/visa/${d.slug}/from/${city.slug}`}
+                  to={`/visa/${d.slug}/from/${city.slug}/`}
                   className="card p-5 no-underline block h-full group"
                 >
                   <div className="flex items-start justify-between gap-3">
@@ -263,7 +263,7 @@ export default function CityHubPage() {
             {otherCities.map((c) => (
               <Link
                 key={c.slug}
-                to={`/from/${c.slug}`}
+                to={`/from/${c.slug}/`}
                 className="card p-4 no-underline group"
               >
                 <div className="flex items-center justify-between gap-2">

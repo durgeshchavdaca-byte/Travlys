@@ -6,71 +6,10 @@ import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import { destinations } from '../data/destinations'
 import Flag from '../components/Flag'
 import SEO from '../components/SEO'
-import {
-  SITE_URL,
-  DEFAULT_OG_IMAGE,
-  buildWebPageSchema,
-  buildAggregateOfferSchema,
-} from '../seo/config'
+import { PRICING_META, PRICING_FAQS, buildPricingSchemas } from '../seo/pages'
 
-const meta = {
-  title: 'Travlys visa pricing: every country, every fee (2026)',
-  description:
-    'Transparent flat fees for every Travlys visa service. US, UK, Canada, Schengen, Singapore, UAE, Thailand and more from ₹999. Embassy / VFS fees paid separately.',
-  path: '/pricing',
-  keywords:
-    'travlys pricing, visa cost from india, visa consultant fees india, us visa cost, schengen visa cost, dubai visa cost',
-  type: 'website',
-  image: DEFAULT_OG_IMAGE,
-  imageAlt: 'Travlys pricing — every visa, every fee',
-}
-
-const PRICING_FAQS = [
-  {
-    q: 'Are embassy / VFS fees included?',
-    a: 'No. The price shown for each country is the Travlys service fee — what you pay us for our work. Embassy / VFS / VAC fees are paid separately to the respective authority. We never mark them up.',
-  },
-  {
-    q: 'Is there a refund if the visa is refused?',
-    a: 'Our service fee is non-refundable once the application is filed — we have already done the work. The embassy / government fee you paid is non-refundable regardless of who files. We do refund our service fee if we discontinue the application at our discretion (rare).',
-  },
-  {
-    q: 'Are there urgency or rush fees?',
-    a: 'No. The price you see is the only price. We do not have urgency surcharges, premium-route fees, or "express" tiers. If the timeline is tight we work harder, not more expensively.',
-  },
-  {
-    q: 'Do prices vary by city?',
-    a: 'No. The Travlys service fee is the same whether you are applying from Mumbai, Delhi, Bengaluru or anywhere else in India. No location surcharge.',
-  },
-  {
-    q: 'What about for groups or families?',
-    a: 'Pricing is per applicant. For families filing together (3+ applicants on the same trip), we discount the second and subsequent applications. WhatsApp us with the size of your group.',
-  },
-]
-
-function pricingSchemas() {
-  return [
-    buildWebPageSchema(meta),
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: 'Pricing', item: `${SITE_URL}/pricing` },
-      ],
-    },
-    buildAggregateOfferSchema(destinations),
-    {
-      '@context': 'https://schema.org',
-      '@type': 'FAQPage',
-      mainEntity: PRICING_FAQS.map(({ q, a }) => ({
-        '@type': 'Question',
-        name: q,
-        acceptedAnswer: { '@type': 'Answer', text: a },
-      })),
-    },
-  ]
-}
+const meta = PRICING_META
+const pricingSchemas = buildPricingSchemas
 
 export default function PricingPage() {
   return (
@@ -144,7 +83,7 @@ export default function PricingPage() {
                         </td>
                         <td className="py-4 px-5 text-right">
                           <Link
-                            to={`/visa/${d.slug}`}
+                            to={`/visa/${d.slug}/`}
                             className="btn btn-ghost py-2 px-4 text-xs"
                           >
                             Details <ArrowUpRight className="w-3.5 h-3.5" />
@@ -240,7 +179,7 @@ export default function PricingPage() {
           </h2>
           <div className="flex flex-col sm:flex-row gap-3 mt-7 justify-center">
             <a href="https://wa.me/918200918967" className="btn btn-coral">WhatsApp a specialist</a>
-            <Link to="/contact" className="btn btn-ghost">Send a brief →</Link>
+            <Link to="/contact/" className="btn btn-ghost">Send a brief →</Link>
           </div>
         </div>
       </section>

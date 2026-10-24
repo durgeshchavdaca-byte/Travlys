@@ -11,6 +11,15 @@ export const DEFAULT_OG_ALT = 'Travlys, Visa Assistance for Indian Travelers'
 export const DEFAULT_LOCALE = 'en_IN'
 export const DEFAULT_LANG = 'en-IN'
 
+// GitHub Pages serves every route from <route>/index.html and 301-redirects
+// the slash-less URL to the slashed one. Canonicals, sitemap entries and
+// schema URLs must point at the final URL, so every page URL ends in '/'.
+export function pageUrl(p = '/') {
+  const [pathname, hash] = p.split('#')
+  const withSlash = pathname.endsWith('/') ? pathname : `${pathname}/`
+  return `${SITE_URL}${withSlash}${hash ? `#${hash}` : ''}`
+}
+
 // --- Business identity, reused across LocalBusiness / Organization / contactPoint ---
 export const BIZ = {
   name: SITE_NAME,
@@ -31,6 +40,12 @@ export const BIZ = {
   priceRange: '₹₹',
   openingHours: 'Mo-Sa 09:00-19:00',
 }
+
+// Official profiles of the business (Google Business Profile, Instagram,
+// LinkedIn, Facebook, JustDial...). Each URL added here is published as
+// sameAs in the Organization schema, which is how Google and AI assistants
+// connect those profiles to travlys.com. Only add profiles Travlys owns.
+export const SAME_AS_PROFILES = []
 
 export const HOME_FAQS = [
   {
@@ -146,14 +161,9 @@ export function buildOrganizationSchema() {
       opens: '09:00',
       closes: '19:00',
     },
-    sameAs: [BIZ.whatsapp],
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: '4.9',
-      bestRating: '5',
-      worstRating: '1',
-      ratingCount: '5000',
-    },
+    sameAs: [BIZ.whatsapp, ...SAME_AS_PROFILES],
+    // No aggregateRating here: Google only accepts ratings backed by reviews
+    // visible on the site. Add one once real Google reviews can be shown.
   }
 }
 
@@ -192,7 +202,7 @@ export function buildAggregateOfferSchema(destinations) {
       name: `${d.name} Visa Assistance`,
       price: String(d.priceValue),
       priceCurrency: d.currency || 'INR',
-      url: `${SITE_URL}/visa/${d.slug}`,
+      url: pageUrl(`/visa/${d.slug}`),
       availability: 'https://schema.org/InStock',
       itemOffered: {
         '@type': 'Service',
@@ -221,8 +231,8 @@ export function buildWebPageSchema(meta) {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    '@id': `${SITE_URL}${meta.path}#webpage`,
-    url: `${SITE_URL}${meta.path}`,
+    '@id': `${pageUrl(meta.path)}#webpage`,
+    url: pageUrl(meta.path),
     name: fullTitle,
     description: meta.description,
     inLanguage: DEFAULT_LANG,
@@ -285,7 +295,7 @@ export function buildHomeSchemas(destinations, reviews = [], featured = []) {
         '@type': 'ListItem',
         position: i + 1,
         name: `${d.name} Visa`,
-        url: `${SITE_URL}/visa/${d.slug}`,
+        url: pageUrl(`/visa/${d.slug}`),
       })),
     },
     buildAggregateOfferSchema(destinations),
@@ -347,7 +357,7 @@ export function buildReviewSchemas(reviews, organizationId = `${SITE_URL}/#organ
 
 export function buildVisaSchemas(dest) {
   const pagePath = `/visa/${dest.slug}`
-  const canonical = `${SITE_URL}${pagePath}`
+  const canonical = pageUrl(pagePath)
   const heroImage = dest.heroImage || dest.image
   const visaMeta = getVisaMeta(dest)
 
@@ -375,13 +385,6 @@ export function buildVisaSchemas(dest) {
       url: canonical,
       image: heroImage,
       brand: { '@type': 'Brand', name: SITE_NAME },
-      aggregateRating: {
-        '@type': 'AggregateRating',
-        ratingValue: '4.9',
-        ratingCount: '500',
-        bestRating: '5',
-        worstRating: '1',
-      },
       ...(dest.priceValue
         ? {
             offers: {
@@ -471,9 +474,32 @@ export function getCityVisaMeta(dest, city) {
   }
 }
 
+// Questions shown on each city x country page; the page renders the same list
+// its FAQPage schema describes.
+export function getCityVisaFaqs(dest, city) {
+  return [
+    {
+      q: `Where do I submit biometrics for a ${dest.name} visa from ${city.name}?`,
+      a: `For a ${dest.name} visa from ${city.name}, biometrics are taken at the VFS centre in ${city.vfsCenter}. Travlys books the earliest available slot and prepares your full file before the appointment.`,
+    },
+    {
+      q: `Which embassy or consulate handles ${dest.name} visa applications from ${city.name}?`,
+      a: `Applicants from ${city.name} (${city.state}) fall under the jurisdiction of the ${city.nearestConsulate} for ${dest.name} visa processing.`,
+    },
+    {
+      q: `Can I apply for a ${dest.name} visa from ${city.name} without travelling to ${city.nearestConsulate.includes('Embassy') ? 'New Delhi' : 'the consulate city'}?`,
+      a: `Most of the application is online or at your local VFS in ${city.name}. You only travel to the consulate or embassy on the interview day. Travlys handles document prep, form filing and appointment booking remotely.`,
+    },
+    {
+      q: `How much does a ${dest.name} visa cost from ${city.name}?`,
+      a: `Travlys service fee for a ${dest.name} visa starts at ${dest.price}. Embassy / VFS fees are paid separately to the authority. Total estimate depends on the visa subcategory and current FX.`,
+    },
+  ]
+}
+
 export function buildCityVisaSchemas(dest, city) {
   const pagePath = `/visa/${dest.slug}/from/${city.slug}`
-  const canonical = `${SITE_URL}${pagePath}`
+  const canonical = pageUrl(pagePath)
   const heroImage = dest.heroImage || dest.image
   const meta = getCityVisaMeta(dest, city)
 
@@ -484,7 +510,7 @@ export function buildCityVisaSchemas(dest, city) {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: `${dest.name} Visa`, item: `${SITE_URL}/visa/${dest.slug}` },
+        { '@type': 'ListItem', position: 2, name: `${dest.name} Visa`, item: pageUrl(`/visa/${dest.slug}`) },
         { '@type': 'ListItem', position: 3, name: `From ${city.name}`, item: canonical },
       ],
     },
@@ -537,40 +563,11 @@ export function buildCityVisaSchemas(dest, city) {
     {
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
-      mainEntity: [
-        {
-          '@type': 'Question',
-          name: `Where do I submit biometrics for a ${dest.name} visa from ${city.name}?`,
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: `For a ${dest.name} visa from ${city.name}, biometrics are taken at the VFS centre in ${city.vfsCenter}. Travlys books the earliest available slot and prepares your full file before the appointment.`,
-          },
-        },
-        {
-          '@type': 'Question',
-          name: `Which embassy or consulate handles ${dest.name} visa applications from ${city.name}?`,
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: `Applicants from ${city.name} (${city.state}) fall under the jurisdiction of the ${city.nearestConsulate} for ${dest.name} visa processing.`,
-          },
-        },
-        {
-          '@type': 'Question',
-          name: `Can I apply for a ${dest.name} visa from ${city.name} without travelling to ${city.nearestConsulate.includes('Embassy') ? 'New Delhi' : 'the consulate city'}?`,
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: `Most of the application is online or at your local VFS in ${city.name}. You only travel to the consulate or embassy on the interview day. Travlys handles document prep, form filing and appointment booking remotely.`,
-          },
-        },
-        {
-          '@type': 'Question',
-          name: `How much does a ${dest.name} visa cost from ${city.name}?`,
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: `Travlys service fee for a ${dest.name} visa starts at ${dest.price}. Embassy / VFS fees are paid separately to the authority. Total estimate depends on the visa subcategory and current FX.`,
-          },
-        },
-      ],
+      mainEntity: getCityVisaFaqs(dest, city).map(({ q, a }) => ({
+        '@type': 'Question',
+        name: q,
+        acceptedAnswer: { '@type': 'Answer', text: a },
+      })),
     },
   ]
 }
@@ -607,7 +604,7 @@ export function getCityHubMeta(city, destinations) {
 
 export function buildCityHubSchemas(city, destinations) {
   const pagePath = `/from/${city.slug}`
-  const canonical = `${SITE_URL}${pagePath}`
+  const canonical = pageUrl(pagePath)
   const meta = getCityHubMeta(city, destinations)
 
   return [
@@ -653,7 +650,7 @@ export function buildCityHubSchemas(city, destinations) {
         '@type': 'ListItem',
         position: i + 1,
         name: `${d.name} Visa from ${city.name}`,
-        url: `${SITE_URL}/visa/${d.slug}/from/${city.slug}`,
+        url: pageUrl(`/visa/${d.slug}/from/${city.slug}`),
       })),
     },
   ]

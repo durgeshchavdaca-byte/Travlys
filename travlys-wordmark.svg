@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 256" role="img" aria-label="Travlys">
+  <title>Travlys</title>
+  <defs>
+    <style type="text/css">
+      @import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800&amp;display=swap');
+      .wm { font-family: 'Cabinet Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif; font-weight: 800; font-size: 200px; letter-spacing: -9px; fill: #0F1B4C; }
+    </style>
+  </defs>
+  <text x="512" y="180" text-anchor="middle" class="wm">travlys</text>
+  <circle cx="850" cy="180" r="14" fill="#FF7849"/>
+</svg>

@@ -16,6 +16,8 @@ import {
   MapPin,
   Sparkles,
   FileCheck2,
+  BookOpen,
+  UserCheck,
 } from 'lucide-react'
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
 import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
@@ -162,6 +164,112 @@ function CostBreakdownSection({ dest }) {
             Optional extras (insurance, courier, biometrics where charged separately) are quoted
             up-front before you commit. No surprise add-ons.
           </p>
+        </div>
+      </div>
+    </section>
+  )
+}
+
+// Slugify an H2 title for anchor links used by the table of contents.
+function toId(str = '') {
+  return String(str)
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-')
+    .slice(0, 60)
+}
+
+// Deep, long-form editorial guide beneath the About section. Only
+// renders when `dest.deepGuide` is populated in destinations data.
+// This is where we win long-tail SEO: 2000+ words per country,
+// EEAT signals (author byline, review date), keyword-rich H2s and
+// a table of contents that Google shows as a jump-links widget.
+function DeepGuideSection({ dest }) {
+  const guide = dest.deepGuide
+  if (!guide?.sections?.length) return null
+  const updated = guide.updatedOn || BUILD_DATE
+  const reviewed = guide.reviewedBy || 'The Travlys visa team'
+  const withIds = guide.sections.map((s) => ({ ...s, id: s.id || toId(s.h2) }))
+
+  return (
+    <section id="in-depth-guide" className="py-20 bg-white border-t border-line">
+      <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+        {/* Sticky TOC on desktop */}
+        <aside className="lg:col-span-4 lg:sticky lg:top-28">
+          <span className="pill bg-coral-50 text-coral-600">
+            <BookOpen className="w-3.5 h-3.5" /> In-depth guide
+          </span>
+          <h2 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            {dest.name} visa from India: the 2026 complete guide.
+          </h2>
+          <div className="mt-5 flex items-center gap-3 text-sm text-slate-muted">
+            <div className="w-9 h-9 rounded-full bg-ink-900 text-white flex items-center justify-center shrink-0">
+              <UserCheck className="w-4 h-4" />
+            </div>
+            <div>
+              <p className="text-ink-900 font-semibold leading-tight">{reviewed}</p>
+              <p className="text-xs text-slate-faint">Reviewed <time dateTime={updated}>{prettyDate(updated)}</time></p>
+            </div>
+          </div>
+          {guide.tldr && (
+            <div className="mt-6 card p-5 bg-sand-50 border-sand-100">
+              <p className="text-[0.7rem] uppercase tracking-wider text-coral-600 font-semibold">TL;DR</p>
+              <p className="text-sm text-slate-text mt-2 leading-relaxed">{guide.tldr}</p>
+            </div>
+          )}
+          <nav className="mt-6 hidden lg:block" aria-label="Guide contents">
+            <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold mb-2">Contents</p>
+            <ul className="space-y-1.5 text-sm">
+              {withIds.map((s, i) => (
+                <li key={s.id}>
+                  <a
+                    href={`#${s.id}`}
+                    className="text-slate-muted hover:text-coral-500 no-underline flex gap-2"
+                  >
+                    <span className="text-slate-faint font-mono text-xs mt-0.5">{String(i + 1).padStart(2, '0')}</span>
+                    <span className="leading-snug">{s.h2}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </aside>
+
+        <div className="lg:col-span-8 space-y-10">
+          {withIds.map((s) => (
+            <AnimatedSection key={s.id}>
+              <article id={s.id} className="scroll-mt-24">
+                <h2 className="font-display text-2xl md:text-3xl font-extrabold text-ink-900 leading-tight">
+                  {s.h2}
+                </h2>
+                <div className="mt-4 space-y-4 text-[1.02rem] leading-relaxed text-slate-text">
+                  {s.body.map((n, i) => {
+                    if (n.type === 'p') return <p key={i}>{n.text}</p>
+                    if (n.type === 'h3') return (
+                      <h3 key={i} className="font-display text-lg font-bold text-ink-900 pt-2">{n.text}</h3>
+                    )
+                    if (n.type === 'ul') return (
+                      <ul key={i} className="list-disc pl-6 space-y-1.5 marker:text-coral-500">
+                        {n.items.map((it, j) => <li key={j}>{it}</li>)}
+                      </ul>
+                    )
+                    if (n.type === 'callout') return (
+                      <aside key={i} className="card p-5 bg-sand-50 border-sand-100 my-4">
+                        <p className="text-[0.7rem] uppercase tracking-wider text-coral-600 font-semibold">{n.label || 'Note'}</p>
+                        <p className="text-sm text-slate-text mt-1.5 leading-relaxed">{n.text}</p>
+                      </aside>
+                    )
+                    return null
+                  })}
+                </div>
+              </article>
+            </AnimatedSection>
+          ))}
+          <div className="pt-6 border-t border-line text-sm text-slate-faint">
+            Last updated <time dateTime={updated}>{prettyDate(updated)}</time>. Sources include
+            the US Department of State, VFS Global India, USCIS and 5,000+ live cases handled by the Travlys team.
+          </div>
         </div>
       </div>
     </section>
@@ -370,6 +478,10 @@ export default function VisaPage() {
       {/* Cost breakdown, answers "how much does <country> visa cost from India" */}
       <CostBreakdownSection dest={dest} />
 
+      {/* Long-form editorial guide (renders only when dest.deepGuide is set).
+          This is the SEO heavy-lifter for high-competition head terms. */}
+      <DeepGuideSection dest={dest} />
+
       {/* Visa categories */}
       {dest.categories?.length > 0 && (
         <section className="py-20 bg-sand-50 border-t border-line">
@@ -574,7 +686,7 @@ export default function VisaPage() {
             {CITIES.map((c) => (
               <Link
                 key={c.slug}
-                to={`/visa/${dest.slug}/from/${c.slug}`}
+                to={`/visa/${dest.slug}/from/${c.slug}/`}
                 className="card p-4 no-underline group"
               >
                 <div className="flex items-center justify-between gap-2">
@@ -613,7 +725,7 @@ export default function VisaPage() {
               {related.map((r) => (
                 <StaggerItem key={r.slug}>
                   <Link
-                    to={`/visa/${r.slug}`}
+                    to={`/visa/${r.slug}/`}
                     className="card overflow-hidden no-underline block group"
                   >
                     <div className="aspect-[4/3] overflow-hidden bg-sand-100">

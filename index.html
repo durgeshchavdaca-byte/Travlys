@@ -28,8 +28,35 @@
     <meta name="twitter:site" content="@travlys" />
     <meta name="twitter:creator" content="@travlys" />
 
-    <!-- Search engine ownership verification, replace the content="" with the
-         token from each tool. Empty values are ignored, so safe to leave. -->
+    <!--
+      ============================================================
+      SEARCH ENGINE OWNERSHIP VERIFICATION - required for Google to
+      crawl travlys.com aggressively. Without this, ranking is
+      near-impossible even with perfect on-page SEO.
+
+      TO SET UP (5 minutes each, see SEO_SETUP.md at project root):
+
+      1. Google Search Console: https://search.google.com/search-console
+         Add property "https://travlys.com", pick "HTML tag" method,
+         copy the content="..." value from Google, paste below.
+
+      2. Bing Webmaster Tools: https://www.bing.com/webmasters
+         Add site, pick "HTML Meta Tag", paste token below.
+
+      3. Yandex Webmaster: https://webmaster.yandex.com
+         Same drill. Optional but cheap.
+
+      4. Pinterest (if you plan to use Pinterest for traffic):
+         https://www.pinterest.com/settings/claim
+         Paste token in p:domain_verify.
+
+      After tokens are pasted:
+        - npm run build && git commit -am "SEO: verification tokens"
+        - git push
+        - Go back to each tool and click "Verify".
+        - Submit https://travlys.com/sitemap.xml to Search Console.
+      ============================================================
+    -->
     <meta name="google-site-verification" content="" />
     <meta name="msvalidate.01" content="" />
     <meta name="yandex-verification" content="" />
@@ -155,14 +182,7 @@
       },
       "sameAs": [
         "https://wa.me/918200918967"
-      ],
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1",
-        "ratingCount": "5000"
-      }
+      ]
     }
     </script>
   </head>
@@ -170,7 +190,7 @@
     <div id="root"></div>
     <noscript>
       <div style="padding:24px;font-family:sans-serif;text-align:center;">
-        <h1>Travlys, Visa Assistance for Indian Travelers</h1>
+        <p><strong>Travlys, Visa Assistance for Indian Travelers</strong></p>
         <p>Please enable JavaScript to use the Travlys website. For visa assistance, contact us at <a href="tel:+918200918967">+91 8200918967</a> or email <a href="mailto:info@travlys.com">info@travlys.com</a>.</p>
       </div>
     </noscript>

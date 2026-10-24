@@ -247,7 +247,7 @@ function Hero() {
           >
             <span className="text-xs text-slate-muted font-medium mr-1">Quick pick:</span>
             {destinations.slice(0, 6).map((d) => (
-              <Link key={d.slug} to={`/visa/${d.slug}`} className="chip no-underline hover:border-coral-500 hover:text-coral-600 transition-colors">
+              <Link key={d.slug} to={`/visa/${d.slug}/`} className="chip no-underline hover:border-coral-500 hover:text-coral-600 transition-colors">
                 <Flag code={d.code} name={d.name} size={16} />
                 <span>{d.name}</span>
               </Link>
@@ -355,7 +355,7 @@ function CountryCard({ dest }) {
   return (
     <div className="tilt-3d">
       <Link
-        to={`/visa/${dest.slug}`}
+        to={`/visa/${dest.slug}/`}
         className="country-card card tilt-3d-inner overflow-hidden no-underline block group"
       >
         <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
@@ -563,7 +563,7 @@ function PricingTable() {
                       </td>
                       <td className="py-4 px-5 text-right">
                         <Link
-                          to={`/visa/${d.slug}`}
+                          to={`/visa/${d.slug}/`}
                           className="btn btn-ghost py-2 px-4 text-xs"
                         >
                           Details <ArrowUpRight className="w-3.5 h-3.5" />
@@ -614,7 +614,7 @@ function WhyTravlys() {
             <a href="https://wa.me/918200918967" className="btn btn-coral">
               <MessageCircle className="w-4 h-4" /> Chat with a specialist
             </a>
-            <Link to="/visa/usa-visa" className="btn btn-ghost">
+            <Link to="/visa/usa-visa/" className="btn btn-ghost">
               See a sample country plan <ArrowUpRight className="w-4 h-4" />
             </Link>
           </div>

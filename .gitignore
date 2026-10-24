@@ -25,3 +25,6 @@ dist-ssr
 
 # Claude Code session data
 .claude/
+
+# Client holiday quotes (private, not part of the website)
+quotes/

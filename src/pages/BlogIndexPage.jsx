@@ -6,7 +6,7 @@ import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/An
 import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import { BLOG_POSTS, BLOG_CATEGORIES } from '../data/blog'
 import SEO from '../components/SEO'
-import { SITE_URL, SITE_NAME, DEFAULT_OG_IMAGE } from '../seo/config'
+import { BLOG_INDEX_META, buildBlogIndexSchemas } from '../seo/pages'
 
 // Renders a hero image; on load error, swaps to a clean gradient panel
 // so a single broken Unsplash URL never dumps alt text onto the card.
@@ -36,46 +36,8 @@ function PostThumb({ src, alt }) {
   )
 }
 
-const indexMeta = {
-  title: 'Visa guides and how-tos for Indian travelers | Travlys Blog',
-  description:
-    'Honest, no-fluff guides from Travlys visa consultants — US visa from India 2026, Schengen checklist, DS-160 mistakes, Dubai visa cost breakdown, and more.',
-  path: '/blog',
-  keywords:
-    'visa guide india, us visa guide india, schengen visa guide, ds-160 mistakes, dubai visa cost, visa rejection india, visa consultant india, travlys blog',
-  type: 'website',
-  image: DEFAULT_OG_IMAGE,
-  imageAlt: 'Travlys editorial — visa guides for Indian travelers',
-}
-
-function indexSchemas() {
-  return [
-    {
-      '@context': 'https://schema.org',
-      '@type': 'Blog',
-      '@id': `${SITE_URL}/blog#blog`,
-      url: `${SITE_URL}/blog`,
-      name: `${SITE_NAME} editorial`,
-      description: indexMeta.description,
-      publisher: { '@id': `${SITE_URL}/#organization` },
-      blogPost: BLOG_POSTS.map((p) => ({
-        '@type': 'BlogPosting',
-        headline: p.title,
-        url: `${SITE_URL}/blog/${p.slug}`,
-        datePublished: p.date,
-        author: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL + '/' },
-      })),
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
-        { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
-      ],
-    },
-  ]
-}
+const indexMeta = BLOG_INDEX_META
+const indexSchemas = buildBlogIndexSchemas
 
 export default function BlogIndexPage() {
   return (
@@ -128,7 +90,7 @@ export default function BlogIndexPage() {
             {BLOG_POSTS.map((p) => (
               <StaggerItem key={p.slug}>
                 <Link
-                  to={`/blog/${p.slug}`}
+                  to={`/blog/${p.slug}/`}
                   className="card overflow-hidden no-underline block h-full group flex flex-col"
                 >
                   <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
