@@ -215,6 +215,9 @@ export function buildPostSchemas(post) {
       wordCount: articleBody.split(/\s+/).length,
       inLanguage: 'en-IN',
       keywords: post.tags?.join(', '),
+      ...(post.sources?.length
+        ? { citation: post.sources.map((src) => ({ '@type': 'CreativeWork', name: src.label, url: src.url })) }
+        : {}),
     },
     crumbs({ name: 'Blog', url: pageUrl('/blog') }, { name: post.title, url: canonical }),
     ...(post.faqs?.length ? [faqSchema(post.faqs)] : []),

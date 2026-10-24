@@ -20,7 +20,7 @@ import { destinations } from '../src/data/destinations.js'
 import { CITIES } from '../src/data/cities.js'
 import { reviews } from '../src/data/reviews.js'
 import { FEATURED_TESTIMONIALS } from '../src/data/testimonials.js'
-import { BLOG_POSTS } from '../src/data/blog.js'
+import { BLOG_POSTS, getPostsForDestination, getLatestPosts } from '../src/data/blog.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -117,6 +117,7 @@ function buildHead(meta, schemas) {
     `<link rel="canonical" href="${canonical}" />`,
     `<link rel="alternate" hreflang="en-in" href="${canonical}" />`,
     `<link rel="alternate" hreflang="x-default" href="${canonical}" />`,
+    `<link rel="alternate" type="application/rss+xml" title="Travlys visa guides" href="${SITE_URL}/rss.xml" />`,
     `<meta property="og:type" content="${meta.type || 'website'}" />`,
     `<meta property="og:site_name" content="${SITE_NAME}" />`,
     `<meta property="og:locale" content="${DEFAULT_LOCALE}" />`,
@@ -294,6 +295,9 @@ ${destinationsTable()}
 <li>We track the file until you have a decision.</li>
 </ol>
 </section>
+<section><h2>Latest visa news for Indian travelers</h2>
+<ul>${getLatestPosts(5).map((p) => `<li><a href="${href(`/blog/${p.slug}`)}">${escapeHtml(p.title)}</a>: ${inline(p.excerpt)}</li>`).join('')}</ul>
+</section>
 ${faqList(HOME_FAQS)}
 <section><h2>Visa help in your city</h2>
 <ul>${CITIES.map((c) => `<li><a href="${href(`/from/${c.slug}`)}">Visa consultants in ${escapeHtml(c.name)}</a></li>`).join('')}</ul>
@@ -322,6 +326,7 @@ ${d.documents?.length ? `<section><h2>Documents you need</h2>${list(d.documents)
 ${d.processSteps?.length ? `<section><h2>How to apply for a ${escapeHtml(d.name)} visa from India</h2>${list(d.processSteps, 'ol')}</section>` : ''}
 ${g ? `<section><h2>The full ${escapeHtml(d.name)} visa guide</h2><p><em>Updated ${escapeHtml(g.updatedOn)}. Reviewed by ${escapeHtml(g.reviewedBy)}.</em></p>${g.tldr ? `<p><strong>In short:</strong> ${inline(g.tldr)}</p>` : ''}${g.sections.map((s) => `<h2>${escapeHtml(s.h2)}</h2>\n${bodyNodes(s.body)}`).join('\n')}</section>` : ''}
 ${faqList(d.faqs, `${d.name} visa FAQs`)}
+${getPostsForDestination(d.slug).length ? `<section><h2>Read before you apply for a ${escapeHtml(d.name)} visa</h2><ul>${getPostsForDestination(d.slug).map((p) => `<li><a href="${href(`/blog/${p.slug}`)}">${escapeHtml(p.title)}</a></li>`).join('')}</ul></section>` : ''}
 <section><h2>Apply for a ${escapeHtml(d.name)} visa from your city</h2>
 <ul>${CITIES.map((c) => `<li><a href="${href(`/visa/${d.slug}/from/${c.slug}`)}">${escapeHtml(d.name)} visa from ${escapeHtml(c.name)}</a></li>`).join('')}</ul>
 </section>
@@ -417,10 +422,11 @@ function postBody(post) {
   return `${crumbs([['Home', '/'], ['Blog', '/blog'], [post.title]])}
 <article>
 <h1>${escapeHtml(post.title)}</h1>
-<p><time datetime="${post.date}">Published ${post.date}</time> · ${post.readMinutes} min read · By the ${SITE_NAME} visa team</p>
+<p><time datetime="${post.date}">Published ${post.date}</time>${post.updated && post.updated !== post.date ? ` · Updated <time datetime="${post.updated}">${post.updated}</time>` : ''} · ${post.readMinutes} min read · By the ${SITE_NAME} visa team</p>
 <p><strong>${inline(post.excerpt)}</strong></p>
 ${bodyNodes(post.body)}
 ${faqList(post.faqs)}
+${post.sources?.length ? `<section><h2>Sources</h2><p>Checked on ${post.updated || post.date}. Visa rules change; confirm on the official site before you travel.</p><ol>${post.sources.map((src) => `<li><a href="${escapeAttr(src.url)}">${escapeHtml(src.label)}</a></li>`).join('')}</ol></section>` : ''}
 </article>
 ${related.length ? `<section><h2>Related guides</h2><ul>${related.map((r) => `<li><a href="${href(`/blog/${r.slug}`)}">${escapeHtml(r.title)}</a></li>`).join('')}</ul></section>` : ''}`
 }
@@ -562,6 +568,37 @@ ${cityVisaSections}
 </p>
 </body>
 </html>
+`
+}
+
+// --- RSS -----------------------------------------------------------------------
+
+function buildRss() {
+  const posts = getLatestPosts(BLOG_POSTS.length)
+  const rfc = (d) => new Date(`${d}T09:00:00+05:30`).toUTCString()
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Travlys visa guides</title>
+<link>${pageUrl('/blog')}</link>
+<atom:link href="${SITE_URL}/rss.xml" rel="self" type="application/rss+xml" />
+<description>Visa rule updates and travel guides for Indian passport holders, from the Travlys visa team.</description>
+<language>en-in</language>
+<lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+${posts
+    .map(
+      (p) => `<item>
+<title>${escapeXml(p.title)}</title>
+<link>${pageUrl(`/blog/${p.slug}`)}</link>
+<guid isPermaLink="true">${pageUrl(`/blog/${p.slug}`)}</guid>
+<pubDate>${rfc(p.updated || p.date)}</pubDate>
+<category>${escapeXml(p.category)}</category>
+<description>${escapeXml(plain(p.excerpt))}</description>
+</item>`,
+    )
+    .join('\n')}
+</channel>
+</rss>
 `
 }
 
@@ -714,11 +751,12 @@ async function main() {
 
   await fs.writeFile(path.join(dist, 'sitemap.xml'), buildSitemap())
   await fs.writeFile(path.join(dist, 'sitemap.html'), buildHtmlSitemap())
+  await fs.writeFile(path.join(dist, 'rss.xml'), buildRss())
   await fs.writeFile(path.join(dist, 'llms.txt'), buildLlmsTxt())
   await fs.writeFile(path.join(dist, 'llms-full.txt'), buildLlmsFull(llmsPages))
 
   console.log(`\nPre-rendered ${routes.length} routes (head metadata + page text).`)
-  console.log(`Wrote sitemap.xml, sitemap.html, llms.txt and llms-full.txt (${TODAY}).`)
+  console.log(`Wrote sitemap.xml, sitemap.html, rss.xml, llms.txt and llms-full.txt (${TODAY}).`)
 
   // IndexNow, ping Bing, Yandex, Naver, Seznam, Yep with the URL list.
   // Only runs in CI (i.e. real GitHub Actions deploys) so local builds

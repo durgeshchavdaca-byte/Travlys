@@ -23,6 +23,7 @@ import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/An
 import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import { destinations, getCostBreakdown } from '../data/destinations'
 import { CITIES } from '../data/cities'
+import { getPostsForDestination } from '../data/blog'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
@@ -701,6 +702,30 @@ export default function VisaPage() {
           </div>
         </div>
       </section>
+
+      {/* Guides for this visa */}
+      {getPostsForDestination(dest.slug).length > 0 && (
+        <section className="py-16 bg-white border-t border-line">
+          <div className="container-app">
+            <span className="pill bg-coral-50 text-coral-600">Guides</span>
+            <h2 className="font-display text-2xl md:text-3xl font-extrabold text-ink-900 mt-3 mb-6 leading-tight">
+              Read before you apply for a {dest.name} visa.
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {getPostsForDestination(dest.slug).slice(0, 3).map((p) => (
+                <Link key={p.slug} to={`/blog/${p.slug}/`} className="card p-5 no-underline group h-full flex flex-col">
+                  <span className="pill bg-coral-50 text-coral-600 text-[0.7rem] self-start">{p.category}</span>
+                  <h3 className="font-display text-base font-extrabold text-ink-900 leading-tight mt-3">{p.title}</h3>
+                  <p className="text-xs text-slate-muted mt-2 line-clamp-3 flex-1">{p.excerpt}</p>
+                  <span className="text-xs font-semibold text-coral-500 mt-4 flex items-center gap-1">
+                    Read the guide <ArrowUpRight className="w-3.5 h-3.5" />
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Related destinations */}
       {related.length > 0 && (

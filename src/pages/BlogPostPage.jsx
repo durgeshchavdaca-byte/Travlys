@@ -56,6 +56,14 @@ function PostBody({ body }) {
             </p>
           )
         }
+        if (node.type === 'callout') {
+          return (
+            <div key={i} className="mt-6 rounded-2xl border border-coral-100 bg-coral-50 px-5 py-4">
+              <p className="text-[0.7rem] uppercase tracking-[0.18em] font-semibold text-coral-600 m-0">{node.label}</p>
+              <p className="text-[0.98rem] text-slate-text mt-1.5 mb-0 leading-[1.7]">{renderInline(node.text)}</p>
+            </div>
+          )
+        }
         if (node.type === 'ul') {
           return (
             <ul key={i} className="mt-5 space-y-2.5 list-none p-0">
@@ -138,7 +146,10 @@ export default function BlogPostPage() {
             </p>
             <div className="flex flex-wrap items-center gap-4 mt-6 text-sm text-white/75">
               <span className="flex items-center gap-1.5">
-                <Calendar className="w-3.5 h-3.5" /> {fmtDate(post.date)}
+                <Calendar className="w-3.5 h-3.5" />
+                {post.updated && post.updated !== post.date
+                  ? `Updated ${fmtDate(post.updated)}`
+                  : fmtDate(post.date)}
               </span>
               <span className="flex items-center gap-1.5">
                 <Clock3 className="w-3.5 h-3.5" /> {post.readMinutes} min read
@@ -195,6 +206,25 @@ export default function BlogPostPage() {
                     </details>
                   ))}
                 </div>
+              </div>
+            )}
+
+            {/* Sources the post was checked against */}
+            {post.sources?.length > 0 && (
+              <div className="mt-14 pt-8 border-t border-line">
+                <h2 className="font-display text-xl font-extrabold text-ink-900 m-0">Sources</h2>
+                <p className="text-sm text-slate-muted mt-1">
+                  Checked on {fmtDate(post.updated || post.date)}. Visa rules change; confirm on the official site before you travel.
+                </p>
+                <ol className="mt-4 space-y-2 text-sm pl-5">
+                  {post.sources.map((src) => (
+                    <li key={src.url} className="text-slate-text">
+                      <a href={src.url} target="_blank" rel="noopener noreferrer" className="text-ink-900 hover:text-coral-600">
+                        {src.label}
+                      </a>
+                    </li>
+                  ))}
+                </ol>
               </div>
             )}
           </article>

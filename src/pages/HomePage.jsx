@@ -35,6 +35,7 @@ import Flag from '../components/Flag'
 import { buildHomeSchemas, getHomeMeta, HOME_FAQS } from '../seo/config'
 import { reviews } from '../data/reviews'
 import { FEATURED_TESTIMONIALS } from '../data/testimonials'
+import { getLatestPosts } from '../data/blog'
 
 /* ─── HERO ────────────────────────────────────────────────────────────────── */
 
@@ -834,6 +835,45 @@ function InquirySection() {
 
 /* ─── PAGE ────────────────────────────────────────────────────────────── */
 
+/* ─── LATEST GUIDES ───────────────────────────────────────────────────────── */
+
+function LatestGuides() {
+  const posts = getLatestPosts(3)
+  return (
+    <section id="latest" className="py-20 bg-white border-t border-line">
+      <div className="container-app">
+        <div className="flex items-end justify-between gap-4 mb-8">
+          <div>
+            <span className="pill bg-coral-50 text-coral-600">
+              <TrendingUp className="w-3.5 h-3.5" /> Latest visa news
+            </span>
+            <h2 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900 mt-3 leading-tight">
+              What changed for Indian travelers.
+            </h2>
+          </div>
+          <Link to="/blog/" className="hidden md:inline-flex btn btn-ghost">
+            All guides <ArrowUpRight className="w-4 h-4" />
+          </Link>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+          {posts.map((p) => (
+            <Link key={p.slug} to={`/blog/${p.slug}/`} className="card overflow-hidden no-underline group h-full flex flex-col">
+              <div className="aspect-[16/9] overflow-hidden bg-sand-100">
+                <img src={p.heroImage} alt="" loading="lazy" className="country-card-img w-full h-full object-cover" />
+              </div>
+              <div className="p-5 flex flex-col flex-1">
+                <span className="text-[0.7rem] uppercase tracking-[0.14em] font-semibold text-coral-600">{p.category}</span>
+                <h3 className="font-display text-lg font-extrabold text-ink-900 leading-tight mt-2">{p.title}</h3>
+                <p className="text-sm text-slate-muted mt-2 line-clamp-3 flex-1">{p.excerpt}</p>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
 export default function HomePage() {
   const homeMeta = getHomeMeta()
   const homeSchemas = buildHomeSchemas(destinations, reviews, FEATURED_TESTIMONIALS)
@@ -853,6 +893,7 @@ export default function HomePage() {
       <LocalReachBand />
       <Reviews />
       <CtaBanner />
+      <LatestGuides />
       <FaqSection />
       <InquirySection />
     </>
