@@ -35,6 +35,7 @@ function App() {
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/pricing" element={<PricingPage />} />
             <Route path="/blog" element={<BlogIndexPage />} />
+            <Route path="/blog/category/:cat" element={<BlogIndexPage />} />
             <Route path="/blog/:slug" element={<BlogPostPage />} />
             <Route path="/visa-questions" element={<VisaQuestionsPage />} />
           </Routes>

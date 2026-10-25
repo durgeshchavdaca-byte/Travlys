@@ -7,6 +7,3051 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  // --- 25 October 2026: rule tracker, study abroad, country and trip guides. ---
+  {
+    "slug": "visa-rule-changes-for-indians-2026-tracker",
+    "title": "Visa Rule Changes for Indians in 2026: Monthly Tracker",
+    "metaTitle": "Visa Rule Changes for Indians 2026: Tracker | Travlys",
+    "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: China direct filing, Australia student rules, Thailand 30 days, Sri Lanka free ETA.",
+    "excerpt": "A dated, monthly-updated list of every significant visa and entry rule change for Indian passport holders in 2026, with what changed, who it affects and what to do.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 10,
+    "category": "Visa rule updates",
+    "tags": [
+      "Visa rules 2026",
+      "Indian passport",
+      "Visa updates",
+      "China visa",
+      "Thailand visa-free",
+      "Australia student visa",
+      "Henley Passport Index"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=1600&h=900&fit=crop",
+    "related": [
+      "china-visa-for-indians-2026-new-process",
+      "thailand-visa-free-for-indians-2026",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Get your visa filed"
+    },
+    "faqs": [
+      {
+        "q": "What visa rules changed for Indians in 2026?",
+        "a": "The main 2026 changes for Indian passport holders are: China direct visa filing at its Embassy and Mumbai Consulate from 26 October, Australia's student visa restrictions from 2 October, Thailand's visa-free stay cut to 30 days from 15 September, Sri Lanka's free tourist ETA from 25 May, the Schengen EES going fully live on 10 April, and higher UK and Australian visa fees."
+      },
+      {
+        "q": "Is Thailand still visa-free for Indians?",
+        "a": "Yes, but only for 30 days. From 15 September 2026 Thailand revoked its 60-day exemption and Indian ordinary passport holders get a 30-day visa-free stay for tourism. You must fill the free Thailand Digital Arrival Card before arrival. For longer stays, apply for a tourist visa or DTV on the Thai e-Visa portal before you fly."
+      },
+      {
+        "q": "Is Malaysia visa-free for Indians after December 2026?",
+        "a": "Not confirmed. Malaysia's visa waiver for Indians runs until 31 December 2026, for stays of up to 30 days, and no extension had been announced as of 25 October 2026. If you are travelling in 2027, check the Immigration Department of Malaysia website before booking. You still need the free Malaysia Digital Arrival Card."
+      },
+      {
+        "q": "How do Indians apply for a China visa from 26 October 2026?",
+        "a": "You apply directly at the Chinese Embassy in New Delhi or the Consulate General in Mumbai, not at a visa centre. Fill the online form first, wait for the approval email, then submit your passport in person. Residents of Maharashtra and Karnataka use Mumbai; everyone else, including Gujarat, uses New Delhi. A single-entry visa costs ₹2,900, paid by demand draft."
+      },
+      {
+        "q": "What is the Indian passport rank in 2026?",
+        "a": "India is 84th in the October 2026 Henley Passport Index, with 55 destinations accessible without a visa arranged in advance, according to Indian news reports, which describe it as up one place from 85th. The count includes visa-free, visa on arrival and ETA entries, but not e-visa countries."
+      },
+      {
+        "q": "Do Indians need a visa for Iran now?",
+        "a": "Yes. Iran suspended visa-free entry for Indian ordinary passport holders from 22 November 2025, according to India's Ministry of External Affairs, and we found no notice restoring it. You must get a visa before travel. The Embassy of India in Tehran also advised Indians in July 2026 to postpone travel to Iran."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "**Latest change (26 October 2026):** Indian passport holders now apply for a Chinese visa directly at the Chinese Embassy in New Delhi or the Consulate General in Mumbai, not at the visa application service centres. Before that, the biggest 2026 changes for Indians were Australia's student visa rules (2 October), Thailand cutting visa-free stays to **30 days** (15 September), a free Sri Lanka ETA (25 May) and the Schengen Entry/Exit System going fully live (10 April). This page lists every significant change we could confirm, newest first, and is updated every month."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Newest change:** China direct visa filing from 26 October 2026. **Easier in 2026:** Sri Lanka (free ETA), Uzbekistan (visa-free for holders of certain foreign visas), UAE (visa on arrival scheme widened). **Harder in 2026:** Thailand (60 days cut to 30), Australia student visas, higher UK and Australian visa fees. **Unchanged but time-limited:** Malaysia visa-free entry ends 31 December 2026 unless extended. **Still suspended:** Iran visa-free entry, since 22 November 2025. **Passport ranking:** India 84th, 55 destinations (October 2026, as reported)."
+      },
+      {
+        "type": "h2",
+        "text": "2026 visa rule changes for Indians, newest first"
+      },
+      {
+        "type": "h3",
+        "text": "26 Oct 2026: China moves visa filing to its Embassy and Consulate"
+      },
+      {
+        "type": "p",
+        "text": "From 26 October, the Chinese Embassy in New Delhi and the Consulate General in Mumbai accept visa applications directly. You fill the online form at consular.mfa.gov.cn first, then submit your passport in person after you get an approval email. Mumbai covers Maharashtra and Karnataka; New Delhi covers every other state, including Gujarat, and for now the old Kolkata district. A single-entry visa costs **₹2,900**, paid only by bank demand draft for now."
+      },
+      {
+        "type": "h3",
+        "text": "9 Oct 2026: India ranks 84th in the Henley Passport Index"
+      },
+      {
+        "type": "p",
+        "text": "The October 2026 edition puts India **84th**, with **55 destinations** reachable without a visa arranged in advance. Business Today reports this as up one place from 85th, though other reports had India 81st in July. We could not view the figures on Henley & Partners' own site. The index counts visa-free, visa on arrival and ETA entries, not e-visas, so it understates how easily you can travel."
+      },
+      {
+        "type": "h3",
+        "text": "2 Oct 2026: Australia tightens student visa rules"
+      },
+      {
+        "type": "p",
+        "text": "Most holders of temporary visas in Australia, including Visitor, Working Holiday, Skills in Demand and Temporary Graduate visas, can no longer apply for a Student visa onshore. Most new student applicants cannot include a partner or children, and no student can add family after the grant. Students must now stay 12 months with their first provider before transferring, and a new transfer visa stream starts on 1 July 2027. If you apply from India for a first course, the process is the same; the planning level for new students stays at 295,000 for 2026 and 2027."
+      },
+      {
+        "type": "h3",
+        "text": "30 Sep 2026: US courts keep blocking the $100,000 H-1B fee"
+      },
+      {
+        "type": "p",
+        "text": "A California court blocked agencies from enforcing the $100,000 H-1B payment on 30 September, after a Massachusetts court vacated its guidance in June. Other US rules from 2025 remain: almost every applicant needs an in-person interview, you must apply in your country of nationality or residence, and F, M, J, H-1B and H-4 applicants must keep social media public. The B1/B2 fee is still **$185**. The **$250 visa integrity fee** is law, but we found no official notice that collection has started. On 3 August 2026 the US made its visa bond programme permanent; India is not on the list."
+      },
+      {
+        "type": "h3",
+        "text": "15 Sep 2026: Thailand cuts visa-free stays to 30 days"
+      },
+      {
+        "type": "p",
+        "text": "Thailand revoked its 60-day visa exemption for all countries and gave Indian ordinary passport holders a **30-day** visa-free stay for tourism. India is not on the new visa on arrival list. Fill the free Thailand Digital Arrival Card within three days before arrival, and get a tourist visa or DTV on thaievisa.go.th if you need longer."
+      },
+      {
+        "type": "h3",
+        "text": "1 Sep 2026: Uzbekistan visa-free for Indians holding certain foreign visas"
+      },
+      {
+        "type": "p",
+        "text": "Uzbekistan's Tourism Committee says Indians holding a valid multiple-entry tourist or business visa from the US, UK, a Schengen state, Canada, Australia, New Zealand, Japan or South Korea can stay up to **30 days** visa-free. You need a ticket out to India or a third country. News reports describe wider visa-free entry for all Indians, but the official notice we found covers only this group, so others should use the e-visa."
+      },
+      {
+        "type": "h3",
+        "text": "1 Jul 2026: Australia raises visa charges"
+      },
+      {
+        "type": "p",
+        "text": "Most Australian visa charges went up about 25%. The Student visa now costs **AUD 2,500** for the main applicant, a Visitor visa (subclass 600) applied for outside Australia costs **AUD 250**, and the Temporary Graduate visa costs **AUD 5,750**. The amount depends on the date Home Affairs receives your application."
+      },
+      {
+        "type": "h3",
+        "text": "1 Jul 2026: Japan raises visa fees worldwide, but not for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Japan's first fee revision since 1978 raised single-entry visas to about ¥15,000 for most nationalities. Japanese missions in India say Indian nationals still pay **₹500** for a single or multiple-entry visa, plus the VFS service fee. Japan also abolished its separate transit visa, and the Consulate General in Mumbai stopped taking applications directly after 20 April 2026, so Mumbai-district applicants now go through VFS Global."
+      },
+      {
+        "type": "h3",
+        "text": "25 Jun 2026: UAE widens its visa on arrival scheme"
+      },
+      {
+        "type": "p",
+        "text": "The UAE's ICP extended its visa on arrival scheme to six more nationalities and kept India on the list. Indians with a valid US visa or green card, a UK or EU visa or residence permit, or a residence permit from Australia, Canada, Japan, New Zealand, South Korea or Singapore can get a 14-day visa for **AED 100**, extendable once, or a 60-day visa. Some July news reports said UK-only holders would lose access, but official pages still list the UK, so apply online in advance if a UK document is all you have."
+      },
+      {
+        "type": "h3",
+        "text": "25 May 2026: Sri Lanka tourist ETA becomes free"
+      },
+      {
+        "type": "p",
+        "text": "Indians are among 40 nationalities who get a **free 30-day, double-entry** tourist ETA. You must still apply on eta.gov.lk before you fly; free does not mean no application. Business ETAs and extensions are still charged."
+      },
+      {
+        "type": "h3",
+        "text": "10 Apr 2026: Schengen Entry/Exit System fully live"
+      },
+      {
+        "type": "p",
+        "text": "The EES, which started on 12 October 2025, became fully operational at the borders of 29 European countries, and passport stamping ended. Your entry, exit and face image are recorded digitally, and the system counts your 90 days in any 180. Allow extra time at your first Schengen airport. ETIAS does not apply to Indians, who still need a Schengen visa (EUR 90 for adults)."
+      },
+      {
+        "type": "h3",
+        "text": "8 Apr 2026: UK visa fees go up"
+      },
+      {
+        "type": "p",
+        "text": "The standard six-month UK visitor visa rose from £127 to **£135**, the two-year visit visa to £506, and the Student visa (applied from outside the UK) from £524 to **£558**. The Immigration Health Surcharge is unchanged at £776 a year for students. The fee you pay is set by the date you apply."
+      },
+      {
+        "type": "h3",
+        "text": "1 Jan 2026: Canada drops the provincial letter for master's and PhD students"
+      },
+      {
+        "type": "p",
+        "text": "Master's and doctoral students at public Canadian institutions no longer need a provincial or territorial attestation letter (PAL/TAL) with their study permit application. Undergraduate and college applicants still do. IRCC expects to issue up to 408,000 study permits in 2026, including 155,000 for new students."
+      },
+      {
+        "type": "h3",
+        "text": "Through 31 Dec 2026: Malaysia visa-free entry for Indians continues"
+      },
+      {
+        "type": "p",
+        "text": "Malaysia's visa waiver lets Indians stay up to **30 days** for tourism, business or transit, but not work, until 31 December 2026. You must submit the free Malaysia Digital Arrival Card within three days before arrival and carry a return ticket and hotel booking. No extension beyond 2026 had been announced when we checked."
+      },
+      {
+        "type": "h3",
+        "text": "22 Nov 2025: Iran suspends visa-free entry for Indians"
+      },
+      {
+        "type": "p",
+        "text": "India's Ministry of External Affairs said Iran suspended its visa waiver for Indian ordinary passport holders from 22 November 2025, after criminal groups used it to lure Indians with fake job offers and kidnap them for ransom. You now need a visa to enter or transit Iran. In July 2026 the Embassy of India in Tehran also advised Indians to postpone travel to Iran. We found no official notice restoring visa-free entry."
+      },
+      {
+        "type": "h2",
+        "text": "Coming up: dates to watch"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**31 December 2026:** Malaysia's visa waiver for Indians expires unless Malaysia extends it.",
+          "**1 January 2027:** UK Graduate visas for bachelor's and master's graduates drop from 2 years to **18 months**. Apply by 31 December 2026 to get 2 years. PhD graduates keep 3 years.",
+          "**1 July 2027:** Australia's new Student visa transfer stream starts for students changing provider.",
+          "**Not yet dated:** the US $250 visa integrity fee and the EU's ETIAS. ETIAS is for visa-exempt nationals, so it will not apply to you on an Indian passport."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Checked, but no 2026 change confirmed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Philippines:** visa-free for **14 days** for tourism since 8 June 2025, or 30 days if you hold a valid US, UK, Schengen, Japan, Australia, Canada or Singapore visa or residence permit. Register on eTravel before you fly.",
+          "**Kazakhstan:** visa-free for up to **14 days** per visit, with a cap of 42 days in any 180, under a 2022 decree.",
+          "**Laos:** we saw claims that visa on arrival ended for Indians but found no official confirmation. Apply for the e-visa to be safe."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Before you book",
+        "text": "Visa-free or visa on arrival never guarantees entry. Officers can ask for a return ticket, hotel booking and funds, and can refuse entry. Rules on this page can change with little notice, so check the official immigration site of the country before you buy flights."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files visas for Indian passport holders for the US (from **₹19,940**), UK (from ₹12,950), Canada (from ₹14,950), Australia (from ₹4,950), Schengen through the Netherlands (from ₹2,950), Singapore (from ₹2,950), UAE (from **₹2,500**), Thailand (from ₹1,950), New Zealand (from ₹6,950) and Malaysia (from ₹999). Service fees are separate from government fees. We have filed **5,000+ visas** with a **98% approval rate**, and we tell you upfront if a rule change on this page affects your trip. WhatsApp us on **+91 82009 18967**."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Every entry on this tracker was checked on **25 October 2026** against the official government sources listed below, or against news reports where we have said so. We update this page monthly. If a date or fee here differs from an official site, follow the official site."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of China in India: notice on direct acceptance of visa applications (22 October 2026)",
+        "url": "https://in.china-embassy.gov.cn/eng/gdxw/202610/t20261022_12044936.htm"
+      },
+      {
+        "label": "Embassy of China in India: schedule of consular fees (22 October 2026)",
+        "url": "https://in.china-embassy.gov.cn/eng/lsfw/2consularservice/202610/t20261021_12044639.htm"
+      },
+      {
+        "label": "Consulate General of China in Mumbai: notice on direct acceptance of applications (22 October 2026)",
+        "url": "https://mumbai.china-consulate.gov.cn/eng/zytz/202610/t20261022_12045252.htm"
+      },
+      {
+        "label": "Business Today: Henley Passport Index October 2026, India 84th with 55 destinations",
+        "url": "https://www.businesstoday.in/nri/story/henley-passport-index-2026-indian-passport-climbs-to-84th-rank-visa-free-countries-falls-to-55-561651-2026-10-14"
+      },
+      {
+        "label": "TravelBiz Monitor: Indian passport 84th in October 2026 rankings",
+        "url": "https://travelbizmonitor.com/top-stories/indian-passport-climbs-to-84th-position-in-october-2026-rankings/"
+      },
+      {
+        "label": "Department of Home Affairs (Australia): Changes to Student visa application rules (subclasses 500 and 590)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590"
+      },
+      {
+        "label": "Assistant Minister Julian Hill: Student visa integrity reforms take effect today (2 October 2026)",
+        "url": "https://minister.homeaffairs.gov.au/JulianHill/Pages/student-visa-integrity-reforms-take-effect-today.aspx"
+      },
+      {
+        "label": "Study Australia: Australia confirms international education settings for 2027",
+        "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/news/australia-confirms-international-education-settings-for-2027"
+      },
+      {
+        "label": "Federal Register of Legislation: Home Affairs Legislation Amendment (2026 Measures No. 1) Regulations 2026 (visa charges from 1 July 2026)",
+        "url": "https://www.legislation.gov.au/F2026L00874/asmade"
+      },
+      {
+        "label": "U.S. Embassy and Consulates in India: visa service notices",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Department of State: Interview Waiver Update",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/interview-waiver-update-sept-18-2025.html"
+      },
+      {
+        "label": "U.S. Department of State: Fees for visa services",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html"
+      },
+      {
+        "label": "U.S. Department of State: Countries subject to visa bonds",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/countries-subject-to-visa-bonds.html"
+      },
+      {
+        "label": "USCIS: H-1B FAQ on the $100,000 payment",
+        "url": "https://www.uscis.gov/newsroom/alerts/h-1b-faq"
+      },
+      {
+        "label": "Ogletree Deakins: Federal court issues new order blocking $100,000 H-1B fee (2 October 2026)",
+        "url": "https://ogletree.com/insights-resources/blog-posts/federal-court-issues-new-order-blocking-agency-implementation-of-100000-h-1b-fee/"
+      },
+      {
+        "label": "Ellis (immigration law firm): The $250 visa integrity fee, updated June 2026",
+        "url": "https://www.ellis.com/resources/visa-integrity-fee"
+      },
+      {
+        "label": "Royal Thai Embassy, New Delhi: revision of visa exemption and VoA schemes, effective 15 September 2026",
+        "url": "https://newdelhi.thaiembassy.org/en/content/the-revision-of-thailand-s-visa-exemption-and-voa"
+      },
+      {
+        "label": "Thai Ministry of Foreign Affairs: press briefing, 19 May 2026",
+        "url": "https://mfa.go.th/en/content/summary-press-briefing-190526"
+      },
+      {
+        "label": "Uzbekistan Tourism Committee: visa-free regime for Indian citizens from 1 September 2026",
+        "url": "https://gov.uz/en/uzbektourism/news/view/228993"
+      },
+      {
+        "label": "Embassy of Japan in India: Visa (fees from 1 July 2026)",
+        "url": "https://www.in.emb-japan.go.jp/itpr_en/Visa.html"
+      },
+      {
+        "label": "Consulate General of Japan in Mumbai: Visa information",
+        "url": "https://www.mumbai.in.emb-japan.go.jp/itpr_en/visa_information.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: Visa fees",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/procedure/pagewe_000001_00391.html"
+      },
+      {
+        "label": "UAE ICP: eligibility for UAE entry visa expanded (25 June 2026)",
+        "url": "https://icp.gov.ae/en/media-center/icp-expands-eligibility-for-uae-entry-visa-for-nationals-of-certain-countries/"
+      },
+      {
+        "label": "UAE ICP: 60-day visa for nationals of certain countries residing abroad",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68f5bcdb8c587a0011cb16d5"
+      },
+      {
+        "label": "Department of Immigration and Emigration, Sri Lanka: free tourist visas for nationals of 40 countries",
+        "url": "https://www.immigration.gov.lk/content/files/visa/Free%20Tourist%20Visas%20for%20Nationals%20of%2040%20Selected%20Countries.pdf"
+      },
+      {
+        "label": "Sri Lanka ETA (official portal)",
+        "url": "https://www.eta.gov.lk/slvisa/"
+      },
+      {
+        "label": "European Union (travel-europe.europa.eu): FAQs about the EES",
+        "url": "https://travel-europe.europa.eu/en/ees/faq"
+      },
+      {
+        "label": "European Union (travel-europe.europa.eu): What is ETIAS?",
+        "url": "https://travel-europe.europa.eu/en/etias/about-etias/what-is-etias"
+      },
+      {
+        "label": "GOV.UK: Home Office immigration and nationality fees, 8 April 2026",
+        "url": "https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-april-2026"
+      },
+      {
+        "label": "GOV.UK: Graduate visa",
+        "url": "https://www.gov.uk/graduate-visa"
+      },
+      {
+        "label": "GOV.UK: Pay for UK healthcare as part of your immigration application",
+        "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay"
+      },
+      {
+        "label": "IRCC (Canada.ca): 2026 provincial and territorial allocations under the international student cap",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html"
+      },
+      {
+        "label": "Immigration Department of Malaysia: visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+      },
+      {
+        "label": "Malaysia Digital Arrival Card (official portal)",
+        "url": "https://imigresen-online.imi.gov.my/mdac/main"
+      },
+      {
+        "label": "Ministry of External Affairs, India: advisory on suspension of visa waiver for Indian nationals travelling to Iran",
+        "url": "https://www.mea.gov.in/press-releases.htm?dtl%2F40303%2FAdvisory_on_suspension_of_visa_waiver_facility_extended_to_Indian_nationals_traveling_to_Iran="
+      },
+      {
+        "label": "The Week (PTI): Iran suspends visa waiver for Indian nationals after misuse by criminal elements (17 November 2025)",
+        "url": "https://www.theweek.in/wire-updates/national/2025/11/17/del102-mea-iran-advisory.html"
+      },
+      {
+        "label": "Embassy of the Philippines, New Delhi (DFA): visa-free privileges for Indian nationals",
+        "url": "https://newdelhipe.dfa.gov.ph/index.php/newsroom/embassy-news/1144-visa-free-privileges-for-indian-nationals-entering-the-philippines"
+      },
+      {
+        "label": "Embassy of India, Astana: Kazakhstan visa-free travel for Indians up to 14 days",
+        "url": "https://indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days"
+      }
+    ]
+  },
+  {
+    "slug": "australia-student-visa-new-rules-2026-indian-students",
+    "title": "Australia Student Visa New Rules 2026 for Indian Students",
+    "metaTitle": "Australia Student Visa New Rules 2026 for Indians | Travlys",
+    "metaDescription": "From 2 October 2026, most Australian student visas must be lodged offshore and most students cannot bring family. Fee AUD 2,500, funds AUD 29,710, IELTS 6.0.",
+    "excerpt": "Australia's 2 October 2026 student visa rules restrict onshore applications, family members and provider switching. Here is what Indian students need to know, with current fees, funds and English scores.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 8,
+    "category": "Study abroad",
+    "tags": [
+      "Australia",
+      "Student visa",
+      "Subclass 500",
+      "Study abroad",
+      "Temporary Graduate visa",
+      "Visa rule changes 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1600&h=900&fit=crop",
+    "related": [
+      "study-abroad-visa-changes-2026-indian-students",
+      "visa-rule-changes-for-indians-2026-tracker",
+      "visa-rejection-reasons-india"
+    ],
+    "cta": {
+      "slug": "australia-visa",
+      "label": "See Australia visa help"
+    },
+    "faqs": [
+      {
+        "q": "Can Indian students still apply for an Australian student visa in 2026?",
+        "a": "Yes. If you are in India and applying for your course, you can still apply for a Student visa (subclass 500) as before. The 2 October 2026 changes mainly affect people already in Australia on other temporary visas, existing students applying again, and students who want to bring family. You still need a Confirmation of Enrolment, OSHC, funds and an English test score."
+      },
+      {
+        "q": "What is the Australian student visa fee in 2026?",
+        "a": "The base charge for an Indian main applicant is AUD 2,500 for applications received from 1 July 2026, up from AUD 2,000. Where family members can still be included, it is AUD 1,530 for each person aged 18 or over and AUD 500 for each child. OSHC, biometrics and medicals are extra."
+      },
+      {
+        "q": "Can I take my spouse to Australia on a student visa now?",
+        "a": "Usually not, if you apply on or after 2 October 2026. Family members can only be included if you are a PhD student, sponsored by DFAT or Defence, on a foreign government scholarship, or a Pacific or ASEAN national. Nobody can add family after the visa is granted. Applications lodged before 2 October 2026 follow the old rules."
+      },
+      {
+        "q": "How much bank balance do I need for an Australian student visa?",
+        "a": "You must show at least AUD 29,710 for a year of living costs, 12 months of tuition fees, and AUD 2,000 for travel from India. Alternatively, you can show your parents' or partner's annual income was at least AUD 87,856, using official tax documents. Home Affairs may ask for this evidence even if the checklist does not."
+      },
+      {
+        "q": "What IELTS score is needed for an Australian student visa?",
+        "a": "The visa minimum is IELTS 6.0 overall, or PTE Academic 47, for tests taken on or after 7 August 2025. It drops to 5.5 if your course includes at least 10 weeks of English classes, and 5.0 with at least 20 weeks. Your university may ask for a higher score than the visa minimum."
+      },
+      {
+        "q": "How long is post-study work in Australia for Indian students?",
+        "a": "Indian graduates get 2 years after a bachelor's degree, 3 years after a bachelor's with first-class honours in STEM, 3 years after any master's, and 4 years after a PhD, under the Australia-India trade agreement. You must be 35 or under (under 50 for research degrees), meet IELTS 6.5, and apply in Australia. The visa charge is AUD 5,750."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes, Australia has tightened its student visa rules. From **2 October 2026**, most people already in Australia on another temporary visa can no longer apply for a Student visa (subclass 500) onshore, most students can no longer include a partner or children, and nobody can add family after the visa is granted. If you are applying from India for your first course, you can still apply as before, but the visa now costs **AUD 2,500** and you must show at least **AUD 29,710** a year for living costs."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**New rules start:** 2 October 2026. **Applying from India:** still allowed as before. **Onshore applications:** blocked for most temporary visa holders. **Family members:** only with an exemption, such as PhD study; never added later. **Changing provider:** you must stay 12 months in your main course first (up from 6). **Visa fee:** AUD 2,500 for the main applicant since 1 July 2026. **Living costs to show:** AUD 29,710 a year. **English (tests from 7 August 2025):** IELTS 6.0 or PTE 47. **New student places:** 295,000 for 2026 and 2027."
+      },
+      {
+        "type": "h2",
+        "text": "What changed on 2 October 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Migration Amendment (Student Visa Reform) Regulations 2026 changed who can apply for a Student visa while in Australia and who can come with you. The government says the aim is to stop \"visa hopping\" from visitor and work visas onto student visas."
+      },
+      {
+        "type": "h3",
+        "text": "You may need to be outside Australia to apply"
+      },
+      {
+        "type": "p",
+        "text": "If you hold any of these visas, you cannot apply for a Student visa while in Australia, and there are no exemptions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visitor (600), ETA (601), eVisitor (651), Transit (771), Medical Treatment (602)**",
+          "**Working Holiday (417), Work and Holiday (462)**",
+          "**Skills in Demand (482), Temporary Work (400, 457), Training (407), Temporary Activity (408)**",
+          "**Temporary Graduate (485)**",
+          "Maritime Crew (988), Domestic Worker (403), and primary Diplomatic (Temporary) holders (995)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Existing student visa holders are also affected. You can apply for another Student visa in Australia only if an exemption applies, for example:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "you need **up to 12 more months** to finish your main course with the same provider",
+          "you have finished your main course and are moving **up** to a higher AQF level (a higher education graduate must move to another higher education course)",
+          "you are starting a **PhD** (a Master's by Research does not count), or primary or secondary school",
+          "you are sponsored by DFAT or the Department of Defence",
+          "your provider has defaulted and cannot deliver your course"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you must apply from outside Australia, you must also be outside Australia when the visa is granted. You will not get a bridging visa. Home Affairs warns that an application lodged onshore when you were not allowed to will be **invalid**, and an invalid application cannot go to review."
+      },
+      {
+        "type": "h3",
+        "text": "Family members: partner and children"
+      },
+      {
+        "type": "p",
+        "text": "You can no longer include your partner or dependent children in a Student visa application unless you are a PhD student, sponsored by DFAT or Defence, on a foreign government scholarship, or a national of a Pacific or ASEAN country. Indian students on ordinary self-funded courses do not fall into these groups."
+      },
+      {
+        "type": "p",
+        "text": "You also cannot add family members after your visa is granted. Home Affairs says there are no exemptions to this rule. Families already together in Australia are protected: if your family was on your current Student visa and you are eligible to apply onshore, you may be able to include them in your next application. Everyone in the application must be in the same location when you lodge it."
+      },
+      {
+        "type": "h3",
+        "text": "Changing your education provider"
+      },
+      {
+        "type": "p",
+        "text": "From 2 October 2026, students other than school students must stay **12 months** in their principal course before moving provider, up from six. From **1 July 2027**, changing provider after arrival will need a new visa under a new transfer stream, granted before you start at the new provider. Transfers will only be allowed at the same AQF level or higher, so you can no longer come for a degree and switch to a VET course onshore."
+      },
+      {
+        "type": "h3",
+        "text": "If you applied before 2 October 2026"
+      },
+      {
+        "type": "p",
+        "text": "Applications lodged before 2 October 2026, including ones that already included family members, are assessed under the old rules. A Student visa you already hold is not affected."
+      },
+      {
+        "type": "h2",
+        "text": "What the student visa costs now"
+      },
+      {
+        "type": "p",
+        "text": "Australia raised visa charges from **1 July 2026**. For an Indian student, the base charge for the main applicant went from AUD 2,000 to **AUD 2,500**. Where family can still be included, the charge is **AUD 1,530** for each person aged 18 or over and **AUD 500** for each child under 18. A lower rate applies only to ASEAN, Pacific and Timor-Leste nationals and to English-only (ELICOS) or non-award courses. The fee you pay depends on the date Home Affairs receives your application."
+      },
+      {
+        "type": "p",
+        "text": "Also budget for Overseas Student Health Cover (OSHC) for your whole stay, biometrics, medicals and your English test. Missing OSHC details lead to refusal."
+      },
+      {
+        "type": "h2",
+        "text": "How much money you must show"
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs can ask for proof of funds even if the Document Checklist Tool does not. At minimum you need:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**12 months of course fees** (or pro rata for a shorter course), less anything already paid",
+          "**AUD 29,710** for 12 months of your own living costs",
+          "**AUD 10,394** for a partner and **AUD 4,449** for each child, where family can still come",
+          "**AUD 13,502 a year** in school fees for each school-age child",
+          "**AUD 2,000** for travel if you are applying from India"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Instead of savings, you can show that your parents or partner earned at least **AUD 87,856** in the 12 months before you apply, or **AUD 102,500** if family members are coming. Parents' incomes can be combined, shown through official documents such as income tax assessments under 12 months old, not bank statements or employer letters. For an education loan, Home Affairs looks for evidence of disbursement, not just a sanction letter."
+      },
+      {
+        "type": "h2",
+        "text": "English test scores you need"
+      },
+      {
+        "type": "p",
+        "text": "For tests taken on or after **7 August 2025**, the minimum overall scores are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**IELTS Academic or General Training:** 6.0",
+          "**PTE Academic:** 47",
+          "**TOEFL iBT:** 67. From 21 January 2026 you must select \"Taking TOEFL for Australia\" when you register, or the test will not count."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Lower scores are accepted if your main course is packaged with English classes: IELTS 5.5 (PTE 39) with at least 10 weeks of ELICOS or an eligible foundation or pathway program, and IELTS 5.0 (PTE 31) with at least 20 weeks of ELICOS. Universities often set higher scores than the visa minimum, so check your offer letter."
+      },
+      {
+        "type": "h2",
+        "text": "The Genuine Student requirement"
+      },
+      {
+        "type": "p",
+        "text": "Since **23 March 2024**, every applicant must meet the Genuine Student (GS) requirement. In the online form you answer a set of questions, in English, with a **150-word limit** each. They cover your current ties to family, community and work in India, why you chose this course and this provider, how the course will help you, and anything else relevant. There is an extra question if you have held a Student visa before."
+      },
+      {
+        "type": "p",
+        "text": "Answers backed by documents carry more weight. Officers look at why you are not taking a similar course in India, study gaps, work history, expected salary after the course, and past visa refusals anywhere. Wanting permanent residence later does not count against you."
+      },
+      {
+        "type": "h2",
+        "text": "How many new students Australia will take"
+      },
+      {
+        "type": "p",
+        "text": "The government set a **National Planning Level of 295,000** new international student commencements for 2026, and on 15 July 2026 confirmed the same 295,000 for 2027. Study Australia says this is a planning level, not a hard cap. Each provider gets an allocation. Applications for a provider are processed as priority until it reaches **80%** of its allocation, then they are still accepted but processed more slowly. Offshore applications lodged from 14 November 2025 are handled under Ministerial Direction 115."
+      },
+      {
+        "type": "p",
+        "text": "In practice, apply early, before your university nears its allocation."
+      },
+      {
+        "type": "h2",
+        "text": "Post-study work: Temporary Graduate visa (subclass 485)"
+      },
+      {
+        "type": "p",
+        "text": "Under the Australia-India Economic Cooperation and Trade Agreement, Indian graduates in the Post-Higher Education Work stream get longer stays than most nationalities:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Bachelor's degree (including honours):** 2 years",
+          "**Bachelor's with first-class honours in STEM, including ICT:** 3 years",
+          "**Master's (coursework, extended or research):** 3 years",
+          "**PhD:** 4 years"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You must be **35 or under** when you apply (under 50 if you use a research master's or PhD), have held a Student visa in the last six months, and apply in Australia. You need IELTS **6.5** overall with at least 5.5 in each part, or PTE **55** overall, taken in the 12 months before you apply. The visa charge rose to **AUD 5,750** on 1 July 2026. The government has said similar restrictions on including family members will come to the 485 visa, with details still to be announced."
+      },
+      {
+        "type": "p",
+        "text": "While you study, you can work up to **48 hours a fortnight** when your course is in session. Research master's and PhD students have no work limit."
+      },
+      {
+        "type": "h2",
+        "text": "Who is affected most"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Little change:** you are in India, applying alone for your first bachelor's or master's course.",
+          "**Route closed:** you planned to enter on a visitor or Working Holiday visa and switch to a student visa.",
+          "**Big change:** you are married or have children. Unless you are doing a PhD, they cannot come as your dependants.",
+          "**Check first:** you are already studying in Australia and want to change course or provider."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes to avoid"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Lodging onshore without an exemption. An invalid application can leave you without a visa.",
+          "Showing a loan sanction letter without proof of disbursement.",
+          "Copying a GS statement from the internet. Specific, documented answers work better."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files Australian visas from **₹4,950** (service fee; government fees extra). We check your documents against the current Home Affairs checklist, prepare your financial evidence and GS answers, and lodge your application. We have filed **5,000+ visas** with a **98% approval rate**. If you are already in Australia and your case depends on an onshore exemption, we will tell you to speak to a registered migration agent there first. WhatsApp us on **+91 82009 18967**."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "These rules were checked on **25 October 2026** against the Department of Home Affairs, the Federal Register of Legislation, Study Australia and the ministerial release listed below. Student visa settings are changing quickly in 2026, so confirm on immi.homeaffairs.gov.au before you pay any fee."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Home Affairs: Changes to Student visa application rules (subclasses 500 and 590)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590"
+      },
+      {
+        "label": "Department of Home Affairs: Changes to Student visa application rules, fact sheet",
+        "url": "https://immi.homeaffairs.gov.au/Visa-subsite/files/changes-to-student-visa-applications-factsheet.pdf"
+      },
+      {
+        "label": "Department of Home Affairs: Changes to Student visa rules, what you need to do",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590/what-you-need-to-do"
+      },
+      {
+        "label": "Department of Home Affairs: Including or adding family members",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590/family-members"
+      },
+      {
+        "label": "Department of Home Affairs: Student visa (subclass 500), eligibility, English, financial capacity",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500"
+      },
+      {
+        "label": "Department of Home Affairs: Genuine Student requirement",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-temporary-entrant"
+      },
+      {
+        "label": "Department of Home Affairs: Temporary Graduate visa (subclass 485), Post-Higher Education Work stream",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work"
+      },
+      {
+        "label": "Assistant Minister Julian Hill: Student visa integrity reforms take effect today (2 October 2026)",
+        "url": "https://minister.homeaffairs.gov.au/JulianHill/Pages/student-visa-integrity-reforms-take-effect-today.aspx"
+      },
+      {
+        "label": "Federal Register of Legislation: Migration Amendment (Student Visa Reform) Regulations 2026",
+        "url": "https://www.legislation.gov.au/F2026L01347/asmade"
+      },
+      {
+        "label": "Federal Register of Legislation: Home Affairs Legislation Amendment (2026 Measures No. 1) Regulations 2026 and explanatory statement (visa charges from 1 July 2026)",
+        "url": "https://www.legislation.gov.au/F2026L00874/asmade"
+      },
+      {
+        "label": "Study Australia: Student visa application changes, October 2026 update",
+        "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-changes-october-2026"
+      },
+      {
+        "label": "Study Australia: Australia confirms international education settings for 2027 (15 July 2026)",
+        "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/news/australia-confirms-international-education-settings-for-2027"
+      },
+      {
+        "label": "Study Australia: Student visa (subclass 500)",
+        "url": "https://www.studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas/student-visa-subclass-500"
+      }
+    ]
+  },
+  {
+    "slug": "study-abroad-visa-changes-2026-indian-students",
+    "title": "Study Abroad Visa Changes 2026 for Indian Students",
+    "metaTitle": "Study Abroad Visa Changes 2026 for Indians | Travlys",
+    "metaDescription": "Student visa changes 2026 for Indians: US interviews and social media checks, UK Graduate Route cut to 18 months, Canada's cap, Australia's new family rules.",
+    "excerpt": "The US, UK, Australia and Canada all changed their student visa rules in 2025 and 2026. Here is what is actually in force for Indian students in October 2026, country by country, and what is still only a proposal.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 8,
+    "category": "Study abroad",
+    "tags": [
+      "Study abroad",
+      "F-1",
+      "UK Student visa",
+      "Graduate Route",
+      "Canada study permit",
+      "Australia Student visa",
+      "Germany blocked account",
+      "Visa rule updates"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1503221043305-f7498f8b7888?w=1600&h=900&fit=crop",
+    "related": [
+      "australia-student-visa-new-rules-2026-indian-students",
+      "us-visa-changes-2026-indian-applicants",
+      "uk-visa-for-indians-2026-fees-processing-time"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "See student visa help"
+    },
+    "faqs": [
+      {
+        "q": "Is the UK Graduate Route being cut to 18 months?",
+        "a": "Yes, for applications made on or after 1 January 2027. If you apply for the Graduate visa on or before 31 December 2026, you still get 2 years. PhD and other doctoral graduates keep 3 years. What counts is the date you apply, not when your course started, and your university must have reported that you completed your course before you can apply."
+      },
+      {
+        "q": "Can Indian students take their spouse to Australia in 2026?",
+        "a": "Mostly no, for applications lodged on or after 2 October 2026. Partners and children can be included only if an exemption applies, such as doctoral study, a fully funded foreign government scholarship, or DFAT or Defence sponsorship. Family members also cannot be added after the Student visa is granted. Applications lodged before 2 October 2026 are assessed under the old rules."
+      },
+      {
+        "q": "Do Indian master's students need a PAL for Canada in 2026?",
+        "a": "Not if you are enrolled in a master's or doctoral programme at a public designated learning institution. Since 1 January 2026, these students do not need a provincial or territorial attestation letter with their study permit application. Bachelor's, diploma and certificate students, and students at private institutions, generally still need one."
+      },
+      {
+        "q": "Do I need to make my social media public for a US F-1 visa?",
+        "a": "Yes. Since June 2025, the US has reviewed the online presence of F, M and J applicants, and the US Embassy in India asks these applicants to set all social media accounts to public. Do this before your interview and keep them public until your visa is issued. List every handle you have used on your DS-160."
+      },
+      {
+        "q": "How much money is needed in a German blocked account in 2026?",
+        "a": "€11,904 for the first year of study, with withdrawals capped at €992 a month. The German missions in India have used this amount since 1 September 2024 and still listed it in 2026. A scholarship of at least €992 a month or a formal sponsor declaration can replace the blocked account. The Opportunity Card for job seekers needs €1,091 a month."
+      },
+      {
+        "q": "Is OPT being removed for Indian students in the US?",
+        "a": "No. OPT and the STEM OPT extension still work under the same rules in October 2026. On 8 October 2026, DHS proposed fees of $70,000 for a student's first OPT recommendation and $30,000 for later ones, payable by the university. It is only a proposal, with comments open until 9 November 2026, and it is likely to face legal challenge."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "In 2026, studying abroad got harder for most Indian students. The US now interviews almost every F-1 applicant and checks public social media, the UK cuts its Graduate Route to 18 months for applications from 1 January 2027, and Australia raised its fee to A$2,500 and stopped most students bringing family from 2 October 2026. Canada issues fewer permits but has made things easier for master's and PhD students, and Germany is largely unchanged."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**USA:** in-person interview and public social media for F-1; $185 visa fee plus $350 SEVIS fee; fixed-stay rule blocked by a court. **UK:** Graduate visa is 2 years if you apply by 31 December 2026, 18 months after; £558 visa fee; no dependants on taught master's. **Canada:** 408,000 study permits in 2026; no PAL for master's or PhD at public institutions; CA$23,448 living funds. **Australia:** A$2,500 fee; family mostly not allowed from 2 October 2026; A$29,710 living costs. **Germany:** €11,904 blocked account. **New Zealand:** 25 work hours a week in term."
+      },
+      {
+        "type": "h2",
+        "text": "Which country got easier, which got harder"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Harder: USA.** Interviews for nearly all students, public social media and longer vetting. A proposed OPT fee on universities is not in force.",
+          "**Harder: UK.** Shorter Graduate Route from 2027, higher funds since late 2025 and stricter rules for universities.",
+          "**Harder: Australia.** Higher fee, no family for most students, and most people must apply from outside Australia.",
+          "**Mixed: Canada.** Fewer permits and higher funds, but master's and PhD students no longer need a PAL.",
+          "**Stable: Germany.** Same blocked account amount since September 2024.",
+          "**Easier: New Zealand.** 25 hours of work a week during term for visas granted from 3 November 2025."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "USA: interviews, social media checks and an OPT question"
+      },
+      {
+        "type": "p",
+        "text": "Since **2 September 2025**, the interview waiver no longer covers students. Every F-1 applicant needs an in-person interview, including for renewals, and you should apply at a US post in India. Since June 2025, F, M and J applicants go through an online presence review. The US Embassy in India asks you to set every social media account to public before the interview."
+      },
+      {
+        "type": "p",
+        "text": "The visa fee is still **$185**, and the SEVIS I-901 fee is **$350**. A **$250 visa integrity fee** became law in July 2025 and is charged when a visa is issued, but as of 24 October 2026 we could not confirm it is being collected in India. Budget for it anyway."
+      },
+      {
+        "type": "h3",
+        "text": "Duration of status, OPT and H-1B"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Duration of status:** DHS published a rule on 17 July 2026 to replace open-ended stay with fixed admission periods of up to four years and a 30-day grace period. A federal court in Massachusetts blocked it on **14 September 2026**, a day before it was due to start. For now, students are still admitted for duration of status. The case continues.",
+          "**OPT:** still available on the same rules. On 8 October 2026, DHS proposed a **$70,000** fee for a student's first OPT recommendation and **$30,000** for later ones, including STEM OPT, paid by the university. It is a proposal only. Comments close on 9 November 2026.",
+          "**H-1B:** the $100,000 fee on certain new petitions is blocked by court orders, and the lottery is now weighted by wage level. Both matter if you plan to work in the US after OPT."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Practical tip: make sure your social media, DS-160 and statement of purpose tell the same story. Ask your university how it would handle the OPT fee if it is ever finalised."
+      },
+      {
+        "type": "h2",
+        "text": "UK: apply for the Graduate visa before 2027 if you can"
+      },
+      {
+        "type": "p",
+        "text": "The Graduate visa lasts **2 years** if you apply on or before **31 December 2026**, and **18 months** if you apply on or after 1 January 2027. PhD graduates keep 3 years. The date that counts is your application date. If you finish a one-year master's in late 2026, apply as soon as your university reports your completion, and before 31 December."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Dependants:** for courses starting from 1 January 2024, only PhD, other doctoral and research-based postgraduate students, plus government-sponsored students, can bring family. Taught master's students cannot.",
+          "**Funds:** £1,529 a month in London and £1,171 a month elsewhere, for up to 9 months, held for 28 days in a row. These rose in November 2025.",
+          "**Fees:** the Student visa fee is £558 from 8 April 2026, plus the health surcharge of £776 a year.",
+          "**University compliance:** from 1 June 2026, sponsors must keep visa refusals below 5% (it was 10%) and enrolment at 95%. Expect universities to check your finances and intentions more closely.",
+          "**English:** the Student route rules have not changed, but Skilled Worker applicants need B2 English from 8 January 2026. That matters if you plan to switch to a work visa.",
+          "**Employer costs:** the Immigration Skills Charge rose 32% to £1,320 a year for medium and large sponsors from 16 December 2025. The general Skilled Worker salary threshold is £41,700."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A separate levy of **£925 per international student per year** on universities in England is planned from 1 August 2028. Universities pay it, not you directly."
+      },
+      {
+        "type": "h2",
+        "text": "Canada: fewer permits, relief for master's and PhD students"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Cap:** Canada plans to issue 408,000 study permits in 2026, including 155,000 for new students. That is 7% below the 2025 target of 437,000.",
+          "**PAL/TAL:** since **1 January 2026**, master's and doctoral students at public designated learning institutions do not need a provincial attestation letter. Most other students still do.",
+          "**Funds:** for applications from **1 September 2026**, you need **CA$23,448** for one person outside Quebec, on top of tuition and travel.",
+          "**PGWP field of study:** the field-of-study rule applies to college and other non-degree programmes. Bachelor's, master's and PhD graduates are exempt. IRCC says it will not add or remove any fields in 2026.",
+          "**PGWP language:** CLB 7 for university graduates and CLB 5 for college graduates, in all four skills.",
+          "**Spouse work permits:** since 21 January 2025, mainly for spouses of master's students on programmes of 16 months or more, PhD students and certain professional degrees."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you want to work in Canada after study, a degree programme now carries less risk than a one-year college diploma."
+      },
+      {
+        "type": "h2",
+        "text": "Australia: new rules from 2 October 2026"
+      },
+      {
+        "type": "p",
+        "text": "These changes apply to applications lodged on or after 2 October 2026. Student visas already granted are not affected."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fee:** A$2,500 for the main applicant from 1 July 2026, up from A$2,000.",
+          "**Family:** partners and children generally cannot be included. Exemptions cover doctoral students, fully funded foreign government scholarship holders, DFAT or Defence sponsored students, and Pacific and ASEAN nationals. You cannot add family after the visa is granted.",
+          "**Where you apply:** most temporary visa holders, including current students, can no longer apply for a Student visa from inside Australia unless an exemption applies. If you lodge offshore, you must be offshore when the visa is granted.",
+          "**Caps:** the planning level for 2027 is 295,000 new overseas student commencements, the same as 2026. Offshore applications are processed under Ministerial Direction 115, which links priority to your provider's allocation.",
+          "**Funds:** A$29,710 a year for living costs, plus tuition and A$2,000 travel. Or show that a parent or partner earned at least A$87,856 in the last 12 months.",
+          "**After study:** the Temporary Graduate (485) visa charge rose to A$5,750 from 1 July 2026."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Germany: steady amounts, digital applications"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Blocked account:** €11,904 for the first year, with at most €992 released each month. The German missions in India have used this figure since 1 September 2024.",
+          "**How to apply:** through the Consular Services Portal, which asks questions first and then gives you a document list.",
+          "**APS certificate:** usually required if you studied in India. PhD students and some others are exempt.",
+          "**English proof:** Duolingo, Pearson PTE and TOEFL Home Edition are not accepted for applications in India.",
+          "**Opportunity Card:** for job seekers without an offer. You need at least €1,091 a month through a blocked account or a sponsor's formal declaration."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "New Zealand: more work hours"
+      },
+      {
+        "type": "p",
+        "text": "For student visas granted on or after 3 November 2025, you can work up to **25 hours a week** during term, up from 20. If your visa was granted earlier, you need to apply for a variation of conditions, and a fee applies."
+      },
+      {
+        "type": "h2",
+        "text": "What to do now"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Finishing a UK course in 2026? Plan to apply for the Graduate visa before 31 December.",
+          "Married and looking at Australia? Check the family exemptions before you pay a tuition deposit.",
+          "Choosing Canada? Check whether your programme needs a PAL and whether it leads to a PGWP.",
+          "Applying to the US? Make your social media public and keep your DS-160 consistent with it.",
+          "Show funds the way each country asks. The UK wants 28 days of history, Germany wants a blocked account, and Canada and Australia set fixed yearly amounts."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys is an Ahmedabad-based visa consultancy. We have filed **5,000+** visas with a **98% approval rate**. We prepare and file visa applications for the USA (from **₹19,940**), UK (from **₹12,950**), Canada (from **₹14,950**), Australia (from **₹4,950**) and New Zealand (from **₹6,950**). These are our service fees; government fees are extra. WhatsApp us on **+91 82009 18967** to check your documents before you apply."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "These rules were checked on **25 October 2026** against the sources listed below. Several items, including the US duration of status case, the OPT fee proposal and the $250 integrity fee, were still changing on that date. Always confirm on the official sites before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Embassy and Consulates in India: visa service notices (social media, residence)",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Department of State: Interview Waiver Update, 18 September 2025",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/interview-waiver-update-sept-18-2025.html"
+      },
+      {
+        "label": "U.S. Department of State: Expanded screening and vetting for visa applicants",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html"
+      },
+      {
+        "label": "U.S. Department of State: Fees for visa services",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html"
+      },
+      {
+        "label": "Study in the States (DHS): Final rule establishing a fixed time period of admission, July 2026",
+        "url": "https://studyinthestates.dhs.gov/2026/07/dhs-publishes-final-rule-establishing-a-fixed-time-period-of-admission-and-an-extension-of"
+      },
+      {
+        "label": "BAL: Federal court blocks DHS duration of status final rule before effective date, September 2026",
+        "url": "https://www.bal.com/immigration-news/united-states-federal-court-blocks-dhs-duration-of-status-final-rule-before-effective-date/"
+      },
+      {
+        "label": "Federal Register: Optional Practical Training fee proposed rule, 8 October 2026",
+        "url": "https://www.federalregister.gov/d/2026-20660"
+      },
+      {
+        "label": "NAFSA: Optional Practical Training fee rule portal",
+        "url": "https://www.nafsa.org/optional-practical-training-fee-rule-portal"
+      },
+      {
+        "label": "GOV.UK: Graduate visa overview",
+        "url": "https://www.gov.uk/graduate-visa"
+      },
+      {
+        "label": "GOV.UK: Explanatory memorandum to statement of changes HC 1333, 14 October 2025",
+        "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025/explanatory-memorandum-to-the-statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025-accessible"
+      },
+      {
+        "label": "GOV.UK: Student visa, money you need",
+        "url": "https://www.gov.uk/student-visa/money"
+      },
+      {
+        "label": "GOV.UK: Student visa, family members",
+        "url": "https://www.gov.uk/student-visa/family-members"
+      },
+      {
+        "label": "GOV.UK: Home Office immigration and nationality fees, 8 April 2026",
+        "url": "https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-april-2026"
+      },
+      {
+        "label": "GOV.UK: Immigration health surcharge, how much you pay",
+        "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay"
+      },
+      {
+        "label": "GOV.UK: UK visa sponsorship for employers, Immigration Skills Charge",
+        "url": "https://www.gov.uk/uk-visa-sponsorship-employers/immigration-skills-charge"
+      },
+      {
+        "label": "GOV.UK: Skilled Worker visa, your job and salary",
+        "url": "https://www.gov.uk/skilled-worker-visa/your-job"
+      },
+      {
+        "label": "UKCISA: Tightened Basic Compliance Assessment metrics now live",
+        "url": "https://www.ukcisa.org.uk/news/student-sponsorship-tightened-basic-compliance-assessment-metrics-and-new-rag-rating-now-live/"
+      },
+      {
+        "label": "GOV.UK: Introducing an international student levy on higher education providers, 13 July 2026",
+        "url": "https://www.gov.uk/government/publications/introducing-an-international-student-levy-on-higher-education-providers"
+      },
+      {
+        "label": "IRCC (canada.ca): 2026 provincial and territorial allocations under the international student cap",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html"
+      },
+      {
+        "label": "IRCC (canada.ca): Study permit, proof of financial support",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html"
+      },
+      {
+        "label": "IRCC (canada.ca): PGWP eligibility",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html"
+      },
+      {
+        "label": "IRCC (canada.ca): PGWP field of study requirement and 2026 list freeze",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html"
+      },
+      {
+        "label": "IRCC (canada.ca): Open work permits for spouses of students",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html"
+      },
+      {
+        "label": "Department of Home Affairs: Student visa (subclass 500)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500"
+      },
+      {
+        "label": "Department of Home Affairs: Changes to Student visa application rules (500 and 590)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590"
+      },
+      {
+        "label": "Study Australia: Student visa changes, October 2026 update",
+        "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-changes-october-2026"
+      },
+      {
+        "label": "Department of Education (Australia): Managed growth of international education, 2027 arrangements factsheet",
+        "url": "https://www.education.gov.au/download/20474/factsheet-managed-growth-international-education-arrangements-2027/45117/document/docx"
+      },
+      {
+        "label": "German Missions in India: Studies, including preparatory college and language courses",
+        "url": "https://india.diplo.de/in-en/service/2756350-2756350"
+      },
+      {
+        "label": "German Missions in India: National visa FAQs",
+        "url": "https://india.diplo.de/in-en/service/2546328-2546328"
+      },
+      {
+        "label": "German Missions in India: Opportunity Card",
+        "url": "https://india.diplo.de/in-en/service/2756118-2756118"
+      },
+      {
+        "label": "Immigration New Zealand: Upcoming changes to student visa work rights",
+        "url": "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights"
+      }
+    ]
+  },
+  {
+    "slug": "uk-visa-for-indians-2026-fees-processing-time",
+    "title": "UK Visa for Indians 2026: Fees, Processing Time and Documents",
+    "metaTitle": "UK Visa for Indians 2026: Fees and Processing | Travlys",
+    "metaDescription": "UK visitor visa for Indians in 2026 costs £135 for 6 months. Decisions take about 3 weeks, or 5 days with priority. Fees, VFS centres, documents and refusals.",
+    "excerpt": "Indians need a UK Standard Visitor visa, not an ETA. Here are the 2026 fees, processing times in India, VFS centres, the documents that help, the common refusal reasons and what the India-UK trade deal changes.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "UK",
+      "UK visitor visa",
+      "Standard Visitor",
+      "VFS Global",
+      "eVisa",
+      "Transit visa",
+      "India-UK CETA",
+      "Country guides"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-rejection-reasons-india",
+      "study-abroad-visa-changes-2026-indian-students",
+      "visa-rule-changes-for-indians-2026-tracker"
+    ],
+    "cta": {
+      "slug": "uk-visa",
+      "label": "See UK visa help"
+    },
+    "faqs": [
+      {
+        "q": "What is the UK visa fee for Indians in 2026?",
+        "a": "The Standard Visitor visa costs £135 for up to 6 months, from 8 April 2026. Long-term visit visas cost £506 for 2 years, £903 for 5 years and £1,128 for 10 years, and each visit can still last up to 6 months. Priority service adds £500 and super priority adds £1,000. You pay in rupees online, and the fee is not refunded if you are refused."
+      },
+      {
+        "q": "How long does a UK visitor visa take from India?",
+        "a": "Usually about 3 weeks after your biometrics appointment at the visa application centre, according to GOV.UK. If you pay £500 for priority, most decisions come within 5 working days. Super priority, at £1,000, aims for a decision by the end of the next working day. The earliest you can apply is 3 months before you travel."
+      },
+      {
+        "q": "Do Indians need an ETA for the UK?",
+        "a": "No. India is on the UK visa national list, so Indian passport holders need a visa, such as a Standard Visitor visa, to visit. The Electronic Travel Authorisation, which costs £20, is only for nationalities that do not need a visa, such as the US, Canada and EU countries. If you already hold a UK visa, you do not need an ETA as well."
+      },
+      {
+        "q": "Do I need a UK transit visa if I have a US visa?",
+        "a": "Usually not. Indians normally need a Direct Airside Transit visa to change planes in the UK, but a valid US, Canadian, Australian or New Zealand visa exempts you, as long as your onward flight leaves the same day from the same airport and you hold the right documents for your destination. A Schengen visitor (C) visa does not exempt you."
+      },
+      {
+        "q": "Will I get my passport back while my UK visa is processed?",
+        "a": "Yes. GOV.UK says you get your passport back at the end of your visa centre appointment, though the centre may keep some other documents. Since 1 July 2026, the UK no longer puts a visa sticker in your passport. You get an eVisa, which you view in your UKVI online account, so check your passport details there before you fly."
+      },
+      {
+        "q": "Does the India-UK trade deal mean Indians no longer need a UK business visa?",
+        "a": "No. The trade deal, in force since 15 July 2026, does not remove the visa requirement. Indian business travellers still apply for a Standard Visitor visa. The deal locks in commitments such as allowing short-term business visitors to stay up to 90 days in any 6 months for meetings, sales talks and trade fairs without a work permit."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indians need a UK Standard Visitor visa, not an ETA. In 2026 a 6-month visa costs **£135**, and long-term visas cost **£506** (2 years), **£903** (5 years) and **£1,128** (10 years). A decision usually takes about **3 weeks** after your biometrics appointment, or about 5 working days with the £500 priority service."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**6-month visa:** £135. **2, 5 and 10-year visas:** £506, £903 and £1,128. **Standard processing:** about 3 weeks. **Priority:** £500 extra, usually 5 working days. **Super priority:** £1,000 extra, usually by the end of the next working day. **Earliest you can apply:** 3 months before travel. **Longest single visit:** 6 months. **Visa format:** eVisa only, since 1 July 2026. **ETA:** not for Indians. **Where you apply:** VFS Global centres across India."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa fees for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Home Office raised fees on **8 April 2026**. Current visit and transit visa fees for applications made from India are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Standard Visitor, up to 6 months:** £135 (was £127).",
+          "**Long-term visit visa, 2 years:** £506 (was £475).",
+          "**Long-term visit visa, 5 years:** £903 (was £848).",
+          "**Long-term visit visa, 10 years:** £1,128 (was £1,059).",
+          "**Direct Airside Transit visa:** £41.50.",
+          "**Visitor in Transit visa:** £74.50."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A long-term visa lets you visit many times, but each stay is still capped at 6 months, and you must still show that you visit only occasionally. You pay online in rupees, so the exact amount depends on the exchange rate on the day. The fee is not refunded if your application is refused."
+      },
+      {
+        "type": "h2",
+        "text": "Processing time in India: standard, priority and super priority"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Standard:** GOV.UK lists about 3 weeks for visit visas applied for outside the UK, counted from when you give biometrics and documents.",
+          "**Priority Visa:** £500 on top of the visa fee. Most applications get a decision within 5 working days.",
+          "**Super Priority Visa:** £1,000 on top of the visa fee. The aim is a decision by the end of the next working day, depending on when you give biometrics."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "VFS Global offers both paid services at its Indian centres, including Ahmedabad. Availability can vary by centre and date, and you see the options when you book. Paying for speed does not change the decision. Complex cases can take longer than the target, so do not book non-refundable travel on the assumption that you will get a decision in 3 weeks."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa application centres in India"
+      },
+      {
+        "type": "p",
+        "text": "VFS Global runs the UK visa application centres. As of October 2026, its standard centres are in **Ahmedabad, Bengaluru, Chandigarh, Chennai, Cochin, Goa, Gurugram, Hyderabad, Jaipur, Jalandhar, Kolkata, Lucknow, Mumbai (North and South), Mysuru, New Delhi, Pune and Thiruvananthapuram**. Most open Monday to Friday. Jaipur, Lucknow and Thiruvananthapuram open on fewer days."
+      },
+      {
+        "type": "p",
+        "text": "Premium application centres, which cost extra, operate in cities such as Amritsar, Bhopal, Bhubaneswar, Calicut, Coimbatore, Guwahati, Indore, Kottayam, Lucknow, Ludhiana, Mangalore, Noida and Visakhapatnam, often on limited days."
+      },
+      {
+        "type": "p",
+        "text": "VFS also sells optional add-ons. At Ahmedabad, for example, self-upload of documents is free, document upload assistance is **₹2,400**, UKVI account creation help is **₹1,200**, a Prime Time appointment is **₹5,950** and the Premium Lounge is **₹6,050**, including GST. None of these affects the visa decision."
+      },
+      {
+        "type": "h2",
+        "text": "After you apply: an eVisa, not a sticker"
+      },
+      {
+        "type": "p",
+        "text": "At your appointment you give fingerprints and a photo, and you get your passport back the same day. Since **1 July 2026**, UKVI no longer issues visa stickers to new applicants. If you are approved, you get an **eVisa**, a digital record that you view in your UKVI account. Sign in before you travel and check that the passport linked to it is the one you will carry. Visa stickers already issued stay valid until they expire."
+      },
+      {
+        "type": "h2",
+        "text": "Documents that actually matter"
+      },
+      {
+        "type": "p",
+        "text": "The only mandatory items are a valid passport and certified translations of any document not in English or Welsh. Everything else is evidence that you are a genuine visitor. These carry the most weight:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Bank statements** showing where your money comes from. Statements more than a year old count for less. Be ready to explain any large recent deposit.",
+          "**Employer letter** on letterhead stating your role, salary, length of service and approved leave. If you are self-employed, show business registration and recent invoices.",
+          "**Student letter** from your college confirming enrolment and leave, if you are studying.",
+          "**Old passports** showing travel to other countries.",
+          "**Sponsor evidence** if someone else pays: your relationship, their funds and, if they live in the UK, their immigration status."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Home Office guide lists hotel bookings, flight bookings (unless you are transiting), credit card statements and photocopies of bank cards as unhelpful. Do not buy non-refundable tickets before you have a decision."
+      },
+      {
+        "type": "h2",
+        "text": "Common refusal reasons (V 4.2)"
+      },
+      {
+        "type": "p",
+        "text": "Most visitor refusals cite **paragraph V 4.2** of the Immigration Rules. It says you must leave at the end of your visit, not live in the UK through repeated visits, have a genuine reason that is a permitted activity, not do anything prohibited such as work, and be able to pay for your trip without working or using public funds. In practice, refusals often come from:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Funds that do not fit:** a trip cost that looks too high for your income, or money that appeared just before you applied.",
+          "**Weak reasons to return:** no clear job, business or study to come back to, or no leave letter.",
+          "**Unclear purpose:** a vague itinerary, or a plan that looks like work.",
+          "**A sponsor without proof:** someone paying for you without evidence of their funds or your relationship.",
+          "**Inconsistencies:** dates, salary or family details that do not match across forms and documents. False documents can lead to a refusal and a ban on future applications.",
+          "**Undeclared history:** not mentioning an earlier refusal from any country."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "There is no right of appeal against a visit visa refusal. Read the refusal letter, fix the specific points it raises, and reapply with better evidence."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a UK ETA?"
+      },
+      {
+        "type": "p",
+        "text": "No. India is on the UK's **visa national list**, so you need a visa. The Electronic Travel Authorisation, which costs **£20** from 8 April 2026, is for visitors who do not need a visa, such as US, Canadian and European travellers. If you hold a UK visa, you do not need an ETA. Ignore websites that offer you an ETA for an Indian passport."
+      },
+      {
+        "type": "h2",
+        "text": "Transit through the UK"
+      },
+      {
+        "type": "p",
+        "text": "Indian passport holders normally need a **Direct Airside Transit visa** to change planes in the UK without passing through border control. You are exempt if your onward flight leaves the **same day from the same airport** and you hold one of these:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A valid visa for **the USA, Canada, Australia or New Zealand**, even if you are not flying there.",
+          "A permanent residence permit from one of those countries, such as a US green card.",
+          "A residence permit issued by an EEA country or Switzerland, or a long-stay (category D) visa for one of them.",
+          "A valid Irish biometric visa (BC or BC BIVS), if your destination is not Ireland."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A Schengen short-stay (C) visa does **not** exempt you. Electronic visas from other countries are accepted for airside transit only if your airline can verify them. If you must pass through border control, for example to change airports, you need a Visitor in Transit visa and must leave within 48 hours. You are exempt only if your onward flight leaves before 23:59 the next day and you hold a valid US, Canadian, Australian or New Zealand visa for a journey to or from that country, or one of the residence permits listed above. E-visas do not count for this. A Standard Visitor visa covers transit too."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Visit and transit visa fees rose on 8 April 2026.",
+          "Visa stickers stopped on 1 July 2026. Approved applicants now get eVisas.",
+          "The ETA fee rose to £20, but this does not affect Indians.",
+          "The March 2026 visa brake on student visas covers four other nationalities, not India."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The India-UK trade deal and business visitors"
+      },
+      {
+        "type": "p",
+        "text": "The India-UK Comprehensive Economic and Trade Agreement came into force on **15 July 2026**. It does **not** remove the visa requirement. Indian business travellers still apply for a Standard Visitor visa. In the deal, the UK commits to let short-term business visitors stay up to **90 days in any 6 months** for meetings, sales negotiations, trade fairs and after-sales installation or repair work, without a work permit and without UK pay. This is a minimum the UK has promised, not a new visa. The visitor rules already allow stays of up to 6 months."
+      },
+      {
+        "type": "p",
+        "text": "The deal also covers longer work stays. Contractual service suppliers and independent professionals in listed sectors can stay up to 12 months in any 24, with up to **1,800 places a year** for Indian chefs, classical musicians and yoga instructors. These need work visas, not visit visas. A separate social security agreement, in force on the same day, lets workers on temporary assignment pay contributions in one country only."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys is an Ahmedabad-based visa consultancy. We have filed **5,000+** visas with a **98% approval rate**. Our UK visa service starts from **₹12,950**, with government and VFS fees extra. We fill your form, check your documents against V 4.2, book your VFS appointment and set up your UKVI account. WhatsApp us on **+91 82009 18967**."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "These rules were checked on **25 October 2026** against the sources listed below. UK fees, VFS services and processing times change often. Always confirm on GOV.UK and the VFS Global UK India site before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GOV.UK: Visit the UK as a Standard Visitor, apply",
+        "url": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa"
+      },
+      {
+        "label": "GOV.UK: Home Office immigration and nationality fees, 8 April 2026",
+        "url": "https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-april-2026"
+      },
+      {
+        "label": "GOV.UK: Visa processing times, applications outside the UK",
+        "url": "https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk"
+      },
+      {
+        "label": "GOV.UK: Get a faster decision on your visa or settlement application",
+        "url": "https://www.gov.uk/faster-decision-visa-settlement"
+      },
+      {
+        "label": "VFS Global: UK visa application centres in India",
+        "url": "https://visa.vfsglobal.com/ind/en/gbr/attend-centre"
+      },
+      {
+        "label": "VFS Global: UK optional services in India",
+        "url": "https://visa.vfsglobal.com/ind/en/gbr/premium-services"
+      },
+      {
+        "label": "VFS Global: The UK has moved to a digital immigration system, 1 July 2026",
+        "url": "https://visa.vfsglobal.com/ind/en/gbr/news/digital-immigration-update"
+      },
+      {
+        "label": "VFS Global: 12 Premium Application Centres across India, media release, 12 May 2026",
+        "url": "https://www.vfsglobal.com/en/PDF/media-releases/2026/MR_EN_UKPAC_in_India_May_2026.pdf"
+      },
+      {
+        "label": "GOV.UK: Updates on the move to eVisas",
+        "url": "https://www.gov.uk/government/publications/updates-on-the-move-to-evisas/updates-on-the-move-to-evisas"
+      },
+      {
+        "label": "GOV.UK: Visiting the UK, guide to supporting documents",
+        "url": "https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix V: Visitor",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-v-visitor"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix Visitor: Visa national list",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+      },
+      {
+        "label": "GOV.UK: Apply for an electronic travel authorisation (ETA)",
+        "url": "https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta"
+      },
+      {
+        "label": "GOV.UK: Transit visa",
+        "url": "https://www.gov.uk/transit-visa"
+      },
+      {
+        "label": "Home Office Carriers Liaison Section: UK visa requirements poster, August 2026",
+        "url": "https://assets.publishing.service.gov.uk/media/6a708e7f2d9e185c82e5b444/UK_Visa_requirements_August_2026.pdf"
+      },
+      {
+        "label": "GOV.UK: Transit caseworker guidance",
+        "url": "https://www.gov.uk/government/publications/transit-guidance"
+      },
+      {
+        "label": "GOV.UK: Historic UK-India Free Trade Agreement is now in effect, 17 July 2026",
+        "url": "https://www.gov.uk/government/news/historic-uk-india-free-trade-agreement-is-now-in-effect"
+      },
+      {
+        "label": "GOV.UK: UK-India CETA Annex 10A.ii, schedule of the United Kingdom on temporary movement of natural persons",
+        "url": "https://assets.publishing.service.gov.uk/media/687f5e68ae8555bab409a0e5/uk-india-ceta-annex-10aii-schedules-of-specific-commitments-on-temporary-movement-of-natural-persons-schedule-of-the-united-kingdom.pdf"
+      },
+      {
+        "label": "Business.gov.uk: The UK-India trade deal",
+        "url": "https://www.business.gov.uk/campaign/alive-with-opportunity/the-uk-india-trade-deal/"
+      }
+    ]
+  },
+  {
+    "slug": "canada-visitor-visa-from-india-2026",
+    "title": "Canada Visitor Visa from India 2026: Fees, Time, Documents",
+    "metaTitle": "Canada Visitor Visa from India 2026: Fees & Time | Travlys",
+    "metaDescription": "Canada visitor visa from India costs CAD 185 with biometrics. IRCC showed 29 days processing on 21 Oct 2026. Documents, refusal fixes and Super Visa rules.",
+    "excerpt": "Indians still need a full visitor visa (TRV) for Canada in 2026. Here is what it costs, how long IRCC is taking, which documents matter and what to do after a refusal.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "Canada visa",
+      "visitor visa",
+      "TRV",
+      "Super Visa",
+      "IRCC",
+      "visa refusal",
+      "biometrics"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-rejection-reasons-india",
+      "study-abroad-visa-changes-2026-indian-students",
+      "visa-rule-changes-for-indians-2026-tracker"
+    ],
+    "cta": {
+      "slug": "canada-visa",
+      "label": "See Canada visa help"
+    },
+    "faqs": [
+      {
+        "q": "How long does a Canada visitor visa take from India in 2026?",
+        "a": "IRCC's processing-time tool showed 29 days for visitor visa applications from India when it was last updated on 21 October 2026. That figure does not include the time to give biometrics or to get your passport stamped after approval. IRCC updates the tool weekly and the number has moved a lot in 2026, from over 80 days early in the year, so check it on the day you apply."
+      },
+      {
+        "q": "What is the Canada visitor visa fee for Indians?",
+        "a": "The government fee is CAD 100 for the visa plus CAD 85 for biometrics, so CAD 185 per person. A family applying together pays at most CAD 500 in visa fees and CAD 170 in biometrics fees. Fees are paid online in Canadian dollars. The VAC may charge its own service fee on top, and any agent's service fee is extra."
+      },
+      {
+        "q": "Can Indians travel to Canada on an eTA instead of a visa?",
+        "a": "No. India is not on IRCC's list of visa-required countries whose citizens can use an eTA for air travel, even if they hold a US visa or had a Canadian visa before. In 2026 that list has 17 countries, with Indonesia and Malaysia added on 26 May 2026. Indian passport holders still need a visitor visa (TRV)."
+      },
+      {
+        "q": "Do I get a 10-year multiple-entry Canada visa automatically?",
+        "a": "No. Since IRCC's guidance of 6 November 2024, a maximum-validity multiple-entry visa is no longer the default. The officer decides whether to give single or multiple entry and how long the visa lasts, based on your purpose, funds and ties. Many applicants now get visas that match their trip rather than their passport expiry."
+      },
+      {
+        "q": "What should I do after a Canada visitor visa refusal?",
+        "a": "Read the officer decision notes first. Since 29 July 2025 IRCC includes them with most visitor visa refusal letters. If you need the full file, request your GCMS notes free under the Privacy Act. There is no appeal for a visitor visa. You can reapply only with new documents that answer the reasons, or seek judicial review in the Federal Court if the decision was unfair."
+      },
+      {
+        "q": "What is the difference between a Canada visitor visa and a Super Visa?",
+        "a": "A visitor visa usually allows stays of up to six months at a time. A Super Visa is only for parents and grandparents of Canadian citizens and permanent residents. It allows stays of up to five years per entry over a validity of up to 10 years. It needs one year of approved medical insurance, a medical exam and a host who meets the minimum income."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders need a visitor visa, also called a temporary resident visa (TRV), to visit Canada in 2026. The government fee is **CAD 185 per person** (CAD 100 visa plus CAD 85 biometrics), you apply online and give fingerprints at a VFS Global centre in India, and IRCC showed a processing time of **29 days for India** on 21 October 2026. The eTA shortcut does not apply to Indians, even if you hold a US visa."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Visitor visa (TRV), applied online with IRCC. **Government fee:** CAD 100 visa + CAD 85 biometrics. **Family cap:** CAD 500 visa fees, CAD 170 biometrics. **Processing time (India):** 29 days per IRCC's tool, updated 21 October 2026, excluding biometrics. **Biometrics:** At a VAC within 30 days of your instruction letter; valid 10 years. **eTA for Indians:** Not available. **Usual stay:** Up to 6 months per entry, decided at the border. **Super Visa processing (India):** 83 days on the same date."
+      },
+      {
+        "type": "h2",
+        "text": "How long a Canada visitor visa takes from India right now"
+      },
+      {
+        "type": "p",
+        "text": "IRCC publishes country-wise times on its **Check processing times** tool. For visitor visas applied from India, it showed **29 days** on its 21 October 2026 update. IRCC says the tool is updated weekly, and the number swings. Early in 2026 it was above 80 days. So treat any figure you read in a blog, including this one, as a snapshot."
+      },
+      {
+        "type": "p",
+        "text": "Three things add time that the tool does not count. First, the wait for your biometrics appointment. Second, any request for more documents or a medical exam. Third, passport submission after approval, when you send your passport to the VAC for the visa counterfoil and wait for it to come back. Plan for at least six to eight weeks from application to passport in hand, and more in the busy April to July season."
+      },
+      {
+        "type": "h2",
+        "text": "Fees and what you actually pay"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa fee:** CAD 100 per person, single or multiple entry.",
+          "**Biometrics:** CAD 85 per person, or CAD 170 maximum for a family applying together.",
+          "**Family visa cap:** CAD 500 for five or more family members applying at the same time and place.",
+          "**Super Visa:** CAD 100 plus biometrics, with the medical exam and insurance as separate costs.",
+          "**VAC charges:** VFS Global may charge for optional services such as courier or passport return. Appointments themselves are free, so never pay anyone for a slot."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Government fees are paid online by card in Canadian dollars, so the rupee amount depends on your card's exchange rate on the day. Fees are not refunded if you are refused."
+      },
+      {
+        "type": "h2",
+        "text": "Biometrics at a VAC in India"
+      },
+      {
+        "type": "p",
+        "text": "After you pay, IRCC sends a **biometric instruction letter**. You have **30 days** from the date on that letter to give fingerprints and a photo. IRCC lists 10 collection sites in India: Ahmedabad, Bengaluru, Chandigarh, Chennai, Hyderabad, Jalandhar, Kolkata, Mumbai, New Delhi and Pune. All are run by VFS Global."
+      },
+      {
+        "type": "p",
+        "text": "Biometrics for temporary residence stay valid for **10 years**. If you gave them for a Canadian visa or study permit in the last decade, you may not need to give them again. Children under 14 and applicants over 79 are exempt. One catch: IRCC cannot issue a visa that runs past your biometrics expiry, so old biometrics can mean a shorter visa."
+      },
+      {
+        "type": "h2",
+        "text": "Documents that decide your case"
+      },
+      {
+        "type": "p",
+        "text": "Officers refuse most visitor visas on one ground: they are not satisfied you will leave Canada at the end of your stay. Every document should answer that question."
+      },
+      {
+        "type": "h3",
+        "text": "Ties to India"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Employer letter with designation, salary, joining date and approved leave dates.",
+          "For business owners: GST registration, company documents and business bank statements.",
+          "Property papers, family dependants in India, ongoing studies or a return ticket plan.",
+          "Past travel: old visas and stamps for the US, UK, Schengen, Australia or similar help a lot."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Funds"
+      },
+      {
+        "type": "p",
+        "text": "IRCC sets no fixed bank balance for visitors. Show that the trip is affordable for your income. Six months of bank statements, the last two or three years of ITR acknowledgements and salary slips work better than one large balance. A sudden big deposit just before applying is a common red flag, so explain any unusual credit."
+      },
+      {
+        "type": "h3",
+        "text": "Purpose and invitation letters"
+      },
+      {
+        "type": "p",
+        "text": "Write a short, specific travel plan: dates, cities, where you will stay and who pays. If you are visiting family, attach an **invitation letter** from your host with their full name, address, phone, status in Canada (citizen, PR or permit holder with a copy of the document), your relationship, the purpose and length of your visit, and who covers costs. Add the host's job letter or tax notice if they are funding you. A letter alone does not get a visa approved. It only supports your own ties and funds."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2024 to 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Multiple entry is not the default (from 6 November 2024):** Officers now choose single or multiple entry and the validity period case by case. A 10-year visa is no longer the standard.",
+          "**Visa cancellation powers (in force 31 January 2025, announced 12 February 2025):** Officers can cancel a TRV or eTA if, for example, your circumstances change, you gave false information, or they are not satisfied you will leave Canada at the end of your stay.",
+          "**Bill C-12 (Royal Assent 26 March 2026):** Lets the federal Cabinet cancel, suspend or pause groups of immigration documents and applications in the public interest.",
+          "**Officer decision notes (from 29 July 2025):** Most visitor visa and Super Visa refusals now come with the officer's notes explaining why.",
+          "**Super Visa income (from 31 March 2026):** Hosts can use either of the two previous tax years, or combine their income with the visiting parent's income if they meet a minimum share themselves.",
+          "**Digital visa pilot (from 27 November 2025):** Limited to a small group of approved Moroccan applicants. It does not cover India, so you still get a counterfoil in your passport.",
+          "**eTA expansion (26 May 2026):** Added Indonesia and Malaysia only. India is not included."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common refusal reasons and how to respond"
+      },
+      {
+        "type": "p",
+        "text": "Typical reasons on Indian refusal letters are weak family or economic ties, limited travel history, funds that do not match the trip, and an unclear purpose of visit. Here is how to respond."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Read the decision notes.** They come with most refusal letters since July 2025 and tell you what the officer actually doubted.",
+          "**Get your GCMS notes if you need more detail.** You can request your full file free under the Privacy Act through IRCC's ATIP online portal, from anywhere in the world. Expect it to take weeks.",
+          "**Reapply only with something new.** IRCC says the same documents will likely get the same result. Fix each point in the notes with fresh evidence and a short cover letter.",
+          "**There is no appeal for a visitor visa.** If the decision was unfair or unreasonable, the route is judicial review in the Federal Court of Canada, which has strict deadlines and needs a Canadian lawyer.",
+          "**Declare the refusal.** Every later application to Canada, and to many other countries, asks about past refusals. Hiding one is worse than the refusal itself."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Super Visa for parents and grandparents"
+      },
+      {
+        "type": "p",
+        "text": "If your child or grandchild is a Canadian citizen or permanent resident, the Super Visa lets you stay **up to five years per entry**, with multiple entries over **up to 10 years**. It costs CAD 100 plus biometrics. You need private medical insurance from a Canadian insurer (or an IRCC-approved foreign one) valid for at least one year from entry, with at least **CAD 100,000** emergency coverage. You also need an immigration medical exam, and a signed invitation letter from a host who meets the minimum necessary income for their family size. IRCC's tool showed **83 days** for Super Visas from India on 21 October 2026. You cannot include dependants on a Super Visa application."
+      },
+      {
+        "type": "p",
+        "text": "**Who should pick which:** if your parents plan a trip of a few months, a regular visitor visa is cheaper and faster. If they will spend long stretches with you every year, the Super Visa saves repeated applications and border questions about long stays."
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes to avoid"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Booking non-refundable flights before the visa is approved.",
+          "Uploading bank statements without explaining large or recent deposits.",
+          "Leaving the purpose-of-travel section vague or copying a template letter.",
+          "Missing the 30-day biometrics deadline.",
+          "Giving a different job title or salary than an earlier Canadian or US application."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys is an Ahmedabad-based visa consultancy. We file Canada visitor visas from **₹14,950** (service fee; government fees extra). We check your ties, funds and travel history, prepare the travel plan and invitation-letter checklist, and help you rebuild a file after a refusal using the officer's notes. We have filed 5,000+ visas with a 98% approval rate. WhatsApp us on +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules, fees and processing times in this guide were checked on 25 October 2026 against the IRCC and Parliament of Canada sources listed below. Processing times change weekly, so confirm on IRCC's tool before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IRCC: Check processing times",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+      },
+      {
+        "label": "IRCC: Fee list",
+        "url": "https://ircc.canada.ca/english/information/fees/fees.asp"
+      },
+      {
+        "label": "IRCC: Visitor visa (temporary resident visa)",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html"
+      },
+      {
+        "label": "IRCC: Biometrics, when to give for temporary residence",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/when-to-give-temporary-residence.html"
+      },
+      {
+        "label": "IRCC: Biometrics, where to give your fingerprints and photo",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/where-to-give.html"
+      },
+      {
+        "label": "IRCC: Program delivery update, issuing a visa (6 November 2024)",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2024-issuing-visa.html"
+      },
+      {
+        "label": "IRCC: New rules to strengthen temporary resident document cancellations",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/new-rules-strengthen-temporary-resident-document-cancellations-border-security-integrity.html"
+      },
+      {
+        "label": "Parliament of Canada LEGISinfo: Bill C-12 (45-1)",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-12"
+      },
+      {
+        "label": "IRCC: Explaining application refusals, officer decision notes",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/officer-decision-notes.html"
+      },
+      {
+        "label": "IRCC: How to make a request under the Privacy Act",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/request-privacy-act.html"
+      },
+      {
+        "label": "IRCC Help Centre: My visitor visa was refused. Should I apply again?",
+        "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1485&top=16"
+      },
+      {
+        "label": "IRCC: Testing digital visas",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/testing-digital-visas.html"
+      },
+      {
+        "label": "IRCC: eTA for citizens from some visa-required countries",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html"
+      },
+      {
+        "label": "IRCC: Super visa for parents and grandparents",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html"
+      },
+      {
+        "label": "IRCC: Super visa forms and documents",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html"
+      },
+      {
+        "label": "IRCC: Changes to how the super visa income requirement is calculated",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/changes-parents-grandparents-super-visa-income-requirement-calculated.html"
+      }
+    ]
+  },
+  {
+    "slug": "japan-visa-for-indians-2026",
+    "title": "Japan Visa for Indians 2026: eVISA, Fees, Documents, Timeline",
+    "metaTitle": "Japan Visa for Indians 2026: eVISA, Fees & Documents | Travlys",
+    "metaDescription": "Indians apply for a Japan tourist visa at VFS and get a single-entry eVISA on their phone. Visa fee ₹500 plus VFS charges; allow 5 to 12 working days.",
+    "excerpt": "Japan still needs a visa for Indian passport holders, but tourist visas are now issued electronically after you apply at VFS. Here is the 2026 fee, document list, timeline and a simple 7-day first trip.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "Japan",
+      "Japan visa",
+      "eVISA",
+      "VFS Global",
+      "Cherry blossom",
+      "JR Pass",
+      "Indian passport"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1600&h=900&fit=crop",
+    "related": [
+      "vietnam-e-visa-for-indians-2026",
+      "visa-free-countries-for-indians-2026",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Japan in 2026?",
+        "a": "Yes. Indian passport holders need a visa to enter Japan, including for a holiday. For a tourist trip you apply at a Japan Visa Application Centre run by VFS Global, and a single-entry tourist visa is now issued as an electronic eVISA instead of a passport sticker. JESTA, Japan's planned travel authorisation, is for visa-exempt nationals and does not replace your visa."
+      },
+      {
+        "q": "Can Indians apply for the Japan eVISA online by themselves?",
+        "a": "No. Japan's Ministry of Foreign Affairs lists India among the places where the eVISA must go through an accredited agency, which in India is VFS Global. You submit your form and documents at a VFS centre as before. The difference is the result: an approved single-entry tourist visa arrives as an eVISA, and you show the visa issuance notice on your phone at the airport."
+      },
+      {
+        "q": "What is the Japan visa fee for Indians in 2026?",
+        "a": "The visa fee for Indian nationals is ₹500 for a single-entry or multiple-entry visa. Japan raised fees for other nationalities from 1 July 2026, but the Indian rate stayed at ₹500. On top of that, VFS charges a service fee of ₹800 per application (the Mumbai page says GST is extra), and ₹550 if you choose courier return."
+      },
+      {
+        "q": "How long does a Japan tourist visa take from India?",
+        "a": "Plan for at least one to two weeks. The Consulate-General in Mumbai says processing takes a minimum of 5 working days, and VFS lists indicative times of 10 days for Mumbai and 12 days for Ahmedabad, Pune and Goa. Applications cannot be expedited, and you can apply no earlier than 3 months before your travel date."
+      },
+      {
+        "q": "How much bank balance do I need for a Japan visa?",
+        "a": "There is no official minimum balance. You need to show you can pay for the trip yourself, usually with recent bank statements and your income tax returns. The Mumbai jurisdiction asks for the last 3 months of statements and personal ITR; Kolkata asks for 6 months of stamped statements and 3 years of ITR. A balance that comfortably covers flights, hotels and daily costs is what matters."
+      },
+      {
+        "q": "Is JESTA required for Indian travellers to Japan?",
+        "a": "No. JESTA is Japan's planned online pre-travel authorisation for nationals who can visit Japan without a visa, similar to the US ESTA. Japan's Cabinet approved the bill in March 2026 and launch is reported to be targeted for fiscal 2028. Indians need a visa, so JESTA does not apply to you. Ignore any website selling a JESTA today."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes, Indian passport holders still need a visa for Japan, but for a tourist trip it is now electronic. You submit your application at a Japan Visa Application Centre run by VFS Global, and if approved you get a **single-entry JAPAN eVISA** for tourism instead of a sticker in your passport. The visa fee for Indians is **₹500** plus VFS charges, and processing takes a minimum of 5 working days."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Who needs it:** All Indian passport holders. **eVISA for India:** Available since 1 April 2024, single-entry tourism only, applied through VFS Global. **Visa fee:** ₹500 for Indians, single or multiple entry. **VFS service fee:** ₹800 per application, courier ₹550 extra. **Processing:** Minimum 5 working days; VFS shows 10 days for Mumbai and 12 days for Ahmedabad, Pune and Goa. **Earliest you can apply:** 3 months before travel. **Stay allowed:** 15, 30 or 90 days, granted on arrival. **Appointments:** Compulsory at Mumbai, Pune, Ahmedabad and Goa from 19 October 2026."
+      },
+      {
+        "type": "h2",
+        "text": "Is the JAPAN eVISA available to Indians?"
+      },
+      {
+        "type": "p",
+        "text": "Yes, with one catch. Japan's Ministry of Foreign Affairs (MOFA) lists India among the places where the eVISA must be applied for through an accredited agency. In India that agency is VFS Global. The Embassy of Japan says the eVISA started in India on **1 April 2024**, and that you still submit at a VFS centre as before. Only the end result changes: the visa is issued electronically."
+      },
+      {
+        "type": "p",
+        "text": "The fully online, do-it-yourself eVISA website is currently open to residents of a short list of countries such as the USA, UK, Canada and Australia. Indian residents cannot use it directly. Any site offering to file a \"Japan eVISA online\" for Indians without VFS is not the official route."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who qualifies:** Indian nationals, and foreign nationals living in India, with an ordinary passport.",
+          "**Visa type:** Single-entry short-term visa for tourism, for stays of up to 90 days.",
+          "**Travel mode:** Arrival by air, or on certain scheduled ferries.",
+          "**Not covered:** Business trips, visiting relatives and multiple-entry visas. These are still issued as passport stickers."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Common mistake",
+        "text": "At the airport you must show the **visa issuance notice** live on your phone, with internet access. MOFA says a PDF, screenshot or printout is not accepted. Make sure your phone has roaming data or Wi-Fi at check-in in India and on arrival in Japan."
+      },
+      {
+        "type": "h2",
+        "text": "Where and how to apply"
+      },
+      {
+        "type": "p",
+        "text": "Japan's Embassy in New Delhi and its consulates each cover a region of India. Gujarat falls under the Consulate-General in Mumbai, which serves applicants through VFS centres in Mumbai, Ahmedabad, Pune and Goa. Since 20 April 2026 the Mumbai consulate no longer accepts applications directly; everything goes through VFS."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Book a slot if your centre needs one.** From 19 October 2026, Mumbai, Pune, Ahmedabad and Goa accept applications by prior appointment only. Rules differ at other centres, so check the VFS Japan site for yours.",
+          "**Fill in and sign the visa application form** and arrange your documents in checklist order on A4 paper.",
+          "**Submit in person at VFS.** A relative or travel agent can submit for you with an authorisation letter.",
+          "**Pay the fees at the centre.** Mumbai, Pune, Ahmedabad and Goa accept card, cash and UPI.",
+          "**Track your application** on the VFS website with the reference number on your receipt."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Japan visa fees for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "Japan raised visa fees for most nationalities from 1 July 2026. At Japanese posts in India, other nationals now pay ₹8,650 for a single-entry visa and ₹17,350 for multiple entry. **Indian nationals still pay ₹500** for either. Japan has also abolished the separate transit visa."
+      },
+      {
+        "type": "p",
+        "text": "VFS adds a service charge of **₹800** per application. The Mumbai page says GST is charged on top, while the Kolkata page says it is included, so confirm at your centre. Courier return of your passport costs ₹550. In practice, budget roughly **₹1,450 to ₹2,000 per person**. VFS says the visa fee is refunded only if the visa is not approved; service charges are not refunded."
+      },
+      {
+        "type": "h2",
+        "text": "Documents checklist for a self-funded tourist trip"
+      },
+      {
+        "type": "p",
+        "text": "MOFA's standard list for tourism is short. VFS centres in India add their own requirements, and these differ by region. This is what applicants in the Mumbai and Ahmedabad jurisdiction should prepare:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport valid for at least 6 months from your date of entry, plus copies of the bio pages.",
+          "Signed visa application form and one recent photo with a white background, in the size your centre's checklist specifies.",
+          "Flight reservation showing your arrival and departure dates. MOFA says tickets and hotels do not need to be paid for at the time of application.",
+          "Day-by-day itinerary in Japan with hotel names, addresses and phone numbers.",
+          "Personal bank statements for the last 3 months.",
+          "Personal income tax returns (ITR). Kolkata asks for 3 years; Mumbai's page does not state a number, so carry at least the last 2 to 3 years.",
+          "Government address proof (such as Aadhaar) if your passport was issued outside the consulate's region."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "MOFA says documents should be issued within the last three months. Common reasons for delays are unexplained large deposits just before applying, an itinerary that does not match the flight dates, and missing ITRs for self-employed applicants."
+      },
+      {
+        "type": "h2",
+        "text": "Processing time and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "The Mumbai consulate says processing takes a **minimum of 5 working days** and cannot be expedited. VFS lists indicative times of 10 days for Mumbai and 12 days for Ahmedabad, Pune and Goa. If the consulate asks for extra documents, the clock effectively restarts."
+      },
+      {
+        "type": "p",
+        "text": "You can apply no earlier than **3 months before your travel date**. A sensible window is 4 to 8 weeks before departure, which leaves room for a slow application without pushing up flight prices."
+      },
+      {
+        "type": "h2",
+        "text": "Single-entry or multiple-entry: which one?"
+      },
+      {
+        "type": "p",
+        "text": "A single-entry visa must be used within 3 months of issue and lapses once you enter Japan. The immigration officer on arrival grants a stay of **15, 30 or 90 days**, usually matched to your itinerary."
+      },
+      {
+        "type": "p",
+        "text": "Indians can also apply for a **multiple-entry visa valid for up to 5 years**, with stays of up to 90 days each, for tourism, business or visiting friends. You qualify if you fall into one of these groups:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Two or more visits to Japan in the last three years.",
+          "One visit to Japan in the last three years, plus financial capacity shown through ITR or a deposit certificate.",
+          "A visit to Japan and visits to other G7 countries in the last three years.",
+          "Sufficient financial capacity on its own, shown mainly through ITR. Spouses and children can apply alongside."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The consulate may still issue a single-entry visa after review. A multiple-entry visa is a passport sticker, not an eVISA. If this is your first trip and your income is modest, a single-entry visa is the simpler choice."
+      },
+      {
+        "type": "h2",
+        "text": "JESTA: does it affect Indians?"
+      },
+      {
+        "type": "p",
+        "text": "JESTA is Japan's planned online travel authorisation for visitors who do **not** need a visa, similar to the US ESTA. Japan's Cabinet approved the bill in March 2026, and reports say the launch is targeted for fiscal 2028. Because Indians need a visa, JESTA will not replace or change your visa process. No JESTA applications are being taken today."
+      },
+      {
+        "type": "h2",
+        "text": "Cherry blossom 2027: when to apply"
+      },
+      {
+        "type": "p",
+        "text": "Cherry blossoms usually open in late March in Tokyo and in late March or early April in Kyoto and Osaka. Official bloom forecasts appear in early 2027, and the peak lasts only about a week in each city."
+      },
+      {
+        "type": "p",
+        "text": "Since you can apply only within 3 months of travel, a trip starting around 1 April 2027 opens its visa window in early January 2027. Book refundable flights and hotels early, then submit in January or the first half of February. Other good seasons are autumn leaves (roughly mid-November to early December in Kyoto) and late spring. Avoid Golden Week in late April and early May, when domestic travel peaks."
+      },
+      {
+        "type": "h2",
+        "text": "A practical 7-day first trip: Tokyo, Kyoto, Osaka"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Day 1 (Tokyo):** Arrive, buy a rechargeable IC card for trains, and walk around Shinjuku or Shibuya.",
+          "**Day 2 (Tokyo):** Asakusa and Senso-ji in the morning, Ueno or Akihabara after lunch, Tokyo Skytree or Shibuya Sky at sunset.",
+          "**Day 3 (Tokyo):** Meiji Shrine and Harajuku, then Ginza or teamLab. Add a day trip to Hakone or Kamakura if you prefer nature.",
+          "**Day 4 (to Kyoto):** Shinkansen to Kyoto in the morning, Gion and Higashiyama in the evening.",
+          "**Day 5 (Kyoto):** Fushimi Inari early, before the crowds, then Kiyomizu-dera. Go to Arashiyama on another morning if you can.",
+          "**Day 6 (Nara and Osaka):** Half day at Nara Park and Todai-ji, then move to Osaka for Dotonbori in the evening.",
+          "**Day 7 (Osaka):** Osaka Castle and Kuromon Market, then fly home from Kansai Airport."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If your airline allows it, book an open-jaw ticket, flying into Tokyo and out of Osaka, so you do not backtrack. Vegetarians should save restaurants in advance; options are good in big cities but thin in smaller towns."
+      },
+      {
+        "type": "callout",
+        "label": "JR Pass note",
+        "text": "The 7-day ordinary Japan Rail Pass now costs **¥50,000 bought online** or **¥53,000 through an overseas agency**, after the price revision of 1 October 2026; the online price was kept unchanged for a limited time, so check before you buy. For a straight Tokyo to Kyoto to Osaka route, separate one-way shinkansen tickets usually work out cheaper. Compare before you buy."
+      },
+      {
+        "type": "p",
+        "text": "Two more tips. Fill in Visit Japan Web before you fly to speed up immigration and customs. And do not carry meat products, vegetables or fruit into Japan; the Embassy warns about this specifically."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file Japan visas, so apply through VFS directly using the checklist above. We can help you plan the rest of the trip around your visa timeline. If you are adding a stopover, we file Singapore visas from ₹2,950 and Thailand visas from ₹1,950 (service fee, government fees extra), along with USA, UK, Schengen, Canada and Australia visas. We have filed 5,000+ visas with a 98% approval rate. WhatsApp us on +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules, fees and timelines in this guide were checked on 25 October 2026 against the sources listed below. Visa rules change without much notice, so check the official site before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of Japan in India: Visa",
+        "url": "https://www.in.emb-japan.go.jp/itpr_en/Visa.html"
+      },
+      {
+        "label": "Embassy of Japan in India: The JAPAN eVISA system",
+        "url": "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01148.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: The JAPAN eVISA system (electronic visa)",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: Validity of a Visa",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/procedure/validity.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: Checklist for Single-Entry Short-Term Stay Visa (PDF)",
+        "url": "https://www.mofa.go.jp/files/000121327.pdf"
+      },
+      {
+        "label": "Consulate-General of Japan in Mumbai: Visa",
+        "url": "https://www.mumbai.in.emb-japan.go.jp/itpr_en/visa_information.html"
+      },
+      {
+        "label": "Embassy of Japan in India: Application Procedures for Multiple Visa for Nationals of India (PDF)",
+        "url": "https://www.in.emb-japan.go.jp/files/100701529.pdf"
+      },
+      {
+        "label": "VFS Global: Japan visa, appointment-only submissions from 19 October 2026",
+        "url": "https://visa.vfsglobal.com/ind/en/jpn/news/walk-in-submissions"
+      },
+      {
+        "label": "VFS Global: Japan visa information, Mumbai jurisdiction",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html"
+      },
+      {
+        "label": "VFS Global: Japan visa information, Kolkata",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/kolkata/index.html"
+      },
+      {
+        "label": "Immigration Services Agency of Japan: Temporary Visitor status",
+        "url": "https://www.moj.go.jp/isa/applications/status/temporaryvisitor.html"
+      },
+      {
+        "label": "Japan Rail Pass (official): Types and prices",
+        "url": "https://japanrailpass.net/en/purchase/price/"
+      },
+      {
+        "label": "JNTO: Price increases are coming to the nationwide Japan Rail Pass (2026)",
+        "url": "https://www.japan.travel/en/ca/news/price-increases-are-coming-to-the-nationwide-japan-rail-pass-2026/"
+      },
+      {
+        "label": "Travel Watch (Impress): Cabinet approves bill introducing JESTA",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093708.html"
+      },
+      {
+        "label": "Business Today: Visa-free tourists to Japan will need JESTA from 2028",
+        "url": "https://www.businesstoday.in/amp/nri/visa/story/heading-to-japan-in-2028-visa-free-tourists-will-need-digital-ok-under-new-jesta-rule-487522-2025-08-02"
+      }
+    ]
+  },
+  {
+    "slug": "vietnam-e-visa-for-indians-2026",
+    "title": "Vietnam e-Visa for Indians 2026: Fee, Official Site, Phu Quoc",
+    "metaTitle": "Vietnam e-Visa for Indians 2026: Fee & Rules | Travlys",
+    "metaDescription": "Indians apply for Vietnam's e-visa on evisa.gov.vn: USD 25 single entry, USD 50 multiple, up to 90 days, 3 working days. Phu Quoc is visa-free for 30 days.",
+    "excerpt": "Indians need a visa for Vietnam, and the e-visa on the official portal is the easiest route: USD 25 or USD 50, up to 90 days. Phu Quoc island is the one visa-free exception.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 8,
+    "category": "Travel planning",
+    "tags": [
+      "Vietnam",
+      "Vietnam e-visa",
+      "Phu Quoc",
+      "Da Nang",
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Indian passport"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1600&h=900&fit=crop",
+    "related": [
+      "philippines-visa-free-for-indians-2026",
+      "thailand-visa-free-for-indians-2026",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Vietnam?",
+        "a": "Yes. India is not on Vietnam's list of countries with visa-free entry for ordinary passports, so Indian tourists need a visa. The easiest option is the e-visa from Vietnam's Immigration Department portal, evisa.gov.vn. The one exception is Phu Quoc island, where any foreigner can stay up to 30 days without a visa if they arrive directly and stay on the island."
+      },
+      {
+        "q": "What is the official Vietnam e-visa website?",
+        "a": "The official portal is evisa.gov.vn, with thithucdientu.gov.vn as a second official address. Vietnam's Immigration Department moved the e-visa system to these two domains on 11 November 2024. Many private websites use similar names, flags and seals and charge extra. Type the address yourself rather than clicking a search ad, and check that it ends in .gov.vn."
+      },
+      {
+        "q": "How much is the Vietnam e-visa for Indians in 2026?",
+        "a": "The government fee is USD 25 for a single-entry e-visa and USD 50 for a multiple-entry e-visa of up to 90 days. Vietnam's fee circular that took effect on 1 April 2026 kept these amounts. The fee is paid online on the portal and is not refunded if your application is refused. Your bank may add a small foreign currency charge."
+      },
+      {
+        "q": "How long does the Vietnam e-visa take?",
+        "a": "Vietnam's Ministry of Public Security says applications are processed within 3 working days of receiving a complete application and the fee. Weekends, Vietnamese public holidays and errors in your form can stretch this. Apply at least two to three weeks before you fly, and longer before Tet (Lunar New Year) or the Christmas and New Year peak."
+      },
+      {
+        "q": "Can Indians visit Phu Quoc without a visa?",
+        "a": "Yes. Vietnam's Ministry of Foreign Affairs lists a 30-day visa exemption for foreigners entering Phu Quoc, with no nationality restriction, so it covers Indian passport holders. You must arrive from abroad, either directly or by staying in the international transit area of another Vietnamese airport, and stay on Phu Quoc. To visit the mainland you need a visa, such as an e-visa."
+      },
+      {
+        "q": "Can I use a Vietnam e-visa for multiple entries?",
+        "a": "Yes. Since 15 August 2023, Vietnam's e-visa can be issued for single or multiple entries, with a maximum validity of 90 days. A multiple-entry e-visa costs USD 50 and suits trips that loop into Cambodia, Laos or Thailand and back. Choose the entry type carefully when you apply, because you cannot change it afterwards."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indians need a visa for Vietnam, and the easiest option is the e-visa from the official portal, **evisa.gov.vn**. It costs **USD 25 for single entry or USD 50 for multiple entry**, is valid for up to 90 days, and is processed within about 3 working days. The one exception is Phu Quoc island, where any foreigner can stay up to 30 days without a visa."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Official portal:** evisa.gov.vn or thithucdientu.gov.vn. **Fee:** USD 25 single entry, USD 50 multiple entry, unchanged under the fee circular effective 1 April 2026. **Validity:** Up to 90 days, single or multiple entry, since 15 August 2023. **Processing:** Within 3 working days after a complete application and payment. **Refund:** None if refused. **Entry points:** 83 airports, land borders and seaports accept e-visas. **Phu Quoc:** 30 days visa-free for all nationalities on the island only. **Passport:** At least 6 months' validity."
+      },
+      {
+        "type": "h2",
+        "text": "The official portal, and how to avoid look-alike sites"
+      },
+      {
+        "type": "p",
+        "text": "Vietnam's Immigration Department moved the e-visa system to **evisa.gov.vn** and **thithucdientu.gov.vn** on 11 November 2024. These are the only addresses you need. Search results are full of private sites with \"Vietnam e-visa\" in the name, the national flag and official-looking seals. They charge you the government fee plus their own markup, and some never file anything."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Type evisa.gov.vn yourself. Do not click sponsored search results.",
+          "Check that the address ends in **.gov.vn**. A .com, .org or .vn address without .gov is not the government portal.",
+          "The government fee is only USD 25 or USD 50. A quote much higher than that is a service fee.",
+          "Pay only on the portal's own payment page, and save your registration code so you can check the result later."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Vietnam e-visa fee in 2026"
+      },
+      {
+        "type": "p",
+        "text": "Vietnam's Finance Ministry issued a new circular on immigration fees, Circular 28/2026/TT-BTC, effective **1 April 2026**. According to the Government News portal, it keeps the visa fee at **USD 25 for single entry** and **USD 50 for multiple entry up to 90 days**. The Immigration Department states that the e-visa fee is paid through its online payment gateway and is **not refunded if the application is refused**."
+      },
+      {
+        "type": "p",
+        "text": "For a family of four on single-entry visas, that is USD 100 in government fees. Pay with an international debit or credit card, and expect your bank's usual foreign currency charge on top."
+      },
+      {
+        "type": "h2",
+        "text": "Validity, processing time and how to apply"
+      },
+      {
+        "type": "p",
+        "text": "Since 15 August 2023, Vietnam's e-visa can be issued for **up to 90 days, single or multiple entry**, to citizens of all countries. You choose the start and end dates on the form, and you must enter and leave within those dates. The Ministry of Public Security says applications are decided within **3 working days** of receiving a complete application and the fee."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Keep ready a colour scan of your passport bio page and a recent front-facing photo on a white background, without glasses.",
+          "Your passport should have at least 6 months' validity when you enter.",
+          "Fill in your name exactly as printed in the passport, plus your planned address in Vietnam and your intended entry and exit points.",
+          "Pay the fee, note your registration code, and check the result on the portal after 3 working days.",
+          "Download the approved e-visa, check every detail, and carry a printout as well as a copy on your phone."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Common mistakes",
+        "text": "Typing the passport number or date of birth wrongly, swapping first name and surname, uploading a selfie with glasses or a busy background, and picking an entry date later than your actual arrival. Any of these can mean a refusal or a fresh application with a fresh fee."
+      },
+      {
+        "type": "p",
+        "text": "Apply at least two to three weeks before you fly, and earlier before Tet (Lunar New Year falls on 6 February in 2027) or the December holiday peak. Choose multiple entry if you plan a loop into Cambodia, Laos or Thailand and back."
+      },
+      {
+        "type": "h2",
+        "text": "Which entry points accept the e-visa?"
+      },
+      {
+        "type": "p",
+        "text": "A Government resolution dated 2 December 2025 added 41 more checkpoints, bringing the total to **83**: 17 airports, 27 land borders and 39 seaports, according to Vietnam News. For Indian travellers the main airports are Noi Bai (Hanoi), Tan Son Nhat (Ho Chi Minh City), Da Nang, Cam Ranh (Nha Trang) and Phu Quoc. The new Long Thanh airport near Ho Chi Minh City will accept e-visas once it opens. Check that both your entry and exit points are on the official list before you book."
+      },
+      {
+        "type": "h2",
+        "text": "Phu Quoc visa exemption: does it apply to Indians?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. Vietnam's Ministry of Foreign Affairs lists a **30-day visa exemption** for foreigners entering Phu Quoc, with no restriction by nationality. It also covers travellers who stay in the international transit area of another Vietnamese airport or seaport and then continue to Phu Quoc."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You must stay on Phu Quoc. To travel to the mainland, you need a visa, such as an e-visa.",
+          "The exemption is for a maximum of 30 days.",
+          "Carry a return or onward ticket from Phu Quoc and your hotel booking. Airline staff in India check documents at check-in.",
+          "If you connect through Ho Chi Minh City or Hanoi, the exemption works only if you stay in international transit and do not clear immigration there. Confirm with your airline that your connection allows this."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you plan to combine Phu Quoc with Da Nang or Hanoi, skip the exemption and get a single e-visa that covers the whole trip."
+      },
+      {
+        "type": "h2",
+        "text": "Where Indians go in Vietnam"
+      },
+      {
+        "type": "h3",
+        "text": "Phu Quoc"
+      },
+      {
+        "type": "p",
+        "text": "Beaches, resorts and the cable car to Hon Thom. Best in the dry season, roughly December to April. Good for couples and families who want a short, easy beach break."
+      },
+      {
+        "type": "h3",
+        "text": "Da Nang and Hoi An"
+      },
+      {
+        "type": "p",
+        "text": "City beaches, Ba Na Hills and the Golden Bridge, with the old town of Hoi An 45 minutes away. Visit between February and August; September to December brings heavy rain and storm risk."
+      },
+      {
+        "type": "h3",
+        "text": "Hanoi and Ha Long Bay"
+      },
+      {
+        "type": "p",
+        "text": "Old Quarter street food, then an overnight cruise in Ha Long Bay or Lan Ha Bay. October to April is the most comfortable; December to February can be cool, so pack a jacket."
+      },
+      {
+        "type": "h3",
+        "text": "Ho Chi Minh City"
+      },
+      {
+        "type": "p",
+        "text": "Markets, the War Remnants Museum, the Cu Chi tunnels and Mekong Delta day trips. It is warm all year, with a drier spell roughly from December to April."
+      },
+      {
+        "type": "p",
+        "text": "A first trip of 7 to 9 days usually covers two regions, for example Hanoi with Ha Long, then Da Nang and Hoi An. Fly between regions instead of taking long overland routes."
+      },
+      {
+        "type": "h2",
+        "text": "Flights from India"
+      },
+      {
+        "type": "p",
+        "text": "Vietnam Airlines flies nonstop to Vietnam from Delhi, Mumbai, Bengaluru and Hyderabad, and is adding **Ahmedabad to Hanoi from 3 November 2026**, four times a week, according to Business Today and Outlook Traveller. IndiGo and VietJet also operate nonstop flights from several Indian cities to Hanoi and Ho Chi Minh City; check their sites for current schedules. We could not confirm any nonstop flight from India to Phu Quoc or Da Nang, so plan on a connection for those."
+      },
+      {
+        "type": "h2",
+        "text": "Money tips"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Vietnam uses the dong (VND). Rupees are hard to exchange, so carry US dollars in clean, newer notes and change them in Vietnam, or use a forex card.",
+          "ATMs are common in cities. Cards work in hotels, malls and larger restaurants; street food, markets and small shops want cash.",
+          "Notes run into large numbers. The 20,000 and 500,000 notes look alike, so check before you pay.",
+          "Use ride-hailing apps such as Grab for fixed fares instead of negotiating with street taxis.",
+          "Bargain politely at markets, and tell your bank about your travel dates before you leave."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file Vietnam e-visas; it is a straightforward online application on evisa.gov.vn. We plan holiday packages with hotels and private transfers, and we file visas for the countries you might add to a Southeast Asia trip. Singapore visas start at ₹2,950 (service fee, government fees extra), and we can explain the current visa-free rules for Thailand and Malaysia. We have filed 5,000+ visas with a 98% approval rate. WhatsApp us on +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules, fees and timelines in this guide were checked on 25 October 2026 against the sources listed below. Visa rules change without much notice, so check the official site before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Vietnam Immigration Department: E-visa portal notice and information",
+        "url": "https://immigration.gov.vn/trang-chu-ttdt"
+      },
+      {
+        "label": "Vietnam Immigration Department: List of ports allowing entry and exit with e-visa (PDF)",
+        "url": "https://immigration.gov.vn/documents/20181/117155/List-of-evisa-port.pdf/c774e24b-1ab8-4fb6-9ac1-dcdfaccecf8e"
+      },
+      {
+        "label": "Government News (baochinhphu.vn): New regulations on immigration fees (Circular 28/2026/TT-BTC)",
+        "url": "https://baochinhphu.vn/quy-dinh-moi-ve-thu-phi-le-phi-xuat-nhap-canh-102260331184313162.htm"
+      },
+      {
+        "label": "Ministry of Public Security: E-visa administrative procedure",
+        "url": "https://e-services.mps.gov.vn/bocongan/bothutuc/tthc?matt=26277"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Viet Nam: Visa exemption list",
+        "url": "https://mofa.gov.vn/tin-chi-tiet/chi-tiet/danh-muc-mien-thi-thuc-cua-viet-nam-voi-cac-nuoc-57162-172.html"
+      },
+      {
+        "label": "Embassy of Viet Nam in the USA: New policy on electronic visa and visa exemption",
+        "url": "https://vietnamembassy-usa.org/node/6887"
+      },
+      {
+        "label": "Vietnam News: Dozens of airports, border checkpoints join e-visa system",
+        "url": "https://vietnamnews.vn/society/1731095/dozens-of-airports-border-checkpoints-join-e-visa-system.html"
+      },
+      {
+        "label": "Business Today: Vietnam Airlines launches direct flights from Ahmedabad to Hanoi",
+        "url": "https://www.businesstoday.in/india/story/now-fly-non-stop-to-hanoi-vietnam-airlines-launches-direct-flights-from-ahmedabad-561894-2026-10-16"
+      },
+      {
+        "label": "Outlook Traveller: Vietnam Airlines to launch non-stop Hanoi-Ahmedabad flights from November 3",
+        "url": "https://www.outlooktraveller.com/News/vietnam-airlines-to-launch-non-stop-hanoiahmedabad-flights-from-november-3"
+      }
+    ]
+  },
+  {
+    "slug": "philippines-visa-free-for-indians-2026",
+    "title": "Philippines Visa-Free for Indians 2026: 14 or 30 Days, Rules",
+    "metaTitle": "Philippines Visa-Free for Indians 2026: Rules | Travlys",
+    "metaDescription": "Indians can visit the Philippines visa-free for 14 days, or 30 days with a valid US, UK, Schengen or similar visa. Neither can be extended. Full 2026 rules.",
+    "excerpt": "Since 8 June 2025, Indian tourists can enter the Philippines without a visa for 14 days, or 30 days if they hold a valid US, Japan, Australia, Canada, Schengen, Singapore or UK visa. Here is what you need at the airport and how to plan the trip.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 7,
+    "category": "Travel planning",
+    "tags": [
+      "Philippines",
+      "visa-free",
+      "eTravel",
+      "AJACSSUK",
+      "Boracay",
+      "Palawan",
+      "Siargao"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1600&h=900&fit=crop",
+    "related": [
+      "vietnam-e-visa-for-indians-2026",
+      "georgia-visa-for-indians-2026",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for the Philippines in 2026?",
+        "a": "No, not for a short holiday. Since 8 June 2025, Indian passport holders can enter the Philippines visa-free for up to 14 days. You need a passport valid six months beyond your stay, a confirmed hotel booking, proof of funds and a return or onward ticket. If you want to stay longer, or you are travelling for work or study, apply for a Philippine visa before you fly."
+      },
+      {
+        "q": "Can I extend the 14-day visa-free stay in the Philippines?",
+        "a": "No. The Philippine government's current visa policy describes the 14-day entry for Indians as non-extendible and non-convertible. Some websites still mention a 7-day extension, but that comes from an older 2015 rule for Indians with US or similar visas. If you need more than 14 days, use the 30-day route if you qualify, or get an e-visa before travel."
+      },
+      {
+        "q": "Who gets 30 days visa-free in the Philippines?",
+        "a": "Indian nationals holding a valid and current American, Japanese, Australian, Canadian, Schengen, Singapore or UK visa or residence permit get 30 days visa-free for tourism. This group is called AJACSSUK. The visa must be valid on the day you arrive. The 30 days cannot be extended. You still need a passport valid six months beyond your stay and a return or onward ticket."
+      },
+      {
+        "q": "Is eTravel registration mandatory for the Philippines and is it free?",
+        "a": "Yes, arriving foreign passengers must register on etravel.gov.ph, and it is completely free. You can register within 72 hours before arrival. Save or print the QR code, because the airline will ask to see it before you board. Any website that charges a fee for eTravel is not the official one."
+      },
+      {
+        "q": "Is there a direct flight from India to the Philippines?",
+        "a": "Yes. Air India started nonstop Delhi to Manila flights on 1 October 2025, about seven hours each way, flying five days a week at launch. From other Indian cities you usually connect through Singapore, Kuala Lumpur, Bangkok or Hong Kong. Check the current Air India schedule before you book, as days and timings change."
+      },
+      {
+        "q": "What if I want to stay in the Philippines for more than 14 days?",
+        "a": "Apply for a Philippine e-visa at evisa.gov.ph before you travel, unless you qualify for the 30-day AJACSSUK route. The e-visa takes 7 to 12 working days for single entry. The stay it gives cannot be extended after you arrive, so choose your dates carefully. Fees are not refunded if the e-visa is refused."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders can visit the Philippines **without a visa for up to 14 days** for tourism. If you hold a valid US, Japan, Australia, Canada, Schengen, Singapore or UK visa or residence permit, you get **30 days visa-free** instead. Neither stay can be extended. You also need to register on the free **eTravel** system within 72 hours before you land."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Standard visa-free stay:** 14 days, tourism, since 8 June 2025. **With AJACSSUK visa or residence permit:** 30 days. **Extension:** Not allowed for either. **Passport:** Valid 6 months beyond your stay. **Also needed for 14 days:** Confirmed hotel booking, proof of funds, return or onward ticket. **Arrival registration:** eTravel, free, within 72 hours before arrival. **Longer stays:** e-visa at evisa.gov.ph, 7 to 12 working days for single entry. **Direct flight:** Air India, Delhi to Manila."
+      },
+      {
+        "type": "h2",
+        "text": "The 14-day visa-free entry for Indians"
+      },
+      {
+        "type": "p",
+        "text": "The Philippine government announced visa-free entry for Indian nationals starting **8 June 2025**. The official visa policy page on the Department of Foreign Affairs' e-visa portal still lists the same rule in October 2026. It applies at any Philippine port of entry, so you can land in Manila, Cebu, Clark or elsewhere."
+      },
+      {
+        "type": "p",
+        "text": "To use it, carry:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport** valid for at least six months beyond your planned stay.",
+          "**Confirmed hotel booking** for your trip. A booking you can show on your phone works, but a printout is safer.",
+          "**Proof of financial capacity**, such as recent bank statements, a salary slip or an employment letter.",
+          "**Return or onward ticket** leaving the Philippines within 14 days.",
+          "**No derogatory record** with the Bureau of Immigration, such as a past overstay or deportation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The stay is **non-extendible and non-convertible**. You cannot extend it at an immigration office, and you cannot switch to a work or study visa from inside the country. The DFA statement of June 2025 described this entry as for tourism. The current e-visa portal page says tourism and business. If your trip involves any business meetings, check with the Philippine Embassy in New Delhi before you rely on visa-free entry."
+      },
+      {
+        "type": "h3",
+        "text": "About the 7-day extension you may have read about"
+      },
+      {
+        "type": "p",
+        "text": "Several travel sites still say you can extend by 7 days for a total of 21. That comes from an **older 2015 rule** (Bureau of Immigration circular SBM-2015-003), which gave Indians with US or similar visas 14 days plus a 7-day extension. The 2025 policy replaced it. The current official wording says both the 14-day and 30-day entries are non-extendible. Plan your trip around 14 or 30 days, not 21."
+      },
+      {
+        "type": "h2",
+        "text": "The 30-day option if you hold a US, UK, Schengen or similar visa"
+      },
+      {
+        "type": "p",
+        "text": "Indian nationals holding a **valid and current** visa or residence permit from any of these get 30 days visa-free for tourism. The group is often called AJACSSUK:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "United States (America)",
+          "Japan",
+          "Australia",
+          "Canada",
+          "Schengen area",
+          "Singapore",
+          "United Kingdom"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You need a passport valid six months beyond your stay and a return or onward ticket. The 30 days also **cannot be extended**. Make sure the visa is valid on the day you arrive in the Philippines. An expired US visa, even a 10-year one that ran out last month, does not count. Carry the passport that holds the visa if your old and new passports are separate."
+      },
+      {
+        "type": "callout",
+        "label": "Tip",
+        "text": "If you hold a qualifying visa, tell the airline staff and the immigration officer that you are entering on the 30-day AJACSSUK route. Otherwise you may simply get the standard 14-day stamp."
+      },
+      {
+        "type": "h2",
+        "text": "eTravel: the free arrival registration"
+      },
+      {
+        "type": "p",
+        "text": "Every arriving foreign passenger must register on **etravel.gov.ph**. Visa-free status does not exempt you. The official FAQ says:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**It is free.** eTravel never asks for payment. Sites that charge a fee are not official.",
+          "**Timing:** register within **72 hours (3 days)** before your arrival.",
+          "**QR code:** take a screenshot or print it. The airline will ask for it before boarding.",
+          "**Green or red code:** a green code lets you go straight to immigration. A red code means extra checks by the Bureau of Quarantine, usually because of incomplete data or recent illness.",
+          "**Mistakes:** you can edit your entry through the Edit Registration tab until border officers process you."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You do not need to download an app. eTravel works in any phone or laptop browser."
+      },
+      {
+        "type": "h2",
+        "text": "Onward ticket and hotel: where Indians get stuck"
+      },
+      {
+        "type": "p",
+        "text": "Most problems happen at check-in in India, not in Manila. Airline staff check that you meet the entry rules before they issue a boarding pass. Common mistakes:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Return flight on day 15 or later.** Your exit flight must fall inside your 14 or 30 days. Count the arrival day as day one so you have no doubt.",
+          "**No hotel for the whole trip.** Book at least your first stay, and ideally the full itinerary, before you fly.",
+          "**Passport too close to expiry.** Six months beyond your stay is the rule, not six months from today.",
+          "**No proof of funds.** Carry three to six months of bank statements, even if nobody asks."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Staying longer: the Philippine e-visa"
+      },
+      {
+        "type": "p",
+        "text": "If you need more than 14 days and do not hold an AJACSSUK visa, apply for a **9(a) temporary visitor visa** through the official **evisa.gov.ph** portal. Key points from the DFA's e-visa FAQ:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Processing:** 7 to 12 working days for single entry, 15 to 21 working days for multiple entry.",
+          "**No extension:** the authorised stay on an e-visa cannot be extended or converted after arrival.",
+          "**Payment:** pay within 48 hours of applying or start again. Fees are not refunded if the visa is refused.",
+          "**Interview:** only if the visa officer asks for one.",
+          "**Documents for tourists:** flight booking, bank statements for six months or tax papers, proof of ties to India such as an employment certificate, itinerary and hotel booking."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The fee is shown when you apply on the portal. Travel for work, study or long visits needs a proper visa from the Philippine Embassy, not visa-free entry."
+      },
+      {
+        "type": "h2",
+        "text": "Where to go in 14 days"
+      },
+      {
+        "type": "p",
+        "text": "The Philippines has over 7,000 islands, and inter-island travel eats time. In 14 days, pick **two regions at most**."
+      },
+      {
+        "type": "h3",
+        "text": "Boracay"
+      },
+      {
+        "type": "p",
+        "text": "Fly from Manila or Cebu to Caticlan, which is a short boat ride from the island, or to Kalibo, which adds a longer road transfer. White Beach is the main strip. Good for couples and first-timers who want an easy beach holiday."
+      },
+      {
+        "type": "h3",
+        "text": "Palawan: El Nido and Coron"
+      },
+      {
+        "type": "p",
+        "text": "El Nido is known for lagoons and limestone cliffs, explored by island-hopping boat tours. Coron has wreck diving and clear lakes. Fly to Puerto Princesa and drive about five to six hours to El Nido, or take a pricier small-plane flight direct to El Nido. Coron's airport is at Busuanga. Ferries run between El Nido and Coron in good weather."
+      },
+      {
+        "type": "h3",
+        "text": "Cebu and Bohol"
+      },
+      {
+        "type": "p",
+        "text": "Mactan-Cebu airport has international connections. From Cebu you can take a fast ferry to Bohol for the Chocolate Hills and tarsier sanctuaries, or go south for waterfalls and diving. This pairing suits families who prefer shorter transfers."
+      },
+      {
+        "type": "h3",
+        "text": "Siargao"
+      },
+      {
+        "type": "p",
+        "text": "A surf island with a relaxed feel, best known for the Cloud 9 break. Flights connect through Manila or Cebu. Pick it if you want a slower trip, not a packed itinerary."
+      },
+      {
+        "type": "h2",
+        "text": "Best months and flights from India"
+      },
+      {
+        "type": "p",
+        "text": "The dry season, roughly **December to April**, is the safest window for beaches and boat tours. March to May gets very hot. The rainy and typhoon season runs roughly June to November, when boat tours and ferries can be cancelled at short notice. Prices drop then, but keep spare days and buy travel insurance."
+      },
+      {
+        "type": "p",
+        "text": "**Air India** launched the first nonstop Delhi to Manila service on 1 October 2025, about seven hours each way, five days a week at launch. From Mumbai, Bengaluru, Chennai or Ahmedabad, you usually connect via Singapore, Kuala Lumpur, Bangkok or Hong Kong. Check current schedules before booking. If you connect through Singapore, check whether you need a Singapore transit visa."
+      },
+      {
+        "type": "h2",
+        "text": "Who should use which route"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**A one-region beach holiday of a week or so:** the 14-day visa-free entry is enough.",
+          "**Two or three islands at a slower pace:** use the 30-day route if you hold an AJACSSUK visa. If you do not, apply for the e-visa.",
+          "**Business meetings, conferences or work:** get the right visa from the embassy. Do not stretch visa-free entry."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file Philippine visas, and for most short holidays you do not need one. But a valid **US, Japan, Australia, Canada, Schengen, Singapore or UK** visa doubles your Philippines stay to 30 days and also opens other trips. Travlys files several of these: **USA** (from ₹19,940), **UK** (from ₹12,950), **Canada** (from ₹14,950), **Australia** (from ₹4,950), **Schengen via the Netherlands** (from ₹2,950) and **Singapore** (from ₹2,950). Service fees exclude government fees. Travlys has filed 5,000+ visas with a 98% approval rate. WhatsApp **+91 82009 18967** to plan a visa for your next trip."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 25 October 2026 against the sources listed below, including the DFA's e-visa portal and the official eTravel FAQ. Immigration officers decide entry at the border, and policies can change at short notice, so check the official sites before you fly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Foreign Affairs (eVisaPH): PH Visa Policy, Visa Policy for Indian Nationals",
+        "url": "https://evisa.gov.ph/page/policy"
+      },
+      {
+        "label": "Department of Foreign Affairs (eVisaPH): Frequently Asked Questions on the Philippine e-Visa",
+        "url": "https://evisa.gov.ph/page/faqs"
+      },
+      {
+        "label": "Department of Foreign Affairs: Visa-free privileges for Indian nationals entering the Philippines",
+        "url": "https://dfa.gov.ph/dfa-news/statements-and-advisoriesupdate/36660-visa-free-privileges-for-indian-nationals-entering-the-philippines"
+      },
+      {
+        "label": "eTravel (Government of the Philippines): Frequently Asked Questions",
+        "url": "https://www.etravel.gov.ph/frequently-asked-questions"
+      },
+      {
+        "label": "Business Today: Philippines is now visa-free for Indians under these new categories",
+        "url": "https://www.businesstoday.in/amp/nri/visa/story/philippines-is-now-visa-free-for-indians-under-these-new-categories-check-requirements-477961-2025-05-27"
+      },
+      {
+        "label": "Gulf News: Air India expands Southeast Asia network with direct flights to Philippines",
+        "url": "https://gulfnews.com/business/aviation/air-india-expands-southeast-asia-network-with-direct-flights-to-philippines-1.500291281"
+      }
+    ]
+  },
+  {
+    "slug": "georgia-visa-for-indians-2026",
+    "title": "Georgia Visa for Indians 2026: e-Visa, Fees, Insurance Rule",
+    "metaTitle": "Georgia Visa for Indians 2026: e-Visa & Rules | Travlys",
+    "metaDescription": "Indians need a Georgia e-visa (USD 20 + 2%) unless they hold a valid US, UK, Schengen or similar visa. Insurance of 30,000 GEL is mandatory from 2026.",
+    "excerpt": "Indians need a visa for Georgia, usually an e-visa from evisa.gov.ge. A valid US, UK, Schengen or similar visa lets you skip it for 90 days in 180. Since 1 January 2026, every tourist also needs health and accident insurance.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 8,
+    "category": "Travel planning",
+    "tags": [
+      "Georgia",
+      "e-visa",
+      "Tbilisi",
+      "travel insurance",
+      "Gudauri",
+      "Kazbegi",
+      "Batumi"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1565008576549-57569a49371d?w=1600&h=900&fit=crop",
+    "related": [
+      "philippines-visa-free-for-indians-2026",
+      "schengen-ees-explained-for-indian-travellers",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Georgia in 2026?",
+        "a": "Yes, unless you hold a valid visa or residence permit from one of the countries Georgia lists, such as the US, UK or a Schengen state. The Georgian Foreign Ministry's checker shows visa required for ordinary Indian passports. Most Indians apply online at evisa.gov.ge. There is no visa on arrival for Indian passport holders."
+      },
+      {
+        "q": "How much does a Georgia e-visa cost for Indians?",
+        "a": "The official e-visa portal lists the fee as USD 20 plus a 2% service fee, paid by Visa or Mastercard. Several travel sites report an extra identity check called DuVerify costing about USD 15, but the official FAQ does not mention it, so check the fee shown during your application. The fee is not refunded if your visa is refused or unused."
+      },
+      {
+        "q": "Can I enter Georgia without a visa if I have a US, UK or Schengen visa?",
+        "a": "Yes. Under Government of Georgia Ordinance No. 256, Indians holding a valid visa or residence permit from listed countries, including the US, UK, Canada, Australia, Japan and EU or Schengen states, can enter visa-free and stay 90 days in any 180-day period. The visa must be valid on the day you cross the border. Carry it with your passport."
+      },
+      {
+        "q": "Is travel insurance mandatory for Georgia?",
+        "a": "Yes. Since 1 January 2026, every tourist entering Georgia must hold health and accident insurance of at least 30,000 GEL covering the full stay, including arrival and departure dates. The policy can be from an Indian or Georgian insurer, in English or Georgian, on paper or on your phone. This applies even if you enter visa-free."
+      },
+      {
+        "q": "How long does a Georgia e-visa take?",
+        "a": "The official e-visa FAQ says a decision takes not less than 5 working days. Apply at least two to three weeks before you fly to leave room for document requests. You must apply from outside Georgia, and each traveller, including children, needs a separate e-visa."
+      },
+      {
+        "q": "How long can Indians stay in Georgia on an e-visa?",
+        "a": "The official portal says validity depends on your nationality and shows it when you apply. Travel guides commonly report 30 days of stay within a 120-day validity for Indians, but they disagree on whether it is single or multiple entry. Check the dates printed on your e-visa and do not overstay them."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders **need a visa for Georgia**. Most apply online for an **e-visa at evisa.gov.ge**, which costs **USD 20 plus a 2% service fee** and takes at least 5 working days. If you hold a **valid US, UK, Schengen or similar visa or residence permit**, you can skip the e-visa and stay **90 days in any 180**. Since **1 January 2026**, every tourist also needs health and accident insurance of at least **30,000 GEL**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa needed:** Yes, for ordinary Indian passports. **Main route:** e-visa at evisa.gov.ge (Georgian Ministry of Foreign Affairs). **Official fee:** USD 20 + 2% service fee. **Processing:** Not less than 5 working days. **Visa-free route:** Valid visa or residence permit from a listed country (US, UK, EU/Schengen, Canada, Australia, Japan and others), 90 days in 180. **Insurance:** Mandatory from 1 January 2026, minimum 30,000 GEL, full stay. **Passport:** Valid 3 months beyond the visa, 2 blank pages, issued within 10 years. **Visa on arrival:** Not available."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for Georgia?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. The visa checker on geoconsul.gov.ge, run by Georgia's Ministry of Foreign Affairs, shows **visa required** for ordinary Indian passports on short trips. It says you can get an ordinary visa without visiting an embassy by applying on the e-visa portal. You can also apply through a Georgian embassy or consulate, but the e-visa is simpler for most tourists."
+      },
+      {
+        "type": "p",
+        "text": "There is one big exception, covered below. If you already hold a valid visa from the US, UK, a Schengen country or several others, you do not need a Georgian visa at all."
+      },
+      {
+        "type": "h2",
+        "text": "Georgia e-visa: cost, time and rules"
+      },
+      {
+        "type": "p",
+        "text": "Here is what the official evisa.gov.ge FAQ says:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fee:** USD 20 plus a 2% service fee, paid by Visa or Mastercard. The card does not need to be in your name.",
+          "**Processing:** a decision takes **not less than 5 working days**.",
+          "**Refunds:** none, whether the visa is refused, has an error, or goes unused.",
+          "**Deadlines:** the verification email is valid for only **1 hour**, and payment must be made within **5 hours** of the payment notification, or the application is cancelled.",
+          "**One per person:** every traveller needs a separate e-visa, including children on a parent's passport.",
+          "**Apply from outside Georgia:** you cannot apply once you are in the country.",
+          "**Language:** fill the form and upload documents in English or Georgian."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Source conflict: DuVerify fee",
+        "text": "Several travel sites say the e-visa now includes a mandatory identity check called **DuVerify**, costing about **USD 15**, which must be finished within 24 hours. The official FAQ does not mention it. Check the fee and steps shown on evisa.gov.ge when you apply."
+      },
+      {
+        "type": "h3",
+        "text": "Validity and length of stay"
+      },
+      {
+        "type": "p",
+        "text": "The official FAQ says e-visa validity **depends on your nationality**, and the portal shows it when you start the application. Travel guides commonly report a **30-day stay within a 120-day validity** for Indians. They disagree on whether it is single or multiple entry. Go by the dates printed on your e-visa, and remember the visa's validity period and the number of days you can stay are two different limits."
+      },
+      {
+        "type": "h3",
+        "text": "Passport and documents"
+      },
+      {
+        "type": "p",
+        "text": "The portal says your passport must be valid for **at least 3 months after your Georgian visa expires**, have at least 2 blank pages, be undamaged and be issued within the last 10 years. Some agency sites say 6 months. Six months of validity covers you either way."
+      },
+      {
+        "type": "p",
+        "text": "At the border, carry these, as border police may ask for them:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport and printed e-visa",
+          "Hotel bookings or rental agreement covering your whole stay",
+          "Travel and health insurance meeting the 2026 rule",
+          "Bank statement for the last three months, and an employer letter with your role and salary",
+          "Return ticket and a simple day-by-day itinerary"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Visa-free with a US, UK or Schengen visa: 90 days in 180"
+      },
+      {
+        "type": "p",
+        "text": "Government of Georgia **Ordinance No. 256** lets foreigners holding a visa or residence permit of a listed country enter visa-free and stay **90 days in any 180-day period**. The Foreign Ministry's checker confirms this for Indian passport holders. The list includes:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**United States, United Kingdom, Canada, Australia, New Zealand, Japan, South Korea, Israel**",
+          "**EU and Schengen states**, plus Iceland, Norway, Switzerland and Liechtenstein",
+          "**Gulf states:** UAE, Saudi Arabia, Qatar, Oman, Kuwait and Bahrain",
+          "Some UK and Danish territories, and Grenada"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The visa or residence permit must be **valid on the day you cross into Georgia**. A US B1/B2 visa valid for another few months qualifies. An expired one does not. In April 2025 Georgia tightened this route for 17 nationalities holding Gulf visas, requiring a multiple-entry visa with at least one year of validity left. **India is not on that list.**"
+      },
+      {
+        "type": "callout",
+        "label": "Source conflict",
+        "text": "Some guides say the qualifying visa must be multiple-entry, or that electronic visas do not count. The ordinance itself only says the visa must be valid on the day of entry and shown with a travel document. Carry the physical visa in your passport, and if your visa is electronic, check with the Georgian embassy before you fly."
+      },
+      {
+        "type": "h2",
+        "text": "Mandatory insurance from 1 January 2026"
+      },
+      {
+        "type": "p",
+        "text": "Under Georgia's Law on Tourism, **every tourist entering Georgia from 1 January 2026 must hold health and accident insurance**. This applies whether you use an e-visa or enter visa-free. Georgia's Foreign Ministry notice, also published by the US Embassy in Tbilisi, sets these rules:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Minimum cover:** 30,000 GEL. Indian policies usually state limits in US dollars, so make sure yours clearly exceeds 30,000 GEL at the current exchange rate.",
+          "**Dates:** the policy must cover your full stay, **including arrival and departure days**.",
+          "**Insurer:** Georgian or foreign. An Indian travel policy works if it meets the terms.",
+          "**Format:** paper or electronic, in **English or Georgian**.",
+          "**Must show:** the parties, covered territory, insured risks, start and end dates, sum insured and premium."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Diplomatic and official passport holders, accredited diplomats and international drivers are exempt. Tourists are not. A common mistake is buying a policy for \"Europe\" or \"Asia\" without checking that Georgia is named. Choose a policy that lists Georgia or covers worldwide travel."
+      },
+      {
+        "type": "h2",
+        "text": "Border checks: be ready"
+      },
+      {
+        "type": "p",
+        "text": "Holding an e-visa does not guarantee entry. In September 2025, Business Standard and other outlets reported Indian travellers alleging long detentions and refusals at Georgian border points. Georgian border police make the final decision. Your best protection is a complete, consistent file: confirmed hotels, return flights, insurance, bank statements and a clear plan you can explain."
+      },
+      {
+        "type": "h2",
+        "text": "Where to go in Georgia"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tbilisi:** the capital, with an old town, sulphur baths, Narikala fortress and good food. Most trips start here.",
+          "**Kazbegi (Stepantsminda):** about three hours north on the Georgian Military Road, for Gergeti Trinity Church and Caucasus views. The pass can close after heavy snow.",
+          "**Gudauri:** Georgia's best-known ski resort, on the way to Kazbegi. The ski season usually runs from about December to April.",
+          "**Kakheti:** the wine region east of Tbilisi, with Sighnaghi and Telavi. Harvest season in September and October is a good time to visit.",
+          "**Batumi:** a Black Sea resort city in the west, at its best in summer."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Best months and flights from India"
+      },
+      {
+        "type": "p",
+        "text": "**May to June and September to October** suit most trips: pleasant weather for Tbilisi, Kakheti and the mountains. **July and August** are best for Batumi and high-altitude hikes but hot in Tbilisi. **December to March** is for snow and skiing in Gudauri. Expect road closures in the mountains in winter."
+      },
+      {
+        "type": "p",
+        "text": "**IndiGo** started the first nonstop **Delhi to Tbilisi** flights in August 2023. Check its current schedule before you book. From other cities, most Indians connect through Dubai, Sharjah, Doha or Istanbul. If your connection needs a visa or crosses land borders, such as via Armenia, plan for that separately."
+      },
+      {
+        "type": "h2",
+        "text": "Who should use which route"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**You hold a valid US, UK, Schengen, Canada or Australia visa:** skip the e-visa. Buy insurance and go.",
+          "**No such visa, trip within a month:** apply for the e-visa two to three weeks ahead.",
+          "**Planning to work, study or stay long-term:** you need a different visa through a Georgian embassy, not the tourist e-visa."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file Georgian e-visas. But a valid **US, UK or Schengen visa** lets you enter Georgia without one for 90 days in 180, and it opens many other trips too. Travlys files **USA** visas (from ₹19,940), **UK** visas (from ₹12,950) and **Schengen** visas via the Netherlands (from ₹2,950). Service fees exclude government fees. Travlys has filed 5,000+ visas with a 98% approval rate. WhatsApp **+91 82009 18967** to plan your next visa."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 25 October 2026 against the sources listed below, including evisa.gov.ge, the Foreign Ministry's geoconsul.gov.ge checker and Ordinance No. 256. Georgian border police decide entry, and rules can change, so check the official sites before you fly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ministry of Foreign Affairs of Georgia (evisa.gov.ge): e-Visa FAQ",
+        "url": "https://www.evisa.gov.ge/GeoVisa/en/Home/FAQ"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Georgia (evisa.gov.ge): About e-Visa",
+        "url": "https://www.evisa.gov.ge/GeoVisa/en/Home/AboutVisa"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Georgia (geoconsul.gov.ge): Entering Georgia visa checker",
+        "url": "https://geoconsul.gov.ge/en/entering-georgia"
+      },
+      {
+        "label": "Legislative Herald of Georgia (matsne.gov.ge): Ordinance No. 256, list of countries whose visa or residence permit holders may enter without a visa",
+        "url": "https://matsne.gov.ge/en/document/view/2867377"
+      },
+      {
+        "label": "Embassy of Georgia to the UAE (mfa.gov.ge): Visa Information",
+        "url": "https://uae.mfa.gov.ge/en/visa-information"
+      },
+      {
+        "label": "U.S. Embassy in Georgia: Georgia to require insurance for all tourists starting 1/1/2026",
+        "url": "https://ge.usembassy.gov/georgia-to-require-insurance-for-all-tourists-starting-1-1-2026/"
+      },
+      {
+        "label": "Georgia Today: Mandatory health insurance for visitors",
+        "url": "https://georgiatoday.ge/mandatory-health-insurance-for-visitors/"
+      },
+      {
+        "label": "Business Standard: Georgia visa woes, Indians report racial profiling, detentions at borders",
+        "url": "https://www.business-standard.com/immigration/georgia-visa-woes-indians-report-racial-profiling-detentions-at-borders-125091900723_1.html"
+      },
+      {
+        "label": "IndiGo: IndiGo commences operations from Delhi to Tbilisi",
+        "url": "https://www.goindigo.in/press-releases/indigo-commences-operations-from-delhi-to-tbilisi.html"
+      }
+    ]
+  },
+  {
+    "slug": "indian-e-passport-2026-how-to-apply",
+    "title": "Indian e-Passport 2026: How to Apply, Fees and Who Gets It",
+    "metaTitle": "Indian e-Passport 2026: How to Apply & New Fees | Travlys",
+    "metaDescription": "All new Indian passports are chip e-passports. Fees rose on 1 July 2026 to ₹2,500 for 36 pages. How to apply, the POPSK option and if old ones stay valid.",
+    "excerpt": "Every fresh or renewed passport issued in India is now a chip-based e-passport. Here is how to apply, what the revised July 2026 fees are, and why you do not need to replace a valid old passport.",
+    "date": "2026-10-25",
+    "updated": "2026-10-25",
+    "readMinutes": 7,
+    "category": "Travel planning",
+    "tags": [
+      "e-passport",
+      "Indian passport",
+      "Passport Seva",
+      "passport fees 2026",
+      "POPSK",
+      "Police Clearance Certificate",
+      "Tatkal passport"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-free-countries-for-indians-2026",
+      "visa-rule-changes-for-indians-2026-tracker",
+      "ds-160-form-mistakes"
+    ],
+    "faqs": [
+      {
+        "q": "How do I apply for an e-passport in India?",
+        "a": "You apply for a normal fresh or re-issue passport on passportindia.gov.in or the mPassport Seva app. There is no separate e-passport form. Register, fill the form, pay online and book a slot at a Passport Seva Kendra or Post Office Passport Seva Kendra. Since late May 2025, passports printed in India are issued as e-passports, so the chip comes automatically."
+      },
+      {
+        "q": "What is the e-passport fee in India in 2026?",
+        "a": "From 1 July 2026, a fresh or re-issue 36-page passport costs ₹2,500 under normal processing and ₹5,000 under Tatkal. A 60-page passport costs ₹3,500 normal and ₹6,000 Tatkal. A minor's 36-page passport costs ₹1,750 normal. These are the same fees for every passport, because all new passports are e-passports. They come from the Passports (Amendment) Rules, 2026."
+      },
+      {
+        "q": "Is my old non-chip Indian passport still valid?",
+        "a": "Yes. The Ministry of External Affairs has said existing non-electronic passports remain valid until their expiry date. You do not need to apply for an e-passport early. You will get one automatically when you next renew. A senior MEA official was also quoted in November 2025 saying existing ordinary passports will be accepted up to 2035."
+      },
+      {
+        "q": "How can I tell if my Indian passport is an e-passport?",
+        "a": "Look at the front cover. An e-passport has a small gold-coloured chip symbol printed on it, which older passports do not have. The chip and antenna are built into the booklet. The details on your data page are also stored on the chip and digitally signed. If your passport was issued in India after late May 2025, it should be an e-passport."
+      },
+      {
+        "q": "Does an e-passport let Indians use e-gates abroad?",
+        "a": "Not by itself. Each country decides which nationalities may use its automated e-gates, and a chip does not change that list. The e-passport mainly makes your identity faster and safer to verify by machine and harder to forge. In India, the Fast Track Immigration Trusted Traveller Programme is a separate registration that you must sign up for."
+      },
+      {
+        "q": "What is the Police Clearance Certificate fee in 2026?",
+        "a": "The Police Clearance Certificate (PCC) fee is ₹750 in India from 1 July 2026, under the revised fee schedule. You apply for it on the same Passport Seva portal, book an appointment at a PSK or POPSK, and the police verify your address. Countries often ask for a PCC for work visas, long-stay visas, permanent residence and some study visas."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "In 2026 every fresh or renewed passport issued in India is a chip-based e-passport. You do not apply for it separately. You apply for a normal passport on passportindia.gov.in or the mPassport Seva app, and it is printed with an embedded chip. Fees went up on **1 July 2026**: a 36-page passport now costs **₹2,500** (normal) or **₹5,000** (Tatkal). Your old passport stays valid until it expires."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**What it is:** A passport booklet with an RFID chip and antenna that stores your data page details, digitally signed, to ICAO standards. **Who gets one:** Everyone issued a passport in India since late May 2025; Indian missions abroad moved to the new system from 28 October 2025. **Fee (36 pages):** ₹2,500 normal, ₹5,000 Tatkal. **Fee (60 pages):** ₹3,500 normal, ₹6,000 Tatkal. **Minor (36 pages):** ₹1,750 normal, ₹4,250 Tatkal. **PCC:** ₹750. **Old passports:** Valid till expiry. **How to spot it:** A small gold chip symbol on the front cover."
+      },
+      {
+        "type": "h2",
+        "text": "When the e-passport rollout started"
+      },
+      {
+        "type": "p",
+        "text": "The e-passport is part of **Passport Seva Programme Version 2.0 (PSP V2.0)**. News reports date the pilot to 1 April 2024, and by May 2025 a handful of passport offices were issuing chip passports. On **26 May 2025**, PSP V2.0 went live across all 37 Passport Offices, 93 Passport Seva Kendras and 450 Post Office Passport Seva Kendras, according to an MEA statement from November 2025."
+      },
+      {
+        "type": "p",
+        "text": "MEA said that all newly issued passports will be e-passports. A Joint Secretary in the Consular, Passport and Visa division was quoted in November 2025 saying that all passports issued in India have been e-passports since 28 May 2025. Indian embassies and consulates moved to the **Global Passport Seva Programme (GPSP V2.0)** on 28 October 2025. News reports put the number of e-passports issued in India at over 80 lakh by November 2025."
+      },
+      {
+        "type": "p",
+        "text": "So the short answer to which cities issue e-passports is all of them. Any Regional Passport Office, PSK or POPSK in India now produces chip passports. There is no separate e-passport counter."
+      },
+      {
+        "type": "h2",
+        "text": "Revised passport fees from 1 July 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Ministry of External Affairs notified the **Passports (Amendment) Rules, 2026** (G.S.R. 516(E), dated 20 June 2026). They replaced the old fee schedule from 1 July 2026. If you saw ₹1,500 for a passport in an older article, that rate no longer applies."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adult, 36 pages, fresh or re-issue:** ₹2,500 normal, ₹5,000 Tatkal (was ₹1,500 and ₹3,500).",
+          "**Adult, 60 pages, fresh or re-issue:** ₹3,500 normal, ₹6,000 Tatkal (was ₹2,000 and ₹4,000).",
+          "**Lost or damaged, 36 pages:** ₹5,000 normal, ₹7,500 Tatkal.",
+          "**Lost or damaged, 60 pages:** ₹6,000 normal, ₹8,500 Tatkal.",
+          "**Minor below 18, 36 pages:** ₹1,750 normal, ₹4,250 Tatkal. Valid five years or until 18, whichever is earlier.",
+          "**Minor below 18, lost or damaged:** ₹4,250 normal, ₹6,750 Tatkal.",
+          "**Police Clearance Certificate:** ₹750.",
+          "**Discount:** 10% off fresh applications (not re-issue) for children up to 8 and senior citizens above 60."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Tatkal fees include the normal fee. Minors aged 15 to 18 can choose the adult category to get a 10-year passport, at the adult fee. Adult passports remain valid for 10 years."
+      },
+      {
+        "type": "h2",
+        "text": "How to apply, step by step"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Register** on passportindia.gov.in or the mPassport Seva app with your email and mobile number.",
+          "**Fill the form** for a fresh passport or re-issue. PSP V2.0 pre-fills some details and lets you upload documents, including from DigiLocker.",
+          "**Pay online.** Payment is mandatory to book a slot. UPI and QR payments are supported.",
+          "**Book an appointment** at a PSK or POPSK. Choose Tatkal at this stage if you need it.",
+          "**Visit with originals:** proof of address, proof of date of birth and your old passport for re-issue. Your photo and fingerprints are taken at the centre.",
+          "**Police verification:** Fresh passports need it before or after issue. For a re-issue with no change in details, it may not be needed. MEA says the mPassport Police App has cut verification to 5 to 7 days in the 25 states and union territories using it.",
+          "**Dispatch:** The passport comes by Speed Post. Track the status on the portal."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Do you need to replace your old passport?"
+      },
+      {
+        "type": "p",
+        "text": "No. MEA says non-electronic passports remain valid until expiry. Replacing a valid passport early costs you the fee and gives you no extra travel rights. The better rule is to renew when your passport is close to the end. Many countries want at least six months of validity on arrival, and some visas will not be issued for longer than your passport is valid. If you are planning a US, UK, Canada or Schengen application in the next year and your passport has under 18 months left, renew first. You will get the e-passport anyway."
+      },
+      {
+        "type": "p",
+        "text": "Keep your old passport after re-issue. It is returned cancelled, and you may need it to show past visas and travel history in future applications."
+      },
+      {
+        "type": "h2",
+        "text": "How to tell if you have an e-passport"
+      },
+      {
+        "type": "p",
+        "text": "Check the front cover for a **small gold chip symbol**. Inside, the chip and antenna are laminated into the booklet, so you will not see them. Do not punch holes, bend the booklet sharply or keep it next to strong magnets. A damaged chip can cause extra checks at immigration, though the printed data page still works."
+      },
+      {
+        "type": "h2",
+        "text": "What the chip changes at immigration"
+      },
+      {
+        "type": "p",
+        "text": "The chip lets immigration systems read your details without contact and check the digital signature, which makes forgery and photo swaps much harder. MEA says this eases your interface with immigration authorities. In practice, though, a few things do not change."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa rules stay the same.** An e-passport does not give visa-free access anywhere new.",
+          "**Foreign e-gates are nationality-based.** The UK, Schengen countries, Australia and others decide who may use their automated gates. A chip alone does not put Indians on those lists.",
+          "**India's FTI-TTP is separate.** The Fast Track Immigration Trusted Traveller Programme at major Indian airports needs its own online registration and biometric enrolment. Having an e-passport does not enrol you."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Police Clearance Certificate (PCC)"
+      },
+      {
+        "type": "p",
+        "text": "Many work, long-stay, residence and some student visas ask for an Indian PCC. Apply for it on the same Passport Seva portal, pay ₹750, book a PSK or POPSK slot and carry your passport and proof of current address. The police verify your address before the certificate is issued. If you have moved recently, a PCC can take longer, so apply early if a visa deadline depends on it."
+      },
+      {
+        "type": "h2",
+        "text": "Passport Seva at post offices (POPSK)"
+      },
+      {
+        "type": "p",
+        "text": "Post Office Passport Seva Kendras are run jointly by MEA and the Department of Posts in many district towns. They offer the same passport services, fees and e-passport as a regular PSK. The 450th POPSK opened at Kushinagar in April 2025, and PIB said in June 2026 that India had 545 PSKs and POPSKs combined. If your nearest PSK has no early slots, check POPSKs in nearby towns when you book. Slots often open sooner."
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Paying an agent for an appointment. Slots are booked only on the official portal or app.",
+          "Using an address proof that does not match the address in the form.",
+          "Choosing Tatkal without checking the Tatkal document list on the portal first.",
+          "Applying for a visa before the new passport arrives and then having to update the visa application."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not issue passports. That is done only through Passport Seva. Once your new e-passport arrives, we can file your visa: USA, UK, Canada, Australia, Schengen (via the Netherlands), Singapore, UAE, Thailand, New Zealand or Malaysia. We also plan holiday packages such as Bali and Sri Lanka with hotels and private transfers. We have filed 5,000+ visas with a 98% approval rate. WhatsApp us on +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Fees, rollout dates and rules in this guide were checked on 25 October 2026 against the MEA notification, PIB releases and the news reports listed below. Check passportindia.gov.in before you apply, as appointment rules and fees can change."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ministry of External Affairs: Passports (Amendment) Rules, 2026, G.S.R. 516(E)",
+        "url": "https://www.mea.gov.in/doc/f5b819f6-c745-4942-b9ea-dcd74a1f8e50"
+      },
+      {
+        "label": "Passport Seva: Official portal",
+        "url": "https://www.passportindia.gov.in/"
+      },
+      {
+        "label": "Passport Seva: mPassport Seva app",
+        "url": "https://portal2.passportindia.gov.in/AppOnlineProject/user/mPassportSevaDownload"
+      },
+      {
+        "label": "PIB: Dr S Jaishankar extends Passport Seva Divas wishes (24 June 2025)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2139164"
+      },
+      {
+        "label": "PIB: Regional Passport Office, Pune celebrates Passport Seva Divas 2026",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2277740"
+      },
+      {
+        "label": "The Tribune: MEA announces rollout of PSP, GPSP and e-Passport (13 November 2025)",
+        "url": "https://www.tribuneindia.com/news/world/mea-announces-successful-rollout-of-passport-seva-programme-global-passport-seva-programme-and-e-passport"
+      },
+      {
+        "label": "StratNews Global: India crosses 80 lakh e-passports as full rollout kicks in",
+        "url": "https://stratnewsglobal.com/india/india-crosses-80-lakh-e-passports-as-full-rollout-kicks-in/"
+      },
+      {
+        "label": "Business Today: India rolls out e-passports in these cities (May 2025)",
+        "url": "https://www.businesstoday.in/amp/nri/visa/story/india-rolls-out-e-passports-with-enhanced-security-in-these-cities-this-is-how-you-get-yours-476096-2025-05-13"
+      },
+      {
+        "label": "Free Press Journal: Passport fees revised from July 1",
+        "url": "https://www.freepressjournal.in/amp/india/passport-fees-revised-from-july-1-fresh-36-page-passport-to-cost-2500-tatkal-fee-raised-to-5000"
+      },
+      {
+        "label": "Khaleej Times: E-passports for Indians, do you need to replace your passport?",
+        "url": "https://www.khaleejtimes.com/world/asia/india-epassports-features-benefits"
+      }
+    ]
+  },
   // --- October 2026: visa rule updates and travel planning. Each post lists
   // the official sources it was checked against (rendered on the page). ---
   {
@@ -2677,6 +5722,7 @@ export const BLOG_POSTS = [
     excerpt:
       'B1/B2, F-1, H-1B — the full 2026 US visa playbook for Indians. DS-160, documents, the 5 missions across India, interview prep and what we do for ₹19,940.',
     date: '2026-06-19',
+    updated: '2026-10-25',
     readMinutes: 9,
     category: 'Country guides',
     tags: ['USA', 'Embassy visa', 'B1/B2', 'F-1', 'H-1B', 'DS-160'],
@@ -2686,15 +5732,15 @@ export const BLOG_POSTS = [
     faqs: [
       {
         q: 'How long does a US visa take from India in 2026?',
-        a: 'Interview wait times at Mumbai, Delhi, Chennai, Kolkata and Hyderabad fluctuate, but B1/B2 stamping is typically issued within 1–2 weeks after the interview. We monitor all five consular calendars and book the earliest available slot.',
+        a: 'B1/B2 interview waits at Mumbai, Delhi, Chennai, Kolkata and Hyderabad were roughly 6–12 months in October 2026 and change often. After the interview, B1/B2 stamping is typically issued within 1–2 weeks. We monitor all five consular calendars and book the earliest available slot.',
       },
       {
         q: 'How much does a US visa cost from India in total?',
-        a: 'About ₹35,500 end to end: Travlys service fee from ₹19,940 + US embassy MRV fee of $185 (~₹15,500). VAC biometrics and courier are included in our fee. No urgency surcharges, no per-document add-ons.',
+        a: 'About ₹38,000 end to end: Travlys service fee from ₹19,940 + US embassy MRV fee of $185 (~₹18,100 at the current consular rate of ₹98 per dollar). VAC biometrics and courier are included in our fee. No urgency surcharges, no per-document add-ons.',
       },
       {
         q: 'Do I need to travel to New Delhi for the interview?',
-        a: 'Not always. Five US missions handle Indian applicants based on jurisdiction: Embassy New Delhi, and Consulates in Mumbai, Chennai, Kolkata and Hyderabad. Your home state decides which centre you go to.',
+        a: 'Not always. Five US missions handle Indian applicants based on jurisdiction: Embassy New Delhi, and Consulates in Mumbai, Chennai, Kolkata and Hyderabad. Your home state decides which centre you go to. Since September 2025 you must also apply in your country of nationality or residence, so if you live in India you cannot book a faster slot in Dubai or Bangkok.',
       },
       {
         q: 'Can Travlys help if my US visa was refused before?',
@@ -2706,7 +5752,7 @@ export const BLOG_POSTS = [
       { type: 'p', text: 'The first decision is the visa category, not the documents. Most Indian applicants fall into one of four buckets:' },
       { type: 'ul', items: [
         '**B1/B2 (Visitor)** — tourism, family visit, medical, business meetings, conferences. The default for short stays up to 6 months.',
-        '**F-1 (Student)** — full-time study at an SEVP-certified US institution with a valid I-20 form.',
+        '**F-1 (Student)** — full-time study at an SEVP-certified US institution with a valid I-20 form. F, M and J applicants (and H-1B and H-4 applicants) must set all social media accounts to public before the interview.',
         '**H-1B (Specialty Worker)** — sponsored employment for roles requiring at least a bachelor\'s degree, with an approved I-129 petition.',
         '**L-1 (Intracompany Transfer)** — managers, executives or specialised employees moving to a US office of a multinational.',
       ] },
@@ -2738,11 +5784,11 @@ export const BLOG_POSTS = [
       { type: 'h2', text: 'The 5 US missions in India: where you actually go' },
       { type: 'p', text: 'Indian applicants do not all interview at the same place. Jurisdiction follows your state of residence:' },
       { type: 'ul', items: [
-        '**US Embassy New Delhi** — Delhi, UP, Punjab, Haryana, J&K, HP, Uttarakhand',
+        '**US Embassy New Delhi** — Delhi, UP, Rajasthan, Punjab, Haryana, J&K, Ladakh, HP, Uttarakhand, Chandigarh',
         '**US Consulate Mumbai** — Maharashtra, Gujarat, Goa, MP, Chhattisgarh',
         '**US Consulate Chennai** — Tamil Nadu, Karnataka, Kerala, Puducherry',
-        '**US Consulate Kolkata** — West Bengal, Bihar, Odisha, Jharkhand, NE states',
-        '**US Consulate Hyderabad** — Telangana, Andhra Pradesh, Odisha (shared with Kolkata)',
+        '**US Consulate Kolkata** — West Bengal, Bihar, Jharkhand, Sikkim, NE states',
+        '**US Consulate Hyderabad** — Telangana, Andhra Pradesh, Odisha',
       ] },
       { type: 'p', text: 'You can book biometrics (VAC) and the interview in two different cities — for example, VAC in Bengaluru and interview in Chennai. We pick the combination with the earliest available date.' },
 
@@ -2758,8 +5804,8 @@ export const BLOG_POSTS = [
 
       { type: 'h2', text: 'What Travlys does and what it costs' },
       { type: 'p', text: 'Service fee starts at ₹19,940 for B1/B2. This covers DS-160 review and submission, document checklist tailored to your profile, two mock-interview sessions, VAC + embassy appointment booking, and WhatsApp support until decision.' },
-      { type: 'p', text: 'You pay the US embassy MRV fee ($185, ~₹15,500) separately to the embassy — that money goes to the US government, not us, and is non-refundable regardless of the outcome.' },
-      { type: 'p', text: 'Total estimate, including everything: about ₹35,500 for a B1/B2 visa from India. The total is the same whether you live in Mumbai, Delhi, Ahmedabad or anywhere else — there is no location surcharge.' },
+      { type: 'p', text: 'You pay the US embassy MRV fee ($185, ~₹18,100 at the current consular rate of ₹98 per dollar) separately to the embassy — that money goes to the US government, not us, and is non-refundable regardless of the outcome.' },
+      { type: 'p', text: 'Total estimate, including everything: about ₹38,000 for a B1/B2 visa from India. The total is the same whether you live in Mumbai, Delhi, Ahmedabad or anywhere else — there is no location surcharge.' },
     ],
   },
 
@@ -2772,6 +5818,7 @@ export const BLOG_POSTS = [
     excerpt:
       'The DS-160 form is what the consular officer reads first. These 8 mistakes are the most common reasons Indian applicants get refused — every single one is preventable.',
     date: '2026-06-19',
+    updated: '2026-10-25',
     readMinutes: 7,
     category: 'How-to',
     tags: ['DS-160', 'USA', 'Refusal', 'B1/B2'],
@@ -2781,7 +5828,7 @@ export const BLOG_POSTS = [
     faqs: [
       {
         q: 'Can I edit a DS-160 after submission?',
-        a: 'No, you cannot edit a submitted DS-160. You can create a new one and submit again, but you do not pay the MRV fee a second time if you have not booked the interview yet. We catch errors before submission.',
+        a: 'No, you cannot edit a submitted DS-160. You can fill in a new one and submit it, and you do not pay the MRV fee again. If you have already booked, the US Embassy says to bring both the original and the corrected DS-160 confirmation pages to your VAC or drop-off appointment, or reschedule using the new application number. We catch errors before submission.',
       },
       {
         q: 'How long is a DS-160 confirmation valid?',
@@ -2845,6 +5892,7 @@ export const BLOG_POSTS = [
     excerpt:
       'A Schengen visa application is mostly about ticking the right boxes. Here is the 2026 checklist for Indian applicants, plus the 4 documents most people forget to add.',
     date: '2026-06-19',
+    updated: '2026-10-25',
     readMinutes: 6,
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
@@ -2858,7 +5906,7 @@ export const BLOG_POSTS = [
       },
       {
         q: 'What insurance cover do I need?',
-        a: 'Schengen rules require travel medical insurance with minimum €30,000 cover, valid across all 26 Schengen states for the full duration of your stay, and explicitly covering repatriation and emergency medical evacuation. Standard Indian travel insurance usually meets this; we double-check.',
+        a: 'Schengen rules require travel medical insurance with minimum €30,000 cover, valid across all 29 Schengen states for the full duration of your stay, and explicitly covering repatriation and emergency medical evacuation. Standard Indian travel insurance usually meets this; we double-check.',
       },
       {
         q: 'Do I need to book flights before applying?',
@@ -2871,7 +5919,7 @@ export const BLOG_POSTS = [
       { type: 'ul', items: [
         '**Passport** — valid for at least 3 months beyond intended return date, with at least 2 blank pages',
         '**Schengen visa application form** — signed, dated',
-        '**2 recent biometric photographs** — 35×45 mm, white background, taken in the last 3 months',
+        '**Photo** — taken digitally at the VFS appointment for the Netherlands; if a printed photo is asked for, 35×45 mm, white or light background, no more than 6 months old',
         '**Confirmed flight itinerary** — round-trip, not actual purchased tickets',
         '**Confirmed hotel bookings or invitation letter** — for the entire stay',
         '**Travel insurance certificate** — €30,000+ medical cover, valid for the full Schengen area',
@@ -2897,11 +5945,11 @@ export const BLOG_POSTS = [
       { type: 'p', text: 'Your insurer sends two PDFs: the policy schedule (long, terms-and-conditions) and the visa certificate (1–2 pages, written in the standard Schengen format). The consulate wants the certificate. The schedule is a backup.' },
 
       { type: 'h2', text: 'Why this checklist matters more for Schengen than for other visas' },
-      { type: 'p', text: 'Schengen processing is largely a documents check — there is no interview for short-stay applications. The case is decided on the file alone. Missing one document means a refusal you never get a chance to defend in person.' },
-      { type: 'p', text: 'For an applicant with a clean travel history, a complete Schengen file is approved in 7–15 calendar days. The same applicant with a missing insurance certificate gets refused in 30 minutes and waits 3 months to re-apply.' },
+      { type: 'p', text: 'Schengen processing is largely a documents check — there is usually no interview for short-stay applications, though the consulate can ask for one. The case is decided on the file alone. Missing one document means a refusal you never get a chance to defend in person.' },
+      { type: 'p', text: 'For an applicant with a clean travel history, the Netherlands currently decides a complete Schengen file in about 18–21 calendar days on average (up to 45 in some cases). The same applicant with a missing insurance certificate can be refused, loses the visa fee, and has to file a fresh application.' },
 
       { type: 'h2', text: 'What Travlys does' },
-      { type: 'p', text: 'Schengen service from ₹2,950. Includes form, cover letter, insurance sourcing, VFS appointment, document QA, and biometrics support. The embassy fee (currently €90, ~₹8,200) is paid separately at VFS.' },
+      { type: 'p', text: 'Schengen service from ₹2,950. Includes form, cover letter, insurance sourcing, VFS appointment, document QA, and biometrics support. The embassy fee (currently €90, ~₹9,600) is paid separately at VFS.' },
     ],
   },
 
@@ -2914,6 +5962,7 @@ export const BLOG_POSTS = [
     excerpt:
       'Honest answer from a visa consultant: there are 5 situations where hiring one pays for itself, and 2 where you genuinely do not need help. Here is how to tell which is which.',
     date: '2026-06-19',
+    updated: '2026-10-25',
     readMinutes: 5,
     category: 'Honest takes',
     tags: ['Consultant', 'DIY', 'Decision'],
@@ -2923,7 +5972,7 @@ export const BLOG_POSTS = [
     faqs: [
       {
         q: 'Does using a consultant improve approval chances?',
-        a: 'It depends on the visa. For e-Visas (Singapore, Malaysia, Thailand, UAE 14-day), the answer is essentially no — the application is straightforward. For embassy-stamp visas (US, UK, Canada, Schengen) where interviews and detailed financial framing matter, a good consultant materially improves outcomes. Our approval rate across 5,000+ applications is 98%, well above the Indian average for self-applied US visas (75-85%).',
+        a: 'It depends on the visa. For simple visas such as Singapore or a UAE tourist e-Visa, the answer is essentially no — the application is straightforward. Malaysia and Thailand are currently visa-free for short tourist trips by Indians. For embassy-stamp visas (US, UK, Canada, Schengen) where interviews and detailed financial framing matter, a good consultant materially improves outcomes. Our approval rate across 5,000+ applications is 98%, well above the Indian average for self-applied US visas (75-85%).',
       },
       {
         q: 'How do consultants get paid?',
@@ -2934,7 +5983,7 @@ export const BLOG_POSTS = [
       { type: 'h2', text: 'The 5 situations where a consultant earns their fee' },
 
       { type: 'h3', text: '1. Embassy-stamp visas (US, UK, Canada)' },
-      { type: 'p', text: 'These visas have interviews, complex forms, and significant refusal rates. A consultant who has done the route hundreds of times knows what triggers a refusal and what does not. For US, the difference between a ₹19,940 service fee and a ₹15,500 wasted MRV fee on a refusal is obvious math.' },
+      { type: 'p', text: 'These visas have interviews, complex forms, and significant refusal rates. A consultant who has done the route hundreds of times knows what triggers a refusal and what does not. For US, the difference between a ₹19,940 service fee and a ₹18,100 wasted MRV fee on a refusal is obvious math.' },
 
       { type: 'h3', text: '2. First-time Schengen application without travel history' },
       { type: 'p', text: 'Schengen refusal rates for first-time Indian applicants are around 18%. With a consultant who frames the cover letter and ties properly, that drops to under 5%. The €90 embassy fee is gone either way; the ₹2,950 service fee is the cheap part.' },
@@ -2946,12 +5995,12 @@ export const BLOG_POSTS = [
       { type: 'p', text: 'Salaried applicants have clean income proofs — Form 16, payslips, employer letter. Self-employed applicants have to construct income credibility from GST returns, bank statements and business documents. Consulates often refuse self-employed applications because the narrative is unclear, not because the funds are insufficient. A consultant builds that narrative.' },
 
       { type: 'h3', text: '5. Tight timeline' },
-      { type: 'p', text: 'If you are travelling in 3 weeks and have not started, a consultant who books VFS slots professionally and prepares the file fast is genuinely the difference between catching your trip and missing it. We have routine experience filing US visas in 21 days end to end when needed.' },
+      { type: 'p', text: 'If you are travelling in 3 weeks and have not started, a consultant who books VFS slots professionally and prepares the file fast is genuinely the difference between catching your trip and missing it. For US visas, though, B1/B2 interview waits in India are currently around 6–12 months, so even a fast file cannot beat the appointment queue unless you qualify for the interview waiver or get an expedited appointment.' },
 
       { type: 'h2', text: 'The 2 situations where you genuinely do not need a consultant' },
 
-      { type: 'h3', text: '1. Simple e-Visas (Singapore, Malaysia, Thailand, UAE 14-day)' },
-      { type: 'p', text: 'These are online forms with ~10 questions and a passport upload. If you can read English and have a stable internet connection, you can do these yourself in 20 minutes. The Indian agency markup on these is the worst value in visa services. Our pricing for them (₹999 Malaysia, ₹1,950 Thailand) is low because the value is genuinely low — but for many travellers, the convenience is worth it.' },
+      { type: 'h3', text: '1. Simple visas (Singapore, UAE) and visa-free trips (Malaysia, Thailand)' },
+      { type: 'p', text: 'A UAE tourist e-Visa is a short online form with a passport upload that you can do yourself in about 20 minutes. Malaysia and Thailand need only a free online arrival card for short tourist trips. Singapore is the exception: Indians must apply through an authorised visa agent, so you cannot file it yourself. The Indian agency markup on these is the worst value in visa services. Our pricing for them (₹999 Malaysia, ₹1,950 Thailand) is low because the value is genuinely low — but for many travellers, the convenience is worth it.' },
 
       { type: 'h3', text: '2. Repeat applicants with strong travel history' },
       { type: 'p', text: 'If you have travelled to 10+ countries, have a valid US/UK visa on your passport, and are applying for a Schengen short-stay, your application file basically writes itself. The risk of refusal is minimal. A consultant adds polish, not protection.' },
@@ -2977,6 +6026,7 @@ export const BLOG_POSTS = [
     excerpt:
       'The Dubai visa "from ₹2,500" headline hides a lot. Here is the real cost of each UAE visa option from India in 2026, plus when each makes sense.',
     date: '2026-06-19',
+    updated: '2026-10-25',
     readMinutes: 4,
     category: 'Cost guides',
     tags: ['UAE', 'Dubai', 'e-Visa', 'Cost'],
@@ -3017,9 +6067,9 @@ export const BLOG_POSTS = [
       { type: 'p', text: 'Travlys fee + GDRFA government fee = total. GDRFA fees fluctuate slightly with currency; the table below shows the current 2026 numbers:' },
       { type: 'ul', items: [
         '14-day single: ₹2,500 Travlys + AED 180 GDRFA (~₹4,100) = **~₹6,600 total**',
-        '30-day single: ₹3,500 Travlys + AED 320 GDRFA (~₹7,300) = **~₹10,800 total**',
-        '30-day multiple: ₹6,500 Travlys + AED 690 GDRFA (~₹15,800) = **~₹22,300 total**',
-        '60-day single: ₹4,500 Travlys + AED 670 GDRFA (~₹15,300) = **~₹19,800 total**',
+        '30-day single: ₹3,500 Travlys + AED 200 + 5% VAT GDRFA (~₹5,400) = **~₹8,900 total**',
+        '30-day multiple: ₹6,500 Travlys + AED 300 + 5% VAT GDRFA (~₹8,100) = **~₹14,600 total**',
+        '60-day single: ₹4,500 Travlys + AED 300 + 5% VAT GDRFA (~₹8,100) = **~₹12,600 total**',
       ] },
 
       { type: 'h2', text: 'When each makes sense' },
@@ -3046,6 +6096,7 @@ export const BLOG_POSTS = [
     excerpt:
       'Visa refusals are almost never random. Here are the 7 reasons we see most often when Indian applicants come to us after a rejection, and what to fix before you re-apply.',
     date: '2026-06-19',
+    updated: '2026-10-25',
     readMinutes: 6,
     category: 'Honest takes',
     tags: ['Refusal', 'Re-application', '214(b)'],
@@ -3079,7 +6130,7 @@ export const BLOG_POSTS = [
       { type: 'p', text: '**Fix:** before filing, lay every number side by side. Salary on letter, salary in bank, salary on Form 16, salary on DS-160 — should all match. If they do not match for legitimate reasons (variable pay, bonus, allowances), explain in the cover letter.' },
 
       { type: 'h2', text: '4. Itinerary that does not make sense' },
-      { type: 'p', text: 'Planning to spend 2 days in Paris and 12 days in Romania for a Schengen tourist visa raises questions. Romania is not Schengen, for one, but more importantly the time distribution does not match a typical leisure trip. Officers know what genuine tourism looks like.' },
+      { type: 'p', text: 'Planning to spend 2 days in Paris and 12 days in Romania for a Schengen tourist visa raises questions. Romania has been a full Schengen member since January 2025, so with 12 days there you should be applying to Romania, not France, and the time distribution does not match a typical leisure trip. Officers know what genuine tourism looks like.' },
       { type: 'p', text: '**Fix:** build an itinerary you could actually defend in conversation. Time in cities should match what a tourist would do — 3 days for a major city, 1-2 days for a smaller stop.' },
 
       { type: 'h2', text: '5. Travel history mismatch' },
@@ -3126,4 +6177,14 @@ export function getPostsForDestination(slug) {
 // Newest posts first, by last update.
 export function getLatestPosts(n = 3) {
   return [...BLOG_POSTS].sort((a, b) => (b.updated || b.date).localeCompare(a.updated || a.date)).slice(0, n)
+}
+
+export function categorySlug(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+}
+
+export function getCategory(slug) {
+  const name = BLOG_CATEGORIES.find((c) => categorySlug(c) === slug)
+  if (!name) return null
+  return { name, slug, posts: BLOG_POSTS.filter((p) => p.category === name) }
 }

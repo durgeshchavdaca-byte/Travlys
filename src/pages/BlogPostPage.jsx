@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import { ArrowUpRight, ChevronRight, Clock3, Calendar, MessageCircle, Plus } from 'lucide-react'
 import AnimatedSection from '../components/AnimatedSection'
 import { HeroBlobs } from '../components/MotionGraphics'
-import { getPost, BLOG_POSTS } from '../data/blog'
+import { getPost, BLOG_POSTS, categorySlug } from '../data/blog'
 import { destinations } from '../data/destinations'
 import SEO from '../components/SEO'
 import { getPostMeta, buildPostSchemas } from '../seo/pages'
@@ -131,7 +131,7 @@ export default function BlogPostPage() {
             <ChevronRight className="w-3 h-3" />
             <Link to="/blog/" className="hover:text-coral-400 no-underline text-white/70">Blog</Link>
             <ChevronRight className="w-3 h-3" />
-            <span className="text-white">{post.category}</span>
+            <Link to={`/blog/category/${categorySlug(post.category)}/`} className="hover:text-coral-400 no-underline text-white">{post.category}</Link>
           </nav>
 
           <div className="max-w-3xl">

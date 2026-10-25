@@ -20,7 +20,7 @@ import { destinations } from '../src/data/destinations.js'
 import { CITIES } from '../src/data/cities.js'
 import { reviews } from '../src/data/reviews.js'
 import { FEATURED_TESTIMONIALS } from '../src/data/testimonials.js'
-import { BLOG_POSTS, getPostsForDestination, getLatestPosts } from '../src/data/blog.js'
+import { BLOG_POSTS, BLOG_CATEGORIES, categorySlug, getCategory, getPostsForDestination, getLatestPosts } from '../src/data/blog.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -56,6 +56,8 @@ import {
   buildQuestionsSchemas,
   getPostMeta,
   getQuestionGroups,
+  getCategoryMeta,
+  buildCategorySchemas,
 } from '../src/seo/pages.js'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -128,6 +130,14 @@ function buildHead(meta, schemas) {
     `<meta property="og:image:width" content="1200" />`,
     `<meta property="og:image:height" content="630" />`,
     `<meta property="og:image:alt" content="${escapeAttr(meta.imageAlt || DEFAULT_OG_ALT)}" />`,
+    ...(meta.published
+      ? [
+          `<meta property="article:published_time" content="${meta.published}" />`,
+          `<meta property="article:modified_time" content="${meta.modified || meta.published}" />`,
+          meta.section ? `<meta property="article:section" content="${escapeAttr(meta.section)}" />` : '',
+          ...(meta.tags || []).map((t) => `<meta property="article:tag" content="${escapeAttr(t)}" />`),
+        ]
+      : []),
     `<meta name="twitter:card" content="summary_large_image" />`,
     `<meta name="twitter:title" content="${escapeAttr(fullTitle)}" />`,
     `<meta name="twitter:description" content="${escapeAttr(meta.description)}" />`,
@@ -410,11 +420,29 @@ ${destinationsTable()}
 ${faqList(PRICING_FAQS, 'Pricing FAQs')}`
 }
 
+function categoryLinks() {
+  return `<nav aria-label="Categories"><ul>${BLOG_CATEGORIES.map((c) => `<li><a href="${href(`/blog/category/${categorySlug(c)}`)}">${escapeHtml(c)}</a></li>`).join('')}</ul></nav>`
+}
+
+function postList(posts) {
+  return posts.map((p) => `<article><h2><a href="${href(`/blog/${p.slug}`)}">${escapeHtml(p.title)}</a></h2><p><time datetime="${p.updated || p.date}">${p.updated || p.date}</time> · ${p.readMinutes} min read · ${escapeHtml(p.category)}</p><p>${inline(p.excerpt)}</p></article>`).join('\n')
+}
+
+function categoryBody(cat) {
+  const meta = getCategoryMeta(cat)
+  return `${crumbs([['Home', '/'], ['Blog', '/blog'], [cat.name]])}
+<h1>${escapeHtml(cat.name)}</h1>
+<p>${escapeHtml(meta.blurb)}</p>
+${categoryLinks()}
+${postList(cat.posts)}`
+}
+
 function blogIndexBody() {
   return `${crumbs([['Home', '/'], ['Blog']])}
 <h1>Visa guides, without the fluff.</h1>
 <p>${escapeHtml(BLOG_INDEX_META.description)}</p>
-${BLOG_POSTS.map((p) => `<article><h2><a href="${href(`/blog/${p.slug}`)}">${escapeHtml(p.title)}</a></h2><p><time datetime="${p.date}">${p.date}</time> · ${p.readMinutes} min read</p><p>${inline(p.excerpt)}</p></article>`).join('\n')}`
+${categoryLinks()}
+${postList(BLOG_POSTS)}`
 }
 
 function postBody(post) {
@@ -478,6 +506,7 @@ function buildSitemap() {
     ),
     sitemapEntry('/visa-questions', { changefreq: 'weekly', priority: '0.85' }),
     ...['/pricing', '/about', '/contact', '/blog'].map((p) => sitemapEntry(p, { changefreq: 'weekly', priority: '0.8' })),
+    ...BLOG_CATEGORIES.map((c) => sitemapEntry(`/blog/category/${categorySlug(c)}`, { changefreq: 'weekly', priority: '0.7' })),
     ...BLOG_POSTS.map((post) =>
       sitemapEntry(`/blog/${post.slug}`, { lastmod: post.updated || post.date || TODAY, image: { loc: post.heroImage } }),
     ),
@@ -552,6 +581,11 @@ ${linkList(destinations.map((d) => [`${d.name} visa`, `/visa/${d.slug}`]))}
 <h2>City visa hubs</h2>
 <ul>
 ${linkList(CITIES.map((c) => [`Visa consultants in ${c.name}`, `/from/${c.slug}`]))}
+</ul>
+
+<h2>Guide categories</h2>
+<ul>
+${linkList(BLOG_CATEGORIES.map((c) => [c, `/blog/category/${categorySlug(c)}`]))}
 </ul>
 
 <h2>Visa guides (${BLOG_POSTS.length})</h2>
@@ -738,6 +772,10 @@ async function main() {
   await page(CONTACT_META, buildContactSchemas(), contactBody())
   await page(BLOG_INDEX_META, buildBlogIndexSchemas(), blogIndexBody(), { inLlms: false })
   for (const post of BLOG_POSTS) await page(getPostMeta(post), buildPostSchemas(post), postBody(post))
+  for (const name of BLOG_CATEGORIES) {
+    const cat = getCategory(categorySlug(name))
+    await page(getCategoryMeta(cat), buildCategorySchemas(cat), categoryBody(cat), { inLlms: false })
+  }
   // City pages are templated variations of the pages above, so they stay out
   // of llms-full.txt to keep it focused.
   for (const c of CITIES) {

@@ -4,7 +4,7 @@
 // the same metadata. Plain JS, no JSX, so Node can import it.
 
 import { destinations } from '../data/destinations.js'
-import { BLOG_POSTS } from '../data/blog.js'
+import { BLOG_POSTS, categorySlug } from '../data/blog.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -186,6 +186,10 @@ export function getPostMeta(post) {
     type: 'article',
     image: post.heroImage,
     imageAlt: post.title,
+    published: post.date,
+    modified: post.updated || post.date,
+    section: post.category,
+    tags: post.tags,
   }
 }
 
@@ -277,3 +281,54 @@ export function buildQuestionsSchemas() {
     faqSchema(all),
   ]
 }
+
+// --- Blog category pages ---------------------------------------------------------
+
+const CATEGORY_BLURBS = {
+  'Visa rule updates': 'The latest visa and entry rule changes for Indian passport holders, checked against official sources.',
+  'Travel planning': 'Where Indians can travel easily right now, what entry needs, and how to plan the trip.',
+  'Country guides': 'Full guides to applying for a visa to a specific country from India.',
+  'Study abroad': 'Student visa rules and changes for Indian students heading abroad.',
+}
+
+export function getCategoryMeta(cat) {
+  const blurb = CATEGORY_BLURBS[cat.name] || `Travlys guides on ${cat.name.toLowerCase()} for Indian travelers.`
+  return {
+    title: `${cat.name}: visa guides for Indian travelers`,
+    description: `${blurb} ${cat.posts.length} guides from the Travlys visa team.`.slice(0, 160),
+    path: `/blog/category/${cat.slug}`,
+    keywords: `${cat.name.toLowerCase()}, visa guides india, travlys blog`,
+    type: 'website',
+    image: cat.posts[0]?.heroImage || DEFAULT_OG_IMAGE,
+    imageAlt: `${cat.name}, Travlys blog`,
+    blurb,
+  }
+}
+
+export function buildCategorySchemas(cat) {
+  const meta = getCategoryMeta(cat)
+  return [
+    buildWebPageSchema(meta),
+    {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      '@id': `${pageUrl(meta.path)}#collection`,
+      url: pageUrl(meta.path),
+      name: meta.title,
+      description: meta.description,
+      isPartOf: { '@id': `${pageUrl('/blog')}#blog` },
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: cat.posts.map((p, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: pageUrl(`/blog/${p.slug}`),
+          name: p.title,
+        })),
+      },
+    },
+    crumbs({ name: 'Blog', url: pageUrl('/blog') }, { name: cat.name, url: pageUrl(meta.path) }),
+  ]
+}
+
+export { categorySlug }

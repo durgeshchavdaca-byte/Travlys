@@ -1,12 +1,12 @@
 import { useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useParams } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { ArrowUpRight, BookOpen, Clock3, Sparkles } from 'lucide-react'
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
 import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
-import { BLOG_POSTS, BLOG_CATEGORIES } from '../data/blog'
+import { BLOG_POSTS, BLOG_CATEGORIES, categorySlug, getCategory } from '../data/blog'
 import SEO from '../components/SEO'
-import { BLOG_INDEX_META, buildBlogIndexSchemas } from '../seo/pages'
+import { BLOG_INDEX_META, buildBlogIndexSchemas, getCategoryMeta, buildCategorySchemas } from '../seo/pages'
 
 // Renders a hero image; on load error, swaps to a clean gradient panel
 // so a single broken Unsplash URL never dumps alt text onto the card.
@@ -39,10 +39,17 @@ function PostThumb({ src, alt }) {
 const indexMeta = BLOG_INDEX_META
 const indexSchemas = buildBlogIndexSchemas
 
+// Serves /blog and /blog/category/:cat (same layout, filtered posts).
 export default function BlogIndexPage() {
+  const { cat: catSlug } = useParams()
+  const cat = catSlug ? getCategory(catSlug) : null
+  const posts = cat ? cat.posts : BLOG_POSTS
+  const meta = cat ? getCategoryMeta(cat) : indexMeta
+  const schemas = cat ? buildCategorySchemas(cat) : indexSchemas()
+
   return (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: 0.35 }}>
-      <SEO {...indexMeta} jsonLd={indexSchemas()} />
+      <SEO {...meta} jsonLd={schemas} />
 
       {/* HERO */}
       <section className="relative pt-32 pb-16 md:pt-40 md:pb-20 overflow-hidden mesh-warm">
@@ -54,18 +61,29 @@ export default function BlogIndexPage() {
             <span className="pill bg-white border border-line text-ink-900">
               <BookOpen className="w-3.5 h-3.5 text-coral-500" /> Editorial
             </span>
-            <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.6rem] font-extrabold text-ink-900 mt-5 leading-[1.05]">
-              <TextReveal text="Visa guides," as="span" />
-              <br />
-              <span className="hero-italic-mark">
-                <span className="relative italic text-ink-900">without the fluff.</span>
-              </span>
-            </h1>
-            <p className="text-slate-muted mt-5 text-[1.05rem] max-w-2xl leading-relaxed">
-              Honest, no-fluff guides from the Travlys consulting team —
-              written for Indian travelers who want to know what actually
-              decides a visa, not a recycled embassy press release.
-            </p>
+            {cat ? (
+              <>
+                <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.6rem] font-extrabold text-ink-900 mt-5 leading-[1.05]">
+                  <TextReveal text={cat.name} as="span" />
+                </h1>
+                <p className="text-slate-muted mt-5 text-[1.05rem] max-w-2xl leading-relaxed">{meta.blurb}</p>
+              </>
+            ) : (
+              <>
+                <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.6rem] font-extrabold text-ink-900 mt-5 leading-[1.05]">
+                  <TextReveal text="Visa guides," as="span" />
+                  <br />
+                  <span className="hero-italic-mark">
+                    <span className="relative italic text-ink-900">without the fluff.</span>
+                  </span>
+                </h1>
+                <p className="text-slate-muted mt-5 text-[1.05rem] max-w-2xl leading-relaxed">
+                  Honest, no-fluff guides from the Travlys consulting team —
+                  written for Indian travelers who want to know what actually
+                  decides a visa, not a recycled embassy press release.
+                </p>
+              </>
+            )}
           </div>
         </div>
       </section>
@@ -74,8 +92,17 @@ export default function BlogIndexPage() {
       <section className="py-6 bg-white border-y border-line">
         <div className="container-app flex items-center gap-3 overflow-x-auto no-scrollbar">
           <span className="text-xs uppercase tracking-widest text-slate-faint font-semibold shrink-0">Categories</span>
+          <Link to="/blog/" className={`chip text-xs whitespace-nowrap no-underline ${cat ? '' : 'border-coral-500 text-coral-600'}`}>
+            All
+          </Link>
           {BLOG_CATEGORIES.map((c) => (
-            <span key={c} className="chip text-xs whitespace-nowrap">{c}</span>
+            <Link
+              key={c}
+              to={`/blog/category/${categorySlug(c)}/`}
+              className={`chip text-xs whitespace-nowrap no-underline ${cat?.name === c ? 'border-coral-500 text-coral-600' : ''}`}
+            >
+              {c}
+            </Link>
           ))}
         </div>
       </section>
@@ -87,7 +114,7 @@ export default function BlogIndexPage() {
             className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
             stagger={0.05}
           >
-            {BLOG_POSTS.map((p) => (
+            {posts.map((p) => (
               <StaggerItem key={p.slug}>
                 <Link
                   to={`/blog/${p.slug}/`}

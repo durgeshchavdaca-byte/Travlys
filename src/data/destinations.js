@@ -11,8 +11,8 @@ export const destinations = [
     accent: '#3b5bdb',
     region: 'Americas',
     visaType: 'Embassy Visa',
-    processingTime: '3-8 weeks',
-    processingTimeShort: '3-8 wks',
+    processingTime: '6-12 months (interview wait)',
+    processingTimeShort: '6-12 mo',
     validity: 'Up to 10 years',
     stayDuration: 'Up to 6 months / visit',
     entryType: 'Multiple',
@@ -43,7 +43,7 @@ export const destinations = [
     faqs: [
       {
         q: 'How long does it take to get a US visa from India?',
-        a: 'Interview wait times at US consulates in India fluctuate. Once your interview is done, B1/B2 stamping typically arrives within 1-2 weeks. We help you grab the earliest available slot.',
+        a: 'B1/B2 interview waits at US posts in India were roughly 6-12 months in October 2026 and change often. Once your interview is done, B1/B2 stamping typically arrives within 1-2 weeks. We help you grab the earliest available slot.',
       },
       {
         q: 'What documents do I need for a US tourist visa?',
@@ -60,8 +60,8 @@ export const destinations = [
     ],
     categories: [
       { name: 'B-1 / B-2 Visitor', purpose: 'Tourism, business meetings, medical', description: 'For short trips covering sightseeing, conferences, negotiations or medical treatment.' },
-      { name: 'F-1 Student', purpose: 'Full-time study', description: 'For students admitted to accredited US universities with a valid I-20 form.' },
-      { name: 'H-1B Specialty Worker', purpose: 'Skilled employment', description: 'For roles requiring at least a bachelor’s degree, sponsored by a US employer with an approved petition.' },
+      { name: 'F-1 Student', purpose: 'Full-time study', description: 'For students admitted to accredited US universities with a valid I-20 form. All social media accounts must be set to public before the interview.' },
+      { name: 'H-1B Specialty Worker', purpose: 'Skilled employment', description: 'For roles requiring at least a bachelor’s degree, sponsored by a US employer with an approved petition. H-1B and H-4 applicants must set all social media accounts to public.' },
       { name: 'L-1 Intracompany Transfer', purpose: 'Internal company move', description: 'For managers, executives or specialized employees moving to a US office of a multinational.' },
     ],
     processSteps: [
@@ -91,7 +91,7 @@ export const destinations = [
       updatedOn: '2026-07-10',
       reviewedBy: 'The Travlys US visa desk',
       tldr:
-        'The US visa from India is not a paper application, it is an evidence-based conversation with a consular officer. Cost is roughly ₹35,000-40,000 all-in (MRV fee $185, service fee, VAC, courier). Total time from brief to stamped passport is typically 3-8 weeks, most of it interview-wait. DS-160 accuracy and interview coaching decide the outcome more than any single document.',
+        'The US visa from India is not a paper application, it is an evidence-based conversation with a consular officer. Cost is roughly ₹38,000-42,000 all-in (MRV fee $185, service fee, VAC, courier). Total time from brief to stamped passport is typically 6-12 months for a first-time B1/B2 applicant, most of it interview-wait. DS-160 accuracy and interview coaching decide the outcome more than any single document.',
       sections: [
         {
           h2: 'US visa from India in 2026: what actually decides the outcome',
@@ -121,7 +121,7 @@ export const destinations = [
             {
               type: 'ul',
               items: [
-                'MRV (Machine Readable Visa) fee: $185 for B1/B2, F-1, M and most non-immigrant categories. Roughly ₹15,500 at current forex.',
+                'MRV (Machine Readable Visa) fee: $185 for B1/B2, F-1, M and most non-immigrant categories. About ₹18,100 at the current US consular exchange rate of ₹98 per dollar.',
                 'H, L, O, P, Q and R work visas: $205 MRV.',
                 'E treaty investor / trader visas: $315 MRV.',
                 'Reciprocity fee: applies to specific nationalities and categories; nil for most Indian applicants on B1/B2.',
@@ -147,7 +147,7 @@ export const destinations = [
             {
               type: 'callout',
               label: 'Realistic total',
-              text: 'For a first-time B1/B2 applicant from India, budget ₹35,000-40,000 all-in. Repeat applicants using the interview waiver save on time but not much on cost.',
+              text: 'For a first-time B1/B2 applicant from India, budget ₹38,000-42,000 all-in. B1/B2 renewals that qualify for the interview waiver save on time but not much on cost. Keep another $250 per visa in reserve for the visa integrity fee: it is in US law, but as of October 2026 we could not confirm it is being collected in India.',
             },
           ],
         },
@@ -244,11 +244,11 @@ export const destinations = [
             {
               type: 'ul',
               items: [
-                'New Delhi Embassy: covers Punjab, Haryana, Rajasthan, Uttarakhand, Uttar Pradesh (west), Himachal Pradesh, J&K, Chandigarh, and Delhi NCR.',
+                'New Delhi Embassy: covers Punjab, Haryana, Rajasthan, Uttarakhand, Uttar Pradesh, Himachal Pradesh, J&K, Chandigarh, and Delhi NCR.',
                 'Mumbai Consulate: covers Maharashtra, Gujarat, Madhya Pradesh, Goa, Chhattisgarh, Daman & Diu, Dadra & Nagar Haveli.',
                 'Chennai Consulate: covers Tamil Nadu, Kerala, Karnataka, Puducherry, Andaman & Nicobar Islands, Lakshadweep.',
-                'Hyderabad Consulate: covers Telangana, Andhra Pradesh, Odisha (parts).',
-                'Kolkata Consulate: covers West Bengal, Bihar, Jharkhand, Odisha (parts), Sikkim, all seven NE states.',
+                'Hyderabad Consulate: covers Telangana, Andhra Pradesh and Odisha.',
+                'Kolkata Consulate: covers West Bengal, Bihar, Jharkhand, Sikkim, all seven NE states.',
               ],
             },
             {
@@ -267,15 +267,15 @@ export const destinations = [
             {
               type: 'ul',
               items: [
-                'B1/B2 first-time: 3-12 months at Delhi, 2-8 months at Mumbai, 6-14 months at Hyderabad (Hyderabad has been the slowest post for two years running).',
-                'Interview waiver (drop-box) for repeat applicants: 2-6 weeks end-to-end.',
-                'F-1 students: 1-4 weeks (embassies prioritise student visas ahead of the academic year).',
-                'H-1B: 1-6 weeks post-lottery, subject to 221(g) administrative processing.',
+                'B1/B2 interview: roughly 6-12 months across the five posts in State Department figures for September-October 2026, with Hyderabad and Mumbai at the long end and Chennai and Kolkata shorter.',
+                'Interview waiver (drop-box), now mainly for B1/B2 renewals within 12 months of expiry: much faster, as there is no interview slot to wait for.',
+                'F-1 students: roughly 2 weeks to 2.5 months for an interview depending on the post (September 2026 figures); embassies prioritise student visas ahead of the academic year.',
+                'H-1B: a few weeks to a few months for an interview depending on the post, subject to 221(g) administrative processing. H-1B renewals also need an interview now.',
               ],
             },
             {
               type: 'p',
-              text: 'From the moment a client engages us to the moment the stamped passport is back in hand, most B1/B2 files close in 3-8 weeks, because we do not wait for slots to open at the assigned post, we hunt every 24 hours and book the first one that opens anywhere legal for the applicant.',
+              text: 'With current waits, a first-time B1/B2 file usually takes many months from brief to stamped passport, most of it waiting for the interview. We check for earlier slots every 24 hours and book the first one that opens at a post in India where the applicant can legally apply, but no one can promise an early date.',
             },
           ],
         },
@@ -284,21 +284,21 @@ export const destinations = [
           body: [
             {
               type: 'p',
-              text: 'The interview waiver, informally called "drop-box", lets qualifying repeat applicants skip the in-person interview and simply drop their passport at VFS. It is the fastest way to a US visa if you qualify. As of 2026 the rules for Indian applicants are:',
+              text: 'The interview waiver, informally called "drop-box", lets qualifying repeat applicants skip the in-person interview and simply drop their passport at VFS. It is the fastest way to a US visa if you qualify, but since September 2025 it is limited mainly to B1/B2 renewals. As of October 2026 the rules for Indian applicants are:',
             },
             {
               type: 'ul',
               items: [
-                'You had a previous US visa in the same category (e.g. B1/B2 renewing B1/B2).',
-                'The previous visa expired within the last 48 months (this window has changed multiple times, so check current rules).',
-                'You have never been refused a US visa.',
+                'You are renewing a full-validity B1, B2 or B1/B2 visa. F-1, H-1B, H-4 and other categories now need an interview.',
+                'The previous visa expired less than 12 months ago, and you were at least 18 when it was issued.',
+                'You have never been refused a US visa, unless that refusal was overcome or waived.',
                 'You have no ineligibility findings on your record.',
-                'You are physically in India when applying.',
+                'You apply in your country of nationality or residence and are physically in India when applying from India.',
               ],
             },
             {
               type: 'p',
-              text: 'Eligibility does not guarantee that the officer approves via drop-box, they can still ask you to appear for an interview. But roughly 90% of eligible files go through without a call-in. Travlys files ~40% of our current US caseload through drop-box.',
+              text: 'Eligibility does not guarantee that the officer approves via drop-box, they can still ask you to appear for an interview. Check your eligibility before you book, because if you are called for an interview you join the regular interview queue.',
             },
           ],
         },
@@ -401,13 +401,13 @@ export const destinations = [
     ],
     faqs: [
       { q: 'How long does a UK visa take from India?', a: 'Standard processing is around 3 weeks from biometrics. Priority (5 working days) and Super Priority (next working day) are available where slots exist, we’ll advise based on your travel dates.' },
-      { q: 'Do I need a TB test for a UK visa?', a: 'Yes, Indian applicants applying for stays longer than 6 months must submit a TB test certificate from a UKVI-approved clinic. We refer you to one near you.' },
+      { q: 'Do I need a TB test for a UK visa?', a: 'Yes, Indian applicants coming to the UK for 6 months or more must submit a TB test certificate from a UKVI-approved clinic. We refer you to one near you.' },
       { q: 'What is the Standard Visitor Visa?', a: 'It’s the visa most leisure and business travelers use, valid for tourism, business meetings, short courses, and certain medical visits up to 6 months per stay.' },
       { q: 'How much do you charge for UK visa help?', a: 'Service starts at ₹12,950 for the Standard Visitor Visa. UKVI fees and VFS charges are paid separately to the respective authorities.' },
     ],
     categories: [
       { name: 'Standard Visitor', purpose: 'Tourism, business, medical, short courses', description: 'Up to 6 months per stay; long-validity options (2/5/10 years) available with travel history.' },
-      { name: 'Student (Tier 4)', purpose: 'Full-time study', description: 'For students with a CAS from a UK institution holding a Tier 4 sponsor licence.' },
+      { name: 'Student', purpose: 'Full-time study', description: 'For students with a CAS from a licensed student sponsor in the UK.' },
       { name: 'Skilled Worker', purpose: 'Sponsored employment', description: 'For professionals with a Certificate of Sponsorship from a licensed UK employer at the required skill level.' },
     ],
     processSteps: [
@@ -425,7 +425,7 @@ export const destinations = [
       'Bank statements (last 6 months), ITR (last 2 years)',
       'Employment letter and salary slips',
       'Travel itinerary and accommodation bookings',
-      'TB test certificate (for stays > 6 months)',
+      'TB test certificate (for stays of 6 months or more)',
     ],
     relatedDestinations: ['usa-visa', 'netherlands-visa', 'canada-visa', 'australia-visa', 'singapore-visa', 'uae-visa'],
   },
@@ -469,12 +469,12 @@ export const destinations = [
     faqs: [
       { q: 'Do Indians need a visa for Canada?', a: 'Yes, Indian passport holders need a TRV (visitor visa), study permit or work permit. eTA is generally not available for Indian passport holders.' },
       { q: 'How long does the Canada visitor visa take?', a: 'Typical IRCC processing from India runs 4-8 weeks once biometrics are submitted. Peak season can extend this.' },
-      { q: 'Is biometrics required for Canada visas in India?', a: 'Yes, applicants in India submit biometrics at a VFS centre as part of every IRCC application.' },
+      { q: 'Is biometrics required for Canada visas in India?', a: 'Yes, most applicants in India give biometrics at a VFS centre. Biometrics stay valid for 10 years, so if you gave them recently you may not need to give them again.' },
       { q: 'How much does Travlys charge for Canada visa help?', a: 'Service starts at ₹14,950 for visitor visas. IRCC and VFS fees are paid separately to the authorities.' },
     ],
     categories: [
       { name: 'Visitor Visa (TRV)', purpose: 'Tourism, family visits', description: 'Multiple-entry visa valid up to 10 years or passport expiry, with stays up to 6 months per visit.' },
-      { name: 'Study Permit', purpose: 'Study at a DLI', description: 'For students with a Letter of Acceptance from a Designated Learning Institution.' },
+      { name: 'Study Permit', purpose: 'Study at a DLI', description: 'For students with a Letter of Acceptance from a Designated Learning Institution and, in most cases, a provincial or territorial attestation letter (PAL/TAL).' },
       { name: 'Work Permit', purpose: 'Employment in Canada', description: 'For applicants with a valid LMIA-backed job offer or LMIA-exempt category.' },
     ],
     processSteps: [
@@ -507,7 +507,7 @@ export const destinations = [
     processingTime: '2-6 weeks',
     processingTimeShort: '2-6 wks',
     validity: '1-3 years',
-    stayDuration: 'Up to 3 months / visit',
+    stayDuration: 'Usually 3 months, up to 12 / visit',
     entryType: 'Multiple',
     price: 'From ₹4,950',
     priceValue: 4950,
@@ -520,33 +520,33 @@ export const destinations = [
     subtitle: 'Visitor, student and work visas via ImmiAccount',
     aboutTitle: 'About the Australia visa for Indian travelers',
     aboutText:
-      'Indians need a valid Australian visa for any visit. Applications run through ImmiAccount with biometrics at VFS where requested. Decision-makers focus on the Genuine Temporary Entrant criterion, your file must demonstrate clear ties and a credible purpose.',
+      'Indians need a valid Australian visa for any visit. Applications run through ImmiAccount with biometrics at VFS where requested. Decision-makers check that you are a genuine visitor who will stay only temporarily (for students, the Genuine Student requirement), so your file must demonstrate clear ties and a credible purpose.',
     metaTitle: 'Australia Visa from India 2026: Subclass 600 from ₹4,950 | Travlys',
     metaDescription:
-      'Australia visa from India in 2-6 weeks with Travlys. Subclass 600 Visitor, 500 Student and Work streams, ImmiAccount drafting, GTE statement help and biometrics from ₹4,950.',
+      'Australia visa from India in 2-6 weeks with Travlys. Subclass 600 Visitor, 500 Student and Work streams, ImmiAccount drafting, genuine visitor and Genuine Student statement help and biometrics from ₹4,950.',
     keywords:
       'australia visa from india, subclass 600, australia student visa 500, australia work visa, immiaccount india, australia visa consultants',
     includes: [
       'ImmiAccount application setup',
-      'Genuine Temporary Entrant statement help',
+      'Genuine visitor / Genuine Student statement help',
       'VFS biometrics scheduling (where required)',
       'Document review and translation pointers',
       'Status tracking until decision',
     ],
     faqs: [
       { q: 'How long does an Australia visa take from India?', a: 'Visitor visas (Subclass 600) commonly process in 2-6 weeks; student visas (500) take longer and depend on the institution and course start date.' },
-      { q: 'What is the GTE statement?', a: 'Genuine Temporary Entrant, a written statement explaining why you’ll return to India after your visit or studies. It’s pivotal to approvals; we draft it with you.' },
+      { q: 'What replaced the GTE statement?', a: 'For student visas, the Genuine Temporary Entrant (GTE) test was replaced by the Genuine Student requirement in March 2024; visitors must show they are genuine visitors who will stay only temporarily. A short written statement explaining why you’ll return to India after your visit or studies helps. It’s pivotal to approvals; we draft it with you.' },
       { q: 'Do I need biometrics for an Australia visa?', a: 'Many applicants are asked for biometrics at VFS during processing. We book the appointment for you if requested.' },
       { q: 'How much does Travlys charge for an Australia visa?', a: 'Service starts at ₹4,950 for the visitor stream. DHA visa application charges (VAC) are paid separately.' },
     ],
     categories: [
       { name: 'Visitor Visa (600)', purpose: 'Tourism, family', description: 'Tourist or Sponsored Family stream for short visits, with multiple-entry validity up to 3 years.' },
       { name: 'Student Visa (500)', purpose: 'Full-time study', description: 'For students enrolled in CRICOS-registered Australian courses.' },
-      { name: 'Skilled / Work', purpose: 'Sponsored employment', description: 'Multiple streams under Temporary Skill Shortage (482) and Skilled Independent (189) categories.' },
+      { name: 'Skilled / Work', purpose: 'Sponsored employment', description: 'Multiple streams under Skills in Demand (482) and Skilled Independent (189) categories.' },
     ],
     processSteps: [
       'Eligibility and stream selection (Visitor / Student / Work).',
-      'Document set built around the Genuine Temporary Entrant requirement.',
+      'Document set built around the genuine visitor or Genuine Student requirement.',
       'ImmiAccount registered and application drafted.',
       'Submission, fees and biometrics booking (if requested).',
       'Status tracking via ImmiAccount until decision.',
@@ -559,7 +559,7 @@ export const destinations = [
       'Bank statements (6 months), ITR (2 years)',
       'Employment letter and salary slips',
       'Invitation letter (for sponsored family stream)',
-      'GTE statement (drafted with us)',
+      'Genuine visitor / Genuine Student statement (drafted with us)',
     ],
     relatedDestinations: ['new-zealand-visa', 'singapore-visa', 'uk-visa', 'canada-visa', 'usa-visa', 'malaysia-visa'],
   },
@@ -571,8 +571,8 @@ export const destinations = [
     accent: '#ff7849',
     region: 'Europe',
     visaType: 'Schengen Visa',
-    processingTime: '15-30 days',
-    processingTimeShort: '15-30 d',
+    processingTime: '18-21 days (up to 45)',
+    processingTimeShort: '18-21 d',
     validity: 'Up to 5 years',
     stayDuration: '90 days in any 180',
     entryType: 'Multiple',
@@ -581,16 +581,16 @@ export const destinations = [
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    tagline: 'Schengen via Netherlands, 26 countries unlocked',
+    tagline: 'Schengen via Netherlands, 29 countries unlocked',
     description:
       'Netherlands-issued Schengen visa with travel-insurance bundles, VFS appointment booking and a cover letter that maps your itinerary to the main-destination rule.',
     subtitle: 'Schengen via the Netherlands, clean, fast, well-documented',
     aboutTitle: 'About the Netherlands Schengen visa',
     aboutText:
-      'A Netherlands-issued Schengen short-stay visa lets you travel across all 26 Schengen states for up to 90 days in any 180-day period. The main-destination rule applies, you must apply through the country where you’ll spend the most time. Travlys aligns your itinerary, accommodation and cover letter to make that case cleanly.',
-    metaTitle: 'Schengen Visa from India 2026: ₹2,950, 15-Day Processing | Travlys',
+      'A Netherlands-issued Schengen short-stay visa lets you travel across all 29 Schengen states for up to 90 days in any 180-day period. The main-destination rule applies, you must apply through the country where you’ll spend the most time. Travlys aligns your itinerary, accommodation and cover letter to make that case cleanly.',
+    metaTitle: 'Schengen Visa from India 2026: ₹2,950, 18-21 Day Processing | Travlys',
     metaDescription:
-      'Get a Netherlands Schengen visa from India in 15-30 days from ₹2,950. Travlys handles VFS appointment booking, €30,000+ travel insurance, biometrics and visa-grade cover letter.',
+      'Get a Netherlands Schengen visa from India in about 18-21 days from ₹2,950. Travlys handles VFS appointment booking, €30,000+ travel insurance, biometrics and visa-grade cover letter.',
     keywords:
       'netherlands visa from india, schengen visa india, netherlands schengen visa, vfs netherlands appointment, schengen visa insurance, schengen visa consultants',
     includes: [
@@ -601,8 +601,8 @@ export const destinations = [
       'Biometrics-day support',
     ],
     faqs: [
-      { q: 'Is a Netherlands visa the same as a Schengen visa?', a: 'A short-stay Netherlands visa is a Schengen visa, it permits travel across all 26 Schengen countries within the granted validity and duration.' },
-      { q: 'How long does the Schengen visa take?', a: 'Standard processing is 15 calendar days; busy travel windows can stretch to 30. We recommend applying 4-6 weeks before travel.' },
+      { q: 'Is a Netherlands visa the same as a Schengen visa?', a: 'A short-stay Netherlands visa is a Schengen visa, it permits travel across all 29 Schengen countries within the granted validity and duration.' },
+      { q: 'How long does the Schengen visa take?', a: 'The Netherlands currently quotes an average of 18-21 calendar days, and up to 45 in some cases. We recommend applying 6-8 weeks before travel; you can apply up to 6 months ahead.' },
       { q: 'Do I need travel insurance?', a: 'Yes, Schengen rules require travel insurance with minimum €30,000 medical cover valid across the Schengen area for the full visa duration.' },
       { q: 'How much do you charge for Schengen visa help?', a: 'Service starts at ₹2,950. The embassy fee (currently €90 / ~₹9,600) is paid separately to the embassy via VFS.' },
     ],
@@ -620,9 +620,9 @@ export const destinations = [
       'Decision tracked; passport return arranged after.',
     ],
     documents: [
-      'Passport (6+ months beyond return date)',
+      'Passport (valid 3+ months after leaving Schengen, issued within 10 years, 2 blank pages)',
       'Schengen application form (signed)',
-      'Two recent biometric photographs',
+      'Photo taken at the VFS appointment (no printed photo needed)',
       'Travel insurance with €30,000+ cover',
       'Confirmed flight itinerary (no advance ticket purchase needed)',
       'Hotel bookings for full stay',
@@ -655,7 +655,7 @@ export const destinations = [
     subtitle: 'Singapore e-Visa, sorted in a week',
     aboutTitle: 'About the Singapore e-Visa',
     aboutText:
-      'Indian passport holders need a visa for Singapore. The e-Visa is fully online, once submitted, decisions arrive in 3-5 working days. We take care of file accuracy and the financial sufficiency narrative ICA looks for.',
+      'Indian passport holders need a visa for Singapore. Applications go through an authorised visa agent of the Singapore High Commission, who submits them online; decisions usually arrive in 3-5 working days. We take care of file accuracy and the financial sufficiency narrative ICA looks for.',
     metaTitle: 'Singapore Visa from India 2026: e-Visa in 3-5 Days, ₹2,950 | Travlys',
     metaDescription:
       'Singapore e-Visa from India in 3-5 working days from ₹2,950. Travlys handles ICA submission, document quality check, query handling and email delivery of your approved e-Visa PDF.',
@@ -670,7 +670,7 @@ export const destinations = [
     ],
     faqs: [
       { q: 'How long does a Singapore e-Visa take from India?', a: 'Typically 3-5 working days when the file is complete. Same-day decisions occur but are not guaranteed.' },
-      { q: 'How much does it cost?', a: 'Travlys service starts at ₹2,950; ICA visa fee is paid separately.' },
+      { q: 'How much does it cost?', a: 'Travlys service starts at ₹2,950; the visa processing fee of INR 2,100 is paid separately.' },
       { q: 'Documents required?', a: 'Passport, photograph, travel itinerary, hotel bookings, financial documents and an employment / sponsorship letter.' },
       { q: 'Can families apply together?', a: 'Yes, we file family applications as a single batch with a consolidated travel narrative.' },
     ],
@@ -870,7 +870,7 @@ export const destinations = [
       { q: 'Do I need a medical?', a: 'Medicals and police clearances are required for some categories or stays. We confirm based on your specific application.' },
     ],
     categories: [
-      { name: 'Visitor Visa', purpose: 'Tourism, family', description: 'Up to 9 months stay across a 3-year multiple-entry visa.' },
+      { name: 'Visitor Visa', purpose: 'Tourism, family', description: 'Multiple-entry: up to 6 months in any 12 months. Single-entry: up to 9 months in 18 months.' },
       { name: 'Work Visa', purpose: 'Employment', description: 'For applicants with job offers from accredited NZ employers.' },
       { name: 'Student Visa', purpose: 'Study', description: 'For students enrolled in approved NZ institutions.' },
     ],
@@ -981,15 +981,15 @@ export const regions = [
 // are indicative and shift with FX; we always show the original
 // currency alongside so it stays honest.
 export const GOV_FEES = {
-  'usa-visa':         { native: '$185',        inr: 15500, payee: 'US embassy (MRV fee)' },
-  'uk-visa':          { native: '£127',        inr: 13400, payee: 'UKVI (via VFS)' },
-  'canada-visa':      { native: 'CAD 100',     inr: 6200,  payee: 'IRCC + biometrics' },
-  'australia-visa':   { native: 'AUD 195',     inr: 10800, payee: 'DHA (VAC)' },
-  'netherlands-visa': { native: '€90',         inr: 8200,  payee: 'Embassy via VFS' },
-  'singapore-visa':   { native: 'SGD 30',      inr: 1900,  payee: 'ICA Singapore' },
+  'usa-visa':         { native: '$185',        inr: 18100, payee: 'US embassy (MRV fee)' },
+  'uk-visa':          { native: '£135',        inr: 17100, payee: 'UKVI (via VFS)' },
+  'canada-visa':      { native: 'CAD 185',     inr: 12500, payee: 'IRCC + biometrics' },
+  'australia-visa':   { native: 'AUD 250',     inr: 16600, payee: 'DHA (VAC)' },
+  'netherlands-visa': { native: '€90',         inr: 9600,  payee: 'Embassy via VFS' },
+  'singapore-visa':   { native: 'INR 2,100',   inr: 2100,  payee: 'Singapore High Commission (via authorised agent)' },
   'uae-visa':         { native: 'AED 350',     inr: 8000,  payee: 'GDRFA Dubai' },
-  'thailand-visa':    { native: 'THB 2,000',   inr: 5000,  payee: 'Royal Thai e-Visa' },
-  'new-zealand-visa': { native: 'NZD 211',     inr: 10800, payee: 'Immigration New Zealand' },
+  'thailand-visa':    { native: '₹3,000',      inr: 3000,  payee: 'Royal Thai e-Visa' },
+  'new-zealand-visa': { native: 'NZD 441',     inr: 23700, payee: 'Immigration New Zealand' },
   'malaysia-visa':    { native: 'MYR 35',      inr: 700,   payee: 'Imigresen Malaysia' },
 }
 
