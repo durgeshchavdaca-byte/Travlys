@@ -5,6 +5,7 @@
 
 import { destinations } from '../data/destinations.js'
 import { BLOG_POSTS, categorySlug } from '../data/blog.js'
+import { VISA_FEE_ROWS, LAST_CHECKED } from '../data/visaFees.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -332,3 +333,67 @@ export function buildCategorySchemas(cat) {
 }
 
 export { categorySlug }
+
+// --- Visa fees table (a citable dataset) ------------------------------------------
+
+export const VISA_FEES_META = {
+  title: 'Visa fees for Indians 2026: cost, processing time and entry rules by country',
+  description:
+    'One table with the 2026 visa fee, processing time, validity and entry rule for Indians travelling to the US, UK, Canada, Schengen, Australia, Dubai, Thailand and more.',
+  path: '/visa-fees',
+  keywords:
+    'visa fees for indians 2026, visa cost from india, us visa fee india, uk visa fee india, schengen visa fee india, canada visa fee india, dubai visa cost india',
+  type: 'website',
+  image: DEFAULT_OG_IMAGE,
+  imageAlt: 'Visa fees for Indian passport holders, 2026',
+}
+
+export const VISA_FEES_FAQS = [
+  {
+    q: 'Which countries are visa-free for Indians in this table?',
+    a: 'Thailand (up to 30 days since 15 September 2026) and Malaysia (up to 30 days until 31 December 2026). Both need a free digital arrival card before you fly. The UAE gives a 14-day visa on arrival to Indians who hold a valid US visa or green card, or a UK or EU visa or residence permit.',
+  },
+  {
+    q: 'Which visa is the most expensive for Indians?',
+    a: 'Among these countries, the New Zealand visitor visa (from NZD 441) and the US B1/B2 visa ($185) have the highest government fees, followed by the UK (£135) and Australia (AUD 250). Rupee amounts are approximate and move with exchange rates.',
+  },
+  {
+    q: 'Are the Travlys fees included in the government fee?',
+    a: 'No. The government fee goes to the embassy or immigration authority. The Travlys service fee is separate and covers preparing, checking and filing your application. Both are listed separately in the table.',
+  },
+]
+
+export function buildVisaFeesSchemas() {
+  const url = pageUrl(VISA_FEES_META.path)
+  return [
+    buildWebPageSchema(VISA_FEES_META),
+    crumbs({ name: 'Visa fees', url }),
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Dataset',
+      '@id': `${url}#dataset`,
+      name: 'Visa fees and entry rules for Indian passport holders, 2026',
+      description:
+        'Government visa fee, approximate rupee cost, processing time, validity, stay and entry route for Indian citizens visiting 10 countries, with the official source for each row.',
+      url,
+      creator: ORG,
+      publisher: ORG,
+      license: 'https://creativecommons.org/licenses/by/4.0/',
+      isAccessibleForFree: true,
+      dateModified: LAST_CHECKED,
+      temporalCoverage: '2026',
+      spatialCoverage: { '@type': 'Place', name: 'India' },
+      keywords: ['visa fees', 'Indian passport', 'visa processing time', 'visa-free countries for Indians'],
+      variableMeasured: ['Government fee', 'Processing time', 'Validity', 'Stay per visit', 'Entry route'],
+      distribution: [
+        {
+          '@type': 'DataDownload',
+          encodingFormat: 'text/csv',
+          contentUrl: `${SITE_URL}/data/visa-fees-for-indians-2026.csv`,
+        },
+      ],
+      isBasedOn: VISA_FEE_ROWS.map((r) => r.source).filter(Boolean),
+    },
+    faqSchema(VISA_FEES_FAQS),
+  ]
+}

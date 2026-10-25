@@ -2,6 +2,8 @@
 // (src/components/SEO.jsx, page components) and by the build-time
 // pre-render script (scripts/prerender.mjs).
 
+import { getQuickAnswers } from '../data/visaFees.js'
+
 export const SITE_URL = 'https://travlys.com'
 export const SITE_NAME = 'Travlys'
 export const SITE_TAGLINE = 'Your visa, handled.'
@@ -90,7 +92,9 @@ export function buildOrganizationSchema() {
     '@type': ['TravelAgency', 'LocalBusiness'],
     '@id': `${SITE_URL}/#organization`,
     name: BIZ.name,
-    alternateName: BIZ.legalName,
+    alternateName: [BIZ.legalName, 'Travlys.com', 'Travlys Visa'],
+    disambiguatingDescription:
+      'Travlys (travlys.com, spelled with an s) is an India-based visa consultancy in Ahmedabad, Gujarat. It is not affiliated with Travly (travly.com), a US travel booking app.',
     slogan: SITE_TAGLINE,
     url: BIZ.url,
     logo: BIZ.logo,
@@ -417,7 +421,7 @@ export function buildVisaSchemas(dest) {
           {
             '@context': 'https://schema.org',
             '@type': 'FAQPage',
-            mainEntity: dest.faqs.map(({ q, a }) => ({
+            mainEntity: [...getQuickAnswers(dest), ...dest.faqs.filter((f) => !/need a visa/i.test(f.q))].map(({ q, a }) => ({
               '@type': 'Question',
               name: q,
               acceptedAnswer: { '@type': 'Answer', text: a },

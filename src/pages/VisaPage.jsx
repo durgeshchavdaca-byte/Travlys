@@ -24,6 +24,7 @@ import { HeroBlobs, TextReveal } from '../components/MotionGraphics'
 import { destinations, getCostBreakdown } from '../data/destinations'
 import { CITIES } from '../data/cities'
 import { getPostsForDestination } from '../data/blog'
+import { getQuickAnswers } from '../data/visaFees'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
@@ -430,6 +431,25 @@ export default function VisaPage() {
               </div>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* Quick answers: the three questions asked first, answered in one place */}
+      <section id="quick-answers" className="py-12 bg-sand-50 border-t border-line">
+        <div className="container-app">
+          <span className="pill bg-coral-50 text-coral-600">Quick answers</span>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mt-5">
+            {getQuickAnswers(dest).map((f) => (
+              <div key={f.q} className="card p-5">
+                <h2 className="font-display text-base font-extrabold text-ink-900 m-0 leading-snug">{f.q}</h2>
+                <p className="text-sm text-slate-muted mt-2 mb-0 leading-relaxed">{f.a}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-xs text-slate-faint mt-4 mb-0">
+            Checked against official sources on 25 October 2026. Compare every country on our{' '}
+            <Link to="/visa-fees/" className="text-coral-600">visa fees table</Link>.
+          </p>
         </div>
       </section>
 

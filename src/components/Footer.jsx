@@ -97,6 +97,7 @@ export default function Footer() {
             <ul className="space-y-3 text-[0.95rem] list-none p-0 m-0">
               {[
                 ['Visa questions answered', '/visa-questions/'],
+                ['Visa fees by country', '/visa-fees/'],
                 ['Pricing', '/pricing/'],
                 ['Visa guides', '/blog/'],
                 ['About Travlys', '/about/'],

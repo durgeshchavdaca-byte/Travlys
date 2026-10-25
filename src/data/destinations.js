@@ -987,7 +987,7 @@ export const GOV_FEES = {
   'australia-visa':   { native: 'AUD 250',     inr: 16600, payee: 'DHA (VAC)' },
   'netherlands-visa': { native: '€90',         inr: 9600,  payee: 'Embassy via VFS' },
   'singapore-visa':   { native: 'INR 2,100',   inr: 2100,  payee: 'Singapore High Commission (via authorised agent)' },
-  'uae-visa':         { native: 'AED 350',     inr: 8000,  payee: 'GDRFA Dubai' },
+  'uae-visa':         { native: 'AED 350',     inr: 9050,  payee: 'GDRFA Dubai' },
   'thailand-visa':    { native: '₹3,000',      inr: 3000,  payee: 'Royal Thai e-Visa' },
   'new-zealand-visa': { native: 'NZD 441',     inr: 23700, payee: 'Immigration New Zealand' },
   'malaysia-visa':    { native: 'MYR 35',      inr: 700,   payee: 'Imigresen Malaysia' },
