@@ -83,6 +83,40 @@ function PostBody({ body }) {
 }
 
 
+// Index of the first h2 past roughly 40% of the article, so the mid-article
+// prompt lands between sections rather than mid-paragraph.
+function midArticleIndex(body) {
+  const start = Math.floor(body.length * 0.4)
+  const i = body.findIndex((n, idx) => idx >= start && n.type === 'h2')
+  return i === -1 ? body.length : i
+}
+
+// Mid-article enquiry prompt. The WhatsApp message is prefilled with the
+// article title so each lead shows which guide it came from.
+function MidArticleCta({ post, dest }) {
+  const ask = dest ? `my ${dest.name} visa` : 'the visas for my trip'
+  const text = `Hi Travlys, I read "${post.title}" on your website and want help with ${ask}.`
+  return (
+    <div className="my-10 rounded-2xl bg-ink-950 text-white p-6 md:p-7 flex flex-col md:flex-row md:items-center gap-5 justify-between">
+      <div>
+        <p className="text-[0.7rem] uppercase tracking-[0.18em] font-semibold text-coral-400 m-0">Free document check</p>
+        <p className="font-display text-xl font-extrabold mt-1.5 mb-0 leading-snug">
+          {dest ? `Applying for ${/^[AEIO]/.test(dest.name) ? 'an' : 'a'} ${dest.name} visa?` : 'Planning this trip?'}
+        </p>
+        <p className="text-sm text-white/70 mt-1.5 mb-0">
+          Send your passport and travel dates on WhatsApp. A Travlys specialist replies with your checklist and timeline, usually within the hour on working days.
+        </p>
+      </div>
+      <a
+        href={`https://wa.me/918200918967?text=${encodeURIComponent(text)}`}
+        className="btn btn-coral shrink-0 no-underline inline-flex items-center gap-2"
+      >
+        <MessageCircle className="w-4 h-4" /> Ask on WhatsApp
+      </a>
+    </div>
+  )
+}
+
 export default function BlogPostPage() {
   const { slug } = useParams()
   const post = getPost(slug)
@@ -112,6 +146,7 @@ export default function BlogPostPage() {
     .map((s) => BLOG_POSTS.find((p) => p.slug === s))
     .filter(Boolean)
   const ctaDest = post.cta?.slug ? destinations.find((d) => d.slug === post.cta.slug) : null
+  const midSplit = midArticleIndex(post.body)
 
   return (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: 0.35 }}>
@@ -164,7 +199,9 @@ export default function BlogPostPage() {
       <section className="py-16 bg-white">
         <div className="container-app">
           <article className="max-w-3xl mx-auto">
-            <PostBody body={post.body} />
+            <PostBody body={post.body.slice(0, midSplit)} />
+            <MidArticleCta post={post} dest={ctaDest} />
+            <PostBody body={post.body.slice(midSplit)} />
 
             {/* Inline CTA */}
             {ctaDest && (

@@ -520,7 +520,7 @@ export const destinations = [
     subtitle: 'Visitor, student and work visas via ImmiAccount',
     aboutTitle: 'About the Australia visa for Indian travelers',
     aboutText:
-      'Indians need a valid Australian visa for any visit. Applications run through ImmiAccount with biometrics at VFS where requested. Decision-makers check that you are a genuine visitor who will stay only temporarily (for students, the Genuine Student requirement), so your file must demonstrate clear ties and a credible purpose.',
+      'Indians need a valid Australian visa for any visit. Applications run through ImmiAccount. From 26 October 2026, applicants in India may be asked to give fingerprints and a facial image at an Australian Biometrics Collection Centre (run by VFS Global) once Home Affairs emails a request. Decision-makers check that you are a genuine visitor who will stay only temporarily (for students, the Genuine Student requirement), so your file must demonstrate clear ties and a credible purpose.',
     metaTitle: 'Australia Visa from India 2026: Subclass 600 from ₹4,950 | Travlys',
     metaDescription:
       'Australia visa from India in 2-6 weeks with Travlys. Subclass 600 Visitor, 500 Student and Work streams, ImmiAccount drafting, genuine visitor and Genuine Student statement help and biometrics from ₹4,950.',
@@ -536,7 +536,7 @@ export const destinations = [
     faqs: [
       { q: 'How long does an Australia visa take from India?', a: 'Visitor visas (Subclass 600) commonly process in 2-6 weeks; student visas (500) take longer and depend on the institution and course start date.' },
       { q: 'What replaced the GTE statement?', a: 'For student visas, the Genuine Temporary Entrant (GTE) test was replaced by the Genuine Student requirement in March 2024; visitors must show they are genuine visitors who will stay only temporarily. A short written statement explaining why you’ll return to India after your visit or studies helps. It’s pivotal to approvals; we draft it with you.' },
-      { q: 'Do I need biometrics for an Australia visa?', a: 'Many applicants are asked for biometrics at VFS during processing. We book the appointment for you if requested.' },
+      { q: 'Do I need biometrics for an Australia visa?', a: 'Possibly. From 26 October 2026, applicants for an Australian visa in India may be asked to give fingerprints and a facial image. It applies only to applications lodged on or after that date. Do not book anything until the Department of Home Affairs emails you or your agent a biometrics request. Then visit an Australian Biometrics Collection Centre run by VFS Global, or, if you have given biometrics at a centre before and hold a valid passport, you may be able to use the free Australian Immi App. Giving biometrics promptly should not slow your application. We book the appointment for you.' },
       { q: 'How much does Travlys charge for an Australia visa?', a: 'Service starts at ₹4,950 for the visitor stream. DHA visa application charges (VAC) are paid separately.' },
     ],
     categories: [
@@ -548,7 +548,7 @@ export const destinations = [
       'Eligibility and stream selection (Visitor / Student / Work).',
       'Document set built around the genuine visitor or Genuine Student requirement.',
       'ImmiAccount registered and application drafted.',
-      'Submission, fees and biometrics booking (if requested).',
+      'Submission and fees, then biometrics at an ABCC or via the Australian Immi App once Home Affairs asks.',
       'Status tracking via ImmiAccount until decision.',
       'Visa grant notification and travel-prep handover.',
     ],

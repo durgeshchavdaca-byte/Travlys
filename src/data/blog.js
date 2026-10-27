@@ -7,15 +7,1861 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  // --- 27 October 2026: this week's visa news and winter trip guides. ---
+  {
+    "slug": "australia-visa-biometrics-india-2026",
+    "title": "Australia Visa Biometrics in India from 26 October 2026",
+    "metaTitle": "Australia Visa Biometrics India 2026: Fees, Centres | Travlys",
+    "metaDescription": "Australian visa applications lodged in India from 26 Oct 2026 may need fingerprints and a photo. Who is asked, 16 VFS centres, ₹1,425 fee and Immi App option.",
+    "excerpt": "Australia now collects fingerprints and a facial image from visa applicants in India. Here is who gets asked, where to go, what it costs and how it affects your timeline.",
+    "date": "2026-10-27",
+    "updated": "2026-10-27",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "Australia visa",
+      "Biometrics",
+      "VFS Global",
+      "Visitor visa 600",
+      "Student visa 500",
+      "Visa rule changes 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1600&h=900&fit=crop",
+    "related": [
+      "australia-student-visa-new-rules-2026-indian-students",
+      "visa-rule-changes-for-indians-2026-tracker",
+      "study-abroad-visa-changes-2026-indian-students"
+    ],
+    "cta": {
+      "slug": "australia-visa",
+      "label": "See Australia visa help"
+    },
+    "faqs": [
+      {
+        "q": "Do Indians need biometrics for an Australian visa from October 2026?",
+        "a": "Only if the Department of Home Affairs asks you. From 26 October 2026, applicants in India may be required to give fingerprints and a facial image for new applications. After you lodge in ImmiAccount, Home Affairs decides case by case and sends a biometrics request letter if needed. If you get no letter, you do not need to attend a centre. Applications lodged before 26 October 2026 are not affected."
+      },
+      {
+        "q": "What is the fee for Australian visa biometrics in India?",
+        "a": "VFS Global charges a biometric collection service fee of ₹1,425 per applicant, including taxes, at its Australian centres in India (as listed for Ahmedabad on 27 October 2026). The fee is paid online when booking or at the centre, and it is not refundable. A walk-in without an appointment costs ₹4,000 extra. The Australian Immi App option is free. The visa application charge is separate."
+      },
+      {
+        "q": "Where can I give biometrics for an Australian visa in India?",
+        "a": "At one of 16 Australian Biometrics Collection Centres run by VFS Global: Ahmedabad, Bengaluru, Chandigarh, Chennai, Hyderabad, Jaipur, Jalandhar, Kochi, Kolkata, Lucknow, Mumbai, New Delhi, Pune and Thiruvananthapuram, plus pop-up centres in Panaji and Puducherry with reduced days. Regular centres open Monday to Friday, 9am to 5pm. You need an appointment, your original passport and your request letter."
+      },
+      {
+        "q": "Can I give Australian visa biometrics through the Immi App instead?",
+        "a": "Yes, if your request letter allows it. The Australian Immi App works in India for applicants whose biometrics letter has a Visa Lodgement Number starting with AUI and who hold a valid passport. The app scans your passport and chip and takes a live photo, with no fingerprints. If your number does not start with AUI, you must attend a collection centre. ImmiAccount updates within 24 hours of submission."
+      },
+      {
+        "q": "Do children have to give fingerprints for an Australian visa?",
+        "a": "Children under 5 must attend the appointment but do not give fingerprints; only a facial photo is taken. Children aged 5 and above give fingerprints and a photo. Anyone under 18 must come with a parent or legal guardian, and VFS staff cannot act as guardians. Each child gets their own request letter and appointment, so book family members together where possible."
+      },
+      {
+        "q": "Will biometrics slow down my Australian visa?",
+        "a": "Not if you act quickly. The Australian High Commission in New Delhi says processing times are not expected to be affected if you complete the biometrics step promptly. In practice it adds one step after lodgement: wait for the letter, book a slot and attend. Delay on your side delays the decision, so keep a weekday free and your passport with you."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "From 26 October 2026, Australia may ask visa applicants in India to give fingerprints and a facial image. It applies only to applications lodged on or after that date, and only if the Department of Home Affairs sends you a biometrics request letter after you lodge. You then attend one of 16 VFS-run centres in India, including Ahmedabad, for a ₹1,425 service fee, or, if your letter allows, use the free Australian Immi App."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Start date:** applications lodged from 26 October 2026. **What is collected:** a digital facial image and a scan of all 10 fingertips (children under 5 give a photo only). **Who:** only applicants who receive a biometrics request letter from Home Affairs. **Where:** 16 Australian Biometrics Collection Centres (ABCCs) in India run by VFS Global. **Fee:** ₹1,425 per applicant, taxes included; ₹4,000 extra for walk-ins. **Free option:** Australian Immi App, if your letter's Visa Lodgement Number starts with AUI. **Not affected:** applications lodged before 26 October 2026."
+      },
+      {
+        "type": "h2",
+        "text": "What changed on 26 October 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Australian High Commission in New Delhi announced on 26 October 2026 that Australia is expanding biometric collection to nearly 60 countries, including India. Until now, the High Commission's biometrics page listed only Bangladesh, Bhutan and Nepal from this region. Indian applicants mostly lodged online and never visited a centre."
+      },
+      {
+        "type": "p",
+        "text": "The legal basis is the Migration Act 1958 and the Migration Regulations 1994, which let Australia require 'personal identifiers' (your fingerprints and an image of your face). Home Affairs says it uses them to confirm identity, prevent identity fraud and check criminal and immigration history with other agencies."
+      },
+      {
+        "type": "p",
+        "text": "The rule was widely reported in Indian media on 26 October 2026. The details below come from the High Commission notice, the Home Affairs biometrics pages and the VFS Global India site."
+      },
+      {
+        "type": "h2",
+        "text": "Which visas are covered"
+      },
+      {
+        "type": "p",
+        "text": "The official notices do not list specific visa subclasses. They say applicants in India may be required to provide biometrics, and that Home Affairs will tell you if you are. So a visitor visa (subclass 600), student visa (subclass 500), work visa such as the Skills in Demand visa (subclass 482) or a family visa lodged from India can all trigger a request. Whether you personally have to go depends on your letter, not on the visa type."
+      },
+      {
+        "type": "p",
+        "text": "Do not book a centre appointment just in case. VFS says its biometric service applies only after you have lodged online through ImmiAccount and received a Biometrics Requirement Letter from Home Affairs."
+      },
+      {
+        "type": "h2",
+        "text": "Who is not affected"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Applications lodged before 26 October 2026.** The High Commission says these are not affected.",
+          "**Visas already granted.** Nothing changes for a visa you already hold. You may be asked for biometrics the next time you apply.",
+          "**Applicants who get no letter.** No letter means no appointment.",
+          "**Children under 5 (partly).** They must still attend but do not give fingerprints. There is no published age at which children skip the appointment entirely."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How the process works"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Lodge your visa** online in ImmiAccount and pay the visa application charge as usual.",
+          "**Watch for the letter.** Home Affairs sends a 'Requirement to provide personal identifiers (biometrics)' letter by email or through your ImmiAccount, or to your authorised agent.",
+          "**Check the letter against your passport.** Name, date of birth and passport number must match exactly. If not, update your details in ImmiAccount and ask the Global Service Centre for a corrected letter before you go. VFS will not collect biometrics on a mismatched letter.",
+          "**Choose your route.** If the Visa Lodgement Number starts with AUI, you can use the Immi App. Otherwise, book an ABCC appointment on the VFS site and pay the fee.",
+          "**Attend with your original passport** (the one linked to your application) and the letter. Arrive 15 minutes early."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Option 1: the Australian Immi App (free)"
+      },
+      {
+        "type": "p",
+        "text": "India is on the Home Affairs list of countries where the Australian Immi App can be used. You need a request letter with an AUI number, a valid passport and a smartphone with NFC, camera access and location services turned on. The app scans your passport data page and chip, then takes a live photo. It does not take fingerprints. ImmiAccount is updated within 24 hours. The High Commission adds that applicants who have given biometrics at an ABCC before and hold a valid passport may be able to use the app at no cost."
+      },
+      {
+        "type": "h3",
+        "text": "Option 2: a collection centre"
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs lists these Indian ABCCs as of October 2026: Ahmedabad, Bengaluru, Chandigarh, Chennai, Hyderabad, Jaipur, Jalandhar, Kochi, Kolkata, Lucknow, Mumbai, New Delhi, Pune and Thiruvananthapuram, plus pop-up centres in Panaji and Puducherry. Regular centres open Monday to Friday, 9am to 5pm. Panaji opens on Wednesdays and Puducherry on Fridays, as published weekly. The Ahmedabad centre is at Shree Balaji Agora Mall on SP Ring Road, Motera."
+      },
+      {
+        "type": "p",
+        "text": "Staff take a digital photo of your face and scan all 10 fingertips on an inkless scanner. Your face must be visible from chin to above the eyebrows, including both ears. You may be asked to remove glasses. If you wear a religious head covering, you can ask for collection in private by someone of the same gender."
+      },
+      {
+        "type": "h2",
+        "text": "What it costs"
+      },
+      {
+        "type": "p",
+        "text": "VFS Global lists a biometric collection service fee of **₹1,425 per applicant**, including taxes (Ahmedabad centre page, checked 27 October 2026). It is paid online when you book or at the centre by card or QR code, and it is not refundable. Turning up without an appointment adds a **₹4,000** walk-in fee. A family of four attending together pays ₹5,700 in service fees."
+      },
+      {
+        "type": "p",
+        "text": "This is on top of the Australian visa application charge. Home Affairs does not list any separate government charge for biometrics. The Immi App route costs nothing. Optional VFS extras, such as help with the online form (₹455 for 30 minutes), are not required."
+      },
+      {
+        "type": "h2",
+        "text": "Deadline and timelines"
+      },
+      {
+        "type": "p",
+        "text": "The official pages we checked do not publish a fixed number of days for Indian applicants to attend. Your letter sets the timeframe, so read it the day it arrives. The High Commission says processing times are not expected to change if you complete biometrics promptly."
+      },
+      {
+        "type": "p",
+        "text": "In practice, the change adds one more step between lodging and decision: waiting for the letter, finding a slot and attending. How long that takes depends on slot availability in your city and how fast you act. Home Affairs has not published new processing times for India, so build in a buffer. If you travel soon:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Lodge now.** Applications lodged later wait longer for the letter and the appointment.",
+          "**Keep your passport with you.** Do not hand it to another embassy, for example for a Schengen or UK visa, while you wait for the Australian letter. VFS needs the original.",
+          "**Book the first slot you can.** If your nearest city is full, another centre can be quicker for a short trip.",
+          "**Skip mehndi.** VFS asks that fingertips be free of henna, cuts and bandages. In wedding season this catches many applicants out. If you have a temporary injury, you can upload a written request for more time to ImmiAccount."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Booking on look-alike websites. Use only the VFS Global India page for Australia and links from Home Affairs.",
+          "Bringing a photocopy or an old passport instead of the original passport linked to the application.",
+          "Sending a relative or agent in your place. You must attend in person.",
+          "Carrying a large bag. Only one cabin-size bag is allowed, and the centre cannot store prohibited items."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How long biometrics stay valid"
+      },
+      {
+        "type": "p",
+        "text": "Australia does not publish a fixed validity period like the Schengen 59-month rule. Home Affairs stores your biometrics in a secure database. It may take them again when you arrive in Australia or apply for another visa and compare them with the stored record. For repeat travellers, the main benefit is that a later request may let you use the Immi App instead of visiting a centre, but that is not guaranteed."
+      },
+      {
+        "type": "h2",
+        "text": "Who should plan for this now"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Students** applying for early 2027 intakes. Add the biometrics step to your CoE-to-visa timeline. See our Australia student visa rules update of 2 October 2026.",
+          "**Parents visiting children** for summer or graduations in Australia. Apply early and keep a weekday free for the appointment.",
+          "**Business travellers** with short notice trips. You cannot control when the letter comes, so lodge as soon as the trip is likely."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files Australia visas from ₹4,950 in service fees (government and VFS fees extra). We prepare and lodge your application, check that your details match your passport so the biometrics letter is correct, and tell you which route the letter allows. If you need a centre visit, we help you book the nearest slot, including the Ahmedabad ABCC in Motera. We have filed 5,000+ visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules, centre list and fees were checked on 27 October 2026 against the Australian High Commission India notice, the Home Affairs biometrics and Immi App pages, and the VFS Global India pages listed below. VFS fees can change, so confirm on the VFS site when you book."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Australian High Commission, India: Biometric collection requirements for Australian visa applicants in India",
+        "url": "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html"
+      },
+      {
+        "label": "Department of Home Affairs: Biometrics",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+      },
+      {
+        "label": "Department of Home Affairs: Australian Immi App",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics/australian-immi-app"
+      },
+      {
+        "label": "VFS Global India (Australia): Biometric collection service",
+        "url": "https://visa.vfsglobal.com/ind/en/aus/biometric-collection"
+      },
+      {
+        "label": "VFS Global India (Australia): Attend a centre",
+        "url": "https://visa.vfsglobal.com/ind/en/aus/attend-centre"
+      },
+      {
+        "label": "VFS Global India (Australia): Ahmedabad centre and service fees",
+        "url": "https://visa.vfsglobal.com/ind/en/aus/attend-centre/ahmedabad"
+      },
+      {
+        "label": "VFS Global India (Australia): What happens at the Biometric Collection Centre",
+        "url": "https://visa.vfsglobal.com/ind/en/aus/attend-centre/what-happens-at-centre"
+      },
+      {
+        "label": "ID Tech: Australia expands biometric collection to visa applicants in India",
+        "url": "https://idtechwire.com/australia-expands-biometric-collection-to-visa-applicants-in-india/"
+      },
+      {
+        "label": "Social News XYZ (IANS): Australia expands biometric collection requirements for visa applicants in India",
+        "url": "https://www.socialnews.xyz/2026/10/26/australia-expands-biometric-collection-requirements-for-visa-applicants-in-india/"
+      }
+    ]
+  },
+  {
+    "slug": "us-visa-appointment-wait-time-india-2026",
+    "title": "US Visa Appointment Wait Time in India: October 2026 Update",
+    "metaTitle": "US Visa Wait Time India Oct 2026: City-wise Dates | Travlys",
+    "metaDescription": "US B1/B2 interview waits in India are 7.5 to 12 months as of 21 Oct 2026; student visas 1 to 4 months. City-wise list and legal ways to get an earlier date.",
+    "excerpt": "City-wise US visa interview waits in India for late October 2026, what the 346-day audit figure means, and the only legitimate ways to get an earlier date.",
+    "date": "2026-10-27",
+    "updated": "2026-10-27",
+    "readMinutes": 8,
+    "category": "Visa rule updates",
+    "tags": [
+      "US visa",
+      "B1/B2 visa",
+      "F-1 student visa",
+      "Visa appointment",
+      "Interview waiver",
+      "Visa rule changes 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-changes-2026-indian-applicants",
+      "ds-160-form-mistakes",
+      "us-visa-from-india-2026-complete-guide"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "See US visa help"
+    },
+    "faqs": [
+      {
+        "q": "What is the current US visa interview wait time in India?",
+        "a": "As of the State Department update of 21 October 2026, the estimated wait for a B1/B2 visitor visa interview is 12 months in Mumbai, 11 in New Delhi, 10.5 in Hyderabad, 8.5 in Kolkata and 7.5 in Chennai. Student (F, M, J) waits are 1 to 4 months. These are estimates of the next available slot, updated monthly, not guaranteed dates."
+      },
+      {
+        "q": "How can I get an earlier US visa appointment in India?",
+        "a": "There are three legitimate routes. If you are renewing a full-validity B1/B2 visa that expired within the last 12 months, you may qualify for the interview waiver. If you have a genuine emergency, you can request an expedited appointment after booking a regular one. Otherwise, check the official scheduling system regularly for released slots and use your limited reschedules carefully. Paid bots and agents break the rules."
+      },
+      {
+        "q": "Who qualifies for an emergency US visa appointment in India?",
+        "a": "Only applicants with urgent, unforeseen travel: urgent medical treatment, the funeral of an immediate family member in the US, urgent business that could not be predicted, students in exceptional cases, or travellers whose ESTA was denied. You need documents proving the urgency. Weddings, graduations, helping a pregnant relative, annual conferences and last-minute tourism do not qualify. You can submit only two expedite requests."
+      },
+      {
+        "q": "Who can skip the US visa interview in 2026?",
+        "a": "Mainly people renewing a full-validity B1, B2 or B1/B2 visa that is still valid or expired within the past 12 months, who were at least 18 when it was issued. You must also apply in India, have had all 10 fingerprints taken last time, have no unresolved refusals, and your old visa must not be lost, stolen or cancelled. Since 2 September 2025, children under 14 and adults over 79 generally need an interview."
+      },
+      {
+        "q": "How many times can I reschedule a US visa appointment in India?",
+        "a": "Only a limited number of times without penalty. The US Mission in India said from 1 January 2025 you can reschedule once for free. After you reach the limit, the system lets you either attend or cancel. If you cancel, your fee becomes invalid and you must pay a new visa fee to book again. Cancel at least two business days before to avoid being marked a no-show."
+      },
+      {
+        "q": "Can I apply for a US visa in Dubai or another country to get a faster date?",
+        "a": "Generally no. Since 6 September 2025, the State Department has directed nonimmigrant visa applicants to schedule interviews in their country of nationality or legal residence. An Indian citizen living in India should apply in India. Visa fees paid in India are valid only for appointments in India and cannot be transferred to another country."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "As of the State Department's update of 21 October 2026, the estimated wait for a first US B1/B2 visitor visa interview in India runs from 7.5 months in Chennai to 12 months in Mumbai, while student (F, M, J) visas wait 1 to 4 months. The only legitimate ways to get an earlier date are the interview waiver for recent B1/B2 renewals, an approved expedited (emergency) request, or catching released slots in the official system. Paid slot-booking bots break the scheduling rules and have led to cancelled appointments."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**B1/B2 wait (21 Oct 2026):** Mumbai 12 months, New Delhi 11, Hyderabad 10.5, Kolkata 8.5, Chennai 7.5. **Student F/M/J wait:** 1 to 4 months. **Audit figure:** 346 days average NIV interview wait in India in FY2025 (GAO, 28 Sept 2026). **Interview waiver:** mainly full-validity B1/B2 renewals within 12 months of expiry. **Expedite requests:** maximum two, with proof of urgency. **Reschedules:** limited; cancelling after the limit voids your fee. **Where to apply:** your country of nationality or residence. **Official sites:** ustraveldocs.com/in and usvisascheduling.com."
+      },
+      {
+        "type": "h2",
+        "text": "US visa wait times by city (late October 2026)"
+      },
+      {
+        "type": "p",
+        "text": "The State Department publishes estimated waits for the next available interview at each post and updates them monthly. The figures below are from the 21 October 2026 update, as reported by Business Today. Check the live tool on travel.state.gov before you plan, because the numbers move."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Mumbai:** B1/B2 12 months; students 4 months; work (H, L, O, P, Q) 2 months.",
+          "**New Delhi:** B1/B2 11 months; students 3 months; work 3.5 months.",
+          "**Hyderabad:** B1/B2 10.5 months; students 1 month; work 6.5 months.",
+          "**Kolkata:** B1/B2 8.5 months; students 2.5 months; work 1 month.",
+          "**Chennai:** B1/B2 7.5 months; students 3.5 months; work 2.5 months."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "One month earlier, the 17 September update showed Hyderabad at 12 months and Kolkata at 6.5 months. That swing is normal. These are estimates, not promises, and interview-waiver drop-off appointments are not counted in them. The waiting period is also separate from processing after the interview, which the official appointment site says is typically seven to ten working days, longer for some cases."
+      },
+      {
+        "type": "h2",
+        "text": "What the 346-day audit figure actually means"
+      },
+      {
+        "type": "p",
+        "text": "On 28 September 2026 the US Government Accountability Office (GAO) published report GAO-26-107902 on nonimmigrant visa staffing. It put India's weighted average interview wait at **346 days in fiscal year 2025**, the longest of the four countries it examined (Mexico 283, China 34, Brazil 32)."
+      },
+      {
+        "type": "p",
+        "text": "The report found 68 consular officers working on nonimmigrant visas in India against 1,455,255 applications, about 21,401 per officer. Worldwide, officers on these visas fell from 1,342 in FY2024 to 904 in FY2025 due to hiring freezes and attrition. GAO recommended that the State Department consistently run its staffing review; the department neither agreed nor disagreed."
+      },
+      {
+        "type": "p",
+        "text": "Keep two things in mind. The 346 days is a past average for FY2025, not today's wait. And it measures time to get an interview, not time to get a visa decision."
+      },
+      {
+        "type": "h2",
+        "text": "Route 1: the interview waiver (drop-box)"
+      },
+      {
+        "type": "p",
+        "text": "From 2 September 2025 the State Department cut back interview waivers sharply. All nonimmigrant applicants, including children under 14 and adults over 79, now generally need an in-person interview. The main exception for Indian travellers is a B1/B2 renewal. According to the official India appointment site, you may qualify if you meet all of these:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You are renewing a full-validity B1, B2 or B1/B2 visa that is still valid or expired within the past 12 months.",
+          "You were at least 18 when that visa was issued.",
+          "All 10 fingerprints were taken when the last visa was issued.",
+          "The old visa was not lost, stolen, revoked or cancelled, and you have never been refused, unless the refusal was overcome or waived.",
+          "You apply in your consular district of residence and are physically in India during the process.",
+          "Your passport is valid at least 15 calendar days beyond the drop-off date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Timing matters. Your drop-off appointment must be at least 15 calendar days before the 12-month mark after expiry, or you will be moved to a regular interview. Allow up to three weeks after drop-off for processing, and do not book tickets until the visa is in hand. A consular officer can still call you for an interview."
+      },
+      {
+        "type": "h2",
+        "text": "Route 2: an expedited (emergency) appointment"
+      },
+      {
+        "type": "p",
+        "text": "You can ask for an earlier date only after you have filled the DS-160, paid the visa fee and booked the first available regular appointment. When you book, the screen shows the earliest date, which already includes expedited slots. If that date still does not work, submit the Expedited Request Form in the official system. The US Embassy says slots are very limited and it cannot accommodate all travellers, even with time-sensitive trips."
+      },
+      {
+        "type": "h3",
+        "text": "What qualifies, and the proof that works"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Medical:** a letter from your doctor in India, a letter from the US hospital agreeing to treat you with an approximate cost, and proof of how you will pay.",
+          "**Funeral or death:** a funeral director's letter with the deceased's details and date, plus proof the person was an immediate family member (parent, sibling or child).",
+          "**Urgent business:** a letter from the US company explaining the urgency and the significant loss of opportunity, or training of three months or less with letters from both employers.",
+          "**Students and exchange visitors:** considered only in exceptional circumstances, with the original I-20 or DS-2019.",
+          "**ESTA denied:** for Visa Waiver Program nationals only, which does not apply to Indian passport holders."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "What does not qualify"
+      },
+      {
+        "type": "p",
+        "text": "Weddings, graduation ceremonies, helping a pregnant relative, annual conferences and last-minute tourism. You get only **two** expedite requests, so do not waste one on a trip that does not fit. Do not cancel your existing appointment while waiting. The reply comes by email from do-not-reply@usvisascheduling.com, so check spam. Exaggerating urgency is noted on your file and can hurt your visa outcome."
+      },
+      {
+        "type": "h2",
+        "text": "Route 3: rescheduling smartly"
+      },
+      {
+        "type": "p",
+        "text": "Slots open up as others cancel and as posts release new blocks, so checking the official system regularly does work. But reschedules are limited. The US Mission in India said that from 1 January 2025 you can reschedule once without paying again. After the limit, the system lets you only attend or cancel. Cancelling voids your fee."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Use your reschedule only for a clearly better date, not a few days' gain.",
+          "Your Visa Application Centre (biometrics) appointment must be at least two business days before the interview.",
+          "If you cannot attend, cancel at least two business days ahead to avoid being marked a no-show.",
+          "Look at all five posts in India. Kolkata and Chennai have been quicker for B1/B2 than Mumbai and Delhi."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Apply in India, not abroad"
+      },
+      {
+        "type": "p",
+        "text": "Since 6 September 2025, the State Department has told nonimmigrant applicants to book interviews in their country of nationality or legal residence. The US Embassy in India repeats this on its visa page. The old trick of flying to Dubai, Bangkok or Singapore for a faster interview is generally no longer an option for Indians living in India. Fees are also non-transferable: a fee paid in India works only for appointments in India."
+      },
+      {
+        "type": "h2",
+        "text": "Why paid slot-booking bots are a bad bet"
+      },
+      {
+        "type": "p",
+        "text": "The official site's terms ban access through bots, crawlers or scripts and limit daily login attempts, with automatic temporary suspensions. If the system detects automation tools, it shows an 'Access limitation' warning and asks you to remove them and wait at least 24 hours. In March 2025 the US Mission in India cancelled about 2,000 appointments made by bots and suspended the scheduling privileges of the linked accounts. The applicant, not the agent, loses the slot. You also hand your login and DS-160 details to a stranger."
+      },
+      {
+        "type": "h2",
+        "text": "Students: book early, but do not count on an expedite"
+      },
+      {
+        "type": "p",
+        "text": "Student waits are far shorter right now, at 1 to 4 months. A US student visa can be issued up to 365 days before your programme start date, but you can enter the US no more than 30 days before it. Emergency requests for students are considered only in exceptional cases, so book as soon as you have your I-20. F, M and J applicants must also set social media accounts to public, as the US Embassy notice says. Spring 2027 starters should book now."
+      },
+      {
+        "type": "h2",
+        "text": "Who should and should not wait it out"
+      },
+      {
+        "type": "p",
+        "text": "If your trip is a year away, book the earliest regular date now and keep checking for openings. If you hold a recently expired full-validity B1/B2 visa, check the waiver rules first, since that can save months. If your reason is a wedding or a holiday, an expedite request will be refused. For background, see our post on US visa changes in 2026."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files US visas from ₹19,940 in service fees (government fees extra). We check whether you qualify for the interview waiver, fill your DS-160 accurately, book through the official system only, and prepare evidence if you have a genuine emergency. We have filed 5,000+ visas with a 98% approval rate. WhatsApp us at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Wait times, waiver rules, expedite criteria and scheduling rules were checked on 27 October 2026 against the sources listed below. Wait times change every month, so confirm on the State Department tool before you book."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Department of State: Visa Appointment Wait Times",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html"
+      },
+      {
+        "label": "U.S. Embassy and Consulates in India: Visas",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Embassy and Consulates in India: Nonimmigrant Visas",
+        "url": "https://in.usembassy.gov/nonimmigrant-visas/"
+      },
+      {
+        "label": "Official U.S. Visa Appointment Service India: Apply for an expedited appointment",
+        "url": "https://www.ustraveldocs.com/in/en/expedited-appointment"
+      },
+      {
+        "label": "Official U.S. Visa Appointment Service India: Waive my interview and renew my visa",
+        "url": "https://www.ustraveldocs.com/in/en/renew-visa"
+      },
+      {
+        "label": "Official U.S. Visa Appointment Service India: Schedule your appointment",
+        "url": "https://www.ustraveldocs.com/in/en/step-4"
+      },
+      {
+        "label": "Official U.S. Visa Appointment Service India: Terms and conditions",
+        "url": "https://www.ustraveldocs.com/in/en/terms-and-conditions"
+      },
+      {
+        "label": "U.S. GAO: GAO-26-107902, Nonimmigrant Visas: State Should Consistently Conduct Global Staffing Needs Assessments",
+        "url": "https://www.gao.gov/products/gao-26-107902"
+      },
+      {
+        "label": "U.S. Department of State: Interview Waiver Update, July 25, 2025",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/interview-waiver-update-july-25-2025.html"
+      },
+      {
+        "label": "Business Today: US visa wait times October 2026 in India",
+        "url": "https://www.businesstoday.in/nri/visa/story/us-visa-wait-times-october-2026-check-tourist-student-and-work-visa-timelines-in-india-563154-2026-10-23"
+      },
+      {
+        "label": "Business Today: US Embassy India announces one free reschedule rule",
+        "url": "https://www.businesstoday.in/nri/visa/story/reschedule-us-visa-appointment-for-free-from-us-embassy-india-announces-new-rule-to-tackle-long-wait-time-457856-2024-12-19"
+      },
+      {
+        "label": "The Tribune: US cancels over 2,000 visa appointments by bots",
+        "url": "https://www.tribuneindia.com/news/world/zero-tolerance-for-agents-and-fixers-us-cancels-over-2k-visa-appointments-by-bots"
+      },
+      {
+        "label": "Study in the States (DHS): What to know about new student visa guidance",
+        "url": "https://studyinthestates.dhs.gov/2023/05/what-to-know-about-new-student-visa-guidance"
+      }
+    ]
+  },
+  {
+    "slug": "schengen-visa-for-christmas-new-year-trips-2026",
+    "title": "Schengen Visa for Christmas 2026: Is It Too Late to Apply?",
+    "metaTitle": "Schengen Visa for Christmas & New Year 2026 | Travlys",
+    "metaDescription": "Yes, Indians can still get a Schengen visa for Christmas 2026 if they apply by mid-November. The rule is 15 days before travel; decisions take up to 45 days.",
+    "excerpt": "A late-October or November application can still work for a December Europe trip. Here are the real timelines, the main-destination rule, the documents that matter and your backup options.",
+    "date": "2026-10-27",
+    "updated": "2026-10-27",
+    "readMinutes": 8,
+    "category": "Visa rule updates",
+    "tags": [
+      "Schengen visa",
+      "Christmas holidays",
+      "New Year trips",
+      "Europe",
+      "Switzerland",
+      "EES",
+      "Visa timelines"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1480413258216-ff003d179d65?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "schengen-ees-explained-for-indian-travellers",
+      "northern-lights-trip-from-india-visa-guide"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "See Schengen visa help"
+    },
+    "faqs": [
+      {
+        "q": "Can I still get a Schengen visa for Christmas if I apply in November?",
+        "a": "Yes, in most cases, if you apply by mid-November. Schengen rules let you apply up to 15 calendar days before travel, and most decisions come within 15 days. Decisions can take up to 45 days, and Christmas holidays slow consulates down, so the earlier you submit, the safer you are. The hardest part is usually getting a VFS appointment."
+      },
+      {
+        "q": "What is the last date to apply for a Schengen visa for a 20 December trip?",
+        "a": "The legal last date is 5 December 2026, which is 15 calendar days before travel. That is too tight to rely on, because the decision clock starts only when the consulate receives your file. Aim to submit by 15 to 20 November, which leaves time for a standard 15-day decision, transport between VFS and the consulate, and holiday closures."
+      },
+      {
+        "q": "Which Schengen country should I apply to for Paris and Switzerland?",
+        "a": "Apply to the country where you spend the most nights. Four nights in Paris and three in Switzerland means a French visa. Five nights in Switzerland and two in Paris means a Swiss visa. If the nights are equal, apply to the country whose Schengen border you cross first. Switzerland is part of the Schengen area, so one visa covers both."
+      },
+      {
+        "q": "Can I apply to a different Schengen country because it has earlier appointments?",
+        "a": "No, you should not. NetherlandsWorldwide says an application made to a country that is not your main purpose of travel will be rejected, and the Swedish Embassy warns it refuses applications where the stated purpose does not match. A refusal stays on your record. If your plans genuinely change, change the bookings first and apply to the country that matches."
+      },
+      {
+        "q": "Do I need to give fingerprints at the European border under EES?",
+        "a": "Yes, the Entry/Exit System has been fully live since 10 April 2026. When you first enter Schengen, your face image is taken and your fingerprints are checked against those you gave for the visa. Passports are no longer stamped. Some airports had long queues after the launch, so allow extra time at your first Schengen airport in December."
+      },
+      {
+        "q": "What can I do if I cannot get a Schengen appointment in time?",
+        "a": "Use a valid multiple-entry Schengen visa if you already hold one, move the trip to January or February, or pick an easier-visa destination for December. Thailand gives Indians 30 days visa-free, Malaysia is visa-free until 31 December 2026, Vietnam has a USD 25 e-visa, Georgia has an e-visa, and Sri Lanka's tourist ETA is free."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes, you can usually still get a Schengen visa for a Christmas or New Year 2026 trip if you apply in late October or the first half of November. The legal cut-off is **15 calendar days before you travel**, and most decisions come within 15 days, but they can take up to 45. The real risk is the appointment wait, so book a slot this week and apply to the country where you will spend the most nights."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Earliest you can apply:** 6 months before travel. **Latest you can apply:** 15 calendar days before travel. **Standard decision time:** 15 calendar days, extendable to 45 in individual cases. **Fee:** €90 for adults, €45 for children aged 6 to under 12, plus the VFS service charge. **Which country:** Main destination (most nights); if equal, the first Schengen country you enter. **Insurance:** At least €30,000 medical cover. **At the border:** EES biometric registration, fully live since 10 April 2026, with no passport stamps. **Safe target for a late-December trip:** submit by mid-November."
+      },
+      {
+        "type": "h2",
+        "text": "Work backwards from your flight date"
+      },
+      {
+        "type": "p",
+        "text": "The 15-day rule is a minimum, not a plan. The 15-day decision clock starts when the consulate receives your file, not when you hand it in at VFS. Germany's missions in India say that transfer can take up to six working days. Norway asks applicants outside Delhi to allow 4 to 6 extra days for transport."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Flying 20 December:** the legal last day to apply is 5 December. A safer target is 15 to 20 November.",
+          "**Flying 27 December for New Year:** the last day is 12 December. A safer target is 20 to 25 November.",
+          "**Add a margin for holidays:** the European Commission advises taking national holidays into account, both in the destination country and where you apply. Many consulates work reduced hours over Christmas."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If your file goes in during the first week of December, you can still get the visa, but you are relying on a fast decision with no room for a request for extra documents."
+      },
+      {
+        "type": "h2",
+        "text": "How long are appointment waits?"
+      },
+      {
+        "type": "p",
+        "text": "No embassy publishes an official appointment wait for India, and we could not verify which countries have earlier slots this season. Third-party slot trackers give snapshots that change by the hour. Treat them as hints, not facts."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Book directly on the official VFS site for the country you are applying to. NetherlandsWorldwide warns against booking through intermediaries.",
+          "NetherlandsWorldwide also asks for a separate appointment for each traveller, including children.",
+          "Check other cities. Germany's mission says Schengen appointments can be booked at any of its VFS centres in India regardless of where you live; other countries may restrict this, so read their page."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Which country to apply to: main destination and first entry"
+      },
+      {
+        "type": "p",
+        "text": "You apply to the country of your main destination. For a holiday, that is the country where you spend the most nights. If nights are equal, you apply to the country whose external Schengen border you cross first."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**4 nights Paris + 3 nights Switzerland:** apply to France.",
+          "**3 nights Lucerne + 2 nights Interlaken + 2 nights Paris:** Switzerland has 5 nights, so apply to Switzerland. Switzerland is in Schengen.",
+          "**3 nights Vienna + 3 nights Prague, flying into Vienna:** equal nights and Austria is your first entry, so apply to Austria.",
+          "**4 nights Prague + 2 nights Vienna:** apply to the Czech Republic."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For Swiss trips, the Swiss Embassy in India says processing takes 7 to 10 calendar days after you submit at a VFS centre, though a decision can take up to 15 days or longer in some cases."
+      },
+      {
+        "type": "h2",
+        "text": "Why shopping for an easier embassy backfires"
+      },
+      {
+        "type": "p",
+        "text": "It is tempting to apply to whichever country has a slot next week and then spend most of the trip elsewhere. Do not do it."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "NetherlandsWorldwide says an application made to a country that is not your main purpose of travel will be rejected.",
+          "The Swedish Embassy in New Delhi warns it will refuse an application if it suspects the stated purpose is not the real one.",
+          "Border guards can ask for your bookings, and the EES now records where and when you enter and leave.",
+          "A refusal is recorded in the shared Schengen visa system, and consulates see it when you apply again."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If your plans genuinely change, change the bookings first, then apply to the country that matches them."
+      },
+      {
+        "type": "h2",
+        "text": "Documents that matter for a December trip"
+      },
+      {
+        "type": "p",
+        "text": "Each consulate has its own checklist. The Netherlands' India checklist is typical of what they look for."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Leave letter:** a recent letter from your employer approving leave for the exact dates, with three months of payslips. Year-end leave approvals often come late, so ask HR now.",
+          "**Money:** three months of personal bank statements stamped and signed by the bank, or income tax returns for the last two years. Self-employed applicants also need GST and company documents.",
+          "**Bookings:** a return flight reservation (a paid ticket is not required) and hotel bookings for every night in every country. Choose refundable rates; December prices are high.",
+          "**Insurance:** at least €30,000 medical cover, valid in all Schengen countries, for the whole stay.",
+          "**Cover letter:** day-by-day plan, who you travel with, and how you move between countries.",
+          "**Passport:** issued within the last 10 years, with two blank pages and valid at least three months after you leave Schengen."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Popular December trips and the visa each one needs"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Paris for New Year's Eve:** French visa if France has most nights.",
+          "**Vienna and Salzburg Christmas markets:** Austrian visa.",
+          "**Prague and Budapest:** apply to whichever country has more nights.",
+          "**Switzerland with a short Paris or Milan add-on:** Swiss visa, as long as Switzerland has the most nights.",
+          "**Amsterdam with Brussels or Paris:** Dutch visa if the Netherlands has the most nights."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Most Christmas markets in Central Europe run from mid or late November to around Christmas, and a few stay open into early January. Check the city's official tourism site for exact dates before you build the itinerary."
+      },
+      {
+        "type": "h2",
+        "text": "EES at the border"
+      },
+      {
+        "type": "p",
+        "text": "The EU's Entry/Exit System has been fully live at Schengen external borders since 10 April 2026. On your first entry, your face image is taken and your visa fingerprints are checked, and passports are no longer stamped. Reports from April and the summer described long queues at some big airports. In late December, allow extra time at your first Schengen airport and carry copies of your hotel bookings, return ticket and insurance."
+      },
+      {
+        "type": "h2",
+        "text": "What to do if you cannot get a slot"
+      },
+      {
+        "type": "h3",
+        "text": "Use a visa you already hold"
+      },
+      {
+        "type": "p",
+        "text": "If you have a valid multiple-entry Schengen visa from an earlier trip, the European Commission says a Schengen visa is generally valid for all Schengen countries. You can use it for this trip as long as it is still valid on your return date and you stay within 90 days in any 180."
+      },
+      {
+        "type": "h3",
+        "text": "Move the trip to January or February"
+      },
+      {
+        "type": "p",
+        "text": "You can apply up to six months ahead. A February Europe trip filed in November has plenty of room, and hotels cost less after New Year."
+      },
+      {
+        "type": "h3",
+        "text": "Choose an easier-visa destination for December"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Thailand:** 30 days visa-free for Indian tourists since 15 September 2026, with the free online TDAC arrival card.",
+          "**Malaysia:** 30 days visa-free until 31 December 2026 unless extended, with the MDAC arrival card. Check before you book if you land close to that date.",
+          "**Vietnam:** e-visa at USD 25 for single entry, processed within three working days of a complete application.",
+          "**Georgia:** e-visa at USD 20 plus a 2% service fee, at least five working days. If you hold a valid US, UK or Schengen visa, you may enter visa-free. Insurance is compulsory.",
+          "**Sri Lanka:** free online ETA for 30 days."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should apply now, and who should wait"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Apply now:** your leave is approved, you know your main destination, and your passport and finances are in order.",
+          "**Wait for January or February:** your leave is not confirmed, you are a first-time applicant with thin documents, or your best appointment is in December."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files Schengen visa applications through the Netherlands, from **₹2,950** service fee plus government fees. If the Netherlands is your main destination, we prepare the full file, cover letter and checklist so it goes in right the first time. If another country is your main destination, we will say so plainly when we review your plan. If you switch to an easier December trip instead, we also plan holiday packages with hotels and private transfers. We have filed 5,000+ visas with a 98% approval rate. WhatsApp **+91 82009 18967** with your travel dates."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules, fees and timelines in this guide were checked on 27 October 2026 against the sources listed below. Appointment availability changes daily, so check the official VFS and embassy sites before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission, Migration and Home Affairs: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Schengen visa FAQ (PDF)",
+        "url": "https://home-affairs.ec.europa.eu/document/download/dae5e071-1564-4a5d-9714-2147f7641781_en?filename=FAQs.pdf"
+      },
+      {
+        "label": "NetherlandsWorldwide: Applying for a Schengen visa in India",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-india"
+      },
+      {
+        "label": "NetherlandsWorldwide: Visiting two or more Schengen countries, which country to apply to",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/visiting-more-than-one-schengen-country"
+      },
+      {
+        "label": "NetherlandsWorldwide: Checklist for a tourist Schengen visa in India",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/checklist-schengen-visa-tourism/india"
+      },
+      {
+        "label": "NetherlandsWorldwide: Insurance requirements for a Schengen visa",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/requirements-insurance-schengen-visa"
+      },
+      {
+        "label": "NetherlandsWorldwide: Consular fees in India 2026",
+        "url": "https://www.netherlandsworldwide.nl/consular-fees/india"
+      },
+      {
+        "label": "German Missions in India: Important information for Schengen visa applicants (appointments, cascade)",
+        "url": "https://india.diplo.de/in-en/service/2564504-2564504"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Schengen visa application procedure (19 January 2026)",
+        "url": "https://www.schweiz-indien.eda.admin.ch/en/application-schengen-visa-procedure"
+      },
+      {
+        "label": "Sweden Abroad, India: Important information for all visa applicants",
+        "url": "https://www.swedenabroad.se/en/about-sweden-non-swedish-citizens/india/going-to-sweden/visiting-sweden/important-information-for-all-visa-applicants/"
+      },
+      {
+        "label": "Royal Norwegian Embassy in New Delhi: Processing time for visitor visas",
+        "url": "https://www.norway.no/en/india/services-info/visitors-visa-res-permit/visitors-visa/processing-time"
+      },
+      {
+        "label": "EU Delegation to India (EEAS): EU adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "European Union (travel-europe.europa.eu): FAQs about the EES",
+        "url": "https://travel-europe.europa.eu/en/ees/faq"
+      },
+      {
+        "label": "EY Tax News: EU Entry/Exit System fully operational as of 10 April 2026",
+        "url": "https://taxnews.ey.com/news/2026-0949-eus-entry-exit-system-fully-operational-as-of-10-april-2026"
+      },
+      {
+        "label": "Newland Chase: Schengen EES flexibility lapses as ETIAS launch appears likely to move to 2027 (9 September 2026)",
+        "url": "https://newlandchase.com/schengen-ees-flexibility-lapses-as-etias-launch-appears-likely-to-move-to-2027/"
+      },
+      {
+        "label": "Royal Thai Embassy, New Delhi: Revision of visa exemption, effective 15 September 2026",
+        "url": "https://newdelhi.thaiembassy.org/en/content/the-revision-of-thailand-s-visa-exemption-and-voa"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+      },
+      {
+        "label": "Vietnam Immigration Department: E-visa information",
+        "url": "https://immigration.gov.vn/trang-chu-ttdt"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Georgia (evisa.gov.ge): e-Visa FAQ",
+        "url": "https://www.evisa.gov.ge/GeoVisa/en/Home/FAQ"
+      },
+      {
+        "label": "Legislative Herald of Georgia (matsne.gov.ge): Ordinance No. 256, visa-free entry for holders of listed visas",
+        "url": "https://matsne.gov.ge/en/document/view/2867377"
+      },
+      {
+        "label": "Sri Lanka Department of Immigration and Emigration: ETA",
+        "url": "https://www.eta.gov.lk/slvisa/"
+      }
+    ]
+  },
+  {
+    "slug": "northern-lights-trip-from-india-visa-guide",
+    "title": "Northern Lights Trip from India: Which Visa You Need (2026-27)",
+    "metaTitle": "Northern Lights from India: Visa Guide 2026-27 | Travlys",
+    "metaDescription": "Finland, Norway, Iceland and Sweden all need a Schengen visa for Indians. Apply to the country of most nights, pay EUR 90, and file at least 15 days ahead.",
+    "excerpt": "Lapland, Tromsø, Iceland and Abisko all need one Schengen visa. Here is which country to apply to, when to file, what it costs and when the lights are best.",
+    "date": "2026-10-27",
+    "updated": "2026-10-27",
+    "readMinutes": 8,
+    "category": "Travel planning",
+    "tags": [
+      "Northern Lights",
+      "Schengen visa",
+      "Finland",
+      "Norway",
+      "Iceland",
+      "Sweden",
+      "Winter travel"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1515764741095-712094f48b42?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-for-christmas-new-year-trips-2026",
+      "schengen-visa-documents-checklist-2026",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "See Schengen visa help"
+    },
+    "faqs": [
+      {
+        "q": "Do Indians need a visa to see the Northern Lights in Finland or Norway?",
+        "a": "Yes, Indian passport holders need a Schengen short-stay visa for Finland, Norway, Sweden and Iceland. One visa covers all four, plus the rest of the Schengen area, for up to 90 days in any 180 days. You apply to the country where you will spend the most nights. The fee is €90 for adults, plus the VFS service charge."
+      },
+      {
+        "q": "Which country should I apply to for a Lapland and Tromsø trip?",
+        "a": "Apply to the country where you spend the most nights. Four nights in Tromsø and three in Rovaniemi means a Norwegian visa. If the nights are equal, apply to the country whose Schengen border you cross first; flying Delhi to Helsinki makes that Finland. Applying to another country because it has easier appointments can get your application rejected."
+      },
+      {
+        "q": "How early should I apply for a December Northern Lights trip?",
+        "a": "Apply as early as you can, ideally by mid-November for a late-December trip. Schengen rules let you apply up to six months ahead and no later than 15 calendar days before travel. Decisions usually take 15 days but can take up to 45, and courier time and Christmas holidays add more. Norway advises applying at least four weeks before departure."
+      },
+      {
+        "q": "What is the best month to see the Northern Lights?",
+        "a": "September to October and February to March are often the best months, according to Visit Finland, because nights are dark and skies are often clearer. The season runs from late August or September to early April. December and January have the longest nights but the highest prices. Plan at least three or four nights in the aurora zone, because cloud is the main risk."
+      },
+      {
+        "q": "How much does a Northern Lights trip from India cost?",
+        "a": "Pickyourtrail reported in September 2026 that an average aurora trip costs ₹2.5 to 2.9 lakh per person for 9 to 10 nights. That is the company's own figure. On top of that, budget for the €90 Schengen visa fee, the VFS service charge and travel insurance with at least €30,000 medical cover. Christmas week usually costs more than February or March."
+      },
+      {
+        "q": "Is there a direct flight from India to Finland or Norway?",
+        "a": "Yes, Finnair flies non-stop from Delhi to Helsinki daily this winter, and you connect onward to Lapland by domestic flight or train. There is no non-stop flight to Norway, Sweden or Iceland. Air India's Delhi to Copenhagen route ended on 23 October 2026, so other trips need at least one stop via a Gulf or European hub."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "To see the Northern Lights from India this winter, most travellers pick Finnish Lapland, Tromsø in Norway, Iceland or Abisko in Sweden. All four are in the Schengen area, so you need one Schengen visa, filed with the country where you spend the most nights, at **€90 for adults**. You can apply up to six months ahead and no later than 15 days before you fly, and the aurora season runs roughly from September to early April."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa needed:** Schengen short-stay visa for Finland, Norway, Sweden and Iceland. **Which country:** The one where you spend the most nights; if nights are equal, the one whose border you cross first. **Fee:** €90 for adults, €45 for children aged 6 to under 12, plus the VFS service charge. **When to apply:** Up to 6 months before travel, no later than 15 calendar days before. **Decision time:** Usually 15 days, up to 45 days in individual cases. **Insurance:** At least €30,000 medical cover for the whole stay. **Aurora season:** Roughly late August or September to early April. **Non-Schengen option:** Canada (Yellowknife, Whitehorse) needs a Canadian visitor visa."
+      },
+      {
+        "type": "h2",
+        "text": "Is demand really up this winter?"
+      },
+      {
+        "type": "p",
+        "text": "Travel company Pickyourtrail said in September 2026 that its bookings for Finland and the Nordic region were up **70 to 75% year on year**, with a 50% rise in interest in aurora itineraries. These are the company's own figures, not official tourism data. The same report puts the average aurora trip at **9 to 10 nights** and **₹2.5 to 2.9 lakh per person**, against 5 to 7 nights and ₹80,000 to ₹1.2 lakh for other international holidays."
+      },
+      {
+        "type": "p",
+        "text": "What this means for you is simple. Christmas-week rooms and tours in the Arctic go early. Tromsø's official tourism site says hotels fill quickly in the December to February peak and advises booking aurora tours before you arrive."
+      },
+      {
+        "type": "h2",
+        "text": "Where to go, and which visa each place needs"
+      },
+      {
+        "type": "h3",
+        "text": "Finnish Lapland (Rovaniemi, Levi, Saariselkä): Finnish visa"
+      },
+      {
+        "type": "p",
+        "text": "You fill the form at finlandvisa.fi, book a slot at a Finland VFS Global centre in India and submit in person, with fingerprints taken unless you gave them for a Schengen visa in the last 59 months. Visit Finland says auroras appear on roughly every other clear night in Lapland between late August and April. From Helsinki you continue by domestic flight or train."
+      },
+      {
+        "type": "h3",
+        "text": "Tromsø, Norway: Norwegian visa"
+      },
+      {
+        "type": "p",
+        "text": "The Royal Norwegian Embassy in New Delhi decides applications, and appointments are booked only through VFS. Tromsø's tourism board gives the aurora window as late August to early April. Visit Norway lists Tromsø's polar night, when the sun does not rise, from the end of November to mid-January. You reach Tromsø through Oslo or another European hub."
+      },
+      {
+        "type": "h3",
+        "text": "Iceland: Icelandic visa"
+      },
+      {
+        "type": "p",
+        "text": "The Embassy of Iceland in New Delhi issues visas through VFS Global centres in several Indian cities. The Government of Iceland says processing is generally 15 days, but can stretch to 30 days when more documents are needed and 60 days in exceptional cases. Visit Iceland gives the season as September to April. There is no direct flight from India."
+      },
+      {
+        "type": "h3",
+        "text": "Abisko and Kiruna, Sweden: Swedish visa"
+      },
+      {
+        "type": "p",
+        "text": "Sweden Abroad lists nine VFS centres in India, including Ahmedabad, and decisions are usually made within 15 days. The embassy warns that it will refuse an application if the real purpose of the trip is not to visit Sweden. Abisko is reached through Kiruna, which you fly to via Stockholm."
+      },
+      {
+        "type": "h3",
+        "text": "Outside Schengen: Canada"
+      },
+      {
+        "type": "p",
+        "text": "Yellowknife and Whitehorse are popular aurora bases, but they need a **Canadian visitor visa**, a separate application. The government fee is CAD 100 plus CAD 85 for biometrics, and IRCC's tool showed **29 days** for India on 21 October 2026. Alaska needs a US visitor visa, which usually means a much longer wait for an interview."
+      },
+      {
+        "type": "h2",
+        "text": "Which country do you apply to?"
+      },
+      {
+        "type": "p",
+        "text": "Schengen rules say you apply to the country of your main destination. For a holiday, that is the country where you stay longest. If your nights are split equally, you apply to the country whose external border you cross first."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**4 nights Tromsø + 3 nights Rovaniemi:** apply to Norway.",
+          "**2 nights Stockholm + 3 nights Abisko + 2 nights Oslo:** Sweden has 5 of 7 nights, so apply to Sweden.",
+          "**3 nights Rovaniemi + 3 nights Tromsø, flying Delhi to Helsinki:** nights are equal and you first enter Schengen at Helsinki, so apply to Finland.",
+          "**4 nights Amsterdam + 3 nights Lapland:** apply to the Netherlands."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Do not file with a different country because its slots look easier. NetherlandsWorldwide says an application made to the wrong Schengen country will be rejected. A refusal stays on your record and makes the next application harder."
+      },
+      {
+        "type": "h2",
+        "text": "Fees, timelines and appointments"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa fee:** €90 for adults, €45 for children aged 6 to under 12, free under 6. The VFS centre adds its own service charge.",
+          "**Earliest:** 6 months before your trip. **Latest:** 15 calendar days before.",
+          "**Decision:** usually within 15 calendar days of the consulate receiving the file, extendable to 45 days. Norway asks Delhi applicants to allow 2 extra days and other cities 4 to 6 days for transport.",
+          "**Norway's advice:** apply at least 4 weeks before departure.",
+          "**Appointments:** we found no official notice of a slot shortage at the Finnish, Norwegian, Icelandic or Swedish centres for this winter. Availability changes daily, and third-party slot trackers are not official. Check the VFS site yourself."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a trip in the last two weeks of December, try to submit by mid-November. That leaves room for a 15-day decision, courier time and the Christmas slowdown."
+      },
+      {
+        "type": "h2",
+        "text": "Insurance and documents"
+      },
+      {
+        "type": "p",
+        "text": "Your travel medical insurance must cover at least **€30,000**, be valid in all Schengen countries and cover your entire stay, including repatriation. If you plan snowmobiling or husky safaris, check the policy does not exclude them."
+      },
+      {
+        "type": "p",
+        "text": "Each country has its own checklist, so follow the one for the country you apply to. The Netherlands' India checklist is a fair guide to what consulates expect: a leave letter and three months of payslips, three months of stamped bank statements or two years of income tax returns, a return flight reservation (a paid ticket is not required), hotel bookings for every night, and a cover letter explaining the plan."
+      },
+      {
+        "type": "h2",
+        "text": "The cascade rule: a longer visa for repeat travellers"
+      },
+      {
+        "type": "p",
+        "text": "Since April 2024, Indians who have **obtained and lawfully used two Schengen visas in the previous three years** can normally get a two-year multiple-entry visa. That is usually followed by a five-year visa if your passport has enough validity left. Germany's mission in India notes there is no automatic entitlement, and a passport close to expiry can shorten what you get. If your passport runs out within a few years, renewing it before you apply can help."
+      },
+      {
+        "type": "h2",
+        "text": "When to go, and is the sun still active?"
+      },
+      {
+        "type": "p",
+        "text": "Visit Finland names **September to October and February to March** as peak aurora months, when nights are dark but skies are often clearer. December and January give the longest darkness, but also the highest prices. Cloud cover matters more than the month, so plan three or four nights in the aurora zone and keep one evening free for a second try. Pickyourtrail estimates about a 66% chance of a sighting on a three-night stay; that is the company's estimate, not a guarantee."
+      },
+      {
+        "type": "p",
+        "text": "NASA and NOAA announced on 15 October 2024 that the Sun had reached its solar maximum period. In January 2026 the UK Met Office said the maximum was all but confirmed to have happened in 2024 and 2025 and that the Sun is now in its declining phase. The Met Office adds that strong space-weather events often come after the maximum, so 2026-27 is still a good season. Use the Finnish Meteorological Institute's space-weather service or Iceland's Met Office forecast on the night."
+      },
+      {
+        "type": "h2",
+        "text": "Flights from India"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Non-stop:** Finnair flies Delhi to Helsinki daily this winter. It avoids Russian airspace, so the flight is a few hours longer than it used to be.",
+          "**Air India Delhi–Copenhagen:** the route ended with a last flight on 23 October 2026.",
+          "**One-stop options:** fly via a Gulf hub, Istanbul or a European hub, then connect to Rovaniemi, Ivalo or Kittilä in Finland, Tromsø, Kiruna or Reykjavík."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Clothing for the Arctic"
+      },
+      {
+        "type": "p",
+        "text": "Visit Finland says Rovaniemi averages minus 10°C to minus 20°C in winter and Lapland can reach minus 30°C. Layer up: a wool base layer, a fleece or down mid-layer, a windproof outer shell, insulated boots with thick socks, gloves with liners, a warm hat and a neck gaiter. Many Lapland hotels and tour operators lend thermal overalls, so ask before you buy. Carry a power bank, because phone batteries drain fast in the cold."
+      },
+      {
+        "type": "h2",
+        "text": "Who should, and who should not, book this winter"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Good fit:** you have at least six or seven nights, can handle the cold, and accept that the lights are never guaranteed.",
+          "**Think twice:** you only have four nights including travel, or you are travelling with someone who struggles in extreme cold.",
+          "**Better in February or March:** you want lower prices and clearer skies, and you cannot get a December visa appointment in time."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Applying to a country you will not spend the most nights in.",
+          "Booking non-refundable igloos or glass cabins before the visa is approved.",
+          "Using a passport issued more than 10 years ago, without two blank pages, or valid for less than three months after you leave.",
+          "Leaving the application to December for a Christmas trip."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files Schengen visa applications through the Netherlands, from **₹2,950** service fee plus government fees. If your trip is Netherlands-led, such as Amsterdam with a shorter Lapland add-on, we can handle the file end to end. If Finland, Norway, Iceland or Sweden is your main destination, the visa must come from that country, and we will tell you so plainly when we check your itinerary. We have filed 5,000+ visas with a 98% approval rate. WhatsApp **+91 82009 18967** with your dates and nights per country."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules, fees and timelines in this guide were checked on 27 October 2026 against the sources listed below. Visa rules and appointment availability change often, so check the official site before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "TravelBiz Monitor: Pickyourtrail offers travellers another Northern Lights chance (29 September 2026)",
+        "url": "https://travelbizmonitor.com/top-stories/pickyourtrail-offers-travellers-another-northern-lights-chance/"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Schengen visa FAQ (PDF)",
+        "url": "https://home-affairs.ec.europa.eu/document/download/dae5e071-1564-4a5d-9714-2147f7641781_en?filename=FAQs.pdf"
+      },
+      {
+        "label": "NetherlandsWorldwide: Visiting two or more Schengen countries, which country to apply to",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/visiting-more-than-one-schengen-country"
+      },
+      {
+        "label": "NetherlandsWorldwide: Checklist for a tourist Schengen visa in India",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/checklist-schengen-visa-tourism/india"
+      },
+      {
+        "label": "NetherlandsWorldwide: Insurance requirements for a Schengen visa",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/requirements-insurance-schengen-visa"
+      },
+      {
+        "label": "NetherlandsWorldwide: Consular fees in India 2026",
+        "url": "https://www.netherlandsworldwide.nl/consular-fees/india"
+      },
+      {
+        "label": "Ministry for Foreign Affairs of Finland: Service fees in Finnish missions abroad",
+        "url": "https://um.fi/service-fees"
+      },
+      {
+        "label": "Finland abroad, India: Where and how to apply for a visa",
+        "url": "https://finlandabroad.fi/web/ind/where-and-how-to-apply-for-a-visa-"
+      },
+      {
+        "label": "UDI (Norwegian Directorate of Immigration): Fees",
+        "url": "https://www.udi.no/en/word-definitions/fees/"
+      },
+      {
+        "label": "Royal Norwegian Embassy in New Delhi: Visitor's visa and residence permit",
+        "url": "https://www.norway.no/en/india/services-info/visitors-visa-res-permit/"
+      },
+      {
+        "label": "Royal Norwegian Embassy in New Delhi: Processing time for visitor visas",
+        "url": "https://www.norway.no/en/india/services-info/visitors-visa-res-permit/visitors-visa/processing-time"
+      },
+      {
+        "label": "Government of Iceland: Apply for a visa to Iceland (Schengen visa)",
+        "url": "https://www.government.is/topics/foreign-affairs/visa-to-iceland/"
+      },
+      {
+        "label": "Government of Iceland: Embassy of Iceland in New Delhi, consular services",
+        "url": "https://www.government.is/ministries/diplomatic-missions/new-delhi-india/consular-services/"
+      },
+      {
+        "label": "Sweden Abroad, India: Apply for a visa",
+        "url": "https://www.swedenabroad.se/en/about-sweden-non-swedish-citizens/india/going-to-sweden/visiting-sweden/apply-for-a-visa/"
+      },
+      {
+        "label": "Sweden Abroad, India: Important information for all visa applicants",
+        "url": "https://www.swedenabroad.se/en/about-sweden-non-swedish-citizens/india/going-to-sweden/visiting-sweden/important-information-for-all-visa-applicants/"
+      },
+      {
+        "label": "EU Delegation to India (EEAS): EU adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "German Missions in India: Schengen cascade change for Indian nationals",
+        "url": "https://india.diplo.de/in-en/service/2564504-2564504"
+      },
+      {
+        "label": "Government of Canada: Visitor visa (temporary resident visa)",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html"
+      },
+      {
+        "label": "Government of Canada: Check processing times",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+      },
+      {
+        "label": "NASA Science: NASA, NOAA say Sun reaches maximum phase in 11-year solar cycle (15 October 2024)",
+        "url": "https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/"
+      },
+      {
+        "label": "UK Met Office: Declining phase for Sun's activity, but what's next? (29 January 2026)",
+        "url": "https://www.metoffice.gov.uk/blog/2026/declining-phase-for-suns-activity-but-whats-next"
+      },
+      {
+        "label": "Visit Finland: Best times to see the Northern Lights in Finland",
+        "url": "https://www.visitfinland.com/en/articles/the-best-times-to-see-northern-lights/"
+      },
+      {
+        "label": "Visit Finland: Weather and climate in Finland",
+        "url": "https://www.visitfinland.com/en/practical-tips/climate-and-weather-in-finland/"
+      },
+      {
+        "label": "Visit Tromsø: Northern lights, when and where",
+        "url": "https://www.visittromso.no/northern-lights/when-and-where"
+      },
+      {
+        "label": "Visit Norway: The polar night",
+        "url": "https://www.visitnorway.com/places-to-go/northern-norway/polar-night/"
+      },
+      {
+        "label": "Visit Iceland: The Northern Lights in Iceland",
+        "url": "https://www.visiticeland.com/article/northern-lights-in-iceland/"
+      },
+      {
+        "label": "AeroRoutes: Finnair removes planned A350 4Q26 Delhi service (Delhi–Helsinki winter schedule)",
+        "url": "https://www.aeroroutes.com/eng/260723-ay4q26del"
+      },
+      {
+        "label": "Finnair: Finnair flights to Asia bypass Russian airspace",
+        "url": "https://www.finnair.com/en/flight-information/travel-updates/finnair-flights-to-asia-bypass-russian-airspace-2548036"
+      },
+      {
+        "label": "AeroRoutes: Air India discontinues Copenhagen service in late October 2026",
+        "url": "https://www.aeroroutes.com/eng/260924-ainw26cph"
+      }
+    ]
+  },
+  {
+    "slug": "kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians",
+    "title": "Kazakhstan, Uzbekistan, Kyrgyzstan Visa for Indians: 2026 Guide",
+    "metaTitle": "Kazakhstan, Uzbekistan, Kyrgyzstan Visa for Indians | Travlys",
+    "metaDescription": "Kazakhstan is visa-free for Indians for 14 days. Uzbekistan needs a USD 20 e-visa unless you hold a US, UK or Schengen visa. Kyrgyzstan needs an e-visa.",
+    "excerpt": "Kazakhstan lets Indians in visa-free for 14 days. Uzbekistan is visa-free for 30 days only if you hold a valid multiple-entry US, UK, Schengen or similar visa; otherwise it is a USD 20 e-visa. Kyrgyzstan needs an e-visa.",
+    "date": "2026-10-27",
+    "updated": "2026-10-27",
+    "readMinutes": 8,
+    "category": "Travel planning",
+    "tags": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Central Asia",
+      "e-visa",
+      "visa-free",
+      "QazETA",
+      "Almaty",
+      "Samarkand",
+      "winter travel"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1733586092622-1b3201e802a5?w=1600&h=900&fit=crop",
+    "related": [
+      "georgia-visa-for-indians-2026",
+      "visa-free-countries-for-indians-2026",
+      "south-korea-visa-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Is Kazakhstan visa-free for Indians in 2026?",
+        "a": "Yes. Indian passport holders can stay in Kazakhstan without a visa for up to 14 days per visit, with a cap of 42 days in any 180-day period. The rule comes from Government Decree 464 of July 2022, and Kazakhstan kept India's 14-day limit unchanged in October 2026. You need a Kazakh visa for a longer stay, and you cannot work on a visa-free entry."
+      },
+      {
+        "q": "Is Uzbekistan visa-free for all Indians now?",
+        "a": "No. Despite August 2026 headlines, Presidential Decree PF-180, in force from 1 September 2026, gives 30 days visa-free only to Indians holding a valid multiple-entry business or tourist visa from the US, UK, a Schengen state, Canada, Australia, Japan, New Zealand or South Korea, plus an air ticket out. Everyone else still needs a visa, usually the e-visa from e-visa.gov.uz."
+      },
+      {
+        "q": "How much does the Uzbekistan e-visa cost for Indians?",
+        "a": "The official consular fee is USD 20 for a single-entry tourist e-visa, paid online by card and not refunded if the visa is refused. It allows one stay of up to 30 days and is valid for 90 days from issue. The official rule is two working days to process, but apply at least a week ahead. Use only e-visa.gov.uz."
+      },
+      {
+        "q": "Do Indians need a visa for Kyrgyzstan?",
+        "a": "Yes, in most cases. Apply for a tourist e-visa at evisa.e-gov.kg, which allows up to 30 days and has an official review period of 5 working days. The portal shows the fee during the application. The exception is a 7-day visa-free stay for Indians flying into Bishkek's Manas airport with a long-term multiple-entry US, UK or Schengen visa that has at least 3 years of validity."
+      },
+      {
+        "q": "What is QazETA and do Indians need it?",
+        "a": "QazETA is Kazakhstan's new free electronic travel authorisation for visa-free visitors, and specialist visa news reports say Indians are included. Checks start on 1 November 2026 at Aktau airport and some land crossings, reach Almaty and Astana airports on 1 January 2027, and become mandatory on 1 July 2027. Until then you will not be refused entry only for not having one. Apply at least 72 hours before arrival."
+      },
+      {
+        "q": "Do I need to register in Uzbekistan?",
+        "a": "Yes. Foreigners must register their temporary stay within three days of entering Uzbekistan. Hotels and licensed guesthouses register you automatically, so most tourists do nothing extra. If you stay with friends or in an unregistered flat, you must register at a migration office yourself. Late registration attracts a fine under Article 225 of Uzbekistan's Administrative Code."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Of the three Central Asian countries Indians are booking this winter, only **Kazakhstan is visa-free for every Indian passport holder**, for up to **14 days per visit**. **Uzbekistan** needs a **USD 20 e-visa** unless you hold a valid **multiple-entry US, UK, Schengen or similar visa**, which since **1 September 2026** gets you **30 days visa-free**. **Kyrgyzstan** needs an **e-visa from evisa.e-gov.kg**, with a 7-day visa-free option only for some US, UK and Schengen visa holders."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Kazakhstan:** Visa-free, 14 days per entry, 42 days in any 180. **Kazakhstan, new:** Free QazETA authorisation phased in from 1 November 2026, mandatory from 1 July 2027. **Uzbekistan, visa-free route:** 30 days with a valid multiple-entry visa from the US, UK, Schengen, Canada, Australia, Japan, New Zealand or South Korea, plus an onward air ticket. **Uzbekistan, e-visa:** USD 20, single entry, 30 days, at e-visa.gov.uz. **Uzbekistan registration:** Within 3 days (hotels do it). **Kyrgyzstan:** Tourist e-visa up to 30 days, official review 5 working days; 7 days visa-free only with a long-term US, UK or Schengen visa, by air into Bishkek. **Direct flights:** Delhi to Almaty and Delhi to Tashkent."
+      },
+      {
+        "type": "h2",
+        "text": "Kazakhstan: visa-free for 14 days"
+      },
+      {
+        "type": "p",
+        "text": "Kazakhstan's Government Decree 464 of 7 July 2022 gives Indian citizens a continuous visa-free stay of up to **14 days**, with a maximum of **42 days in every 180 days**. The Indian Embassy in Astana publishes the same rule. When Kazakhstan approved its new entry authorisation in October 2026, it kept India's limit at 14 days per visit, as Kun.uz reported."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Entry route:** Passport stamp on arrival. No visa and no fee.",
+          "**Stay:** 14 days per entry, 42 days in any 180-day period. Tourism, private and business visits are allowed. Work is not.",
+          "**Longer trips:** You need a Kazakh visa. Check the Kazakh Embassy in New Delhi's page on gov.kz before planning more than 14 days.",
+          "**Official sources:** The Ministry of Foreign Affairs on gov.kz and the Indian Embassy in Astana."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "QazETA: the new rule to watch"
+      },
+      {
+        "type": "p",
+        "text": "Government Decree No. 890 of 10 October 2026 introduces **QazETA**, a **free** electronic travel authorisation for visa-free visitors. VisasNews, which tracks visa rules, reports that Indian citizens are covered. Checks begin on **1 November 2026** at Aktau airport and four land crossings, reach **Almaty and Astana airports on 1 January 2027**, and cover all other crossings from 1 March 2027. Until 30 June 2027 nobody is refused entry only for not having one. From **1 July 2027** it becomes mandatory. Apply at least 72 hours before arrival, only through the official QazETA site or app. Children under 16 and travellers aged 65 or over are exempt."
+      },
+      {
+        "type": "h3",
+        "text": "Registration and delays"
+      },
+      {
+        "type": "p",
+        "text": "Kazakhstan's registration rules from 1 July 2026 give foreigners who must register 30 calendar days from crossing the border, according to a law-firm summary of the rules. A 14-day visa-free trip ends well before that. Hotels record your passport at check-in. If a cancelled flight keeps you past day 14, the Indian Embassy in Astana advises going to the nearest immigration office with a written application. Force majeure extensions can be granted without penalty if you show supporting documents."
+      },
+      {
+        "type": "h2",
+        "text": "Uzbekistan: e-visa, or visa-free with a US, UK or Schengen visa"
+      },
+      {
+        "type": "h3",
+        "text": "Is Uzbekistan visa-free for all Indians? No"
+      },
+      {
+        "type": "p",
+        "text": "On 30 August 2026, during the Prime Minister's visit to Tashkent, several outlets, including Khaleej Times carrying an ANI report, said Uzbekistan had introduced 30 days visa-free for Indian citizens, with no conditions mentioned. The legal text is narrower. **Presidential Decree PF-180 of 29 August 2026**, in force from **1 September 2026** according to Uzbekistan's Ministry of Justice as reported by Gazeta.uz and Kursiv, covers only Indians who hold a **valid multiple-entry business or tourist visa** from Australia, Canada, Japan, New Zealand, South Korea, the UK, the US or a Schengen state, and who show an **air ticket to India or a third country**. Gulf News reported the Indian Embassy in Tashkent describing the same conditions. Everyone else still needs a visa."
+      },
+      {
+        "type": "callout",
+        "label": "Watch out",
+        "text": "Do not fly to Tashkent on an Indian passport alone because a headline said visa-free. A single-entry Schengen visa, or one that has expired, does not qualify. If you are not covered, get the e-visa before you book non-refundable hotels."
+      },
+      {
+        "type": "h3",
+        "text": "The visa-free route"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who:** Indian citizens with a valid multiple-entry business or tourist visa from one of the eight issuers listed above.",
+          "**Stay:** Up to 30 days from entry, while that visa is still valid.",
+          "**Condition:** An air ticket out to India or a third country.",
+          "**Cost:** Nil."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "The e-visa route"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Portal:** e-visa.gov.uz, run by Uzbekistan's Ministry of Foreign Affairs. The visa is emailed to you and is not stuck in your passport.",
+          "**Fee:** USD 20 consular fee, paid online by card. Not refunded if refused.",
+          "**Stay and validity:** Single entry, one stay of up to 30 days, valid 90 days from issue.",
+          "**Processing:** Two working days under the original decree, which says to apply at least three working days before travel. Give yourself a week.",
+          "**Double and multiple entry:** Travel sites quote USD 35 and USD 50. We could not confirm these on an official page, so check the amount shown on the portal."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Registration within 3 days"
+      },
+      {
+        "type": "p",
+        "text": "Uzbekistan's Interior Ministry says foreigners must register their temporary stay **within three days of entry**. Hotels and licensed guesthouses do this for you, through the E-mehmon system. If you stay with friends or in an unregistered rental, you must register at a migration office. Late registration is fined under Article 225 of the Administrative Code. Keep every booking confirmation until you leave."
+      },
+      {
+        "type": "h2",
+        "text": "Kyrgyzstan: e-visa from evisa.e-gov.kg"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Entry route:** Tourist e-visa from evisa.e-gov.kg, the Ministry of Foreign Affairs portal. Every traveller, including children, needs a separate e-visa.",
+          "**Stay:** The tourist (TS) category allows up to 30 days.",
+          "**Cost:** The portal says the fee depends on category, type and period, and shows it during the application. It does not publish a flat figure. Third-party guides quote anywhere from about USD 30 to over USD 80, so trust only the portal. Fees are not refunded.",
+          "**Processing:** The official review period is 5 working days. Apply two to three weeks ahead.",
+          "**Visa-free option:** Since October 2023, Indians with a long-term multiple-entry US, UK or Schengen visa that has at least 3 years of validity can stay up to 7 days without a Kyrgyz visa. You must fly into Manas International Airport in Bishkek, and you can return only after 21 days. This is from the Indian Embassy in Bishkek.",
+          "**Registration:** The portal says foreigners must register their place of stay within 5 working days of entry unless their country is on an exemption list. Ask your hotel whether it registers you."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Flights from India"
+      },
+      {
+        "type": "p",
+        "text": "**Delhi to Almaty** has nonstop flights by Air Astana and IndiGo, roughly three and a half hours. **Delhi to Tashkent** is flown nonstop by Uzbekistan Airways, which also serves Mumbai. **Delhi to Bishkek** is thinner: Kyrgyz carrier TezJet started a weekly Sunday service in December 2025, but schedules have shifted since, so many travellers connect through Almaty or Tashkent. Check the airline's own timetable before you book. These schedules come from airline announcements and flight-tracking sites, not an official timetable."
+      },
+      {
+        "type": "h2",
+        "text": "Winter highlights"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Almaty:** Shymbulak ski resort sits above the city, with the Medeu high-altitude ice rink on the way. The ski season usually runs from December into spring, but check the resort's opening dates.",
+          "**Samarkand and Bukhara:** The Registan, Shah-i-Zinda and Bukhara's old town are quieter in winter, with fewer tour groups. Days can be near freezing, so pack layers.",
+          "**Issyk-Kul:** Kyrgyzstan's huge mountain lake does not freeze over, and the Karakol ski base is nearby. The drive from Bishkek to Karakol takes most of a day, so plan at least three nights."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Which one to pick"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Pick Kazakhstan** if you want no paperwork, a 5 to 7 day trip, skiing and a city break. It does not suit trips longer than 14 days.",
+          "**Pick Uzbekistan** for Silk Road history and architecture. It is the easiest if you already hold a qualifying multiple-entry visa. Otherwise, a USD 20 e-visa is cheap and fast.",
+          "**Pick Kyrgyzstan** for mountains, lakes and yurts. It needs the most planning: an e-visa, a 5-working-day review and registration.",
+          "**Combining:** Almaty and Bishkek pair well. Each country's rules apply separately, and every Kazakh visit counts towards the 42-day limit."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Assuming Uzbekistan is visa-free for every Indian.",
+          "Paying lookalike e-visa sites that charge several times the official fee.",
+          "Staying past day 14 in Kazakhstan.",
+          "Staying with friends in Uzbekistan without registering.",
+          "Relying on a US, UK or Schengen visa that is single entry, expired or, for Kyrgyzstan, valid for less than 3 years."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files **US, UK and Schengen visas** for Indian passport holders. Service fees start at ₹19,940 for the US, ₹12,950 for the UK and ₹2,950 for Schengen (via the Netherlands), with government fees extra. A valid multiple-entry visa from these countries is what makes Uzbekistan visa-free for 30 days, though whether you get multiple entry is the issuing embassy's decision. Travlys has filed 5,000+ visas with a 98% approval rate. WhatsApp +91 82009 18967 to plan your applications."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 27 October 2026 against the sources listed below. Central Asian entry rules are changing quickly, especially Kazakhstan's QazETA and Uzbekistan's visa-free regime, so check the official portal before you apply or fly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ministry of Foreign Affairs of Kazakhstan: Kazakhstan introduces visa free travel for citizens of India, Iran, and China",
+        "url": "https://www.gov.kz/memleket/entities/mfa/press/news/details/398648?lang=en"
+      },
+      {
+        "label": "Embassy of India, Astana: Kazakhstan introduced visa free travel for citizens of India for up to 14 days",
+        "url": "https://www.indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days/"
+      },
+      {
+        "label": "Embassy of India, Astana: Advisory to Indian travellers in Kazakhstan",
+        "url": "https://www.indembastana.gov.in/page/advisory-to-indian-travellers-in-kazakhstan/"
+      },
+      {
+        "label": "Kun.uz: Kazakhstan to roll out new electronic entry system for visa-free travelers (15 Oct 2026)",
+        "url": "https://kun.uz/en/news/2026/10/15/kazakhstan-to-roll-out-new-electronic-entry-system-for-visa-free-travelers-including-those-from-uzbekistan"
+      },
+      {
+        "label": "VisasNews: Kazakhstan QazETA to become mandatory on July 1, 2027 (14 Oct 2026)",
+        "url": "https://visasnews.com/en/kazakhstan-qazeta-electronic-travel-authorization-to-become-mandatory-on-july-1-2027/"
+      },
+      {
+        "label": "EIG Law: Kazakhstan adopts new rules for registration of immigrants",
+        "url": "https://eiglaw.com/kazahkstan-immigration-registration/"
+      },
+      {
+        "label": "Gazeta.uz: Indian citizens can now enter Uzbekistan with visas from US, UK and other countries (3 Sep 2026)",
+        "url": "https://www.gazeta.uz/en/2026/09/03/india-visa-uzbekistan/"
+      },
+      {
+        "label": "Kursiv Uzbekistan: Some Indians get 30 days visa-free in Uzbekistan (3 Sep 2026)",
+        "url": "https://uz.kursiv.media/en/2026-09-03/indians-with-us-british-or-schengen-visas-get-30-days-visa-free-in-uzbekistan/"
+      },
+      {
+        "label": "Yuz.uz: Entry procedures to Uzbekistan simplified for Indian citizens holding international visas",
+        "url": "https://yuz.uz/en/news/xalqaro-tan-olingan-vizalarga-ega-xorizliklarning-zbekiston"
+      },
+      {
+        "label": "Gulf News: Indian travellers with US, UK or Schengen visas get 30 days visa-free in Uzbekistan",
+        "url": "https://gulfnews.com/world/asia/india/got-a-us-uk-or-schengen-visa-indian-travellers-get-30-days-at-this-rising-tourist-destination-visa-free-1.500675558"
+      },
+      {
+        "label": "Khaleej Times (ANI): Uzbekistan announces 30-day visa-free entry for Indians (30 Aug 2026)",
+        "url": "https://www.khaleejtimes.com/world/asia/uzbekistan-30-day-visa-free-entry-indians"
+      },
+      {
+        "label": "Embassy of Uzbekistan in India: Launch of electronic entry visas (e-visa.gov.uz)",
+        "url": "https://www.uzbekembassy.in/?p=21742"
+      },
+      {
+        "label": "Ministry of Internal Affairs of Uzbekistan (gov.uz): Notice for foreign citizens arriving in Uzbekistan",
+        "url": "https://gov.uz/en/iiv/news/view/10609"
+      },
+      {
+        "label": "Kyrgyz Republic e-Visa portal: Get information",
+        "url": "https://www.evisa.e-gov.kg/get_information.php?lng=en"
+      },
+      {
+        "label": "Embassy of India, Bishkek: Visa-free facility for Indian citizens",
+        "url": "https://indembbishkek.gov.in/page.php?pageid=116"
+      },
+      {
+        "label": "24.kg: Kyrgyzstan introduces visa-free regime for citizens of India and China (Oct 2023)",
+        "url": "https://24.kg/english/277637__Kyrgyzstan_introduces_visa-free_regime_for_citizens_of_India_and_China"
+      },
+      {
+        "label": "24.kg: Direct flight connects Bishkek and Delhi",
+        "url": "https://24.kg/english/353855_Direct_flight_connects_Bishkek_and_Delhi/amp"
+      },
+      {
+        "label": "Wego: Uzbekistan visa for Indians (flights from India)",
+        "url": "https://blog.wego.com/uzbekistan-visa-for-indians/"
+      }
+    ]
+  },
+  {
+    "slug": "south-korea-visa-for-indians-2026",
+    "title": "South Korea Visa for Indians 2026: Fees, Documents, Jeju Rule",
+    "metaTitle": "South Korea Visa for Indians 2026: Fees & Process | Travlys",
+    "metaDescription": "Indians need a C-3-9 tourist visa for South Korea; K-ETA does not apply. Fee is ₹3,600 single entry, about 10 working days. Jeju is visa-free on direct entry.",
+    "excerpt": "Indians need a C-3-9 tourist visa for South Korea, and K-ETA is not open to Indian passports. Since 1 October 2026, Mumbai-jurisdiction applicants, including Gujarat, must apply through a designated travel agency.",
+    "date": "2026-10-27",
+    "updated": "2026-10-27",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "South Korea",
+      "C-3-9 visa",
+      "Seoul",
+      "Jeju",
+      "K-ETA",
+      "Korea e-Arrival card",
+      "cherry blossom",
+      "winter travel"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1768007130605-e07bbcb26d02?w=1600&h=900&fit=crop",
+    "related": [
+      "japan-visa-for-indians-2026",
+      "kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for South Korea in 2026?",
+        "a": "Yes. Indian passport holders need a visa for South Korea, and for a holiday that is the C-3-9 short-term tourist visa. You fill the e-form on visa.go.kr, then submit it with documents at a VFS Global centre or, in the Mumbai consulate's area, through a designated travel agency. The only visa-free options are direct entry to Jeju Island and a narrow transit rule."
+      },
+      {
+        "q": "Can Indians use K-ETA for South Korea?",
+        "a": "No. The Korean Consulate General in Mumbai states that India is not eligible for K-ETA and all Indian nationals must get a visa through a Korean mission. News about Korea extending its K-ETA exemption to 31 December 2026 applies to 22 visa-free countries, not India. Any website selling a K-ETA or Korea e-visa to Indians is not official."
+      },
+      {
+        "q": "What is the South Korea visa fee for Indians?",
+        "a": "From August 2026, the fee is ₹3,600 for a single-entry visa of up to 90 days, ₹5,400 for single entry beyond 90 days and ₹8,100 for multiple entry. The Mumbai consulate also lists ₹6,300 for a double-entry visa and express fees from ₹6,300. VFS Global or agency service charges are added on top."
+      },
+      {
+        "q": "How long does a Korean tourist visa take from India?",
+        "a": "The Korean Consulate General in Mumbai gives a standard processing time of 10 working days and says urgent requests will not be entertained. It advises applying at least a month before travel. First-time tourist visa applicants cannot use express service. For Delhi and Chennai jurisdictions, check the timeline at your VFS centre, and allow three to four weeks to be safe."
+      },
+      {
+        "q": "Is Jeju Island visa-free for Indians?",
+        "a": "Yes, with conditions. Indians can stay on Jeju up to 30 days without a visa if they arrive directly on Jeju by international flight or ferry and stay on the island the whole time. Entering through Seoul or Busan needs a Korean visa. Entry is not guaranteed: carry printed return tickets, hotel bookings, a day-wise itinerary and proof of funds."
+      },
+      {
+        "q": "How do I apply for a Korean visa from Gujarat or Mumbai?",
+        "a": "Gujarat, Maharashtra, Goa, Madhya Pradesh, Telangana, Daman and Diu, and Dadra and Nagar Haveli fall under the Korean Consulate General in Mumbai. From 1 October 2026, it accepts visa applications only through designated travel agencies. Walk-in applications at the consulate have stopped. The consulate's website lists the designated agencies, last updated on 19 October 2026."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders **need a visa for South Korea**. For a holiday, that is the **C-3-9 short-term tourist visa**: you fill the e-form on **visa.go.kr** and submit it in India. **K-ETA does not apply to Indians.** The fee is **₹3,600 for single entry** from August 2026, and the Mumbai consulate quotes **10 working days**. The exception is **Jeju Island**, where Indians can stay **visa-free for up to 30 days** if they fly in directly and do not leave the island."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa needed:** Yes, C-3-9 for tourism. **K-ETA:** Not available to Indian passports. **Fee:** ₹3,600 single entry up to 90 days; ₹8,100 multiple entry; service charges extra. **Processing:** About 10 working days (Mumbai consulate). **Where to submit:** VFS Global in New Delhi, Kolkata, Chennai or Bengaluru; Mumbai jurisdiction, including Gujarat, through designated travel agencies only from 1 October 2026. **Visa format:** No sticker; print the Visa Grant Notice. **Stay:** Up to 90 days on single entry. **Jeju:** Visa-free 30 days on direct arrival only. **Arrival card:** e-Arrival card online up to 3 days before landing."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for South Korea?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. The Korean Consulate General in Mumbai states that **India is not eligible for K-ETA** and that all Indian nationals must obtain a visa through a Korean mission. K-ETA is the online authorisation for visa-free nationalities. Korea has extended a temporary K-ETA exemption for 22 countries until 31 December 2026, which is why you may see no-K-ETA headlines. They do not apply to Indian passports."
+      },
+      {
+        "type": "p",
+        "text": "The consulate has also warned about fake portals that imitate the Korea Visa Portal and sell fake Korean visas to Indians. The only official portal is **visa.go.kr**. There is no Korean e-visa you can buy online as an Indian tourist."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply from India"
+      },
+      {
+        "type": "p",
+        "text": "Where you submit depends on the state you live in, according to the Korean Embassy's jurisdiction list."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Embassy in New Delhi:** Delhi, Haryana, Punjab, Rajasthan, Uttar Pradesh, Uttarakhand, Himachal Pradesh, Bihar, Jharkhand, Odisha, Chhattisgarh, West Bengal, the north-eastern states, Chandigarh, Jammu and Kashmir, and Ladakh. Submit at the VFS Global Korea Visa Application Centre in New Delhi (Connaught Place) or Kolkata. A new New Delhi centre was inaugurated on 15 September 2026.",
+          "**Consulate General in Mumbai:** Maharashtra, Gujarat, Goa, Madhya Pradesh, Telangana, Daman and Diu, and Dadra and Nagar Haveli. **From 1 October 2026, applications go through a designated travel agency only.** Walk-in applications at the consulate are no longer accepted. The agency list on the consulate's website was updated on 19 October 2026.",
+          "**Consulate General in Chennai:** Andhra Pradesh, Karnataka, Kerala, Tamil Nadu, Puducherry and Lakshadweep. Submit at VFS Global in Chennai or Bengaluru."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "VFS Global runs the Korea Visa Application Centres (KVAC) in India. It only collects documents. The visa decision stays with the embassy or consulate."
+      },
+      {
+        "type": "h2",
+        "text": "Fees"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Single entry, up to 90 days:** ₹3,600 (express ₹6,300 in Mumbai).",
+          "**Single entry, over 90 days:** ₹5,400.",
+          "**Double entry (30-day stays, valid 6 months):** ₹6,300 in Mumbai's list.",
+          "**Multiple entry:** ₹8,100."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Embassy in New Delhi applied these rates from 1 August 2026 and the Mumbai consulate from 3 August 2026, citing exchange rates. VFS service charges or the designated agency's fee are extra."
+      },
+      {
+        "type": "h2",
+        "text": "Processing time"
+      },
+      {
+        "type": "p",
+        "text": "In a notice dated 26 October 2026, the Mumbai consulate gave a standard processing time of **10 working days** and said requests for urgent processing will not be entertained. It asks applicants to apply at least a month before travel. Its tourist visa checklist says **first-time tourist visa applicants are not eligible for express service**. The Embassy and the Chennai consulate do not publish a separate figure on the pages we checked, so allow three to four weeks."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for the C-3-9 tourist visa"
+      },
+      {
+        "type": "p",
+        "text": "This list is from the Mumbai consulate's checklist effective 24 August 2026. The Embassy in New Delhi asks for the same core financial documents: two years of ITR and six months of bank statements."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Original passport valid at least six months, with two blank pages, plus a copy of the first and last pages.",
+          "One photo, 3.5 x 4.5 cm, white background.",
+          "Printed e-form from visa.go.kr, signed on the last page, with your Aadhaar number in the National Identity No. field.",
+          "Copies of Aadhaar and PAN.",
+          "Covering letter with your name, date of birth, passport number, mobile, purpose and length of stay.",
+          "Day-by-day itinerary, refundable hotel booking and confirmed refundable flight ticket.",
+          "Two years of income tax returns, or a written explanation if you have not filed.",
+          "Six months of bank statements with the bank's original seal and signature.",
+          "Employment certificate on company letterhead with original seal and signature. Digitally signed certificates are not accepted. Self-employed applicants give business registration or GST proof.",
+          "Minors or dependants: sponsor's ID, proof of relationship, financial support letter, ITR and bank statements, plus an NOC where a parent is not travelling."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bank statements printed from net banking without a bank seal.",
+          "An unsigned e-form, or no Aadhaar number in the ID field.",
+          "Applying for a tourist visa when the trip is really for business. The checklist warns that employment may be verified.",
+          "Expecting express service on a first application."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Single, double or multiple entry"
+      },
+      {
+        "type": "p",
+        "text": "Korea no longer puts visa stickers in passports. You print a **Visa Grant Notice** from visa.go.kr. A single-entry visa must be used within **90 days of issue**, and you can then stay up to **90 days from entry**."
+      },
+      {
+        "type": "p",
+        "text": "For frequent visitors, Korea's guideline posted by the Mumbai consulate offers a **five-year multiple-entry C-3-1 visa** with stays of up to 30 days and no visa fee. You qualify if you have visited Korea more than 4 times in the last 2 years, or more than 10 times in total with at least one visit in the last 2 years. A March 2024 notice on the Korean Embassy in Sri Lanka's site also lists India among 11 countries eligible for one-to-five-year multiple-entry visas, for example after one previous visit on a valid visa, or for applicants aged 65 or over. Ask your mission whether it applies to you. We found no current official page offering Indians multiple entry because they hold OECD-country visas. Even if you apply for multiple entry, you may be given single entry."
+      },
+      {
+        "type": "h2",
+        "text": "Jeju Island: visa-free, with conditions"
+      },
+      {
+        "type": "p",
+        "text": "The Mumbai consulate's notice is clear. Indians can enter **Jeju visa-free for up to 30 days** for tourism or transit if they arrive **directly on Jeju** by flight or ferry and **stay on Jeju for the whole trip**. India to a third country to Jeju to India is allowed. India to Seoul to Jeju is not, and needs a Korean visa. India is not on Korea's list of 23 nationalities excluded from Jeju visa-free entry. There are no nonstop flights from India to Jeju, so you would connect through a city outside Korea with direct Jeju flights."
+      },
+      {
+        "type": "callout",
+        "label": "Read this before booking Jeju",
+        "text": "After reports of Indian travellers being refused entry, the Embassy of India in Seoul issued an advisory on 24 February 2026. It says the waiver does not guarantee entry. Carry printed copies of your return ticket, hotel bookings for the full stay, a day-wise itinerary, proof of funds and a passport valid six months. Officers may interview you. Refused passengers go back on the next flight of the same airline."
+      },
+      {
+        "type": "h3",
+        "text": "Transit rule for US, Canada, Australia and Europe visa holders"
+      },
+      {
+        "type": "p",
+        "text": "Korea also gives **30 days visa-free** to nationals who need a visa if they hold a valid visa for the US, Canada, Australia, New Zealand or one of 32 European countries, and are transiting Korea on the way to or from that country. India is not on the exclusion list. You need a confirmed onward ticket within 30 days, the visa sticker in your passport (Australia is checked online), and no more than 3 days in your stopover country. It does not cover a return trip from India."
+      },
+      {
+        "type": "h2",
+        "text": "e-Arrival card"
+      },
+      {
+        "type": "p",
+        "text": "Korea's **e-Arrival card** is filled at e-arrivalcard.go.kr up to 3 days before landing, and it is free. The Mumbai consulate notes that it relates to entry, not a visa. Some sites claim paper cards ended on 1 January 2026, but VisasNews reported in March 2026 that the Ministry of Justice confirmed both formats are still accepted. Filling it online saves time at the airport."
+      },
+      {
+        "type": "h2",
+        "text": "Winter and spring highlights"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Seoul in winter:** December to February is often below freezing. Palaces, markets and year-end lights are at their best. Pack thermals.",
+          "**Skiing:** Gangwon province resorts such as Yongpyong and High1 usually open from December to around early March.",
+          "**Jeju:** Milder than Seoul, with snow on Hallasan in mid-winter.",
+          "**Cherry blossom:** Usually late March on Jeju and in the south, and early April in Seoul. Dates shift each year, so apply for your visa by February."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file Korean visas. If you live in Gujarat or Maharashtra, use an agency on the Mumbai consulate's designated list. If your trip combines Korea with the US, Canada, Australia, New Zealand, the UK or Schengen, Travlys files those visas, with service fees from ₹19,940, ₹14,950, ₹4,950, ₹6,950, ₹12,950 and ₹2,950 respectively, plus government fees. Travlys has filed 5,000+ visas with a 98% approval rate. WhatsApp +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 27 October 2026 against the Korean Embassy in New Delhi, the Korean Consulate General in Mumbai and the other sources listed below. Fees and procedures change, so check the official mission page before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Korean Consulate General, Mumbai: Notice on changes to Korean visa application procedures from October 1, 2026",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759224"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Important notice on visa enquiries and processing time (26 Oct 2026)",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759225"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Requirements for visa and C-3-9 checklist (w.e.f. 24.08.2026)",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=717617"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Notice of visa fee increase (effective August 3, 2026)",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759221"
+      },
+      {
+        "label": "Embassy of the Republic of Korea, New Delhi: Notice for revised visa fee (with effect from 1 Aug 2026)",
+        "url": "https://overseas.mofa.go.kr/in-en/brd/m_20446/view.do?seq=748829"
+      },
+      {
+        "label": "Embassy of the Republic of Korea, New Delhi: VFS Korean Visa Application Centres and jurisdiction",
+        "url": "https://overseas.mofa.go.kr/in-en/wpge/m_2660/contents.do"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Notice regarding K-ETA (India not eligible)",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759211"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Announcement on Jeju visa-free entry",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759205"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Visa free entry for transfer passengers",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759210"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Guidelines on multi-entry visas for frequent visitors",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=749773"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Label free visa policy",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759199"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Electronic declaration for arrival card",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759217"
+      },
+      {
+        "label": "Korean Consulate General, Mumbai: Warning about counterfeit Korea Visa Portal websites",
+        "url": "https://overseas.mofa.go.kr/in-mumbai-en/brd/m_1978/view.do?seq=759216"
+      },
+      {
+        "label": "Embassy of the Republic of Korea in Sri Lanka: Notice for issuance of the multiple entry Korean visa (Mar 2024)",
+        "url": "https://overseas.mofa.go.kr/lk-en/brd/m_2318/view.do?seq=761397"
+      },
+      {
+        "label": "Korea Visa Portal (Ministry of Justice)",
+        "url": "https://www.visa.go.kr"
+      },
+      {
+        "label": "K-ETA official website",
+        "url": "https://www.k-eta.go.kr"
+      },
+      {
+        "label": "Khaleej Times: Indian travellers to Jeju warned after influencer detained (26 Feb 2026)",
+        "url": "https://www.khaleejtimes.com/world/asia/indian-travellers-jeju-island-advisory-content-creator-detained-visa-free-entry"
+      },
+      {
+        "label": "Business Today: Visa waiver doesn't guarantee entry, Indian Embassy's advisory for Jeju (24 Feb 2026)",
+        "url": "https://www.businesstoday.in/amp/india/story/visa-waiver-doesnt-guarantee-entry-indian-embassys-advisory-for-indians-visiting-jeju-island-517810-2026-02-24"
+      },
+      {
+        "label": "VisasNews: South Korea paper arrival card still accepted despite e-Arrival Card rollout",
+        "url": "https://visasnews.com/en/south-korea-paper-arrival-card-still-accepted-despite-rollout-of-the-e-arrival-card/"
+      },
+      {
+        "label": "NewKerala: VFS Global expands Korea visa services; New Delhi centre inaugurated (15 Sep 2026)",
+        "url": "https://www.newkerala.com/news/a/vfs-global-expands-korea-visa-services-across-south-812.htm"
+      }
+    ]
+  },
   // --- 25 October 2026: rule tracker, study abroad, country and trip guides. ---
   {
     "slug": "visa-rule-changes-for-indians-2026-tracker",
     "title": "Visa Rule Changes for Indians in 2026: Monthly Tracker",
     "metaTitle": "Visa Rule Changes for Indians 2026: Tracker | Travlys",
-    "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: China direct filing, Australia student rules, Thailand 30 days, Sri Lanka free ETA.",
+    "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: Australia biometrics, China direct filing, Australia student rules, Thailand 30 days.",
     "excerpt": "A dated, monthly-updated list of every significant visa and entry rule change for Indian passport holders in 2026, with what changed, who it affects and what to do.",
     "date": "2026-10-25",
-    "updated": "2026-10-25",
+    "updated": "2026-10-27",
     "readMinutes": 10,
     "category": "Visa rule updates",
     "tags": [
@@ -40,7 +1886,7 @@ export const BLOG_POSTS = [
     "faqs": [
       {
         "q": "What visa rules changed for Indians in 2026?",
-        "a": "The main 2026 changes for Indian passport holders are: China direct visa filing at its Embassy and Mumbai Consulate from 26 October, Australia's student visa restrictions from 2 October, Thailand's visa-free stay cut to 30 days from 15 September, Sri Lanka's free tourist ETA from 25 May, the Schengen EES going fully live on 10 April, and higher UK and Australian visa fees."
+        "a": "The main 2026 changes for Indian passport holders are: Australia biometrics for visa applicants in India and China direct visa filing at its Embassy and Mumbai Consulate, both from 26 October, Australia's student visa restrictions from 2 October, Thailand's visa-free stay cut to 30 days from 15 September, Sri Lanka's free tourist ETA from 25 May, the Schengen EES going fully live on 10 April, and higher UK and Australian visa fees."
       },
       {
         "q": "Is Thailand still visa-free for Indians?",
@@ -66,16 +1912,24 @@ export const BLOG_POSTS = [
     "body": [
       {
         "type": "p",
-        "text": "**Latest change (26 October 2026):** Indian passport holders now apply for a Chinese visa directly at the Chinese Embassy in New Delhi or the Consulate General in Mumbai, not at the visa application service centres. Before that, the biggest 2026 changes for Indians were Australia's student visa rules (2 October), Thailand cutting visa-free stays to **30 days** (15 September), a free Sri Lanka ETA (25 May) and the Schengen Entry/Exit System going fully live (10 April). This page lists every significant change we could confirm, newest first, and is updated every month."
+        "text": "**Latest change (26 October 2026):** Australia can now ask visa applicants in India for fingerprints and a facial image, and on the same day China moved visa filing to its Embassy in New Delhi and Consulate General in Mumbai. Before that, the biggest 2026 changes for Indians were Australia's student visa rules (2 October), Thailand cutting visa-free stays to **30 days** (15 September), a free Sri Lanka ETA (25 May) and the Schengen Entry/Exit System going fully live (10 April). This page lists every significant change we could confirm, newest first, and is updated every month."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Newest change:** China direct visa filing from 26 October 2026. **Easier in 2026:** Sri Lanka (free ETA), Uzbekistan (visa-free for holders of certain foreign visas), UAE (visa on arrival scheme widened). **Harder in 2026:** Thailand (60 days cut to 30), Australia student visas, higher UK and Australian visa fees. **Unchanged but time-limited:** Malaysia visa-free entry ends 31 December 2026 unless extended. **Still suspended:** Iran visa-free entry, since 22 November 2025. **Passport ranking:** India 84th, 55 destinations (October 2026, as reported)."
+        "text": "**Newest changes:** Australia biometrics for visa applicants in India and China direct visa filing, both from 26 October 2026. **Easier in 2026:** Sri Lanka (free ETA), Uzbekistan (visa-free for holders of certain foreign visas), UAE (visa on arrival scheme widened). **Harder in 2026:** Thailand (60 days cut to 30), Australia student visas, higher UK and Australian visa fees. **Unchanged but time-limited:** Malaysia visa-free entry ends 31 December 2026 unless extended. **Still suspended:** Iran visa-free entry, since 22 November 2025. **Passport ranking:** India 84th, 55 destinations (October 2026, as reported)."
       },
       {
         "type": "h2",
         "text": "2026 visa rule changes for Indians, newest first"
+      },
+      {
+        "type": "h3",
+        "text": "26 Oct 2026: Australia expands biometrics for visa applicants in India"
+      },
+      {
+        "type": "p",
+        "text": "From 26 October, applicants for an Australian visa in India may be asked to give **fingerprints and a facial image**. It applies only to new applications lodged from that date; visas already granted and applications already lodged are not affected. Wait for Home Affairs to email you or your agent a biometrics request before booking, then visit an Australian Biometrics Collection Centre run by VFS Global. If you have given biometrics at a centre before and hold a valid passport, you may be able to use the free Australian Immi App instead."
       },
       {
         "type": "h3",
@@ -107,7 +1961,15 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "A California court blocked agencies from enforcing the $100,000 H-1B payment on 30 September, after a Massachusetts court vacated its guidance in June. Other US rules from 2025 remain: almost every applicant needs an in-person interview, you must apply in your country of nationality or residence, and F, M, J, H-1B and H-4 applicants must keep social media public. The B1/B2 fee is still **$185**. The **$250 visa integrity fee** is law, but we found no official notice that collection has started. On 3 August 2026 the US made its visa bond programme permanent; India is not on the list."
+        "text": "A California court blocked agencies from enforcing the $100,000 H-1B payment on 30 September, after a Massachusetts court vacated its guidance in June. Other US rules from 2025 remain: almost every applicant needs an in-person interview, you must apply in your country of nationality or residence, and F, M, J, H-1B and H-4 applicants must keep social media public. The B1/B2 fee is still **$185**. The **$250 visa integrity fee** is law, but we found no official notice that collection has started. On 3 August 2026 the US made its visa bond programme permanent, with bonds of $10,000 to $20,000 for B1/B2 applicants from listed countries. India is not among the 50 countries on the revised list reported on 3 October, though Nepal, Bangladesh and Bhutan are."
+      },
+      {
+        "type": "h3",
+        "text": "28 Sep 2026: US audit finds a 346-day average wait for visa interviews in India"
+      },
+      {
+        "type": "p",
+        "text": "A US Government Accountability Office (GAO) report found that the weighted average wait to get a US visa interview in India was **346 days** in fiscal year 2025, the longest of the four countries it studied. India had about 1.46 million nonimmigrant visa applications and only 68 consular officers working on them. This is last year's average, not today's wait, so check the current wait for each Indian city on the State Department's website and apply well before your travel date. Some news reports called it a State Department audit; it is a GAO report to Congress."
       },
       {
         "type": "h3",
@@ -242,6 +2104,30 @@ export const BLOG_POSTS = [
       }
     ],
     "sources": [
+      {
+        "label": "Australian High Commission in India: Australia expands biometric collection requirements for visa applicants in India (26 October 2026)",
+        "url": "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html"
+      },
+      {
+        "label": "Department of Home Affairs (Australia): Biometrics",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+      },
+      {
+        "label": "The Tribune (ANI): Australia expands biometric requirements for visa applicants in India from October 26",
+        "url": "https://www.tribuneindia.com/news/australia/australia-expands-biometric-requirements-for-visa-applicants-in-india-from-october-26"
+      },
+      {
+        "label": "US GAO: Nonimmigrant Visas, State Should Consistently Conduct Global Staffing Needs Assessments (GAO-26-107902, 28 September 2026)",
+        "url": "https://www.gao.gov/products/gao-26-107902"
+      },
+      {
+        "label": "Federal Register: Visas, Visa Bond Program (final rule, 3 August 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program"
+      },
+      {
+        "label": "The Tribune (ANI): US visa bonds apply to 50 countries, India excluded (3 October 2026)",
+        "url": "https://www.tribuneindia.com/news/usa-news/us-visa-bonds-apply-to-50-countries-india-excluded"
+      },
       {
         "label": "Embassy of China in India: notice on direct acceptance of visa applications (22 October 2026)",
         "url": "https://in.china-embassy.gov.cn/eng/gdxw/202610/t20261022_12044936.htm"
