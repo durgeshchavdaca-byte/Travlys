@@ -36,6 +36,8 @@ import { buildHomeSchemas, getHomeMeta, HOME_FAQS } from '../seo/config'
 import { reviews } from '../data/reviews'
 import { FEATURED_TESTIMONIALS } from '../data/testimonials'
 import { getLatestPosts } from '../data/blog'
+import { getLatestNews, formatNewsDate } from '../data/travelNews'
+import { newsAnchor } from '../seo/pages'
 
 /* ─── HERO ────────────────────────────────────────────────────────────────── */
 
@@ -839,6 +841,7 @@ function InquirySection() {
 
 function LatestGuides() {
   const posts = getLatestPosts(3)
+  const news = getLatestNews(4)
   return (
     <section id="latest" className="py-20 bg-white border-t border-line">
       <div className="container-app">
@@ -851,8 +854,8 @@ function LatestGuides() {
               What changed for Indian travelers.
             </h2>
           </div>
-          <Link to="/blog/" className="hidden md:inline-flex btn btn-ghost">
-            All guides <ArrowUpRight className="w-4 h-4" />
+          <Link to="/travel-news/" className="hidden md:inline-flex btn btn-ghost">
+            All visa news <ArrowUpRight className="w-4 h-4" />
           </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
@@ -869,6 +872,24 @@ function LatestGuides() {
             </Link>
           ))}
         </div>
+        <ul className="list-none p-0 m-0 mt-8 divide-y divide-line border-y border-line">
+          {news.map((n) => (
+            <li key={newsAnchor(n)}>
+              <Link
+                to={`/travel-news/#${newsAnchor(n)}`}
+                className="flex flex-col sm:flex-row sm:items-baseline gap-1 sm:gap-6 py-3.5 no-underline group"
+              >
+                <time dateTime={n.date} className="text-xs font-semibold text-coral-600 sm:w-28 shrink-0">
+                  {formatNewsDate(n.date, { day: 'numeric', month: 'short', year: 'numeric' })}
+                </time>
+                <span className="text-[0.95rem] font-medium text-ink-900 group-hover:text-coral-600 transition-colors">{n.headline}</span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+        <Link to="/travel-news/" className="md:hidden btn btn-ghost mt-6">
+          All visa news <ArrowUpRight className="w-4 h-4" />
+        </Link>
       </div>
     </section>
   )

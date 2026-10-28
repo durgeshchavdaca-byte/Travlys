@@ -61,7 +61,12 @@ import {
   VISA_FEES_META,
   VISA_FEES_FAQS,
   buildVisaFeesSchemas,
+  NEWS_META,
+  getNewsFaqs,
+  buildNewsSchemas,
+  newsAnchor,
 } from '../src/seo/pages.js'
+import { NEWS_UPDATED, getLatestNews, getNewsByMonth, getUpcomingNews, formatNewsDate } from '../src/data/travelNews.js'
 import { VISA_FEE_ROWS, LAST_CHECKED, getQuickAnswers, visaFeesCsv } from '../src/data/visaFees.js'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -232,6 +237,7 @@ const NAV = [
   ['Visa destinations', '/pricing'],
   ['Visa questions answered', '/visa-questions'],
   ['Visa fees by country', '/visa-fees'],
+  ['Visa and travel news', '/travel-news'],
   ['Visa guides', '/blog'],
   ['About', '/about'],
   ['Contact', '/contact'],
@@ -312,6 +318,25 @@ function visaFeesBody() {
 ${faqList(VISA_FEES_FAQS, 'About this table')}`
 }
 
+function newsArticle(n, prefix = '') {
+  return `<article id="${newsAnchor(n)}"><h3>${escapeHtml(n.headline)}</h3>
+<p><time datetime="${n.date}">${prefix}${formatNewsDate(n.date)}</time>. ${inline(n.summary)}</p>
+<p><a href="${href(n.href)}">Read the guide</a> · Source: <a href="${escapeAttr(n.source.url)}">${escapeHtml(n.source.label)}</a></p></article>`
+}
+
+function newsBody() {
+  const upcoming = getUpcomingNews()
+  return `${crumbs([['Home', '/'], ['Travel news']])}
+<h1>Visa and travel news for Indians</h1>
+<p>${escapeHtml(NEWS_META.description)} Updated ${formatNewsDate(NEWS_UPDATED)}.</p>
+${upcoming.length ? `<section id="coming-up"><h2>Coming up</h2>\n${upcoming.map((n) => newsArticle(n, 'Due ')).join('\n')}</section>` : ''}
+${getNewsByMonth()
+    .map((m) => `<section id="${m.id}"><h2>${escapeHtml(m.label)}</h2>\n${m.items.map((n) => newsArticle(n)).join('\n')}</section>`)
+    .join('\n')}
+<p><a href="${href('/blog/visa-rule-changes-for-indians-2026-tracker')}">Full 2026 visa rule tracker</a></p>
+${faqList(getNewsFaqs(), 'About this page')}`
+}
+
 function homeBody() {
   return `<h1>You pack the bags. We handle the visa.</h1>
 <p>${SITE_NAME} is an India-based visa assistance service headquartered in Ahmedabad. We prepare and file tourist, business, student and work visas for Indian passport holders to the United States, United Kingdom, Canada, Australia, New Zealand, the Schengen area (via the Netherlands), Singapore, the UAE (Dubai), Thailand and Malaysia. 5,000+ visas filed with a 98% approval rate, flat service fees from ₹999, and one named specialist on every file.</p>
@@ -327,6 +352,9 @@ ${destinationsTable()}
 </ol>
 </section>
 <section><h2>Latest visa news for Indian travelers</h2>
+<ul>${getLatestNews(5).map((n) => `<li><time datetime="${n.date}">${formatNewsDate(n.date)}</time>: <a href="${href(`/travel-news#${newsAnchor(n)}`)}">${escapeHtml(n.headline)}</a></li>`).join('')}</ul>
+<p><a href="${href('/travel-news')}">All visa and travel news</a></p>
+<h3>Latest guides</h3>
 <ul>${getLatestPosts(5).map((p) => `<li><a href="${href(`/blog/${p.slug}`)}">${escapeHtml(p.title)}</a>: ${inline(p.excerpt)}</li>`).join('')}</ul>
 </section>
 ${faqList(HOME_FAQS)}
@@ -532,6 +560,7 @@ function buildSitemap() {
     ),
     sitemapEntry('/visa-questions', { changefreq: 'weekly', priority: '0.85' }),
     sitemapEntry('/visa-fees', { changefreq: 'weekly', priority: '0.85' }),
+    sitemapEntry('/travel-news', { lastmod: NEWS_UPDATED, changefreq: 'daily', priority: '0.85' }),
     ...['/pricing', '/about', '/contact', '/blog'].map((p) => sitemapEntry(p, { changefreq: 'weekly', priority: '0.8' })),
     ...BLOG_CATEGORIES.map((c) => sitemapEntry(`/blog/category/${categorySlug(c)}`, { changefreq: 'weekly', priority: '0.7' })),
     ...BLOG_POSTS.map((post) =>
@@ -594,6 +623,7 @@ ${linkList([
     ['Travlys home, visa assistance for Indian travelers', '/'],
     ['Visa questions answered', '/visa-questions'],
     ['Visa fees by country (table + CSV)', '/visa-fees'],
+    ['Visa and travel news', '/travel-news'],
     ['Pricing', '/pricing'],
     ['About Travlys', '/about'],
     ['Contact', '/contact'],
@@ -708,6 +738,15 @@ function buildLlmsTxt() {
     '',
     `- [Visa fees for Indians 2026, every country in one table](${pageUrl('/visa-fees')}): government fee, approximate rupee cost, processing time, stay and entry route, with the official source for each row. CSV: ${SITE_URL}/data/visa-fees-for-indians-2026.csv (CC BY 4.0, credit Travlys)`,
     `- [Visa rule changes for Indians, 2026 tracker](${pageUrl('/blog/visa-rule-changes-for-indians-2026-tracker')}): dated list of every visa and entry rule change, updated monthly`,
+    `- [Visa and travel news for Indians](${pageUrl('/travel-news')}): dated feed of visa and entry changes, newest first, each with its official source (updated ${NEWS_UPDATED})`,
+    '',
+    `## Latest visa news for Indian passport holders (updated ${NEWS_UPDATED})`,
+    '',
+    ...getLatestNews(10).map((n) => `- ${n.date}: **${n.headline}.** ${n.summary} Source: ${n.source.url} · Guide: ${pageUrl(n.href)}`),
+    '',
+    '## Announced visa changes coming up',
+    '',
+    ...getUpcomingNews().map((n) => `- Due ${n.date}: **${n.headline}.** ${n.summary} Source: ${n.source.url} · Guide: ${pageUrl(n.href)}`),
     '',
     '## Answers and guides',
     '',
@@ -806,6 +845,7 @@ async function main() {
   await page(getHomeMeta(), buildHomeSchemas(destinations, reviews, FEATURED_TESTIMONIALS), homeBody())
   await page(QUESTIONS_META, buildQuestionsSchemas(), questionsBody())
   await page(VISA_FEES_META, buildVisaFeesSchemas(), visaFeesBody())
+  await page(NEWS_META, buildNewsSchemas(), newsBody())
   for (const d of destinations) await page(getVisaMeta(d), buildVisaSchemas(d), visaBody(d))
   await page(PRICING_META, buildPricingSchemas(), pricingBody())
   await page(ABOUT_META, buildAboutSchemas(), aboutBody())

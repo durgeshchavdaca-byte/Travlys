@@ -96,6 +96,7 @@ export default function Footer() {
             </h3>
             <ul className="space-y-3 text-[0.95rem] list-none p-0 m-0">
               {[
+                ['Visa and travel news', '/travel-news/'],
                 ['Visa questions answered', '/visa-questions/'],
                 ['Visa fees by country', '/visa-fees/'],
                 ['Pricing', '/pricing/'],

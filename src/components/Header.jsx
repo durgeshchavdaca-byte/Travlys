@@ -90,7 +90,7 @@ export default function Header() {
         </Link>
 
         {/* Desktop Nav */}
-        <nav className="hidden md:flex items-center gap-1">
+        <nav className="hidden lg:flex items-center gap-1">
           <NavLink onClick={() => goSection('destinations')} colorClass={navTextColor}>Destinations</NavLink>
           <div
             className="relative"
@@ -98,7 +98,7 @@ export default function Header() {
             onMouseLeave={() => setDropdownOpen(false)}
           >
             <button
-              className={`flex items-center gap-1 px-4 py-2 text-[0.95rem] font-medium ${navTextColor} transition-colors bg-transparent border-none cursor-pointer`}
+              className={`flex items-center gap-1 px-3 lg:px-4 py-2 text-[0.95rem] font-medium whitespace-nowrap ${navTextColor} transition-colors bg-transparent border-none cursor-pointer`}
               onClick={() => setDropdownOpen((v) => !v)}
               aria-expanded={dropdownOpen}
             >
@@ -129,14 +129,15 @@ export default function Header() {
           </div>
           <NavLink onClick={() => goSection('how-it-works')} colorClass={navTextColor}>How it works</NavLink>
           <NavLink to="/pricing/" colorClass={navTextColor}>Pricing</NavLink>
+          <NavLink to="/travel-news/" colorClass={navTextColor}>News</NavLink>
           <NavLink to="/blog/" colorClass={navTextColor}>Blog</NavLink>
           <NavLink to="/about/" colorClass={navTextColor}>About</NavLink>
         </nav>
 
-        <div className="hidden md:flex items-center gap-3">
+        <div className="hidden lg:flex items-center gap-3">
           <a
             href="tel:+918200918967"
-            className={`flex items-center gap-2 text-sm font-medium no-underline transition-colors ${
+            className={`hidden xl:flex items-center gap-2 text-sm font-medium whitespace-nowrap no-underline transition-colors ${
               useLightChrome
                 ? 'text-white/90 hover:text-coral-400'
                 : 'text-ink-900 hover:text-coral-500'
@@ -153,7 +154,7 @@ export default function Header() {
         </div>
 
         <button
-          className={`md:hidden bg-transparent border-none cursor-pointer ${
+          className={`lg:hidden bg-transparent border-none cursor-pointer ${
             useLightChrome ? 'text-white' : 'text-ink-900'
           }`}
           onClick={() => setMobileOpen((v) => !v)}
@@ -166,7 +167,7 @@ export default function Header() {
 
       {/* Mobile Menu */}
       {mobileOpen && (
-        <div className="md:hidden bg-white border-t border-line max-h-[calc(100vh-72px)] overflow-y-auto">
+        <div className="lg:hidden bg-white border-t border-line max-h-[calc(100vh-72px)] overflow-y-auto">
           <div className="container-app py-6 space-y-1">
             <button onClick={() => goSection('destinations')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
               Destinations
@@ -176,6 +177,9 @@ export default function Header() {
             </button>
             <Link to="/pricing/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
               Pricing
+            </Link>
+            <Link to="/travel-news/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
+              Travel news
             </Link>
             <Link to="/blog/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
               Blog
@@ -221,7 +225,7 @@ export default function Header() {
 // Page links render as real <a href> so crawlers can follow them; in-page
 // section jumps stay buttons.
 function NavLink({ children, onClick, to, colorClass = 'text-slate-text hover:text-ink-900' }) {
-  const className = `px-4 py-2 text-[0.95rem] font-medium ${colorClass} transition-colors bg-transparent border-none cursor-pointer`
+  const className = `px-3 lg:px-4 py-2 text-[0.95rem] font-medium whitespace-nowrap ${colorClass} transition-colors bg-transparent border-none cursor-pointer`
   if (to) {
     return (
       <Link to={to} className={`${className} no-underline`}>

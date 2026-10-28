@@ -13,6 +13,7 @@ import BlogIndexPage from './pages/BlogIndexPage'
 import BlogPostPage from './pages/BlogPostPage'
 import VisaQuestionsPage from './pages/VisaQuestionsPage'
 import VisaFeesPage from './pages/VisaFeesPage'
+import TravelNewsPage from './pages/TravelNewsPage'
 import ScrollToTop from './components/ScrollToTop'
 import StickyContact from './components/StickyContact'
 import { ScrollProgress } from './components/MotionGraphics'
@@ -40,6 +41,7 @@ function App() {
             <Route path="/blog/:slug" element={<BlogPostPage />} />
             <Route path="/visa-questions" element={<VisaQuestionsPage />} />
             <Route path="/visa-fees" element={<VisaFeesPage />} />
+            <Route path="/travel-news" element={<TravelNewsPage />} />
           </Routes>
         </AnimatePresence>
       </main>

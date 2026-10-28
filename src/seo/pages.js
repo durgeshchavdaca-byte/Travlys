@@ -6,6 +6,7 @@
 import { destinations } from '../data/destinations.js'
 import { BLOG_POSTS, categorySlug } from '../data/blog.js'
 import { VISA_FEE_ROWS, LAST_CHECKED } from '../data/visaFees.js'
+import { TRAVEL_NEWS, NEWS_UPDATED, getLatestNews, getUpcomingNews, formatNewsDate } from '../data/travelNews.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -396,4 +397,75 @@ export function buildVisaFeesSchemas() {
     },
     faqSchema(VISA_FEES_FAQS),
   ]
+}
+
+// --- Travel news (dated updates) ----------------------------------------------
+// A dated feed of visa and entry changes. Each item names its date and source,
+// which is what search engines and AI assistants look for in "latest" queries.
+
+const NEWS_MONTH = formatNewsDate(NEWS_UPDATED, { month: 'long', year: 'numeric' })
+
+export const NEWS_META = {
+  title: `Visa and travel news for Indians: latest updates (${NEWS_MONTH})`,
+  description:
+    'The latest visa and entry rule changes for Indian passport holders, newest first: what changed, when, and the official source. Checked by the Travlys visa team.',
+  path: '/travel-news',
+  keywords:
+    'visa news india, travel news india, latest visa rules for indians, visa update today, new visa rules 2026 india, visa-free countries news',
+  type: 'website',
+  image: DEFAULT_OG_IMAGE,
+  imageAlt: 'Visa and travel news for Indian travellers',
+}
+
+export function getNewsFaqs() {
+  const top = getLatestNews(3)
+  const list = top.map((n) => `${n.headline} (${formatNewsDate(n.date)})`).join('; ')
+  return [
+    {
+      q: 'What are the latest visa changes for Indian travellers?',
+      a: `As of ${formatNewsDate(NEWS_UPDATED)}, the most recent changes are: ${list}. Each item on this page links to the official source and to a full Travlys guide.`,
+    },
+    {
+      q: 'Where can I check if a visa rule has changed before I travel?',
+      a: 'Always confirm on the official source for that country: its immigration department, embassy or consulate in India. Every item on this page names and links that source. If you are filing with Travlys, your specialist rechecks the rules for your destination before your application goes in.',
+    },
+  ]
+}
+
+export function buildNewsSchemas() {
+  const url = pageUrl(NEWS_META.path)
+  const items = [...getUpcomingNews(), ...getLatestNews(TRAVEL_NEWS.length)]
+  return [
+    { ...buildWebPageSchema(NEWS_META), dateModified: NEWS_UPDATED },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      '@id': `${url}#collection`,
+      url,
+      name: NEWS_META.title,
+      description: NEWS_META.description,
+      dateModified: NEWS_UPDATED,
+      publisher: ORG,
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListOrder: 'https://schema.org/ItemListOrderDescending',
+        numberOfItems: items.length,
+        itemListElement: items.map((n, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: `${url}#${newsAnchor(n)}`,
+          name: n.headline,
+          description: n.summary,
+        })),
+      },
+    },
+    crumbs({ name: 'Travel news', url }),
+    faqSchema(getNewsFaqs()),
+  ]
+}
+
+// Stable in-page anchor for one news item, e.g. "2026-10-26-australia-starts".
+export function newsAnchor(n) {
+  const words = n.headline.toLowerCase().replace(/[^a-z0-9 ]+/g, '').split(/\s+/).slice(0, 3).join('-')
+  return `${n.date}-${words}`
 }

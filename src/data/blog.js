@@ -7,6 +7,1742 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  // --- 28 October 2026: winter flights, transit visas, UK students, Dubai, Singapore, NZ. ---
+  {
+    "slug": "new-international-flights-from-india-winter-2026",
+    "title": "New International Flights from India for Winter 2026",
+    "metaTitle": "New International Flights from India, Winter 2026 | Travlys",
+    "metaDescription": "Air India Express added 40+ routes from 25 Oct 2026, including Kochi–Bangkok, Goa–Abu Dhabi and Bengaluru–Kathmandu. See each new route and the visa you need.",
+    "excerpt": "The Winter 2026 schedule started on 25 October with more than 40 new Air India Express routes to Thailand, the Gulf, Singapore and Nepal. Here is every confirmed route and the visa route for each destination.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 8,
+    "category": "Travel planning",
+    "tags": [
+      "Winter schedule 2026",
+      "Air India Express",
+      "New flight routes",
+      "Thailand",
+      "UAE",
+      "Singapore",
+      "Visa planning"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1600&h=900&fit=crop",
+    "related": [
+      "thailand-visa-free-for-indians-2026",
+      "uae-visa-on-arrival-for-indians-2026",
+      "japan-visa-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "singapore-visa",
+      "label": "Flying Chennai–Singapore? Get your Singapore visa filed by Travlys"
+    },
+    "faqs": [
+      {
+        "q": "What new international flights started from India in October 2026?",
+        "a": "Air India Express is adding more than 40 routes in its Winter 2026 schedule, which began on 25 October 2026 and is rolling out in phases. New international links include Kochi, Indore and Visakhapatnam to Bangkok, Hyderabad–Phuket, Goa (Mopa)–Abu Dhabi, Amritsar–Abu Dhabi, Mumbai–Kuwait, Delhi–Riyadh, Chennai–Singapore and Bengaluru–Kathmandu. Check the airline's site for the first operating date of your route."
+      },
+      {
+        "q": "Do Indians need a visa for Bangkok or Phuket on these new flights?",
+        "a": "No visa is needed for a tourist trip of up to 30 days. Since 15 September 2026, Indian ordinary passport holders get a 30-day visa exemption for tourism. You still need to fill the Thailand Digital Arrival Card within 72 hours before arrival, carry a passport valid for six months, a return ticket and hotel bookings. Longer stays or other purposes need a proper visa."
+      },
+      {
+        "q": "Is there a new direct international flight from Ahmedabad this winter?",
+        "a": "We could not find one. The Air India Express route lists we checked show only a domestic Ahmedabad–Delhi addition for Ahmedabad. Elsewhere in Gujarat, Surat–Sharjah is returning, with the first flight reported for 4 November 2026. From Ahmedabad, you can connect to the new routes via Mumbai, Delhi, Bengaluru or Chennai, but compare one-ticket connections against separate tickets before booking."
+      },
+      {
+        "q": "When does Air India's Delhi–Osaka flight start?",
+        "a": "Air India's non-stop Delhi–Osaka service starts on 2 February 2027. It will run four times a week on a Boeing 787-8 to Osaka's Kansai International Airport, with the Delhi departure in the late evening and arrival the next morning. Indian residents can apply for a Japan tourist eVISA through the accredited agency, starting about three months before travel."
+      },
+      {
+        "q": "Do I need a passport to fly Bengaluru–Kathmandu?",
+        "a": "You need either a valid Indian passport or an original Indian voter ID card with photo issued by the Election Commission of India. The Embassy of India in Kathmandu says downloaded or printed voter IDs are not accepted, and Aadhaar, PAN card and driving licence are not valid travel documents for Nepal. Indians do not need a visa for Nepal."
+      },
+      {
+        "q": "Do Indians need a visa for Abu Dhabi on the new Goa and Amritsar flights?",
+        "a": "Yes, unless you qualify for visa on arrival. The UAE allows Indian passport holders with a US visit visa or green card, or a UK or EU residence visa, to get a visa on arrival for up to 14 days, provided that document is valid for at least six months. Everyone else should get a UAE visit visa before flying."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The Winter 2026 airline schedule began on 25 October 2026, and most of the new international flights from India this season come from Air India Express. The airline says it is adding more than 40 routes, growing its international network from 83 to over 100 routes, with new links such as Kochi–Bangkok, Indore–Bangkok, Goa (Mopa)–Abu Dhabi, Amritsar–Abu Dhabi, Mumbai–Kuwait, Chennai–Singapore, Hyderabad–Phuket and Bengaluru–Kathmandu. Separately, Air India will start non-stop Delhi–Osaka flights on 2 February 2027."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Schedule start:** 25 October 2026, rolled out in phases; the season runs to 27 March 2027. **Biggest mover:** Air India Express, about 585 daily flights, up to 150 of them international. **Thailand:** new Bangkok flights from Kochi, Indore and Visakhapatnam, plus Hyderabad–Phuket; 30 days visa-free for Indian tourists. **Gulf:** new Abu Dhabi, Sharjah, Ras Al Khaimah, Kuwait, Riyadh and Bahrain links; a visa is needed. **Singapore:** Chennai–Singapore twice daily; visa needed. **Nepal:** Bengaluru–Kathmandu daily; no visa, passport or original voter ID. **Japan:** Air India Delhi–Osaka from 2 February 2027. **Ahmedabad:** no new international route confirmed."
+      },
+      {
+        "type": "h2",
+        "text": "What changed on 25 October 2026"
+      },
+      {
+        "type": "p",
+        "text": "Air India Express calls this its largest winter schedule. Reports of its announcement give about 585 daily flights, roughly 435 domestic and up to 150 international, across 65 stations and 220 routes. Weekly flights rise from about 3,150 in Summer 2026 to nearly 4,100 this winter."
+      },
+      {
+        "type": "p",
+        "text": "The key word is **phased**. Not every route started on 25 October. Schedule filings reported by AeroRoutes show Kochi–Bangkok and Amritsar–Abu Dhabi from 25 October, and Mumbai–Kuwait and Visakhapatnam–Bangkok from 27 October. For other routes, check the first operating date on the airline's website before you apply for leave or book hotels."
+      },
+      {
+        "type": "p",
+        "text": "We confirmed each route below against at least two reports of the airline's announcement or its schedule filings. Frequencies are weekly, as reported, and can change."
+      },
+      {
+        "type": "h2",
+        "text": "The new routes, by destination"
+      },
+      {
+        "type": "h3",
+        "text": "Thailand: Bangkok and Phuket"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Kochi–Bangkok:** 4 flights a week, from 25 October",
+          "**Indore–Bangkok:** 4 flights a week",
+          "**Visakhapatnam–Bangkok:** 2 flights a week, from 27 October",
+          "**Hyderabad–Phuket:** 4 flights a week"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "UAE: Abu Dhabi, Sharjah, Ras Al Khaimah and Dubai"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Goa (Mopa)–Abu Dhabi:** 3 flights a week",
+          "**Amritsar–Abu Dhabi:** 3 flights a week, from 25 October",
+          "**Goa (Dabolim)–Dubai:** daily",
+          "**Chandigarh–Sharjah:** 4 flights a week; AeroRoutes reports a break from 1 December 2026 to 31 January 2027",
+          "**Bhopal–Sharjah:** 3 flights a week",
+          "**Surat–Sharjah:** returning in November (see the Gujarat section)",
+          "**Lucknow–Ras Al Khaimah:** 4 flights a week",
+          "**Mangaluru–Ras Al Khaimah:** 2 flights a week"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Kuwait, Saudi Arabia and Bahrain"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Mumbai–Kuwait:** 3 flights a week, from 27 October",
+          "**Kochi–Kuwait** and **Mangaluru–Kuwait:** 3 flights a week each",
+          "**Delhi–Riyadh:** 4 flights a week",
+          "**Lucknow–Riyadh** and **Thiruvananthapuram–Riyadh:** 3 flights a week each",
+          "**Thiruvananthapuram–Bahrain:** 2 flights a week"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Singapore and Nepal"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Chennai–Singapore:** 14 flights a week, the busiest new route on the list",
+          "**Bengaluru–Kathmandu:** daily"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Japan: Air India's Delhi–Osaka"
+      },
+      {
+        "type": "p",
+        "text": "Air India announced in October 2026 that it will fly Delhi to Osaka (Kansai) non-stop from **2 February 2027**, four times a week on a Boeing 787-8 with 18 business and 241 economy seats. AI360 leaves Delhi late in the evening and lands the next morning; AI359 leaves Osaka late morning and reaches Delhi the same evening. Bookings are being opened progressively."
+      },
+      {
+        "type": "h2",
+        "text": "Which visa you need for each new destination"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Thailand (Bangkok, Phuket):** visa-free for tourism for up to 30 days since 15 September 2026, for ordinary passports. Fill the Thailand Digital Arrival Card within 72 hours before arrival. Carry a passport valid for six months, a confirmed return ticket and hotel bookings. India's embassy advisory, as reported by News On AIR, also mentions carrying about 20,000 baht in cash. Our Thailand visa-free post has the full checklist.",
+          "**UAE (Abu Dhabi, Sharjah, Ras Al Khaimah, Dubai):** a visa is needed. If you hold a US visit visa or green card, or a UK or EU residence visa valid for six more months, you can get a 14-day visa on arrival. Our UAE visa on arrival post explains it. Everyone else applies in advance.",
+          "**Kuwait:** a visa is needed. Kuwait's Interior Ministry moved visit visas to an online platform in 2025, but reports differ on which Indian applicants can use it, and many point to GCC residents or holders of US, UK or Schengen visas. Confirm with the official platform or the Kuwait embassy before you buy a ticket.",
+          "**Saudi Arabia (Riyadh):** a visa is needed. Indians with a valid US, UK or Schengen visa are reported to be eligible for the tourist eVisa. Others usually apply through Saudi-authorised agencies. Check the official Saudi visa portal for current fees and stay length.",
+          "**Bahrain:** Indians can apply on Bahrain's official eVisa portal, according to several guides. We could not confirm the current fee from an official page, so check the portal.",
+          "**Singapore:** a visa is needed. Apply through an authorised visa agent or a Singapore mission. ICA advises applying within 30 days before arrival, with a passport valid for six months.",
+          "**Nepal (Kathmandu):** no visa. By air, carry a valid Indian passport or an original voter ID with photo. Aadhaar, PAN, driving licence and downloaded voter IDs are not accepted.",
+          "**Japan (Osaka):** residents of India can use the Japan eVISA for single-entry tourism of up to 90 days, filed through the accredited agency (VFS). You can apply from three months before travel. The Embassy lists a ₹500 visa fee for Indian nationals from 1 July 2026, plus the agency's service charge. Our Japan visa post covers documents."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What about Ahmedabad and Gujarat?"
+      },
+      {
+        "type": "p",
+        "text": "We could not confirm any new international route from Ahmedabad in this winter schedule. The Air India Express route lists we checked show only a domestic addition for Ahmedabad, a daily Ahmedabad–Delhi flight. IndiGo and Akasa have not announced an Ahmedabad international launch for this season that we could find."
+      },
+      {
+        "type": "p",
+        "text": "Surat gets its Sharjah link back. DeshGujarat reports the first Surat–Sharjah flight (IX 275) on 4 November 2026, starting once a week. The airline's winter list shows it at three a week, so check the days on the booking page."
+      },
+      {
+        "type": "p",
+        "text": "From Ahmedabad, the new routes are one stop away: Mumbai for Kuwait, Delhi for Riyadh and later Osaka, Bengaluru for Kathmandu, and Chennai for Singapore. Book the whole journey on one ticket where you can. If the first flight is late, the airline then has to rebook you."
+      },
+      {
+        "type": "h2",
+        "text": "IndiGo and Akasa this winter"
+      },
+      {
+        "type": "p",
+        "text": "We could not confirm any brand-new IndiGo or Akasa international route starting with the Winter 2026 schedule, so none are listed above. The bigger IndiGo story is a cut. Its leased Boeing 787 flying ends by 31 October 2026. Mumbai–Amsterdam moves to the narrow-body A321XLR from 25 October. London Heathrow is suspended until IndiGo's own wide-body aircraft arrive. If you hold an IndiGo booking to London, check your options with the airline."
+      },
+      {
+        "type": "h2",
+        "text": "Booking these fares: practical tips"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Check the day, not just the route.** Most new routes run two to four times a week. Fix the flight first, then your hotel and leave.",
+          "**Confirm the start date.** The schedule is phased and can still be revised. Don't book a non-refundable hotel for a date before the route's first flight.",
+          "**Read the fare type.** Low-cost fares often charge separately for checked bags, seats and meals. Compare the total, not the headline fare.",
+          "**Avoid tight self-transfers.** If you combine a domestic flight and a new international flight on separate tickets, leave several hours between them. A missed connection on separate tickets is your problem, not the airline's.",
+          "**Watch Gulf schedules.** Flights to West Asia have been changed and suspended at short notice this year. Check flight status a day before you fly."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Visa timing that matches your ticket"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Thailand:** no visa, but fill the arrival card only in the 72 hours before landing. Many people fill it too early.",
+          "**Singapore:** ICA advises applying within 30 days of arrival. Book flights first, then apply, and allow a buffer before you fly.",
+          "**UAE visa on arrival:** check that your US visa, green card or UK/EU residence visa has at least six months left on the day you land.",
+          "**Japan for Osaka:** for a trip in early February 2027, the eVISA window opens about three months before, so early November 2026.",
+          "**Gulf visas:** apply only once your dates are firm, and keep the ticket changeable until the visa is in hand."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who these routes suit"
+      },
+      {
+        "type": "p",
+        "text": "They suit families in Kerala, Madhya Pradesh, Andhra Pradesh and Telangana who want a short Thailand trip without changing planes in a metro. They also suit Gulf workers and their families flying from Goa, Amritsar, Lucknow, Bhopal and Mangaluru, and Bengaluru travellers planning a Nepal break. They are less useful if you need a precise day of travel, because a three-a-week route may not fly on the day you want. A one-stop option on a daily route can then be the better plan."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys is a visa consultancy in Ahmedabad that files visas for Indian passport holders, with 5,000+ visas filed and a 98% approval rate. For the destinations above, we file Singapore visas from ₹2,950, UAE visas from ₹2,500 and Thailand visas (for stays or purposes outside the visa-free rule) from ₹1,950. These are service fees; government fees are extra. We also plan holiday packages with hotels and private transfers. WhatsApp us on +91 82009 18967 with your route and dates, and we will tell you what to apply for and when."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Routes, schedules and visa rules in this article were checked on 28 October 2026 against the sources listed below. Airline schedules change often, so confirm your flight and the official visa rules before you book or apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "BW Travel: Air India Express to add 40 new domestic and international routes in Winter 2026",
+        "url": "https://www.bwtravel.com/industry-insights/air-india-express-to-add-40-new-domestic-and-international-routes-in-winter-2026-12628010"
+      },
+      {
+        "label": "Indian Aviation News: Air India Express expands winter network to 220 routes",
+        "url": "https://www.indianaviationnews.net/home/2026/10/air-india-express-expands-winter-network-to-220-routes-with-40-new-services.html"
+      },
+      {
+        "label": "AeroRoutes: Air India Express NW26 international network additions",
+        "url": "https://www.aeroroutes.com/eng/260914-ixnw26int"
+      },
+      {
+        "label": "Network Thoughts: Air India Express plans its biggest winter yet",
+        "url": "https://networkthoughts.com/2026/10/06/air-india-express-plans-its-biggest-winter-yet-aims-585-daily-flights/"
+      },
+      {
+        "label": "TravelBiz: Air India Express Winter Schedule 2026",
+        "url": "https://travelbiz.biz/air-india-express-winter-schedule-2026-flights/"
+      },
+      {
+        "label": "Mumbai Live: Air India Express to add over 40 routes; Mumbai–Kuwait among new connections",
+        "url": "https://www.mumbailive.com/amp/en/transport/air-india-express-to-add-over-40-routes-in-winter-schedule-mumbai-kuwait-service-among-new-international-connections-94669"
+      },
+      {
+        "label": "Gulf News: Air India Express expands India-UAE flights this winter",
+        "url": "https://gulfnews.com/business/aviation/air-india-express-expands-india-uae-flights-adds-more-gulf-connectivity-this-winter-1.500700052"
+      },
+      {
+        "label": "DeshGujarat: Air India Express to resume direct Surat–Sharjah flights from November",
+        "url": "https://deshgujarat.com/2026/09/02/air-india-express-set-to-resume-direct-surat-sharjah-flights-from-november/"
+      },
+      {
+        "label": "Air India: Non-stop Delhi–Osaka flights starting February 2027",
+        "url": "https://www.airindia.com/in/en/newsroom/press-release/air-india-opens-a-new-gateway-to-japan-with-non-stop-delhi-osaka-flights-starting-february-2027.html"
+      },
+      {
+        "label": "Outlook Traveller: Air India expands Japan connectivity with new Delhi–Osaka route",
+        "url": "https://www.outlooktraveller.com/News/air-india-expands-japan-connectivity-with-new-delhi-osaka-route"
+      },
+      {
+        "label": "Airways Magazine: IndiGo ends Norse Atlantic lease and wide-body operations",
+        "url": "https://www.airwaysmag.com/new-post/indigo-ends-norse-atlantic-lease-widebody-operations"
+      },
+      {
+        "label": "Aviation A2Z: IndiGo ends Boeing 787 lease",
+        "url": "https://aviationa2z.com/index.php/2026/10/20/indigo-ends-boeing-787-lease-still-eyes-a-major-long-haul-expansion/"
+      },
+      {
+        "label": "News On AIR: Thailand allows visa-free entry and stay up to 30 days for Indian tourists",
+        "url": "https://newsonair.gov.in/thailand-allows-visa-free-entry-and-stay-up-to-30-days-for-indian-tourists/"
+      },
+      {
+        "label": "UAE Government portal: Check if you need a visa to enter the UAE",
+        "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae"
+      },
+      {
+        "label": "ICA Singapore: India visa requirements",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/india"
+      },
+      {
+        "label": "Embassy of India, Kathmandu: Valid travel documents",
+        "url": "https://indembkathmandu.gov.in/valid-travel-documents"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: The JAPAN eVISA system",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
+      },
+      {
+        "label": "Embassy of Japan in India: Visa",
+        "url": "https://www.in.emb-japan.go.jp/itpr_en/Visa.html"
+      },
+      {
+        "label": "Gulf News: Kuwait announces extensive visa reforms",
+        "url": "https://gulfnews.com/world/gulf/kuwait/kuwait-announces-extensive-visa-reforms-1.500234369"
+      }
+    ]
+  },
+  {
+    "slug": "airport-transit-visa-for-indians-europe-2026",
+    "title": "Airport Transit Visa for Indians in Europe: 2026 Rules",
+    "metaTitle": "Airport Transit Visa for Indians in Europe 2026 | Travlys",
+    "metaDescription": "Germany, France and Spain dropped the airport transit visa for Indians in 2026. The UK still needs one unless you hold a US or Canada visa. Full rules here.",
+    "excerpt": "Indians no longer need an airport transit visa to change planes airside in Germany, France or Spain. The UK still asks for one unless you hold an exempt document. Here is how each hub works and when a layover forces you through immigration.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 8,
+    "category": "Visa rule updates",
+    "tags": [
+      "Airport transit visa",
+      "Schengen",
+      "Germany",
+      "France",
+      "UK transit",
+      "Layovers",
+      "Visa rule changes 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "us-visa-from-india-2026-complete-guide",
+      "canada-visitor-visa-from-india-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Layover forces you through immigration? Get a Schengen visa via the Netherlands with Travlys"
+    },
+    "faqs": [
+      {
+        "q": "Do Indians need a transit visa for Germany in 2026?",
+        "a": "No, not for an airside connection. Germany lifted the airport transit visa requirement for Indian nationals on 3 June 2026, after it was published in the Federal Law Gazette on 2 June. You must stay in the international transit area and fly on to a country outside Schengen. If you need to pass passport control, collect bags or leave the airport, you need a Schengen visa."
+      },
+      {
+        "q": "Do Indians need an airport transit visa for Paris Charles de Gaulle?",
+        "a": "No, not since 10 April 2026, for Indian ordinary passport holders who stay in the international zone and fly on to a non-Schengen country. The change followed an order published on 9 April 2026. India's Ministry of External Affairs described it as covering transit through mainland France by air. Leaving the transit zone, or changing to Orly, still needs a Schengen visa."
+      },
+      {
+        "q": "Do Indians need a transit visa for Amsterdam Schiphol?",
+        "a": "Usually not for an airside connection, because India is not on the EU-wide airport transit visa list and, according to the European Commission table as reported in October 2026, not on the Dutch national list either. Use the Dutch government's visa checker for your exact route. If you fly on within Schengen, or must collect bags, you need a Schengen visa."
+      },
+      {
+        "q": "Do I need a UK transit visa at Heathrow if I have a US visa?",
+        "a": "No, a valid US visa exempts you from the Direct Airside Transit Visa, even if you are not flying to the US. Valid Canada, Australia and New Zealand visas also work. An expired one counts only if you last entered that country less than six months ago. Without such a document, Indians need a DATV, which costs £41.50, to change planes airside in the UK."
+      },
+      {
+        "q": "Can I leave the airport on a long layover in Frankfurt without a visa?",
+        "a": "No. The German exemption covers only the international transit area. To step outside, stay at a hotel outside the airside zone, or collect and re-check luggage, an Indian passport holder needs a Schengen visa. Plan long or overnight layovers with this in mind, and check whether your airline can keep you airside until the onward flight."
+      },
+      {
+        "q": "Does a valid UK visa exempt Indians from the Schengen airport transit visa?",
+        "a": "Not under the EU-wide rule. The Schengen exemptions cover valid visas or residence permits from Schengen states, Ireland, Cyprus, Canada, Japan and the US, plus residence permits from Andorra and San Marino. The UK is no longer an EU member, so a UK visa is not on that list. With the 2026 changes, most Indians no longer need the transit visa at major hubs anyway."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "For most Indians flying through Europe in 2026, the answer is no. You no longer need an airport transit visa to change planes airside in Germany (since 3 June 2026), France (since 10 April 2026) or Spain (since 4 March 2026). India is also not on the EU-wide or Dutch lists for Amsterdam. The UK is different. Indians still need a Direct Airside Transit Visa at UK airports unless they hold an exempt document such as a valid US, Canada, Australia or New Zealand visa."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Germany:** no airport transit visa for Indians from 3 June 2026 (Federal Law Gazette, 2 June 2026). **France:** no airport transit visa from 10 April 2026. **Spain:** no airport transit visa from 4 March 2026. **Netherlands:** India not on the EU-wide or Dutch lists, as reported. **UK:** Direct Airside Transit Visa needed, £41.50, unless you hold a valid US, Canada, Australia or New Zealand visa, or another listed document. **Leaving the transit area:** you need a full Schengen or UK visa. **Common trap:** separate tickets, bag collection and airport changes all take you through immigration."
+      },
+      {
+        "type": "h2",
+        "text": "How the Schengen airport transit visa works"
+      },
+      {
+        "type": "p",
+        "text": "An airport transit visa (type A) lets you wait in the international transit area of a Schengen airport between two flights. It does not let you enter the country. Under the EU Visa Code, nationals of 12 countries need it at every Schengen airport. India is not one of them. Each Schengen state can also add nationalities for its own airports, and this national list is where India used to appear for hubs such as Frankfurt, Paris and Madrid."
+      },
+      {
+        "type": "p",
+        "text": "Even when a country lists your nationality, the Visa Code exempts several groups. The main ones for Indian travellers:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Holders of a valid Schengen visa, national long-stay visa or residence permit from a Schengen state",
+          "Holders of a valid visa from Canada, Japan or the US, or from Ireland or Cyprus, when flying to the issuing country or another non-Schengen country, or returning after using that visa",
+          "Holders of listed residence permits from Andorra, Canada, Japan, San Marino or the US (such as a green card)",
+          "Family members of EU citizens, diplomatic passport holders and flight crew"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A UK visa is not on this EU-wide list, because the UK is no longer an EU member. Some states may accept it under their own rules, but don't assume so."
+      },
+      {
+        "type": "h2",
+        "text": "Germany: removed from 3 June 2026"
+      },
+      {
+        "type": "p",
+        "text": "The German Federal Foreign Office says the airport transit visa requirement for Indian citizens was lifted by a notice in the Federal Law Gazette (Bundesgesetzblatt) on 2 June 2026, taking effect on 3 June 2026. It followed Chancellor Friedrich Merz's visit to India in January 2026. India's Ministry of External Affairs welcomed it as covering transit through Germany exclusively by air."
+      },
+      {
+        "type": "p",
+        "text": "In practice, Frankfurt and Munich connections to the US, Canada, the UK or elsewhere outside Schengen no longer need a transit visa if you stay airside. The exemption does not let you enter Germany. If your onward flight goes to another Schengen country, for example Delhi–Frankfurt–Lisbon, you clear Schengen entry in Frankfurt and need a Schengen visa."
+      },
+      {
+        "type": "h2",
+        "text": "France: removed from 10 April 2026"
+      },
+      {
+        "type": "p",
+        "text": "France had required the airport transit visa from Indians since April 2021. The French Embassy in India announced that, from 10 April 2026, Indian ordinary passport holders no longer need one in the international zone of French airports. This followed an order published in the Journal officiel on 9 April. MEA spokesperson Randhir Jaiswal welcomed the move on 23 April 2026."
+      },
+      {
+        "type": "p",
+        "text": "Two details are worth knowing. First, the wording differs between sources: MEA describes transit through mainland France, while other reports quote the Embassy as saying airports on French territory. If you are routing through an overseas French territory, check with the Embassy. Second, the February 2026 India–France joint statement spoke of a review after a six-month pilot. We could not find an official update on that review, so check the French Embassy site close to your travel date."
+      },
+      {
+        "type": "h2",
+        "text": "Spain: removed from 4 March 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Spanish Embassy in New Delhi announced on 19 February 2026 that Indian ordinary passport holders would not need the airport transit visa (TAP) in the international zones of Spanish airports from 4 March 2026. This matters most if you fly to Latin America via Madrid or Barcelona."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands: Amsterdam Schiphol"
+      },
+      {
+        "type": "p",
+        "text": "India is not on the EU-wide list. According to the European Commission's national-list table as summarised by VisaVerge in October 2026, it is not on the Dutch list either. In other words, an Indian passport holder changing planes airside at Schiphol between two non-Schengen flights should not need a transit visa. Some travel sites still say otherwise. The Dutch government's NetherlandsWorldwide and Royal Netherlands Marechaussee pages point you to an official checker, so run your exact route through it before flying."
+      },
+      {
+        "type": "p",
+        "text": "Schiphol has one point of caution. If you arrive from India and fly on to another Schengen city, or you must collect bags, you go through Dutch passport control and need a Schengen visa."
+      },
+      {
+        "type": "h2",
+        "text": "Other Schengen hubs: check each one"
+      },
+      {
+        "type": "p",
+        "text": "National lists change, and not every state has dropped India. Travel guides citing the Commission's table report that Czechia (Prague) and Romania still list India. We could not confirm this on an official page. The rule is simple: check every Schengen airport on your itinerary, including the return."
+      },
+      {
+        "type": "h2",
+        "text": "UK airside transit: the Direct Airside Transit Visa"
+      },
+      {
+        "type": "p",
+        "text": "India is on the UK's list of nationalities that need a Direct Airside Transit Visa (DATV), under the Immigration (Passenger Transit Visa) Order 2014. You need it to change planes at a UK airport without passing UK border control. GOV.UK lists the fee as £41.50. Home Office guidance says a DATV is valid for one month to two years, and first-time travellers get three months."
+      },
+      {
+        "type": "h3",
+        "text": "Who does not need a DATV"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Holders of a valid visa for Australia, Canada, New Zealand or the USA, even if you are not flying to that country",
+          "Holders of an expired visa for those four countries, if you last entered that country on it less than six months ago",
+          "Holders of a US green card (issued on or after 21 April 1998), a Canadian PR card (issued on or after 28 June 2002), or Australian or New Zealand permanent residence",
+          "Holders of a valid Schengen-area long-stay (type D) visa or an EEA or Swiss residence permit, or a valid Irish biometric visa",
+          "Indian diplomatic or official passport holders",
+          "Holders of a UK Standard Visitor visa"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Carry the original document. Home Office guidance says electronic copies, or printouts of electronic documents, are not accepted unless the airline can verify them."
+      },
+      {
+        "type": "h3",
+        "text": "What counts as airside in the UK"
+      },
+      {
+        "type": "p",
+        "text": "You must arrive and leave from the same airport with a confirmed onward booking, and you must not need to collect bags. Home Office guidance gives Heathrow Terminal 3 to Terminal 5 as an airside example. Heathrow to Gatwick, or any flight to Ireland, is not. For those, or if you will pass border control, you need a Visitor in Transit visa (leave within 48 hours) or a Standard Visitor visa."
+      },
+      {
+        "type": "h2",
+        "text": "When a connection forces you through immigration"
+      },
+      {
+        "type": "p",
+        "text": "The transit visa exemptions only help if you stay airside. These situations take you through passport control, where you need a full visa:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Separate tickets:** if your flights are on two bookings, you usually collect bags and check in again. That means entering the country.",
+          "**Bags not checked through:** some airline pairs cannot transfer bags. Ask at check-in in India and look for the final destination on the bag tag.",
+          "**Changing airports:** Paris CDG to Orly, London Heathrow to Gatwick, or Milan Malpensa to Linate all need a visa.",
+          "**Onward flight inside Schengen:** your first Schengen airport is where you enter, so you need a Schengen visa.",
+          "**Overnight layovers:** you can stay airside only if the airport allows it. Many airport hotels are landside. Home Office guidance notes that passengers cannot remain airside at some airports.",
+          "**Missed connections and cancellations:** if the airline rebooks you for the next day, you may be offered a hotel you cannot reach without a visa."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Relying on an old blog. France, Spain and Germany all changed in 2026, so pre-2026 advice is out of date.",
+          "Assuming a UK visa covers Schengen transit. It is not on the EU-wide exemption list.",
+          "Assuming a Schengen tourist visa covers UK airside transit. For the DATV exemption, only a long-stay (type D) visa or a residence permit counts.",
+          "Booking a cheap two-ticket route via Europe without a Schengen visa. If anything goes wrong, you may be refused boarding.",
+          "Forgetting the return journey. The visa rule applies on both legs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Who should get a Schengen visa anyway? Anyone on separate tickets, anyone with a long or overnight layover, and anyone who travels often enough to want the option of stepping out. If you are staying airside on one ticket at Frankfurt, Paris, Madrid or Amsterdam, you can usually skip it."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys, a visa consultancy in Ahmedabad, has filed 5,000+ visas with a 98% approval rate. If your route needs a full visa, we file Schengen visas via the Netherlands from ₹2,950 and UK visas from ₹12,950, plus USA and Canada visas that also exempt you from the UK transit visa. These are service fees; government fees are extra. WhatsApp +91 82009 18967 with your ticket and we will check what your connection needs. Our Schengen EES post explains the new border checks at entry."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Transit visa rules in this article were checked on 28 October 2026 against the sources listed below. National transit lists change, so confirm with the embassy of each transit country and your airline before you fly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "German Federal Foreign Office (Embassy in India): Travel facilitation at German airports for Indian nationals takes effect",
+        "url": "https://india.diplo.de/in-en/2773896-2773896"
+      },
+      {
+        "label": "German Embassy London: Transit requirement lifted for Indian nationals",
+        "url": "https://uk.diplo.de/uk-en/02/a-transit-requirement-lifted-for-indian-nationals-2774162"
+      },
+      {
+        "label": "Germany.info: Airport transit visa",
+        "url": "https://www.germany.info/us-en/service/visa/airport-transit-visa-924624"
+      },
+      {
+        "label": "Embassy of Spain in New Delhi: Elimination of the TAP visa for Indians from 4 March 2026",
+        "url": "https://www.exteriores.gob.es/Embajadas/nuevadelhi/es/Comunicacion/Noticias/Paginas/Articulos/19022026_NOT.aspx"
+      },
+      {
+        "label": "News On AIR: Indian nationals transiting through mainland France by air will no longer need transit visa",
+        "url": "https://newsonair.gov.in/indian-nationals-transiting-through-mainland-france-exclusively-by-air-will-no-longer-need-transit-visa-mea-spokesperson/"
+      },
+      {
+        "label": "Deccan Chronicle: France lifts airport transit visa requirements for Indian nationals",
+        "url": "https://deccanchronicle.com/nation/france-lifts-airport-transit-visa-requirements-for-indian-nationals-1952332"
+      },
+      {
+        "label": "Embassy of India, Paris: ATV requirement for Indian nationals transiting French airports (2021)",
+        "url": "https://www.eoiparis.gov.in/section/news/airport-transit-visa-atv-requirement-for-indian-nationals-transiting-through-french-airports/"
+      },
+      {
+        "label": "European Commission: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EU) No 154/2012 amending the Visa Code (airport transit exemptions)",
+        "url": "https://eur-lex.europa.eu/eli/reg/2012/154/oj"
+      },
+      {
+        "label": "NetherlandsWorldwide: Airport transit visa, applying in India",
+        "url": "https://netherlandsworldwide.nl/visa-the-netherlands/airport-transit-visa/apply-india"
+      },
+      {
+        "label": "Royal Netherlands Marechaussee: Transit at a Dutch airport",
+        "url": "https://english.marechaussee.nl/topics/visa/transit-at-a-dutch-airport"
+      },
+      {
+        "label": "VisaVerge: Amsterdam Schiphol transit visa, who needs one in 2026",
+        "url": "https://www.visaverge.com/guides/amsterdam-schiphol-transit-visa/"
+      },
+      {
+        "label": "VisaVerge: Schengen airport transit visa country list",
+        "url": "https://www.visaverge.com/guides/schengen-airport-transit-visa/"
+      },
+      {
+        "label": "GOV.UK: Direct Airside Transit visa",
+        "url": "https://www.gov.uk/transit-visa/direct-airside-transit-visa"
+      },
+      {
+        "label": "GOV.UK: Visitor in Transit visa",
+        "url": "https://www.gov.uk/transit-visa/transit-visitor-visa"
+      },
+      {
+        "label": "Home Office: Transit guidance, version 9.0 (25 March 2026)",
+        "url": "https://assets.publishing.service.gov.uk/media/69c4144a23fcbcd838a6f6be/Transit-v9.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "uk-student-visa-changes-2026-27-indian-students",
+    "title": "UK Student Visa Changes 2026-27: What Indian Students Must Know",
+    "metaTitle": "UK Student Visa Changes 2026-27 for Indians | Travlys",
+    "metaDescription": "UK student visa funds rise to £1,570 a month (London) and £1,203 (outside) from 30 Nov 2026. Graduate Route falls to 18 months from 1 Jan 2027. Full timeline.",
+    "excerpt": "Two UK rule changes land within five weeks of each other: higher maintenance funds for student visas from 30 November 2026, and an 18-month Graduate Route for applications from 1 January 2027. Here is what each means for Indian students heading to the January and September 2027 intakes.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 8,
+    "category": "Study abroad",
+    "tags": [
+      "UK student visa",
+      "Graduate Route",
+      "UK study visa funds",
+      "Study in UK 2027",
+      "Indian students"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1600&h=900&fit=crop",
+    "related": [
+      "uk-visa-for-indians-2026-fees-processing-time",
+      "study-abroad-visa-changes-2026-indian-students",
+      "australia-student-visa-new-rules-2026-indian-students"
+    ],
+    "cta": {
+      "slug": "uk-visa",
+      "label": "Get help with your UK student visa"
+    },
+    "faqs": [
+      {
+        "q": "How much money do I need for a UK student visa from 30 November 2026?",
+        "a": "For applications made on or after 30 November 2026 you need £1,570 a month for study in London and £1,203 a month outside London, for up to nine months, plus any unpaid course fees on your CAS. That is £14,130 for London and £10,827 outside London for a course of nine months or more. Applications made before 30 November 2026 are decided on the old figures of £1,529 and £1,171."
+      },
+      {
+        "q": "Is the UK Graduate Route visa now 18 months?",
+        "a": "Yes, for Graduate Route applications made on or after 1 January 2027, bachelor's and master's graduates get 18 months instead of two years. The cut-off is the date you apply, not the date of decision. If you apply before 1 January 2027 you still get two years. PhD and other doctoral graduates keep three years."
+      },
+      {
+        "q": "Can I still get a two-year Graduate visa if my course ends in 2026?",
+        "a": "Yes, if you apply before 1 January 2027 and meet all the rules. You must be in the UK, still hold or have last held Student permission, and your university must have told the Home Office that you completed the course before you apply. If your results come out in December, talk to your university early, because the completion report has to be in before you submit."
+      },
+      {
+        "q": "How long must I hold funds for a UK student visa?",
+        "a": "You must hold the money for at least 28 days in a row, and the 28-day period must end no more than 31 days before the date you apply. This rule has not changed. If the balance drops below the required amount on any day in that period, the evidence can fail, so keep a buffer above the minimum."
+      },
+      {
+        "q": "Can Indian students take their spouse or children to the UK on a student visa?",
+        "a": "Only in limited cases. Since January 2024, dependants are allowed mainly if you are on a PhD, other doctoral or research-based higher degree of nine months or longer, or if you are a government-sponsored student on a course of six months or longer. Taught master's students generally cannot bring dependants. Each dependant needs £845 a month in London or £680 outside London."
+      },
+      {
+        "q": "Does the international student levy mean I will pay £925 more?",
+        "a": "Not directly. The £925 per international student per year levy is charged to universities in England, not to students, and it is planned from 1 August 2028, subject to Parliament. Universities may factor it into fees later, but nothing changes for your 2027 visa application because of it."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Two UK rule changes affect Indian students right now. From **30 November 2026**, the money you must show for a student visa rises to **£1,570 a month in London and £1,203 a month elsewhere**, for up to nine months. From **1 January 2027**, the Graduate Route for bachelor's and master's graduates falls from two years to **18 months**, based on the date you apply."
+      },
+      {
+        "type": "p",
+        "text": "Both changes are already written into the Immigration Rules. The first comes from Statement of Changes HC 584, published on 3 September 2026. The second comes from HC 1333, published in October 2025. Neither is a proposal any more."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**New funds (London):** £1,570 a month, up to 9 months, so £14,130. **New funds (outside London):** £1,203 a month, up to 9 months, so £10,827. **Starts:** applications made on or after 30 November 2026. **28-day rule:** unchanged. **Graduate Route:** 18 months for applications made on or after 1 January 2027; 2 years if made before; PhD stays 3 years. **Student visa fee:** £558. **Health surcharge:** £776 a year. **Dependants:** research degrees and government-sponsored students only. **Levy on universities:** £925 per international student a year in England from 1 August 2028, subject to Parliament."
+      },
+      {
+        "type": "h2",
+        "text": "Change 1: higher maintenance funds from 30 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "The UK links the student maintenance requirement to the loans available to home students, and updates it each year. HC 584 replaces £1,529 with £1,570 for London and £1,171 with £1,203 for the rest of the UK. The maximum accommodation deposit you can offset also rises from £1,529 to £1,570."
+      },
+      {
+        "type": "p",
+        "text": "The rules include a clear transition. Any application made before 30 November 2026 is decided under the rules in force on 29 November 2026. So the date you submit and pay for your application decides which figure applies to you."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**London, 9-month course or longer:** £14,130 plus unpaid fees, up from £13,761 (an extra £369).",
+          "**Outside London, 9-month course or longer:** £10,827 plus unpaid fees, up from £10,539 (an extra £288).",
+          "**Shorter courses:** multiply the monthly figure by the number of months, rounding any part-month up.",
+          "**London means:** the City of London and the 32 London boroughs. Check where your campus actually is, not just the university's name."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You do not need to show maintenance funds if you have lived in the UK on a valid visa for at least 12 months before applying. Most Indian students applying from India do not fall in that group."
+      },
+      {
+        "type": "h3",
+        "text": "The 28-day rule has not changed"
+      },
+      {
+        "type": "p",
+        "text": "You must hold the full amount for **28 consecutive days**, and the end of that period must fall within **31 days** of your application date. If you rely on an official education loan or a sponsor award, different evidence rules apply. A common mistake is moving money in and out during the 28 days. Even one day below the threshold can lead to a refusal."
+      },
+      {
+        "type": "callout",
+        "label": "Note",
+        "text": "As of 28 October 2026 the gov.uk Student visa money page still shows £1,529 and £1,171. The Immigration Rules (HC 584) are the legal source and set the new figures from 30 November 2026. Plan for the higher amount if you will apply on or after that date."
+      },
+      {
+        "type": "h2",
+        "text": "Change 2: Graduate Route cut to 18 months from 1 January 2027"
+      },
+      {
+        "type": "p",
+        "text": "The Graduate Route lets you stay and work in the UK after your degree without a job offer or sponsor. Appendix Graduate now says bachelor's and master's graduates get 2 years if they apply before 1 January 2027, and **18 months** if they apply on or after that date. PhD and other doctoral graduates still get 3 years."
+      },
+      {
+        "type": "p",
+        "text": "You must apply from inside the UK, while you hold or last held Student permission, after completing your course. Your university must have reported your completion to the Home Office before you apply. The Graduate application fee is £937."
+      },
+      {
+        "type": "h3",
+        "text": "Who should act before 1 January 2027"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Students on one-year master's courses that finished in September or October 2026.",
+          "Students whose results are due in November or December 2026. Ask your university when it will report completion.",
+          "Anyone whose Student visa is still valid and who has already finished. You cannot apply after your Student permission ends."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Everyone starting a course in January or September 2027 will be on the 18-month rule when they graduate, unless the rules change again. Plan your job search around 18 months, not two years."
+      },
+      {
+        "type": "h2",
+        "text": "What has not changed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**English language:** B2 in all four skills for degree-level study, B1 for courses below degree level. The Home Office's planned new English test (HOELT) has not launched and no switch-over date has been published.",
+          "**Dependants:** allowed only for PhD, doctoral or research-based higher degrees of 9 months or more, and government-sponsored students. The amount is £845 a month in London or £680 outside, per dependant, up to 9 months. HC 584 did not change these figures.",
+          "**Fees:** the Student visa costs £558 from outside the UK and the Immigration Health Surcharge is £776 a year for students and their dependants."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The international student levy and the Immigration Skills Charge"
+      },
+      {
+        "type": "p",
+        "text": "The Department for Education confirmed on 13 July 2026 that a levy of **£925 per international student per year** will apply to universities in England from **1 August 2028**, subject to Parliament. Each provider gets an allowance for its first 220 international students. Students do not pay it directly, but it may affect future fees and scholarships."
+      },
+      {
+        "type": "p",
+        "text": "The Immigration Skills Charge is paid by employers who sponsor Skilled Workers. It does not apply to student or Graduate visas, but it matters later if you hope to switch to a Skilled Worker job, because some employers weigh that cost before sponsoring."
+      },
+      {
+        "type": "h2",
+        "text": "Fewer students are applying"
+      },
+      {
+        "type": "p",
+        "text": "Home Office data published on 8 October 2026 show **352,500 main applicant study visa applications** in the year ending September 2026, 19% lower than a year earlier. Dependant applications fell 31% to 15,700. News reports based on the Home Office monthly figures put September 2026 alone at about 71,600 applications, around 10% below September 2025. Fewer applicants does not lower the bar. Caseworkers still check funds, CAS details and credibility closely."
+      },
+      {
+        "type": "h2",
+        "text": "Timeline for January and September 2027 intakes"
+      },
+      {
+        "type": "h3",
+        "text": "January 2027 intake"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Now to 29 November 2026:** apply on the old figures (£1,529 or £1,171 a month) if your CAS and 28-day funds are ready.",
+          "**From 30 November 2026:** the new figures apply. Make sure your 28-day balance covers £1,570 or £1,203 a month.",
+          "**Processing:** decisions from outside the UK usually take about 3 weeks. Faster options may be offered when you apply.",
+          "**Travel:** for courses longer than 6 months you can arrive up to 1 month before the start date on your visa."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "September 2027 intake"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest application:** 6 months before your course starts, so roughly March 2027 for a September start.",
+          "**Funds:** budget for at least £1,570 or £1,203 a month. The requirement is reviewed each year, so check again before you start your 28-day period.",
+          "**After graduation:** 18 months on the Graduate Route for a bachelor's or master's degree."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes to avoid"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Holding only the exact minimum. Bank charges or a currency swing can push you under.",
+          "Using a statement where the 28-day period ends more than 31 days before you apply.",
+          "Submitting just after 30 November 2026 with funds calculated on the old figures.",
+          "Assuming a taught master's lets you bring a spouse. It generally does not.",
+          "Leaving the Graduate application too late and losing the two-year grant."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files UK visas for Indian passport holders from ₹12,950 in service fees, with government fees extra. We check your CAS, funds calculation and 28-day evidence before you submit, and help you pick the right submission date around 30 November 2026. We have filed 5,000+ visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules were checked on 28 October 2026 against the listed sources: HC 584, Appendix Student, Appendix Graduate, gov.uk student visa pages, the Home Office fees table and Home Office statistics. Rules can change, so check gov.uk before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GOV.UK: Statement of changes to the Immigration Rules HC 584, 3 September 2026",
+        "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible"
+      },
+      {
+        "label": "GOV.UK: Explanatory memorandum to HC 584",
+        "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/explanatory-memorandum-to-the-statement-of-changes-in-immigration-rules-hc-584-3-september-2026-accessible"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix Student",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix Graduate",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-graduate"
+      },
+      {
+        "label": "GOV.UK: Explanatory memorandum to HC 1333, 14 October 2025",
+        "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025/explanatory-memorandum-to-the-statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025-accessible"
+      },
+      {
+        "label": "GOV.UK: Student visa, money you need",
+        "url": "https://www.gov.uk/student-visa/money"
+      },
+      {
+        "label": "GOV.UK: Student visa, apply",
+        "url": "https://www.gov.uk/student-visa/apply"
+      },
+      {
+        "label": "GOV.UK: Home Office immigration and nationality fees, 8 October 2026",
+        "url": "https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-october-2026"
+      },
+      {
+        "label": "GOV.UK: Immigration health surcharge, how much you pay",
+        "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay"
+      },
+      {
+        "label": "GOV.UK: Monthly entry clearance visa applications, September 2026",
+        "url": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-september-2026/monthly-entry-clearance-visa-applications-september-2026"
+      },
+      {
+        "label": "GOV.UK: Introducing an international student levy on higher education providers",
+        "url": "https://www.gov.uk/government/publications/introducing-an-international-student-levy-on-higher-education-providers"
+      },
+      {
+        "label": "Research Professional News: Visa applications to study in UK plunge in crucial summer months",
+        "url": "https://www.researchprofessionalnews.com/rr-news-uk-universities-2026-9-visa-applications-to-study-in-uk-plunge-in-crucial-summer-months/"
+      }
+    ]
+  },
+  {
+    "slug": "dubai-shopping-festival-2026-27-visa-from-india",
+    "title": "Dubai Shopping Festival 2026-27: Dates and Visa from India",
+    "metaTitle": "Dubai Shopping Festival 2026-27 Dates & Visa | Travlys",
+    "metaDescription": "Dubai Shopping Festival 2026-27 runs 4 December 2026 to 17 January 2027. UAE visa options for Indians, fees, visa on arrival rules and New Year booking tips.",
+    "excerpt": "The 32nd Dubai Shopping Festival runs from 4 December 2026 to 17 January 2027, covering Christmas and New Year's Eve. Here is how Indians can get a UAE visa for it, what it costs, and how to plan for peak season.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 7,
+    "category": "Travel planning",
+    "tags": [
+      "Dubai Shopping Festival",
+      "Dubai visa for Indians",
+      "UAE visa on arrival",
+      "New Year in Dubai",
+      "Global Village"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
+    "related": [
+      "dubai-visa-cost-from-india-2026",
+      "uae-visa-on-arrival-for-indians-2026",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Apply for your UAE visa with Travlys"
+    },
+    "faqs": [
+      {
+        "q": "When is the Dubai Shopping Festival 2026-27?",
+        "a": "The Dubai Shopping Festival 2026-27 runs from 4 December 2026 to 17 January 2027, a 45-day 32nd edition announced by Dubai Festivals and Retail Establishment on 14 October 2026. Visit Dubai lists the same dates. The full programme of sales, concerts and raffles is still to be published, so check closer to travel."
+      },
+      {
+        "q": "Do Indians get visa on arrival in Dubai?",
+        "a": "Only some Indians do. You qualify if you hold an ordinary Indian passport and a valid US visa or green card, a UK or EU visa or residence permit, or a residence permit from Singapore, Japan, South Korea, Australia, New Zealand or Canada. Your passport and the qualifying document must be valid for at least six months. Everyone else needs a UAE visa before flying."
+      },
+      {
+        "q": "How much is a Dubai tourist visa for Indians?",
+        "a": "The GDRFA government fee for a single-entry tourist visa sponsored by a tourism company is AED 200 for 30 days and AED 300 for 60 days, plus 5% VAT. Multiple-entry versions are AED 300 and AED 500. Agencies and airlines add their own service charges on top, so the final price you pay in rupees will be higher."
+      },
+      {
+        "q": "How long does a Dubai visa take for Indians?",
+        "a": "GDRFA says a standard tourist visa is usually processed within 48 hours, and ICP says its 60-day visa for eligible Indians takes about two days. In December, apply at least two to three weeks before travel so you have time to fix any document problem and add OK to Board if your airline needs it."
+      },
+      {
+        "q": "Is OK to Board still needed for Dubai from India?",
+        "a": "Yes, for some passengers and airlines. As of October 2026, airlines such as Air Arabia and flydubai still ask certain Indian passengers on printed e-visas to have an OK to Board message added to their booking, usually at least 24 hours before departure. Rules differ by airline, airport and passport type, so confirm with your airline."
+      },
+      {
+        "q": "When does Global Village Season 31 close?",
+        "a": "Global Village Season 31 opened on 14 October 2026 and runs until May 2027, but the exact closing date has not been announced. It is open throughout the Dubai Shopping Festival and New Year period, so you can add an evening there to any December or January trip."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The **Dubai Shopping Festival 2026-27 runs from 4 December 2026 to 17 January 2027**. It is the 32nd edition and lasts 45 days, covering Christmas and New Year's Eve. Most Indians need a UAE tourist visa before they fly, usually 30 or 60 days, unless they hold a valid US, UK or EU visa or residence permit, which can make them eligible for visa on arrival."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**DSF dates:** 4 December 2026 to 17 January 2027. **Last year:** 5 December 2025 to 11 January 2026. **Global Village:** open from 14 October 2026 until May 2027. **Tourist visa:** 30 or 60 days, single or multiple entry. **Government fee:** from AED 200 plus 5% VAT. **Processing:** about 48 hours. **Visa on arrival:** 14 days for AED 100 if you hold a qualifying US, UK, EU or other listed visa or residence permit. **Passport:** at least 6 months validity."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai Shopping Festival 2026-27 dates and what is confirmed"
+      },
+      {
+        "type": "p",
+        "text": "Dubai Festivals and Retail Establishment (DFRE), part of Dubai's Department of Economy and Tourism, announced the dates on 14 October 2026. Visit Dubai's official DSF page shows the same dates. The full programme, including mall sales, raffles and concert line-ups, had not been published when we checked."
+      },
+      {
+        "type": "p",
+        "text": "Events confirmed so far:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**etisalat Beach Canteen** at Sunset Beach, 10 to 27 December 2026. New this year.",
+          "**etisalat MOTB** market at d3, 8 to 24 January 2027.",
+          "**DSF Nights**, **DSF x Hatta Wadi Hub** and **DSF Auto Season** are returning. Dates are still to be announced."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Last year's 31st edition ran from 5 December 2025 to 11 January 2026. This year's festival is a week longer, which gives you more room to avoid the most expensive dates."
+      },
+      {
+        "type": "h2",
+        "text": "New Year's Eve in Dubai"
+      },
+      {
+        "type": "p",
+        "text": "New Year's Eve falls in the middle of DSF. The Burj Khalifa show in Downtown Dubai is the main event. Last year fireworks were also held at many other locations, including Palm Jumeirah, Dubai Creek Harbour, Bluewaters, Expo City Dubai and Global Village."
+      },
+      {
+        "type": "p",
+        "text": "As of 28 October 2026, the official 2026-27 details, such as the list of fireworks locations, road closures, Metro timings and Burj Park ticket prices, had not been published. Last year, free viewing areas along the Downtown boulevard worked on a first-come basis and filled early. Plan to arrive by afternoon if you want a free spot, or book a paid venue."
+      },
+      {
+        "type": "h2",
+        "text": "Global Village Season 31"
+      },
+      {
+        "type": "p",
+        "text": "Global Village opened its 31st season on **14 October 2026** and will run until **May 2027**, according to the Dubai Media Office. The exact closing date has not been announced. Evening tickets were reported at AED 25 on weekdays and AED 30 on weekends and public holidays. A new roller coaster, Tokyo Rush, is due to open later in the season."
+      },
+      {
+        "type": "h2",
+        "text": "UAE visa options for Indians"
+      },
+      {
+        "type": "h3",
+        "text": "Option 1: Tourist visa before you fly"
+      },
+      {
+        "type": "p",
+        "text": "This is the route for most Indian travellers. The visa is sponsored by a UAE tourism company, hotel or airline. GDRFA Dubai offers 30-day and 60-day tourist visas, for a single entry or multiple entries."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**30-day single entry:** AED 200 government fee plus 5% VAT.",
+          "**60-day single entry:** AED 300 plus 5% VAT.",
+          "**30-day multiple entry:** AED 300 plus 5% VAT.",
+          "**60-day multiple entry:** AED 500 plus 5% VAT.",
+          "**Processing:** about 48 hours, according to GDRFA.",
+          "**Documents:** passport valid at least 6 months, photo, onward or return ticket, and medical insurance valid in the UAE."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You may see 14-day visas advertised. On the official GDRFA and ICP portals, the 14-day option for Indians is the visa on arrival described below, not a standard tourist visa. For a DSF trip of five to ten days, a 30-day single-entry visa is usually enough."
+      },
+      {
+        "type": "h3",
+        "text": "Option 2: Visa on arrival with a US, UK or EU visa"
+      },
+      {
+        "type": "p",
+        "text": "Indians with an ordinary passport can get a visa on arrival if they hold a valid visa, residence permit or green card from the United States, the UK or an EU country. Since 13 February 2025, valid residence permits from **Singapore, Japan, South Korea, Australia, New Zealand and Canada** also qualify."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**14-day visa on arrival:** AED 100. It can be extended once while you are in the UAE.",
+          "**60-day visa from ICP:** AED 250 issuance fee plus AED 100 smart services fee, so AED 350. Single stay, cannot be extended. Apply online before you travel; ICP says it takes about two days.",
+          "**Validity:** your passport and the qualifying visa or residence permit must be valid for at least 6 months.",
+          "**Overstay fine:** AED 50 a day."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Carry the original US, UK or EU visa or card. Airline staff in India check it at boarding. If your US visa expires in less than six months, apply for a regular tourist visa instead."
+      },
+      {
+        "type": "h2",
+        "text": "Is OK to Board still needed?"
+      },
+      {
+        "type": "p",
+        "text": "Yes, for some passengers. As of October 2026, airlines including Air Arabia and flydubai still ask certain Indian passengers travelling on a printed e-visa to get an OK to Board message added to their booking. Air Arabia asks for it at least 24 hours before departure. Requirements differ by airline, departure airport and passport type, such as ECR passports. Ask your airline or travel agent when you book, not at the airport."
+      },
+      {
+        "type": "h2",
+        "text": "December peak-season tips"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Book flights and hotels now.** The weeks around Christmas and 31 December are usually the most expensive and the first to sell out.",
+          "**Avoid the 30 December to 2 January window** if you are flexible. Early December, or 5 to 17 January, usually costs less and DSF is still on.",
+          "**Choose your area by plan.** Downtown is closest to the New Year show but costs most. Deira and Bur Dubai are cheaper and on the Metro.",
+          "**Apply for the visa two to three weeks before travel.** It is fast, but December sees more applications and document queries.",
+          "**Book the visa only after your flights are fixed.** Each visa must be used within the entry period printed on it, so check that date matches your flight.",
+          "**Keep a return ticket and hotel booking handy.** Airlines and immigration officers can ask for them."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should go during DSF, and who should not"
+      },
+      {
+        "type": "p",
+        "text": "DSF suits families, first-time visitors and shoppers who want festival events, raffles and pleasant winter weather. It is less suited to travellers on a tight budget who need New Year dates, because prices peak then. If you only want to shop, the mid-January end of the festival is often quieter."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files UAE visas for Indian passport holders from ₹2,500 in service fees, with government fees extra. We check whether you qualify for visa on arrival, pick the right 30-day or 60-day visa, and remind you about OK to Board for your airline. We have filed 5,000+ visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules and dates were checked on 28 October 2026 against the listed sources: Visit Dubai, the DFRE announcement, GDRFA Dubai, ICP and the Dubai Media Office. Visa rules and event dates can change, so check the official sites before you travel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Visit Dubai: Dubai Shopping Festival",
+        "url": "https://www.visitdubai.com/en/festivals-and-events/dsf"
+      },
+      {
+        "label": "Zawya (DFRE press release, 14 October 2026): Citywide Dubai Shopping Festival returns",
+        "url": "https://www.zawya.com/en/press-release/government-news/citywide-dubai-shopping-festival-returns-with-most-action-packed-season-yet-1650724"
+      },
+      {
+        "label": "Dubai Department of Economy and Tourism: 31st edition of Dubai Shopping Festival",
+        "url": "https://www.dubaidet.gov.ae/en/newsroom/press-releases/31st-edition-of-dubai-shopping-festival"
+      },
+      {
+        "label": "Dubai Media Office: Global Village announces Season 31 opening date",
+        "url": "https://www.mediaoffice.ae/en/news/2026/september/14-09/global-village-announces-season-31-opening-date"
+      },
+      {
+        "label": "Khaleej Times: Dubai's Global Village announces ticket prices",
+        "url": "https://www.khaleejtimes.com/uae/dubais-global-village-ticket-prices-announced-ahead-of-31st-season"
+      },
+      {
+        "label": "GDRFA Dubai: Issuance of a single-entry tourist visa",
+        "url": "https://www.gdrfad.gov.ae/en/services/f9e586fe-0642-11ec-0320-0050569629e8"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a tourist visa for several entries",
+        "url": "https://gdrfad.gov.ae/en/services/f9e586fb-0642-11ec-0320-0050569629e8"
+      },
+      {
+        "label": "ICP: Six new nationalities and six additional countries of residence added (25 June 2026)",
+        "url": "https://icp.gov.ae/en/media-center/icp-expands-eligibility-for-uae-entry-visa-for-nationals-of-certain-countries/"
+      },
+      {
+        "label": "ICP: Issuance of a 60-day visa for nationals of certain countries residing abroad",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68f5bcdb8c587a0011cb16d5"
+      },
+      {
+        "label": "Air Arabia: Ok to Board FAQ",
+        "url": "https://www.airarabia.com/en/faqs/oktoboard"
+      },
+      {
+        "label": "flydubai: Ok to board from India",
+        "url": "https://www.flydubai.com/en/flying-with-us/ok-to-board/ok-to-board-from-india/"
+      },
+      {
+        "label": "Gulf News: Dubai unveils NYE 2026 fireworks location map",
+        "url": "https://gulfnews.com/uae/dubai-unveils-nye-2026-fireworks-location-map-48-displays-across-40-spots-1.500391043"
+      }
+    ]
+  },
+  {
+    "slug": "singapore-visa-for-indians-2026",
+    "title": "Singapore Visa for Indians 2026: Fees, Documents, Transit Rules",
+    "metaTitle": "Singapore Visa for Indians 2026: Fees & Rules | Travlys",
+    "metaDescription": "Indians need a Singapore visa in 2026, filed through an authorised visa agent. Fee ₹2,100 plus agent charge, 3 to 5 working days. Documents and transit rules.",
+    "excerpt": "Indian passport holders still need a visa for Singapore, filed through an authorised visa agent. Here is the 2026 fee, the documents, the timeline for a December–January trip and the 96-hour transit option.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "Singapore",
+      "Singapore visa",
+      "Visa for Indians",
+      "SG Arrival Card",
+      "Transit",
+      "Year-end travel"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=1600&h=900&fit=crop",
+    "related": [
+      "malaysia-visa-free-for-indians-2026",
+      "new-year-international-trips-from-india-easy-visa",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "singapore-visa",
+      "label": "Get your Singapore visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Singapore in 2026?",
+        "a": "Yes, Indian passport holders need a visa to enter Singapore in 2026. India is on ICA's list of visa-required countries. The only exception for most Indian tourists is the 96-hour Visa-Free Transit Facility, which works only if you are travelling to or from a third country and hold a valid visa or long-term pass from one of eight listed countries, such as the US, UK, Australia or Japan."
+      },
+      {
+        "q": "What is the Singapore visa fee for Indians?",
+        "a": "The visa processing fee is ₹2,100 per application on the New Delhi and Mumbai mission pages, and authorised agents may add a service charge of ₹1,300, so expect about ₹3,400. The Chennai consulate page still lists SGD 30, converted to rupees, plus a ₹1,000 service fee. The fee is non-refundable even if the visa is refused, so check your documents before you submit."
+      },
+      {
+        "q": "Can I apply for a Singapore visa directly with ICA or the High Commission?",
+        "a": "No, you cannot walk into the High Commission or apply to ICA yourself. Indian applicants apply through an Authorised Visa Agent listed by the Singapore mission for their state, or through a local contact in Singapore. That contact must be a Singapore citizen or permanent resident aged 21 or over with a Singpass account. ICA also does not accept visa applications at immigration counters on arrival."
+      },
+      {
+        "q": "How long does a Singapore visa take for Indians?",
+        "a": "Singapore missions in India say a visa generally takes 3 to 5 working days. That count excludes the day you submit, weekends and public holidays, and some applications take longer. For a Christmas or New Year trip, apply in the second half of November or early December. The Mumbai consulate advises applying within 30 days before you arrive."
+      },
+      {
+        "q": "Can Indians transit Singapore without a visa?",
+        "a": "Yes, if you qualify for the 96-hour Visa-Free Transit Facility. You must be travelling to or from a third country, hold an onward air, ferry or cruise ticket leaving Singapore within 96 hours, and carry a visa or long-term pass for Australia, Canada, Germany, Japan, New Zealand, Switzerland, the UK or the US with at least one month of validity. If you stay airside at Changi without clearing immigration, you do not enter Singapore at all."
+      },
+      {
+        "q": "Is the SG Arrival Card free and when should I fill it?",
+        "a": "Yes, the SG Arrival Card is free when you submit it on ICA's e-Service or the MyICA app. You must submit it within three days before arrival, counting the day you arrive, and it includes the electronic health declaration. ICA warns that some websites charge a fee for this. Those sites are not linked to ICA, so do not pay them."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes, Indian passport holders need a visa to visit Singapore in 2026, and you cannot apply for it directly with ICA or the High Commission. You apply through an Authorised Visa Agent, pay a ₹2,100 visa processing fee plus an agent service charge of up to ₹1,300, and usually get a decision in 3 to 5 working days. If you are only passing through on your way to or from a third country and hold a valid visa from one of eight listed countries, the 96-hour Visa-Free Transit Facility may let you enter without a Singapore visa."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa needed:** Yes, for Indian passport holders. **How to apply:** Through an Authorised Visa Agent, or a Singapore citizen or PR contact with Singpass. **Fee:** ₹2,100 processing fee plus up to ₹1,300 agent charge (Delhi and Mumbai). Chennai lists SGD 30 plus ₹1,000. **Processing:** 3 to 5 working days. **Passport:** Valid at least six months from the date you enter Singapore. **Stay:** Decided by the ICA officer on arrival and shown on your e-Pass. **SG Arrival Card:** Free, within three days before arrival, includes the health declaration. **Transit:** 96-hour visa-free transit if you meet the conditions."
+      },
+      {
+        "type": "h2",
+        "text": "How Indians apply: authorised visa agents only"
+      },
+      {
+        "type": "p",
+        "text": "Singapore does not take visa applications from Indian travellers at its missions or at the airport. Each Singapore mission in India appoints Authorised Visa Agents (AVAs), who check your documents and submit them online to the mission. Use only an agent on the official list for your region."
+      },
+      {
+        "type": "p",
+        "text": "Which list you use depends on where you live:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**New Delhi High Commission:** Agents in Delhi NCR, West Bengal, Rajasthan, Uttar Pradesh, Punjab and Nepal. The list was last revised on 1 August 2026.",
+          "**Mumbai Consulate-General:** Maharashtra, Madhya Pradesh, Chhattisgarh, Goa, Gujarat and Odisha. If you live in Ahmedabad or anywhere in Gujarat, this is your mission.",
+          "**Chennai Consulate-General:** Agents in Chennai, Bengaluru and Hyderabad."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "There is one other route. If you have a contact in Singapore who is a citizen or permanent resident, aged 21 or over, with a Singpass account, they can submit the application online for you and issue Form V39A, the Letter of Introduction. Most holiday travellers do not have such a contact, so the agent route is the normal one."
+      },
+      {
+        "type": "h2",
+        "text": "Singapore visa fee in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The official pages do not all show the same figure:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**New Delhi and Mumbai:** A visa processing fee of **₹2,100** per application, plus an agent service charge of **₹1,300**. That is about **₹3,400** in total. Mumbai says the ₹2,100 fee took effect on 1 January 2026, and that agents make no extra charge for urgent applications.",
+          "**Chennai:** The page lists the fee as **SGD 30**, converted to rupees by the agent, plus a **₹1,000** visa service fee. It also tells you to ask the agent about any other administrative charges."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "All three missions say the processing fee is **non-refundable**, whatever the outcome. If anyone quotes much more, ask them to split it into the government fee, the agent fee and their own charge."
+      },
+      {
+        "type": "h2",
+        "text": "Documents you need"
+      },
+      {
+        "type": "p",
+        "text": "The official checklist for a tourist or business visit is short:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Form 14A**, filled in completely and signed by you.",
+          "**Passport** valid for at least six months from the date you enter Singapore, plus a copy of the bio-data page. Chennai also asks for the last page.",
+          "**One recent colour photo**, passport size, taken within the last three months and meeting the mission's photo guidelines.",
+          "**Form V39A (Letter of Introduction)**, which Delhi may ask for case by case and Mumbai lists as a document. Mumbai also accepts an LOI from your embassy if you have no local contact.",
+          "**English translations** of any document in Hindi or another language."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The mission can ask for more papers case by case, and the Mumbai page reminds you to have enough money for your stay. In practice, keep recent bank statements, your hotel booking and your return ticket ready, even if the agent does not upload them. You do not need to buy a flight ticket before applying. If you do buy one and the visa is refused, the loss is yours, so pick a refundable or changeable fare."
+      },
+      {
+        "type": "h2",
+        "text": "Processing time and timing for a December–January trip"
+      },
+      {
+        "type": "p",
+        "text": "Singapore's missions say applications generally take **3 to 5 working days**. The count leaves out the day you submit, weekends and public holidays, and some files take longer. The Mumbai consulate advises applying **within 30 days before you arrive**."
+      },
+      {
+        "type": "p",
+        "text": "For the year-end rush, work backwards. Christmas Day and New Year's Day are holidays, and demand rises in the weeks before. For a trip between 20 December and 5 January, submit between 20 November and 5 December. That leaves time to fix a rejected photo or a missing letter without moving your dates."
+      },
+      {
+        "type": "h2",
+        "text": "Validity and length of stay"
+      },
+      {
+        "type": "p",
+        "text": "Two separate things decide how long you can stay. The **visa validity** is the window in which you may seek entry to Singapore. Each application, including its validity, is decided on its own merits. The **length of stay** is decided by the ICA officer when you arrive. It appears on your **e-Pass**, which is emailed to the address you gave in your SG Arrival Card. The e-Pass shows the maximum days allowed and your last permitted day."
+      },
+      {
+        "type": "p",
+        "text": "Holding a visa does not guarantee entry, and visas cannot be moved to a renewed passport. To stay longer, apply online to ICA when 14 days or less remain on your visit pass. ICA charges S$30 for visa-required visitors, plus S$40 if your total stay reaches 90 days or more."
+      },
+      {
+        "type": "h2",
+        "text": "SG Arrival Card and e-health declaration"
+      },
+      {
+        "type": "p",
+        "text": "Every traveller entering Singapore must submit the **SG Arrival Card (SGAC)** with its **electronic health declaration** before arrival. You must submit it within **three days before you arrive**, counting the day of arrival. Earlier submissions are not accepted. It is **free** on the ICA e-Service or the MyICA app."
+      },
+      {
+        "type": "p",
+        "text": "ICA has published a list of 63 commercial websites that charge for the SGAC and are not linked to ICA. Do not pay for it. Enter an email address you check, because that is where your e-Pass arrives. If you transit at Changi without clearing immigration, you do not need an SGAC."
+      },
+      {
+        "type": "h2",
+        "text": "The 96-hour Visa-Free Transit Facility"
+      },
+      {
+        "type": "p",
+        "text": "Indian nationals are among those who may use the **Visa-Free Transit Facility (VFTF)**. If you qualify, you can leave the airport and spend up to 96 hours in Singapore without a Singapore visa. ICA's conditions are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You are **in transit to or from a third country** via Singapore. A round trip from India to Singapore and back does not qualify.",
+          "You may arrive by any mode, but you must **leave by air or sea**.",
+          "You hold a confirmed **onward air, ferry or cruise ticket** leaving Singapore within 96 hours.",
+          "You hold a **visa or long-term pass** issued by, or valid for entry into, **Australia, Canada, Germany, Japan, New Zealand, Switzerland, the UK or the US**, valid for **at least one month** from the date you enter Singapore.",
+          "Single Journey Visa holders qualify only on the direct return leg from the issuing country, through Singapore, to home.",
+          "The stay **cannot be extended**, and ICA officers still decide entry at the checkpoint."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Example: you fly Ahmedabad to Singapore to Sydney with an Australian visitor visa valid for six more months. You can stop over for up to four days. A Schengen visa from France or Italy does not count; only Germany is on the list. If you transit airside at Changi without clearing immigration, you need neither a visa nor the VFTF. If any condition is uncertain, get a visa."
+      },
+      {
+        "type": "h2",
+        "text": "Automated lanes at Changi"
+      },
+      {
+        "type": "p",
+        "text": "ICA says all travellers can use the automated immigration lanes. First-time visitors enrol at the lane itself with iris, face and fingerprints, with no advance registration. On departure, iris and face are usually enough. The lanes are for travellers aged six and above."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fixed rupee fee:** The Mumbai consulate lists a ₹2,100 visa fee from 1 January 2026, and New Delhi shows the same figure. Agents in Delhi and Mumbai may charge ₹1,300 on top.",
+          "**No-Boarding Directive:** From 30 January 2026, ICA can tell airlines flying into Changi and Seletar to deny boarding to flagged travellers. This includes people who do not meet entry rules, such as having no valid visa or a passport with less than six months' validity. A denied traveller must write to ICA through its Feedback Channel for approval before booking a new flight. In May 2026, ICA said it would widen the scope later in the year.",
+          "**Visa transfers stopped:** The Mumbai consulate no longer transfers a visa from an old passport to a new one. You apply again."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In practice, your visa and passport are now checked at check-in in India, not only at Changi."
+      },
+      {
+        "type": "h2",
+        "text": "Common reasons for refusal or delay"
+      },
+      {
+        "type": "p",
+        "text": "ICA does not publish reasons for refusals. These are the problems that most often hold up files:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Form 14A with blank columns, or details that do not match the passport.",
+          "A photo older than three months or not meeting the specification.",
+          "A passport with less than six months' validity on the date of entry.",
+          "Past overstays, immigration offences or earlier refusals you did not declare.",
+          "No clear purpose for the trip, or too little money for the stay.",
+          "Using a person who is not an authorised agent, so the file never reaches the mission properly."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys handles Singapore visas for Indian passport holders from **₹2,950** service fee, with government and agent fees extra. We prepare and check your Form 14A, photo and passport, submit through the authorised agent route, tell you what else to keep ready, and plan your dates around the year-end rush. We have filed over 5,000 visas with a 98% approval rate, and we can also plan the rest of your trip. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules and fees in this guide were checked on 28 October 2026 against the ICA website and the Singapore High Commission in New Delhi and Consulates-General in Mumbai and Chennai, listed below. Fees and agent charges can change without notice, so confirm them with your authorised visa agent before you pay."
+      }
+    ],
+    "sources": [
+      {
+        "label": "ICA: Visa requirements",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements"
+      },
+      {
+        "label": "ICA: Visa Free Transit Facility",
+        "url": "https://ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility"
+      },
+      {
+        "label": "ICA: SG Arrival Card",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card"
+      },
+      {
+        "label": "ICA: Public advisory on the submission of SG Arrival Card",
+        "url": "https://www.ica.gov.sg/public-education/public-advisory-on-the-submission-of-sg-arrival-card-(sgac)"
+      },
+      {
+        "label": "ICA: Retrieval of electronic visit pass (e-Pass)",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/retrieval-of-electronic-visit-pass"
+      },
+      {
+        "label": "ICA: Multi-modal biometrics and automated clearance",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/MMBS"
+      },
+      {
+        "label": "ICA: Extension of short-term visit pass",
+        "url": "https://www.ica.gov.sg/enter-depart/extend_short_stay"
+      },
+      {
+        "label": "ICA: ICA to issue No-Boarding Directives from 30 January 2026",
+        "url": "https://www.ica.gov.sg/news-and-publications/newsroom/media-release/ica-to-issue-no-boarding-directives-from-30-january-2026"
+      },
+      {
+        "label": "MHA: ICA Workplan Seminar 2026",
+        "url": "https://www.mha.gov.sg/media-room/newsroom/ica-workplan-seminar-2026/"
+      },
+      {
+        "label": "High Commission of Singapore, New Delhi: Visa information",
+        "url": "https://new-delhi.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "High Commission of Singapore, New Delhi: Authorised visa agents",
+        "url": "https://new-delhi.mfa.gov.sg/consular-services/visa-information/authorised-visa-agents"
+      },
+      {
+        "label": "Consulate-General of Singapore, Mumbai: Visa information",
+        "url": "https://mumbai.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "Consulate-General of Singapore, Chennai: Visa information",
+        "url": "https://chennai.mfa.gov.sg/consular-services/visa-information/"
+      }
+    ]
+  },
+  {
+    "slug": "new-zealand-visa-for-indians-2026",
+    "title": "New Zealand Visa for Indians 2026: Fees, IVL and Processing",
+    "metaTitle": "New Zealand Visa for Indians 2026: Fees, IVL | Travlys",
+    "metaDescription": "A New Zealand visitor visa from India costs NZD 441 in 2026, including the NZD 100 IVL. Apply online with INZ; 80% are decided in 2 weeks. Documents and funds.",
+    "excerpt": "Indian passport holders need a New Zealand visitor visa, applied online with Immigration New Zealand. Here is the 2026 cost including the NZD 100 tourist levy, current processing times, the money you must show, and why NZeTA is not an option for most Indians.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "New Zealand",
+      "New Zealand visa",
+      "Visa for Indians",
+      "IVL",
+      "NZeTA",
+      "Transit"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1600&h=900&fit=crop",
+    "related": [
+      "australia-visa-biometrics-india-2026",
+      "visa-rejection-reasons-india",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "cta": {
+      "slug": "new-zealand-visa",
+      "label": "Get your New Zealand visa filed"
+    },
+    "faqs": [
+      {
+        "q": "How much is a New Zealand visitor visa for Indians in 2026?",
+        "a": "A New Zealand visitor visa costs NZD 441 for one Indian citizen applying from India. That is a NZD 300 application fee, a NZD 41 immigration levy and the NZD 100 International Visitor Conservation and Tourism Levy (IVL). A couple on one application pays NZD 541, because the fee and immigration levy are charged once and the IVL is charged per person. None of it is refunded if the visa is declined."
+      },
+      {
+        "q": "What is the IVL and did it go up?",
+        "a": "Yes, the IVL went up from NZD 35 to NZD 100 per person on 1 October 2024. It is the International Visitor Conservation and Tourism Levy. It funds conservation, infrastructure used for tourism and other tourism projects. Most visitors pay it with their visa application or NZeTA request. Immigration New Zealand's May 2026 fees guide still lists it at NZD 100, and it is non-refundable."
+      },
+      {
+        "q": "How long does a New Zealand visitor visa take from India?",
+        "a": "Immigration New Zealand currently publishes visitor visa decision times as 80% within 2 weeks. The rest can take longer, especially if INZ asks for more documents or a medical. For a December or January trip, apply by early November so you have time to respond to any request. If you are outside New Zealand when the visa is approved, it starts from the day you enter."
+      },
+      {
+        "q": "Can Indians use the NZeTA instead of a visa?",
+        "a": "No, not on an Indian passport alone. India is not a visa waiver country, so Indian citizens need a visitor visa. The exception is an Indian citizen who holds an Australian permanent residence visa or Australian resident return visa that is not provisional. They can request an NZeTA, which costs NZD 17 on the app or NZD 23 on the website, plus the NZD 100 IVL."
+      },
+      {
+        "q": "How much money do I need to show for a New Zealand visitor visa?",
+        "a": "You need at least NZD 1,000 for each month of your stay, or NZD 400 a month if your accommodation is already paid for. You also need an onward ticket out of New Zealand, or enough money to buy one. Bank statements are the usual proof. A sponsor in New Zealand can support your application instead, but they must complete their part of the form."
+      },
+      {
+        "q": "Do Indians need a transit visa for Auckland?",
+        "a": "Yes, in most cases Indians need a transit visa, which costs NZD 235, to pass through Auckland International Airport. You can use a transit NZeTA instead if you are travelling to or from Australia and hold a valid Australian visa, or if you already hold a valid New Zealand visa. Either way you must stay in the transit area for no more than 24 hours, so check that your bags are checked through."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders need a visitor visa to travel to New Zealand in 2026, and you apply online with Immigration New Zealand (INZ). For one person applying from India, it costs **NZD 441**: a NZD 300 application fee, a NZD 41 immigration levy and the NZD 100 International Visitor Conservation and Tourism Levy (IVL). INZ currently says 80% of visitor visas are decided within 2 weeks, so apply at least six weeks before a December–January trip."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa needed:** Yes, a visitor visa for Indian passport holders. **Where to apply:** Online with Immigration New Zealand. Paper applications stopped on 1 October 2026. **Cost:** NZD 441 for one person, NZD 541 for a couple on one application. **IVL:** NZD 100 per person, raised from NZD 35 on 1 October 2024. **Processing:** 80% within 2 weeks. **Funds:** NZD 1,000 a month, or NZD 400 a month with prepaid accommodation. **Passport:** Valid at least 3 months after you plan to leave New Zealand. **NZeTA:** Not for Indian passports unless you hold Australian permanent residence. **Transit:** Transit visa NZD 235, or NZeTA if travelling to or from Australia."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for New Zealand?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. India is not on New Zealand's list of visa waiver countries, so Indian citizens cannot simply request an NZeTA and fly. You need a visitor visa approved before you travel. A visitor visa covers holidays, visiting family and friends, and study of up to 3 months. You cannot work for a New Zealand employer. INZ does allow visitors to work remotely for an overseas business, within its rules."
+      },
+      {
+        "type": "h2",
+        "text": "Visitor visa cost in 2026"
+      },
+      {
+        "type": "p",
+        "text": "INZ puts fees in bands. Indian citizens applying from India pay **Band C**. The current Fees Guide, dated May 2026, shows:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application fee:** NZD 300.",
+          "**Immigration levy:** NZD 41, charged once per application.",
+          "**IVL:** NZD 100 for each person in the application.",
+          "**One traveller:** NZD 441 in total.",
+          "**Couple on one application:** NZD 541. INZ uses this exact example for an Indian couple applying from India.",
+          "**Family of four on one application:** NZD 741, if all four pay the IVL."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You pay in New Zealand dollars online, so the rupee amount depends on your card's exchange rate and any foreign transaction charge. **Fees are not refunded**, and the IVL is not refunded either, even if your visa is declined. We found no change to the visitor visa fee or the IVL on 1 July 2026. A temporary fee cut from 1 June 2026 applies only to Pacific nationals, not to Indians."
+      },
+      {
+        "type": "h2",
+        "text": "The IVL, explained"
+      },
+      {
+        "type": "p",
+        "text": "The International Visitor Conservation and Tourism Levy is a charge most international visitors pay when they apply for a visa or request an NZeTA. The money funds conservation, infrastructure used for tourism and other tourism projects. It went up from **NZD 35 to NZD 100 per person on 1 October 2024**, which is why older blog posts show a lower total. For a family of four, the levy alone is NZD 400, so budget for it from the start."
+      },
+      {
+        "type": "h2",
+        "text": "How to apply online"
+      },
+      {
+        "type": "p",
+        "text": "From 1 October 2026, INZ no longer accepts paper forms for the standard Visitor Visa or the Transit Visa, except in exceptional circumstances. Applications go through **enhanced Immigration Online**. The old online system closed for these visas on 8 October 2026. If your passport has expired, the online form does not work, so renew your passport first."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Create an account on the INZ online system and start a Visitor Visa application.",
+          "Answer the questions. The form only asks for evidence relevant to your situation.",
+          "Upload a photo, your passport and supporting documents.",
+          "If someone in New Zealand is sponsoring you, they complete their declaration online.",
+          "Pay the fee and IVL by card and submit. You can track the status on your dashboard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Documents and funds"
+      },
+      {
+        "type": "p",
+        "text": "INZ's checklist for a visitor visa covers these points:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport** valid for at least 3 months after the date you plan to leave New Zealand.",
+          "**One acceptable photo** that meets INZ's photo rules.",
+          "**Money to live on:** at least NZD 1,000 a month, or NZD 400 a month if your accommodation is prepaid. For a 15-day trip, show at least NZD 1,000.",
+          "**Onward travel:** a ticket out of New Zealand, or proof you can pay for one.",
+          "**Your plans:** an itinerary, hotel bookings or an invitation from family, to show you are a genuine visitor.",
+          "**Health:** a chest X-ray if you stay more than 6 months, as India is not a low-TB country. A medical certificate is normally not needed for stays under 12 months.",
+          "**Character:** police certificates only if you are 17 or over and your total time in New Zealand will be 24 months or more.",
+          "**Family:** documents showing your relationship with a partner and children included in the application."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Genuine visitor evidence matters most for Indian applicants. Add your employment letter or business proof, approved leave, income tax returns and six months of bank statements. A large deposit just before you apply, with no explanation, raises questions. Explain it in a short cover letter."
+      },
+      {
+        "type": "h2",
+        "text": "Processing time and timing for the summer season"
+      },
+      {
+        "type": "p",
+        "text": "December and January are summer in New Zealand and a busy travel period. INZ currently publishes visitor visa decision times as **80% within 2 weeks**. The other 20% can take longer, often because INZ asks for more information. Apply about six weeks before you fly. That means early November for a Christmas trip and mid-November for a New Year trip. Book refundable flights until the visa arrives."
+      },
+      {
+        "type": "h2",
+        "text": "How long you can stay"
+      },
+      {
+        "type": "p",
+        "text": "If you are outside New Zealand when the visa is approved, it starts on the day you enter. The general limit is **9 months in any 18-month period**, and most applicants are given a multiple-entry visa. Your visa letter shows the exact dates and conditions. If your passport is renewed, you must transfer the visa to the new passport."
+      },
+      {
+        "type": "h2",
+        "text": "NZeTA: why most Indians cannot use it"
+      },
+      {
+        "type": "p",
+        "text": "The New Zealand Electronic Travel Authority (NZeTA) is for visa-waiver citizens, Australian citizens and permanent residents, certain travellers from Australia and transit passengers. An Indian passport does not qualify on its own."
+      },
+      {
+        "type": "p",
+        "text": "The exception: an Indian citizen who holds an **Australian permanent residence visa or Australian resident return visa** can request an NZeTA instead of a visitor visa. A provisional visa does not count. The NZeTA costs NZD 17 on the app or NZD 23 on the website, plus the NZD 100 IVL. It is valid for 2 years for visits of up to 3 months, and INZ says to allow 72 hours for checks."
+      },
+      {
+        "type": "h2",
+        "text": "Transit via Auckland"
+      },
+      {
+        "type": "p",
+        "text": "If your route passes through Auckland, for example to Fiji or South America, you need a **transit visa** unless you already hold a valid New Zealand visa. It costs NZD 235, and INZ publishes its processing time as 80% within 4 days."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Travelling to or from Australia:** You can use a transit NZeTA instead (NZD 17 on the app or NZD 23 on the website, no IVL), as long as you hold a valid Australian visa to enter Australia.",
+          "**24 hours maximum:** You cannot spend more than 24 hours in transit at Auckland.",
+          "**Stay airside:** You must stay in the transit area. You cannot leave it, even to collect bags or go to a hotel. Check that your bags are checked through to your final stop.",
+          "**Want to see Auckland on the way?** Then you need a visitor visa, not a transit visa."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "When you land"
+      },
+      {
+        "type": "p",
+        "text": "Every traveller must complete the **New Zealand Traveller Declaration (NZTD)**. For flights, you can submit it from 24 hours before your journey starts. It covers customs, immigration and biosecurity questions. Declare all food, medicines and outdoor gear you bring, because New Zealand is strict about biosecurity."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Online only:** Paper applications for the Visitor Visa and Transit Visa ended on 1 October 2026, and the old online system closed for these visas on 8 October 2026.",
+          "**Fees unchanged:** The May 2026 Fees Guide keeps the visitor visa at NZD 300 plus NZD 41 levy and NZD 100 IVL for Indians.",
+          "**Pacific fee cut:** From 1 June 2026, for 12 months, Pacific nationals pay less. This does not apply to Indian citizens."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common reasons for refusal"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Weak proof that you will return: no job letter, no business proof, no family or property ties.",
+          "Too little money for the length of stay, or unexplained recent deposits.",
+          "Plans that do not add up, such as a 30-day trip with 10 days' leave.",
+          "Earlier visa refusals for any country that you did not declare.",
+          "Documents that conflict with what you wrote in the form."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should apply now"
+      },
+      {
+        "type": "p",
+        "text": "Apply now if you are planning a December–January trip, visiting children who study or work in New Zealand, or combining New Zealand with Australia. If you are combining both, you need an Australian visa as well, and you should file both together. If your passport expires within the next year, renew it first."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files New Zealand visitor visas from **₹6,950** service fee, with the INZ fee and IVL extra. We build your genuine visitor file, check bank statements and leave letters, write the cover letter and submit online. We have filed over 5,000 visas with a 98% approval rate. We also file Australia visas for trips that combine both countries. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules and fees in this guide were checked on 28 October 2026 against Immigration New Zealand's website, its May 2026 Fees Guide (INZ 1028) and October 2026 Visitor Visa Guide (INZ 1018), listed below. Fees can change, so confirm the amount on immigration.govt.nz before you pay."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration New Zealand: Visitor Visa",
+        "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/visitor-visa"
+      },
+      {
+        "label": "Immigration New Zealand: Fees Guide INZ 1028 (May 2026)",
+        "url": "https://www.immigration.govt.nz/assets/inz/documents/forms-and-guides/Fees-Guide-INZ-1028.pdf"
+      },
+      {
+        "label": "Immigration New Zealand: Visitor Visa Guide INZ 1018 (October 2026)",
+        "url": "https://www.immigration.govt.nz/assets/inz/documents/forms-and-guides/inz1018.pdf"
+      },
+      {
+        "label": "Immigration New Zealand: How much visa applications cost and when to pay",
+        "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/fees-processing-times-and-refunds/how-much-visa-applications-cost-and-when-to-pay/"
+      },
+      {
+        "label": "Immigration New Zealand: Increase to visa charges comes into effect from 1 October",
+        "url": "https://www.immigration.govt.nz/about-us/news-centre/increase-to-visa-charges-comes-into-effect-from-1-october/"
+      },
+      {
+        "label": "Immigration New Zealand: Changes to use of paper applications for some visitor and transit visas",
+        "url": "https://www.immigration.govt.nz/about-us/news-centre/changes-to-use-of-paper-applications-for-some-visitor-and-transit-visas/"
+      },
+      {
+        "label": "Immigration New Zealand: Important visitor visa application form changes",
+        "url": "https://www.immigration.govt.nz/about-us/news-centre/important-visitor-visa-application-form-changes/"
+      },
+      {
+        "label": "Immigration New Zealand: Visitor visa fees temporarily reduced for Pacific nationals",
+        "url": "https://www.immigration.govt.nz/about-us/news-centre/visitor-visa-fees-temporarily-reduced-for-pacific-nationals"
+      },
+      {
+        "label": "Immigration New Zealand: New Zealand Electronic Travel Authority (NZeTA)",
+        "url": "https://www.immigration.govt.nz/visas/new-zealand-electronic-travel-authority-nzeta/"
+      },
+      {
+        "label": "Immigration New Zealand: Transit Visa",
+        "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/transit-visa"
+      },
+      {
+        "label": "Immigration New Zealand: Before you travel to New Zealand",
+        "url": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/before-you-travel-to-new-zealand/"
+      },
+      {
+        "label": "MBIE: International Visitor Conservation and Tourism Levy",
+        "url": "https://www.mbie.govt.nz/immigration-and-tourism/tourism/tourism-funding/international-visitor-conservation-and-tourism-levy"
+      }
+    ]
+  },
   // --- 27 October 2026: this week's visa news and winter trip guides. ---
   {
     "slug": "australia-visa-biometrics-india-2026",
@@ -1861,7 +3597,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: Australia biometrics, China direct filing, Australia student rules, Thailand 30 days.",
     "excerpt": "A dated, monthly-updated list of every significant visa and entry rule change for Indian passport holders in 2026, with what changed, who it affects and what to do.",
     "date": "2026-10-25",
-    "updated": "2026-10-27",
+    "updated": "2026-10-28",
     "readMinutes": 10,
     "category": "Visa rule updates",
     "tags": [
@@ -1917,7 +3653,7 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Newest changes:** Australia biometrics for visa applicants in India and China direct visa filing, both from 26 October 2026. **Easier in 2026:** Sri Lanka (free ETA), Uzbekistan (visa-free for holders of certain foreign visas), UAE (visa on arrival scheme widened). **Harder in 2026:** Thailand (60 days cut to 30), Australia student visas, higher UK and Australian visa fees. **Unchanged but time-limited:** Malaysia visa-free entry ends 31 December 2026 unless extended. **Still suspended:** Iran visa-free entry, since 22 November 2025. **Passport ranking:** India 84th, 55 destinations (October 2026, as reported)."
+        "text": "**Newest changes:** Australia biometrics for visa applicants in India and China direct visa filing, both from 26 October 2026. **Easier in 2026:** Sri Lanka (free ETA), Uzbekistan (visa-free for holders of certain foreign visas), UAE (visa on arrival scheme widened). **Harder in 2026:** Thailand (60 days cut to 30), Australia student visas, higher UK and Australian visa fees. **Unchanged but time-limited:** Malaysia visa-free entry ends 31 December 2026 unless extended. **Still suspended:** Iran visa-free entry, since 22 November 2025. **Passport ranking:** India 84th, 55 destinations (October 2026, as reported). **Coming up:** UK student funds rise on 30 November 2026; UK Graduate visas drop to 18 months from 1 January 2027."
       },
       {
         "type": "h2",
@@ -1954,6 +3690,14 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "Most holders of temporary visas in Australia, including Visitor, Working Holiday, Skills in Demand and Temporary Graduate visas, can no longer apply for a Student visa onshore. Most new student applicants cannot include a partner or children, and no student can add family after the grant. Students must now stay 12 months with their first provider before transferring, and a new transfer visa stream starts on 1 July 2027. If you apply from India for a first course, the process is the same; the planning level for new students stays at 295,000 for 2026 and 2027."
+      },
+      {
+        "type": "h3",
+        "text": "1 Oct 2026: New Zealand moves visitor visas fully online"
+      },
+      {
+        "type": "p",
+        "text": "Immigration New Zealand now accepts Visitor and Transit visa applications only through Immigration Online, except in exceptional circumstances. Paper forms sent before 1 October are still processed. The visitor visa fee for Indians is unchanged at **NZD 441**, which includes the NZD 100 International Visitor Conservation and Tourism Levy."
       },
       {
         "type": "h3",
@@ -2013,11 +3757,27 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "3 Jun 2026: Germany drops the airport transit visa for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Indian citizens can now change planes in the international transit area of German airports, such as Frankfurt and Munich, without an airport transit visa. If your connection takes you through passport control, for example to change terminals with separate tickets or to stay overnight, you still need a Schengen visa."
+      },
+      {
+        "type": "h3",
         "text": "25 May 2026: Sri Lanka tourist ETA becomes free"
       },
       {
         "type": "p",
         "text": "Indians are among 40 nationalities who get a **free 30-day, double-entry** tourist ETA. You must still apply on eta.gov.lk before you fly; free does not mean no application. Business ETAs and extensions are still charged."
+      },
+      {
+        "type": "h3",
+        "text": "10 Apr 2026: France drops the airport transit visa for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Indians transiting by air through the international zones of French airports, such as Paris Charles de Gaulle, no longer need an airport transit visa. It covers air transit only, not entry into France. Check the rules for any other European airport on your route, because each country keeps its own list."
       },
       {
         "type": "h3",
@@ -2034,6 +3794,22 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "The standard six-month UK visitor visa rose from £127 to **£135**, the two-year visit visa to £506, and the Student visa (applied from outside the UK) from £524 to **£558**. The Immigration Health Surcharge is unchanged at £776 a year for students. The fee you pay is set by the date you apply."
+      },
+      {
+        "type": "h3",
+        "text": "4 Mar 2026: Spain drops the airport transit visa for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Indians changing planes in the international transit area of Spanish airports, such as Madrid and Barcelona, no longer need an airport transit visa. Leaving the transit area, even to change terminals on a separate ticket, still needs a Schengen visa."
+      },
+      {
+        "type": "h3",
+        "text": "30 Jan 2026: Singapore can stop flagged travellers from boarding"
+      },
+      {
+        "type": "p",
+        "text": "Singapore's ICA can now tell airlines to deny boarding to travellers who do not meet entry rules, such as having no valid visa or a passport valid for less than six months. Indians still apply for a Singapore visa through an Authorised Visa Agent; the New Delhi and Mumbai missions list a fee of **₹2,100** from 1 January 2026, plus an agent charge of up to ₹1,300."
       },
       {
         "type": "h3",
@@ -2066,6 +3842,7 @@ export const BLOG_POSTS = [
       {
         "type": "ul",
         "items": [
+          "**30 November 2026:** UK Student visa funds rise to **£1,570** a month in London and **£1,203** a month elsewhere, for up to nine months. Applications made before that date use the old amounts.",
           "**31 December 2026:** Malaysia's visa waiver for Indians expires unless Malaysia extends it.",
           "**1 January 2027:** UK Graduate visas for bachelor's and master's graduates drop from 2 years to **18 months**. Apply by 31 December 2026 to get 2 years. PhD graduates keep 3 years.",
           "**1 July 2027:** Australia's new Student visa transfer stream starts for students changing provider.",
@@ -2104,6 +3881,34 @@ export const BLOG_POSTS = [
       }
     ],
     "sources": [
+      {
+        "label": "Embassy of Spain in New Delhi: Elimination of the airport transit visa for Indians from 4 March 2026",
+        "url": "https://www.exteriores.gob.es/Embajadas/nuevadelhi/es/Comunicacion/Noticias/Paginas/Articulos/19022026_NOT.aspx"
+      },
+      {
+        "label": "Immigration New Zealand: Changes to use of paper applications for some visitor and transit visas",
+        "url": "https://www.immigration.govt.nz/about-us/news-centre/changes-to-use-of-paper-applications-for-some-visitor-and-transit-visas/"
+      },
+      {
+        "label": "German Missions in India: Travel facilitation at German airports for Indian nationals",
+        "url": "https://india.diplo.de/in-en/2773896-2773896"
+      },
+      {
+        "label": "News On AIR: Indians transiting mainland France by air no longer need a transit visa",
+        "url": "https://newsonair.gov.in/indian-nationals-transiting-through-mainland-france-exclusively-by-air-will-no-longer-need-transit-visa-mea-spokesperson/"
+      },
+      {
+        "label": "ICA Singapore: No-Boarding Directives from 30 January 2026",
+        "url": "https://www.ica.gov.sg/news-and-publications/newsroom/media-release/ica-to-issue-no-boarding-directives-from-30-january-2026"
+      },
+      {
+        "label": "Consulate-General of Singapore, Mumbai: Visa information",
+        "url": "https://mumbai.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "GOV.UK: Statement of changes to the Immigration Rules HC 584",
+        "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible"
+      },
       {
         "label": "Australian High Commission in India: Australia expands biometric collection requirements for visa applicants in India (26 October 2026)",
         "url": "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html"
@@ -5716,7 +7521,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Indians can visit Malaysia visa-free for up to 30 days until 31 December 2026. You must file the free MDAC before arrival. Documents, business trips and 2027.",
     "excerpt": "Malaysia's visa waiver for Indian nationals allows stays of up to 30 days and runs until 31 December 2026. Here is what to carry, how the MDAC works and what happens after the deadline.",
     "date": "2026-10-24",
-    "updated": "2026-10-24",
+    "updated": "2026-10-28",
     "readMinutes": 6,
     "category": "Visa rule updates",
     "tags": [
@@ -5744,7 +7549,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "When does Malaysia's visa-free entry for Indians end?",
-        "a": "The waiver currently runs until 31 December 2026. Both the Immigration Department of Malaysia and the Malaysian High Commission in New Delhi show this date. As of 24 October 2026, we found no official announcement extending it into 2027. If your trip starts on or after 1 January 2027, or crosses that date, check imi.gov.my and the High Commission website before you book."
+        "a": "The waiver currently runs until 31 December 2026. Both the Immigration Department of Malaysia and the Malaysian High Commission in New Delhi show this date. As of 28 October 2026, we found no official announcement extending it into 2027. If your trip starts on or after 1 January 2027, or crosses that date, check imi.gov.my and the High Commission website before you book."
       },
       {
         "q": "Is the MDAC free and when should I submit it?",
@@ -5847,7 +7652,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "As of 24 October 2026, we found **no official announcement** extending the waiver into 2027. Malaysia has extended it before, but you should not assume it will happen again."
+        "text": "As of 28 October 2026, we found **no official announcement** extending the waiver into 2027. Malaysia has extended it before, but you should not assume it will happen again."
       },
       {
         "type": "ul",
