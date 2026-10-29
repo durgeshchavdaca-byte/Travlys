@@ -65,6 +65,10 @@ import {
   getNewsFaqs,
   buildNewsSchemas,
   newsAnchor,
+  GLOSSARY_META,
+  GLOSSARY,
+  termId,
+  buildGlossarySchemas,
 } from '../src/seo/pages.js'
 import { NEWS_UPDATED, getLatestNews, getNewsByMonth, getUpcomingNews, formatNewsDate } from '../src/data/travelNews.js'
 import { VISA_FEE_ROWS, LAST_CHECKED, getQuickAnswers, visaFeesCsv } from '../src/data/visaFees.js'
@@ -238,6 +242,7 @@ const NAV = [
   ['Visa questions answered', '/visa-questions'],
   ['Visa fees by country', '/visa-fees'],
   ['Visa and travel news', '/travel-news'],
+  ['Visa terms explained', '/visa-glossary'],
   ['Visa guides', '/blog'],
   ['About', '/about'],
   ['Contact', '/contact'],
@@ -316,6 +321,20 @@ function visaFeesBody() {
 </table>
 <p>Rupee amounts are approximate, at mid-October 2026 exchange rates. Government fees are paid to the embassy or immigration authority; the Travlys fee is separate.</p>
 ${faqList(VISA_FEES_FAQS, 'About this table')}`
+}
+
+function glossaryBody() {
+  const gid = (g) => g.group.toLowerCase().replace(/[^a-z0-9]+/g, '-')
+  return `${crumbs([['Home', '/'], ['Visa glossary']])}
+<h1>Visa terms, explained simply</h1>
+<p>${escapeHtml(GLOSSARY_META.description)}</p>
+<nav aria-label="Topics"><ul>${GLOSSARY.map((g) => `<li><a href="#${gid(g)}">${escapeHtml(g.group)}</a></li>`).join('')}</ul></nav>
+${GLOSSARY.map(
+    (g) => `<section id="${gid(g)}"><h2>${escapeHtml(g.group)}</h2>
+<dl>${g.terms
+      .map((t) => `<dt id="${termId(t)}">${escapeHtml(t.term)}</dt><dd><p>${inline(t.definition)}</p><p><a href="${href(t.href)}">Read more</a></p></dd>`)
+      .join('')}</dl></section>`,
+  ).join('\n')}`
 }
 
 function newsArticle(n, prefix = '') {
@@ -561,6 +580,7 @@ function buildSitemap() {
     sitemapEntry('/visa-questions', { changefreq: 'weekly', priority: '0.85' }),
     sitemapEntry('/visa-fees', { changefreq: 'weekly', priority: '0.85' }),
     sitemapEntry('/travel-news', { lastmod: NEWS_UPDATED, changefreq: 'daily', priority: '0.85' }),
+    sitemapEntry('/visa-glossary', { changefreq: 'monthly', priority: '0.8' }),
     ...['/pricing', '/about', '/contact', '/blog'].map((p) => sitemapEntry(p, { changefreq: 'weekly', priority: '0.8' })),
     ...BLOG_CATEGORIES.map((c) => sitemapEntry(`/blog/category/${categorySlug(c)}`, { changefreq: 'weekly', priority: '0.7' })),
     ...BLOG_POSTS.map((post) =>
@@ -624,6 +644,7 @@ ${linkList([
     ['Visa questions answered', '/visa-questions'],
     ['Visa fees by country (table + CSV)', '/visa-fees'],
     ['Visa and travel news', '/travel-news'],
+    ['Visa terms explained (glossary)', '/visa-glossary'],
     ['Pricing', '/pricing'],
     ['About Travlys', '/about'],
     ['Contact', '/contact'],
@@ -744,6 +765,12 @@ function buildLlmsTxt() {
     '',
     ...getLatestNews(10).map((n) => `- ${n.date}: **${n.headline}.** ${n.summary} Source: ${n.source.url} · Guide: ${pageUrl(n.href)}`),
     '',
+    '## Visa terms explained',
+    '',
+    `Plain-English definitions from the [Travlys visa glossary](${pageUrl('/visa-glossary')}):`,
+    '',
+    ...GLOSSARY.flatMap((g) => g.terms).map((t) => `- **${t.term}:** ${t.definition}`),
+    '',
     '## Announced visa changes coming up',
     '',
     ...getUpcomingNews().map((n) => `- Due ${n.date}: **${n.headline}.** ${n.summary} Source: ${n.source.url} · Guide: ${pageUrl(n.href)}`),
@@ -846,6 +873,7 @@ async function main() {
   await page(QUESTIONS_META, buildQuestionsSchemas(), questionsBody())
   await page(VISA_FEES_META, buildVisaFeesSchemas(), visaFeesBody())
   await page(NEWS_META, buildNewsSchemas(), newsBody())
+  await page(GLOSSARY_META, buildGlossarySchemas(), glossaryBody())
   for (const d of destinations) await page(getVisaMeta(d), buildVisaSchemas(d), visaBody(d))
   await page(PRICING_META, buildPricingSchemas(), pricingBody())
   await page(ABOUT_META, buildAboutSchemas(), aboutBody())

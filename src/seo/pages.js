@@ -7,6 +7,7 @@ import { destinations } from '../data/destinations.js'
 import { BLOG_POSTS, categorySlug } from '../data/blog.js'
 import { VISA_FEE_ROWS, LAST_CHECKED } from '../data/visaFees.js'
 import { TRAVEL_NEWS, NEWS_UPDATED, getLatestNews, getUpcomingNews, formatNewsDate } from '../data/travelNews.js'
+import { GLOSSARY, ALL_TERMS, GLOSSARY_UPDATED, termId } from '../data/glossary.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -469,3 +470,48 @@ export function newsAnchor(n) {
   const words = n.headline.toLowerCase().replace(/[^a-z0-9 ]+/g, '').split(/\s+/).slice(0, 3).join('-')
   return `${n.date}-${words}`
 }
+
+// --- Visa glossary (defined terms) ---------------------------------------------
+// Plain-English definitions of visa terms. DefinedTermSet tells search engines
+// and AI assistants these are definitions, each with its own anchor URL.
+
+export const GLOSSARY_META = {
+  title: 'Visa glossary: visa terms explained for Indian travellers',
+  description: `${ALL_TERMS.length} visa terms explained in plain English: VFS, biometrics, 214(b), 221(g), the Schengen 90/180 rule, e-Visa vs visa on arrival, ETA, IHS, CAS, PCC and more.`,
+  path: '/visa-glossary',
+  keywords:
+    'visa glossary, visa terms meaning, what is vfs, what is 221g, what is 214b, schengen 90 180 rule, visa on arrival meaning, e visa meaning, ok to board meaning',
+  type: 'website',
+  image: DEFAULT_OG_IMAGE,
+  imageAlt: 'Visa terms explained by Travlys',
+}
+
+export { GLOSSARY, termId }
+
+export function buildGlossarySchemas() {
+  const url = pageUrl(GLOSSARY_META.path)
+  return [
+    { ...buildWebPageSchema(GLOSSARY_META), dateModified: GLOSSARY_UPDATED },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'DefinedTermSet',
+      '@id': `${url}#glossary`,
+      name: 'Visa glossary for Indian travellers',
+      description: GLOSSARY_META.description,
+      url,
+      inLanguage: 'en-IN',
+      publisher: ORG,
+      dateModified: GLOSSARY_UPDATED,
+      hasDefinedTerm: ALL_TERMS.map((t) => ({
+        '@type': 'DefinedTerm',
+        '@id': `${url}#${termId(t)}`,
+        name: t.term,
+        description: t.definition,
+        url: `${url}#${termId(t)}`,
+        inDefinedTermSet: { '@id': `${url}#glossary` },
+      })),
+    },
+    crumbs({ name: 'Visa glossary', url }),
+  ]
+}
+

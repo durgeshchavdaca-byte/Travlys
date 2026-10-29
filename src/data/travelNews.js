@@ -53,6 +53,41 @@ export const TRAVEL_NEWS = [
   },
   // --- Dated news, newest first ---
   {
+    date: '2026-07-20',
+    headline: 'Saudi Arabia launches one-year multiple-entry Umrah visa',
+    summary:
+      'The new Umrah visa is valid for 365 days and allows multiple entries with a total stay of up to 90 days. Each visit needs its own Nusuk package and Umrah permit, and the visa is not valid during the Hajj season.',
+    href: '/blog/saudi-arabia-visa-for-indians-2026/',
+    source: { label: 'Saudi Press Agency', url: 'https://www.spa.gov.sa/en/N2637600' },
+  },
+  {
+    date: '2026-07-18',
+    headline: 'Saudi Package Visa opens for Indians without a US, UK or Schengen visa',
+    summary:
+      'Indians can now get a Saudi tourist eVisa by buying a flight and 4-star-plus hotel package from a Ministry of Tourism-approved provider. The visa costs SAR 402.21 including insurance and is single entry.',
+    href: '/blog/saudi-arabia-visa-for-indians-2026/',
+    source: { label: 'Visit Saudi', url: 'https://www.visitsaudi.com/en/campaigns/package-visa' },
+  },
+  {
+    date: '2026-06-02',
+    headline: 'Bhutan waives SDF for 24-hour visits to four border towns',
+    summary:
+      'Day visits of up to 24 hours to Phuentsholing, Samtse, Gelephu or Samdrup Jongkhar carry no Sustainable Development Fee until August 2027. Indians pay ₹1,200 a night once they go beyond these zones.',
+    href: '/blog/bhutan-permit-for-indians-2026/',
+    source: { label: 'Department of Tourism Bhutan', url: 'https://bhutan.travel/faqs' },
+  },
+  {
+    date: '2026-04-08',
+    headline: 'Bhutan requires a licensed guide for all tourists',
+    summary:
+      'All tourists, including on the drive from Paro airport to other districts, must be accompanied by a licensed guide. Travel up to the first designated checkpoint is the only exception.',
+    href: '/blog/bhutan-permit-for-indians-2026/',
+    source: {
+      label: 'Department of Tourism Bhutan',
+      url: 'https://a.storyblok.com/f/171618/x/d7788a48d0/notification-on-mandatory-tour-guide-requiremement.pdf',
+    },
+  },
+  {
     date: '2026-10-25',
     headline: 'Winter flight schedule starts: Air India Express adds 40+ routes',
     summary:

@@ -7,6 +7,1565 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  // --- 28 October 2026 (later): Maldives, Mauritius, Bhutan, Hong Kong, Türkiye, Saudi Arabia. ---
+  {
+    "slug": "maldives-visa-on-arrival-for-indians-2026",
+    "title": "Maldives Visa on Arrival for Indians 2026: Rules, IMUGA, Taxes",
+    "metaTitle": "Maldives Visa on Arrival for Indians 2026 | Travlys",
+    "metaDescription": "Indians get a free Maldives visa on arrival, normally 30 days. You need a paid hotel booking, return ticket, funds and the IMUGA form within 96 hours.",
+    "excerpt": "Indian passport holders do not apply for a Maldives visa in advance. You get a free tourist visa on arrival if you carry the right papers and file the IMUGA Traveller Declaration within 96 hours of landing.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 7,
+    "category": "Country guides",
+    "tags": [
+      "Maldives",
+      "Visa on arrival",
+      "IMUGA",
+      "Green tax",
+      "Honeymoon",
+      "Indian passport"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=1600&h=900&fit=crop",
+    "related": [
+      "sri-lanka-eta-for-indians-2026",
+      "bali-visa-on-arrival-for-indians-2026",
+      "mauritius-visa-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Is the Maldives visa free for Indians in 2026?",
+        "a": "Yes. Indian passport holders get a tourist visa on arrival at no cost, normally for 30 days. You do not apply before you fly. You must still meet the entry conditions at the airport: a passport valid for at least one month, a confirmed return ticket, a prepaid booking at a registered hotel, resort or guesthouse, enough money for your stay, and an IMUGA Traveller Declaration filed within 96 hours before arrival."
+      },
+      {
+        "q": "When should I fill the IMUGA form for the Maldives?",
+        "a": "Fill it within the 96 hours (four days) before your arrival in the Maldives. Maldives Immigration says every foreigner, including children, must submit an individual Traveller Declaration on imuga.immigration.gov.mv, and that submission is free. If you file it too early, it falls outside the window and you may have to submit again. Keep the confirmation ready on your phone or printed for the immigration counter."
+      },
+      {
+        "q": "Do I need a hotel booking to enter the Maldives?",
+        "a": "Yes. The official requirement is a prepaid, confirmed booking at a registered facility, or a sponsorship approved by Maldives Immigration. That means a licensed resort, hotel, guesthouse or tourist vessel. Carry the confirmation that shows it is paid. An unregistered private rental or a booking you plan to pay for on arrival can cause problems at the immigration counter."
+      },
+      {
+        "q": "How much is the Maldives green tax in 2026?",
+        "a": "The green tax is USD 12 per person per night at resorts, tourist vessels and larger properties, and USD 6 per person per night at hotels and guesthouses on inhabited islands with 50 or fewer rooms. These rates have applied since 1 January 2025. Children under two are exempt. Resorts and guesthouses add it to your bill, so check whether your package price includes it."
+      },
+      {
+        "q": "Can I extend my Maldives tourist visa?",
+        "a": "Yes. You can apply for an extension online through the IMUGA portal before your visa ends. From 23 April 2026, Maldives Immigration simplified the process so your passport and accommodation details fill in automatically, and applications are expected to be completed within 48 hours. Maldives missions say an extension can add up to 60 days. Check the current fee and length on the official site before applying."
+      },
+      {
+        "q": "Is there a departure tax when leaving the Maldives?",
+        "a": "Yes. Since 1 December 2024, foreigners flying economy pay a USD 50 departure tax plus a USD 50 airport development fee, so USD 100 in total. Business class is USD 120 plus USD 120, and first class USD 240 plus USD 240. These charges are normally built into your air ticket, so most travellers do not pay anything extra at the airport."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders do not need to apply for a Maldives visa before travel. You get a free tourist visa on arrival, normally valid for 30 days, as long as you show a confirmed return ticket, a prepaid booking at a registered resort, hotel or guesthouse, enough money for your stay and a passport valid for at least one month. You must also file the free IMUGA Traveller Declaration within 96 hours before you land."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** Free tourist visa on arrival, normally 30 days. **Apply in advance:** Not needed. **Online step:** IMUGA Traveller Declaration within 96 hours before arrival, free, one per person including children. **Passport:** Machine-readable, at least 1 month validity (we suggest 6 months). **Must carry:** Confirmed return ticket, prepaid booking at a registered property, proof of funds. **Green tax:** USD 12 per person per night at resorts; USD 6 at small guesthouses on local islands. **Departure charges:** USD 50 departure tax plus USD 50 airport development fee in economy, usually included in the ticket. **Extension:** Online through IMUGA."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for the Maldives?"
+      },
+      {
+        "type": "p",
+        "text": "No, not in advance. Maldives Immigration grants the tourist visa on arrival, and foreigners travelling as tourists do not need pre-approval. The visa costs nothing and is normally given for 30 days. The final decision is still made by the immigration officer at the airport, who checks that you meet the entry requirements below."
+      },
+      {
+        "type": "p",
+        "text": "One point that confuses people: the Maldives started a 90-day visa-free arrangement for Indians in 2022, but it applies to business visits, not tourism. Indian tourists get the same 30-day visa on arrival as everyone else."
+      },
+      {
+        "type": "h2",
+        "text": "Entry requirements at Velana airport"
+      },
+      {
+        "type": "p",
+        "text": "The official tourist visa page of Maldives Immigration, last updated on 10 September 2026, lists these requirements:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport:** A passport with a machine-readable zone and at least one month's validity. A passport whose validity has been extended by endorsement is not accepted.",
+          "**Return ticket:** Confirmed return journey tickets as part of a complete travel itinerary.",
+          "**Accommodation:** A prepaid, confirmed booking at a registered facility, or a sponsorship approved by Maldives Immigration.",
+          "**Funds:** Sufficient money to cover your stay. No fixed amount is published, so carry an international card and some US dollars.",
+          "**Next destination:** If you fly onward rather than home, you must meet that country's visa and passport rules.",
+          "**IMUGA declaration:** Submitted within 96 hours before arrival.",
+          "**Yellow fever certificate:** Only if you arrive from, or recently travelled through, a country with risk of yellow fever. Children under one are exempt."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The official minimum passport validity is one month, but we suggest at least six months. Some airlines apply stricter checks at check-in, and a short-validity passport also limits where you can go next. Children must travel on their own passport."
+      },
+      {
+        "type": "h2",
+        "text": "IMUGA Traveller Declaration: the 96-hour rule"
+      },
+      {
+        "type": "p",
+        "text": "IMUGA is the Maldives Immigration portal at imuga.immigration.gov.mv. Every foreigner arriving in the Maldives must submit a Traveller Declaration there within 96 hours (four days) before arrival. Each traveller, including children and infants, needs an individual declaration. Submission is free."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fill it after you have your flight and hotel confirmed.** The form asks for your travel and stay details, so do it once your bookings are final.",
+          "**Do not file too early.** A declaration made more than 96 hours before arrival is outside the window.",
+          "**Use only the official portal.** Lookalike websites charge a fee for a form that is free.",
+          "**Keep the confirmation.** Save it on your phone and carry a printout for the immigration counter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Departing travellers no longer need to file a declaration. Maldives Immigration dropped the departure form for outbound travellers from 15 August 2024. The IMUGA home page still mentions a form within 96 hours of arrival or departure, so if your airline asks for one, follow its instructions."
+      },
+      {
+        "type": "h2",
+        "text": "Taxes and fees you will pay in 2026"
+      },
+      {
+        "type": "h3",
+        "text": "Green tax"
+      },
+      {
+        "type": "p",
+        "text": "Since 1 January 2025, resorts, resort hotels, tourist vessels and larger properties charge USD 12 per person per night. Hotels and guesthouses on inhabited islands with 50 or fewer rooms charge USD 6 per person per night. Children under two are exempt. For a couple spending five nights at a resort, that is USD 120. At a small guesthouse it is USD 60."
+      },
+      {
+        "type": "h3",
+        "text": "Tourism GST"
+      },
+      {
+        "type": "p",
+        "text": "Tourism goods and services tax (TGST) rose from 16% to 17% on 1 July 2025. It applies to resort, hotel and guesthouse bills, meals and activities. Check whether your quote includes it, especially for extras such as spa treatments and excursions."
+      },
+      {
+        "type": "h3",
+        "text": "Departure tax and airport development fee"
+      },
+      {
+        "type": "p",
+        "text": "From 1 December 2024, foreigners pay a USD 50 departure tax in economy, USD 120 in business, USD 240 in first class and USD 480 on private jets. An airport development fee of the same amount is charged on top. These are normally collected through your air ticket, so check the tax breakdown on your fare rather than expecting a counter at the airport."
+      },
+      {
+        "type": "h3",
+        "text": "Tax on overseas booking platforms"
+      },
+      {
+        "type": "p",
+        "text": "From 1 October 2026, the Maldives extended its 17% TGST to overseas booking platforms and foreign tour operators. In late October 2026 a bill to reverse this was before Parliament. This mainly affects how agents price packages. When you compare quotes, ask whether the price includes all taxes and the green tax."
+      },
+      {
+        "type": "h2",
+        "text": "Local islands or resorts?"
+      },
+      {
+        "type": "p",
+        "text": "Both work with the same visa on arrival. The choice changes your budget, your transfers and the rules you live by."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Resorts:** Usually one resort per island, private beaches, alcohol served, and transfers by speedboat, seaplane or domestic flight arranged by the resort. Green tax is USD 12 per night. Best for honeymooners who want privacy and convenience.",
+          "**Local islands:** Guesthouses on inhabited islands such as those near Male, usually cheaper, with public ferries or speedboats. Green tax is USD 6 per night at smaller properties. Alcohol is not sold on inhabited islands, and you should dress modestly outside designated bikini beaches.",
+          "**Mix and match:** Many travellers spend a few nights on a local island and finish with two or three nights at a resort. Carry paid confirmations for every property you will stay at."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2025 and 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**1 January 2025:** Green tax doubled to USD 12 and USD 6.",
+          "**15 April 2025:** Entry stopped for Israeli passports. This does not affect Indian travellers.",
+          "**1 July 2025:** TGST rose to 17%.",
+          "**26 July 2025:** The new passenger terminal at Velana International Airport began opening in phases.",
+          "**23 April 2026:** Visa extensions on IMUGA were simplified, with processing expected within 48 hours.",
+          "**1 October 2026:** 17% TGST extended to overseas booking platforms, with a reversal bill pending."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Tips for honeymooners and families"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Match transfers to your flight.** Seaplanes fly only in daylight. If you land late, your resort may put you on a speedboat or a domestic flight, or you may need a night near Male.",
+          "**One IMUGA form per person.** Parents often file one for themselves and forget the children. Each child needs their own declaration and their own passport.",
+          "**Budget for the green tax.** A family of four on a seven-night resort stay pays up to USD 336 in green tax, less if a child is under two.",
+          "**Pack with customs in mind.** Do not carry alcohol, pork products, pornography or idols meant for worship. These are on the Maldives prohibited list.",
+          "**Buy travel insurance.** Resort clinics and medical evacuation by seaplane or speedboat are expensive.",
+          "**Carry US dollars in small notes.** They are handy for tips and local island purchases."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes that delay entry"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Booking a property that is not registered for tourists, or one you plan to pay at check-in.",
+          "Filing IMUGA a week early, outside the 96-hour window.",
+          "Travelling on a one-way ticket and planning to book the return later.",
+          "Assuming the Indian business visa-free rule gives tourists 90 days."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who the Maldives suits"
+      },
+      {
+        "type": "p",
+        "text": "It suits couples, families who want a short flight from India, and divers or snorkellers. It is less suited to travellers on a tight budget who want nightlife and lots of sightseeing. In that case a local island stay, or a destination like Sri Lanka or Thailand, may give you more for your money."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys plans holiday packages with hotels and private transfers, and we can check your documents and entry rules before you fly, including your IMUGA timing, booking proof and return ticket. Message us on WhatsApp at +91 82009 18967 with your dates and budget. If you are combining the Maldives with another country, we also file visas for destinations such as Singapore, Thailand and the UAE."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "We checked these rules on 28 October 2026 against Maldives Immigration, the IMUGA portal, the President's Office, Visit Maldives and the other sources listed below. Rules and taxes can change at short notice, so check the official site before you travel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Maldives Immigration: Tourist Visa (updated 10 September 2026)",
+        "url": "https://immigration.gov.mv/visa/tourist-visa"
+      },
+      {
+        "label": "Maldives Immigration: IMUGA portal",
+        "url": "https://imuga.immigration.gov.mv/"
+      },
+      {
+        "label": "Maldives Immigration: Tourist Visa Extension Process Simplified Under Maldives 2.0 Initiative",
+        "url": "https://immigration.gov.mv/news/8510"
+      },
+      {
+        "label": "Visit Maldives (corporate): Maldives streamlines departure process for outbound travellers",
+        "url": "https://corporate.visitmaldives.com/news/maldives-streamlines-departure-process-for-outbound-travellers/"
+      },
+      {
+        "label": "Maldives Mission: Tourist Visa",
+        "url": "https://2026.mdvmission.gov.mv/ae/articles/tourist-visa-16"
+      },
+      {
+        "label": "US Department of State: Maldives travel information",
+        "url": "https://travel.state.gov/en/international-travel/travel-advisories/maldives.html"
+      },
+      {
+        "label": "President's Office Maldives: Second amendment to the Airport Taxes and Fees Act ratified",
+        "url": "https://presidency.gov.mv/Press/Article/32200"
+      },
+      {
+        "label": "MIRA: Circular on changes to Green Tax rates from 1 January 2025",
+        "url": "https://www.mira.gov.mv/ContentItems/View/circular-re-changes-to-grt-rates-on-20250101-news"
+      },
+      {
+        "label": "MIRA: Circular on changes to TGST rate",
+        "url": "https://www.mira.gov.mv/ContentItems/View/circular-issued-changes-to-tgst-rate"
+      },
+      {
+        "label": "KPMG: Maldives amendments to GST, Tourism Act and airport fees ratified",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2024/11/tnf-maldives-amendments-gst-tourism-act-airport-fees-ratified.html"
+      },
+      {
+        "label": "Maldives Financial Review: Maldives reciprocates on visa arrangements with India",
+        "url": "https://mfr.mv/public-sector/maldives-reciprocates-on-visa-arrangements-with-india"
+      },
+      {
+        "label": "TTG Asia: New terminal at Velana International Airport",
+        "url": "https://www.ttgasia.com/2025/07/30/maldives-expands-tourism-capacity-with-new-terminal-at-velana-international-airport/"
+      },
+      {
+        "label": "Edition.mv: Section of Velana International Airport's new terminal to open on July 26",
+        "url": "https://edition.mv/business/41504"
+      },
+      {
+        "label": "Atoll Times: Parliament accepts bill to reverse 17% GST on travel agents",
+        "url": "https://atolltimes.mv/post/business/17526"
+      },
+      {
+        "label": "Edition.mv: Bill passed to tax foreign booking platforms and travel agencies",
+        "url": "https://edition.mv/news/53834"
+      },
+      {
+        "label": "Maldives High Commission London: Customs information (prohibited items)",
+        "url": "https://www.maldiveshighcommission.uk/index.php/maldives/customs-information"
+      }
+    ]
+  },
+  {
+    "slug": "mauritius-visa-for-indians-2026",
+    "title": "Mauritius Visa for Indians 2026: Visa-Free Entry Rules",
+    "metaTitle": "Mauritius Visa for Indians 2026: Entry Rules | Travlys",
+    "metaDescription": "Indians need no visa for a Mauritius holiday in 2026. Carry a return ticket, hotel booking and funds, fill the free travel form and budget for the €3 fee.",
+    "excerpt": "Indian passport holders can holiday in Mauritius without a visa. The immigration officer sets your stay on arrival, and since October 2025 hotels collect a €3 per night tourist fee.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 7,
+    "category": "Country guides",
+    "tags": [
+      "Mauritius",
+      "Visa-free",
+      "Indian passport",
+      "Tourist fee",
+      "All-in-One Travel Form",
+      "Honeymoon"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=1600&h=900&fit=crop",
+    "related": [
+      "maldives-visa-on-arrival-for-indians-2026",
+      "visa-free-countries-for-indians-2026",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Mauritius in 2026?",
+        "a": "No. The Mauritius Passport and Immigration Office lists India as 'No visa required', so Indian tourists do not apply before travel. At the airport you must show a passport valid beyond your stay, a return ticket, a confirmed hotel booking or sponsorship, and enough money for your stay. The immigration officer decides whether to admit you and for how long."
+      },
+      {
+        "q": "How many days can Indians stay in Mauritius without a visa?",
+        "a": "The immigration officer sets your stay on arrival and stamps it in your passport. The official rule caps tourist stays at six months in a calendar year, granted case by case. Many travel guides say Indians are usually given up to 60 days, and a few say 90 days, but no official page fixes a number for Indians. Plan your return within the date stamped in your passport."
+      },
+      {
+        "q": "Is the Mauritius All-in-One Travel Form mandatory?",
+        "a": "Officially it is recommended, not mandatory. Airports of Mauritius and the Mauritius tourism board say travellers should fill it before travel on safemauritius.govmu.org. If you skip it, you fill a paper disembarkation card on arrival. Air Mauritius has described it as required before boarding, so fill it anyway. It is free and gives you a PDF with a QR code to print."
+      },
+      {
+        "q": "What is the Mauritius tourist fee?",
+        "a": "It is €3 per person per night, charged since 1 October 2025 to tourists aged 12 and above staying in hotels, guesthouses, tourist residences and domaines on the island of Mauritius. Your accommodation collects it and pays it to the Mauritius Revenue Authority. Children under 12 are exempt, and the fee does not currently apply in Rodrigues."
+      },
+      {
+        "q": "Can I extend my stay in Mauritius?",
+        "a": "Yes. You apply in person at the Passport and Immigration Office in Port Louis before your permitted stay ends. Extensions are free. You need the signed application form, copies of your passport bio page and arrival stamp, a ticket reservation, three months of bank statements and a confirmed accommodation booking. Tourist stays cannot go beyond six months in a calendar year."
+      },
+      {
+        "q": "Will Mauritius bring in an e-visa or ETA?",
+        "a": "It has been proposed but is not in force. The Mauritius Budget 2026-27, presented in June 2026, proposed a digital e-visa system, described in the budget annex as an electronic travel authorisation, for all non-citizens to apply before travel. Reports say a fee will be set. As of 28 October 2026 no start date or fee has been announced, so Indian tourists still enter without pre-approval."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders do not need a visa to visit Mauritius as tourists. The Passport and Immigration Office lists India under 'No visa required', and the immigration officer at the airport decides how long you can stay. You need a passport valid beyond your stay, a return ticket, a confirmed hotel booking and enough money, and your hotel will add a tourist fee of €3 per person per night."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa for Indians:** Not required for tourism. **Visa fee:** None. **Length of stay:** Set by the immigration officer on arrival; tourist stays are capped at six months in a calendar year. **Must carry:** Passport valid beyond your stay, return ticket, confirmed hotel booking or sponsorship, adequate funds. **Online form:** Mauritius All-in-One Travel Digital Form, free, recommended. **Tourist fee:** €3 per person per night for ages 12 and above, since 1 October 2025. **Extensions:** Free, in person in Port Louis. **e-Visa or ETA:** Proposed in Budget 2026-27, not yet in force."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for Mauritius?"
+      },
+      {
+        "type": "p",
+        "text": "No. The country-wise visa list published by the Mauritius Passport and Immigration Office marks India as 'No visa required'. You do not apply online or at a consulate before a holiday. Entry is still not automatic: the immigration officer at Sir Seewoosagur Ramgoolam International Airport checks your documents and decides whether to admit you."
+      },
+      {
+        "type": "p",
+        "text": "This only covers tourism. Business visitors, people going for religious or social events with a sponsor, and anyone planning to work need to follow different rules. Working in Mauritius without a residence permit is not allowed."
+      },
+      {
+        "type": "h2",
+        "text": "How long can you stay?"
+      },
+      {
+        "type": "p",
+        "text": "This is where most websites disagree. The official position is that the immigration officer decides how long each person can stay, and that a tourist can be given a maximum of six months in a calendar year, case by case. No official page fixes a number for Indians."
+      },
+      {
+        "type": "p",
+        "text": "Many travel guides and insurers say Indians are usually allowed up to 60 days, and a few say 90 days. For a normal one- or two-week holiday this does not matter. If you plan a long stay, ask for your full period at the counter, show bookings that cover it, and check the date stamped in your passport before you leave the airport."
+      },
+      {
+        "type": "h2",
+        "text": "Entry conditions at the airport"
+      },
+      {
+        "type": "p",
+        "text": "The Passport and Immigration Office says every person entering Mauritius must:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport:** Hold a passport valid beyond the intended stay. We suggest at least six months, as airlines often check this at boarding.",
+          "**Return ticket:** Hold a valid return ticket to their country of origin or residence.",
+          "**Right to return:** Be eligible to re-enter their home country.",
+          "**Funds:** Have adequate funds for the stay. No fixed amount is published, so carry an international card and recent bank statements.",
+          "**Accommodation:** Have a confirmed hotel booking, or sponsorship for accommodation.",
+          "**No work:** Not take up any paid activity without a valid residence permit."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The All-in-One Travel Digital Form"
+      },
+      {
+        "type": "p",
+        "text": "Mauritius uses one online form that covers immigration, customs and health details. The official portal is safemauritius.govmu.org, and the form is free. When you submit it, it creates a PDF with a QR code. Print it and carry it with your passport."
+      },
+      {
+        "type": "p",
+        "text": "Airports of Mauritius and the Mauritius Tourism Promotion Authority describe the form as recommended before travel. If you do not fill it, you complete a paper immigration disembarkation card on arrival, which takes longer. Air Mauritius has described it as mandatory before boarding, so the safe move is to fill it before you fly. Ignore websites that charge to submit it. The Mauritian authorities say paid third-party services are not endorsed."
+      },
+      {
+        "type": "h2",
+        "text": "Tourist fee: €3 per night since October 2025"
+      },
+      {
+        "type": "p",
+        "text": "From 1 October 2025, every tourist aged 12 and above pays €3 per night when staying in a tourist accommodation on the island of Mauritius. That covers hotels, guesthouses, tourist residences and domaines. The property collects the fee and pays it to the Mauritius Revenue Authority, so you pay it with your hotel bill or at checkout."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Couple, 7 nights:** 2 x 7 x €3 = €42.",
+          "**Family of four with two children under 12, 7 nights:** 2 x 7 x €3 = €42, as children under 12 are exempt.",
+          "**Not charged:** Children under 12, guests staying free of charge, residents, Mauritian passport holders living abroad, and holders of a Premium Visa or residence permit.",
+          "**Rodrigues:** The fee does not currently apply there."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Airport and departure charges for Mauritius are normally built into your air fare. Check the tax lines on your ticket if you want the exact amount."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2025 and 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**1 October 2025:** The €3 per night tourist fee started, collected by accommodation providers for the Mauritius Revenue Authority.",
+          "**March 2026:** The Mauritius Revenue Authority updated its tourist fee guide. The rate and exemptions stayed the same.",
+          "**June 2026:** The Budget 2026-27 proposed a digital e-visa or electronic travel authorisation for all non-citizens to apply before travel, along with biometric e-gates at the airport. It needs a change to the Immigration Act and was not in force on 28 October 2026. Reports suggest 2027.",
+          "**No change for Indians:** India remains on the 'No visa required' list, and visas and extensions are still issued free."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Extending your stay"
+      },
+      {
+        "type": "p",
+        "text": "If you want to stay longer than the period stamped on arrival, apply in person at the Passport and Immigration Office, Sterling House, Lislet Geoffroy Street, Port Louis, before your stay ends. There is no fee. Take the signed visa extension form, copies of your passport bio page and arrival stamp, a ticket reservation, three months of bank statements and a confirmed accommodation booking. If someone in Mauritius is hosting you, they must give a sponsorship letter and supporting documents. Overstaying is an offence and can lead to prosecution."
+      },
+      {
+        "type": "h2",
+        "text": "Practical tips for Indian travellers"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Carry printouts.** Keep your return ticket, hotel vouchers, travel form PDF and bank statements in one folder. Officers can ask for any of them.",
+          "**Book registered stays.** The rule asks for a confirmed hotel booking. A licensed hotel, guesthouse or villa makes the counter check simple.",
+          "**Honeymooners:** Many hotels offer couple packages, so mention it when you book. Spread your stay between the north and the south-west coast if you have a week or more.",
+          "**Families:** Children under 12 pay no tourist fee, but each child still needs their own passport and is included in the travel form.",
+          "**Insurance:** Mauritius does not ask for it at entry, but private treatment abroad can be expensive. Buy a policy that covers your full stay.",
+          "**Rodrigues:** A domestic trip to Rodrigues has no tourist fee at present. Check flight and ferry schedules early."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Flying on a one-way ticket, or with a return date that does not match your hotel bookings.",
+          "Paying a third-party site for the free All-in-One Travel Form.",
+          "Assuming everyone automatically gets 90 days without checking the stamp.",
+          "Taking up freelance or paid work on a tourist entry."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who Mauritius suits"
+      },
+      {
+        "type": "p",
+        "text": "Mauritius suits couples, families and older travellers who want beaches, varied sightseeing and an easy entry process. It is a longer and usually costlier trip than Thailand or Sri Lanka, so budget travellers may get more days for the same money elsewhere. If you want island resorts with fewer rules on dress and alcohol than the Maldives' local islands, it is a good fit."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys plans holiday packages with hotels and private transfers, and we can check your documents and entry rules before you fly, including your return ticket, hotel proof and travel form. Message us on WhatsApp at +91 82009 18967 with your dates. If you are adding a stop in Dubai or Singapore, we also file UAE and Singapore visas."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "We checked these rules on 28 October 2026 against the Mauritius Passport and Immigration Office, the Mauritius Revenue Authority, Airports of Mauritius, the Mauritius tourism board and the other sources listed below. Rules can change at short notice, so check the official site before you travel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Passport and Immigration Office Mauritius: Visa Requirements",
+        "url": "https://passport.govmu.org/passport/?page_id=605"
+      },
+      {
+        "label": "Passport and Immigration Office Mauritius: Visa Requirement Country-wise (PDF)",
+        "url": "https://passport.govmu.org/passport/wp-content/uploads/2021/03/Visa-Requirement-Country-2025.pdf"
+      },
+      {
+        "label": "Passport and Immigration Office Mauritius: Travel Requirements",
+        "url": "https://passport.govmu.org/passport/?page_id=587"
+      },
+      {
+        "label": "Passport and Immigration Office Mauritius: Extension of Visa",
+        "url": "https://passport.govmu.org/passport/?page_id=593"
+      },
+      {
+        "label": "Government of Mauritius: Mauritius All-in-One Travel Digital Form",
+        "url": "https://safemauritius.govmu.org/"
+      },
+      {
+        "label": "Airports of Mauritius: Passenger All in One Form",
+        "url": "https://aml.mru.aero/index.php/all-in-one-form"
+      },
+      {
+        "label": "Mauritius Tourism Promotion Authority (mauritiusnow.com): Travel advice",
+        "url": "https://mauritiusnow.com/mauritius-travel-advice/"
+      },
+      {
+        "label": "Mauritius Revenue Authority: Notice to Tourists, Tourist Fee (6 October 2025)",
+        "url": "https://www.mra.mu/download/NoticeTourists061025.pdf"
+      },
+      {
+        "label": "Mauritius Revenue Authority: Guide on Tourist Fee (March 2026)",
+        "url": "https://www.mra.mu/download/GuideTouristFee.pdf"
+      },
+      {
+        "label": "Air Mauritius on X: All-in-One Travel Form notice",
+        "url": "https://x.com/airmauritius/status/2065412854509932990"
+      },
+      {
+        "label": "EY: Mauritius Budget 2026-27 synopsis",
+        "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-mu/documents/ey-mauritius-budget-2026-27-synopsis.pdf"
+      },
+      {
+        "label": "Tourism Update: Mauritius moves towards e-visas",
+        "url": "https://www.tourismupdate.com/article/mauritius-moves-towards-e-visas"
+      }
+    ]
+  },
+  {
+    "slug": "bhutan-permit-for-indians-2026",
+    "title": "Bhutan Permit for Indians 2026: Documents, SDF and Rules",
+    "metaTitle": "Bhutan Permit for Indians 2026: SDF & Documents | Travlys",
+    "metaDescription": "Indians need no visa for Bhutan, only an entry permit with a passport or voter ID. SDF is Rs 1,200 a night, Rs 600 for kids 6-11, free under 6. 2026 rules.",
+    "excerpt": "Indians do not need a visa for Bhutan, but you do need an entry permit, a valid passport or voter ID, and a Sustainable Development Fee of Rs 1,200 per night. Here is how the permit, the fee, guides and the border-town waiver work in 2026.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 7,
+    "category": "Country guides",
+    "tags": [
+      "Bhutan",
+      "Entry permit",
+      "SDF",
+      "Visa-free for Indians",
+      "Phuentsholing",
+      "Paro",
+      "Road trips"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1578556881786-851d4b79cb73?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-free-countries-for-indians-2026",
+      "sri-lanka-eta-for-indians-2026",
+      "indian-e-passport-2026-how-to-apply"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Bhutan in 2026?",
+        "a": "No, Indians do not need a visa for Bhutan, but you must get an entry permit. You can apply online through the Department of Immigration portal before you travel, or at the point of entry such as Phuentsholing or Paro airport. You need a valid Indian passport or an original voter ID card, a passport-size photo, and you pay the Sustainable Development Fee when the permit is processed."
+      },
+      {
+        "q": "What is the SDF for Indians in Bhutan?",
+        "a": "The Sustainable Development Fee for Indian nationals is Nu 1,200 (or the same amount in Indian rupees) per person per night. Children aged 6 to under 12 pay Nu 600 per night, and children under 6 pay nothing. The fee is paid when your permit is processed, online or in person. The USD 100 rate for other nationalities does not apply to Indians."
+      },
+      {
+        "q": "Can I enter Bhutan with an Aadhaar card?",
+        "a": "No, Aadhaar is not on the list of accepted documents. Bhutan accepts only an Indian passport with at least six months of validity or an original voter ID card issued by the Election Commission of India. Children under 18 without a passport can use their original birth certificate and must travel with a parent or legal guardian. Carry the original, not a photocopy or a phone scan."
+      },
+      {
+        "q": "Do Indian tourists need a guide in Bhutan?",
+        "a": "Yes, for almost all travel inside Bhutan you need a licensed guide. The Department of Tourism said in an April 2026 notification that all tourists must be accompanied by a licensed guide at all times, including on the Paro to Thimphu drive from the airport. The only exception under the Tourism Rules and Regulations 2024 is travel up to the first designated checkpoint, which covers the border towns."
+      },
+      {
+        "q": "Is the SDF waived if I only visit Phuentsholing for a day?",
+        "a": "Yes, tourists who visit Phuentsholing, Samtse, Gelephu or Samdrup Jongkhar for up to 24 hours do not pay the SDF, under a waiver that began on 2 June 2026 and runs until August 2027. You must stay within the designated zone. In Phuentsholing the full fee applies once you go beyond the Rinchending checkpoint, and in Samtse beyond Gurung Basti."
+      },
+      {
+        "q": "Can I get the Bhutan permit online?",
+        "a": "Yes, the Department of Tourism says you can apply for the permit online through the Department of Immigration portal at immi.gov.bt before you travel. A tour operator or your hotel can also apply on your behalf. You can still apply on arrival, but the Department of Tourism warns that there may be a long wait at busy times, so applying in advance is the safer choice."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indians do not need a visa for Bhutan, but you do need an entry permit. You get it online through Bhutan's Department of Immigration before you travel, or on arrival at Paro airport or a land border office such as Phuentsholing, using a valid Indian passport or an original voter ID card. You also pay a Sustainable Development Fee (SDF) of Nu 1,200, which equals Rs 1,200, per person per night."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** Not needed for Indian nationals. **Permit:** Entry permit required, online or at the point of entry. **Documents:** Indian passport (six months' validity) or original voter ID; birth certificate for minors without a passport. **SDF:** Rs 1,200 per adult per night; Rs 600 for ages 6 to under 12; free under 6. **Border-town waiver:** No SDF for up to 24 hours in Phuentsholing, Samtse, Gelephu and Samdrup Jongkhar, from 2 June 2026 to August 2027. **Guide:** Licensed guide mandatory beyond the first checkpoint. **Entry points:** Paro and Gelephu airports; Phuentsholing, Gelephu, Samdrup Jongkhar and Samtse by road."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for Bhutan?"
+      },
+      {
+        "type": "p",
+        "text": "No. Indian nationals do not need a visa for Bhutan, but you cannot simply walk in either. You need an entry permit, which is issued against your passport or voter ID once you pay the SDF for the nights you plan to stay."
+      },
+      {
+        "type": "h2",
+        "text": "Documents Bhutan accepts from Indians"
+      },
+      {
+        "type": "p",
+        "text": "The Embassy of India in Thimphu lists two accepted travel documents for Indian nationals. Carry one of them, in original:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Indian passport** with at least six months of validity left.",
+          "**Voter ID card** (EPIC) issued by the Election Commission of India.",
+          "**Children under 18** without a passport can use their original birth certificate, and must travel with a parent or legal guardian.",
+          "**Recent passport-size photographs.** Keep two or three handy for the permit and any later permits or extensions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Aadhaar, PAN cards and driving licences are not accepted as travel documents. A common mistake is to bring a laminated photocopy of a voter ID or a DigiLocker copy. Bring the physical original."
+      },
+      {
+        "type": "h2",
+        "text": "The SDF for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "According to the Department of Tourism, the SDF for Indian nationals showing a valid Indian passport or voter ID is **Nu 1,200 per person per night**, payable in ngultrum or the equivalent in Indian rupees. The ngultrum is pegged to the rupee, so the amount is the same."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults and children 12 and above:** Rs 1,200 per night.",
+          "**Children aged 6 to under 12:** Rs 600 per night.",
+          "**Children under 6:** no SDF."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We found no change to the Indian rate in 2024, 2025 or 2026. The 50% discount that brought the fee down to USD 100 a night runs until 31 August 2027, but it applies only to tourists who pay in US dollars, not to Indians. A family of two adults and one 8-year-old on a five-night trip pays (1,200 + 1,200 + 600) x 5 = **Rs 15,000** in SDF, before hotels, guide and transport."
+      },
+      {
+        "type": "h3",
+        "text": "The border-town SDF waiver"
+      },
+      {
+        "type": "p",
+        "text": "From **2 June 2026 until August 2027**, tourists visiting Phuentsholing, Samtse, Gelephu or Samdrup Jongkhar for up to 24 hours do not pay the SDF, according to the Department of Tourism. You must stay inside the designated zone. In Phuentsholing the fee applies once you go beyond the Rinchending checkpoint, and in Samtse beyond Gurung Basti. For Gelephu and Samdrup Jongkhar, the Department lists Aipoli Bridge and the Pinchinna checkpoint as zone limits. Ask the immigration office to confirm the exact boundary on the day. The waiver cannot be combined with other SDF incentives."
+      },
+      {
+        "type": "h2",
+        "text": "Where to get the entry permit"
+      },
+      {
+        "type": "h3",
+        "text": "Online, before you travel"
+      },
+      {
+        "type": "p",
+        "text": "The Department of Tourism says Indian visitors can apply online through the Department of Immigration portal (immi.gov.bt). A tour operator or hotel can also apply for you. The SDF is paid when the permit is processed, and no other permit fee is payable in advance. Applying online saves time at the border, especially in peak months."
+      },
+      {
+        "type": "h3",
+        "text": "By road"
+      },
+      {
+        "type": "p",
+        "text": "Most Indians enter at **Phuentsholing**, opposite Jaigaon in West Bengal, where the Regional Immigration Office issues permits. The Embassy of India also lists regional immigration offices at **Gelephu** and **Samdrup Jongkhar** (both on the Assam border) and **Samtse**. Visitor information centres operate at the four land entry points. If you apply on arrival, the Department of Tourism warns of long waits at busy times."
+      },
+      {
+        "type": "h3",
+        "text": "By air"
+      },
+      {
+        "type": "p",
+        "text": "If you fly in, the permit is issued at **Paro International Airport**. The Department of Tourism lists flights from Delhi, Kolkata, Bagdogra, Bodhgaya and Guwahati. **Gelephu** now also has an international airport, and Drukair began a Gelephu-Kolkata service in December 2025, as reported by Daily Bhutan. Flights there are few, so check Drukair's current schedule and confirm with immigration that your permit can be processed on arrival there."
+      },
+      {
+        "type": "h2",
+        "text": "Travelling beyond Thimphu and Paro"
+      },
+      {
+        "type": "p",
+        "text": "The standard entry permit is for Thimphu and Paro. Going further, to Punakha, Phobjikha, Bumthang or Haa, needs more planning, and official sources word this differently:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The **Embassy of India** in Thimphu says tourists going beyond Thimphu and Paro need a special area permit from the Immigration Office in Thimphu, on working days (Monday to Friday). It names Punakha, Wangdiphodrang and Bumthang.",
+          "The **Department of Tourism** says route permits for tourists were lifted in March 2023 for tourists travelling with a Department-certified guide. Route permits still apply for business and official visits. National Park permits are still needed and can be applied for online."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In practice, if you travel with a licensed guide through a registered operator, they arrange whatever the checkpoints need. If you plan to go independently beyond Thimphu, confirm with the Department of Immigration first, and do not plan a Friday-evening arrival in Thimphu if you might need an office visit."
+      },
+      {
+        "type": "h3",
+        "text": "The guide rule (April 2026 notice)"
+      },
+      {
+        "type": "p",
+        "text": "On **8 April 2026**, the Department of Tourism issued a notification after seeing \"various interpretations\" of the guide rule. It said all tourists must be accompanied by a licensed guide at all times, including at monument sites and while travelling from Paro International Airport to other districts. Under the Tourism Rules and Regulations 2024, the only exception is travel up to the first designated checkpoint, which in practice means the border towns. Treks need a licensed trekking guide. Budget for a guide on any trip beyond Phuentsholing or Gelephu town."
+      },
+      {
+        "type": "h2",
+        "text": "Practical tips for Indian travellers"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Self-drive is allowed, with a guide.** The Department of Tourism says a valid Indian driving licence is accepted for self-driving within Bhutan, but a guide is still required at all times.",
+          "**Carry rupees carefully.** The Embassy of India says Indian notes up to Rs 500 are allowed. If you carry more than Rs 25,000 in total, the amount above that must be in Rs 100 notes or smaller.",
+          "**Book certified stays only.** On 22 October 2026 the Department of Tourism reminded accommodation providers, including village homestays, that they need official certification before hosting tourists. Ask your hotel or homestay to confirm it is certified.",
+          "**Extensions are in person.** If you want to stay longer, Indian nationals extend at the Department of Immigration and pay in rupees.",
+          "**Travel insurance is optional but wise.** Bhutan dropped mandatory insurance in April 2024. Mountain roads and remote areas still make cover worth having.",
+          "**Keep your permit on you.** You will show it, with your passport or voter ID, at interior checkpoints."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should plan carefully"
+      },
+      {
+        "type": "p",
+        "text": "Bhutan suits families, couples and road-trippers from the east of India, and the short hop from Kolkata, Bagdogra or Guwahati makes it a good long-weekend option. A one-day visit to Phuentsholing now costs nothing in SDF if you stay inside the zone. If you are on a tight budget and want to go deep into central Bhutan, the nightly SDF, mandatory guide and vehicle add up quickly, so price the whole trip before booking. If your only valid document is an Aadhaar card, you cannot enter; apply for a passport or carry your voter ID."
+      },
+      {
+        "type": "p",
+        "text": "Planning more of Asia this winter? Thailand's visa-free stay is now 30 days, Malaysia is visa-free until 31 December 2026 with an MDAC, and Sri Lanka's ETA has been free since 25 May 2026. Our visa-free countries list for Indians covers the rest."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys plans holiday packages with hotels and private transfers, and our team can check your documents and Bhutan's current entry rules before you fly. We do not issue Bhutan permits; you or your operator apply through Bhutan's official portal. Travlys has filed 5,000+ visas with a 98% approval rate for other destinations. Message us on WhatsApp at +91 82009 18967 to plan your trip."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 28 October 2026 against the Department of Tourism Bhutan, the Department of Immigration portal and the Embassy of India in Thimphu, listed below. Bhutan revises tourism rules often, so check the official sites before you travel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Tourism Bhutan: FAQs",
+        "url": "https://bhutan.travel/faqs"
+      },
+      {
+        "label": "Department of Tourism Bhutan: Visa",
+        "url": "https://bhutan.travel/visa"
+      },
+      {
+        "label": "Department of Tourism Bhutan: Announcements",
+        "url": "https://bhutan.travel/announcements"
+      },
+      {
+        "label": "Department of Tourism Bhutan: Notification on mandatory certified and licensed tour guides (8 April 2026)",
+        "url": "https://a.storyblok.com/f/171618/x/d7788a48d0/notification-on-mandatory-tour-guide-requiremement.pdf"
+      },
+      {
+        "label": "Department of Immigration Bhutan: Immigration Services Portal",
+        "url": "https://immi.gov.bt/home/"
+      },
+      {
+        "label": "Embassy of India, Thimphu: Info for Indian nationals entering Bhutan",
+        "url": "https://indembthimphu.gov.in/pages/NDA5"
+      },
+      {
+        "label": "Embassy of India, Thimphu: Travel to Bhutan by Indian nationals",
+        "url": "https://indembthimphu.gov.in/pages/MzE5"
+      },
+      {
+        "label": "Daily Bhutan: Gelephu International Airport welcomes its first international flight",
+        "url": "https://www.dailybhutan.com/article/gelephu-international-airport-welcomes-its-first-international-flight"
+      }
+    ]
+  },
+  {
+    "slug": "hong-kong-visa-for-indians-2026",
+    "title": "Hong Kong Visa for Indians 2026: Free PAR and 14-Day Stay",
+    "metaTitle": "Hong Kong Visa for Indians 2026: PAR Guide | Travlys",
+    "metaDescription": "Indians can visit Hong Kong visa-free for 14 days after a free online Pre-arrival Registration (PAR), valid six months. How to apply, and what if it fails.",
+    "excerpt": "Indian passport holders can visit Hong Kong for up to 14 days without a visa, but only after completing the free online Pre-arrival Registration. Here is how PAR works in 2026, when you need an e-Visa instead, and how Macau and mainland China fit in.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 7,
+    "category": "Country guides",
+    "tags": [
+      "Hong Kong",
+      "Pre-arrival Registration",
+      "PAR",
+      "e-Visa",
+      "Macau",
+      "China",
+      "Visa-free for Indians"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?w=1600&h=900&fit=crop",
+    "related": [
+      "china-visa-for-indians-2026-new-process",
+      "singapore-visa-for-indians-2026",
+      "japan-visa-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Hong Kong in 2026?",
+        "a": "No, Indians can visit Hong Kong for up to 14 days without a visa, but you must first complete the free online Pre-arrival Registration (PAR). Your Indian passport needs at least six months of validity. Print the notification slip on blank A4 paper, sign it, and carry it with the same passport. For stays over 14 days, work or study, you need a visa from the Immigration Department."
+      },
+      {
+        "q": "How much does Hong Kong PAR cost for Indians?",
+        "a": "Hong Kong PAR is free of charge when you apply online on the official GovHK website. The Immigration Department has not appointed any agent or website to handle PAR, so any site charging a fee for the registration itself is not the official service. Some travel agents may charge for filling the form for you, but the government fee is zero."
+      },
+      {
+        "q": "How long is Hong Kong PAR valid?",
+        "a": "A Hong Kong PAR is valid for six months from approval. During that period you can make multiple visa-free visits, staying up to 14 days each time, as long as you use the same passport. You can register again only after the current registration expires. If you renew your passport during those six months, you must apply for a new PAR on the new passport."
+      },
+      {
+        "q": "What should I do if my Hong Kong PAR is unsuccessful?",
+        "a": "If your PAR cannot be completed, you must apply for an entry visa directly to the Hong Kong Immigration Department. Chinese embassies and consulates do not accept visit visa applications from Indian nationals. You can apply online through GovHK. Processing normally takes four weeks after all documents are received, and the visa fee is HK$330, paid after approval."
+      },
+      {
+        "q": "Do I need PAR for a transit in Hong Kong?",
+        "a": "No, you do not need PAR if you stay airside in direct transit by air and do not leave the airport transit area. If you pass through immigration for any reason, even a few hours on a long layover, you need a completed PAR or a visa. Check whether your airline transfers your bags through before assuming you can stay airside."
+      },
+      {
+        "q": "Can I go to Macau and mainland China from Hong Kong?",
+        "a": "You can visit Macau without a visa for up to 30 days, according to the Macao government's visa exemption list, but mainland China needs a Chinese visa. India is not among the countries eligible for China's 240-hour visa-free transit, so get your China visa in India before you leave. Your PAR allows multiple entries, so you can return to Hong Kong after Macau."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders can visit Hong Kong for up to 14 days without a visa, but only after completing the free online Pre-arrival Registration (PAR) with the Hong Kong Immigration Department. A successful registration is valid for six months and covers multiple visits. If your PAR is unsuccessful, or you want to stay longer than 14 days, you need an e-Visa from the Immigration Department instead."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa-free stay:** Up to 14 days per visit, with a successful PAR. **PAR fee:** Free on the official GovHK website. **PAR validity:** Six months, multiple visits. **Processing:** Automatic, result shown instantly. **Passport:** Indian passport valid for at least six months. **Not needed for:** Direct airside transit, valid HKSAR visa holders, e-Channel frequent visitor enrolees, HKSAR Travel Pass holders. **If PAR fails:** Apply to the Immigration Department for an entry visa; normally four weeks; HK$330 fee since 8 September 2025. **Macau:** Visa-free up to 30 days. **Mainland China:** Chinese visa required."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for Hong Kong?"
+      },
+      {
+        "type": "p",
+        "text": "No, not for a short visit. India is on Hong Kong's 14-day visa-free list, but Indian nationals must complete PAR online before they travel. Without a PAR notification slip or a visa, your airline will not let you board."
+      },
+      {
+        "type": "h2",
+        "text": "How Hong Kong PAR works"
+      },
+      {
+        "type": "p",
+        "text": "PAR has been in place for Indian nationals since January 2017. It is a short online form, not a visa application, and there is no interview or document upload. You can use it if you hold an Indian passport valid for at least six months and plan to visit or transit Hong Kong for no more than 14 days."
+      },
+      {
+        "type": "h3",
+        "text": "Step by step"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Go to the official GovHK PAR page**, linked from the Immigration Department's \"Pre-arrival Registration for Indian Nationals\" page at immd.gov.hk. Do not use look-alike sites.",
+          "**Enter your details exactly as they appear in your passport.** A spelling difference, a missing middle name or a wrong passport number makes the registration invalid.",
+          "**Choose and remember your Identification Question answer.** You need it to reprint the slip later, and the Immigration Department cannot reset it.",
+          "**Get the result instantly.** The system processes the registration automatically.",
+          "**Print the notification slip on blank A4 white paper and sign it.** For a child under 16, a parent or legal guardian checks the details and signs.",
+          "**Save a PDF copy** in email or cloud storage in case the printout is lost."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Fee, validity and multiple trips"
+      },
+      {
+        "type": "p",
+        "text": "The online service is **free**. A registration is **valid for six months**, and you can make several visits in that time, staying **up to 14 days** each time. You can register again only after the current registration expires. The Immigration Department has not appointed any agent or website to handle PAR, so ignore sites asking for payment to \"process\" it."
+      },
+      {
+        "type": "h3",
+        "text": "At the airport and on arrival"
+      },
+      {
+        "type": "p",
+        "text": "You must show the signed slip and the same passport you registered with, both at check-in in India and at Hong Kong immigration. If you renew or replace your passport, or your details change, you must register again on the new passport. A PAR slip does not guarantee entry. Officers can still check that you have enough money for your stay, a return or onward ticket, and a genuine purpose of visit. Visitors may not work, set up or join a business, or study."
+      },
+      {
+        "type": "p",
+        "text": "Hong Kong stopped requiring arrival and departure cards for visitors from 16 October 2024, so there is no landing card to fill. You get a landing slip showing your permitted stay; keep it with your passport."
+      },
+      {
+        "type": "h2",
+        "text": "When you do not need PAR"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Direct airside transit:** If you change planes without leaving the airport transit area, no PAR is needed. If you clear immigration, even for a few hours, you need PAR or a visa.",
+          "**Valid HKSAR entry visa** holders.",
+          "**Enrolled e-Channel frequent visitors**, as long as the enrolment and linked passport are valid.",
+          "**HKSAR Travel Pass** holders.",
+          "**Indian diplomatic or official passport** holders, and UN Laissez Passer holders on official UN business.",
+          "**Operating aircrew, seacrew and contract seamen**, subject to normal immigration checks."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "PAR also does not apply if you already have the right of abode, the right to land, unconditional stay, or permission to remain in Hong Kong for work, study or residence."
+      },
+      {
+        "type": "h2",
+        "text": "If your PAR is refused: the e-Visa route"
+      },
+      {
+        "type": "p",
+        "text": "Some registrations cannot be completed. The official guidance notes do not describe any appeal or retry route; they say you must instead apply directly to the Immigration Department for an entry visa. Chinese embassies and consulates in India do not accept Hong Kong visit visa applications from Indian nationals."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**How to apply:** Submit form ID 1003A and supporting documents online through GovHK, or by post to the Immigration Department. A local sponsor in Hong Kong (a company or a resident who knows you) can file form ID 1003B, which the Department says helps processing.",
+          "**Documents:** Photo, passport copy, bank statements or other proof of funds, proof of employment, flight itinerary and your trip plan or tour booking.",
+          "**Processing time:** Normally four weeks after the Department receives all required documents. Apply at least six weeks before travel.",
+          "**Fee:** HK$330 for an ordinary visa, up from HK$230 since 8 September 2025. You pay only after approval, using the payment link in the approval notice.",
+          "**The e-Visa:** Hong Kong has issued visas as e-Visas since December 2021. You download or print it, and the officer scans its QR code on arrival."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You also need a visa, not PAR, for stays longer than 14 days or for work, study or residence."
+      },
+      {
+        "type": "h2",
+        "text": "Macau and mainland China from Hong Kong"
+      },
+      {
+        "type": "p",
+        "text": "**Macau:** India is on the Macao government's visa exemption list, with a stay of up to 30 days. You can reach Macau by ferry or by bus over the Hong Kong-Zhuhai-Macao Bridge. Because PAR allows multiple visits within six months, you can return to Hong Kong after Macau on the same registration, with a fresh stay of up to 14 days."
+      },
+      {
+        "type": "p",
+        "text": "**Mainland China:** You need a Chinese visa to cross into Shenzhen or anywhere else on the mainland. India is not among the 57 countries eligible for China's 240-hour visa-free transit, according to China's National Immigration Administration. Get your China visa in India before you leave. Our guide to the new China visa process (26 October 2026) explains the current steps."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2025 and 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa fees went up on 8 September 2025.** The Immigration Department raised the ordinary visa fee from HK$230 to HK$330, and the transit visa fee from HK$120 to HK$170. PAR stays free.",
+          "**The PAR rules themselves have not changed.** The Immigration Department revised its PAR guidance notes in December 2025, but the core terms (free, 14 days, six months' validity, instant result) are the same as before."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes to avoid"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Registering on one passport and travelling on a renewed one.",
+          "Forgetting the Identification Question answer and being unable to reprint the slip at the airport.",
+          "Assuming a long layover does not need PAR. It does if you leave the transit area.",
+          "Planning a 3-week stay on PAR. Each visit is capped at 14 days.",
+          "Paying a third-party website for the free registration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Combining Hong Kong with Singapore or Thailand? Thailand is visa-free for 30 days, and our Singapore visa guide covers the application. Check our visa-free countries list for Indians and the new international flights for winter 2026 when planning a multi-stop trip."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys plans holiday packages with hotels and private transfers, and our team can check your documents and Hong Kong's current entry rules before you fly. We do not file Hong Kong PAR or e-Visas; PAR is free and you complete it yourself on the official site. For other destinations, Travlys has filed 5,000+ visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 28 October 2026 against the Hong Kong Immigration Department, GovHK, the Macao government and China's National Immigration Administration, listed below. Check immd.gov.hk before you travel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hong Kong Immigration Department: Pre-arrival Registration for Indian Nationals",
+        "url": "https://www.immd.gov.hk/eng/services/visas/pre-arrival_registration_for_indian_nationals.html"
+      },
+      {
+        "label": "Hong Kong Immigration Department: Guidance Notes on Pre-arrival Registration for Indian Nationals, ID(E) 1023",
+        "url": "https://www.immd.gov.hk/pdforms/ID(E)1023.pdf"
+      },
+      {
+        "label": "Hong Kong Immigration Department: Visit Visa / Entry Permit Requirements",
+        "url": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html"
+      },
+      {
+        "label": "Hong Kong Immigration Department: Guidebook for Entry for Visit/Transit, ID(E) 1004",
+        "url": "https://www.immd.gov.hk/pdforms/ID(E)1004.pdf"
+      },
+      {
+        "label": "Hong Kong Immigration Department: e-Visa",
+        "url": "https://www.immd.gov.hk/eng/e-visa.html"
+      },
+      {
+        "label": "Hong Kong Immigration Department: Fee Tables",
+        "url": "https://www.immd.gov.hk/eng/services/fee-tables/"
+      },
+      {
+        "label": "Hong Kong Immigration Department: Immigration Department to revise fees (25 June 2025)",
+        "url": "https://www.immd.gov.hk/eng/press/press-releases/20250625a.html"
+      },
+      {
+        "label": "Hong Kong Immigration Department: Pre-arrival Registration for Indian Nationals to be implemented tomorrow (2017)",
+        "url": "https://www.immd.gov.hk/eng/press/press-releases/20170122.html"
+      },
+      {
+        "label": "GovHK: Immigration Department Review 2024",
+        "url": "https://www.info.gov.hk/gia/general/202501/27/P2025012700467.htm"
+      },
+      {
+        "label": "Macao SAR Government: Immigration, visa exemption",
+        "url": "https://www.gov.mo/en/services/ps-1474/ps-1474b/?noredirect=en_US"
+      },
+      {
+        "label": "National Immigration Administration of China: Visa-Free Transit Policies (20 August 2026)",
+        "url": "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
+      }
+    ]
+  },
+  {
+    "slug": "turkey-visa-for-indians-2026",
+    "title": "Turkey Visa for Indians 2026: e-Visa Rules, Fees, Sticker Visa",
+    "metaTitle": "Turkey Visa for Indians 2026: e-Visa & Sticker | Travlys",
+    "metaDescription": "Indians need a visa for Türkiye. With a valid US, UK, Schengen or Irish visa or permit you can get a one-month e-Visa online. Others need a sticker visa.",
+    "excerpt": "Indian passport holders need a visa for Türkiye. A valid US, UK, Schengen or Irish visa or residence permit gets you a quick e-Visa; everyone else applies for a sticker visa through the authorised visa centre.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "Turkey",
+      "Türkiye e-Visa",
+      "Sticker visa",
+      "Istanbul",
+      "Cappadocia",
+      "Schengen visa holders",
+      "Visa for Indians 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "georgia-visa-for-indians-2026",
+      "airport-transit-visa-for-indians-europe-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Can Indians get a visa on arrival in Turkey?",
+        "a": "No. Türkiye's Ministry of Foreign Affairs says Indian ordinary passport holders need a visa and lists no visa on arrival for them. You either get the e-Visa online at evisa.gov.tr, which needs a valid US, UK, Schengen or Irish visa or residence permit, or you apply for a sticker visa through the authorised visa application centre in India before you travel."
+      },
+      {
+        "q": "Can I get the Turkey e-Visa with a used or unused US visa?",
+        "a": "Yes, both work as long as the visa is valid on the day you enter Türkiye. The Turkish Embassy in New Delhi says previously used or unused visas are accepted if their validity covers your entry date. An expired US, UK or Schengen visa does not qualify. Carry the original visa or permit, because the airline and Turkish immigration check it, not the e-Visa website."
+      },
+      {
+        "q": "How much does the Turkey e-Visa cost for Indians?",
+        "a": "The exact fee is shown on evisa.gov.tr before you pay, and we could not confirm the current figure from an official page. Recent reports put it at roughly US$43 to US$51 including service charges. The Turkish Embassy in New Delhi says the e-Visa costs at least US$85 less than a sticker visa. Pay only on evisa.gov.tr, because look-alike sites charge more."
+      },
+      {
+        "q": "How long can I stay in Turkey on an e-Visa?",
+        "a": "The e-Visa for Indian passport holders is single entry and valid for one month, according to Türkiye's Ministry of Foreign Affairs. It covers tourism and business visits only, not work or study. If you leave Türkiye, you need a new e-Visa to come back. Your passport should be valid for at least six months from your arrival date."
+      },
+      {
+        "q": "Does a UAE or Saudi residence visa make me eligible for the Turkey e-Visa?",
+        "a": "No. Türkiye's foreign ministry lists only Schengen, US, UK and Irish visas or residence permits as supporting documents for Indian passport holders. A residence permit from the UAE, Saudi Arabia or another Gulf country does not qualify on its own. Without one of the four accepted documents, you need a sticker visa from the Turkish mission covering where you live."
+      },
+      {
+        "q": "How long does a Turkey sticker visa take from India?",
+        "a": "No official processing time is published for India. Times vary by city and season, so apply at least four weeks before travel and do not book non-refundable flights until the visa is stamped. Turkish missions in India do not take applications directly; you book through the authorised visa application centre and submit documents and biometrics there."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes, Indians need a visa for Türkiye. If you hold a valid US, UK, Schengen or Irish visa or residence permit, you can get a single-entry e-Visa online at evisa.gov.tr for a visit of up to one month. Everyone else applies for a sticker visa through the authorised visa application centre for the Turkish Embassy in New Delhi or the Consulate General in Mumbai."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa needed:** Yes, for Indian ordinary passports. **e-Visa:** Only with a valid US, UK, Schengen or Irish visa or residence permit. **e-Visa type:** Single entry, valid for one month, tourism or business only. **Apply at:** evisa.gov.tr only. **Visa on arrival:** Not listed for Indians. **Sticker visa:** Through the authorised visa centre; the embassy's fee table lists ₹4,555 for single entry plus a service fee. **Passport:** At least six months' validity from arrival is advised."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for Turkey?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. Türkiye's Ministry of Foreign Affairs says Indian ordinary, special and service passport holders need a visa, while diplomatic passport holders are exempt for up to 90 days. The quickest option is the e-Visa, but it is open to you only if you hold one of four accepted supporting documents."
+      },
+      {
+        "type": "h2",
+        "text": "Who qualifies for the Türkiye e-Visa"
+      },
+      {
+        "type": "p",
+        "text": "You can apply for the e-Visa if you hold a valid visa or residence permit from a Schengen country, the USA, the UK or Ireland. The Turkish Embassy in New Delhi adds some useful detail on how this works in practice."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Used or unused is fine:** A visa you have never used still counts, as long as it is valid on the day you enter Türkiye.",
+          "**Expired does not count:** If your US or Schengen visa ends before your Türkiye entry date, you need a sticker visa.",
+          "**Old passport is fine:** If the supporting visa is in an old passport, register the e-Visa on your current passport and carry both.",
+          "**Carry originals:** The e-Visa website does not check your supporting document. The airline and Turkish immigration do, and the airline can refuse boarding if it does not meet the rules.",
+          "**Other countries' e-visas do not count:** The embassy says e-visas issued by other countries are not accepted as supporting documents."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Check this if your UK visa is digital",
+        "text": "The UK has been moving visa holders to digital eVisas. Because the Turkish embassy says e-visas from other countries are not accepted as supporting documents, confirm with your airline or through the evisa.gov.tr enquiry form before you rely on a UK permission that has no sticker in your passport."
+      },
+      {
+        "type": "h3",
+        "text": "What the application asks you to confirm"
+      },
+      {
+        "type": "p",
+        "text": "When you apply, the portal asks you to confirm certain conditions. Applicant reports say these include a return ticket, a hotel booking and enough money for your stay, often quoted as US$50 a day. We could not read these conditions on an official page, so print your return ticket, hotel booking and a recent bank statement and keep them in your hand luggage."
+      },
+      {
+        "type": "h2",
+        "text": "e-Visa fee, validity and stay"
+      },
+      {
+        "type": "p",
+        "text": "The ministry describes the Indian e-Visa as **single entry and valid for one month**. It covers tourism and business visits only; work and study need a visa from a Turkish embassy or consulate. The fee appears on evisa.gov.tr before payment. We could not confirm the current amount from an official page; recent reports put it between about US$43 and US$51 including service charges. The embassy says the e-Visa costs at least US$85 less than a sticker visa and takes about three minutes to complete."
+      },
+      {
+        "type": "p",
+        "text": "Apply only on evisa.gov.tr. The embassy warns that other websites claiming to sell Turkish e-Visas can charge more than twice the official fee, and that no company is authorised to apply on your behalf in India."
+      },
+      {
+        "type": "h2",
+        "text": "The sticker visa route"
+      },
+      {
+        "type": "p",
+        "text": "If you have no qualifying US, UK, Schengen or Irish document, you need a sticker visa. The Turkish Embassy and consulates do not accept applications directly. The embassy's pages name Gateway as the authorised visa application company, with centres in cities including Delhi, Mumbai and Hyderabad. Some 2026 guides say VFS Global has taken over in India; we could not confirm this on an official Turkish government page, so check the embassy website before you book an appointment."
+      },
+      {
+        "type": "p",
+        "text": "The embassy's fee notice, last updated in January 2022, lists **₹4,555 for a single-entry visa** and **₹14,410 for multiple entry**, plus a service fee of US$50 (regular) or US$75 (VIP) before taxes. Third-party guides quoting the visa centre's 2025 fee chart put the total for a three-month single-entry tourist visa at about ₹17,700. Treat that as a guide only and confirm the amount when you book."
+      },
+      {
+        "type": "h3",
+        "text": "Documents most applicants need"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport valid for at least six months from arrival, with blank pages, plus old passports.",
+          "Completed application form and recent photographs.",
+          "Confirmed return flights and hotel bookings for the whole trip.",
+          "Recent bank statements and income tax returns.",
+          "Employment letter with approved leave, or business or college documents.",
+          "Travel medical insurance for the full trip.",
+          "A short covering letter with your itinerary."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The checklist for your jurisdiction at the visa centre is final, so download it when you book. No official processing time is published for India. Apply at least four weeks before you fly."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in 2025-2026"
+      },
+      {
+        "type": "p",
+        "text": "We found no official change in 2025 or 2026 to the e-Visa rules for Indian passport holders. Two related points are worth knowing."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**COP31 in Antalya:** The UN climate conference runs in Antalya from 9 to 20 November 2026. Registered participants get a free COP31 visa through the e-Visa system, valid 1 to 30 November 2026. It does not cover ordinary tourists or unregistered companions, and Antalya hotels will be busy on those dates.",
+          "**Istanbul transit to Latin America:** Since 15 April 2024, Indian passport holders transiting Istanbul Airport to Mexico, Panama, Colombia or Venezuela need a free electronic airport transit visa (e-ATV) from evisa.gov.tr. Carry a printout."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Practical tips for Istanbul and Cappadocia"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Get the e-Visa early:** It takes minutes, but apply once your flights are fixed and save the PDF on your phone and on paper.",
+          "**Cappadocia balloon flights depend on the weather:** Flights are often cancelled for wind. Keep two or three mornings free so a cancellation does not ruin the trip.",
+          "**Getting to Cappadocia:** The quickest way is to fly from Istanbul to Kayseri or Nevşehir and take a transfer to Göreme or Ürgüp. Night buses are cheaper but cost you a day.",
+          "**Istanbul timing:** The big mosques close to visitors at prayer times. Dress modestly and carry a scarf.",
+          "**Winter trips:** Cappadocia gets snow and cold mornings from December to February. Pack warm layers for balloon dawns."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes to avoid"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Applying on a look-alike website instead of evisa.gov.tr.",
+          "Relying on a US or Schengen visa that expires before your arrival date.",
+          "Assuming a Dubai or other Gulf residence visa qualifies. It does not.",
+          "Using the e-Visa for a second entry after a side trip to Greece or Georgia. It is single entry.",
+          "Booking non-refundable flights before a sticker visa is approved."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should use which route"
+      },
+      {
+        "type": "p",
+        "text": "If you already hold a valid US, UK, Schengen or Irish visa, use the e-Visa and keep the trip under a month. If you are combining Europe and Türkiye, get your Schengen visa first; it can then make you eligible for the e-Visa. If you have none of these documents, plan for a sticker visa and give yourself time."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys plans holiday packages with hotels and private transfers, and can check your documents and entry rules before you fly. Travlys does not file Türkiye visas or e-Visas. If you need a Schengen, UK or US visa for a combined trip, Travlys files those, with service fees starting at ₹2,950 for Schengen through the Netherlands. Travlys has filed over 5,000 visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules were checked on 28 October 2026 against the sources listed below, including Türkiye's Ministry of Foreign Affairs and the Turkish Embassy in New Delhi. Check evisa.gov.tr and the embassy website before you apply, as fees and procedures can change."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Republic of Türkiye Ministry of Foreign Affairs: Visa information for foreigners",
+        "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa"
+      },
+      {
+        "label": "Turkish Embassy in New Delhi: E-visa of the Republic of Türkiye",
+        "url": "https://newdelhi-emb.mfa.gov.tr/Mission/ShowAnnouncement/361514"
+      },
+      {
+        "label": "Turkish Embassy in New Delhi: Consular and visa fees",
+        "url": "https://newdelhi-emb.mfa.gov.tr/Mission/ShowAnnouncement/389903"
+      },
+      {
+        "label": "Turkish Embassy in New Delhi: Visa and consular affairs",
+        "url": "https://newdelhi-emb.mfa.gov.tr/Mission/ShowAnnouncement/359720"
+      },
+      {
+        "label": "Turkish Embassy in New Delhi: Notice on Indian passengers transiting Istanbul Airport",
+        "url": "https://newdelhi-emb.mfa.gov.tr/Mission/ShowAnnouncement/409495"
+      },
+      {
+        "label": "Republic of Türkiye: Official e-Visa application system",
+        "url": "https://www.evisa.gov.tr/en/"
+      },
+      {
+        "label": "UNFCCC: COP31 visa arrangements FAQ",
+        "url": "https://unfccc.int/sites/default/files/resource/Frequently_Asked_Questions_related_to_COP31_Visa_Arrangements.pdf"
+      },
+      {
+        "label": "UNFCCC: UN Climate Change Conference, Antalya, November 2026",
+        "url": "https://unfccc.int/cop31"
+      }
+    ]
+  },
+  {
+    "slug": "saudi-arabia-visa-for-indians-2026",
+    "title": "Saudi Arabia Visa for Indians 2026: eVisa, Package Visa, Umrah",
+    "metaTitle": "Saudi Visa for Indians 2026: eVisa & Umrah | Travlys",
+    "metaDescription": "Indians need a Saudi visa. A used US, UK or Schengen visa gets you an eVisa or visa on arrival; others can use the new Package Visa or apply via the embassy.",
+    "excerpt": "Indians can get a Saudi eVisa or visa on arrival only with a used US, UK or Schengen visa, UK, US or EU permanent residency, or GCC residency. In 2026 a new Package Visa opened another route, and Umrah now has a one-year multiple-entry visa.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "Saudi Arabia",
+      "Saudi eVisa",
+      "Package Visa",
+      "Umrah",
+      "Nusuk",
+      "Riyadh Season",
+      "Visa for Indians 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6?w=1600&h=900&fit=crop",
+    "related": [
+      "uae-visa-on-arrival-for-indians-2026",
+      "dubai-shopping-festival-2026-27-visa-from-india",
+      "schengen-visa-documents-checklist-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Can Indians get a visa on arrival in Saudi Arabia?",
+        "a": "Yes, but only if you hold a US, UK or Schengen tourist or business visa that has been used at least once and carries an entry stamp, or a permanent residence permit from the UK, US or an EU country. Visit Saudi lists the visa on arrival price as SAR 395, with medical insurance included. Indians without these documents cannot get a visa on arrival."
+      },
+      {
+        "q": "Can I do Umrah on a Saudi tourist visa?",
+        "a": "Yes. Visit Saudi says any type of visa allows travellers to perform Umrah, excluding Hajj. You must book your Umrah permit through the Nusuk platform or app before you go to the Grand Mosque. Permits are restricted around the Hajj season, so check permit availability on Nusuk before you fix your dates."
+      },
+      {
+        "q": "What is the Saudi Package Visa for Indians?",
+        "a": "It is a tourist eVisa issued when you buy a travel package with flights and a 4-star or higher hotel from a provider approved by Saudi Arabia's Ministry of Tourism. It is open to Indian passport holders without a US, UK or Schengen visa. The visa fee is SAR 402.21 including insurance, it is single entry, and the package must be worth at least SAR 4,000 per adult."
+      },
+      {
+        "q": "How much does the Saudi eVisa cost for Indians?",
+        "a": "For Indians who qualify through a US, UK or Schengen visa or GCC residency, Visit Saudi lists the eVisa fee as SAR 339.44, about US$90.50, with medical insurance charged separately. The visa on arrival costs SAR 395 with insurance included. The Package Visa costs SAR 402.21 including insurance, on top of the package price."
+      },
+      {
+        "q": "Does my Schengen visa need to be used for the Saudi eVisa?",
+        "a": "For a first visit, yes in practice. Visit Saudi says your US, UK or Schengen visa must be a valid tourist or business visa with an entry stamp from the issuing country, and digital entry stamps are not accepted. Since the EU's Entry/Exit System replaced passport stamps in 2026, check before you rely on a Schengen entry recorded only digitally."
+      },
+      {
+        "q": "What is the new multiple-entry Umrah visa?",
+        "a": "Saudi Arabia's Ministry of Hajj and Umrah launched it on 20 July 2026. It is valid for 365 days from issue and allows several entries, with a total stay of up to 90 days. Each visit needs its own package from an approved Nusuk provider and an Umrah permit. It is deactivated when you leave and does not work during the Hajj season."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes, Indians need a visa for Saudi Arabia. If you hold a used US, UK or Schengen tourist or business visa, permanent residency in the UK, US or EU, or a GCC residence permit, you can apply for an eVisa online, and the first two groups can also get a visa on arrival. Everyone else can use the new Package Visa, bought with a flight-and-hotel package from a ministry-approved provider, or apply through the Saudi embassy."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Standard eVisa list:** India is not on it. **eVisa with US/UK/Schengen visa or GCC residency:** SAR 339.44 (about US$90.50), insurance extra. **Visa on arrival:** SAR 395 with insurance, for US/UK/Schengen visa holders and UK, US or EU permanent residents. **Package Visa:** SAR 402.21 with insurance, single entry. **Stay:** Up to 90 consecutive days. **Passport:** Valid six months beyond entry. **Umrah:** Book your permit on Nusuk."
+      },
+      {
+        "type": "h2",
+        "text": "Can Indians get a Saudi tourist eVisa?"
+      },
+      {
+        "type": "p",
+        "text": "Not directly. India is not among the 68 countries whose citizens can apply for the standard Saudi eVisa. Indians qualify for an eVisa only through a US, UK or Schengen visa or residency, or a GCC residence permit, or through the new Package Visa."
+      },
+      {
+        "type": "h2",
+        "text": "Route 1: eVisa or visa on arrival with a US, UK or Schengen visa"
+      },
+      {
+        "type": "p",
+        "text": "Visit Saudi, the official tourism site, sets out these conditions for Indian passport holders."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa type:** Your US, UK or Schengen visa must be a tourist or business visa. Student or work visas are not listed.",
+          "**First visit:** The visa must be valid and carry an entry stamp from the issuing country. Digital entry stamps are not accepted.",
+          "**Returning visitors:** If you already entered Saudi Arabia on a Saudi visit visa that is still valid, you do not need to re-prove your US, UK or Schengen visa.",
+          "**Permanent residents:** A permanent residence permit from the UK, US or an EU country also qualifies.",
+          "**Passport:** Valid for at least six months beyond your entry date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You apply for this eVisa on the KSA Visa portal (ksavisa.sa), to which Visit Saudi links. The fee is **SAR 339.44, about US$90.50**, and medical insurance is charged separately by the provider. If you prefer, you can take a **visa on arrival for SAR 395**, which includes insurance; for this, your US, UK or Schengen visa must have been used at least once. Go to the passport control office on arrival."
+      },
+      {
+        "type": "callout",
+        "label": "Watch the entry-stamp rule",
+        "text": "The EU's Entry/Exit System became fully operational on 10 April 2026 and records Schengen entries digitally instead of with passport stamps. Saudi rules say digital entry stamps are not accepted. If your only Schengen trip was recorded digitally, confirm with your airline or the KSA Visa portal before you rely on that visa."
+      },
+      {
+        "type": "h3",
+        "text": "If you live in the Gulf"
+      },
+      {
+        "type": "p",
+        "text": "Indians with a GCC residence permit can get the eVisa if the residency is valid for at least three months beyond the entry date. Children under 18 apply after a parent's eVisa is issued."
+      },
+      {
+        "type": "h2",
+        "text": "Route 2: the Package Visa (new in 2026)"
+      },
+      {
+        "type": "p",
+        "text": "Saudi Arabia's Ministry of Tourism now offers a Package Visa to Indian, Pakistani, Bangladeshi, Indonesian, Egyptian, Jordanian and Mexican passport holders. You buy a complete package from an approved travel provider and the tourist eVisa is issued with it. No US, UK or Schengen visa is needed."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Package must include:** A ministry-licensed hotel of 4 stars or above, a confirmed return flight and the visa application with medical insurance.",
+          "**Minimum value:** SAR 4,000 per adult for the first two days, plus SAR 1,000 for each extra day. Up to five children under 18 can join without counting towards this.",
+          "**Length:** Between 2 and 88 days. Hotel nights must match the flight dates.",
+          "**Booking window:** Buy at least 48 hours before departure.",
+          "**Visa:** SAR 402.21 including insurance, single entry, valid three months from the departure date. Issued within 48 hours of purchase at most.",
+          "**Cancellation:** Cancelling the package cancels the visa. If the visa is refused, the provider refunds refundable services but not the visa fee or insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The packages do not include services in Makkah or Madinah, but Visit Saudi says the visa lets you travel to any city once you are in the country."
+      },
+      {
+        "type": "h2",
+        "text": "Route 3: a visa through the Saudi embassy"
+      },
+      {
+        "type": "p",
+        "text": "If none of the above fits, apply for a visit visa through the Royal Saudi Embassy in New Delhi or the consulate in Mumbai. Visit Saudi lists the documents: proof of residence, return ticket, proof of employment, bank statement, flight itinerary, identification and your address in Saudi Arabia. Medical insurance is extra. Ask the embassy or its authorised visa centre for the current fee and timeline."
+      },
+      {
+        "type": "h2",
+        "text": "Umrah from India: visa options and Nusuk"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Umrah package with visa:** The usual route is to book through a provider licensed by the Ministry of Hajj and Umrah. The Nusuk Umrah portal lists approved providers, and its comprehensive packages include the visa.",
+          "**Tourist visa:** Any Saudi tourist visa, including the Package Visa, allows Umrah (but not Hajj). You still need an Umrah permit from the Nusuk app.",
+          "**New one-year Umrah visa:** Launched on 20 July 2026, it allows multiple entries over 365 days with a total stay of up to 90 days. Each visit needs its own Nusuk package and permit, and the visa does not work from 1 Dhul Qadah to 13 Dhul Hijjah."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Several reports say a standard single-entry Umrah visa must now be used within 30 days of issue. We could not confirm this on an official page, so plan to fly soon after your visa is issued."
+      },
+      {
+        "type": "h2",
+        "text": "Single entry or multiple entry?"
+      },
+      {
+        "type": "p",
+        "text": "Visit Saudi lists both single-entry visas (valid three months) and multiple-entry visas (valid one year), each allowing up to 90 consecutive days. However, Business Standard and Fragomen reported that from February 2025 Saudi Arabia issued only single-entry visit visas to Indians and nationals of 13 other countries. We found no official notice confirming this or saying it has ended, so check the entry type on your visa before planning a second entry."
+      },
+      {
+        "type": "h2",
+        "text": "Riyadh Season and practical tips"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Riyadh Season 2026:** It opened on 21 October 2026 and runs for about ten weeks, with concerts, boxing and other events. Book hotels early for event weekends.",
+          "**Free stopover visa:** Visit Saudi lists a free transit or stopover visa when you fly Saudia or flynas, allowing a stay of up to 96 hours. You pay an application fee of about SAR 39.50 plus insurance. Check eligibility on the airline's site when booking.",
+          "**Insurance:** If your visa fee excludes insurance, buy cover that meets the portal's requirements before you apply.",
+          "**Dress:** Dress modestly, especially at religious and heritage sites."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes to avoid"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Applying on the main eVisa form as an Indian without a qualifying US, UK or Schengen visa.",
+          "Relying on a US, UK or Schengen visa you have never used, or one without a physical entry stamp.",
+          "Planning Umrah without a Nusuk permit, or assuming permits are available around the Hajj season.",
+          "Cancelling a Package Visa booking, which also cancels the visa.",
+          "Paying an unofficial website instead of the official portals."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys plans holiday packages with hotels and private transfers, and can check your documents and entry rules before you fly. Travlys does not file Saudi visas or eVisas. If you want the US, UK or Schengen visa that opens up the Saudi eVisa, or a UAE visa for a Dubai leg, Travlys files those. Travlys has filed over 5,000 visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules were checked on 28 October 2026 against the sources listed below, including Visit Saudi, the Saudi eVisa portal and the Saudi Press Agency. Check visa.visitsaudi.com, ksavisa.sa and Nusuk before you apply, as fees and procedures can change."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Visit Saudi: Saudi Arabia visa requirements (updated 28 Jun 2026)",
+        "url": "https://www.visitsaudi.com/en/plan-your-trip/visa-regulations"
+      },
+      {
+        "label": "Visit Saudi: Saudi eVisa portal, eligible countries",
+        "url": "https://visa.visitsaudi.com/"
+      },
+      {
+        "label": "Visit Saudi: Discover Saudi in One Package (Package Visa)",
+        "url": "https://www.visitsaudi.com/en/campaigns/package-visa"
+      },
+      {
+        "label": "KSA Visa: Unified visa platform",
+        "url": "https://ksavisa.sa/"
+      },
+      {
+        "label": "Nusuk Umrah: Packages and approved service providers",
+        "url": "https://umrah.nusuk.sa/"
+      },
+      {
+        "label": "Saudi Press Agency: Hajj Ministry launches multiple-entry Umrah visa valid for one year",
+        "url": "https://www.spa.gov.sa/en/N2637600"
+      },
+      {
+        "label": "The National: Saudi Arabia introduces one-year multiple-entry Umrah visa",
+        "url": "https://www.thenationalnews.com/news/gulf/2026/07/20/saudi-arabia-introduces-one-year-multiple-entry-umrah-visa/"
+      },
+      {
+        "label": "Saudi Press Agency: GEA Chairman announces October 21 launch for Riyadh Season 2026",
+        "url": "https://www.spa.gov.sa/en/N2686677"
+      },
+      {
+        "label": "Gulf News: Riyadh Season 2026 to begin on October 21",
+        "url": "https://gulfnews.com/world/gulf/saudi/riyadh-season-2026-to-begin-on-october-21-with-10-weeks-of-entertainment-1.500689955"
+      },
+      {
+        "label": "Business Standard: Saudi Arabia limits Indian tourists to single-entry visas from Feb 2025",
+        "url": "https://www.business-standard.com/finance/personal-finance/saudi-arabia-limits-indian-tourists-to-single-entry-visas-from-feb-2025-125021000959_1.html"
+      },
+      {
+        "label": "Fragomen: Saudi Arabia suspension of multiple-entry visa for certain nationals",
+        "url": "https://www.fragomen.com/insights/saudi-arabia-suspension-of-multiple-entry-visa-for-certain-nationals.html"
+      },
+      {
+        "label": "European Commission: Smart Borders (Entry/Exit System)",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/smart-borders_en"
+      }
+    ]
+  },
   // --- 28 October 2026: winter flights, transit visas, UK students, Dubai, Singapore, NZ. ---
   {
     "slug": "new-international-flights-from-india-winter-2026",
@@ -3733,6 +5292,22 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "20 Jul 2026: Saudi Arabia launches a one-year multiple-entry Umrah visa"
+      },
+      {
+        "type": "p",
+        "text": "The Ministry of Hajj and Umrah's new Umrah visa is valid for 365 days with multiple entries and a total stay of up to **90 days**. Each visit still needs its own Nusuk package and Umrah permit, and the visa is not valid during the Hajj season. Any Saudi tourist visa also allows Umrah, with the permit booked on Nusuk."
+      },
+      {
+        "type": "h3",
+        "text": "18 Jul 2026: Saudi Arabia opens a Package Visa for Indian tourists"
+      },
+      {
+        "type": "p",
+        "text": "Indians without a US, UK or Schengen visa can now get a Saudi tourist eVisa by buying a flight and 4-star-or-above hotel package from a provider approved by the Ministry of Tourism. The visa costs **SAR 402.21** including insurance, is single entry and valid for three months, and the package must be worth at least SAR 4,000 per adult for the first two days. Indians who do hold a valid US, UK or Schengen visa can still use the regular eVisa."
+      },
+      {
+        "type": "h3",
         "text": "1 Jul 2026: Australia raises visa charges"
       },
       {
@@ -3765,6 +5340,14 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "2 Jun 2026: Bhutan waives the SDF for 24-hour border-town visits"
+      },
+      {
+        "type": "p",
+        "text": "Tourists who visit Phuentsholing, Samtse, Gelephu or Samdrup Jongkhar for up to 24 hours pay no Sustainable Development Fee until August 2027. Go beyond the designated zones and the fee applies, which for Indians is **₹1,200 (Nu 1,200) per night**. Indians enter Bhutan with a permit, not a visa, using a passport or voter ID."
+      },
+      {
+        "type": "h3",
         "text": "25 May 2026: Sri Lanka tourist ETA becomes free"
       },
       {
@@ -3794,6 +5377,14 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "The standard six-month UK visitor visa rose from £127 to **£135**, the two-year visit visa to £506, and the Student visa (applied from outside the UK) from £524 to **£558**. The Immigration Health Surcharge is unchanged at £776 a year for students. The fee you pay is set by the date you apply."
+      },
+      {
+        "type": "h3",
+        "text": "8 Apr 2026: Bhutan requires a licensed guide for all tourists"
+      },
+      {
+        "type": "p",
+        "text": "Bhutan's Department of Tourism said all tourists must be accompanied by a licensed guide at all times, including on the drive from Paro airport to other districts. The only exception is travel up to the first designated checkpoint. Book your guide through a licensed Bhutanese tour operator before you travel beyond the border towns."
       },
       {
         "type": "h3",
@@ -3881,6 +5472,22 @@ export const BLOG_POSTS = [
       }
     ],
     "sources": [
+      {
+        "label": "Visit Saudi: Package Visa",
+        "url": "https://www.visitsaudi.com/en/campaigns/package-visa"
+      },
+      {
+        "label": "Saudi Press Agency: one-year multiple-entry Umrah visa",
+        "url": "https://www.spa.gov.sa/en/N2637600"
+      },
+      {
+        "label": "Department of Tourism Bhutan: FAQs (SDF and border towns)",
+        "url": "https://bhutan.travel/faqs"
+      },
+      {
+        "label": "Department of Tourism Bhutan: Notification on mandatory licensed tour guides (8 April 2026)",
+        "url": "https://a.storyblok.com/f/171618/x/d7788a48d0/notification-on-mandatory-tour-guide-requiremement.pdf"
+      },
       {
         "label": "Embassy of Spain in New Delhi: Elimination of the airport transit visa for Indians from 4 March 2026",
         "url": "https://www.exteriores.gob.es/Embajadas/nuevadelhi/es/Comunicacion/Noticias/Paginas/Articulos/19022026_NOT.aspx"
