@@ -69,6 +69,12 @@ import {
   GLOSSARY,
   termId,
   buildGlossarySchemas,
+  SCHENGEN_CALC_META,
+  SCHENGEN_CALC_FAQS,
+  buildSchengenCalcSchemas,
+  VISA_COST_META,
+  getVisaCostFaqs,
+  buildVisaCostSchemas,
 } from '../src/seo/pages.js'
 import { NEWS_UPDATED, getLatestNews, getNewsByMonth, getUpcomingNews, formatNewsDate } from '../src/data/travelNews.js'
 import { VISA_FEE_ROWS, LAST_CHECKED, getQuickAnswers, visaFeesCsv } from '../src/data/visaFees.js'
@@ -243,6 +249,8 @@ const NAV = [
   ['Visa fees by country', '/visa-fees'],
   ['Visa and travel news', '/travel-news'],
   ['Visa terms explained', '/visa-glossary'],
+  ['Schengen calculator', '/schengen-calculator'],
+  ['Visa cost calculator', '/visa-cost-calculator'],
   ['Visa guides', '/blog'],
   ['About', '/about'],
   ['Contact', '/contact'],
@@ -323,6 +331,31 @@ function visaFeesBody() {
 ${faqList(VISA_FEES_FAQS, 'About this table')}`
 }
 
+function schengenCalcBody() {
+  return `${crumbs([['Home', '/'], ['Schengen calculator']])}
+<h1>Schengen 90/180 day calculator</h1>
+<p>${escapeHtml(SCHENGEN_CALC_META.description)}</p>
+<p>How to use it: enter each Schengen stay from the last six months (entry and exit dates; both days count), then the date of your next entry. The calculator shows the days used in the 180 days before you arrive and the last day you may stay without going over 90 days. This page needs JavaScript to calculate; the rule itself is explained below.</p>
+${faqList(SCHENGEN_CALC_FAQS, 'How the 90/180 rule works')}
+<p>Need a Schengen visa? <a href="${href('/visa/netherlands-visa')}">Travlys files Schengen visas</a> from a ₹2,950 service fee.</p>`
+}
+
+function visaCostBody() {
+  const rows = VISA_FEE_ROWS.map(
+    (r) =>
+      `<tr><td><a href="${href(`/visa/${r.slug}`)}">${escapeHtml(r.country)}</a></td><td>${escapeHtml(r.governmentFee)}</td><td>${r.governmentFeeInr ? `₹${r.governmentFeeInr.toLocaleString('en-IN')}` : 'None'}</td><td>₹${r.travlysFeeInr.toLocaleString('en-IN')}</td><td>${escapeHtml(r.processing)}</td></tr>`,
+  ).join('')
+  return `${crumbs([['Home', '/'], ['Visa cost calculator']])}
+<h1>Visa cost calculator for Indian travellers</h1>
+<p>${escapeHtml(VISA_COST_META.description)} Fees checked against official sources on ${LAST_CHECKED}. Multiply the per-person amounts below by the number of applicants.</p>
+<table>
+<thead><tr><th>Destination</th><th>Government fee</th><th>≈ INR per person</th><th>Travlys fee from</th><th>Processing</th></tr></thead>
+<tbody>${rows}</tbody>
+</table>
+<p>Not included: VFS or visa-centre service charges, courier, travel insurance and optional priority services.</p>
+${faqList(getVisaCostFaqs(), 'Visa costs from India, answered')}`
+}
+
 function glossaryBody() {
   const gid = (g) => g.group.toLowerCase().replace(/[^a-z0-9]+/g, '-')
   return `${crumbs([['Home', '/'], ['Visa glossary']])}
@@ -369,6 +402,14 @@ ${destinationsTable()}
 <li>We draft and review the application, book the appointment and coach the interview where one is needed.</li>
 <li>We track the file until you have a decision.</li>
 </ol>
+</section>
+<section><h2>Free visa tools</h2>
+<ul>
+<li><a href="${href('/schengen-calculator')}">Schengen 90/180 day calculator</a>: how many days you can still stay in Europe.</li>
+<li><a href="${href('/visa-cost-calculator')}">Visa cost calculator</a>: total visa fees in rupees for your family.</li>
+<li><a href="${href('/visa-glossary')}">Visa terms explained</a>: VFS, 221(g), OK to Board and more.</li>
+<li><a href="${href('/travel-news')}">Visa and travel news</a>: every rule change for Indians, with dates and sources.</li>
+</ul>
 </section>
 <section><h2>Latest visa news for Indian travelers</h2>
 <ul>${getLatestNews(5).map((n) => `<li><time datetime="${n.date}">${formatNewsDate(n.date)}</time>: <a href="${href(`/travel-news#${newsAnchor(n)}`)}">${escapeHtml(n.headline)}</a></li>`).join('')}</ul>
@@ -581,6 +622,8 @@ function buildSitemap() {
     sitemapEntry('/visa-fees', { changefreq: 'weekly', priority: '0.85' }),
     sitemapEntry('/travel-news', { lastmod: NEWS_UPDATED, changefreq: 'daily', priority: '0.85' }),
     sitemapEntry('/visa-glossary', { changefreq: 'monthly', priority: '0.8' }),
+    sitemapEntry('/schengen-calculator', { changefreq: 'monthly', priority: '0.85' }),
+    sitemapEntry('/visa-cost-calculator', { changefreq: 'weekly', priority: '0.85' }),
     ...['/pricing', '/about', '/contact', '/blog'].map((p) => sitemapEntry(p, { changefreq: 'weekly', priority: '0.8' })),
     ...BLOG_CATEGORIES.map((c) => sitemapEntry(`/blog/category/${categorySlug(c)}`, { changefreq: 'weekly', priority: '0.7' })),
     ...BLOG_POSTS.map((post) =>
@@ -645,6 +688,8 @@ ${linkList([
     ['Visa fees by country (table + CSV)', '/visa-fees'],
     ['Visa and travel news', '/travel-news'],
     ['Visa terms explained (glossary)', '/visa-glossary'],
+    ['Schengen 90/180 calculator', '/schengen-calculator'],
+    ['Visa cost calculator', '/visa-cost-calculator'],
     ['Pricing', '/pricing'],
     ['About Travlys', '/about'],
     ['Contact', '/contact'],
@@ -765,6 +810,11 @@ function buildLlmsTxt() {
     '',
     ...getLatestNews(10).map((n) => `- ${n.date}: **${n.headline}.** ${n.summary} Source: ${n.source.url} · Guide: ${pageUrl(n.href)}`),
     '',
+    '## Free tools',
+    '',
+    `- [Schengen 90/180 day calculator](${pageUrl('/schengen-calculator')}): days used, days left and the last legal day of stay under the 90/180 rule. Entry and exit days both count; all 29 Schengen countries count together.`,
+    `- [Visa cost calculator](${pageUrl('/visa-cost-calculator')}): government visa fee in rupees plus the Travlys service fee for any number of applicants, for ${VISA_FEE_ROWS.length} destinations.`,
+    '',
     '## Visa terms explained',
     '',
     `Plain-English definitions from the [Travlys visa glossary](${pageUrl('/visa-glossary')}):`,
@@ -874,6 +924,8 @@ async function main() {
   await page(VISA_FEES_META, buildVisaFeesSchemas(), visaFeesBody())
   await page(NEWS_META, buildNewsSchemas(), newsBody())
   await page(GLOSSARY_META, buildGlossarySchemas(), glossaryBody())
+  await page(SCHENGEN_CALC_META, buildSchengenCalcSchemas(), schengenCalcBody())
+  await page(VISA_COST_META, buildVisaCostSchemas(), visaCostBody())
   for (const d of destinations) await page(getVisaMeta(d), buildVisaSchemas(d), visaBody(d))
   await page(PRICING_META, buildPricingSchemas(), pricingBody())
   await page(ABOUT_META, buildAboutSchemas(), aboutBody())

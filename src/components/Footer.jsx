@@ -99,6 +99,8 @@ export default function Footer() {
                 ['Visa and travel news', '/travel-news/'],
                 ['Visa questions answered', '/visa-questions/'],
                 ['Visa terms explained', '/visa-glossary/'],
+                ['Schengen 90/180 calculator', '/schengen-calculator/'],
+                ['Visa cost calculator', '/visa-cost-calculator/'],
                 ['Visa fees by country', '/visa-fees/'],
                 ['Pricing', '/pricing/'],
                 ['Visa guides', '/blog/'],

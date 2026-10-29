@@ -3,7 +3,7 @@
 // quote) plus a link to the Travlys page that covers it in depth. Rendered at
 // /visa-glossary with DefinedTermSet structured data and listed in llms.txt.
 
-export const GLOSSARY_UPDATED = '2026-10-28'
+export const GLOSSARY_UPDATED = '2026-10-29'
 
 export const GLOSSARY = [
   {
@@ -172,6 +172,13 @@ export const GLOSSARY = [
         definition:
           '221(g) means the US officer needs more information or administrative processing before deciding your visa. You get a slip listing what to send or explaining that checks are under way. Send exactly what is asked and track the case status online.',
         href: '/visa/usa-visa/',
+      },
+      {
+        term: 'Visa integrity fee (US)',
+        id: 'visa-integrity-fee',
+        definition:
+          'The visa integrity fee is a $250 US charge, set by a law passed in July 2025, that would be paid when a nonimmigrant visa such as the B1/B2 is issued, on top of the $185 application fee. As of 29 October 2026 we found no official notice that it is being collected from applicants in India.',
+        href: '/blog/us-visa-integrity-fee-india-2026/',
       },
     ],
   },

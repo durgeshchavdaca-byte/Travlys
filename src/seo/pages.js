@@ -515,3 +515,115 @@ export function buildGlossarySchemas() {
   ]
 }
 
+
+// --- Free tools (calculators) -----------------------------------------------------
+// WebApplication + FAQPage. The FAQs carry the direct answers people search
+// for, so the pages are useful to search engines and AI assistants even
+// without running the calculator.
+
+function toolSchema(meta, name) {
+  const url = pageUrl(meta.path)
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    '@id': `${url}#app`,
+    name,
+    url,
+    description: meta.description,
+    applicationCategory: 'TravelApplication',
+    operatingSystem: 'Any',
+    browserRequirements: 'Requires JavaScript',
+    isAccessibleForFree: true,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'INR' },
+    publisher: ORG,
+    inLanguage: 'en-IN',
+  }
+}
+
+export const SCHENGEN_CALC_META = {
+  title: 'Schengen 90/180 day calculator: how many days can I stay?',
+  description:
+    'Free Schengen calculator for Indian travellers. Enter your past trips and next entry date to see days used, days left and the last day you can stay under the 90/180 rule.',
+  path: '/schengen-calculator',
+  keywords:
+    'schengen calculator, schengen 90 180 calculator, 90 180 rule calculator, schengen days calculator, how many days can i stay in schengen, schengen stay calculator india',
+  type: 'website',
+  image: DEFAULT_OG_IMAGE,
+  imageAlt: 'Schengen 90/180 day calculator by Travlys',
+}
+
+export const SCHENGEN_CALC_FAQS = [
+  {
+    q: 'What is the Schengen 90/180 rule?',
+    a: 'You can stay up to 90 days in any rolling 180-day period across all Schengen countries combined. On any day of your trip, count back 180 days including that day: the days you spent in the Schengen area in that window must not add up to more than 90.',
+  },
+  {
+    q: 'Do the entry and exit days count?',
+    a: 'Yes. The day you enter and the day you leave both count as full days, even if you land late at night or fly out early in the morning. A trip from 1 to 10 June uses 10 days.',
+  },
+  {
+    q: 'Which countries count towards the 90 days?',
+    a: 'All 29 Schengen countries, including Bulgaria and Romania, which became full Schengen members on 1 January 2025. Days in the UK, Ireland, Cyprus or Türkiye do not count, because they are not in the Schengen area.',
+  },
+  {
+    q: 'Does a new Schengen visa reset my 90 days?',
+    a: 'No. The count follows the days you actually spent in the Schengen area, not the visa you used. If you used most of your 90 days recently, a new visa does not give you fresh days until the old ones fall outside the 180-day window.',
+  },
+  {
+    q: 'Is the 90/180 rule the same as the days on my visa?',
+    a: 'Not always. Your visa shows its own validity dates and number of days allowed, and you must respect both the visa and the 90/180 rule, whichever is stricter. A visa valid for 15 days only allows 15 days, even if you have more left under the 90/180 rule.',
+  },
+  {
+    q: 'What happens if I overstay in the Schengen area?',
+    a: 'Overstaying can lead to a fine, removal, an entry ban and refusals on future visa applications. Since April 2026 the Entry/Exit System records your entries and exits digitally, so overstays are detected automatically at the border.',
+  },
+]
+
+export function buildSchengenCalcSchemas() {
+  return [
+    buildWebPageSchema(SCHENGEN_CALC_META),
+    toolSchema(SCHENGEN_CALC_META, 'Schengen 90/180 day calculator'),
+    crumbs({ name: 'Schengen calculator', url: pageUrl(SCHENGEN_CALC_META.path) }),
+    faqSchema(SCHENGEN_CALC_FAQS),
+  ]
+}
+
+export const VISA_COST_META = {
+  title: 'Visa cost calculator: total visa fees from India for your family',
+  description:
+    'Free visa cost calculator for Indians. See the 2026 government visa fee in rupees for the US, UK, Canada, Schengen, Australia, Dubai, Singapore and more, plus the Travlys fee, for any number of travellers.',
+  path: '/visa-cost-calculator',
+  keywords:
+    'visa cost calculator, visa fee calculator india, us visa cost from india, uk visa cost india, schengen visa cost india, canada visa cost india, dubai visa cost india, visa fees for family',
+  type: 'website',
+  image: DEFAULT_OG_IMAGE,
+  imageAlt: 'Visa cost calculator by Travlys',
+}
+
+const COST_NAME = {
+  'usa-visa': 'a US visa',
+  'uk-visa': 'a UK visa',
+  'canada-visa': 'a Canada visitor visa',
+  'australia-visa': 'an Australian visa',
+  'netherlands-visa': 'a Schengen visa',
+  'singapore-visa': 'a Singapore visa',
+  'uae-visa': 'a Dubai (UAE) visa',
+  'new-zealand-visa': 'a New Zealand visa',
+}
+
+export function getVisaCostFaqs() {
+  const inr = (n) => `₹${n.toLocaleString('en-IN')}`
+  return VISA_FEE_ROWS.filter((r) => COST_NAME[r.slug] && r.governmentFeeInr > 0).map((r) => ({
+    q: `How much does ${COST_NAME[r.slug]} cost from India in 2026?`,
+    a: `The government fee is ${/^INR/.test(r.governmentFee) ? inr(r.governmentFeeInr) : `${r.governmentFee} (about ${inr(r.governmentFeeInr)})`} per applicant, paid to ${r.paidTo}. If you file with Travlys, the service fee starts at ${inr(r.travlysFeeInr)} per applicant. Visa-centre charges, courier and insurance are extra. Typical processing: ${r.processing}.`,
+  }))
+}
+
+export function buildVisaCostSchemas() {
+  return [
+    buildWebPageSchema(VISA_COST_META),
+    toolSchema(VISA_COST_META, 'Visa cost calculator for Indian travellers'),
+    crumbs({ name: 'Visa cost calculator', url: pageUrl(VISA_COST_META.path) }),
+    faqSchema(getVisaCostFaqs()),
+  ]
+}

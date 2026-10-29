@@ -23,6 +23,10 @@ import {
   Calendar,
   TrendingUp,
   ChevronRight,
+  CalendarRange,
+  Calculator,
+  BookOpen,
+  Newspaper,
 } from 'lucide-react'
 import AnimatedSection, { StaggerContainer, StaggerItem } from '../components/AnimatedSection'
 import { HeroBlobs, AnimatedCounter, TextReveal } from '../components/MotionGraphics'
@@ -837,6 +841,38 @@ function InquirySection() {
 
 /* ─── PAGE ────────────────────────────────────────────────────────────── */
 
+/* ─── FREE TOOLS ───────────────────────────────────────────────────────────── */
+
+const TOOLS = [
+  { to: '/schengen-calculator/', icon: CalendarRange, title: 'Schengen 90/180 calculator', text: 'How many days can you still stay in Europe?' },
+  { to: '/visa-cost-calculator/', icon: Calculator, title: 'Visa cost calculator', text: 'Total visa fees in rupees for your family.' },
+  { to: '/visa-glossary/', icon: BookOpen, title: 'Visa terms explained', text: 'VFS, 221(g), OK to Board and more, in plain English.' },
+  { to: '/travel-news/', icon: Newspaper, title: 'Visa and travel news', text: 'Every rule change for Indians, with dates and sources.' },
+]
+
+function FreeTools() {
+  return (
+    <section id="tools" className="py-16 bg-sand-50 border-t border-line">
+      <div className="container-app">
+        <h2 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900 m-0 leading-tight">Free visa tools.</h2>
+        <p className="text-slate-muted mt-2 mb-8">Plan your trip before you pay for anything.</p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {TOOLS.map(({ to, icon: Icon, title, text }) => (
+            <Link key={to} to={to} className="card p-5 no-underline group h-full flex flex-col">
+              <Icon className="w-6 h-6 text-coral-500" />
+              <h3 className="font-display text-lg font-extrabold text-ink-900 leading-tight mt-3 mb-0">{title}</h3>
+              <p className="text-sm text-slate-muted mt-1.5 mb-0 flex-1">{text}</p>
+              <span className="text-xs font-semibold text-coral-500 mt-4 flex items-center gap-1">
+                Open <ArrowUpRight className="w-3 h-3" />
+              </span>
+            </Link>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
 /* ─── LATEST GUIDES ───────────────────────────────────────────────────────── */
 
 function LatestGuides() {
@@ -915,6 +951,7 @@ export default function HomePage() {
       <Reviews />
       <CtaBanner />
       <LatestGuides />
+      <FreeTools />
       <FaqSection />
       <InquirySection />
     </>

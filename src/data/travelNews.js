@@ -3,7 +3,7 @@
 // Rendered at /travel-news, and fed into the homepage, llms.txt and the
 // prerendered HTML so search engines and AI assistants see the latest dates.
 
-export const NEWS_UPDATED = '2026-10-28'
+export const NEWS_UPDATED = '2026-10-29'
 
 export const TRAVEL_NEWS = [
   // --- Announced, not yet in force (shown under "Coming up") ---
@@ -52,6 +52,22 @@ export const TRAVEL_NEWS = [
     },
   },
   // --- Dated news, newest first ---
+  {
+    date: '2026-12-02',
+    headline: 'First non-stop Ahmedabad to Phu Quoc flights start',
+    summary:
+      'Sun PhuQuoc Airways plans five flights a week between Ahmedabad and Phu Quoc on an Airbus A321neo from 2 December 2026, rising to daily from early February 2027. Foreigners flying straight into Phu Quoc can stay on the island visa-free for up to 30 days.',
+    href: '/blog/phu-quoc-visa-free-for-indians-2026/',
+    source: { label: 'VietnamPlus', url: 'https://en.vietnamplus.vn/sun-phuquoc-airways-to-launch-first-nonstop-service-to-india-post353798.vnp' },
+  },
+  {
+    date: '2026-04-06',
+    headline: 'Indian Embassy in Hanoi: Phu Quoc visa exemption covers the island only',
+    summary:
+      'The Embassy of India in Hanoi said the Phu Quoc visa exemption does not allow entry to mainland Vietnam, and advised Indians to get a Vietnam visa even for island-only trips in case of medical emergencies or flight disruption.',
+    href: '/blog/phu-quoc-visa-free-for-indians-2026/',
+    source: { label: 'VnExpress International', url: 'https://e.vnexpress.net/news/travel/visa/india-issues-advisory-for-citizens-traveling-to-phu-quoc-under-visa-free-scheme-5059413.html' },
+  },
   {
     date: '2026-07-20',
     headline: 'Saudi Arabia launches one-year multiple-entry Umrah visa',

@@ -9,6 +9,934 @@
 export const BLOG_POSTS = [
   // --- 28 October 2026 (later): Maldives, Mauritius, Bhutan, Hong Kong, Türkiye, Saudi Arabia. ---
   {
+    "slug": "china-visa-rejected-indians-2026-reasons",
+    "title": "China Visa Rejected? Why Indians Get Refused in 2026",
+    "metaTitle": "China Visa Rejected for Indians 2026: Reasons | Travlys",
+    "metaDescription": "China gives no reason for refusals and publishes no figures. Weak M-visa invitations, low bank balances and form errors cause most problems. How to fix them.",
+    "excerpt": "Reports say many Indian business and group tourist applications for China are being refused, but there are no official figures. Here is what the Embassy actually asks for, the mistakes that get files returned, and what to do after a refusal.",
+    "date": "2026-10-29",
+    "updated": "2026-10-29",
+    "readMinutes": 8,
+    "category": "Visa rule updates",
+    "tags": [
+      "China",
+      "China visa",
+      "Business visa",
+      "Visa rejection",
+      "M visa",
+      "Visa rule updates"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1600&h=900&fit=crop",
+    "related": [
+      "china-visa-for-indians-2026-new-process",
+      "hong-kong-visa-for-indians-2026",
+      "visa-rejection-reasons-india"
+    ],
+    "faqs": [
+      {
+        "q": "Why was my China visa rejected?",
+        "a": "China does not have to tell you. Its Exit and Entry Administration Law says visa authorities are not required to give reasons for a refusal. In practice, check the usual weak points first: an M-visa invitation without a handwritten Chinese signature and official company seal, a vague cover letter, a bank balance below the ₹1 lakh average for tourist visas, or details in the online form that do not match your passport."
+      },
+      {
+        "q": "Is China rejecting 95% of Indian business visas?",
+        "a": "There is no official figure. A Great Andhra report on 25 October 2026 mentioned rejection rates of up to 95% in some cases, and earlier trade reports said some Indian firms saw approvals fall to 20% to 40%. These come from unnamed executives and agents, not Chinese data. China has not announced any ban on Indian applicants, and the Embassy is accepting applications."
+      },
+      {
+        "q": "Can I reapply after a China visa refusal?",
+        "a": "Yes. Nothing in the Embassy's notices bars you from applying again, and they do not describe a formal appeal. Reapply only after you have fixed the likely problem, such as a fresh invitation letter with the correct seal or a stronger bank record. Submit a new online form at consular.mfa.gov.cn and wait for the approval email before you take your passport in."
+      },
+      {
+        "q": "What does a China business visa invitation letter need in 2026?",
+        "a": "Under the Embassy notice dated 22 October 2026, the letter must state the purpose of the visit, carry a handwritten Chinese signature and be stamped with the company's official seal. Contract seals and personnel seals are not accepted. The inviting company's business licence and the inviter's ID must each carry a handwritten Chinese note that the copy is only for your visa application, with a signature and date."
+      },
+      {
+        "q": "How much bank balance do I need for a China tourist visa from India?",
+        "a": "The Embassy asks for six months of personal savings account statements with a consistent average monthly balance of at least ₹1 lakh. Instead, you can give a bank deposit certificate for a similar amount, made at least three months before you apply and signed and stamped by the bank. A large deposit just before you apply does not meet the average-balance rule."
+      },
+      {
+        "q": "Do I need fingerprints for a China visa in 2026?",
+        "a": "Usually not for a short trip. The Embassy has exempted applicants for short-term visas with a stay of up to 180 days from fingerprinting until 31 December 2026. Long-stay categories such as Z, X1, D, J1, Q1 and S1 still give fingerprints. The Embassy's visa notice also says multiple-entry applicants should, in principle, give fingerprints, so be ready if you apply for one."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "China has not published any refusal figures for Indian applicants, and its law says visa officers do not have to explain a refusal. News reports in August and October 2026 said many Indian **business (M)** and **group tourist** applications were being refused, but those numbers are unofficial. What you can control is your file: the Embassy's notice dated 22 October 2026 sets strict rules on invitation letters, seals, cover letters and bank balances, and a file that misses any of them is easy to refuse."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Official refusal data:** none published. **Reason given on refusal:** not required under Chinese law. **Where to apply since 26 October 2026:** Chinese Embassy, New Delhi, or Consulate General, Mumbai. **Online form:** consular.mfa.gov.cn/VISA, then submit within 30 days of the approval email. **Fees for Indians:** ₹2,900 single, ₹4,400 double, ₹5,900 six-month multiple, ₹8,800 multiple for 12 months or more, ₹1,800 per person for group visas. **Fingerprints:** not needed for stays of 180 days or less until 31 December 2026. **M visa:** handwritten Chinese signature plus official company seal. **L visa:** ₹1 lakh average monthly balance over six months."
+      },
+      {
+        "type": "h2",
+        "text": "Why was my China visa rejected?"
+      },
+      {
+        "type": "p",
+        "text": "You may never get an official answer. Article 21 of China's Exit and Entry Administration Law lets visa authorities refuse a visa without giving reasons, including when an applicant fails to submit information the officer asks for or cannot show funds for the trip. So the practical approach is to check your file against the Embassy's own checklist, fix every gap, and only then apply again."
+      },
+      {
+        "type": "h2",
+        "text": "What the rejection reports say, and what they do not"
+      },
+      {
+        "type": "p",
+        "text": "In August 2026, trade reports quoted executives at some Indian electronics and automobile firms who said only about **20% to 40%** of their staff's business visa applications were being approved, against near-total approval earlier. On 22 August 2026, Bloomberg reported External Affairs Minister S. Jaishankar saying India had taken up business visa delays with China. On 25 October 2026, Great Andhra wrote about rejection rates of **up to 95%** in some reported cases, covering business and group tourist visas."
+      },
+      {
+        "type": "p",
+        "text": "Treat these numbers with care. They come from unnamed companies, agents and executives, not from Chinese or Indian government data. China has not announced a ban or a new policy on Indian applicants, and the Embassy is accepting and processing applications. The reports do suggest closer scrutiny of trips to factories and technology firms, but that is the reporters' reading, not an official statement."
+      },
+      {
+        "type": "h2",
+        "text": "The official process since 26 October 2026"
+      },
+      {
+        "type": "p",
+        "text": "From 26 October 2026, the **Chinese Embassy in New Delhi** and the **Consulate General in Mumbai** accept visa applications directly. The service centres no longer take new applications. Mumbai covers Maharashtra and Karnataka. The Embassy covers every other state, including Gujarat, and for now also the Kolkata district: West Bengal, Bihar, Jharkhand, Odisha and Chhattisgarh. Our China visa new process guide has the full step-by-step."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Step 1:** fill the form and upload documents at consular.mfa.gov.cn/VISA. No fee is paid here.",
+          "**Step 2:** wait for the approval email. Do not go to the Embassy before you get it.",
+          "**Step 3:** within **30 days** of that email, submit your passport, form and documents in person.",
+          "**Step 4:** on the date on your pick-up slip, pay by bank-printed demand draft and collect. Regular processing is 7 working days, express 4 working days."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The online review is now the first filter. If your uploads are blurred, cropped or incomplete, the application can be sent back before you ever reach the counter."
+      },
+      {
+        "type": "h2",
+        "text": "Fees and fingerprints for Indians"
+      },
+      {
+        "type": "p",
+        "text": "The Embassy's fee schedule dated 22 October 2026 lists **₹2,900** for single entry, **₹4,400** double entry, **₹5,900** six-month multiple entry, **₹8,800** for multiple entry of 12 months or more, and **₹1,800** per person for group visas. Express adds ₹1,800 and urgent, where available, adds ₹2,700. Several reports describe these as reduced fees valid until 31 December 2026, and other Chinese missions have published fee reductions running to that date. The India fee notice itself does not state an end date, so check it again if you apply close to the new year."
+      },
+      {
+        "type": "p",
+        "text": "On 24 December 2025, the Embassy extended the fingerprint exemption for short-term visas with a stay of up to **180 days** until **31 December 2026**. Long-stay categories (D, J1, Q1, S1, X1 and Z) still give fingerprints."
+      },
+      {
+        "type": "h2",
+        "text": "Business (M) visa: the rules that catch most people"
+      },
+      {
+        "type": "h3",
+        "text": "The invitation letter"
+      },
+      {
+        "type": "p",
+        "text": "The letter from the Chinese company must state the purpose of the visit, carry a **handwritten Chinese signature** and be stamped with the company's **official seal**. A contract seal or personnel seal is not accepted. A printed signature or a seal pasted in digitally does not meet this rule. Some reports say these rules were tightened in April 2026. We could not find a dated Embassy notice confirming when they started, but they are in force in the current notice."
+      },
+      {
+        "type": "h3",
+        "text": "Business licence and inviter's ID"
+      },
+      {
+        "type": "p",
+        "text": "Copies of the inviting company's business licence and of its legal representative's or the inviter's ID must be valid and clear. The licence must show the company's scope of business. Both copies need a **handwritten Chinese endorsement**, not printed, saying the document is only for your visa application, with a handwritten Chinese signature and date."
+      },
+      {
+        "type": "h3",
+        "text": "Your cover letter"
+      },
+      {
+        "type": "p",
+        "text": "Your own company's letter must give its year of establishment and scope of business, the specific purpose of the trip and the exact length of stay. The Embassy warns that general phrases such as \"business visit\" or \"business meetings\" might not be accepted. Name the supplier, the factory or the trade fair, and the dates."
+      },
+      {
+        "type": "h2",
+        "text": "Tourist (L) and group visas: the bank balance test"
+      },
+      {
+        "type": "p",
+        "text": "Tourist applicants must give six months of personal savings account statements with a **consistent average monthly balance of at least ₹1 lakh**, or a bank deposit certificate of a similar amount made at least three months before the application, signed and stamped by the bank. A minor can use a parent's statement with an authorisation letter signed by the account holder. If you are on a group tour, ask the operator what each member must supply and what happens if one member is refused, before you pay."
+      },
+      {
+        "type": "h2",
+        "text": "Common document mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Phone number or email that is not yours.** The Embassy says the contact details in the form must belong to the applicant, not an agent.",
+          "**Poor uploads.** The ID photo must be clear, free of glare and uncropped. A photo of a screen is not accepted.",
+          "**Passport problems.** You need more than six months' validity, two blank visa pages, and copies of any passport issued in the past five years.",
+          "**Wrong photo.** Two colour photos, 48 mm x 33 mm, white background, no head covering, taken within six months.",
+          "**Missing old visas.** Include copies of Chinese visas from the past three years.",
+          "**Unattested certificates.** Marriage and birth certificates must be notarised and authenticated.",
+          "**Bad demand draft.** It must be bank-printed and payable to the exact name the Embassy or Consulate gives. Handwritten drafts are refused.",
+          "**Missing agency papers.** If an agent submits for you, the agency's qualification documents and the agent's ID are required."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What to do after a refusal"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Do not expect a reason.** Under Article 21, the officer need not give one, and the Embassy's notices do not describe an appeal.",
+          "**Review the file line by line** against the current Embassy notice. Most problems are in the invitation, the seals or the bank records.",
+          "**Get fresh documents.** Ask your Chinese host for a new invitation with a wet signature and official seal, and a newly endorsed licence copy.",
+          "**Be specific.** Rewrite the cover letter with exact dates, places and the names of the people you will meet.",
+          "**Reapply only when the file is stronger.** Sending the same papers again is unlikely to change the outcome.",
+          "**Plan a backup.** Reports say some Indian firms have moved supplier meetings to places such as Singapore, Malaysia, Thailand and Hong Kong while delays continue."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should apply now, and who should wait"
+      },
+      {
+        "type": "p",
+        "text": "If you have a fixed trade fair or factory visit, apply as early as the rules allow and build in time for a second attempt. If your Chinese host cannot supply a properly sealed invitation, wait until they can. Leisure travellers with a steady ₹1 lakh average balance and a complete, consistent file are in a stronger position. Do not book non-refundable flights until the visa is in your passport."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file China visas. We can review your documents against the Embassy's checklist before you submit. If your China plan falls through, our Ahmedabad team can arrange visas for **Singapore, Thailand, Malaysia, the UAE** and other countries we file, and plan holiday packages with hotels and private transfers. We have filed **5,000+** visas with a **98% approval rate**. WhatsApp **+91 82009 18967**."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "These rules were checked on **29 October 2026** against the Chinese Embassy in India's and Mumbai Consulate's notices dated 22 October 2026 and the other sources listed below. Rejection rates quoted in the news are not official. Confirm on in.china-embassy.gov.cn before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of China in India: Notice on Chinese Visa Application (2026.10.22)",
+        "url": "https://in.china-embassy.gov.cn/eng/sggg/202408/t20240820_11476941.htm"
+      },
+      {
+        "label": "Embassy of China in India: Notice on direct acceptance of visa applications from 26 October 2026",
+        "url": "https://in.china-embassy.gov.cn/eng/gdxw/202610/t20261022_12044936.htm"
+      },
+      {
+        "label": "Embassy of China in India: Notice on Schedule of Fees for Consular Service (2026.10.22)",
+        "url": "https://in.china-embassy.gov.cn/eng/lsfw/2consularservice/202610/t20261021_12044639.htm"
+      },
+      {
+        "label": "Embassy of China in India: Extension of the exemption from fingerprint collection (24 December 2025)",
+        "url": "https://in.china-embassy.gov.cn/eng/lsfw/tzts/202512/t20251224_11786151.htm"
+      },
+      {
+        "label": "Consulate General of China in Mumbai: Notice on Chinese Visa Application (2026.10.22)",
+        "url": "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/202610/t20261022_12044997.htm"
+      },
+      {
+        "label": "Consulate General of China in Mumbai: Notice on Schedule of Fees for Consular Service (2026.10.22)",
+        "url": "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of China: Online visa application system",
+        "url": "https://consular.mfa.gov.cn/VISA/"
+      },
+      {
+        "label": "Embassy of China in the US: Exit and Entry Administration Law of the People's Republic of China (Article 21)",
+        "url": "https://us.china-embassy.gov.cn/eng/unshown/visas/zyxx/201307/t20130702_4899883.htm"
+      },
+      {
+        "label": "Great Andhra: Alarming China visa rejections for Indians, 25 October 2026",
+        "url": "https://www.greatandhra.com/articles/special-articles/alarming-china-visa-rejections-for-indians/"
+      },
+      {
+        "label": "Bloomberg: India says it's in talks with China on business visa delays, 22 August 2026",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-says-it-s-in-talks-with-china-on-business-visa-delays"
+      },
+      {
+        "label": "eChinaCities: Reports say China slashes business visa approvals for Indian applicants (August 2026)",
+        "url": "https://www.echinacities.com/career-advice/Reports-China-Slashes-Business-Visa-Approvals-for-Indian-Applicants"
+      },
+      {
+        "label": "VisasNews: China extends visa fee reduction until 31 December 2026 (29 December 2025)",
+        "url": "https://visasnews.com/en/china-extends-visa-fees-reduction-until-december-31-2026/"
+      }
+    ]
+  },
+  {
+    "slug": "us-visa-integrity-fee-india-2026",
+    "title": "US Visa Integrity Fee: Is the $250 Charged in India?",
+    "metaTitle": "US Visa Integrity Fee 2026: India Status | Travlys",
+    "metaDescription": "The $250 US visa integrity fee is law, but as of 29 October 2026 we found no official notice that it is collected in India. What it is, refunds and B1/B2 costs.",
+    "excerpt": "The $250 visa integrity fee became US law in July 2025 and is due when a visa is issued. As of 29 October 2026 we found no official sign that it is being collected from Indian applicants. Here is what the law says and what a B1/B2 visa costs today.",
+    "date": "2026-10-29",
+    "updated": "2026-10-29",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "USA",
+      "B1/B2",
+      "Visa integrity fee",
+      "Visa fees",
+      "Visa rule updates"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-changes-2026-indian-applicants",
+      "us-visa-appointment-wait-time-india-2026",
+      "us-visa-from-india-2026-complete-guide"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get help with your US visa"
+    },
+    "faqs": [
+      {
+        "q": "Is the $250 US visa integrity fee charged in India now?",
+        "a": "We could not confirm that it is. As of 29 October 2026, we found no Federal Register rule, State Department notice or US Embassy India notice saying collection has started. The law requires the fee, but a July 2025 DHS notice said it needs cross-agency coordination and will be implemented in a future publication. Some law firm guides say a few posts collect it, but none names an Indian post."
+      },
+      {
+        "q": "When would I pay the visa integrity fee?",
+        "a": "At the time your visa is issued, not when you apply. The law says the fee is paid by any person issued a nonimmigrant visa at the time of issuance. So if your visa is refused, you would not pay it. You would still pay the $185 application fee, which is charged before the interview and is non-refundable whatever the result."
+      },
+      {
+        "q": "Can I get the $250 visa integrity fee refunded?",
+        "a": "Possibly, but not soon and not automatically. The law lets DHS reimburse it after your visa's validity ends, if you obeyed all visa conditions, did no unauthorised work, and either left within five days of your permitted stay ending or got an extension or green card. For a 10-year B1/B2 visa, that means waiting about 10 years. DHS has not published any claim process."
+      },
+      {
+        "q": "Does the visa integrity fee apply to children and every visa type?",
+        "a": "The law applies it to any person issued a nonimmigrant visa, with no exemption for age, so each family member would pay it on their own visa. That covers B1/B2, F-1, J-1, H-1B, H-4, L-1 and other temporary visas. The law also says the fee cannot be waived or reduced. It does not apply to immigrant visas or green cards."
+      },
+      {
+        "q": "What is the total cost of a US tourist visa from India in 2026?",
+        "a": "The government fee is $185 for a B1/B2 visa. At the consular rate of ₹98 per dollar set from 25 May 2026, that is ₹18,130. Indians pay no reciprocity fee on a B1/B2 visa. If the integrity fee starts, add $250, about ₹24,500 at the same rate. Travlys's service fee for a US visa starts from ₹19,940, on top of government fees."
+      },
+      {
+        "q": "Will the visa integrity fee be more than $250?",
+        "a": "It could be. The law set $250 for fiscal year 2025 and says the amount rises each fiscal year from 2026 in line with the US Consumer Price Index for All Urban Consumers, rounded down to the nearest dollar. DHS can also set a higher amount by rule. No official adjusted figure had been published as of 29 October 2026."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The **$250 US visa integrity fee** is real law, signed on 4 July 2025, and is meant to be paid when a nonimmigrant visa is issued. But as of **29 October 2026**, we found no official notice from the State Department, the US Embassy in India or the Federal Register that it is being collected from Indian applicants. A B1/B2 applicant from India currently pays the **$185** application fee, about ₹18,130 at the consular rate."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Law:** One Big Beautiful Bill Act (Public Law 119-21), section 100007, signed 4 July 2025. **Amount:** at least $250, rising with US inflation each fiscal year. **Who pays:** anyone issued a US nonimmigrant visa, including children. **When:** at visa issuance, not at application. **Waiver:** not allowed. **Refund:** possible after the visa expires if you follow its conditions, but no process exists yet. **Collected in India?** Not confirmed as of 29 October 2026. **B1/B2 fee now:** $185, about ₹18,130 at ₹98 per dollar. **Reciprocity fee for Indians (B1/B2):** none."
+      },
+      {
+        "type": "h2",
+        "text": "Is the $250 visa integrity fee being collected in India?"
+      },
+      {
+        "type": "p",
+        "text": "We could not find any official evidence that it is. The US Embassy in India's visa page, checked on 29 October 2026, says nothing about the fee, and the only Federal Register notice that mentions it says it will be implemented in a future publication. Until an official notice appears, plan for it but do not assume you will be asked to pay it."
+      },
+      {
+        "type": "h2",
+        "text": "What the visa integrity fee is"
+      },
+      {
+        "type": "p",
+        "text": "The fee was created by section 100007 of the budget law known as the **One Big Beautiful Bill Act**, signed on **4 July 2025**. It is now in the US Code at 8 USC 1806. It says the Secretary of Homeland Security shall require a fee from **any alien issued a nonimmigrant visa**, at the time of issuance, on top of any other fee. For fiscal year 2025 the amount was set at the greater of **$250** or a higher amount DHS sets by rule."
+      },
+      {
+        "type": "p",
+        "text": "The law says the fee **cannot be waived or reduced**. Fees that are not refunded go to the US Treasury's general fund, not to the State Department."
+      },
+      {
+        "type": "h2",
+        "text": "Who would pay it, and who would not"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Would pay:** anyone issued a temporary (nonimmigrant) visa, such as B1/B2 visitors, F-1 students, J-1 exchange visitors, H-1B workers, H-4 and F-2 dependants, and L-1 transferees.",
+          "**Children:** the law has no age exemption, so each child's visa would carry the fee.",
+          "**Refused applicants:** would not pay, because it is charged at issuance.",
+          "**Would not pay:** immigrant visa applicants, and travellers who enter without a visa. Indian passport holders are not eligible for the US Visa Waiver Program, so this rarely helps Indians."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Refunds: what the law allows"
+      },
+      {
+        "type": "p",
+        "text": "The law says DHS **may** reimburse the fee after your visa's period of validity ends, if you show both of these:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "After entering the US on that visa, you complied with all its conditions, including not accepting unauthorised employment.",
+          "Either you did not seek to extend your stay and left the US no later than **5 days** after your permitted period ended, or you were granted an extension or an adjustment to permanent residence during the visa's validity."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Three things to note. The word is \"may\", so a refund is not guaranteed. A refund comes only after the visa expires, and Indian B1/B2 visas are often issued for up to **120 months**, so you could wait about 10 years. And as of 29 October 2026, DHS has not published how to claim a refund. Keep your I-94 records, entry and exit stamps and boarding passes for every trip."
+      },
+      {
+        "type": "h2",
+        "text": "The inflation adjustment"
+      },
+      {
+        "type": "p",
+        "text": "From fiscal year 2026, the fee rises each year by the percentage increase in the **Consumer Price Index for All Urban Consumers (CPI-U)** for July compared with July of the previous year, rounded down to the nearest dollar. The US fiscal year starts on 1 October. No official adjusted amount has been published, so if collection starts, the figure you are charged could be a little above $250."
+      },
+      {
+        "type": "h2",
+        "text": "What we checked on 29 October 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Federal Register:** the only notice naming the fee is DHS's 22 July 2025 USCIS fee notice. It says the visa integrity fee requires cross-agency coordination and will be implemented in a future publication. We found no later implementing rule.",
+          "**US Embassy India visa page:** no mention of the fee. It does confirm the consular exchange rate of ₹98 per dollar from 25 May 2026.",
+          "**State Department fee page:** the live page blocked automated access. The latest copy we could read, from 9 July 2026, lists $185 for B visas and has no integrity fee.",
+          "**Secondary reports conflict:** one immigration law firm guide, updated June 2026, says some embassies collect the fee while others wait for payment systems, but names no posts. Other guides from October 2026 say it is not being collected."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Our reading: the fee is law but, for Indian applicants, it is not visibly in force. That can change with one notice, so check the official fee page before you pay."
+      },
+      {
+        "type": "h2",
+        "text": "What a B1/B2 visa costs from India today"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application (MRV) fee:** **$185**, about **₹18,130** at ₹98 per dollar. Non-refundable, even if you are refused. Unchanged since June 2023.",
+          "**Reciprocity (issuance) fee:** none for Indian B1/B2 visas, which can be issued for up to 120 months with multiple entries.",
+          "**Visa integrity fee:** $0 today as far as we can confirm. Keep **$250** (about ₹24,500) in reserve per visa in case it starts.",
+          "**Paid express appointment:** a $750 pilot runs to 31 December 2026, but law firm summaries list posts in Mexico, Canada and some Central and South American countries, not India.",
+          "**Your own costs:** photos, travel to the visa centre and consulate for biometrics and interview, and any service fee you choose to pay."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a family of four, the government fee alone is $740, about ₹72,520. If the integrity fee starts, add $1,000. Our visa cost calculator at travlys.com/visa-cost-calculator/ and the visa fees table at travlys.com/visa-fees/ help you total it up."
+      },
+      {
+        "type": "h2",
+        "text": "What to do now"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Do not delay your application waiting for clarity. The bigger problem is appointment waits, covered in our post on US visa appointment wait times for October 2026.",
+          "Budget an extra $250 per person, but do not pay it to anyone unless the official appointment system or the consulate asks for it.",
+          "Ignore anyone offering to \"pre-pay\" the integrity fee for you. There is no such official route.",
+          "Keep every travel record. If refunds open, you will need to show you left on time.",
+          "Read our US visa changes 2026 post for the interview, social media and H-1B rules that sit alongside this fee."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys is an Ahmedabad-based visa consultancy with **5,000+** visas filed and a **98% approval rate**. Our US visa service starts from **₹19,940**, plus government fees, and covers your DS-160, fee payment, appointment booking, document checks and interview preparation. WhatsApp **+91 82009 18967**."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "These rules were checked on **29 October 2026** against the sources listed below. The live State Department fee page could not be read on that date, so we relied on its 9 July 2026 copy and on the US Embassy India page. Confirm the current fee on the official sites before you pay."
+      }
+    ],
+    "sources": [
+      {
+        "label": "US Government Publishing Office: Public Law 119-21, section 100007, Visa integrity fee",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Federal Register: USCIS immigration fees required by HR-1 reconciliation bill, 22 July 2025",
+        "url": "https://www.federalregister.gov/documents/2025/07/22/2025-13738/uscis-immigration-fees-required-by-hr-1-reconciliation-bill"
+      },
+      {
+        "label": "US Department of State: Fees for visa services (copy of 9 July 2026)",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html"
+      },
+      {
+        "label": "US Department of State: India reciprocity schedule",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/India.html"
+      },
+      {
+        "label": "US Embassy and Consulates in India: Visas (consular exchange rate and service notices)",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "US Department of State: Nonimmigrant visa expedited appointment pilot program",
+        "url": "https://travel.state.gov/en/newsroom/visas/2026/nonimmigrant-visa-expedited-appointment-pilot-program.html"
+      },
+      {
+        "label": "Erickson Immigration Group: DOS expands nonimmigrant visa expedited appointment pilot, 19 August 2026",
+        "url": "https://eiglaw.com/dos-expands-nonimmigrant-visa-expedited-appointment-pilot/"
+      },
+      {
+        "label": "Ellis (immigration law firm): The $250 visa integrity fee, updated 18 June 2026",
+        "url": "https://www.ellis.com/resources/visa-integrity-fee"
+      },
+      {
+        "label": "Alliance for International Exchange: Rollout details and timing of new visa integrity fee remain unclear",
+        "url": "https://www.alliance-exchange.org/alliance-commentary/rollout-details-and-timing-of-new-visa-integrity-fee-remain-unclear"
+      }
+    ]
+  },
+  {
+    "slug": "phu-quoc-visa-free-for-indians-2026",
+    "title": "Phu Quoc Visa Free for Indians: The 30-Day Rule in 2026",
+    "metaTitle": "Phu Quoc Visa Free for Indians 2026 | Travlys",
+    "metaDescription": "Yes, Indians can visit Phu Quoc visa-free for up to 30 days if they fly in directly and stay on the island. Mainland Vietnam needs an e-visa. Rules and flights.",
+    "excerpt": "Indians can visit Vietnam's Phu Quoc island without a visa for up to 30 days, but only if they enter directly and never leave the island. Here is how the rule works, when you need an e-visa, and the new direct flight from Ahmedabad.",
+    "date": "2026-10-29",
+    "updated": "2026-10-29",
+    "readMinutes": 7,
+    "category": "Travel planning",
+    "tags": [
+      "Vietnam",
+      "Phu Quoc",
+      "Visa-free travel",
+      "E-visa",
+      "Southeast Asia",
+      "Winter 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600&h=900&fit=crop",
+    "related": [
+      "vietnam-e-visa-for-indians-2026",
+      "thailand-visa-free-for-indians-2026",
+      "new-international-flights-from-india-winter-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Phu Quoc?",
+        "a": "No, not if Phu Quoc is the only place you visit in Vietnam and you stay 30 days or less. You must enter from abroad through the island's international airport or seaport and show a ticket leaving Phu Quoc within 30 days. If you plan to visit Hanoi, Da Nang, Ho Chi Minh City or anywhere else on the mainland, you need a Vietnam e-visa before you travel."
+      },
+      {
+        "q": "Can I fly to Phu Quoc via Ho Chi Minh City or Hanoi without a visa?",
+        "a": "Only if you never clear immigration at the first airport and stay in its international transit area, which most domestic connections do not allow. Flights from Hanoi or Ho Chi Minh City to Phu Quoc are domestic, so you usually pass through immigration on arrival in the first city. Then you have entered mainland Vietnam and need an e-visa. Ask your airline in writing before you book."
+      },
+      {
+        "q": "How long can I stay in Phu Quoc without a visa?",
+        "a": "You can stay up to 30 days under the Phu Quoc visa exemption. Vietnamese embassy guidance says you must show proof, such as a return flight, that you will leave the island within 30 days to get the exemption stamp. If you think you may need longer, or may need to go to the mainland, apply for a Vietnam e-visa on evisa.gov.vn before you fly."
+      },
+      {
+        "q": "Is there a direct flight from India to Phu Quoc?",
+        "a": "Yes, from Ahmedabad. Sun PhuQuoc Airways starts nonstop Ahmedabad to Phu Quoc flights in December 2026, five times a week, with plans to go daily from early February 2027. Flight 9G314 leaves Ahmedabad at 1:00 am and lands at 7:15 am local time. From other Indian cities you will need one stop, so check where you clear immigration."
+      },
+      {
+        "q": "Can I visit mainland Vietnam on the Phu Quoc visa exemption?",
+        "a": "No. The exemption covers travel and stay on Phu Quoc island only. The Indian Embassy in Hanoi said so plainly in its April 2026 advisory. If you want to add Hanoi, Ha Long Bay, Da Nang or Ho Chi Minh City, get a Vietnam e-visa covering your whole trip before you leave India."
+      },
+      {
+        "q": "Should I get a Vietnam e-visa even for a Phu Quoc-only trip?",
+        "a": "The Indian Embassy in Hanoi recommends it. A medical emergency or a flight disruption could force you to travel to Ho Chi Minh City or Hanoi, and without a visa that becomes an immigration problem. For a short island-only trip on a direct flight the exemption is legal, but an e-visa from evisa.gov.vn is cheap protection, especially for families travelling with older parents."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes. Indian passport holders can visit Phu Quoc island in Vietnam without a visa for up to 30 days, as long as Phu Quoc is the only place in Vietnam they visit and they arrive from abroad through the island's international airport or seaport. If your route makes you clear immigration in Hanoi or Ho Chi Minh City, or you want to see any part of mainland Vietnam, you need a Vietnam e-visa."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa for Phu Quoc only:** Not needed, up to 30 days. **Who qualifies:** All foreign passport holders, including Indians. **Entry point:** Phu Quoc International Airport or the island's international seaport. **Transit inside Vietnam:** Allowed only if you stay in the international transit area. **Mainland Vietnam:** Needs a Vietnam e-visa (evisa.gov.vn). **Proof needed:** Return or onward ticket leaving Phu Quoc within 30 days. **Direct flight from India:** Sun PhuQuoc Airways, Ahmedabad to Phu Quoc, from December 2026. **Indian Embassy advice:** Get a Vietnam visa anyway, even for an island-only trip."
+      },
+      {
+        "type": "h2",
+        "text": "Why Phu Quoc is suddenly on Indian itineraries"
+      },
+      {
+        "type": "p",
+        "text": "Phu Quoc has moved from a niche honeymoon pick to a mainstream winter option. Agoda data released on 27 October 2026 shows that searches by Indian travellers for Phu Quoc stays between 15 October and 30 November 2026 grew **124%** compared with the same period last year. Searches for Vietnam as a whole grew 86% and Hanoi 94%."
+      },
+      {
+        "type": "p",
+        "text": "Arrivals back this up. Vietnam received about 243,000 Indian tourists in the first quarter of 2026, up 69% year on year, according to Vietnam National Tourism Administration figures reported by VnExpress. Vietnam's state news agency reports that Phu Quoc alone received around 150,000 Indian visitors in 2025, even without a nonstop flight from India. The visa rule is a big part of the appeal: no application, no fee, no waiting."
+      },
+      {
+        "type": "h2",
+        "text": "Can Indians visit Phu Quoc without a visa?"
+      },
+      {
+        "type": "p",
+        "text": "Yes, for up to 30 days, if you enter Vietnam directly at Phu Quoc and stay only on the island. You will get a visa exemption stamp on arrival after showing proof that you will leave within 30 days. The moment your plan includes the mainland, or your route makes you clear immigration elsewhere in Vietnam first, you need an e-visa."
+      },
+      {
+        "type": "h2",
+        "text": "How the Phu Quoc visa exemption works"
+      },
+      {
+        "type": "p",
+        "text": "Vietnam has let foreigners, and Vietnamese people holding foreign passports, enter, stay in and leave Phu Quoc without a visa for stays of up to 30 days for more than a decade. It is an island-specific rule, separate from Vietnam's nationwide visa-free list, which does not include India. Vietnamese embassy guidance describes it as applying when Phu Quoc is your only destination in Vietnam."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Only destination:** Phu Quoc must be the only place you visit in Vietnam on that trip.",
+          "**Entry from abroad:** You arrive on an international flight at Phu Quoc International Airport, or by sea through the island's international port.",
+          "**Transit rule:** If you change planes at another Vietnamese international airport, you must stay in its international transit area and not pass through immigration there.",
+          "**Maximum stay:** 30 days.",
+          "**Proof of departure:** A return or onward ticket leaving Phu Quoc within 30 days. Immigration may ask for it before stamping you in.",
+          "**Passport:** Carry a passport with at least six months' validity. Airlines commonly check this, and it is the safe standard for Vietnam."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "One admin change you may notice: Kien Giang province merged into An Giang province on 1 July 2025, and Phu Quoc became a special zone of An Giang. Older pages still say Phu Quoc, Kien Giang. We found no change to the visa exemption linked to the merger."
+      },
+      {
+        "type": "h2",
+        "text": "What if you fly via Hanoi or Ho Chi Minh City?"
+      },
+      {
+        "type": "p",
+        "text": "This is where most travellers get caught. On paper, the exemption still applies if you pass through another Vietnamese international airport and stay in its transit area before flying on to Phu Quoc. In practice, flights from Hanoi or Ho Chi Minh City to Phu Quoc are domestic flights. On most such connections you collect your bags and clear immigration at the first airport. At that point you have entered mainland Vietnam, and you need a visa."
+      },
+      {
+        "type": "p",
+        "text": "Before you book a connection through Vietnam, ask the airline in writing where you will clear immigration. If they cannot confirm that you stay airside and clear immigration only at Phu Quoc, get an e-visa. If you connect through a hub outside Vietnam, your flight into Phu Quoc is international and you clear immigration on the island, which keeps the exemption simple."
+      },
+      {
+        "type": "h2",
+        "text": "Flights from India to Phu Quoc this winter"
+      },
+      {
+        "type": "p",
+        "text": "The big news is the first nonstop route. Sun PhuQuoc Airways, a Vietnamese carrier, launches Ahmedabad to Phu Quoc flights in December 2026 on an Airbus A321neo. The first flight from Phu Quoc runs on 2 December, and the first from Ahmedabad leaves in the early hours of 3 December, which is why you will see both dates in news reports."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**9G314 Ahmedabad to Phu Quoc:** departs 1:00 am, arrives 7:15 am local time, about 4 hours 45 minutes in the air.",
+          "**9G315 Phu Quoc to Ahmedabad:** departs 7:35 pm, arrives 11:30 pm local time, about 5 hours 25 minutes.",
+          "**Frequency:** Five a week at launch (Monday, Wednesday, Thursday, Friday and Sunday, per reports), rising to daily from early February 2027, subject to the airline's schedule.",
+          "**Introductory fare:** One-way fares from ₹9,596 including taxes were announced for the first four flights in each direction. Fares change, so check the airline's site."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "From Mumbai, Delhi, Bengaluru, Kolkata and other cities, we found no confirmed nonstop scheduled flight as of 29 October 2026, so plan on one stop. Our guide to new international flights for winter 2026 covers other new routes. If your connection is inside Vietnam, re-read the section above before you pay."
+      },
+      {
+        "type": "h2",
+        "text": "The Indian Embassy's advice: get a visa anyway"
+      },
+      {
+        "type": "p",
+        "text": "On 6 April 2026 the Embassy of India in Hanoi posted an advisory for Indians using the Phu Quoc exemption. It said the exemption allows travel and stay only within the island and does not permit entry into mainland Vietnam. It warned that a medical emergency or flight disruption could force you to Ho Chi Minh City or Hanoi, and without a valid visa you could face delays in treatment and immigration trouble. Its recommendation: apply for the right Vietnamese visa before travelling, even for an island-only trip."
+      },
+      {
+        "type": "p",
+        "text": "The advisory also covered lost passports. The Embassy aims to issue an emergency travel document the same day, but Vietnamese authorities usually take 3 to 5 working days to issue an exit permit, and you must stay in Vietnam until it comes through. Keep scans of your passport and visa pages in your email."
+      },
+      {
+        "type": "h2",
+        "text": "Exemption or e-visa: which suits you"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Use the exemption if:** you fly nonstop from Ahmedabad, or via a hub outside Vietnam, stay only on Phu Quoc, and are back home within 30 days.",
+          "**Get an e-visa if:** you connect through Hanoi or Ho Chi Minh City, want to add any mainland city, or are unsure about your route.",
+          "**Strongly consider an e-visa if:** you are travelling with elderly parents, young children or anyone with a medical condition, since a hospital transfer to the mainland is a real possibility.",
+          "**E-visa basics:** Vietnam issues e-visas to all nationalities through the official portal, evisa.gov.vn, valid for up to 90 days, single or multiple entry. Our Vietnam e-visa guide walks through the steps and fees. Use only the official portal; copycat sites charge more for the same visa."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Practical tips before you fly"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Carry a printed copy of your return ticket and hotel booking. Airline check-in staff in India may ask for them before boarding a visa-free trip.",
+          "Plan to leave well inside 30 days. Do not count on extending the stay on the island.",
+          "You do not pay anyone for the Phu Quoc exemption. If a website charges a Phu Quoc visa fee for an island-only trip, you are paying for nothing.",
+          "Buy travel insurance that covers hospital treatment and medical transfer, given the Embassy's warning.",
+          "If you are combining Phu Quoc with Thailand or Malaysia, both are currently visa-free for Indians under their own rules; see our Thailand visa-free and Malaysia visa-free guides for the conditions."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys has filed 5,000+ visas with a 98% approval rate. For a Phu Quoc trip, we can check your documents before you fly, including passport validity, return tickets and whether your route needs an e-visa. We also plan holiday packages with hotels and private transfers, so ask us whether a Phu Quoc package fits your dates. If you are adding Singapore, Thailand or Malaysia to the trip, we file those visas too. WhatsApp us on +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules and flight details were checked on 29 October 2026 against the sources listed below. Vietnam can change entry rules at short notice, so check evisa.gov.vn and the Embassy of India in Hanoi before you travel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "PR Newswire (Agoda): Festive travel gets more intentional, Indian travelers look beyond the traditional holiday (27 Oct 2026)",
+        "url": "https://www.prnewswire.com/apac/news-releases/festive-travel-gets-more-intentional-indian-travelers-look-beyond-the-traditional-holiday-agoda-reports-302920234.html"
+      },
+      {
+        "label": "Embassy of Vietnam in the Czech Republic: E-visa Vietnam and Phu Quoc visa exemption",
+        "url": "https://vnembassy-praha.mofa.gov.vn/vi-vn/Th%E1%BB%8B%20th%E1%BB%B1c%20Vi%E1%BB%87t%20Nam/Trang/default.aspx"
+      },
+      {
+        "label": "VOV: Visa exemption means foreign tourists can visit Phu Quoc for up to 30 days",
+        "url": "https://kynguyenvuonminh.vov.vn/en/travel/places/visa-exemption-means-foreign-tourists-can-visit-phu-quoc-for-up-to-30-days-post1009205.vov"
+      },
+      {
+        "label": "Vietnam National Electronic Visa system: Official e-visa portal",
+        "url": "https://evisa.gov.vn/"
+      },
+      {
+        "label": "Embassy of Vietnam in Singapore: E-visa for citizens of all countries, valid up to 90 days",
+        "url": "https://vnembassy-singapore.mofa.gov.vn/en-us/Pages/default.aspx"
+      },
+      {
+        "label": "VnExpress International: India issues advisory for citizens traveling to Phu Quoc under visa-free scheme (6 Apr 2026)",
+        "url": "https://e.vnexpress.net/news/travel/visa/india-issues-advisory-for-citizens-traveling-to-phu-quoc-under-visa-free-scheme-5059413.html"
+      },
+      {
+        "label": "Business Today: Phu Quoc visa-free entry comes with risks, India issues travel advisory (7 Apr 2026)",
+        "url": "https://www.businesstoday.in/nri/visa/story/travelling-to-vietnam-phu-quoc-visa-free-entry-comes-with-risks-india-issues-travel-advisory-524379-2026-04-07"
+      },
+      {
+        "label": "VietnamPlus: Sun PhuQuoc Airways to launch first nonstop service to India (16 Oct 2026)",
+        "url": "https://en.vietnamplus.vn/sun-phuquoc-airways-to-launch-first-nonstop-service-to-india-post353798.vnp"
+      },
+      {
+        "label": "Business Today: Sun PhuQuoc Airways announces direct flights from Ahmedabad (20 Oct 2026)",
+        "url": "https://www.businesstoday.in/india/story/planning-a-vietnam-trip-sun-phuquoc-airways-announces-direct-flights-from-ahmedabad-562624-2026-10-20"
+      },
+      {
+        "label": "An Giang Provincial Portal: An Giang and Kien Giang merge",
+        "url": "https://angiang.gov.vn/en/an-giang-and-kien-giang-merge-new-growth-pole-mekong-delta"
+      }
+    ]
+  },
+  {
+    "slug": "when-to-apply-for-visa-from-india-by-country",
+    "title": "When to Apply for a Visa from India: Country-by-Country Guide",
+    "metaTitle": "When to Apply for a Visa from India by Country | Travlys",
+    "metaDescription": "How early to apply for a visa from India: Schengen up to 6 months ahead, UK 3 months, USA as early as possible. Timings for 9 countries, checked October 2026.",
+    "excerpt": "How early you should apply for a visa depends on the country: six months ahead for Schengen, three for the UK, and as soon as possible for the USA. Here are the earliest dates, sensible deadlines and current processing times for nine popular destinations.",
+    "date": "2026-10-29",
+    "updated": "2026-10-29",
+    "readMinutes": 8,
+    "category": "Country guides",
+    "tags": [
+      "Visa planning",
+      "Processing times",
+      "Schengen visa",
+      "UK visa",
+      "US visa",
+      "Peak season"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "uk-visa-for-indians-2026-fees-processing-time",
+      "us-visa-appointment-wait-time-india-2026"
+    ],
+    "faqs": [
+      {
+        "q": "How early can I apply for a Schengen visa from India?",
+        "a": "You can apply up to six months before your trip, and as a rule no later than 15 calendar days before it. The standard decision time is 15 days, which can stretch to 45 days if the consulate needs more checks or documents. Because appointment slots in India fill up before summer and Christmas, aim to apply six to eight weeks ahead at the latest."
+      },
+      {
+        "q": "How early can I apply for a UK visitor visa?",
+        "a": "The earliest you can apply for a UK Standard Visitor visa is three months before you travel. GOV.UK says you will usually get a decision within three weeks of applying online, proving your identity and providing your documents. Apply as close to the three-month mark as you can, and at least six to eight weeks ahead in summer."
+      },
+      {
+        "q": "How long before travel should I apply for a US visa from India?",
+        "a": "As early as possible, because the wait is for the interview appointment, not the decision. US State Department estimates for B1/B2 visitor interviews in India, as reported on 21 October 2026, ranged from about 7.5 months in Chennai to about 12 months in Mumbai. There is no fixed earliest date, so book the appointment as soon as you know you want to travel."
+      },
+      {
+        "q": "Can I apply for a Japan visa too early?",
+        "a": "Yes. A Japanese single-entry visa is valid for three months from the date it is issued, not from your travel date. If you apply too early and travel after it expires, you must apply again. Apply within roughly the three months before your trip and allow at least five working days, plus extra time in busy months such as March and April."
+      },
+      {
+        "q": "Should I book flights before my visa is approved?",
+        "a": "Do not buy non-refundable flights before your visa is approved. Immigration New Zealand says this directly, and the same logic applies everywhere: a refusal or delay can cost you the whole fare. Most applications need a travel plan, so use a flight reservation, a refundable fare or a fare hold until the visa is in hand."
+      },
+      {
+        "q": "How many days before travel should I apply for a Singapore visa?",
+        "a": "Apply within 30 days before your arrival in Singapore, as ICA advises. Processing usually takes three working days, not counting the day you submit, though some applications take longer. Applying two to four weeks before travel is the sensible window. Your passport must be valid for at least six months from the date you enter Singapore."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Apply as early as the rules allow. For Indian travellers that means up to six months ahead for Schengen, three months ahead for the UK, and as soon as you know your plans for the USA, where interview waits now run close to a year at some posts. For Singapore, apply within 30 days of arrival, and for Japan within about three months, because applying too early can make the visa expire before you fly."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**USA:** No earliest date; interview waits of roughly 7.5 to 12 months reported in October 2026. **UK:** Earliest 3 months before travel; decision usually within 3 weeks. **Schengen:** 6 months to 15 days before; 15 days standard, up to 45. **Canada:** About 29 days for India (IRCC, 14 October 2026). **Australia:** Check Home Affairs; recent reports around a month. **Japan:** Minimum 5 working days; single-entry visa valid 3 months from issue. **Singapore:** Within 30 days before arrival; about 3 working days. **UAE:** Usually a few working days through a sponsor. **New Zealand:** 80% decided within 2 weeks; busiest September to March."
+      },
+      {
+        "type": "h2",
+        "text": "How early should I apply for a visa?"
+      },
+      {
+        "type": "p",
+        "text": "As early as the destination allows, and never later than the processing time plus a few weeks of buffer. Some countries set an earliest date (UK, Schengen, Singapore) and some effectively set one through visa validity (Japan). For the USA, the bottleneck is the interview queue, so the right answer is now."
+      },
+      {
+        "type": "h2",
+        "text": "Country-by-country timing for Indian applicants"
+      },
+      {
+        "type": "p",
+        "text": "Each item shows the earliest you can apply, the latest sensible date, typical processing, and a peak-season warning. Processing times for Canada, Australia, New Zealand and the USA change weekly or monthly, so check the official page named in each item before you plan around a number."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**USA (B1/B2 visitor):** Earliest: no fixed date, so book the interview as soon as you plan the trip. Latest sensible: 9 to 12 months before travel if you apply in Mumbai or New Delhi. Typical: the wait is the appointment. State Department estimates updated on 21 October 2026, as reported by Business Today, were about 12 months in Mumbai, 11 in New Delhi, 10.5 in Hyderabad, 8.5 in Kolkata and 7.5 in Chennai. Peak warning: student visa season in summer squeezes slots. Check the wait-times tool on travel.state.gov.",
+          "**UK (Standard Visitor):** Earliest: 3 months before you travel. Latest sensible: 6 to 8 weeks before, to cover the biometrics appointment and a possible request for more documents. Typical: usually a decision within 3 weeks; the fee is £135 for up to 6 months. Peak warning: May to August is the busiest stretch, so apply the day your three-month window opens. GOV.UK lists faster decision options where available.",
+          "**Schengen (short stay):** Earliest: 6 months before travel. Latest: as a rule 15 calendar days before, under the EU Visa Code. Latest sensible: 6 to 8 weeks before, because appointment slots in India go first. Typical: 15 days, extendable to 45 days if more checks are needed; the fee is €90 for adults. Peak warning: April to June for summer trips and October to November for Christmas trips.",
+          "**Canada (visitor visa):** Earliest: no fixed date. Latest sensible: 2 to 3 months before travel. Typical: IRCC's estimate for visitor visas from India was 29 days on 14 October 2026, down from 30 days a week earlier, counted from receipt of a complete application, with biometrics on top. Peak warning: summer and December family visits. IRCC updates the estimate weekly on its processing times page.",
+          "**Australia (Visitor subclass 600, Tourist stream):** Earliest: no fixed date. Latest sensible: 6 to 8 weeks before travel. Typical: Home Affairs publishes global processing times monthly; recent reports put 90% of applications decided within about a month, but check the current figure. See our guide on Australia visa biometrics in India for the extra appointment step. Peak warning: December and January.",
+          "**Japan (short-term stay):** Earliest: about 3 months before travel, because a single-entry visa is valid for 3 months from the date of issue. Latest sensible: 3 to 4 weeks before. Typical: a minimum of 5 working days from submission, according to Japan's missions in India, longer in busy periods. Peak warning: cherry blossom season (March to April) and autumn colours (October to November).",
+          "**Singapore:** Earliest: ICA advises applying within 30 days before arrival. Latest sensible: 2 weeks before. Typical: 3 working days, not counting the day of submission, though some take longer; the processing fee is S$30. Peak warning: May to June school holidays and December.",
+          "**UAE (tourist visa):** Earliest: apply once your dates are fixed, since tourist visas carry a limited window to enter. Latest sensible: 1 to 2 weeks before. Typical: usually a few working days through an airline, hotel, travel agent or the ICP portal; we could not confirm a published official processing time. Peak warning: New Year, Eid and the Dubai Shopping Festival season. If you hold a valid US visa or UK or EU residence, you may qualify for visa on arrival instead.",
+          "**New Zealand (Visitor Visa):** Earliest: no fixed date; Immigration New Zealand says to submit as soon as possible. Latest sensible: 6 weeks before travel. Typical: 80% of applications decided within 2 weeks; fees start from NZD 441. Peak warning: INZ says September to March is its busiest period, especially for Christmas travel."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Peak seasons in India: when to add extra weeks"
+      },
+      {
+        "type": "h3",
+        "text": "Diwali and the October to November break"
+      },
+      {
+        "type": "p",
+        "text": "Diwali falls in early November this year. If you are reading this with no visa yet, a Schengen, UK or US trip for Diwali is unrealistic. Look at options that need little or no paperwork: Thailand's 30-day visa-free entry, Malaysia's visa-free entry until 31 December 2026, Sri Lanka's free ETA and the Phu Quoc exemption. For Diwali 2027, start Schengen and UK applications by August and US interviews now."
+      },
+      {
+        "type": "h3",
+        "text": "December holidays and New Year"
+      },
+      {
+        "type": "p",
+        "text": "Christmas in Europe, New Year in Dubai and summer in Australia and New Zealand all collide in December. Schengen consulates and VFS centres see heavy demand from October. If you want Christmas markets, apply in September or early October. For Dubai, apply once your dates are fixed; prices and demand rise sharply around New Year."
+      },
+      {
+        "type": "h3",
+        "text": "Summer holidays (April to June)"
+      },
+      {
+        "type": "p",
+        "text": "This is the busiest season for Indian outbound travel. Schengen applications open six months ahead, so a June trip can be applied for from December. UK applications open three months ahead, so a June trip can be applied for from March. Students heading to the US, UK and Canada compete for the same appointment slots, so book biometrics early."
+      },
+      {
+        "type": "h2",
+        "text": "Booking flights: the non-refundable trap"
+      },
+      {
+        "type": "p",
+        "text": "Immigration New Zealand tells applicants plainly not to book non-refundable travel until the visa is approved. Treat that as the rule for every country. A refusal, or a decision that arrives a week late, can cost you the full fare and the hotel deposit."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Most applications ask for a travel plan, not a paid ticket. Check your consulate's checklist; a reservation or itinerary is often enough.",
+          "If you must buy early to lock a fare, pay a little more for a refundable or changeable ticket.",
+          "Book hotels with free cancellation until your visa is in hand.",
+          "For Schengen applications, your passport is held while the visa is processed. Do not plan another trip in that window.",
+          "Use the Travlys visa cost calculator (travlys.com/visa-cost-calculator/) to add up government fees, service charges and appointment costs before you commit.",
+          "If you are planning more than one Europe trip in a year, use the Schengen 90/180 calculator (travlys.com/schengen-calculator/) to check you stay within the limit."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common timing mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Applying too early for Japan or Singapore:** the visa can lapse before you fly, and you pay again.",
+          "**Treating the Schengen 15-day minimum as a target:** it is the legal floor, not a plan. Slots, document requests and a possible extension to 45 days can wipe out a short buffer.",
+          "**Counting from the day you book the appointment:** processing usually starts only after biometrics and a complete application.",
+          "**Ignoring passport validity:** several countries, including Singapore, want at least six months from entry. Renew first if you are close. Indian passport fees went up on 1 July 2026, so budget for that.",
+          "**Forgetting that numbers move:** US wait times, IRCC estimates and Home Affairs figures can change within weeks. Check again the week you apply."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys has filed 5,000+ visas with a 98% approval rate. We file visas for the USA (from ₹19,940), UK (from ₹12,950), Canada (from ₹14,950), Australia (from ₹4,950), Schengen via the Netherlands (from ₹2,950), Singapore (from ₹2,950), UAE (from ₹2,500) and New Zealand (from ₹6,950); government fees are extra. We check your documents, tell you the right week to apply, and plan holiday packages with hotels and private transfers. WhatsApp us on +91 82009 18967 with your travel month and we will tell you when to start."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules and processing times were checked on 29 October 2026 against the sources listed below. Processing times for the USA, Canada, Australia and New Zealand change often, so confirm on the official page the week you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GOV.UK: Visit the UK as a Standard Visitor, apply for a Standard Visitor visa",
+        "url": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "US Department of State: Visa appointment wait times",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html"
+      },
+      {
+        "label": "Business Today: US visa wait times October 2026 in India (23 Oct 2026)",
+        "url": "https://www.businesstoday.in/nri/visa/story/us-visa-wait-times-october-2026-check-tourist-student-and-work-visa-timelines-in-india-563154-2026-10-23"
+      },
+      {
+        "label": "IRCC: Check processing times",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+      },
+      {
+        "label": "CIC News: Canada reports longer wait times for temporary residence applicants (Oct 2026)",
+        "url": "https://www.cicnews.com/2026/10/canada-reports-longer-wait-times-for-temporary-residence-applicants-1081627.html"
+      },
+      {
+        "label": "Department of Home Affairs (Australia): Global visa processing times",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: Validity of visas",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/procedure/validity.html"
+      },
+      {
+        "label": "Consulate-General of Japan in Kolkata: Visa information",
+        "url": "https://www.kolkata.in.emb-japan.go.jp/itpr_en/information.html"
+      },
+      {
+        "label": "ICA Singapore: Entry visa requirements for Indian nationals",
+        "url": "https://www.ica.gov.sg/enteranddeparting/before/entryvisa/visa-detail-page/india"
+      },
+      {
+        "label": "Immigration New Zealand: Visitor Visa",
+        "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/visitor-visa"
+      },
+      {
+        "label": "UAE Federal Authority for Identity, Citizenship, Customs and Port Security: Smart services portal",
+        "url": "https://icp.gov.ae/"
+      }
+    ]
+  },
+  // --- 28 October 2026 (later): Maldives, Mauritius, Bhutan, Hong Kong, Türkiye, Saudi Arabia. ---
+  {
     "slug": "maldives-visa-on-arrival-for-indians-2026",
     "title": "Maldives Visa on Arrival for Indians 2026: Rules, IMUGA, Taxes",
     "metaTitle": "Maldives Visa on Arrival for Indians 2026 | Travlys",
