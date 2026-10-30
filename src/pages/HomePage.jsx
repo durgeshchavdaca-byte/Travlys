@@ -844,6 +844,7 @@ function InquirySection() {
 /* ─── FREE TOOLS ───────────────────────────────────────────────────────────── */
 
 const TOOLS = [
+  { to: '/visa-checker/', icon: Globe2, title: 'Do I need a visa?', text: 'Visa rules for Indians, country by country.' },
   { to: '/schengen-calculator/', icon: CalendarRange, title: 'Schengen 90/180 calculator', text: 'How many days can you still stay in Europe?' },
   { to: '/visa-cost-calculator/', icon: Calculator, title: 'Visa cost calculator', text: 'Total visa fees in rupees for your family.' },
   { to: '/visa-glossary/', icon: BookOpen, title: 'Visa terms explained', text: 'VFS, 221(g), OK to Board and more, in plain English.' },
@@ -856,7 +857,7 @@ function FreeTools() {
       <div className="container-app">
         <h2 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900 m-0 leading-tight">Free visa tools.</h2>
         <p className="text-slate-muted mt-2 mb-8">Plan your trip before you pay for anything.</p>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
           {TOOLS.map(({ to, icon: Icon, title, text }) => (
             <Link key={to} to={to} className="card p-5 no-underline group h-full flex flex-col">
               <Icon className="w-6 h-6 text-coral-500" />

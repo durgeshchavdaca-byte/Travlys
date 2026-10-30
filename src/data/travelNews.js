@@ -3,7 +3,7 @@
 // Rendered at /travel-news, and fed into the homepage, llms.txt and the
 // prerendered HTML so search engines and AI assistants see the latest dates.
 
-export const NEWS_UPDATED = '2026-10-29'
+export const NEWS_UPDATED = '2026-10-30'
 
 export const TRAVEL_NEWS = [
   // --- Announced, not yet in force (shown under "Coming up") ---
@@ -52,6 +52,14 @@ export const TRAVEL_NEWS = [
     },
   },
   // --- Dated news, newest first ---
+  {
+    date: '2026-02-16',
+    headline: 'Nicaragua ends visa on arrival for Indians',
+    summary:
+      'Indian ordinary passport holders now need a consulted visa approved by Nicaraguan immigration before they travel. The Embassy of India in Panama says you apply online on the Interior Ministry portal or by email.',
+    href: '/blog/countries-ended-visa-free-entry-for-indians-2026/',
+    source: { label: 'Embassy of India, Panama', url: 'https://indianembassypanama.gov.in/eoipa_pages/MzEz' },
+  },
   {
     date: '2026-12-02',
     headline: 'First non-stop Ahmedabad to Phu Quoc flights start',

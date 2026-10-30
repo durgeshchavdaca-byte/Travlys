@@ -75,6 +75,12 @@ import {
   VISA_COST_META,
   getVisaCostFaqs,
   buildVisaCostSchemas,
+  VISA_CHECKER_META,
+  getVisaCheckerFaqs,
+  buildVisaCheckerSchemas,
+  CHECKER_COUNTRIES,
+  CHECKER_UPDATED,
+  STATUS_LABEL,
 } from '../src/seo/pages.js'
 import { NEWS_UPDATED, getLatestNews, getNewsByMonth, getUpcomingNews, formatNewsDate } from '../src/data/travelNews.js'
 import { VISA_FEE_ROWS, LAST_CHECKED, getQuickAnswers, visaFeesCsv } from '../src/data/visaFees.js'
@@ -249,6 +255,7 @@ const NAV = [
   ['Visa fees by country', '/visa-fees'],
   ['Visa and travel news', '/travel-news'],
   ['Visa terms explained', '/visa-glossary'],
+  ['Do Indians need a visa?', '/visa-checker'],
   ['Schengen calculator', '/schengen-calculator'],
   ['Visa cost calculator', '/visa-cost-calculator'],
   ['Visa guides', '/blog'],
@@ -331,6 +338,24 @@ function visaFeesBody() {
 ${faqList(VISA_FEES_FAQS, 'About this table')}`
 }
 
+function visaCheckerBody() {
+  const rows = [...CHECKER_COUNTRIES]
+    .sort((a, b) => a.country.localeCompare(b.country))
+    .map(
+      (c) =>
+        `<tr><td><a href="${href(c.href)}">${escapeHtml(c.country)}</a></td><td>${escapeHtml(STATUS_LABEL[c.status] || c.status)}</td><td>${escapeHtml(c.headline)}</td><td>${escapeHtml(c.stay)}</td><td>${escapeHtml(c.cost)}</td></tr>`,
+    )
+    .join('')
+  return `${crumbs([['Home', '/'], ['Visa checker']])}
+<h1>Do Indians need a visa? Visa rules by country</h1>
+<p>${escapeHtml(VISA_CHECKER_META.description)} Checked against official sources; last updated ${CHECKER_UPDATED}. For an ordinary Indian passport, travelling as a tourist.</p>
+<table>
+<thead><tr><th>Destination</th><th>Entry route</th><th>Answer</th><th>Stay</th><th>Cost</th></tr></thead>
+<tbody>${rows}</tbody>
+</table>
+${faqList(getVisaCheckerFaqs(), 'Do Indians need a visa? Country by country')}`
+}
+
 function schengenCalcBody() {
   return `${crumbs([['Home', '/'], ['Schengen calculator']])}
 <h1>Schengen 90/180 day calculator</h1>
@@ -405,6 +430,7 @@ ${destinationsTable()}
 </section>
 <section><h2>Free visa tools</h2>
 <ul>
+<li><a href="${href('/visa-checker')}">Do Indians need a visa?</a>: visa rules for Indians, country by country.</li>
 <li><a href="${href('/schengen-calculator')}">Schengen 90/180 day calculator</a>: how many days you can still stay in Europe.</li>
 <li><a href="${href('/visa-cost-calculator')}">Visa cost calculator</a>: total visa fees in rupees for your family.</li>
 <li><a href="${href('/visa-glossary')}">Visa terms explained</a>: VFS, 221(g), OK to Board and more.</li>
@@ -622,6 +648,7 @@ function buildSitemap() {
     sitemapEntry('/visa-fees', { changefreq: 'weekly', priority: '0.85' }),
     sitemapEntry('/travel-news', { lastmod: NEWS_UPDATED, changefreq: 'daily', priority: '0.85' }),
     sitemapEntry('/visa-glossary', { changefreq: 'monthly', priority: '0.8' }),
+    sitemapEntry('/visa-checker', { lastmod: CHECKER_UPDATED, changefreq: 'weekly', priority: '0.9' }),
     sitemapEntry('/schengen-calculator', { changefreq: 'monthly', priority: '0.85' }),
     sitemapEntry('/visa-cost-calculator', { changefreq: 'weekly', priority: '0.85' }),
     ...['/pricing', '/about', '/contact', '/blog'].map((p) => sitemapEntry(p, { changefreq: 'weekly', priority: '0.8' })),
@@ -688,6 +715,7 @@ ${linkList([
     ['Visa fees by country (table + CSV)', '/visa-fees'],
     ['Visa and travel news', '/travel-news'],
     ['Visa terms explained (glossary)', '/visa-glossary'],
+    ['Do Indians need a visa? (visa checker)', '/visa-checker'],
     ['Schengen 90/180 calculator', '/schengen-calculator'],
     ['Visa cost calculator', '/visa-cost-calculator'],
     ['Pricing', '/pricing'],
@@ -810,8 +838,15 @@ function buildLlmsTxt() {
     '',
     ...getLatestNews(10).map((n) => `- ${n.date}: **${n.headline}.** ${n.summary} Source: ${n.source.url} · Guide: ${pageUrl(n.href)}`),
     '',
+    `## Do Indians need a visa? (checked ${CHECKER_UPDATED})`,
+    '',
+    `From the [Travlys visa checker](${pageUrl('/visa-checker')}), for an ordinary Indian passport, tourist travel:`,
+    '',
+    ...getVisaCheckerFaqs().map((f) => `- **${f.q}** ${f.a}`),
+    '',
     '## Free tools',
     '',
+    `- [Visa checker](${pageUrl('/visa-checker')}): visa rules for Indian passport holders in ${CHECKER_COUNTRIES.length} destinations, with stay, cost and pre-travel steps.`,
     `- [Schengen 90/180 day calculator](${pageUrl('/schengen-calculator')}): days used, days left and the last legal day of stay under the 90/180 rule. Entry and exit days both count; all 29 Schengen countries count together.`,
     `- [Visa cost calculator](${pageUrl('/visa-cost-calculator')}): government visa fee in rupees plus the Travlys service fee for any number of applicants, for ${VISA_FEE_ROWS.length} destinations.`,
     '',
@@ -924,6 +959,7 @@ async function main() {
   await page(VISA_FEES_META, buildVisaFeesSchemas(), visaFeesBody())
   await page(NEWS_META, buildNewsSchemas(), newsBody())
   await page(GLOSSARY_META, buildGlossarySchemas(), glossaryBody())
+  await page(VISA_CHECKER_META, buildVisaCheckerSchemas(), visaCheckerBody())
   await page(SCHENGEN_CALC_META, buildSchengenCalcSchemas(), schengenCalcBody())
   await page(VISA_COST_META, buildVisaCostSchemas(), visaCostBody())
   for (const d of destinations) await page(getVisaMeta(d), buildVisaSchemas(d), visaBody(d))

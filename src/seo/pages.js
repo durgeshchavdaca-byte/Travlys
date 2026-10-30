@@ -8,6 +8,7 @@ import { BLOG_POSTS, categorySlug } from '../data/blog.js'
 import { VISA_FEE_ROWS, LAST_CHECKED } from '../data/visaFees.js'
 import { TRAVEL_NEWS, NEWS_UPDATED, getLatestNews, getUpcomingNews, formatNewsDate } from '../data/travelNews.js'
 import { GLOSSARY, ALL_TERMS, GLOSSARY_UPDATED, termId } from '../data/glossary.js'
+import { COUNTRIES, CHECKER_UPDATED, STATUS_LABEL } from '../data/visaChecker.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -627,3 +628,62 @@ export function buildVisaCostSchemas() {
     faqSchema(getVisaCostFaqs()),
   ]
 }
+
+// --- Visa checker ("Do Indians need a visa?") ------------------------------------
+// One direct question and answer per destination, built from the same facts as
+// the guides it links to. This is the most common visa question people ask
+// search engines and AI assistants.
+
+export const VISA_CHECKER_META = {
+  title: 'Do Indians need a visa? Visa checker for Indian passport holders (2026)',
+  description: `Check visa rules for Indians in ${COUNTRIES.length} destinations: visa-free, visa on arrival, e-visa or embassy visa, with stay, cost and what to do before you fly.`,
+  path: '/visa-checker',
+  keywords:
+    'do indians need visa, visa free countries for indians, visa on arrival for indians, indian passport visa requirements, visa checker india, do i need a visa for',
+  type: 'website',
+  image: DEFAULT_OG_IMAGE,
+  imageAlt: 'Visa checker for Indian passport holders by Travlys',
+}
+
+export function getVisaCheckerFaqs() {
+  return [...COUNTRIES]
+    .sort((a, b) => a.country.localeCompare(b.country))
+    .map((c) => ({
+      q: `Do Indians need a visa for ${c.country}?`,
+      a: [
+        `${c.headline}.`.replace(/\.\.$/, '.'),
+        c.stay ? `Stay: ${c.stay}.` : '',
+        c.cost ? `Cost: ${c.cost}.` : '',
+        c.before_you_fly ? `Before you fly: ${c.before_you_fly}`.replace(/([^.])$/, '$1.') : '',
+        c.note ? c.note.replace(/([^.])$/, '$1.') : '',
+      ]
+        .filter(Boolean)
+        .join(' '),
+    }))
+}
+
+export function buildVisaCheckerSchemas() {
+  const url = pageUrl(VISA_CHECKER_META.path)
+  return [
+    { ...buildWebPageSchema(VISA_CHECKER_META), dateModified: CHECKER_UPDATED },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'WebApplication',
+      '@id': `${url}#app`,
+      name: 'Visa checker for Indian passport holders',
+      url,
+      description: VISA_CHECKER_META.description,
+      applicationCategory: 'TravelApplication',
+      operatingSystem: 'Any',
+      isAccessibleForFree: true,
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'INR' },
+      publisher: ORG,
+      inLanguage: 'en-IN',
+    },
+    crumbs({ name: 'Visa checker', url }),
+    faqSchema(getVisaCheckerFaqs()),
+  ]
+}
+
+export { COUNTRIES as CHECKER_COUNTRIES, CHECKER_UPDATED, STATUS_LABEL }
+

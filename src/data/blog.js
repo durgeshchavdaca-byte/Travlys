@@ -7,7 +7,734 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
-  // --- 28 October 2026 (later): Maldives, Mauritius, Bhutan, Hong Kong, Türkiye, Saudi Arabia. ---
+  // --- 30 October 2026: Malaysia New Year, holiday visa deadlines, countries that ended visa-free entry. ---
+  {
+    "slug": "malaysia-new-year-trip-2026-27-visa-free-end-date",
+    "title": "Malaysia Visa-Free Ends 31 Dec 2026: What If Your Trip Crosses It?",
+    "metaTitle": "Malaysia Visa-Free Ends 31 Dec 2026: New Year Trips | Travlys",
+    "metaDescription": "Malaysia's visa exemption for Indians runs until 31 Dec 2026 and no official rule covers trips into 2027. Return by 31 Dec or get a Malaysia visa first.",
+    "excerpt": "Malaysia's visa-free entry for Indians ends on 31 December 2026, and no official source says what happens to a trip that runs into January 2027. Here is the safe way to plan a New Year trip.",
+    "date": "2026-10-30",
+    "updated": "2026-10-30",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "Malaysia",
+      "Malaysia visa",
+      "visa-free",
+      "MDAC",
+      "New Year 2027",
+      "Kuala Lumpur"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1600&h=900&fit=crop",
+    "related": [
+      "malaysia-visa-free-for-indians-2026",
+      "christmas-new-year-2026-visa-deadlines-by-country",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "cta": {
+      "slug": "malaysia-visa",
+      "label": "Get your Malaysia visa for a trip into 2027"
+    },
+    "faqs": [
+      {
+        "q": "Can I enter Malaysia visa-free on 28 December 2026 and leave in January 2027?",
+        "a": "No official Malaysian source answers this. The Immigration Department only says Indian citizens are visa exempt until 31 December 2026, without saying whether that date applies to your entry or your last day of stay. Until there is official guidance or an extension, the safe choice is to get a Malaysian visa for any trip that runs into 2027, or to leave by 31 December."
+      },
+      {
+        "q": "Has Malaysia extended visa-free entry for Indians into 2027?",
+        "a": "Not as of 30 October 2026. We checked the Immigration Department of Malaysia's pages and recent news and found no announcement of an extension beyond 31 December 2026. Earlier extensions have been announced, so one may still come, but do not book a non-refundable trip into 2027 on the assumption that it will."
+      },
+      {
+        "q": "How long can Indians stay in Malaysia without a visa in 2026?",
+        "a": "Up to 30 days per visit, as announced when the waiver began on 1 December 2023 and repeated in later extension notices. The Immigration Department's current page gives the end date, 31 December 2026, but does not repeat the day count, so check the official site before you fly. The exemption is for short visits, not work or study."
+      },
+      {
+        "q": "Do I still need the MDAC if I enter Malaysia visa-free?",
+        "a": "Yes. The Immigration Department says all foreign citizens must complete the Malaysia Digital Arrival Card, mandatory since 1 January 2024. Submit it within 3 days before arrival on the official portal, imigresen-online.imi.gov.my, and show the registration with your passport at the immigration counter. Filling it on the official portal costs nothing."
+      },
+      {
+        "q": "Is eNTRI still available for Indians visiting Malaysia?",
+        "a": "We could not confirm it. The Immigration Department's eNTRI page describes a 15-day, single-use note with no extension, but the only availability window it states is 1 April 2017 to 31 March 2018. If you need to travel into 2027, check what the official eVISA portal, malaysiavisa.imi.gov.my, actually offers on the day you apply."
+      },
+      {
+        "q": "How much does a Malaysia visa cost for Indians?",
+        "a": "The Immigration Department lists RM100 for the Multiple Entry Visa for Indian citizens, valid one year with 30 days per entry. Its separate visa fees table shows RM50 for India. The two pages differ and neither shows the eVISA processing fee, so confirm the total on malaysiavisa.imi.gov.my before paying. Travlys files Malaysia visas from a ₹999 service fee, with government fees extra."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Malaysia's visa exemption for Indian citizens runs until 31 December 2026, and no official Malaysian source says what happens if you enter before that date and leave after it. As of 30 October 2026, no extension into 2027 has been announced. So if your New Year trip runs into January 2027, the safe choice is to get a Malaysian visa before you fly, or to end the trip by 31 December."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa-free stay:** up to 30 days per visit, as announced in 2023. **Official end date:** 31 December 2026 (Immigration Department of Malaysia). **Trips crossing into 2027:** no official guidance found. **2027 extension:** none announced as of 30 October 2026. **MDAC:** compulsory, submit within 3 days before arrival, free on the official portal. **Backup:** a Malaysia visa through malaysiavisa.imi.gov.my."
+      },
+      {
+        "type": "h2",
+        "text": "What the official rule actually says"
+      },
+      {
+        "type": "p",
+        "text": "The Immigration Department of Malaysia's visa requirement page still lists India among countries whose citizens need a visa, with a footnote: \"India citizen: visa exempts until 31st December 2026.\" That one line is the only official wording we found. It gives an end date. It does not say how many days you get, and it does not say whether \"until\" refers to the day you enter or the last day of your stay."
+      },
+      {
+        "type": "p",
+        "text": "The 30-day limit comes from the original announcement, when visa-free entry for Indian and Chinese citizens started on 1 December 2023, and from later extension notices. The exemption covers short visits such as tourism, business meetings and visiting family. It does not cover work or study, and reports on the waiver say the stay cannot be extended inside Malaysia."
+      },
+      {
+        "type": "p",
+        "text": "One thing has not changed: the **Malaysia Digital Arrival Card (MDAC)**. The Immigration Department says all foreign citizens must complete it, and it has been mandatory since 1 January 2024. You submit it within 3 days before arrival on imigresen-online.imi.gov.my, then show the registration and your passport at the immigration counter. This applies whether you enter visa-free or with a visa. Use only the official portal; lookalike sites charge for a form that is free."
+      },
+      {
+        "type": "h2",
+        "text": "Can I enter Malaysia visa-free before 31 December and leave in 2027?"
+      },
+      {
+        "type": "p",
+        "text": "No official source answers this question. We found no FAQ, press release or High Commission notice on stays that begin in 2026 and end in 2027. Some travel sites say only your entry date matters, but we could not confirm that from any Malaysian government page, so we do not recommend relying on it."
+      },
+      {
+        "type": "p",
+        "text": "The practical risk is not only at Kuala Lumpur airport. Your airline checks entry documents at check-in in India, and the immigration officer at the counter decides whether to admit you and for how long. If an officer treats 31 December as your last permitted day, you would have to leave early or risk an overstay. Being stopped at check-in on 29 December, with every other flight full, is the scenario to avoid."
+      },
+      {
+        "type": "callout",
+        "label": "Note for New Year's Eve plans",
+        "text": "If you want to see the midnight countdown in Kuala Lumpur, you will be in Malaysia on 1 January 2027 by definition. That means any KL countdown trip crosses the end date. Plan it with a visa, not on the exemption."
+      },
+      {
+        "type": "h2",
+        "text": "Has the exemption been extended into 2027?"
+      },
+      {
+        "type": "p",
+        "text": "Not as of 30 October 2026. We checked the Immigration Department's visa pages and recent news, and found nothing beyond 31 December 2026. The waiver has been extended before, which is how it reached the end of 2026, so another extension is possible. But past extensions have not always come with much notice, and you cannot plan a December booking around an announcement that may arrive in the last week of the year. If one is published, we will update our Malaysia visa-free guide."
+      },
+      {
+        "type": "h2",
+        "text": "Your safe options for a late-December trip"
+      },
+      {
+        "type": "h3",
+        "text": "Option 1: finish your trip by 31 December"
+      },
+      {
+        "type": "p",
+        "text": "If your dates are flexible, enter visa-free and fly out on or before 31 December. A Christmas week in Kuala Lumpur, Langkawi or Penang fits this well. Submit the MDAC, carry your return ticket and hotel booking, and keep the stay within 30 days. If you want New Year's Eve somewhere else, Thailand is visa-free for Indians for 30 days (see our Thailand visa-free guide), so a Malaysia-then-Thailand route works without any visa."
+      },
+      {
+        "type": "h3",
+        "text": "Option 2: get a Malaysian visa"
+      },
+      {
+        "type": "p",
+        "text": "For any trip that runs into January 2027, apply for a visa. The Immigration Department's Types of Visas page says Indian citizens visiting for a social visit can apply for a **Multiple Entry Visa**, valid for one year, with each entry limited to 30 days and no extension of stay. It lists the fee as **RM100** for Indian citizens. Its separate visa fees table shows **RM50** for India. The two official pages do not match, and neither shows the eVISA processing fee or a processing time, so confirm the full amount on malaysiavisa.imi.gov.my before you pay."
+      },
+      {
+        "type": "p",
+        "text": "Commercial sites quote a separate processing fee and a few working days for approval. We could not confirm either from an official page. Our estimate: apply at least 3 weeks before departure for a late-December trip, because Christmas is a busy period and you need the approval before your airline check-in, not on the day."
+      },
+      {
+        "type": "h3",
+        "text": "What about eNTRI?"
+      },
+      {
+        "type": "p",
+        "text": "eNTRI was the quick online note many Indians used before the visa exemption. The Immigration Department's eNTRI page describes a 15-day stay per visit, single use, with no extension. But the only availability window on that page is 1 April 2017 to 31 March 2018, and nothing on it says whether eNTRI is open now. Do not plan around eNTRI unless the official portal offers it to you when you apply. A 15-day limit would also be tight for some New Year trips."
+      },
+      {
+        "type": "h3",
+        "text": "Option 3: book flexibly and decide later"
+      },
+      {
+        "type": "p",
+        "text": "If you would rather wait for an extension, book refundable or changeable fares and hotels, and set yourself a firm decision date, such as 1 December. If no extension has been announced by then, apply for the visa. This costs a little more up front but keeps both options open."
+      },
+      {
+        "type": "h2",
+        "text": "Booking tips for a Kuala Lumpur New Year"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Choose changeable fares.** Late-December fares from Indian cities are high, and a change fee is cheaper than a lost ticket if the rules shift.",
+          "**Book hotels with free cancellation** until at least mid-December. Rooms near KLCC fill early for New Year's Eve.",
+          "**KLCC Park** is the usual main spot for the midnight fireworks, with **Merdeka Square** a more open alternative and malls such as Pavilion Kuala Lumpur running their own countdown events in past years. Official 2026 programmes were not published when we checked, so confirm closer to the date.",
+          "**Expect road closures and crowds** around KLCC on 31 December. Use the LRT and plan your route back to the hotel.",
+          "**Carry printouts** of your return ticket, hotel booking and MDAC confirmation. Immigration can ask for them.",
+          "**Buy travel insurance** that covers trip cancellation, in case you have to change dates."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should and shouldn't use the exemption this December"
+      },
+      {
+        "type": "p",
+        "text": "Use the visa exemption if you will be out of Malaysia by 31 December, your passport has enough validity, and you have a confirmed return ticket. Get a visa instead if your return date is in January 2027, if you plan to see the KL countdown, if you are travelling with elderly parents or children and cannot afford a disrupted trip, or if you have had any past issue at Malaysian immigration."
+      },
+      {
+        "type": "h2",
+        "text": "Quick checklist"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Return on or before 31 December 2026? You can use the exemption, subject to the officer's decision.",
+          "Return in January 2027? Apply for a Malaysian visa on malaysiavisa.imi.gov.my, at least 3 weeks ahead.",
+          "Passport valid for at least 6 months from arrival, with blank pages.",
+          "MDAC submitted within 3 days before arrival, on the official portal only.",
+          "Return or onward ticket, hotel booking and proof of funds ready to show.",
+          "Recheck the Immigration Department's visa page in December for any extension news."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "To compare total costs for a Malaysia visa against other New Year destinations, use the Travlys visa cost calculator. Our visa-free countries list and New Year trips guide cover other options with no visa paperwork."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files Malaysia visas from a ₹999 service fee, with government fees extra. We check your dates against the 31 December cut-off, file the visa if your trip runs into 2027, and review your documents before you fly. We have filed 5,000+ visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967 with your travel dates."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this article were checked on 30 October 2026 against the Immigration Department of Malaysia's visa requirement, types of visas, visa fees and eNTRI pages, the official MDAC portal and the sources listed below. Check the official sites again before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Types of visas",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/types-of-visas/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa fees",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-fees/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: eNTRI for Indian nationals",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/entri-for-indian-nationals/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Malaysia Digital Arrival Card (MDAC)",
+        "url": "https://imigresen-online.imi.gov.my/mdac/main"
+      },
+      {
+        "label": "Immigration Department of Malaysia: eVISA portal",
+        "url": "https://malaysiavisa.imi.gov.my/"
+      },
+      {
+        "label": "Erickson Immigration Group: Malaysia extends visa exemption for China and India",
+        "url": "https://eiglaw.com/malaysia-extends-visa-exemption-for-china-and-india/"
+      },
+      {
+        "label": "Envoy Global: Malaysia extends visa exemption policy for Chinese and Indian nationals",
+        "url": "https://www.envoyglobal.com/news-alert/malaysia-extends-visa-exemption-policy-for-chinese-and-indian-nationals/"
+      }
+    ]
+  },
+  {
+    "slug": "christmas-new-year-2026-visa-deadlines-by-country",
+    "title": "Is It Too Late for a Christmas or New Year 2026 Visa?",
+    "metaTitle": "Christmas & New Year 2026 Visa Deadlines by Country | Travlys",
+    "metaDescription": "Flying 20-27 Dec 2026? Schengen, UK, Canada and Australia need applying in November. US is out of reach. Thailand, Malaysia, Maldives and Sri Lanka still work.",
+    "excerpt": "For a departure around 20-27 December 2026, the window for Schengen, UK, Canada and Australia visas closes in November. Here are our apply-by dates for 17 destinations, and the visa-free options if you have left it late.",
+    "date": "2026-10-30",
+    "updated": "2026-10-30",
+    "readMinutes": 8,
+    "category": "Travel planning",
+    "tags": [
+      "Christmas 2026",
+      "New Year 2027",
+      "visa processing times",
+      "Schengen visa",
+      "UK visa",
+      "e-visa",
+      "visa-free"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?w=1600&h=900&fit=crop",
+    "related": [
+      "when-to-apply-for-visa-from-india-by-country",
+      "schengen-visa-for-christmas-new-year-trips-2026",
+      "new-year-international-trips-from-india-easy-visa"
+    ],
+    "faqs": [
+      {
+        "q": "Is it too late to get a Schengen visa for Christmas 2026?",
+        "a": "Not yet, but it is close. EU rules let you apply up to 6 months ahead and no later than 15 days before travel, and a decision normally takes 15 days, sometimes up to 45. For a 20 December departure, aim to submit by about 20 November. The real limit is finding a VFS appointment, so book the earliest slot in any city now."
+      },
+      {
+        "q": "Can I still get a UK visitor visa before Christmas?",
+        "a": "Yes, if you act in November. GOV.UK says most Standard Visitor decisions take about 3 weeks after your biometrics appointment. Priority (£500 extra, about 5 working days) and super priority (£1,000 extra, end of the next working day) can help if your visa application centre offers them. For a 20 December departure, submit by about 20 November on standard service."
+      },
+      {
+        "q": "Can I get a US visa for a December 2026 trip?",
+        "a": "Realistically, no, unless you already have an interview date. Recent reports of the State Department's wait-time data put the next B1/B2 interview at several months to about a year away at Indian posts. Check the official wait-time tool on travel.state.gov for your city, and plan a US trip for 2027 instead."
+      },
+      {
+        "q": "Which countries can Indians visit at the last minute for New Year?",
+        "a": "Thailand (30 days visa-free), Malaysia (visa-free until 31 December 2026), the Maldives (visa on arrival with no pre-approval) and Sri Lanka (free ETA) need only online forms. Bali works with a visa on arrival or e-VoA. Vietnam, Georgia and the UAE e-visas take a few working days, so they still work if you apply in early December."
+      },
+      {
+        "q": "Are these apply-by dates official deadlines?",
+        "a": "No. They are Travlys estimates built from each country's published processing times plus a safety buffer for appointments, courier time and the holiday rush. Official rules only set limits such as the Schengen 15-day minimum. Processing times change week to week, so check the live figure on the official site the day you apply."
+      },
+      {
+        "q": "What happens if my visa does not arrive before my flight?",
+        "a": "You cannot board without it, and most airlines will not refund a non-refundable fare because a visa was late. Book refundable or changeable tickets until the visa is in hand. New Zealand's immigration service, for example, advises travellers not to book non-refundable travel until the visa is approved."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "It is not too late for most destinations, but the long-haul visas need action in November. For a departure around 20-27 December 2026, submit Schengen, UK, Canada and Australia applications by mid-to-late November at the latest, while a first-time US visa is out of reach unless you already have an interview date. Thailand, Malaysia, the Maldives and Sri Lanka still work at short notice."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Apply now:** Canada and Australia (processing runs into weeks). **Apply by about 20 November:** Schengen, UK (standard), New Zealand. **Apply by early December:** Japan, Singapore, Georgia, Vietnam, UK priority. **Online form only:** Thailand, Malaysia, Maldives, Sri Lanka. **Not realistic:** first-time US visa. **Dates below:** Travlys estimates for a 20 December departure, not official deadlines."
+      },
+      {
+        "type": "h2",
+        "text": "Is it too late to get a visa for a Christmas or New Year 2026 trip?"
+      },
+      {
+        "type": "p",
+        "text": "No, for most countries, as long as you apply within the next three to four weeks. Countries with appointment-based visas, such as the Schengen states, the UK, Canada and Australia, need applications in November. E-visa and visa-free destinations in Asia still work in December."
+      },
+      {
+        "type": "h2",
+        "text": "How we worked out the apply-by dates"
+      },
+      {
+        "type": "p",
+        "text": "We took a departure of **Sunday, 20 December 2026**, the earliest date in the Christmas window. We then took each country's published processing time and added a buffer for appointment booking, courier return of the passport and the year-end rush. If you leave on 27 December, you have roughly a week more. These are **Travlys estimates, not official deadlines**. Processing times change weekly, so check the live figure on the official site listed for each country."
+      },
+      {
+        "type": "h2",
+        "text": "Apply-by dates by country"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Schengen (France, Germany, Netherlands and others): apply by about 20 November.** EU rules allow applications no later than 15 days before travel (5 December for a 20 December trip) and give a normal decision time of 15 days, which can stretch to 45. The real constraint is VFS appointment availability in December. Check: home-affairs.ec.europa.eu and the VFS site of the country you visit most.",
+          "**UK: apply by about 20 November (standard), 4 December (priority).** GOV.UK lists about 3 weeks for a Standard Visitor visa from outside the UK, counted in UK working days. Priority costs £500 extra for a decision in about 5 working days; super priority costs £1,000 extra for a decision by the end of the next working day, where your centre offers it. Check: gov.uk visa processing times.",
+          "**USA: not realistic for first-timers.** Recent reports of State Department data put the next B1/B2 interview at roughly 6 to 12 months away across Indian posts. Only consider it if you already hold an interview date in November or early December. Check: travel.state.gov global visa wait times.",
+          "**Canada: apply now, by 5 November at the latest.** IRCC's processing-time data, updated 29 October 2026, shows 31 days for a visitor visa applied from India, plus time to give biometrics and return your passport. Fees are CAD 100 plus CAD 85 for biometrics. Check: canada.ca processing times tool.",
+          "**Australia: apply by about 7 November.** Home Affairs data reported in September 2026 put 90% of Visitor (600) Tourist stream decisions at about 33 days; we could not open the official page to confirm today's figure. Allow time for biometrics too (see our post on Australia visa biometrics in India). Check: immi.homeaffairs.gov.au global visa processing times.",
+          "**New Zealand: apply by about 22 November.** Immigration New Zealand shows 80% of visitor visas decided within 2 weeks and warns that September to March is its busiest period. Check: immigration.govt.nz visitor visa wait times.",
+          "**Japan: apply by about 1 December.** Commercial guides report about 5 working days at VFS, longer in peak season. We could not open the Embassy of Japan's pages to confirm. Check: in.emb-japan.go.jp and the VFS Japan site.",
+          "**Singapore: apply by about 4 December.** Indians apply through an authorised visa agent or a Singapore mission, not at the airport. Agents commonly quote 3-5 working days, more in peak season. Submit the SG Arrival Card within 3 days before arrival. Check: ica.gov.sg.",
+          "**UAE/Dubai: apply by about 8 December.** Pre-arranged tourist visas usually take a few working days. Indians with a valid US visa or certain other visas and residence permits can get a visa on arrival instead; rules for UK visa holders have been reported differently, so confirm. Check: icp.gov.ae and gdrfad.gov.ae.",
+          "**Vietnam e-visa: apply by about 4 December.** Widely reported terms are about 3 working days, USD 25 single entry and USD 50 multiple entry, valid up to 90 days. We could not read evisa.gov.vn today, so confirm there. Phu Quoc island has its own visa-free rule.",
+          "**Sri Lanka ETA: apply by about 10 December.** The ETA is free for Indians from 25 May 2026, valid 30 days with double entry, but it is still compulsory before arrival. Check: eta.gov.lk.",
+          "**Thailand: no visa needed.** Indians get 30 days visa-free from 15 September 2026. Fill in the Thailand Digital Arrival Card within 3 days before arrival. Check: tdac.immigration.go.th.",
+          "**Malaysia: no visa if you leave by 31 December.** The exemption runs until 31 December 2026. If your trip runs into January 2027, apply for a Malaysian visa by about 27 November. Submit the MDAC within 3 days before arrival. Check: imi.gov.my.",
+          "**Bali (Indonesia): e-VoA by about 13 December, or visa on arrival.** Indians are eligible for visa on arrival, widely reported at IDR 500,000 for 30 days. Bali also charges a separate tourist levy of IDR 150,000. Check: evisa.imigrasi.go.id and lovebali.baliprov.go.id.",
+          "**Maldives: no pre-approval.** Maldives Immigration grants the tourist visa on arrival with no advance approval. Submit the free IMUGA traveller declaration up to 96 hours before arrival. Check: immigration.gov.mv.",
+          "**Georgia e-visa: apply by about 27 November.** The official FAQ lists USD 20 plus a 2% service fee and says a decision takes not less than 5 working days. Holders of some Western visas may not need one; confirm before applying. Check: evisa.gov.ge.",
+          "**Türkiye: e-visa only with a valid Schengen, US, UK or Irish visa or residence permit.** Otherwise you need a sticker visa through the Turkish mission, so apply by about 15 November. Check: evisa.gov.tr."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes in the December rush"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Waiting for an appointment in your home city only.** Schengen and UK slots differ by city. A slot in Mumbai or Delhi two weeks earlier is often worth the travel.",
+          "**Counting calendar days, not working days.** UK and Japan times are in working days. Consulates and visa centres also close for local holidays around 25 December and 1 January.",
+          "**Booking non-refundable flights first.** Immigration New Zealand advises against booking non-refundable travel before the visa is approved. The same logic applies everywhere.",
+          "**Forgetting the arrival forms.** Thailand, Malaysia, Singapore, the Maldives and Bali all have online arrival forms. They are free on the official portals; avoid paid lookalike sites.",
+          "**Planning Schengen days loosely.** If you hold a multiple-entry Schengen visa from an earlier trip, check your remaining days with the Travlys Schengen 90/180 calculator."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Already too late? Go visa-free or e-visa"
+      },
+      {
+        "type": "p",
+        "text": "If your Schengen or UK appointment is not coming through, switch destinations rather than gamble. **Thailand** (30 days visa-free) and **Malaysia** (visa-free if you leave by 31 December) need only an arrival card. The **Maldives** grants the visa at the airport, and **Sri Lanka** needs only the free ETA. **Bali**, **Vietnam** and **Georgia** need a quick online visa. If you hold a valid US, UK or Schengen visa, the UAE visa on arrival and Türkiye e-visa also open up."
+      },
+      {
+        "type": "p",
+        "text": "Who should still try for a long-haul visa: travellers with a confirmed appointment in November, a clean travel history and flexible dates. Who should switch: anyone without an appointment by mid-November, families with fixed school-holiday dates, and first-time US applicants."
+      },
+      {
+        "type": "p",
+        "text": "To compare total costs, use the Travlys visa cost calculator. Our guide on when to apply for a visa by country gives the normal lead times for the rest of the year, and the visa checker at travlys.com/visa-checker/ will answer \"Do Indians need a visa?\" for each destination."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files visas for Schengen (via the Netherlands, from ₹2,950), the UK (from ₹12,950), Canada (from ₹14,950), Australia (from ₹4,950), New Zealand (from ₹6,950), Singapore (from ₹2,950), the UAE (from ₹2,500), Thailand (from ₹1,950), Malaysia (from ₹999) and the USA (from ₹19,940); government fees are extra. We check your documents before submission and plan holiday packages for Bali and Sri Lanka with hotels and private transfers. We have filed 5,000+ visas with a 98% approval rate. WhatsApp us at +91 82009 18967 with your travel dates."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules and processing times in this article were checked on 30 October 2026 against the sources listed below. Apply-by dates are Travlys estimates, not official deadlines. Check the official site for your destination before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "GOV.UK: Visa processing times, applications outside the UK",
+        "url": "https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk"
+      },
+      {
+        "label": "GOV.UK: Get a faster decision on your visa",
+        "url": "https://www.gov.uk/faster-decision-visa-settlement"
+      },
+      {
+        "label": "US Department of State: Global visa wait times",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html"
+      },
+      {
+        "label": "IRCC: Check processing times",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+      },
+      {
+        "label": "IRCC: Apply for a visitor visa",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html"
+      },
+      {
+        "label": "Department of Home Affairs: Global visa processing times",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times"
+      },
+      {
+        "label": "Immigration New Zealand: Visitor Visa",
+        "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/visitor-visa"
+      },
+      {
+        "label": "Immigration New Zealand: Visitor visa and NZeTA wait times",
+        "url": "https://www.immigration.govt.nz/process-to-apply/waiting-for-a-visa/processing-a-visa-application/how-long-it-takes-to-process-an-application/visitor-visa-and-nzeta-wait-times/"
+      },
+      {
+        "label": "ICA Singapore: Visa requirements",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements"
+      },
+      {
+        "label": "Sri Lanka Department of Immigration and Emigration: ETA",
+        "url": "https://www.eta.gov.lk/slvisa/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: MDAC",
+        "url": "https://imigresen-online.imi.gov.my/mdac/main"
+      },
+      {
+        "label": "Bali Provincial Government: Love Bali tourist levy",
+        "url": "https://lovebali.baliprov.go.id/"
+      },
+      {
+        "label": "Maldives Immigration: Tourist visa",
+        "url": "https://immigration.gov.mv/visa/tourist-visa"
+      },
+      {
+        "label": "Georgia Ministry of Foreign Affairs: e-Visa FAQ",
+        "url": "https://www.evisa.gov.ge/GeoVisa/en/Home/FAQ"
+      },
+      {
+        "label": "Republic of Türkiye: e-Visa application system",
+        "url": "https://www.evisa.gov.tr/en/"
+      },
+      {
+        "label": "The Tribune: UAE visa on arrival policy for Indians changed",
+        "url": "https://www.tribuneindia.com/news/business/uae-visa-on-arrival-policy-for-indians-changed-heres-who-still-qualifies-in-2026/"
+      }
+    ]
+  },
+  {
+    "slug": "countries-ended-visa-free-entry-for-indians-2026",
+    "title": "Which countries ended visa-free entry for Indians in 2026?",
+    "metaTitle": "Countries that ended visa-free entry for Indians 2026 | Travlys",
+    "metaDescription": "Iran and Nicaragua now need a visa in advance and Thailand cut visa-free stays to 30 days. See what got easier in 2026 and which reports are unconfirmed.",
+    "excerpt": "Iran and Nicaragua took away easy entry for Indians, and Thailand halved its visa-free stay. Here is what changed, what got easier in 2026, and which reported changes are not confirmed.",
+    "date": "2026-10-30",
+    "updated": "2026-10-30",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "visa-free countries",
+      "visa on arrival",
+      "Iran visa",
+      "Nicaragua visa",
+      "Cape Verde visa",
+      "Thailand visa-free",
+      "visa rule changes 2026",
+      "Indian passport"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-rule-changes-for-indians-2026-tracker",
+      "visa-free-countries-for-indians-2026",
+      "thailand-visa-free-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Which countries removed visa-free entry for Indians in 2026?",
+        "a": "Iran and Nicaragua are the confirmed cases. Iran suspended its visa waiver for ordinary Indian passport holders from 22 November 2025, and it still applies in 2026. Nicaragua ended visa on arrival from 16 February 2026, and Indians now need a pre-approved Category C consulted visa. Thailand still lets Indians in visa-free, but only for 30 days since 15 September 2026. Reports about Cape Verde, Bolivia and Laos are not confirmed."
+      },
+      {
+        "q": "Do Indians need a visa for Iran now?",
+        "a": "Yes, Indians with ordinary passports need a visa to enter or transit through Iran since 22 November 2025. Iran suspended the old 15-day visa waiver after Indians were lured there with fake job offers and kidnapped. India's MEA advises you to avoid agents who promise visa-free travel or onward transit via Iran. No date had been announced for the waiver to return when we checked in October 2026."
+      },
+      {
+        "q": "Can Indians get a visa on arrival in Nicaragua?",
+        "a": "No, Nicaragua no longer gives Indians a visa on arrival. Since February 2026, Indian ordinary passport holders are in Category C and need a consulted visa that immigration in Managua approves before travel. According to the Embassy of India in Panama, you can apply online on the Nicaraguan Interior Ministry portal or by email. The visa is for 30 days and can be extended to a total of 90 days."
+      },
+      {
+        "q": "Has Cape Verde stopped visa on arrival for Indians?",
+        "a": "It is unclear, and sources conflict. Cape Verde first listed India among 96 countries that need a consular visa from 1 January 2026. Cape Verdean and Portuguese newspapers then reported that a corrected order of 23 January 2026 removed India. The MEA list still shows visa on arrival after EASE pre-registration. Confirm with a Cape Verde embassy and the EASE portal before you book."
+      },
+      {
+        "q": "Is Thailand still visa-free for Indians?",
+        "a": "Yes, but only for 30 days. From 15 September 2026, Thailand replaced its 60-day visa exemption with a 30-day visa-free stay for Indian tourists. You must fill the free Thailand Digital Arrival Card online within three days before arrival. If you plan to stay longer than 30 days, apply for a Thai tourist visa or e-visa before you travel."
+      },
+      {
+        "q": "Which countries became easier for Indians to visit in 2026?",
+        "a": "Several did. Sri Lanka made its 30-day tourist ETA free on 25 May, the UAE widened visa on arrival for holders of US, UK or EU visas on 25 June, and Saudi Arabia opened a Package Visa on 18 July. Uzbekistan allows 30 days visa-free for holders of certain visas from 1 September. Spain, France and Germany dropped airport transit visas for Indians."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Two countries took away easy entry for ordinary Indian passport holders and still require a visa in advance: **Iran**, which suspended its visa waiver from 22 November 2025, and **Nicaragua**, which ended visa on arrival from 16 February 2026 and now asks Indians for a pre-approved \"consulted\" visa. **Thailand** kept visa-free entry but cut it from 60 to 30 days on 15 September 2026. Reports about Cape Verde, Bolivia and Laos are contradictory, so treat them as unconfirmed and check before you book."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa needed again:** Iran (since 22 Nov 2025), Nicaragua (since 16 Feb 2026). **Shorter stay:** Thailand, 30 days visa-free since 15 Sep 2026. **Easier in 2026:** free Sri Lanka ETA, wider UAE visa on arrival, Saudi Package Visa, Uzbekistan visa-free for some visa holders, no airport transit visa in Spain, France and Germany. **Unconfirmed:** Cape Verde, Bolivia, Laos. **Watch:** Malaysia's visa-free entry runs only until 31 Dec 2026."
+      },
+      {
+        "type": "h2",
+        "text": "Which countries ended visa-free or visa on arrival for Indians in 2026?"
+      },
+      {
+        "type": "p",
+        "text": "The changes we could confirm against official sources are Iran and Nicaragua. Iran's change began in late 2025 but shapes every 2026 trip, and no restart had been announced when we checked. Thailand did not end visa-free entry, but it halved the stay."
+      },
+      {
+        "type": "p",
+        "text": "You may have seen headlines such as \"2 added, 4 lost\" (Gulf News, January 2026) or \"4 countries removed\" (Gulf News, July 2026). Those counts come from passport-index rankings, and the two articles name different countries. Below we separate what governments have confirmed from what has only been reported."
+      },
+      {
+        "type": "h2",
+        "text": "Harder in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Iran (from 22 November 2025):** Iran suspended visa-free entry for ordinary Indian passport holders. It used to allow up to 15 days for tourism. You now need a visa to enter or even transit through Iran. India's Ministry of External Affairs (MEA) warned that Indians had been lured to Iran with fake job offers and kidnapped for ransom. **What to do:** apply for an Iranian visa through the embassy or its official e-visa route, and ignore any agent who offers visa-free travel or onward transit via Iran. Diplomatic and official passports are not covered here.",
+          "**Nicaragua (from 16 February 2026):** Nicaragua's immigration authority issued Disposición No. 002-2026, which changed its visa categories. The Embassy of India in Panama says Indian ordinary passport holders are now in **Category C, the \"consulted visa\"**. Immigration in Managua must approve that visa before you travel. The visa is for 30 days and can be extended to a total of 90 days. **What to do:** apply online on the Nicaraguan Interior Ministry portal (tramitesconsulares.mint.gob.ni) or by email using the Category C form, well before your flight. The embassy advisory lists no exemption for holders of US, Canadian or Schengen visas, so do not rely on one.",
+          "**Thailand (from 15 September 2026):** Thailand ended its 60-day visa exemption. Indian tourists now get **30 days visa-free**. You must also fill the free Thailand Digital Arrival Card online within three days before you land. **What to do:** if your trip is longer than 30 days, apply for a Thai tourist visa or e-visa. Note that the MEA's country list still showed 60 days when we checked, because its data is dated February 2026.",
+          "**Malaysia (deadline, not yet a change):** Malaysia's 30-day visa waiver for Indians runs until **31 December 2026**. No extension had been announced when we checked. **What to do:** for trips in 2027, avoid non-refundable bookings until Malaysia confirms the rule, and keep filling the MDAC arrival card."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Easier in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Spain (4 March), France (10 April) and Germany (3 June):** Indians no longer need an airport transit visa to change planes in the international transit area of these countries' airports. **Who it helps:** anyone flying to the US, Canada or Latin America via Madrid, Paris or Frankfurt. You still need a Schengen visa if you leave the transit area or pass through passport control.",
+          "**Sri Lanka (25 May):** Indians are among 40 nationalities who get a **free 30-day, double-entry tourist ETA**. You must still apply on eta.gov.lk before you fly.",
+          "**Bhutan (2 June):** visits of up to 24 hours to Phuentsholing, Samtse, Gelephu or Samdrup Jongkhar carry no Sustainable Development Fee until August 2027. Once you go beyond these towns, Indians pay ₹1,200 a night.",
+          "**UAE (25 June):** the UAE widened its visa on arrival. Indians with a valid US visa or green card, or a UK or EU visa or residence permit, can get a **14-day visa on arrival for AED 100**. Some other residence permits also qualify.",
+          "**Saudi Arabia (18 July):** the Package Visa lets Indians without a US, UK or Schengen visa get a Saudi tourist e-visa by buying a flight and 4-star-plus hotel package from an approved provider. It costs SAR 402.21 including insurance and is single entry.",
+          "**Uzbekistan (1 September):** Indians with a valid multiple-entry US, UK, Schengen, Canada, Australia, New Zealand, Japan or South Korea visa can stay **up to 30 days without a visa**. Everyone else should use the e-visa."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Reported but not confirmed"
+      },
+      {
+        "type": "p",
+        "text": "These claims appear in news or travel sites, but we could not confirm them from an official source, or official and news sources disagree. Do not treat any of them as settled."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Cape Verde:** several outlets reported that Cape Verde ended visa on arrival for 96 countries, including India, from 1 January 2026. But two Lusophone newspapers, Expresso das Ilhas in Cape Verde and Observador in Portugal, reported that a corrected order published on 23 January 2026 cut the list to 91 countries. Expresso das Ilhas says India was one of five removed. The MEA's list, with data as of February 2026, still shows a 30-day visa on arrival after online EASE pre-registration and a fee. Some articles from July and October 2026 still list India as affected. **What to do:** confirm with a Cape Verde embassy or consulate and the EASE portal before you buy tickets.",
+          "**Bolivia:** Gulf News and Outlook Traveller say Bolivia moved Indians from visa on arrival to an e-visa that must be approved before travel. We found no official Bolivian notice or effective date, and some travel sites still describe visa on arrival.",
+          "**Laos:** some Indian news sites say Laos ended visa on arrival for Indians and now requires an e-visa. The MEA list still shows both an e-visa and visa on arrival. We found no official Lao notice.",
+          "**Senegal and Ethiopia:** a January 2026 Gulf News article counted both as losses because of \"tightened protocols\". The MEA list still shows Senegal as visa-free for 90 days and Ethiopia as offering visa on arrival at Addis Ababa airport. We found no official change for ordinary passports.",
+          "**Mauritius:** the 2026-27 budget plans an Electronic Travel Authorisation for visitors, with a fee. No start date or amount had been announced when we checked, so for now Indians can still visit without a visa."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Why do the headline numbers keep changing?"
+      },
+      {
+        "type": "p",
+        "text": "Passport rankings such as the Henley Passport Index count only places you can enter without arranging a visa first. They leave out e-visas, and they sometimes move a country between lists because of index rules rather than a new law. For example, Gulf News listed Malaysia and Kazakhstan as 2026 \"additions\". In fact Kazakhstan has allowed Indians 14 days visa-free since July 2022, and Malaysia's waiver began in December 2023 and was later extended to the end of 2026."
+      },
+      {
+        "type": "p",
+        "text": "The October 2026 Henley index puts India at 84th with 55 destinations. Treat that number as a rough guide, not as a booking rule. One country's rule on your travel date matters far more than any ranking."
+      },
+      {
+        "type": "h2",
+        "text": "How to check before you book"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Go to the source:** check the destination's immigration or embassy website, not a blog or a ranking. For countries with no embassy in India, check the Indian embassy that covers that country, which often posts an advisory.",
+          "**Use the MEA list carefully:** India's MEA page \"Visa Facility for Indian Nationals\" is useful, but its data was dated 2 February 2026 when we checked. It still showed Thailand at 60 days, so it can lag behind new rules.",
+          "**Check your passport type:** most changes apply to ordinary passports only. Diplomatic and official passports often follow separate agreements.",
+          "**Check transit too:** a visa-free destination does not help if your connection needs a transit visa. Iran now requires a visa even to transit.",
+          "**Ask the airline:** airlines check documents before boarding and can refuse you if the rules have changed. Call them or check their travel document tool a week before you fly.",
+          "**Book refundable first:** when a rule is new or disputed, pay for a refundable fare and hotel until your visa or authorisation is approved."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Our visa glossary (travlys.com/visa-glossary/) explains terms such as ETA, visa on arrival and consulted visa. Our travel news page (travlys.com/travel-news/) and the visa rule changes tracker list dated updates as they happen. A \"Do Indians need a visa?\" checker is also coming soon at travlys.com/visa-checker/."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file visas for Iran, Nicaragua or Cape Verde. If you are planning one of these trips, we can check your documents against the current official rules before you apply. If you would rather choose an easier destination, we file visas for Thailand, the UAE, Singapore, Malaysia and other countries. We also plan holiday packages, such as Sri Lanka and Bali, with hotels and private transfers. We have filed 5,000+ visas with a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "We checked these rules on 30 October 2026 against the sources listed below. Entry rules can change at short notice, so confirm with the embassy or official portal before you pay for flights."
+      }
+    ],
+    "sources": [
+      {
+        "label": "INAC Nicaragua: Cambio de categorías migratorias de visa para ingresar a Nicaragua (Disposición No. 002-2026)",
+        "url": "https://www.inac.gob.ni/cambio-de-categorias-migratorias-de-visa-para-ingresar-a-nicaragua/"
+      },
+      {
+        "label": "Embassy of India, Panama: Advisory on visa requirements for Panama, Costa Rica and Nicaragua",
+        "url": "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
+      },
+      {
+        "label": "Ministry of External Affairs: Visa Facility for Indian Nationals (ordinary passports)",
+        "url": "https://www.mea.gov.in/vffin"
+      },
+      {
+        "label": "Consulate General of Iran, Hyderabad: visa waiver notice",
+        "url": "https://hyderabad.mfa.gov.ir/en/NewsView/778685"
+      },
+      {
+        "label": "The Tribune: Iran ends visa-free entry for Indians from November 22",
+        "url": "https://www.tribuneindia.com/news/india/iran-ends-visa-free-entry-for-indians-from-november-22"
+      },
+      {
+        "label": "Business Today: MEA issues advisory on Iran job scams as Tehran suspends visa waiver for Indians",
+        "url": "https://www.businesstoday.in/nri/visa/story/mea-issues-advisory-on-iran-job-scams-as-tehran-suspends-visa-waiver-for-indians-502557-2025-11-18"
+      },
+      {
+        "label": "Royal Thai Embassy, New Delhi: Revision of Thailand's visa exemption and VOA",
+        "url": "https://newdelhi.thaiembassy.org/en/content/the-revision-of-thailand-s-visa-exemption-and-voa"
+      },
+      {
+        "label": "Malay Mail: Home Ministry extends visa exemption for Indian nationals until end of 2026",
+        "url": "https://www.malaymail.com/news/malaysia/2024/12/21/home-ministry-extends-visa-exemption-for-indian-nationals-until-end-of-2026/160597"
+      },
+      {
+        "label": "Embassy of Spain in New Delhi: airport transit visa notice",
+        "url": "https://www.exteriores.gob.es/Embajadas/nuevadelhi/es/Comunicacion/Noticias/Paginas/Articulos/19022026_NOT.aspx"
+      },
+      {
+        "label": "News On AIR: Indian nationals transiting through France by air no longer need transit visa (MEA)",
+        "url": "https://newsonair.gov.in/indian-nationals-transiting-through-mainland-france-exclusively-by-air-will-no-longer-need-transit-visa-mea-spokesperson/"
+      },
+      {
+        "label": "German Missions in India: airport transit visa",
+        "url": "https://india.diplo.de/in-en/2773896-2773896"
+      },
+      {
+        "label": "Department of Immigration and Emigration, Sri Lanka: Free tourist visas for nationals of 40 countries",
+        "url": "https://www.immigration.gov.lk/content/files/visa/Free%20Tourist%20Visas%20for%20Nationals%20of%2040%20Selected%20Countries.pdf"
+      },
+      {
+        "label": "Department of Tourism Bhutan: FAQs",
+        "url": "https://bhutan.travel/faqs"
+      },
+      {
+        "label": "UAE ICP: ICP expands eligibility for UAE entry visa for nationals of certain countries",
+        "url": "https://icp.gov.ae/en/media-center/icp-expands-eligibility-for-uae-entry-visa-for-nationals-of-certain-countries/"
+      },
+      {
+        "label": "Visit Saudi: Package Visa",
+        "url": "https://www.visitsaudi.com/en/campaigns/package-visa"
+      },
+      {
+        "label": "Uzbekistan Tourism Committee: visa-free entry for holders of certain visas",
+        "url": "https://gov.uz/en/uzbektourism/news/view/228993"
+      },
+      {
+        "label": "Expresso das Ilhas: Novo despacho redefine países sujeitos a visto e reforça controlo fronteiriço",
+        "url": "https://expressodasilhas.cv/pais/2026/02/15/novo-despacho-redefine-paises-sujeitos-a-visto-e-reforca-controlo-fronteirico/101399"
+      },
+      {
+        "label": "Observador: Cabo Verde passa a exigir visto prévio para cidadãos de 91 países",
+        "url": "https://observador.pt/2026/02/05/cabo-verde-passa-a-exigir-visto-previo-para-cidadaos-de-91-paises/"
+      },
+      {
+        "label": "Emerging Travel News: Cape Verde ends visa on arrival for 96 countries",
+        "url": "https://emergingtravel.news/cape-verde-ends-visa-on-arrival-for-96-countries-in-immigration-overhaul/"
+      },
+      {
+        "label": "Gulf News: Visa-free travel map changes for Indian passport holders in 2026: 2 added, 4 lost",
+        "url": "https://gulfnews.com/world/asia/india/visa-free-travel-map-changes-for-indian-passport-holders-in-2026-2-added-4-lost-1.500414392"
+      },
+      {
+        "label": "Gulf News: India's visa-free travel map changed in July 2026",
+        "url": "https://gulfnews.com/world/asia/india/indias-visa-free-travel-map-changed-in-july-2026-4-countries-removed-full-list-of-55-destinations-1.500620502"
+      },
+      {
+        "label": "Outlook Traveller: Visa-free no more, countries that have changed entry rules for Indians this year",
+        "url": "https://www.outlooktraveller.com/News/visa-free-no-more-countries-that-have-changed-entry-rules-for-indians-this-year"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Kazakhstan: visa-free regime for citizens of India",
+        "url": "https://www.gov.kz/memleket/entities/mfa-delhi/press/news/details/398872?lang=en"
+      },
+      {
+        "label": "Business Today: Henley Passport Index 2026, Indian passport 84th",
+        "url": "https://www.businesstoday.in/nri/story/henley-passport-index-2026-indian-passport-climbs-to-84th-rank-visa-free-countries-falls-to-55-561651-2026-10-14"
+      },
+      {
+        "label": "ATTA: Mauritius plans e-visa and ETA system in 2026-2027 budget",
+        "url": "https://atta.travel/resource/mauritius-plans-e-visa-eta-system-as-part-of-2026-2027-budget.html"
+      }
+    ]
+  },
+  // --- 29 October 2026: China refusals, US integrity fee, Phu Quoc, when to apply. ---
   {
     "slug": "china-visa-rejected-indians-2026-reasons",
     "title": "China Visa Rejected? Why Indians Get Refused in 2026",
@@ -6084,7 +6811,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: Australia biometrics, China direct filing, Australia student rules, Thailand 30 days.",
     "excerpt": "A dated, monthly-updated list of every significant visa and entry rule change for Indian passport holders in 2026, with what changed, who it affects and what to do.",
     "date": "2026-10-25",
-    "updated": "2026-10-28",
+    "updated": "2026-10-30",
     "readMinutes": 10,
     "category": "Visa rule updates",
     "tags": [
@@ -6324,6 +7051,14 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "16 Feb 2026: Nicaragua ends visa on arrival for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Nicaragua's Disposición No. 002-2026 moved Indian ordinary passport holders to Category C, the consulted visa, so immigration in Managua must approve your visa before you travel. According to the Embassy of India in Panama, you apply online on the Nicaraguan Interior Ministry portal or by email, for a 30-day visa that can be extended to 90 days."
+      },
+      {
+        "type": "h3",
         "text": "30 Jan 2026: Singapore can stop flagged travellers from boarding"
       },
       {
@@ -6400,6 +7135,14 @@ export const BLOG_POSTS = [
       }
     ],
     "sources": [
+      {
+        "label": "Embassy of India, Panama: Advisory on visa requirements for Panama, Costa Rica and Nicaragua",
+        "url": "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
+      },
+      {
+        "label": "INAC Nicaragua: Cambio de categorías migratorias de visa",
+        "url": "https://www.inac.gob.ni/cambio-de-categorias-migratorias-de-visa-para-ingresar-a-nicaragua/"
+      },
       {
         "label": "Visit Saudi: Package Visa",
         "url": "https://www.visitsaudi.com/en/campaigns/package-visa"

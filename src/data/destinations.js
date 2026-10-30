@@ -11,7 +11,7 @@ export const destinations = [
     accent: '#3b5bdb',
     region: 'Americas',
     visaType: 'Embassy Visa',
-    processingTime: '6-12 months (interview wait)',
+    processingTime: '7.5-12 months (interview wait)',
     processingTimeShort: '6-12 mo',
     validity: 'Up to 10 years',
     stayDuration: 'Up to 6 months / visit',
@@ -43,7 +43,7 @@ export const destinations = [
     faqs: [
       {
         q: 'How long does it take to get a US visa from India?',
-        a: 'B1/B2 interview waits at US posts in India were roughly 6-12 months in October 2026 and change often. Once your interview is done, B1/B2 stamping typically arrives within 1-2 weeks. We help you grab the earliest available slot.',
+        a: 'B1/B2 interview waits at US posts in India were roughly 7.5-12 months in State Department figures from 21 October 2026, and they change often. Once your interview is done, B1/B2 stamping typically arrives within 1-2 weeks. We help you grab the earliest available slot.',
       },
       {
         q: 'What documents do I need for a US tourist visa?',
@@ -91,7 +91,7 @@ export const destinations = [
       updatedOn: '2026-07-10',
       reviewedBy: 'The Travlys US visa desk',
       tldr:
-        'The US visa from India is not a paper application, it is an evidence-based conversation with a consular officer. Cost is roughly ₹38,000-42,000 all-in (MRV fee $185, service fee, VAC, courier). Total time from brief to stamped passport is typically 6-12 months for a first-time B1/B2 applicant, most of it interview-wait. DS-160 accuracy and interview coaching decide the outcome more than any single document.',
+        'The US visa from India is not a paper application, it is an evidence-based conversation with a consular officer. Cost is roughly ₹38,000-42,000 all-in (MRV fee $185, service fee, VAC, courier). Total time from brief to stamped passport is typically 7.5-12 months for a first-time B1/B2 applicant, most of it interview-wait. DS-160 accuracy and interview coaching decide the outcome more than any single document.',
       sections: [
         {
           h2: 'US visa from India in 2026: what actually decides the outcome',
@@ -642,7 +642,7 @@ export const destinations = [
     processingTime: '3-5 working days',
     processingTimeShort: '3-5 d',
     validity: 'Up to 2 years',
-    stayDuration: 'Up to 30 days / visit',
+    stayDuration: 'Decided by ICA on arrival (shown on your e-Pass)',
     entryType: 'Multiple',
     price: 'From ₹2,950',
     priceValue: 2950,
@@ -705,7 +705,7 @@ export const destinations = [
     processingTime: '2-4 working days',
     processingTimeShort: '2-4 d',
     validity: '60 days from issue',
-    stayDuration: '14 / 30 / 60 days',
+    stayDuration: '30 or 60 days (14 days on arrival for eligible visa holders)',
     entryType: 'Single / Multiple',
     price: 'From ₹2,500',
     priceValue: 2500,
@@ -987,7 +987,7 @@ export const GOV_FEES = {
   'australia-visa':   { native: 'AUD 250',     inr: 16600, payee: 'DHA (VAC)' },
   'netherlands-visa': { native: '€90',         inr: 9600,  payee: 'Embassy via VFS' },
   'singapore-visa':   { native: 'INR 2,100',   inr: 2100,  payee: 'Singapore High Commission (via authorised agent)' },
-  'uae-visa':         { native: 'AED 350',     inr: 9050,  payee: 'GDRFA Dubai' },
+  'uae-visa':         { native: 'AED 200 + 5% VAT', inr: 5450, payee: 'GDRFA Dubai (30-day tourist visa)' },
   'thailand-visa':    { native: '₹3,000',      inr: 3000,  payee: 'Royal Thai e-Visa' },
   'new-zealand-visa': { native: 'NZD 441',     inr: 23700, payee: 'Immigration New Zealand' },
   'malaysia-visa':    { native: 'MYR 35',      inr: 700,   payee: 'Imigresen Malaysia' },
