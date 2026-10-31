@@ -7,6 +7,542 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  // --- 31 October 2026: OCI card rules, Azerbaijan and Armenia. ---
+  {
+    "slug": "oci-card-rules-2026-fees-passport-update",
+    "title": "OCI Card Rules 2026: Fees, New Passport Update and e-OCI",
+    "metaTitle": "OCI Card Rules 2026: Fees and Passport Update | Travlys",
+    "metaDescription": "A fresh OCI card costs USD 275 abroad, which is not a new fee. Got a new passport? Update OCI online within 3 months for free, or pay USD 25 plus charges.",
+    "excerpt": "The USD 275 OCI fee is not new, but the three-month passport update rule now carries a late fee, and the e-OCI card arrived on 30 June 2026. Here is what OCI holders must do and when.",
+    "date": "2026-10-31",
+    "updated": "2026-10-31",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "OCI card",
+      "OCI fees",
+      "e-OCI",
+      "NRI",
+      "passport update",
+      "parents visit visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=1600&h=900&fit=crop",
+    "related": [
+      "indian-e-passport-2026-how-to-apply",
+      "us-visa-from-india-2026-complete-guide",
+      "uk-visa-for-indians-2026-fees-processing-time"
+    ],
+    "faqs": [
+      {
+        "q": "What is the OCI card fee in 2026?",
+        "a": "A fresh OCI card costs USD 275 when you apply outside India, or the local-currency equivalent set by your Indian mission. This is not a new fee; missions were already charging it. In the US, the Embassy of India adds USD 3 for the Indian Community Welfare Fund and a VFS service fee of USD 19. Re-issue costs USD 25 and a lost or damaged card USD 100."
+      },
+      {
+        "q": "Do I have to update my OCI after getting a new passport?",
+        "a": "Yes. Every time you get a new foreign passport, you must upload a copy of it and a recent photo on ociservices.gov.in. If you do it within three months of getting the passport, it is free. After three months, MHA charges a fee of USD 25, and missions add their own charges. In the US that comes to USD 25, plus USD 3 ICWF and USD 19 VFS fee."
+      },
+      {
+        "q": "Can I travel to India while my OCI passport update is pending?",
+        "a": "Yes. The Embassy of India in Washington and the Embassy in Riyadh both say there is no restriction on OCI cardholders travelling to or from India between the date the new passport is issued and the final acknowledgement of the update. Carry both your old and new passports and your OCI card, so immigration can link your OCI to the new passport."
+      },
+      {
+        "q": "Is OCI re-issue still required at age 20 or 50?",
+        "a": "The age-50 re-issue was dropped in April 2021. On 30 June 2026, the government said re-issuing the OCI booklet is no longer needed when you get a new passport after age 20, with an online update instead. Some mission pages, including the Washington embassy's, still describe the old age-20 re-issue. Check with your mission before you apply."
+      },
+      {
+        "q": "What is the e-OCI card?",
+        "a": "The e-OCI card is a digital version of the OCI card that you download free from ociservices.gov.in. It was launched on 30 June 2026. MHA says it does not change the validity or status of your existing OCI card. Existing holders log in, open the e-OCI tab and click Generate e-OCI Card. You can download it up to five times a day."
+      },
+      {
+        "q": "How long does an OCI re-issue take?",
+        "a": "MHA's OCI FAQ says a re-issue application is ordinarily decided within 15 days from the date of acknowledgement. Fresh OCI applications take longer and depend on your mission and on background checks, so check the current processing time on your mission's website. A simple passport upload within three months has no fixed timeline, but you can travel while it is pending."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "In 2026 a fresh OCI card still costs **USD 275** when you apply from abroad. Reports calling it a new fee are wrong, because Indian missions were already charging it. The rule that matters more is the passport update: when you get a new foreign passport, upload it on the OCI portal **within three months** for free, or pay a late fee of **USD 25** plus local charges."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Fresh OCI (abroad):** USD 275, plus ICWF USD 3 and the service provider's fee (USD 19 at VFS in the US). **Re-issue:** USD 25. **Lost or damaged card:** USD 100. **New passport update:** free within three months on ociservices.gov.in. **Late update:** USD 25 fee from MHA; in the US the total is USD 25 + USD 3 ICWF + USD 19 VFS. **Travel while update is pending:** allowed. **e-OCI card:** launched 30 June 2026, free to download. **Age 50 re-issue:** dropped in 2021. **Age 20 re-issue:** government says not needed from 30 June 2026; some mission pages not yet updated. **Re-issue time:** ordinarily 15 days from acknowledgement."
+      },
+      {
+        "type": "h2",
+        "text": "Is USD 275 a new OCI fee?"
+      },
+      {
+        "type": "p",
+        "text": "No. Several articles in April 2026 said the OCI fee had risen to USD 275 from 1 April 2026. VisaVerge later corrected its own report, saying missions abroad already charged USD 275 for a fresh OCI. The Embassy of India in Washington lists **USD 275** for a new OCI card, plus **USD 3** for the Indian Community Welfare Fund and a VFS service fee of **USD 19**. That makes about **USD 297** in the US before any shipping or optional VFS services."
+      },
+      {
+        "type": "p",
+        "text": "Outside the US you pay the local-currency equivalent set by your mission, plus the outsourcing agency's charge, which differs by country. In the UK and the Gulf, check the High Commission or Embassy fee page and the VFS fee page on the day you apply, because exchange-rate based fees change from time to time."
+      },
+      {
+        "type": "h2",
+        "text": "Do I need to update my OCI card when I get a new passport?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. MHA's OCI FAQ says you must upload a copy of the new passport and a latest photo each time a new passport is issued. Do it within three months of receiving the passport and it costs nothing. Leave it later and the update is processed only after you pay a fee."
+      },
+      {
+        "type": "h2",
+        "text": "The three-month rule and the late fee"
+      },
+      {
+        "type": "p",
+        "text": "The three-month window has existed since the 2021 OCI changes. In 2026, missions have published fresh notices that spell out the late fee. The Consulate General of India in San Francisco issued an advisory on **16 June 2026**, and the Embassy of India in Riyadh issued a public notice on **15 October 2026**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Within three months:** free. Fill the online miscellaneous services form on ociservices.gov.in and upload the new passport, the old passport and a recent photo.",
+          "**After three months:** MHA charges **USD 25**. In San Francisco the total is USD 25 consular fee + USD 3 ICWF + USD 19 VFS service fee, paid online to VFS.",
+          "**Saudi Arabia:** the Riyadh embassy says the late fee is **SAR 105**.",
+          "**No paper file:** San Francisco says no physical OCI application has to be sent to VFS or the consulate for this service.",
+          "**Travel:** you may travel to and from India while the update is pending, according to the Washington and Riyadh embassies."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Missions word the start of the three months differently. Some say from the date of issue of the passport, others from the date you receive it. Count from the issue date to be safe."
+      },
+      {
+        "type": "h2",
+        "text": "Re-issue versus update: the age 20 and 50 rules"
+      },
+      {
+        "type": "p",
+        "text": "An update is an online upload. A re-issue gives you a fresh OCI booklet and costs USD 25. Until April 2021, you needed a re-issue with every new passport up to age 20 and once after 50. In April 2021 the government dropped the age-50 re-issue and kept just one re-issue: when someone registered as OCI before 20 gets a new passport after turning 20."
+      },
+      {
+        "type": "p",
+        "text": "On **30 June 2026**, Union Home Minister Amit Shah launched the e-OCI card. News reports of the launch say the new system removes the need to re-issue the OCI booklet when you get a new passport after 20, and that you only update your passport details online. However, the Washington embassy's re-issue guidelines and MHA's FAQ still describe the age-20 re-issue. If you got your OCI as a child and have a new adult passport, ask your mission which process applies before paying for a re-issue."
+      },
+      {
+        "type": "h2",
+        "text": "The e-OCI card"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**What it is:** a digital version of your OCI card, downloaded from ociservices.gov.in.",
+          "**Cost:** free.",
+          "**Existing holders:** log in, open the e-OCI tab and click Generate e-OCI Card. MHA says it does not change the validity or status of your existing card.",
+          "**Limit:** up to five downloads per day.",
+          "**New passport:** the e-OCI shows the new passport details only after your update request is approved, so do the update first."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Keep your physical OCI card if you have one. MHA describes the e-OCI as a digital representation of the OCI card, and existing booklets stay valid."
+      },
+      {
+        "type": "h2",
+        "text": "OCI fees in 2026 (US example)"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fresh OCI:** USD 275 + USD 3 ICWF + USD 19 VFS fee.",
+          "**Re-issue in place of an existing card:** USD 25 + USD 3 ICWF + outsourcing agency charge (listed as USD 15.90 on the embassy's re-issue page).",
+          "**Lost or damaged card:** USD 100 + USD 3 ICWF + agency charge.",
+          "**Passport update within three months:** free.",
+          "**Passport update after three months:** USD 25 + USD 3 ICWF + USD 19 VFS fee."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Washington embassy lists the VFS charge as USD 19 on its new OCI page and USD 15.90 on its re-issue page, so confirm the figure on the VFS site before you pay."
+      },
+      {
+        "type": "h2",
+        "text": "How long it takes"
+      },
+      {
+        "type": "p",
+        "text": "MHA says a re-issue is ordinarily decided within **15 days** of acknowledgement. A fresh OCI takes longer, because it needs verification, and timelines vary by mission. Check the current processing time on your mission's website, and do not book non-refundable tickets on a fresh application until the card or e-OCI is granted."
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Forgetting the update after a passport renewal and finding out at the airport. Set a reminder the day the new passport arrives.",
+          "Paying for a full re-issue when a free online upload would do.",
+          "Travelling with only the new passport. Carry the old passport too until the update is acknowledged.",
+          "Uploading an old photo. MHA asks for a latest photo with the new passport.",
+          "Trusting a fee quoted in a blog. Fees differ by country and service provider."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bringing your parents from India to visit"
+      },
+      {
+        "type": "p",
+        "text": "OCI rules cover you, not your parents. If your parents hold Indian passports, they need a visitor visa from India for the country where you live. For the US that is a **B1/B2** visa, which needs an interview at a US consulate in India. For the UK it is a **Standard Visitor** visa, applied for online with biometrics at a visa centre. For Canada it is a **visitor visa**, also with biometrics. Canada also offers a Super Visa for parents of Canadian citizens and permanent residents that allows longer stays."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Start early:** US interview waits in Indian cities can be long, so check current wait times and apply well before a family event.",
+          "**Show their ties to India:** property, pension, savings and family who stay behind matter more than your income.",
+          "**Your invitation letter helps:** add a copy of your passport, visa or residence status, address and a short trip plan.",
+          "**Health insurance:** buy cover for the whole stay, especially for parents above 60.",
+          "**Check costs:** the visa cost calculator at travlys.com/visa-cost-calculator/ shows current government fees."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file OCI applications. Those go through ociservices.gov.in and your Indian mission or its service provider. What we do is file visas for your parents and family in India: US B1/B2 (from ₹19,940), UK Standard Visitor (from ₹12,950) and Canada visitor visas (from ₹14,950), plus Australia, Schengen, Singapore, UAE, Thailand, New Zealand and Malaysia. Government fees are extra. We check documents before submission and plan holiday packages with hotels and private transfers. We have filed 5,000+ visas with a 98% approval rate. WhatsApp +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules and fees in this guide were checked on 31 October 2026 against MHA's OCI FAQs, the Embassy of India in Washington, the Consulate General of India in San Francisco, the Embassy of India in Riyadh and the news reports listed below. OCI fees and processes differ by country, so check your mission's website and ociservices.gov.in before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "MHA OCI Services: Miscellaneous services FAQs",
+        "url": "https://ociservices.gov.in/onlineOCI/miscFAQs"
+      },
+      {
+        "label": "MHA OCI Services: e-OCI card FAQs",
+        "url": "https://ociservices.gov.in/onlineOCI/eOCICardFAQs"
+      },
+      {
+        "label": "Embassy of India, Washington DC: OCI Card",
+        "url": "https://indianembassyusa.gov.in/pages/MjY,"
+      },
+      {
+        "label": "Embassy of India, Washington DC: OCI Card Reissue Guidelines",
+        "url": "https://indianembassyusa.gov.in/pages/NjI,"
+      },
+      {
+        "label": "Embassy of India, Washington DC: Passport Updation on OCI Card",
+        "url": "https://indianembassyusa.gov.in/pages/Mjcw"
+      },
+      {
+        "label": "Consulate General of India, San Francisco: Advisory for OCI cardholders updating passport particulars (16 June 2026)",
+        "url": "https://www.cgisf.gov.in/section/news/advisory-for-oci-cardholders-updating-passport-particulars-after-obtaining-a-new-passport/"
+      },
+      {
+        "label": "Embassy of India, Riyadh: OCI Card Passport Updation Public Notice (15 October 2026)",
+        "url": "https://www.eoiriyadh.gov.in/section/news/oci-card-passport-updation-public-notice/"
+      },
+      {
+        "label": "PIB: Amit Shah launches FCRA 2.0 Portal and e-OCI Card (30 June 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2279410"
+      },
+      {
+        "label": "Pratidin Time: Amit Shah launches FCRA 2.0 portal, introduces e-OCI card system",
+        "url": "https://www.pratidintime.com/national/amit-shah-launches-fcra-20-portal-introduces-e-oci-card-system-12123736"
+      },
+      {
+        "label": "Outlook India: OCI cardholders now need to get document re-issued only once at age of 20 (April 2021)",
+        "url": "https://www.outlookindia.com/national/india-news-oci-cardholders-now-need-to-get-document-re-issued-only-once-at-age-of-20-news-380361"
+      },
+      {
+        "label": "VisaVerge: India OCI rules, fees and 3-month passport update deadline (updated 10 October 2026)",
+        "url": "https://www.visaverge.com/news/india-tightens-oci-card-rules-with-new-fees-and-3-month-passport-update-deadline/"
+      }
+    ]
+  },
+  {
+    "slug": "azerbaijan-armenia-visa-for-indians-2026",
+    "title": "Azerbaijan and Armenia Visa for Indians 2026: e-Visa Guide",
+    "metaTitle": "Azerbaijan & Armenia Visa for Indians 2026 | Travlys",
+    "metaDescription": "Indians need an e-visa for both: Azerbaijan USD 20 (USD 60 urgent), Armenia USD 8 or USD 39. Border rules, the Tbilisi route and winter tips, checked Oct 2026.",
+    "excerpt": "Indians need an e-visa for both Azerbaijan and Armenia. Here are the official fees, processing times, Armenia's October 2026 rule change, and how to link Baku and Yerevan via Tbilisi.",
+    "date": "2026-10-31",
+    "updated": "2026-10-31",
+    "readMinutes": 7,
+    "category": "Country guides",
+    "tags": [
+      "Azerbaijan visa",
+      "Armenia visa",
+      "Baku",
+      "Yerevan",
+      "Caucasus trip",
+      "e-visa",
+      "Georgia visa",
+      "Indian passport"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1596306499398-8d88944a5ec4?w=1600&h=900&fit=crop",
+    "related": [
+      "georgia-visa-for-indians-2026",
+      "kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "faqs": [
+      {
+        "q": "Do Indians need a visa for Azerbaijan?",
+        "a": "Yes, Indian passport holders need a visa for Azerbaijan, and most apply for the ASAN e-visa on evisa.gov.az. The Embassy of Azerbaijan in New Delhi says the standard e-visa costs USD 20 and is issued in 3 working days, while the urgent e-visa costs USD 60 and comes in 3 hours. It allows a stay of up to 30 days. There is no general visa on arrival for Indians."
+      },
+      {
+        "q": "How much is the Armenia e-visa for Indians?",
+        "a": "The Armenia e-visa costs USD 8 for a stay of up to 21 days or USD 39 for up to 120 days. Both fees are non-refundable, and the official portal at evisa.mfa.am says processing takes up to 3 working days. Since 9 October 2026, Indians no longer have to meet the extra insurance and invitation conditions that applied from late 2024."
+      },
+      {
+        "q": "Can Indians get a visa on arrival in Armenia?",
+        "a": "Only if you hold a qualifying foreign visa or residence permit. Armenia gives border visas to foreigners with a valid visa or residence permit from the US, UK, Canada, Australia, New Zealand, South Korea, Japan, Russia or an EU or Schengen country, or a Gulf residence permit. Everyone else should apply for the e-visa before travel."
+      },
+      {
+        "q": "Can I travel from Baku to Yerevan by road?",
+        "a": "No, the land border between Azerbaijan and Armenia is closed to travellers. Azerbaijan also warns foreigners not to enter from Armenia outside its legal procedures. The usual route is to fly from Baku to Tbilisi in Georgia and then travel by road or air to Yerevan, or the reverse. You will need a Georgian e-visa unless you hold a qualifying US, UK, Schengen or similar visa."
+      },
+      {
+        "q": "Does a US or Schengen visa help Indians visit Armenia or Azerbaijan?",
+        "a": "It helps for Armenia but not for Azerbaijan. In Armenia, a valid US, UK, Schengen or similar visa lets you get a visa at the border, and a US, EU/Schengen or Gulf residence permit valid six months or more lets you enter visa-free until 1 July 2027. Azerbaijan has no such rule for Indians, so you still need the ASAN e-visa."
+      },
+      {
+        "q": "Is there a ski resort near Baku?",
+        "a": "Yes, Shahdag Mountain Resort near Qusar in northern Azerbaijan is the country's main ski resort, about a three-hour drive from Baku. The ski season usually starts in December, but the opening date depends on snow, so check the resort's website before booking. In Armenia, Tsaghkadzor is about an hour from Yerevan and usually runs from December to March."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Indian passport holders need a visa for both countries, and both sell it online. Azerbaijan's **ASAN e-visa** costs **USD 20** (3 working days) or **USD 60** for a 3-hour urgent visa, for a stay of up to **30 days**. Armenia's **e-visa** costs **USD 8** for up to 21 days or **USD 39** for up to 120 days, with a decision in up to 3 working days. The two countries share no open border, so plan to fly between them, usually via Tbilisi in Georgia."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Azerbaijan visa:** ASAN e-visa at evisa.gov.az. **Azerbaijan fee:** USD 20 standard (3 working days), USD 60 urgent (3 hours). **Azerbaijan stay:** up to 30 days. **Armenia visa:** e-visa at evisa.mfa.am. **Armenia fee:** USD 8 (up to 21 days) or USD 39 (up to 120 days), non-refundable. **Armenia processing:** up to 3 working days. **Armenia border visa:** only if you hold a valid US, UK, Schengen or similar visa or residence permit. **Armenia visa-free:** with a US, EU/Schengen or GCC residence permit valid 6+ months, until 1 July 2027. **Azerbaijan-Armenia border:** closed to travellers. **Best link:** fly via Tbilisi."
+      },
+      {
+        "type": "h2",
+        "text": "Do Indians need a visa for Azerbaijan and Armenia?"
+      },
+      {
+        "type": "p",
+        "text": "Yes, ordinary Indian passport holders need a visa for both. For Azerbaijan, apply for the ASAN e-visa on evisa.gov.az; India's Ministry of External Affairs lists Azerbaijan as an e-visa country for Indians, not visa on arrival. For Armenia, apply on evisa.mfa.am, unless you hold a qualifying US, UK, EU or Gulf visa or residence permit, which opens a border visa or visa-free route."
+      },
+      {
+        "type": "h2",
+        "text": "Azerbaijan e-visa: fees, time and stay"
+      },
+      {
+        "type": "p",
+        "text": "Azerbaijan issues tourist visas through the **ASAN Visa** system, run by a state agency since January 2017. The Embassy of Azerbaijan in New Delhi says:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Standard e-visa:** issued within **3 working days**, fee **USD 20**.",
+          "**Urgent e-visa:** issued within **3 hours**, fee **USD 60**.",
+          "**Stay:** Azerbaijan's Foreign Ministry says a single e-visa allows a stay of **up to 30 days**.",
+          "**Refunds:** the state fee is not refunded if the visa is refused.",
+          "**Who handles it:** only evisa.gov.az. The embassy cannot issue, change or approve e-visas."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Pay what the portal shows at checkout. Some travel sites quote higher totals, such as USD 26 or USD 29, because they add a service charge; we could not read the portal's own fee page to confirm the exact total."
+      },
+      {
+        "type": "h3",
+        "text": "Is there a visa on arrival in Baku for Indians?"
+      },
+      {
+        "type": "p",
+        "text": "Not for most Indians. Azerbaijan's airport e-visa list covers 11 countries, including Oman, Saudi Arabia, Japan, China and Israel, and India is not on it. The Foreign Ministry does allow airport visas for foreigners who hold a residence permit in Saudi Arabia, Oman, Bahrain, Qatar or Kuwait, or a UAE residence visa, valid for more than 6 months. If you live in the Gulf, confirm this with the embassy before you fly without an e-visa."
+      },
+      {
+        "type": "h3",
+        "text": "Does a US, UK or Schengen visa help in Azerbaijan?"
+      },
+      {
+        "type": "p",
+        "text": "No. We found no rule that gives Indians with a US, UK or Schengen visa a different route into Azerbaijan. You still apply for the ASAN e-visa."
+      },
+      {
+        "type": "callout",
+        "label": "Register if you stay over 15 days",
+        "text": "Azerbaijan's Foreign Ministry says foreigners staying more than **15 days** must register at their place of residence. Most short tourist trips stay under this limit."
+      },
+      {
+        "type": "h2",
+        "text": "Armenia e-visa: fees, time and the October 2026 change"
+      },
+      {
+        "type": "p",
+        "text": "Armenia's e-visa portal, run by its Ministry of Foreign Affairs, lists two tourist options:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visitor visa, up to 21 days:** **USD 8**, non-refundable.",
+          "**Visitor visa, up to 120 days:** **USD 39**, non-refundable.",
+          "**Processing:** up to **3 working days**.",
+          "**Extension:** Armenian visas run for at most 120 days and can be extended by another 60 days."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Since late 2024, Indian, Egyptian and Iraqi e-visa applicants had to show travel insurance plus either a qualifying foreign visa or residence permit, or a set of documents including a return ticket, an invitation and proof of funds. Armenian Government Decision **1454-N of 8 October 2026** repealed that rule. It took effect the day after publication, so Indians now apply on the same terms as most other nationals."
+      },
+      {
+        "type": "callout",
+        "label": "Source conflict",
+        "text": "The Embassy of Armenia in India's visa page, last updated on 30 June 2026, still lists the old insurance and invitation conditions. The decision on Armenia's official legal database is more recent. Carry travel insurance and your hotel and return bookings anyway; they cost little and answer the questions a border officer may ask."
+      },
+      {
+        "type": "h3",
+        "text": "Can Indians get a visa on arrival in Armenia?"
+      },
+      {
+        "type": "p",
+        "text": "Only with the right documents. Armenia's visa rules let foreigners get a visa at the border if they hold a valid entry visa or residence permit from the **US, UK, Canada, Australia, New Zealand, South Korea, Japan, Russia, an EU or Schengen country**, or a residence permit from a **Gulf (GCC) country**. India's MEA describes the same border route for Indians. Without one of these, apply for the e-visa before you travel."
+      },
+      {
+        "type": "h3",
+        "text": "Visa-free Armenia for Indian residents of the US, EU or Gulf"
+      },
+      {
+        "type": "p",
+        "text": "From **1 July 2026 to 1 July 2027**, Armenia exempts nationals of 111 countries, **India included**, from the visa if they hold a residence permit issued by the US, an EU or Schengen country, the UAE, Bahrain, Qatar, Saudi Arabia, Kuwait or Oman. The permit must be valid for at least **6 months** from entry and be a physical card or passport sticker. You can then stay up to **180 days in a year**. A tourist visa from these countries does not count for this route; it only qualifies you for the border visa."
+      },
+      {
+        "type": "h2",
+        "text": "Is the Azerbaijan-Armenia border open?"
+      },
+      {
+        "type": "p",
+        "text": "No. There is no open land crossing between Azerbaijan and Armenia for travellers, and no peace treaty has been signed. Azerbaijan's Foreign Ministry warns foreigners not to enter Azerbaijan from Armenia outside its legal procedures, and says people who do may face prosecution and an entry ban. Treat the two as separate trips joined by a flight."
+      },
+      {
+        "type": "p",
+        "text": "Azerbaijan has also kept its land borders shut to most passenger entry since 2020 under a special quarantine regime. In September 2026 the Cabinet of Ministers extended that regime to **2 January 2027**, according to Azerbaijani news agencies APA and Report. So plan to enter Azerbaijan by air through Baku, not by road from Georgia."
+      },
+      {
+        "type": "h2",
+        "text": "How to combine Baku, Tbilisi and Yerevan in one trip"
+      },
+      {
+        "type": "p",
+        "text": "Georgia sits between the two and works as the hinge. A simple order for a 9 to 12 day trip:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fly India to Baku.** Delhi has nonstop flights to Baku; check current schedules.",
+          "**Fly Baku to Tbilisi.** Since Azerbaijan's land borders stay closed to most passengers, fly rather than drive.",
+          "**Go Tbilisi to Yerevan by road or air.** Unlike the Azerbaijan-Armenia border, the Georgia-Armenia land route is the usual overland link between the two capitals; book a transfer or a short flight.",
+          "**Fly home from Yerevan.** Expect one stop, usually via a Gulf hub."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You need three separate permissions: the Azerbaijan e-visa, a Georgian e-visa (unless you hold a qualifying US, UK, Schengen or similar visa or residence permit, as our Georgia visa guide explains), and the Armenian e-visa. Apply for all three before you leave India, and keep printouts."
+      },
+      {
+        "type": "callout",
+        "label": "Common mistake",
+        "text": "Do not try to reach Azerbaijan overland from Georgia or Armenia. Book the Baku leg as a flight, and leave Baku first if your trip includes Armenia, so you never need to explain an onward route Azerbaijan does not allow."
+      },
+      {
+        "type": "h2",
+        "text": "Winter travel tips for December to February"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Shahdag Mountain Resort, Azerbaijan:** the country's main ski resort, in the Greater Caucasus near Qusar, roughly a three-hour drive from Baku. The ski season usually starts in December; check the resort's opening date before booking.",
+          "**Tsaghkadzor, Armenia:** Armenia's main ski area, about an hour from Yerevan, with a season usually from December to March.",
+          "**Gudauri, Georgia:** a popular ski stop if your route passes through Tbilisi.",
+          "**Apply early for urgent dates:** the Azerbaijan urgent e-visa takes 3 hours, but Armenia's e-visa can take up to 3 working days, and holiday weeks are busy.",
+          "**Plan for icy mountain roads:** resort roads can be steep and snowy in January and February, so book transfers with a local operator rather than self-driving."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Who should and shouldn't plan this trip"
+      },
+      {
+        "type": "p",
+        "text": "It suits travellers who want a short, low-cost visa trip with old towns, food and snow, and who are happy to fly once inside the region. Families with young children may prefer a single country, since three visas and two border routes add paperwork. If you have a US, EU or Gulf residence permit, Armenia becomes visa-free, which makes the combination easier still. You can check each country quickly on the Travlys visa checker at travlys.com/visa-checker/."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file Azerbaijan, Armenia or Georgia visas; apply on the official portals named above. We can check your documents before you apply and plan a holiday package with hotels and private transfers. If your next trip is to Dubai, Singapore, Thailand or Europe, we file those visas, with 5,000+ visas filed and a 98% approval rate. Message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 31 October 2026 against the sources listed below, including the Azerbaijan and Armenia foreign ministry websites, Armenia's official legal database and India's Ministry of External Affairs. Fees and rules can change without notice, so confirm on the official portal before you pay."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of Azerbaijan in India: ASAN Visa (e-Visa)",
+        "url": "https://newdelhi.mfa.gov.az/en/category/asan-visa-e-visa"
+      },
+      {
+        "label": "Embassy of Azerbaijan in India: Travel Warning",
+        "url": "https://newdelhi.mfa.gov.az/en/category/travel-warning"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Azerbaijan: ASAN Visa",
+        "url": "https://mfa.gov.az/en/category/visa/asan-visa"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Azerbaijan: General information about visa",
+        "url": "https://mfa.gov.az/en/category/visa/general-information-about-visa"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Armenia: E-Visa portal",
+        "url": "https://evisa.mfa.am/"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Armenia: Visa",
+        "url": "https://www.mfa.am/en/visa/"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Armenia: Temporary visa exemption, list of 111 countries (30 June 2026)",
+        "url": "https://www.mfa.am/filemanager/consular/visa/2025/2026-06-30-LIST-OF-COUNTRIES-TEMPORARY-VISA-EXEMPTION.pdf"
+      },
+      {
+        "label": "ARLIS (Armenian legal database): Government Decision 1454-N of 8 October 2026",
+        "url": "https://www.arlis.am/hy/acts/231881"
+      },
+      {
+        "label": "ARLIS: Government Decision 1268-N, visa procedure (paragraphs 1.2 and 1.4)",
+        "url": "https://www.arlis.am/hy/acts/208498"
+      },
+      {
+        "label": "Embassy of Armenia in India: Visa for Indians",
+        "url": "https://india.mfa.am/en/visaforindians/"
+      },
+      {
+        "label": "Ministry of External Affairs, India: Visa facility for Indian nationals",
+        "url": "https://www.mea.gov.in/vffin"
+      },
+      {
+        "label": "APA: Azerbaijan extends special quarantine regime until January 2, 2027",
+        "url": "https://en.apa.az/social/azerbaijan-extends-special-quarantine-regime-until-january-2-2027-524791"
+      },
+      {
+        "label": "Report.az: Azerbaijan extends special quarantine regime until January 2027",
+        "url": "https://report.az/en/domestic-politics/azerbaijan-extends-special-quarantine-regime-until-january-2027"
+      }
+    ]
+  },
   // --- 30 October 2026: Malaysia New Year, holiday visa deadlines, countries that ended visa-free entry. ---
   {
     "slug": "malaysia-new-year-trip-2026-27-visa-free-end-date",
@@ -6811,7 +7347,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: Australia biometrics, China direct filing, Australia student rules, Thailand 30 days.",
     "excerpt": "A dated, monthly-updated list of every significant visa and entry rule change for Indian passport holders in 2026, with what changed, who it affects and what to do.",
     "date": "2026-10-25",
-    "updated": "2026-10-30",
+    "updated": "2026-10-31",
     "readMinutes": 10,
     "category": "Visa rule updates",
     "tags": [
@@ -6891,6 +7427,14 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "9 Oct 2026: Armenia drops extra e-visa conditions for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Armenian Government Decision 1454-N of 8 October 2026 removed the rule that Indian e-visa applicants must show travel insurance plus a foreign visa or an invitation package. The e-visa still costs **USD 8** for up to 21 days or **USD 39** for up to 120 days, applied on evisa.mfa.am. The Armenian embassy's India page may still show the old conditions."
+      },
+      {
+        "type": "h3",
         "text": "9 Oct 2026: India ranks 84th in the Henley Passport Index"
       },
       {
@@ -6931,6 +7475,14 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "17 Sep 2026: Passport rules amended for children below 15"
+      },
+      {
+        "type": "p",
+        "text": "The Passports (Amendment) Rules, 2026, dated 15 September and in force from Gazette publication on 17 September, make a 36-page passport for a child below 15 valid for five years or until 18, whichever is earlier. No fees changed: the current fees, including ₹1,750 for a minor's passport, have applied since 1 July 2026."
+      },
+      {
+        "type": "h3",
         "text": "15 Sep 2026: Thailand cuts visa-free stays to 30 days"
       },
       {
@@ -6960,6 +7512,14 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "Indians without a US, UK or Schengen visa can now get a Saudi tourist eVisa by buying a flight and 4-star-or-above hotel package from a provider approved by the Ministry of Tourism. The visa costs **SAR 402.21** including insurance, is single entry and valid for three months, and the package must be worth at least SAR 4,000 per adult for the first two days. Indians who do hold a valid US, UK or Schengen visa can still use the regular eVisa."
+      },
+      {
+        "type": "h3",
+        "text": "1 Jul 2026: Armenia visa-free for Indians with US, EU or Gulf residence permits"
+      },
+      {
+        "type": "p",
+        "text": "Until 1 July 2027, Indians who hold a US, EU or Schengen residence permit, or a UAE, Bahrain, Qatar, Saudi, Kuwait or Oman residence permit valid for at least six months, can enter Armenia without a visa for up to 180 days a year. Everyone else uses the e-visa."
       },
       {
         "type": "h3",
@@ -7135,6 +7695,18 @@ export const BLOG_POSTS = [
       }
     ],
     "sources": [
+      {
+        "label": "ARLIS (Armenian legal database): Government Decision 1454-N",
+        "url": "https://www.arlis.am/hy/acts/231881"
+      },
+      {
+        "label": "MFA Armenia: Temporary visa exemption list (from 1 July 2026)",
+        "url": "https://www.mfa.am/filemanager/consular/visa/2025/2026-06-30-LIST-OF-COUNTRIES-TEMPORARY-VISA-EXEMPTION.pdf"
+      },
+      {
+        "label": "Outlook Money: Passport rules changed, new validity for children (18 September 2026)",
+        "url": "https://www.outlookmoney.com/news/passport-rules-changed-new-validity-for-children-higher-fees-for-adults-and-minors"
+      },
       {
         "label": "Embassy of India, Panama: Advisory on visa requirements for Panama, Costa Rica and Nicaragua",
         "url": "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
@@ -9788,7 +10360,7 @@ export const BLOG_POSTS = [
     "metaDescription": "All new Indian passports are chip e-passports. Fees rose on 1 July 2026 to ₹2,500 for 36 pages. How to apply, the POPSK option and if old ones stay valid.",
     "excerpt": "Every fresh or renewed passport issued in India is now a chip-based e-passport. Here is how to apply, what the revised July 2026 fees are, and why you do not need to replace a valid old passport.",
     "date": "2026-10-25",
-    "updated": "2026-10-25",
+    "updated": "2026-10-31",
     "readMinutes": 7,
     "category": "Travel planning",
     "tags": [
@@ -9813,7 +10385,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "What is the e-passport fee in India in 2026?",
-        "a": "From 1 July 2026, a fresh or re-issue 36-page passport costs ₹2,500 under normal processing and ₹5,000 under Tatkal. A 60-page passport costs ₹3,500 normal and ₹6,000 Tatkal. A minor's 36-page passport costs ₹1,750 normal. These are the same fees for every passport, because all new passports are e-passports. They come from the Passports (Amendment) Rules, 2026."
+        "a": "From 1 July 2026, a fresh or re-issue 36-page passport costs ₹2,500 under normal processing and ₹5,000 under Tatkal. A 60-page passport costs ₹3,500 normal and ₹6,000 Tatkal. A minor's 36-page passport costs ₹1,750 normal. These are the same fees for every passport, because all new passports are e-passports. They come from the Passports (Amendment) Rules, 2026 (G.S.R. 516(E)), in force from 1 July 2026. A further amendment notified in September 2026 changed the validity wording for children below 15 but did not change these fees."
       },
       {
         "q": "Is my old non-chip Indian passport still valid?",
@@ -9881,7 +10453,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "Tatkal fees include the normal fee. Minors aged 15 to 18 can choose the adult category to get a 10-year passport, at the adult fee. Adult passports remain valid for 10 years."
+        "text": "Tatkal fees include the normal fee. Minors aged 15 to 18 can choose the adult category to get a 10-year passport, at the adult fee. Adult passports remain valid for 10 years. A second Passports (Amendment) Rules, 2026, dated 15 September 2026 and in force from its Gazette publication on 17 September 2026, did not change any of these fees. It substituted Rule 12(1A), so a 36-page ordinary passport issued to a child below 15 is valid for five years or until the child turns 18, whichever is earlier."
       },
       {
         "type": "h2",
@@ -9975,10 +10547,14 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "Last checked",
-        "text": "Fees, rollout dates and rules in this guide were checked on 25 October 2026 against the MEA notification, PIB releases and the news reports listed below. Check passportindia.gov.in before you apply, as appointment rules and fees can change."
+        "text": "Fees, rollout dates and rules in this guide were checked on 31 October 2026 against the MEA notification, PIB releases and the news reports listed below, including the September 2026 amendment to Rule 12(1A). Check passportindia.gov.in before you apply, as appointment rules and fees can change."
       }
     ],
     "sources": [
+      {
+        "label": "Outlook Money: Passport rules changed, new validity for children (18 September 2026)",
+        "url": "https://www.outlookmoney.com/news/passport-rules-changed-new-validity-for-children-higher-fees-for-adults-and-minors"
+      },
       {
         "label": "Ministry of External Affairs: Passports (Amendment) Rules, 2026, G.S.R. 516(E)",
         "url": "https://www.mea.gov.in/doc/f5b819f6-c745-4942-b9ea-dcd74a1f8e50"

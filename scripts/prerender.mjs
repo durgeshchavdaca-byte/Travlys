@@ -343,7 +343,7 @@ function visaCheckerBody() {
     .sort((a, b) => a.country.localeCompare(b.country))
     .map(
       (c) =>
-        `<tr><td><a href="${href(c.href)}">${escapeHtml(c.country)}</a></td><td>${escapeHtml(STATUS_LABEL[c.status] || c.status)}</td><td>${escapeHtml(c.headline)}</td><td>${escapeHtml(c.stay)}</td><td>${escapeHtml(c.cost)}</td></tr>`,
+        `<tr id="${c.id}"><td>${c.href ? `<a href="${href(c.href)}">${escapeHtml(c.country)}</a>` : `${escapeHtml(c.country)}${c.source ? ` (<a href="${escapeAttr(c.source)}">official source</a>)` : ''}`}</td><td>${escapeHtml(STATUS_LABEL[c.status] || c.status)}</td><td>${escapeHtml(c.headline)}</td><td>${escapeHtml(c.stay)}</td><td>${escapeHtml(c.cost)}</td></tr>`,
     )
     .join('')
   return `${crumbs([['Home', '/'], ['Visa checker']])}

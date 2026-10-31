@@ -3,7 +3,7 @@
 // Rendered at /travel-news, and fed into the homepage, llms.txt and the
 // prerendered HTML so search engines and AI assistants see the latest dates.
 
-export const NEWS_UPDATED = '2026-10-30'
+export const NEWS_UPDATED = '2026-10-31'
 
 export const TRAVEL_NEWS = [
   // --- Announced, not yet in force (shown under "Coming up") ---
@@ -52,6 +52,38 @@ export const TRAVEL_NEWS = [
     },
   },
   // --- Dated news, newest first ---
+  {
+    date: '2026-10-09',
+    headline: 'Armenia drops extra e-visa conditions for Indians',
+    summary:
+      'Armenia no longer asks Indian e-visa applicants for travel insurance plus a foreign visa or an invitation. The e-visa still costs USD 8 for up to 21 days or USD 39 for up to 120 days.',
+    href: '/blog/azerbaijan-armenia-visa-for-indians-2026/',
+    source: { label: 'ARLIS: Government Decision 1454-N', url: 'https://www.arlis.am/hy/acts/231881' },
+  },
+  {
+    date: '2026-09-17',
+    headline: 'Passport rules amended for children below 15; fees unchanged',
+    summary:
+      'A 36-page passport for a child below 15 is valid for five years or until 18, whichever is earlier. The fees, including ₹1,750 for a minor, are the ones in force since 1 July 2026.',
+    href: '/blog/indian-e-passport-2026-how-to-apply/',
+    source: { label: 'Outlook Money', url: 'https://www.outlookmoney.com/news/passport-rules-changed-new-validity-for-children-higher-fees-for-adults-and-minors' },
+  },
+  {
+    date: '2026-07-01',
+    headline: 'Armenia visa-free for Indians with US, EU or Gulf residence permits',
+    summary:
+      'Until 1 July 2027, Indians holding a US, EU or Schengen residence permit, or a Gulf residence permit valid six months or more, can enter Armenia without a visa for up to 180 days a year.',
+    href: '/blog/azerbaijan-armenia-visa-for-indians-2026/',
+    source: { label: 'MFA Armenia', url: 'https://www.mfa.am/filemanager/consular/visa/2025/2026-06-30-LIST-OF-COUNTRIES-TEMPORARY-VISA-EXEMPTION.pdf' },
+  },
+  {
+    date: '2026-06-16',
+    headline: 'OCI holders: update a new passport within 3 months or pay a late fee',
+    summary:
+      'OCI passport updates are free within three months of getting a new passport. After that, the Consulate General of India in San Francisco lists a USD 25 consular fee plus USD 3 ICWF and the VFS charge.',
+    href: '/blog/oci-card-rules-2026-fees-passport-update/',
+    source: { label: 'Consulate General of India, San Francisco', url: 'https://www.cgisf.gov.in/section/news/advisory-for-oci-cardholders-updating-passport-particulars-after-obtaining-a-new-passport/' },
+  },
   {
     date: '2026-02-16',
     headline: 'Nicaragua ends visa on arrival for Indians',

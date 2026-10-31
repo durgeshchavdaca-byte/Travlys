@@ -100,9 +100,17 @@ export default function VisaCheckerPage() {
                 {pick.before_you_fly && <p className="text-sm text-slate-text mt-4 mb-0"><b className="text-ink-900">Before you fly:</b> {pick.before_you_fly}</p>}
                 {pick.note && <p className="text-sm text-slate-text mt-2 mb-0"><b className="text-ink-900">Note:</b> {pick.note}</p>}
                 <div className="flex flex-wrap gap-2 mt-6">
-                  <Link to={pick.href} className="btn btn-primary no-underline inline-flex items-center gap-1.5">
-                    Full {pick.country} guide <ArrowUpRight className="w-4 h-4" />
-                  </Link>
+                  {pick.href ? (
+                    <Link to={pick.href} className="btn btn-primary no-underline inline-flex items-center gap-1.5">
+                      Full {pick.country} guide <ArrowUpRight className="w-4 h-4" />
+                    </Link>
+                  ) : (
+                    pick.source && (
+                      <a href={pick.source} target="_blank" rel="noopener noreferrer" className="btn btn-primary no-underline inline-flex items-center gap-1.5">
+                        Official source <ArrowUpRight className="w-4 h-4" />
+                      </a>
+                    )
+                  )}
                   <a
                     href={`https://wa.me/918200918967?text=${encodeURIComponent(`Hi Travlys, I'm planning a trip to ${pick.country}. Can you check what I need?`)}`}
                     className="btn btn-ghost no-underline inline-flex items-center gap-1.5"
@@ -143,12 +151,28 @@ export default function VisaCheckerPage() {
                   <Badge status={st} /> <span>{list.length} {list.length === 1 ? 'destination' : 'destinations'}</span>
                 </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-                  {list.map((c) => (
-                    <Link key={c.id} to={c.href} className="card p-4 no-underline group">
-                      <span className="block font-display text-base font-extrabold text-ink-900">{c.country}</span>
-                      <span className="block text-sm text-slate-muted mt-1">{c.headline}</span>
-                    </Link>
-                  ))}
+                  {list.map((c) =>
+                    c.href ? (
+                      <Link key={c.id} id={c.id} to={c.href} className="card p-4 no-underline group">
+                        <span className="block font-display text-base font-extrabold text-ink-900">{c.country}</span>
+                        <span className="block text-sm text-slate-muted mt-1">{c.headline}</span>
+                      </Link>
+                    ) : (
+                      <button
+                        key={c.id}
+                        id={c.id}
+                        type="button"
+                        onClick={() => {
+                          setId(c.id)
+                          window.scrollTo({ top: 0, behavior: 'smooth' })
+                        }}
+                        className="card p-4 text-left cursor-pointer"
+                      >
+                        <span className="block font-display text-base font-extrabold text-ink-900">{c.country}</span>
+                        <span className="block text-sm text-slate-muted mt-1">{c.headline}</span>
+                      </button>
+                    ),
+                  )}
                 </div>
               </div>
             )
