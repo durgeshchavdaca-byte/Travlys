@@ -8,7 +8,9 @@ export default function ScrollToTop() {
   const { pathname, hash } = useLocation()
   useEffect(() => {
     if (!hash) {
-      window.scrollTo(0, 0)
+      // Instant, not the page's smooth scroll: the new page should open at
+      // its top, not glide there from the old page's position.
+      window.scrollTo({ top: 0, behavior: 'instant' })
       return
     }
     let tries = 0

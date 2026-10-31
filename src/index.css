@@ -512,3 +512,70 @@ details.faq[open] .faq-chev { transform: rotate(45deg); }
   from { opacity: 0; }
   to { opacity: 1; }
 }
+
+/* Custom cursor: hide the system arrow on desktop pages that use it, but keep
+   the text caret in fields. */
+html.has-fx-cursor,
+html.has-fx-cursor * {
+  cursor: none !important;
+}
+html.has-fx-cursor input,
+html.has-fx-cursor textarea,
+html.has-fx-cursor [contenteditable] {
+  cursor: text !important;
+}
+.fx-cursor-ring {
+  border: 1.5px solid rgba(255, 120, 73, 0.7);
+  mix-blend-mode: normal;
+}
+
+/* 3D flip cards */
+.fx-flip {
+  perspective: 1200px;
+}
+.fx-flip-inner {
+  position: relative;
+  height: 100%;
+  min-height: 310px;
+  transform-style: preserve-3d;
+  transition: transform 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+.fx-flip-inner.is-flipped {
+  transform: rotateY(180deg);
+}
+.fx-flip-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.fx-flip-back {
+  transform: rotateY(180deg);
+}
+@media (prefers-reduced-motion: reduce) {
+  .fx-flip-inner { transition: none; }
+}
+
+/* Hero mouse parallax: each layer moves by its --d depth. */
+.px-layer {
+  transform: translate3d(calc(var(--px, 0) * var(--d, 0) * 1px), calc(var(--py, 0) * var(--d, 0) * 1px), 0);
+  transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+  will-change: transform;
+}
+.px-tilt {
+  transform: perspective(1400px) rotateY(calc(var(--px, 0) * 6deg)) rotateX(calc(var(--py, 0) * -5deg));
+  transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+.stamp-float {
+  transform: rotate(var(--r, 0deg));
+  animation: stamp-bob 7s ease-in-out infinite;
+}
+@keyframes stamp-bob {
+  0%, 100% { transform: rotate(var(--r, 0deg)) translateY(0); }
+  50% { transform: rotate(calc(var(--r, 0deg) + 4deg)) translateY(-14px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .px-layer, .px-tilt { transform: none; transition: none; }
+  .stamp-float { animation: none; }
+}

@@ -43,6 +43,7 @@ import { getLatestPosts } from '../data/blog'
 import { getLatestNews, formatNewsDate } from '../data/travelNews'
 import { newsAnchor } from '../seo/pages'
 import Hero3D, { DestVideo } from '../components/Hero3D'
+import { Carousel3D, FlipCard } from '../components/FX'
 
 /* ─── HERO ────────────────────────────────────────────────────────────────── */
 
@@ -305,6 +306,29 @@ function CountryCard({ dest }) {
   )
 }
 
+/* ─── 3D DESTINATION RING ──────────────────────────────────────────────── */
+
+function DestinationRing() {
+  return (
+    <section className="relative py-24 bg-ink-950 text-white overflow-hidden">
+      <div className="hero-stars absolute inset-0 pointer-events-none opacity-60" aria-hidden="true" />
+      <div className="absolute inset-0 pointer-events-none bg-[radial-gradient(ellipse_at_50%_100%,rgba(255,120,73,0.22),transparent_60%)]" />
+      <div className="container-app relative">
+        <AnimatedSection className="max-w-2xl mx-auto text-center mb-6">
+          <span className="pill bg-white/10 border border-white/15 text-white">
+            <Globe2 className="w-3.5 h-3.5 text-coral-400" /> Spin the world
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold mt-4 leading-[1.05]">
+            Ten countries. <span className="text-coral-400 italic">One spin away.</span>
+          </h2>
+          <p className="text-white/60 mt-4">Drag the ring. The card in front plays its city, tap it to open the full visa guide.</p>
+        </AnimatedSection>
+        <Carousel3D destinations={destinations} />
+      </div>
+    </section>
+  )
+}
+
 /* ─── HOW IT WORKS ──────────────────────────────────────────────────────── */
 
 function HowItWorks() {
@@ -331,18 +355,52 @@ function HowItWorks() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
           {steps.map((s, i) => (
-            <AnimatedSection key={s.num} delay={i * 0.08}>
-              <div className="card p-7 h-full relative overflow-hidden">
-                <div className="absolute -top-6 -right-6 w-32 h-32 rounded-full bg-coral-50 opacity-50" />
-                <div className="relative">
-                  <p className="font-display text-5xl font-extrabold text-coral-500/30 leading-none">{s.num}</p>
-                  <div className="w-11 h-11 rounded-xl bg-ink-900 text-white flex items-center justify-center mt-4">
-                    <s.icon className="w-5 h-5" />
+            <AnimatedSection key={s.num} delay={i * 0.08} className="h-full">
+              <FlipCard
+                className="h-full"
+                front={
+                  <div className="card p-7 h-full relative overflow-hidden">
+                    <div className="absolute -top-6 -right-6 w-32 h-32 rounded-full bg-coral-50 opacity-50" />
+                    <div className="relative">
+                      <p className="font-display text-5xl font-extrabold text-coral-500/30 leading-none">{s.num}</p>
+                      <div className="w-11 h-11 rounded-xl bg-ink-900 text-white flex items-center justify-center mt-4">
+                        <s.icon className="w-5 h-5" />
+                      </div>
+                      <h3 className="font-display text-xl font-bold text-ink-900 mt-5">{s.title}</h3>
+                      <p className="text-sm text-slate-muted mt-2 leading-relaxed">{s.desc}</p>
+                    </div>
                   </div>
-                  <h3 className="font-display text-xl font-bold text-ink-900 mt-5">{s.title}</h3>
-                  <p className="text-sm text-slate-muted mt-2 leading-relaxed">{s.desc}</p>
-                </div>
-              </div>
+                }
+                back={
+                  <div className="h-full rounded-2xl bg-ink-950 text-white overflow-hidden flex flex-col shadow-pop">
+                    <div className="px-6 pt-6 pb-4 flex items-center justify-between">
+                      <span className="text-[0.65rem] uppercase tracking-[0.2em] text-white/50">Boarding pass</span>
+                      <Plane className="w-4 h-4 text-coral-400 rotate-45" />
+                    </div>
+                    <div className="px-6 flex items-end justify-between">
+                      <div>
+                        <p className="text-[0.6rem] uppercase tracking-[0.2em] text-white/40">From</p>
+                        <p className="font-display text-3xl font-extrabold leading-none">AMD</p>
+                      </div>
+                      <div className="flex-1 mx-3 mb-2 border-t border-dashed border-white/25" />
+                      <div className="text-right">
+                        <p className="text-[0.6rem] uppercase tracking-[0.2em] text-white/40">Step</p>
+                        <p className="font-display text-3xl font-extrabold leading-none text-coral-400">{s.num}</p>
+                      </div>
+                    </div>
+                    <div className="my-5 h-5 relative">
+                      <span className="absolute -left-2.5 top-0 w-5 h-5 rounded-full bg-white" />
+                      <span className="absolute -right-2.5 top-0 w-5 h-5 rounded-full bg-white" />
+                      <span className="absolute inset-x-6 top-1/2 border-t border-dashed border-white/20" />
+                    </div>
+                    <div className="px-6 pb-6 mt-auto">
+                      <p className="font-display text-lg font-bold">{s.title}</p>
+                      <p className="text-xs text-white/60 mt-1">Gate: WhatsApp · Seat: 1A, your own specialist</p>
+                      <div className="mt-4 h-8 bg-[repeating-linear-gradient(90deg,#fff_0_2px,transparent_2px_4px,#fff_4px_5px,transparent_5px_9px)] opacity-80 rounded-sm" />
+                    </div>
+                  </div>
+                }
+              />
             </AnimatedSection>
           ))}
         </div>
@@ -833,6 +891,7 @@ export default function HomePage() {
       <SEO {...homeMeta} jsonLd={homeSchemas} />
 
       <Hero />
+      <DestinationRing />
       <FeaturedTestimonials />
       <CountriesGrid />
       <HowItWorks />

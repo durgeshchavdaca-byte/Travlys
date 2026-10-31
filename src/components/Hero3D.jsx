@@ -151,6 +151,34 @@ function MobileStories({ destinations, onPick }) {
   )
 }
 
+// Passport stamps floating at different depths behind the hero copy. They are
+// decoration only and drift with the mouse parallax.
+const STAMPS = [
+  { code: 'DXB', date: '12 NOV', x: '6%', y: '72%', r: -14, d: 34, c: 'border-coral-400/50 text-coral-300/70' },
+  { code: 'LHR', date: '03 DEC', x: '45%', y: '17%', r: 9, d: 22, c: 'border-sky-300/40 text-sky-200/60' },
+  { code: 'SIN', date: '21 JAN', x: '52%', y: '82%', r: -6, d: 46, c: 'border-amber-300/45 text-amber-200/65' },
+  { code: 'JFK', date: '14 FEB', x: '90%', y: '74%', r: 12, d: 28, c: 'border-emerald-300/40 text-emerald-200/60' },
+]
+
+function VisaStamps() {
+  return (
+    <div aria-hidden="true" className="hidden lg:block absolute inset-0 pointer-events-none">
+      {STAMPS.map((s, i) => (
+        <div key={s.code} className="px-layer absolute" style={{ left: s.x, top: s.y, '--d': s.d }}>
+          <div
+            className={`stamp-float w-[104px] h-[104px] rounded-full border-2 border-dashed ${s.c} flex flex-col items-center justify-center font-display`}
+            style={{ '--r': `${s.r}deg`, animationDelay: `${i * -1.7}s` }}
+          >
+            <span className="text-[0.55rem] tracking-[0.25em] uppercase">Admitted</span>
+            <span className="text-2xl font-extrabold leading-none mt-0.5">{s.code}</span>
+            <span className="text-[0.55rem] tracking-[0.2em] uppercase mt-1">{s.date}</span>
+          </div>
+        </div>
+      ))}
+    </div>
+  )
+}
+
 export default function Hero3D({ destinations, search, trust }) {
   const can3D = useCan3D()
   const isMd = useMediaQuery('(min-width: 768px)')
@@ -166,10 +194,25 @@ export default function Hero3D({ destinations, search, trust }) {
     return () => window.removeEventListener('keydown', onKey)
   }, [selected])
 
+  // Mouse parallax: layers read --px/--py (-1..1) and move by their own depth.
+  const onParallax = (e) => {
+    if (e.pointerType !== 'mouse') return
+    const r = e.currentTarget.getBoundingClientRect()
+    e.currentTarget.style.setProperty('--px', (((e.clientX - r.left) / r.width) * 2 - 1).toFixed(3))
+    e.currentTarget.style.setProperty('--py', (((e.clientY - r.top) / r.height) * 2 - 1).toFixed(3))
+  }
+
   return (
-    <section className="hero-3d relative pt-28 pb-16 md:pt-36 md:pb-24 overflow-hidden bg-ink-950 text-white">
-      <div className="hero-stars absolute inset-0 pointer-events-none" aria-hidden="true" />
-      <div className="absolute inset-0 pointer-events-none bg-[radial-gradient(ellipse_at_75%_45%,rgba(91,124,255,0.22),transparent_55%),radial-gradient(ellipse_at_10%_90%,rgba(255,120,73,0.18),transparent_50%)]" />
+    <section
+      onPointerMove={onParallax}
+      className="hero-3d relative pt-28 pb-16 md:pt-36 md:pb-24 overflow-hidden bg-ink-950 text-white"
+    >
+      <div className="hero-stars px-layer absolute -inset-10 pointer-events-none" style={{ '--d': -18 }} aria-hidden="true" />
+      <div
+        className="px-layer absolute -inset-10 pointer-events-none bg-[radial-gradient(ellipse_at_75%_45%,rgba(91,124,255,0.22),transparent_55%),radial-gradient(ellipse_at_10%_90%,rgba(255,120,73,0.18),transparent_50%)]"
+        style={{ '--d': 10 }}
+      />
+      <VisaStamps />
 
       <div className="relative z-10 container-app grid grid-cols-1 md:grid-cols-12 gap-8 items-center">
         <div className="md:col-span-6 lg:col-span-6">
@@ -215,7 +258,7 @@ export default function Hero3D({ destinations, search, trust }) {
 
         {/* Globe column (tablet and desktop). */}
         <div className="hidden md:block md:col-span-6 lg:col-span-6 relative">
-          <div className="relative aspect-square w-full max-w-[640px] mx-auto">
+          <div className="px-tilt relative aspect-square w-full max-w-[640px] mx-auto" data-cursor="drag">
             {can3D ? (
               <Suspense fallback={<GlobeFallback />}>
                 <Globe3D
