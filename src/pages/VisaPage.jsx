@@ -28,6 +28,8 @@ import { getQuickAnswers } from '../data/visaFees'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
+import { DestVideo } from '../components/Hero3D'
+import { useMediaQuery } from '../hooks/useMedia'
 
 const BUILD_DATE = new Date().toISOString().slice(0, 10)
 function prettyDate(iso) {
@@ -282,6 +284,7 @@ export default function VisaPage() {
   const { slug } = useParams()
   const dest = destinations.find((d) => d.slug === slug)
   const [scrollY, setScrollY] = useState(0)
+  const isMd = useMediaQuery('(min-width: 768px)')
 
   useEffect(() => {
     const onScroll = () => setScrollY(window.scrollY)
@@ -332,6 +335,8 @@ export default function VisaPage() {
             fetchPriority="high"
             className="w-full h-[120%] object-cover"
           />
+          {/* Cinematic loop over the photo on larger screens; the photo stays as the fallback. */}
+          {isMd && <DestVideo slug={dest.slug} fallback={dest.heroImage || dest.image} className="absolute inset-0 h-[120%] animate-[fadein_1.2s_ease]" />}
         </div>
         <div className="absolute inset-0 bg-gradient-to-r from-ink-950/85 via-ink-950/70 to-ink-950/40" />
         <HeroBlobs />

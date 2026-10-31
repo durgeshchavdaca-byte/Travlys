@@ -59,7 +59,7 @@ export default function Header() {
   // Country / visa pages have a dark image-hero at the top. While the
   // header is over that hero (not scrolled), switch all chrome to a
   // light-on-dark tone so it's readable.
-  const isDarkHeroPage = location.pathname.startsWith('/visa/')
+  const isDarkHeroPage = location.pathname === '/' || location.pathname.startsWith('/visa/')
   const useLightChrome = isDarkHeroPage && !scrolled && !mobileOpen
 
   const goSection = (id) => {

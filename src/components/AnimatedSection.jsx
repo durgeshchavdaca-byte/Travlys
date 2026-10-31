@@ -1,9 +1,10 @@
 import { motion } from 'framer-motion'
 
 const variants = {
+  // Rises and tilts back into place, so sections arrive with a sense of depth.
   fadeUp: {
-    hidden: { opacity: 0, y: 28 },
-    visible: { opacity: 1, y: 0 },
+    hidden: { opacity: 0, y: 36, rotateX: 14, scale: 0.98 },
+    visible: { opacity: 1, y: 0, rotateX: 0, scale: 1 },
   },
   fadeDown: {
     hidden: { opacity: 0, y: -28 },
@@ -31,6 +32,7 @@ export default function AnimatedSection({
   variant = 'fadeUp',
   delay = 0,
   duration = 0.55,
+  style,
   ...props
 }) {
   return (
@@ -40,6 +42,7 @@ export default function AnimatedSection({
       viewport={{ once: true, margin: '-60px' }}
       variants={variants[variant]}
       transition={{ duration, delay, ease: EASE }}
+      style={{ transformPerspective: 1200, transformOrigin: '50% 100%', ...style }}
       className={className}
       {...props}
     >
@@ -66,11 +69,12 @@ export function StaggerContainer({ children, className = '', stagger = 0.08, ...
   )
 }
 
-export function StaggerItem({ children, className = '', variant = 'fadeUp', ...props }) {
+export function StaggerItem({ children, className = '', variant = 'fadeUp', style, ...props }) {
   return (
     <motion.div
       variants={variants[variant]}
       transition={{ duration: 0.5, ease: EASE }}
+      style={{ transformPerspective: 1200, transformOrigin: '50% 100%', ...style }}
       className={className}
       {...props}
     >

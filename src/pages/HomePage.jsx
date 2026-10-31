@@ -42,6 +42,7 @@ import { FEATURED_TESTIMONIALS } from '../data/testimonials'
 import { getLatestPosts } from '../data/blog'
 import { getLatestNews, formatNewsDate } from '../data/travelNews'
 import { newsAnchor } from '../seo/pages'
+import Hero3D, { DestVideo } from '../components/Hero3D'
 
 /* ─── HERO ────────────────────────────────────────────────────────────────── */
 
@@ -122,173 +123,38 @@ function HeroSearch() {
   )
 }
 
-function HeroBackdrop() {
+const TRUST = [
+  { icon: ShieldCheck, label: '98% approval', sub: '5,000+ visas filed' },
+  { icon: Clock3, label: '~3 days', sub: 'avg e-Visa turnaround' },
+  { icon: Headphones, label: 'WhatsApp', sub: 'support until decision' },
+  { icon: TrendingUp, label: 'Transparent', sub: 'fees from ₹999' },
+]
+
+function TrustRow() {
   return (
-    <>
-      {/* Rotating wireframe globe, sits behind the headline, very low opacity */}
-      <div
-        className="absolute right-[-160px] top-[80px] w-[460px] h-[460px] pointer-events-none hidden md:block"
-        style={{ perspective: '900px' }}
-      >
-        <div className="globe-spin w-full h-full">
-          <svg viewBox="0 0 200 200" className="w-full h-full" fill="none" stroke="#0f1b4c" strokeWidth="0.45" opacity="0.18">
-            <circle cx="100" cy="100" r="95" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(30 100 100)" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(60 100 100)" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(90 100 100)" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(120 100 100)" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(150 100 100)" />
-            <ellipse cx="100" cy="100" rx="60" ry="95" />
-            <ellipse cx="100" cy="100" rx="28" ry="95" />
-            <ellipse cx="100" cy="100" rx="85" ry="95" />
-            <line x1="100" y1="5" x2="100" y2="195" />
-            <line x1="5" y1="100" x2="195" y2="100" />
-          </svg>
+    <motion.div
+      initial={{ opacity: 0, y: 10 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ delay: 0.9 }}
+      className="mt-12 grid grid-cols-2 md:grid-cols-4 gap-3"
+    >
+      {TRUST.map((t) => (
+        <div key={t.label} className="rounded-2xl p-4 flex items-center gap-3 bg-white/[0.06] border border-white/10 backdrop-blur">
+          <div className="w-10 h-10 rounded-xl bg-coral-500/15 flex items-center justify-center shrink-0">
+            <t.icon className="w-5 h-5 text-coral-400" />
+          </div>
+          <div>
+            <p className="font-semibold text-white text-sm leading-tight m-0">{t.label}</p>
+            <p className="text-xs text-white/60 m-0">{t.sub}</p>
+          </div>
         </div>
-      </div>
-
-      {/* Mirror globe on the left, smaller, even fainter, for balance */}
-      <div
-        className="absolute left-[-120px] bottom-[40px] w-[300px] h-[300px] pointer-events-none hidden lg:block"
-        style={{ perspective: '900px' }}
-      >
-        <div className="globe-spin w-full h-full" style={{ animationDirection: 'reverse', animationDuration: '90s' }}>
-          <svg viewBox="0 0 200 200" className="w-full h-full" fill="none" stroke="#d4a64a" strokeWidth="0.45" opacity="0.22">
-            <circle cx="100" cy="100" r="95" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(45 100 100)" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(90 100 100)" />
-            <ellipse cx="100" cy="100" rx="95" ry="35" transform="rotate(135 100 100)" />
-            <ellipse cx="100" cy="100" rx="55" ry="95" />
-            <ellipse cx="100" cy="100" rx="85" ry="95" />
-          </svg>
-        </div>
-      </div>
-
-      {/* Animated dashed flight-path arc near the bottom of the hero */}
-      <svg
-        className="absolute left-0 right-0 bottom-[-20px] w-full h-32 pointer-events-none hidden md:block"
-        viewBox="0 0 1200 120"
-        preserveAspectRatio="none"
-        fill="none"
-      >
-        <defs>
-          <linearGradient id="hero-path-grad" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0%"  stopColor="#d4a64a" stopOpacity="0" />
-            <stop offset="20%" stopColor="#d4a64a" stopOpacity="0.6" />
-            <stop offset="50%" stopColor="#ff7849" stopOpacity="0.85" />
-            <stop offset="80%" stopColor="#d4a64a" stopOpacity="0.6" />
-            <stop offset="100%" stopColor="#d4a64a" stopOpacity="0" />
-          </linearGradient>
-        </defs>
-        <path
-          className="flight-path"
-          d="M0,90 C200,30 400,110 600,55 C800,15 1000,95 1200,40"
-          stroke="url(#hero-path-grad)"
-          strokeWidth="2.5"
-          strokeLinecap="round"
-        />
-        {/* tiny aeroplane silhouette at the end of the path */}
-        <g transform="translate(1170 40) rotate(-12)">
-          <path d="M-12,-1 L8,-3 L10,0 L8,3 L-12,1 L-9,4 L-14,4 L-16,0 L-14,-4 L-9,-4 Z" fill="#ff7849" opacity="0.85" />
-        </g>
-      </svg>
-    </>
+      ))}
+    </motion.div>
   )
 }
 
 function Hero() {
-  return (
-    <section className="relative pt-32 pb-20 md:pt-40 md:pb-28 overflow-hidden mesh-warm">
-      <HeroBlobs />
-      <HeroBackdrop />
-      <div className="absolute inset-0 dot-grid opacity-50 pointer-events-none" />
-
-      <div className="relative z-10 container-app">
-        <div className="text-center max-w-3xl mx-auto">
-          <motion.span
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
-            className="pill bg-white border border-line text-ink-900"
-          >
-            <Sparkles className="w-3.5 h-3.5 text-coral-500" />
-            Trusted by 5,000+ Indian travelers · 98% approval rate
-          </motion.span>
-
-          <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.75rem] lg:text-[4.25rem] font-extrabold text-ink-900 mt-6 leading-[1.02]">
-            <TextReveal text="You pack the bags." as="span" />
-            <br />
-            <span className="hero-italic-mark">
-              <span className="relative italic">We handle the visa.</span>
-            </span>
-          </h1>
-
-          <motion.p
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.5, duration: 0.5 }}
-            className="text-[1.05rem] md:text-lg text-slate-muted mt-6 max-w-xl mx-auto leading-relaxed"
-          >
-            5,000+ Indian travelers have boarded with Travlys. Tell us
-            where you’re going, we prep the application, book the
-            appointment, and coach the interview.
-          </motion.p>
-
-          <motion.div
-            initial={{ opacity: 0, y: 15 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.5, duration: 0.5 }}
-            className="flex justify-center mt-9"
-          >
-            <HeroSearch />
-          </motion.div>
-
-          {/* Quick-pick chips */}
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ delay: 0.7 }}
-            className="mt-6 flex flex-wrap items-center justify-center gap-2"
-          >
-            <span className="text-xs text-slate-muted font-medium mr-1">Quick pick:</span>
-            {destinations.slice(0, 6).map((d) => (
-              <Link key={d.slug} to={`/visa/${d.slug}/`} className="chip no-underline hover:border-coral-500 hover:text-coral-600 transition-colors">
-                <Flag code={d.code} name={d.name} size={16} />
-                <span>{d.name}</span>
-              </Link>
-            ))}
-          </motion.div>
-        </div>
-
-        {/* Mini trust row */}
-        <motion.div
-          initial={{ opacity: 0, y: 10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.9 }}
-          className="mt-14 grid grid-cols-2 md:grid-cols-4 gap-3 max-w-4xl mx-auto"
-        >
-          {[
-            { icon: ShieldCheck, label: '98% approval', sub: '5,000+ visas filed' },
-            { icon: Clock3, label: '~3 days', sub: 'avg e-Visa turnaround' },
-            { icon: Headphones, label: 'WhatsApp', sub: 'support until decision' },
-            { icon: TrendingUp, label: 'Transparent', sub: 'fees from ₹999' },
-          ].map((t, i) => (
-            <div key={i} className="card p-4 flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-coral-50 flex items-center justify-center shrink-0">
-                <t.icon className="w-5 h-5 text-coral-500" />
-              </div>
-              <div>
-                <p className="font-semibold text-ink-900 text-sm leading-tight">{t.label}</p>
-                <p className="text-xs text-slate-muted">{t.sub}</p>
-              </div>
-            </div>
-          ))}
-        </motion.div>
-      </div>
-    </section>
-  )
+  return <Hero3D destinations={destinations} search={<HeroSearch />} trust={<TrustRow />} />
 }
 
 /* ─── COUNTRIES GRID ─────────────────────────────────────────────────────── */
@@ -359,57 +225,83 @@ function CountriesGrid() {
 
 function CountryCard({ dest }) {
   const isPremium = dest.visaType === 'Embassy Visa'
-  return (
-    <div className="tilt-3d">
-      <Link
-        to={`/visa/${dest.slug}/`}
-        className="country-card card tilt-3d-inner overflow-hidden no-underline block group"
-      >
-        <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
-          <img
-            src={dest.image}
-            alt={`${dest.name} visa for Indian travelers`}
-            loading="lazy"
-            className="country-card-img w-full h-full object-cover"
-          />
-          {/* subtle bottom-gradient veil for legibility */}
-          <span className="absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-ink-950/55 to-transparent pointer-events-none" />
-          <span className="absolute top-3 left-3 pill bg-white/95 text-ink-900 shadow-sm">
-            <Flag code={dest.code} name={dest.name} size={14} />
-            {dest.visaType}
-          </span>
-          <span className="absolute top-3 right-3 pill bg-ink-900/85 text-white backdrop-blur">
-            <Clock3 className="w-3 h-3" /> {dest.processingTimeShort}
-          </span>
-          {isPremium && (
-            <span className="premium-badge absolute bottom-3 left-3 z-10">
-              <span className="text-[0.85em]">★</span> Premium
-            </span>
-          )}
-        </div>
-        <div className="p-5">
-          <div className="flex items-center justify-between gap-2">
-            <h3 className="font-display text-xl font-bold text-ink-900 leading-tight">
-              {dest.name}
-            </h3>
-            <ArrowUpRight className="w-5 h-5 text-slate-faint group-hover:text-coral-500 transition-colors" />
-          </div>
-          <p className="text-sm text-slate-muted mt-1 line-clamp-1">{dest.tagline}</p>
+  const [hover, setHover] = useState(false)
+  const ref = useRef(null)
+  const fine = typeof window !== 'undefined' && window.matchMedia('(hover: hover) and (pointer: fine)').matches
 
-          <div className="mt-4 flex items-end justify-between gap-3">
-            <div>
-              <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold">Travlys fee</p>
-              <p className="font-display text-2xl font-extrabold text-ink-900">
-                {dest.price}
-              </p>
-            </div>
-            <span className="pill bg-coral-50 text-coral-600 font-semibold">
-              View details
-            </span>
-          </div>
+  const onMove = (e) => {
+    const el = ref.current
+    if (!el || !fine) return
+    const r = el.getBoundingClientRect()
+    const x = (e.clientX - r.left) / r.width
+    const y = (e.clientY - r.top) / r.height
+    el.style.setProperty('--ry', `${(x - 0.5) * 10}deg`)
+    el.style.setProperty('--rx', `${(0.5 - y) * 8}deg`)
+    el.style.setProperty('--gx', `${x * 100}%`)
+    el.style.setProperty('--gy', `${y * 100}%`)
+  }
+  const onLeave = () => {
+    setHover(false)
+    const el = ref.current
+    if (!el) return
+    el.style.setProperty('--rx', '0deg')
+    el.style.setProperty('--ry', '0deg')
+  }
+
+  return (
+    <Link
+      ref={ref}
+      to={`/visa/${dest.slug}/`}
+      onMouseEnter={() => fine && setHover(true)}
+      onMouseMove={onMove}
+      onMouseLeave={onLeave}
+      className="country-card card card-3d overflow-hidden no-underline block group relative"
+    >
+      <div className="relative aspect-[16/10] overflow-hidden bg-sand-100">
+        <img
+          src={dest.image}
+          alt={`${dest.name} visa for Indian travelers`}
+          loading="lazy"
+          className="country-card-img w-full h-full object-cover"
+        />
+        {hover && <DestVideo slug={dest.slug} small className="absolute inset-0 animate-[fadein_0.4s_ease]" />}
+        <span className="absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-ink-950/55 to-transparent pointer-events-none" />
+        <span className="lift absolute top-3 left-3 pill bg-white/95 text-ink-900 shadow-sm">
+          <Flag code={dest.code} name={dest.name} size={14} />
+          {dest.visaType}
+        </span>
+        <span className="lift absolute top-3 right-3 pill bg-ink-900/85 text-white backdrop-blur">
+          <Clock3 className="w-3 h-3" /> {dest.processingTimeShort}
+        </span>
+        {isPremium && (
+          <span className="premium-badge absolute bottom-3 left-3 z-10">
+            <span className="text-[0.85em]">★</span> Premium
+          </span>
+        )}
+      </div>
+      <div className="p-5">
+        <div className="flex items-center justify-between gap-2">
+          <h3 className="font-display text-xl font-bold text-ink-900 leading-tight">
+            {dest.name}
+          </h3>
+          <ArrowUpRight className="w-5 h-5 text-slate-faint group-hover:text-coral-500 transition-colors" />
         </div>
-      </Link>
-    </div>
+        <p className="text-sm text-slate-muted mt-1 line-clamp-1">{dest.tagline}</p>
+
+        <div className="mt-4 flex items-end justify-between gap-3">
+          <div>
+            <p className="text-[0.7rem] uppercase tracking-wider text-slate-faint font-semibold">Travlys fee</p>
+            <p className="font-display text-2xl font-extrabold text-ink-900">
+              {dest.price}
+            </p>
+          </div>
+          <span className="pill bg-coral-50 text-coral-600 font-semibold">
+            View details
+          </span>
+        </div>
+      </div>
+      <span className="card-3d-glare absolute inset-0 pointer-events-none" />
+    </Link>
   )
 }
 
