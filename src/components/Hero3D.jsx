@@ -258,7 +258,7 @@ export default function Hero3D({ destinations, search, trust }) {
 
         {/* Globe column (tablet and desktop). */}
         <div className="hidden md:block md:col-span-6 lg:col-span-6 relative">
-          <div className="px-tilt relative aspect-square w-full max-w-[640px] mx-auto" data-cursor="drag">
+          <div className="px-tilt relative aspect-square w-full max-w-[640px] mx-auto">
             {can3D ? (
               <Suspense fallback={<GlobeFallback />}>
                 <Globe3D

@@ -5,79 +5,12 @@ import { Plane } from 'lucide-react'
 import Flag from './Flag'
 import { DEST_GEO, destMedia } from '../data/destinationGeo'
 
-// Site-wide motion pieces for the 3D redesign. Each one switches itself off
-// for people who prefer reduced motion and, where it depends on a mouse, on
+// Site-wide motion pieces for the 3D redesign. Each one calms down for
+// people who prefer reduced motion and, where it depends on a mouse, on
 // touch screens.
 
 const prefersReduced = () => typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches
 const finePointer = () => typeof window !== 'undefined' && window.matchMedia('(hover: hover) and (pointer: fine)').matches
-
-/* ─── Custom cursor ─────────────────────────────────────────────────────────
-   A coral dot that tracks the pointer exactly and a ring that trails it. The
-   ring grows over links and buttons, and shows a word over elements marked
-   data-cursor="drag" or "view". */
-export function CustomCursor() {
-  const [on] = useState(() => finePointer() && !prefersReduced())
-  const [mode, setMode] = useState('')
-  const [label, setLabel] = useState('')
-  const x = useMotionValue(-100)
-  const y = useMotionValue(-100)
-  const rx = useSpring(x, { stiffness: 380, damping: 32, mass: 0.6 })
-  const ry = useSpring(y, { stiffness: 380, damping: 32, mass: 0.6 })
-
-  useEffect(() => {
-    if (!on) return undefined
-    document.documentElement.classList.add('has-fx-cursor')
-    const move = (e) => {
-      x.set(e.clientX)
-      y.set(e.clientY)
-      const t = e.target instanceof Element ? e.target : null
-      const tagged = t?.closest('[data-cursor]')
-      if (tagged) {
-        setMode('label')
-        setLabel(tagged.getAttribute('data-cursor'))
-      } else if (t?.closest('a, button, [role="button"], label, select')) {
-        setMode('link')
-        setLabel('')
-      } else {
-        setMode('')
-        setLabel('')
-      }
-    }
-    const leave = () => {
-      x.set(-100)
-      y.set(-100)
-    }
-    window.addEventListener('pointermove', move, { passive: true })
-    document.addEventListener('pointerleave', leave)
-    return () => {
-      document.documentElement.classList.remove('has-fx-cursor')
-      window.removeEventListener('pointermove', move)
-      document.removeEventListener('pointerleave', leave)
-    }
-  }, [on, x, y])
-
-  if (!on) return null
-  const size = mode === 'label' ? 74 : mode === 'link' ? 46 : 30
-  return (
-    <>
-      <motion.div
-        aria-hidden="true"
-        className="fx-cursor-ring pointer-events-none fixed top-0 left-0 z-[200] rounded-full flex items-center justify-center"
-        style={{ x: rx, y: ry, translateX: '-50%', translateY: '-50%' }}
-        animate={{ width: size, height: size, backgroundColor: mode ? 'rgba(255,120,73,0.16)' : 'rgba(255,120,73,0)' }}
-        transition={{ type: 'spring', stiffness: 300, damping: 24 }}
-      >
-        {label && <span className="text-[0.62rem] font-bold uppercase tracking-[0.14em] text-coral-500">{label}</span>}
-      </motion.div>
-      <motion.div
-        aria-hidden="true"
-        className="pointer-events-none fixed top-0 left-0 z-[201] w-2 h-2 -ml-1 -mt-1 rounded-full bg-coral-500"
-        style={{ x, y }}
-      />
-    </>
-  )
-}
 
 /* ─── Scroll plane ──────────────────────────────────────────────────────────
    Replaces the plain progress bar: a dotted flight line across the top of the
@@ -178,7 +111,6 @@ export function Carousel3D({ destinations }) {
   return (
     <div
       ref={box}
-      data-cursor="drag"
       className="relative select-none touch-pan-y"
       style={{ perspective: '1400px', height: w * 1.45 + 60, '--radius': `${radius}px` }}
       onPointerDown={onDown}

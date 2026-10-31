@@ -20,7 +20,7 @@ import VisaCostCalculatorPage from './pages/VisaCostCalculatorPage'
 import VisaCheckerPage from './pages/VisaCheckerPage'
 import ScrollToTop from './components/ScrollToTop'
 import StickyContact from './components/StickyContact'
-import { CustomCursor, PlaneProgress } from './components/FX'
+import { PlaneProgress } from './components/FX'
 
 function App() {
   const location = useLocation()
@@ -39,7 +39,6 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col bg-sand-50">
       <PlaneProgress />
-      <CustomCursor />
       <ScrollToTop />
       <Header />
       <main className="flex-1 overflow-x-clip">
