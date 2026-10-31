@@ -1,13 +1,11 @@
-import { lazy, Suspense, useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
-import { X, ArrowUpRight, Clock3, BadgeIndianRupee, FileCheck2, MessageCircle, Sparkles, MousePointerClick } from 'lucide-react'
+import { X, ArrowUpRight, Clock3, BadgeIndianRupee, FileCheck2, MessageCircle, Sparkles } from 'lucide-react'
 import Flag from './Flag'
 import { DEST_GEO, destMedia } from '../data/destinationGeo'
-import { useCan3D, useMediaQuery } from '../hooks/useMedia'
+import { useMediaQuery } from '../hooks/useMedia'
 import HeroReel from './HeroReel'
-
-const Globe3D = lazy(() => import('./Globe3D'))
 
 // Plays a destination loop only when it is allowed and visible; otherwise the
 // poster stays. Falls back to the card image if the media is missing.
@@ -119,15 +117,7 @@ function Spotlight({ dest, onClose, layout = 'panel' }) {
   )
 }
 
-function GlobeFallback() {
-  return (
-    <div className="absolute inset-0 flex items-center justify-center">
-      <div className="w-[70%] aspect-square rounded-full bg-[radial-gradient(circle_at_35%_30%,#1c2a63,#0b1640_60%,#070d2a)] shadow-[0_0_120px_20px_rgba(91,124,255,0.25)] animate-pulse" />
-    </div>
-  )
-}
-
-// Phones: swipeable destination "stories" instead of the WebGL globe.
+// Phones: swipeable destination "stories" instead of the desktop chips.
 function MobileStories({ destinations, onPick }) {
   return (
     <div className="md:hidden -mx-4 px-4 mt-10 flex gap-3 overflow-x-auto snap-x snap-mandatory pb-2" style={{ scrollbarWidth: 'none' }}>
@@ -155,7 +145,7 @@ function MobileStories({ destinations, onPick }) {
 // Passport stamps floating at different depths behind the hero copy. They are
 // decoration only and drift with the mouse parallax.
 const STAMPS = [
-  { code: 'DXB', date: '12 NOV', x: '6%', y: '72%', r: -14, d: 34, c: 'border-coral-400/50 text-coral-300/70' },
+  { code: 'DXB', date: '12 NOV', x: '58%', y: '62%', r: -14, d: 34, c: 'border-coral-400/50 text-coral-300/70' },
   { code: 'LHR', date: '03 DEC', x: '45%', y: '17%', r: 9, d: 22, c: 'border-sky-300/40 text-sky-200/60' },
   { code: 'SIN', date: '21 JAN', x: '52%', y: '82%', r: -6, d: 46, c: 'border-amber-300/45 text-amber-200/65' },
   { code: 'JFK', date: '14 FEB', x: '90%', y: '74%', r: 12, d: 28, c: 'border-emerald-300/40 text-emerald-200/60' },
@@ -181,12 +171,9 @@ function VisaStamps() {
 }
 
 export default function Hero3D({ destinations, search, trust }) {
-  const can3D = useCan3D()
   const isMd = useMediaQuery('(min-width: 768px)')
   const [selected, setSelected] = useState(null)
-  const [hovered, setHovered] = useState(null)
   const dest = destinations.find((d) => d.slug === selected)
-  const hoverDest = destinations.find((d) => d.slug === hovered)
 
   useEffect(() => {
     if (!selected) return undefined
@@ -210,13 +197,13 @@ export default function Hero3D({ destinations, search, trust }) {
     >
       <HeroReel small={!isMd} />
       <div
-        className="px-layer absolute -inset-10 pointer-events-none bg-[radial-gradient(ellipse_at_75%_45%,rgba(91,124,255,0.18),transparent_55%),radial-gradient(ellipse_at_10%_90%,rgba(255,120,73,0.16),transparent_50%)]"
+        className="px-layer absolute -inset-10 pointer-events-none bg-[radial-gradient(ellipse_at_10%_90%,rgba(255,120,73,0.16),transparent_50%)]"
         style={{ '--d': 10 }}
       />
       <VisaStamps />
 
       <div className="relative z-10 container-app grid grid-cols-1 md:grid-cols-12 gap-8 items-center">
-        <div className="md:col-span-6 lg:col-span-6">
+        <div className="md:col-span-7 lg:col-span-6">
           <motion.span
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
@@ -249,62 +236,35 @@ export default function Hero3D({ destinations, search, trust }) {
           <motion.div initial={{ opacity: 0, y: 14 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.5, duration: 0.5 }} className="mt-8">
             {search}
           </motion.div>
-          {can3D && (
-            <p className="hidden md:flex items-center gap-2 text-sm text-white/60 mt-5">
-              <MousePointerClick className="w-4 h-4 text-coral-400" />
-              Drag the globe, or tap a glowing city to preview its visa.
-            </p>
-          )}
+          {/* Tap a country to preview its visa and city footage. */}
+          <motion.div
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.65, duration: 0.5 }}
+            className="hidden md:block mt-7"
+          >
+            <p className="text-xs uppercase tracking-[0.18em] text-white/55 mb-3">Preview a destination</p>
+            <div className="flex flex-wrap gap-2">
+              {destinations.map((d) => (
+                <button
+                  key={d.slug}
+                  type="button"
+                  onClick={() => setSelected(d.slug === selected ? null : d.slug)}
+                  aria-pressed={d.slug === selected}
+                  className={`chip text-xs cursor-pointer transition-colors backdrop-blur ${
+                    d.slug === selected ? 'bg-coral-500! border-coral-500! text-white!' : 'bg-ink-950/40! border-white/20! text-white/85! hover:border-coral-400!'
+                  }`}
+                >
+                  <Flag code={d.code} name={d.name} size={14} /> {d.name}
+                </button>
+              ))}
+            </div>
+          </motion.div>
         </div>
 
-        {/* Globe column (tablet and desktop). */}
-        <div className="hidden md:block md:col-span-6 lg:col-span-6 relative">
-          <div className="px-tilt relative aspect-square w-full max-w-[640px] mx-auto">
-            {can3D ? (
-              <Suspense fallback={<GlobeFallback />}>
-                <Globe3D
-                  destinations={destinations}
-                  selected={selected}
-                  onSelect={setSelected}
-                  onHover={setHovered}
-                  className="absolute inset-0"
-                />
-              </Suspense>
-            ) : (
-              <GlobeFallback />
-            )}
-            <AnimatePresence>
-              {hoverDest && !dest && (
-                <motion.div
-                  initial={{ opacity: 0, y: 6 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0 }}
-                  className="absolute top-4 left-1/2 -translate-x-1/2 pill bg-white text-ink-900 shadow-pop pointer-events-none"
-                >
-                  <Flag code={hoverDest.code} name={hoverDest.name} size={14} /> {hoverDest.name} · {hoverDest.price}
-                </motion.div>
-              )}
-            </AnimatePresence>
-            <div className="absolute bottom-2 left-0 lg:-left-10 z-20">
-              <AnimatePresence mode="wait">{dest && isMd && <Spotlight dest={dest} onClose={() => setSelected(null)} />}</AnimatePresence>
-            </div>
-          </div>
-          {/* Keyboard and screen-reader friendly way to pick a destination. */}
-          <div className="mt-4 flex flex-wrap justify-center gap-2">
-            {destinations.map((d) => (
-              <button
-                key={d.slug}
-                type="button"
-                onClick={() => setSelected(d.slug === selected ? null : d.slug)}
-                aria-pressed={d.slug === selected}
-                className={`chip text-xs cursor-pointer transition-colors ${
-                  d.slug === selected ? 'bg-coral-500! border-coral-500! text-white!' : 'bg-white/5! border-white/15! text-white/80! hover:border-coral-400!'
-                }`}
-              >
-                <Flag code={d.code} name={d.name} size={14} /> {d.name}
-              </button>
-            ))}
-          </div>
+        {/* Desktop: the preview card floats over the footage on the right. */}
+        <div className="hidden md:flex md:col-span-5 lg:col-span-6 justify-end items-center">
+          <AnimatePresence mode="wait">{dest && isMd && <Spotlight dest={dest} onClose={() => setSelected(null)} />}</AnimatePresence>
         </div>
       </div>
 

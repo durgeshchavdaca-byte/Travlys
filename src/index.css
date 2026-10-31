@@ -546,10 +546,6 @@ details.faq[open] .faq-chev { transform: rotate(45deg); }
   transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
   will-change: transform;
 }
-.px-tilt {
-  transform: perspective(1400px) rotateY(calc(var(--px, 0) * 6deg)) rotateX(calc(var(--py, 0) * -5deg));
-  transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
-}
 .stamp-float {
   transform: rotate(var(--r, 0deg));
   animation: stamp-bob 7s ease-in-out infinite;
@@ -560,7 +556,7 @@ details.faq[open] .faq-chev { transform: rotate(45deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .px-layer, .px-tilt { transform: none; transition: none; }
+  .px-layer { transform: none; transition: none; }
   .stamp-float { animation: none; }
 }
 

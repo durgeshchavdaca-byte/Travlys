@@ -1,7 +1,5 @@
-// Map positions for the 3D globe: the city each visa route is drawn to, and
-// Ahmedabad, where Travlys is based and every arc starts.
-
-export const HOME_GEO = { name: 'Ahmedabad', lat: 23.03, lon: 72.58 }
+// The headline city for each destination, shown on the hero preview card and
+// the 3D destination ring.
 
 export const DEST_GEO = {
   'usa-visa': { city: 'New York', lat: 40.71, lon: -74.0 },
