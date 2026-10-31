@@ -5,6 +5,7 @@ import { X, ArrowUpRight, Clock3, BadgeIndianRupee, FileCheck2, MessageCircle, S
 import Flag from './Flag'
 import { DEST_GEO, destMedia } from '../data/destinationGeo'
 import { useCan3D, useMediaQuery } from '../hooks/useMedia'
+import HeroReel from './HeroReel'
 
 const Globe3D = lazy(() => import('./Globe3D'))
 
@@ -207,9 +208,9 @@ export default function Hero3D({ destinations, search, trust }) {
       onPointerMove={onParallax}
       className="hero-3d relative pt-28 pb-16 md:pt-36 md:pb-24 overflow-hidden bg-ink-950 text-white"
     >
-      <div className="hero-stars px-layer absolute -inset-10 pointer-events-none" style={{ '--d': -18 }} aria-hidden="true" />
+      <HeroReel small={!isMd} />
       <div
-        className="px-layer absolute -inset-10 pointer-events-none bg-[radial-gradient(ellipse_at_75%_45%,rgba(91,124,255,0.22),transparent_55%),radial-gradient(ellipse_at_10%_90%,rgba(255,120,73,0.18),transparent_50%)]"
+        className="px-layer absolute -inset-10 pointer-events-none bg-[radial-gradient(ellipse_at_75%_45%,rgba(91,124,255,0.18),transparent_55%),radial-gradient(ellipse_at_10%_90%,rgba(255,120,73,0.16),transparent_50%)]"
         style={{ '--d': 10 }}
       />
       <VisaStamps />

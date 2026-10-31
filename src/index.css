@@ -563,3 +563,25 @@ details.faq[open] .faq-chev { transform: rotate(45deg); }
   .px-layer, .px-tilt { transform: none; transition: none; }
   .stamp-float { animation: none; }
 }
+
+/* Hero reel: slow Ken Burns push on each scene, and the scene timer bar. */
+.reel-kb {
+  animation: reel-kb 9s linear forwards;
+  transform-origin: 60% 50%;
+}
+@keyframes reel-kb {
+  from { transform: scale(1.03); }
+  to { transform: scale(1.13) translate3d(-1.2%, -0.8%, 0); }
+}
+.reel-bar {
+  animation-name: reel-bar;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+@keyframes reel-bar {
+  from { width: 0; }
+  to { width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reel-kb, .reel-bar { animation: none; }
+}
