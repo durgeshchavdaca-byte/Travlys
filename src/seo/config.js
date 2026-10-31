@@ -51,6 +51,10 @@ export const SAME_AS_PROFILES = []
 
 export const HOME_FAQS = [
   {
+    q: 'What is Travlys?',
+    a: 'Travlys (travlys.com, spelled with an s) is an India-based visa consultancy headquartered in Vastrapur, Ahmedabad. It prepares and files tourist, business, student and work visas for Indian passport holders to the US, UK, Canada, Australia, New Zealand, Schengen, Singapore, UAE, Thailand and Malaysia. It is not the same company as Travly (travly.com), a US hotel booking app.',
+  },
+  {
     q: 'Which visas does Travlys help with?',
     a: 'Travlys handles visa applications for the US, UK, Canada, Australia, New Zealand, the Schengen area (via the Netherlands), Singapore, UAE / Dubai, Thailand and Malaysia, across tourist, business, student and work categories.',
   },
@@ -277,6 +281,7 @@ export function buildHomeSchemas(destinations, reviews = [], featured = []) {
       '@id': `${SITE_URL}/#website`,
       url: `${SITE_URL}/`,
       name: SITE_NAME,
+      alternateName: ['Travlys Visa Consultants', 'travlys.com'],
       description: 'Visa assistance for Indian travelers, US, UK, Canada, Australia, Schengen, Singapore, UAE and more.',
       inLanguage: DEFAULT_LANG,
       publisher: { '@id': `${SITE_URL}/#organization` },
@@ -435,7 +440,7 @@ export function buildVisaSchemas(dest) {
 
 export function getHomeMeta() {
   return {
-    title: 'Visa from India: US, UK, Canada, Schengen & More from ₹999',
+    title: 'Travlys: Visa Consultants in Ahmedabad, India | US, UK, Canada, Schengen Visa',
     description:
       'Apply for US, UK, Canada, Australia, Schengen, Singapore, UAE, Thailand, Malaysia and New Zealand visas from India with Travlys. 98% approval across 5,000+ visas, transparent fees from ₹999. India-based, Ahmedabad office.',
     path: '/',

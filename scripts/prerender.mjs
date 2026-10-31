@@ -415,7 +415,7 @@ ${faqList(getNewsFaqs(), 'About this page')}`
 }
 
 function homeBody() {
-  return `<h1>You pack the bags. We handle the visa.</h1>
+  return `<h1>Travlys Visa Consultants: You pack the bags. We handle the visa.</h1>
 <p>${SITE_NAME} is an India-based visa assistance service headquartered in Ahmedabad. We prepare and file tourist, business, student and work visas for Indian passport holders to the United States, United Kingdom, Canada, Australia, New Zealand, the Schengen area (via the Netherlands), Singapore, the UAE (Dubai), Thailand and Malaysia. 5,000+ visas filed with a 98% approval rate, flat service fees from ₹999, and one named specialist on every file.</p>
 <section><h2>Visa destinations and fees</h2>
 ${destinationsTable()}

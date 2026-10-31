@@ -220,6 +220,9 @@ export default function Hero3D({ destinations, search, trust }) {
             style={{ transformPerspective: 900 }}
             className="font-display text-[2.6rem] sm:text-5xl md:text-[3.5rem] lg:text-[4.1rem] font-extrabold mt-6 leading-[1.02]"
           >
+            <span className="block font-sans text-xs sm:text-sm font-semibold uppercase tracking-[0.22em] text-coral-300 mb-4">
+              Travlys Visa Consultants
+            </span>
             You pack the bags.
             <br />
             <span className="text-coral-400 italic">We handle the visa.</span>
