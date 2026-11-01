@@ -44,6 +44,7 @@ import { getLatestNews, formatNewsDate } from '../data/travelNews'
 import { newsAnchor } from '../seo/pages'
 import Hero3D, { DestVideo } from '../components/Hero3D'
 import { Carousel3D, FlipCard } from '../components/FX'
+import EligibilityCheck from '../components/EligibilityCheck'
 
 /* ─── HERO ────────────────────────────────────────────────────────────────── */
 
@@ -324,6 +325,32 @@ function DestinationRing() {
           <p className="text-white/60 mt-4">Drag the ring. The card in front plays its city, tap it to open the full visa guide.</p>
         </AnimatedSection>
         <Carousel3D destinations={destinations} />
+      </div>
+    </section>
+  )
+}
+
+/* ─── FREE VISA CHECK ──────────────────────────────────────────────────── */
+
+function FreeVisaCheck() {
+  return (
+    <section id="free-visa-check" className="py-24 bg-sand-50 border-t border-line">
+      <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+        <AnimatedSection className="lg:col-span-5">
+          <span className="pill bg-white border border-line text-ink-900">
+            <ShieldCheck className="w-3.5 h-3.5 text-coral-500" /> Free, no obligation
+          </span>
+          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+            Not sure where to start? Check your visa in 30 seconds.
+          </h2>
+          <p className="text-slate-muted mt-4 text-[1.02rem]">
+            Answer four quick questions and see which visa you need, how long it takes and what to watch out for.
+            Then get your personal document checklist from a Travlys specialist on WhatsApp, free.
+          </p>
+        </AnimatedSection>
+        <div className="lg:col-span-7">
+          <EligibilityCheck />
+        </div>
       </div>
     </section>
   )
@@ -892,6 +919,7 @@ export default function HomePage() {
 
       <Hero />
       <DestinationRing />
+      <FreeVisaCheck />
       <FeaturedTestimonials />
       <CountriesGrid />
       <HowItWorks />

@@ -37,6 +37,7 @@ function prettyDate(iso) {
     day: 'numeric', month: 'long', year: 'numeric',
   })
 }
+import EligibilityCheck from '../components/EligibilityCheck'
 import { buildVisaSchemas, getVisaMeta } from '../seo/config'
 
 // Decorative passport-stamp SVG, hand-drawn, no copyrighted artwork.
@@ -650,6 +651,12 @@ export default function VisaPage() {
       )}
 
       {/* Apply / Inquiry */}
+      <section id="free-visa-check" className="py-16 bg-white border-t border-line">
+        <div className="container-app max-w-3xl">
+          <EligibilityCheck initialSlug={dest.slug} compact />
+        </div>
+      </section>
+
       <section id="apply" className="py-20 mesh-warm border-t border-line">
         <div className="container-app">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
