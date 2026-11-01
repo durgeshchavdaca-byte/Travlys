@@ -789,7 +789,7 @@ export const destinations = [
     metaDescription:
       'Indians get 30 days visa-free in Thailand since 15 September 2026. Staying longer? Travlys files the 60-day tourist e-Visa or DTV from ₹1,950, with TDAC help.',
     keywords:
-      'thailand visa free for indians, thailand 30 days visa free, tdac thailand, thailand visa from india, thailand tourist e-visa, thailand evisa india, thailand visa documents, thailand visa consultants',
+      'thailand visa free for indians, thailand 30 days visa free, tdac thailand, thailand visa from india, thailand tourist e-visa, thailand evisa india, thailand visa documents, thailand visa consultants, thai visa centre, thailand visa application centre india, vfs thailand',
     includes: [
       'TDAC (Thailand Digital Arrival Card) help',
       'Royal Thai e-Visa portal filing',
@@ -802,6 +802,7 @@ export const destinations = [
       { q: 'Do Indians need a visa for Thailand?', a: 'Not for a tourist trip of up to 30 days. Since 15 September 2026, Indian ordinary passport holders can enter Thailand visa-free for tourism for up to 30 days. You still need a TDAC, a hotel booking, an onward ticket within 30 days and funds of about 20,000 baht per person. For longer stays, work or study, you need a visa from thaievisa.go.th.' },
       { q: 'When should I apply for a Thai tourist e-Visa?', a: 'Apply if you want to stay more than 30 days in one visit. The single-entry tourist visa (TR) is valid for 3 months and allows up to 60 days per entry. The embassy fee is ₹3,000, and applications go only through thaievisa.go.th. Travlys prepares and files the application, from ₹1,950 (Travlys fee).' },
       { q: 'What is the Destination Thailand Visa (DTV)?', a: 'The DTV is a 5-year multiple-entry visa that allows up to 180 days per entry. It is for remote workers, freelancers and people joining activities such as wellness or sports programmes, plus their spouses and children. The embassy fee is ₹30,000. Travlys checks your eligibility and documents against the embassy\'s DTV checklist before filing.' },
+      { q: 'Where is the Thai visa centre in India?', a: 'Thai visas for Indians are applied for online on the official Royal Thai e-Visa portal, thaievisa.go.th, under the jurisdiction of the Royal Thai Embassy in New Delhi or the Royal Thai Consulates-General in Mumbai, Chennai and Kolkata. VFS Global runs Thailand visa application centres in several Indian cities, including Delhi, Mumbai, Ahmedabad, Bengaluru, Chennai, Hyderabad, Kolkata and Jaipur, for applicants the portal asks to submit documents in person. Travlys files your e-Visa and tells you whether a centre visit is needed for your category.' },
       { q: 'Do I need the TDAC if I am travelling visa-free?', a: 'Yes. Every foreign traveller must submit the Thailand Digital Arrival Card online at tdac.immigration.go.th within 3 days before arrival, for every entry. It is free and is not a visa. Travlys can help you fill it in correctly with your flight and hotel details.' },
       { q: 'How much does Travlys charge?', a: 'Service starts at ₹1,950 for an e-Visa filing. The embassy fee (₹3,000 for a single-entry tourist visa) is paid separately to the Royal Thai government. For visa-free trips there is no visa fee; we can still help with the TDAC and your documents.' },
     ],

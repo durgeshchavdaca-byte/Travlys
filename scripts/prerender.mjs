@@ -40,6 +40,7 @@ import {
   getCityVisaMeta,
   getCityHubMeta,
   getCityVisaFaqs,
+  getCityHubFaqs,
 } from '../src/seo/config.js'
 import {
   ABOUT_META,
@@ -511,7 +512,7 @@ ${faqList(getCityVisaFaqs(d, c), `${d.name} visa from ${c.name}, answered`)}
 
 function cityHubBody(c) {
   return `${crumbs([['Home', '/'], [`Visa from ${c.name}`]])}
-<h1>Visa consultants in ${escapeHtml(c.name)}</h1>
+<h1>Visa consultant in ${escapeHtml(c.name)}: visa agents for US, UK, Canada and Schengen</h1>
 <p>Travlys files US, UK, Canada, Schengen, Singapore, UAE and more visas for applicants in ${escapeHtml(c.name)}, ${escapeHtml(c.state)}. VFS biometrics at ${escapeHtml(c.vfsCenter)}; jurisdiction handled by ${escapeHtml(c.nearestConsulate)}. Everything except biometrics and any interview is handled remotely on WhatsApp and email.</p>
 <dl>
 <dt>VFS centre</dt><dd>${escapeHtml(c.vfsCenter)}</dd>
@@ -521,7 +522,8 @@ function cityHubBody(c) {
 <p>${escapeHtml(c.visaProfile)}.</p>
 <section><h2>Visas Travlys files from ${escapeHtml(c.name)}</h2>
 ${destinationsTable(c.slug)}
-</section>`
+</section>
+${faqList(getCityHubFaqs(c), `Visa agents in ${c.name}, answered`)}`
 }
 
 function aboutBody() {

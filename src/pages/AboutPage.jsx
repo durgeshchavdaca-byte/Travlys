@@ -51,7 +51,7 @@ export default function AboutPage() {
               <Sparkles className="w-3.5 h-3.5 text-coral-500" /> About Travlys
             </span>
             <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.6rem] font-extrabold text-ink-900 mt-5 leading-[1.05]">
-              <TextReveal text="A visa consultancy" as="span" />
+              <TextReveal text="A visa consultancy" as="span" />{' '}
               <br />
               <span className="hero-italic-mark">
                 <span className="relative italic text-ink-900">built for Indian travelers.</span>

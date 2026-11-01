@@ -71,7 +71,7 @@ export default function BlogIndexPage() {
             ) : (
               <>
                 <h1 className="font-display text-[2.6rem] sm:text-5xl md:text-[3.6rem] font-extrabold text-ink-900 mt-5 leading-[1.05]">
-                  <TextReveal text="Visa guides," as="span" />
+                  <TextReveal text="Visa guides," as="span" />{' '}
                   <br />
                   <span className="hero-italic-mark">
                     <span className="relative italic text-ink-900">without the fluff.</span>

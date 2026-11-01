@@ -388,7 +388,7 @@ export default function VisaPage() {
                 </span>
               </div>
               <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-extrabold text-white mt-5 leading-[1.02]">
-                <TextReveal text={`${dest.name} visa`} as="span" />
+                <TextReveal text={`${dest.name} visa`} as="span" />{' '}
                 <br />
                 <span className="text-coral-400">from India.</span>
               </h1>

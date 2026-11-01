@@ -28,7 +28,7 @@ export default function TravelNewsPage() {
               <Newspaper className="w-3.5 h-3.5 text-coral-500" /> Updated {formatNewsDate(NEWS_UPDATED)}
             </span>
             <h1 className="font-display text-[2.4rem] sm:text-5xl md:text-[3.4rem] font-extrabold text-ink-900 mt-5 leading-[1.05]">
-              <TextReveal text="Visa and travel news" as="span" />
+              <TextReveal text="Visa and travel news" as="span" />{' '}
               <br />
               <span className="hero-italic-mark">
                 <span className="relative italic text-ink-900">for Indians.</span>

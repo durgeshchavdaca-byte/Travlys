@@ -584,17 +584,18 @@ export function buildCityVisaSchemas(dest, city) {
 // City hub page — /from/:city — lists all 10 visa destinations
 // available from that city. Captures head queries like
 // "visa consultants in mumbai", "visa from delhi".
-export function getCityHubMeta(city, destinations) {
+export function getCityHubMeta(city) {
   const pagePath = `/from/${city.slug}`
-  const dests = destinations.map((d) => d.name).slice(0, 6).join(', ')
   return {
-    title: `Visa Consultants in ${city.name} | Apply for ${dests} Visas | Travlys`,
+    title: `Visa Consultant in ${city.name}: Visa Agents for US, UK, Canada & Schengen | Travlys`,
     description:
-      `Travlys files US, UK, Canada, Schengen, Singapore and more visas for ${city.name}, ${city.state} applicants. ` +
-      `VFS at ${city.vfsCenter}. 98% approval across 5,000+ Indian visas, transparent fees from ₹999.`,
+      `Looking for a visa consultant or visa agent in ${city.name}? Travlys files US, UK, Canada, Schengen, Singapore and more visas for ${city.state} applicants. ` +
+      `VFS at ${city.vfsCenter}. 98% approval across 5,000+ Indian visas, flat fees from ₹999.`,
     path: pagePath,
     keywords: [
+      `visa consultant in ${city.name.toLowerCase()}`,
       `visa consultants in ${city.name.toLowerCase()}`,
+      `visa agents in ${city.name.toLowerCase()}`,
       `visa agent ${city.name.toLowerCase()}`,
       `visa from ${city.name.toLowerCase()}`,
       `${city.name.toLowerCase()} visa services`,
@@ -609,6 +610,29 @@ export function getCityHubMeta(city, destinations) {
     imageAlt: `Travlys, visa services in ${city.name}, ${city.state}`,
     city,
   }
+}
+
+// Questions people ask when they search "visa consultant in <city>". Shown on
+// the city hub and published as its FAQPage schema.
+export function getCityHubFaqs(city) {
+  return [
+    {
+      q: `How do I choose a visa consultant in ${city.name}?`,
+      a: `Pick a consultant with a real office and a named specialist, a written flat fee, and no promise of guaranteed approval (only the embassy decides). Travlys is an India-based visa consultancy with its office in Vastrapur, Ahmedabad; it serves ${city.name} applicants remotely, with 5,000+ visas filed and a 98% approval rate.`,
+    },
+    {
+      q: `How much do visa agents in ${city.name} charge?`,
+      a: `Travlys charges the same flat service fee in ${city.name} as everywhere in India: from ₹999 for a Malaysia eNTRI to ₹19,940 for a US embassy visa. Embassy and VFS fees are paid separately at actuals, and every fee is listed on the Travlys pricing page before you start.`,
+    },
+    {
+      q: `Where is the VFS centre for ${city.name} applicants?`,
+      a: `${city.name} applicants give biometrics at the VFS centre at ${city.vfsCenter}. Embassy jurisdiction: ${city.nearestConsulate}. Travlys books the slot and tells you exactly what to carry.`,
+    },
+    {
+      q: `Do I need to visit an office in ${city.name} to apply?`,
+      a: `No. The brief, document check, application drafting and interview prep all happen on WhatsApp and email. You only go in person for biometrics at VFS and, where the embassy requires one, the interview.`,
+    },
+  ]
 }
 
 export function buildCityHubSchemas(city, destinations) {
@@ -660,6 +684,16 @@ export function buildCityHubSchemas(city, destinations) {
         position: i + 1,
         name: `${d.name} Visa from ${city.name}`,
         url: pageUrl(`/visa/${d.slug}/from/${city.slug}`),
+      })),
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      '@id': `${canonical}#faq`,
+      mainEntity: getCityHubFaqs(city).map(({ q, a }) => ({
+        '@type': 'Question',
+        name: q,
+        acceptedAnswer: { '@type': 'Answer', text: a },
       })),
     },
   ]

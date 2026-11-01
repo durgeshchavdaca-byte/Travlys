@@ -133,7 +133,7 @@ export default function CityVisaPage() {
                 </span>
               </div>
               <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-extrabold text-white mt-5 leading-[1.02]">
-                <TextReveal text={`${dest.name} visa`} as="span" />
+                <TextReveal text={`${dest.name} visa`} as="span" />{' '}
                 <br />
                 <span className="text-coral-400">from {city.name}.</span>
               </h1>

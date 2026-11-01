@@ -21,7 +21,7 @@ import { CITIES, getCity } from '../data/cities'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
-import { buildCityHubSchemas, getCityHubMeta } from '../seo/config'
+import { buildCityHubSchemas, getCityHubMeta, getCityHubFaqs } from '../seo/config'
 
 const BUILD_DATE = new Date().toISOString().slice(0, 10)
 function prettyDate(iso) {
@@ -95,7 +95,7 @@ export default function CityHubPage() {
               </span>
             </div>
             <h1 className="font-display text-[2.5rem] sm:text-5xl md:text-[3.6rem] font-extrabold text-ink-900 mt-5 leading-[1.05]">
-              <TextReveal text={`Visa consultants in`} as="span" />
+              <TextReveal text={`Visa consultant in`} as="span" />{' '}
               <br />
               <span className="hero-italic-mark">
                 <span className="relative italic text-ink-900">{city.name}.</span>
@@ -220,6 +220,26 @@ export default function CityHubPage() {
               title={`One named specialist`}
               body={`A single consultant owns your file from brief to decision, no ticket queue, no handoffs, no chasing.`}
             />
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ, the same questions the page's FAQPage schema lists */}
+      <section id="faq" className="py-20 bg-white border-t border-line">
+        <div className="container-app grid grid-cols-1 lg:grid-cols-12 gap-12">
+          <div className="lg:col-span-4">
+            <span className="pill bg-coral-50 text-coral-600">FAQ</span>
+            <h2 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
+              Visa agents in {city.name}, answered.
+            </h2>
+          </div>
+          <div className="lg:col-span-8">
+            {getCityHubFaqs(city).map((f) => (
+              <article key={f.q} className="py-5 border-b border-line last:border-b-0">
+                <h3 className="font-display text-lg font-bold text-ink-900 m-0 leading-snug">{f.q}</h3>
+                <p className="text-slate-muted mt-2 text-[0.97rem] leading-relaxed m-0">{f.a}</p>
+              </article>
+            ))}
           </div>
         </div>
       </section>

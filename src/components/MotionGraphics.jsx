@@ -1,5 +1,5 @@
 import { motion, useScroll, useMotionValue, useTransform, useSpring, useInView } from 'framer-motion'
-import { useEffect, useRef, useState } from 'react'
+import { Fragment, useEffect, useRef, useState } from 'react'
 
 /* Soft blurred blobs used as background on hero + CTA sections */
 export function HeroBlobs({ className = '' }) {
@@ -88,19 +88,23 @@ export function MagneticButton({ children, className = '', href, onClick, type, 
 /* Word-by-word fade-in headline */
 export function TextReveal({ text, className = '', as: Tag = 'h2', delayBase = 0 }) {
   const words = text.split(' ')
+  // Real spaces between the word spans (not margins), so search engines and
+  // screen readers read "Visa consultant in", not "Visaconsultantin".
   return (
     <Tag className={className}>
       {words.map((word, i) => (
-        <motion.span
-          key={i}
-          className="inline-block mr-[0.28em]"
-          initial={{ opacity: 0, y: 22 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: '-50px' }}
-          transition={{ duration: 0.55, delay: delayBase + i * 0.06, ease: [0.16, 1, 0.3, 1] }}
-        >
-          {word}
-        </motion.span>
+        <Fragment key={i}>
+          <motion.span
+            className="inline-block"
+            initial={{ opacity: 0, y: 22 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: '-50px' }}
+            transition={{ duration: 0.55, delay: delayBase + i * 0.06, ease: [0.16, 1, 0.3, 1] }}
+          >
+            {word}
+          </motion.span>
+          {i < words.length - 1 && ' '}
+        </Fragment>
       ))}
     </Tag>
   )
