@@ -458,6 +458,7 @@ function visaBody(d) {
 <section><h2>Quick answers</h2>
 ${getQuickAnswers(d).map((f) => `<h3>${escapeHtml(f.q)}</h3>\n<p>${inline(f.a)}</p>`).join('\n')}
 <p>Checked against official sources on ${LAST_CHECKED}. All countries: <a href="${href('/visa-fees')}">visa fees table</a>.</p>
+<p>Travlys is a private visa consultancy, not affiliated with any embassy, consulate, VFS Global or government. Government and VFS fees are paid separately.</p>
 </section>
 <section><h2>${escapeHtml(d.name)} visa at a glance</h2>
 <dl>

@@ -422,7 +422,7 @@ export default function VisaPage() {
                 <p className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-1">
                   {dest.price}
                 </p>
-                <p className="text-xs text-slate-muted mt-1">Embassy / VFS fees paid separately to authorities.</p>
+                <p className="text-xs text-slate-muted mt-1">Embassy / VFS fees paid separately to authorities. Travlys is a private consultancy, not a government or embassy website.</p>
 
                 <div className="grid grid-cols-2 gap-4 mt-6">
                   <SnapshotItem icon={Clock3} label="Processing" value={dest.processingTime} />

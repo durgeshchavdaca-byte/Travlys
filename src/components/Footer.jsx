@@ -194,7 +194,7 @@ export default function Footer() {
       <div className="relative z-10 border-t border-white/10">
         <div className="container-app py-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
           <p className="text-xs text-white/50 max-w-2xl leading-relaxed">
-            Visa decisions are made by embassies and immigration authorities, not by Travlys. Fees, processing windows and document requirements may change without notice. Service fees shown are exclusive of government / embassy fees.
+            Travlys is a private visa consultancy. It is not affiliated with any embassy, consulate, VFS Global or government. Visa decisions are made by embassies and immigration authorities, not by Travlys. Fees, processing windows and document requirements may change without notice. Service fees shown are exclusive of government / embassy fees.
           </p>
           <p className="text-xs text-white/55 shrink-0">© {new Date().getFullYear()} Travlys. All rights reserved.</p>
         </div>
