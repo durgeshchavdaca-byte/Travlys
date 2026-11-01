@@ -656,11 +656,134 @@ export const destinations = [
     aboutTitle: 'About the Singapore e-Visa',
     aboutText:
       'Indian passport holders need a visa for Singapore. Applications go through an authorised visa agent of the Singapore High Commission, who submits them online; decisions usually arrive in 3-5 working days. We take care of file accuracy and the financial sufficiency narrative ICA looks for.',
-    metaTitle: 'Singapore Visa from India 2026: e-Visa in 3-5 Days, ₹2,950 | Travlys',
+    // Long-form guide for /visa/singapore-visa: Singapore is the page with
+    // the most Search Console impressions ("singapore visa from india",
+    // "visa for singapore from india", "singapore tourist visa from india").
+    deepGuide: {
+      updatedOn: '2026-11-01',
+      reviewedBy: 'The Travlys Singapore visa desk',
+      tldr:
+        'Indian passport holders need a visa for Singapore, applied for through an authorised visa agent appointed by the Singapore High Commission or a Consulate in India, not directly with ICA. You need a signed Form 14A, a recent photo and your passport, plus supporting documents the agent asks for. The government fee is S$30 (about ₹2,100), non-refundable, and decisions usually take 3-5 working days. There is no visa on arrival for Indians; the 96-hour Visa Free Transit Facility only helps travellers in transit who hold certain other visas.',
+      sections: [
+        {
+          h2: 'Do Indians need a visa for Singapore in 2026?',
+          body: [
+            {
+              type: 'p',
+              text: 'Yes. Indian ordinary passport holders need a visa to enter Singapore for tourism, family visits or business. Singapore does not offer a visa on arrival to Indian nationals, so the visa must be approved before you fly. Airlines check for it at check-in in India.',
+            },
+            {
+              type: 'p',
+              text: 'The one exception is transit. Under the Visa Free Transit Facility (VFTF), Indian nationals passing through Singapore to or from a third country can stay up to 96 hours without a Singapore visa if they hold a valid visa or long-term pass from one of the countries on the ICA list (such as the US, UK, Canada, Australia, New Zealand, Japan, Germany or Switzerland) and a confirmed onward ticket. The list and conditions are set by ICA, so check the VFTF page on ica.gov.sg before relying on it. A holiday that starts and ends in India does not qualify.',
+            },
+          ],
+        },
+        {
+          h2: 'How to apply for a Singapore visa from India, step by step',
+          body: [
+            {
+              type: 'p',
+              text: 'The Singapore Immigration and Checkpoints Authority (ICA) does not accept tourist visa applications from Indian walk-ins. Applications are filed online by an authorised visa agent appointed by the Singapore High Commission in New Delhi or the Consulates-General in Mumbai and Chennai, according to the state you live in. Travlys prepares the file and submits it through the authorised agent route.',
+            },
+            {
+              type: 'ul',
+              items: [
+                '1. Share your travel dates, purpose and who is travelling (family files go together).',
+                '2. Fill and sign Form 14A. Every field must be completed; blanks and mismatched answers are the most common cause of delays.',
+                '3. Send a recent colour photo and a clear scan of your passport bio page, plus the supporting documents asked for in your case.',
+                '4. The authorised agent submits the application to ICA online and pays the S$30 visa fee.',
+                '5. ICA decides, usually in 3-5 working days. If approved, you receive the e-Visa as a PDF to print and carry.',
+                '6. Within 3 days before arrival, submit the free SG Arrival Card online.',
+              ],
+            },
+          ],
+        },
+        {
+          h2: 'Singapore visa documents for Indians',
+          body: [
+            {
+              type: 'p',
+              text: 'The ICA list for Indian tourists is short, but agents ask for supporting papers to keep the file strong. Expect to provide:',
+            },
+            {
+              type: 'ul',
+              items: [
+                'Passport valid for at least 6 months from the date of entry, with blank pages, plus a scan of the bio page.',
+                'Form 14A, filled in completely and signed by the applicant (a parent signs for a child).',
+                'One recent colour photo, 35 x 45 mm, white background, taken within the last 3 months.',
+                'Confirmed return or onward flight booking.',
+                'Hotel booking, or the address and details of the person you are staying with.',
+                'Recent bank statements, and for employees a leave or employment letter; for business owners, GST or business registration proof.',
+                'For business visits: an invitation or meeting letter from the Singapore company.',
+              ],
+            },
+            {
+              type: 'callout',
+              label: 'Tip',
+              text: 'Your Form 14A answers, your bank statement and your employer letter must tell the same story. Most Singapore refusals we see for Indians come from mismatches, not from low balances.',
+            },
+          ],
+        },
+        {
+          h2: 'Singapore visa fee from India in 2026',
+          body: [
+            {
+              type: 'ul',
+              items: [
+                'Visa fee (Singapore government): S$30 per applicant, about ₹2,100. It is non-refundable, even if the visa is refused or the application is withdrawn.',
+                'Authorised agent or consultant service charge: varies by agent, so always ask for an itemised quote.',
+                'Travlys service fee: from ₹2,950, which covers the Form 14A, document review, submission through the authorised agent route, follow-up on any ICA query and delivery of your e-Visa.',
+              ],
+            },
+          ],
+        },
+        {
+          h2: 'Processing time, validity and how long you can stay',
+          body: [
+            {
+              type: 'p',
+              text: 'A complete application usually gets a decision in 3-5 working days, counted from the day it is submitted, not from the day you send your documents. Weekends and Singapore public holidays do not count, and there is no paid express option, so apply at least two weeks before you fly.',
+            },
+            {
+              type: 'p',
+              text: 'ICA decides whether to issue a single-entry or multiple-journey visa and how long it is valid. Multiple-journey visas for Indians are granted case by case, often to applicants with earlier Singapore trips. The visa lets you travel to Singapore; how long you may stay on each visit is decided by the immigration officer when you arrive, and for tourists it is commonly up to 30 days.',
+            },
+          ],
+        },
+        {
+          h2: 'Before you fly: the SG Arrival Card',
+          body: [
+            {
+              type: 'p',
+              text: 'Every traveller entering Singapore, including children, must submit the SG Arrival Card (SGAC) online within 3 days before arrival. It is free on the ICA website and the MyICA app. Several look-alike websites charge a fee for the same form; you never need to pay for the SGAC.',
+            },
+          ],
+        },
+        {
+          h2: 'Why Singapore visas get refused, and what to do next',
+          body: [
+            {
+              type: 'ul',
+              items: [
+                'Incomplete or unsigned Form 14A, or answers that contradict the documents.',
+                'Photo that does not meet the specification.',
+                'Unclear purpose of travel or no proof of a return ticket and accommodation.',
+                'A previous overstay or immigration issue in Singapore or elsewhere that was not declared.',
+              ],
+            },
+            {
+              type: 'p',
+              text: 'ICA does not usually give a reason for a refusal. You can reapply, but only after fixing what was weak in the first file; sending the same papers again usually brings the same result. Travlys reviews refused files and tells you honestly whether a reapplication is worth it.',
+            },
+          ],
+        },
+      ],
+    },
+    metaTitle: 'Singapore Visa for Indians 2026: Fee S$30, Documents, Form 14A, 3-5 Days | Travlys',
     metaDescription:
-      'Singapore e-Visa from India in 3-5 working days from ₹2,950. Travlys handles ICA submission, document quality check, query handling and email delivery of your approved e-Visa PDF.',
+      'Singapore visa for Indians in 2026: S$30 visa fee, Form 14A and documents, 3-5 working days through an authorised agent, SG Arrival Card and the 96-hour transit rule. Travlys files it from ₹2,950.',
     keywords:
-      'singapore visa from india, singapore e-visa, singapore tourist visa, singapore visa fee, singapore evisa consultants',
+      'singapore visa from india, singapore visa for indians, visa for singapore from india, singapore tourist visa from india, singapore e-visa, singapore visa fee, form 14a, singapore visa documents, singapore visa agent, sg arrival card',
     includes: [
       'e-Visa application drafted and submitted',
       'Document set review and quality check',
@@ -670,8 +793,10 @@ export const destinations = [
     ],
     faqs: [
       { q: 'How long does a Singapore e-Visa take from India?', a: 'Typically 3-5 working days when the file is complete. Same-day decisions occur but are not guaranteed.' },
-      { q: 'How much does it cost?', a: 'Travlys service starts at ₹2,950; the visa processing fee of INR 2,100 is paid separately.' },
-      { q: 'Documents required?', a: 'Passport, photograph, travel itinerary, hotel bookings, financial documents and an employment / sponsorship letter.' },
+      { q: 'How much does it cost?', a: 'The Singapore government visa fee is S$30 (about ₹2,100), non-refundable. Travlys service starts at ₹2,950 on top of that.' },
+      { q: 'Can Indians get a Singapore visa on arrival?', a: 'No. Indians must have the visa approved before flying. The only exception is the 96-hour Visa Free Transit Facility for travellers in transit who hold a valid visa from certain countries such as the US, UK, Canada or Australia; check the current ICA list before relying on it.' },
+      { q: 'Do I need the SG Arrival Card?', a: 'Yes. Every traveller must submit the free SG Arrival Card on the ICA website or MyICA app within 3 days before arriving in Singapore. Never pay a third-party site for it.' },
+      { q: 'Documents required?', a: 'A signed Form 14A, a recent 35 x 45 mm photo on a white background, and a passport valid for 6 months, plus flight and hotel bookings, recent bank statements and an employment or business letter.' },
       { q: 'Can families apply together?', a: 'Yes, we file family applications as a single batch with a consolidated travel narrative.' },
     ],
     categories: [
