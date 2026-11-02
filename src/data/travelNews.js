@@ -3,7 +3,7 @@
 // Rendered at /travel-news, and fed into the homepage, llms.txt and the
 // prerendered HTML so search engines and AI assistants see the latest dates.
 
-export const NEWS_UPDATED = '2026-10-31'
+export const NEWS_UPDATED = '2026-11-02'
 
 export const TRAVEL_NEWS = [
   // --- Announced, not yet in force (shown under "Coming up") ---
@@ -52,6 +52,17 @@ export const TRAVEL_NEWS = [
     },
   },
   // --- Dated news, newest first ---
+  {
+    date: '2026-11-01',
+    headline: 'Kazakhstan starts QazETA pilot; free e-permit becomes mandatory for Indians on 1 July 2027',
+    summary:
+      'Kazakhstan began phasing in its QazETA electronic travel authorisation on 1 November 2026, first at Aktau airport and some land crossings. It stays optional until 1 July 2027, when visa-free visitors, including Indians on the 14-day visa-free stay, must hold it before arrival. It is free; children under 16 and travellers aged 65 or over are exempt.',
+    href: '/blog/kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians/',
+    source: {
+      label: 'Buch-dein-Visum: QazETA mandatory from 1 July 2027',
+      url: 'https://www.buch-dein-visum.de/en/news/kasachstan/kasachstan-qazeta-einreisegenehmigung-ab-1-juli-2027-verpflichtend-7849c2',
+    },
+  },
   {
     date: '2026-10-09',
     headline: 'Armenia drops extra e-visa conditions for Indians',
