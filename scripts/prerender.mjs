@@ -16,7 +16,7 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-import { destinations } from '../src/data/destinations.js'
+import { destinations, getCostBreakdown } from '../src/data/destinations.js'
 import { CITIES } from '../src/data/cities.js'
 import { reviews } from '../src/data/reviews.js'
 import { FEATURED_TESTIMONIALS } from '../src/data/testimonials.js'
@@ -468,6 +468,23 @@ ${faqList(HOME_FAQS)}
 </section>`
 }
 
+// "How much does a <country> visa cost from India" in the static HTML, the
+// same figures the React cost breakdown shows.
+function costSection(d) {
+  const c = getCostBreakdown(d)
+  if (!c) return ''
+  const rs = (n) => `₹${n.toLocaleString('en-IN')}`
+  return `<section><h2>How much does a ${escapeHtml(d.name)} visa cost from India in 2026?</h2>
+<p>About ${rs(c.total)} in total for one applicant: the government fee of ${escapeHtml(c.govNative)} (about ${rs(c.govInr)}), paid directly to ${escapeHtml(c.govPayee)}, plus the Travlys service fee ${escapeHtml(c.serviceLabel.replace(/^From /, 'from '))}. Exchange rates and fees change, so the final figure is confirmed in your quote.</p>
+<table><thead><tr><th>Part</th><th>Amount</th><th>Paid to</th></tr></thead><tbody>
+<tr><td>Government / visa fee</td><td>${escapeHtml(c.govNative)} (about ${rs(c.govInr)})</td><td>${escapeHtml(c.govPayee)}</td></tr>
+<tr><td>Travlys service fee</td><td>${escapeHtml(c.serviceLabel)}</td><td>Travlys</td></tr>
+<tr><td>Estimated total</td><td>about ${rs(c.total)}</td><td></td></tr>
+</tbody></table>
+<p>Work out other countries and group trips with the <a href="${href('/visa-cost-calculator')}">visa cost calculator</a>.</p>
+</section>`
+}
+
 function visaBody(d) {
   const g = d.deepGuide
   return `${crumbs([['Home', '/'], [`${d.name} visa`]])}
@@ -488,6 +505,7 @@ ${getQuickAnswers(d).map((f) => `<h3>${escapeHtml(f.q)}</h3>\n<p>${inline(f.a)}<
 <dt>Travlys service fee</dt><dd>${escapeHtml(d.price)} (embassy / VFS fees paid separately)</dd>
 </dl>
 </section>
+${costSection(d)}
 ${d.aboutText ? `<section><h2>${escapeHtml(d.aboutTitle || `About the ${d.name} visa`)}</h2><p>${inline(d.aboutText)}</p></section>` : ''}
 ${d.categories?.length ? `<section><h2>${escapeHtml(d.name)} visa categories</h2>${d.categories.map((c) => `<h3>${escapeHtml(c.name)}</h3><p><strong>${escapeHtml(c.purpose)}.</strong> ${escapeHtml(c.description)}</p>`).join('')}</section>` : ''}
 ${d.includes?.length ? `<section><h2>What Travlys does for your ${escapeHtml(d.name)} visa</h2>${list(d.includes)}</section>` : ''}

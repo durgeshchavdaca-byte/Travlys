@@ -118,7 +118,7 @@ function CostBreakdownSection({ dest }) {
             <Sparkles className="w-3.5 h-3.5" /> Cost breakdown
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 mt-4 leading-[1.05]">
-            How much does a {dest.name} visa cost from India?
+            How much does a {dest.name} visa cost from India in 2026?
           </h2>
           <p className="text-slate-muted mt-4 text-[1.02rem] leading-relaxed">
             Two parts: the Travlys service fee (flat, paid to us) and the embassy / VFS fee
