@@ -9226,7 +9226,7 @@ export const BLOG_POSTS = [
   {
     "slug": "japan-visa-for-indians-2026",
     "title": "Japan Visa for Indians 2026: eVISA, Fees, Documents, Timeline",
-    "metaTitle": "Japan Visa for Indians 2026: eVISA, Fees & Documents | Travlys",
+    "metaTitle": "Japan eVISA for Indians 2026: ₹500 Fee, VFS, 5-12 Days | Travlys",
     "metaDescription": "Indians apply for a Japan tourist visa at VFS and get a single-entry eVISA on their phone. Visa fee ₹500 plus VFS charges; allow 5 to 12 working days.",
     "excerpt": "Japan still needs a visa for Indian passport holders, but tourist visas are now issued electronically after you apply at VFS. Here is the 2026 fee, document list, timeline and a simple 7-day first trip.",
     "date": "2026-10-25",
@@ -9791,8 +9791,8 @@ export const BLOG_POSTS = [
   {
     "slug": "philippines-visa-free-for-indians-2026",
     "title": "Philippines Visa-Free for Indians 2026: 14 or 30 Days, Rules",
-    "metaTitle": "Philippines Visa-Free for Indians 2026: Rules | Travlys",
-    "metaDescription": "Indians can visit the Philippines visa-free for 14 days, or 30 days with a valid US, UK, Schengen or similar visa. Neither can be extended. Full 2026 rules.",
+    "metaTitle": "Is the Philippines Visa-Free for Indians? Yes, 14 or 30 Days (2026) | Travlys",
+    "metaDescription": "Yes. Indians can visit the Philippines visa-free for 14 days, or 30 days with a valid US, UK, Schengen or similar visa. Neither can be extended. What to carry and the 2026 rules.",
     "excerpt": "Since 8 June 2025, Indian tourists can enter the Philippines without a visa for 14 days, or 30 days if they hold a valid US, Japan, Australia, Canada, Schengen, Singapore or UK visa. Here is what you need at the airport and how to plan the trip.",
     "date": "2026-10-25",
     "updated": "2026-10-25",
@@ -11851,7 +11851,7 @@ export const BLOG_POSTS = [
   {
     "slug": "visa-free-countries-for-indians-2026",
     "title": "Visa-Free Countries for Indians 2026: The Complete List",
-    "metaTitle": "Visa-Free Countries for Indians 2026: Full List | Travlys",
+    "metaTitle": "Visa-Free Countries for Indian Passport 2026: All 55 (VOA, e-Visa) | Travlys",
     "metaDescription": "Indian passport holders can enter about 55 destinations without a prior visa in 2026. Full list of visa-free, visa on arrival, ETA and e-visa countries.",
     "excerpt": "The full late-2026 list of visa-free, visa on arrival, ETA and e-visa destinations for Indian passport holders, India's Henley Passport Index rank, and every rule change this year.",
     "date": "2026-10-24",
