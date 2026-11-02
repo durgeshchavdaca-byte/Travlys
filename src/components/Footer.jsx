@@ -142,8 +142,36 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Popular searches — keyword-rich internal-linking rail for SEO. */}
+      {/* Trending guides — the newer guides that Search Console shows close
+          to page one, linked from every page so they gain internal links. */}
       <div className="relative z-10 border-t border-white/10">
+        <div className="container-app pt-10">
+          <p className="text-coral-500 text-[0.7rem] uppercase tracking-[0.18em] font-semibold mb-5">
+            Trending visa guides
+          </p>
+          <div className="flex flex-wrap gap-x-5 gap-y-2 text-[0.82rem] text-white/65">
+            {[
+              ['Bali visa on arrival for Indians',    '/blog/bali-visa-on-arrival-for-indians-2026/'],
+              ['Sri Lanka ETA for Indians',           '/blog/sri-lanka-eta-for-indians-2026/'],
+              ['Thailand visa-free for Indians',      '/blog/thailand-visa-free-for-indians-2026/'],
+              ['Malaysia visa-free for Indians',      '/blog/malaysia-visa-free-for-indians-2026/'],
+              ['Japan eVISA for Indians',             '/blog/japan-visa-for-indians-2026/'],
+              ['Georgia e-visa for Indians',          '/blog/georgia-visa-for-indians-2026/'],
+              ['Vietnam e-visa for Indians',          '/blog/vietnam-e-visa-for-indians-2026/'],
+              ['Philippines visa-free for Indians',   '/blog/philippines-visa-free-for-indians-2026/'],
+              ['China visa for Indians',              '/blog/china-visa-for-indians-2026-new-process/'],
+              ['Visa-free countries for Indians 2026', '/blog/visa-free-countries-for-indians-2026/'],
+            ].map(([label, href]) => (
+              <Link key={href} to={href} className="hover:text-coral-400 no-underline transition-colors">
+                {label}
+              </Link>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {/* Popular searches — keyword-rich internal-linking rail for SEO. */}
+      <div className="relative z-10">
         <div className="container-app py-10">
           <p className="text-coral-500 text-[0.7rem] uppercase tracking-[0.18em] font-semibold mb-5">
             Popular searches

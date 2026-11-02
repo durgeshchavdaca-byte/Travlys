@@ -265,6 +265,21 @@ const NAV = [
   ['Contact', '/contact'],
 ]
 
+// Newer guides Search Console shows close to page one; linked from every
+// page's static footer (the React footer has the same list).
+const TRENDING = [
+  ['Bali visa on arrival for Indians', '/blog/bali-visa-on-arrival-for-indians-2026'],
+  ['Sri Lanka ETA for Indians', '/blog/sri-lanka-eta-for-indians-2026'],
+  ['Thailand visa-free for Indians', '/blog/thailand-visa-free-for-indians-2026'],
+  ['Malaysia visa-free for Indians', '/blog/malaysia-visa-free-for-indians-2026'],
+  ['Japan eVISA for Indians', '/blog/japan-visa-for-indians-2026'],
+  ['Georgia e-visa for Indians', '/blog/georgia-visa-for-indians-2026'],
+  ['Vietnam e-visa for Indians', '/blog/vietnam-e-visa-for-indians-2026'],
+  ['Philippines visa-free for Indians', '/blog/philippines-visa-free-for-indians-2026'],
+  ['China visa for Indians', '/blog/china-visa-for-indians-2026-new-process'],
+  ['Visa-free countries for Indians 2026', '/blog/visa-free-countries-for-indians-2026'],
+]
+
 function shell(body) {
   const addr = BIZ.address
   return `<div class="pr"><style>${STATIC_CSS.replace(/\s*\n\s*/g, '')}</style>
@@ -276,6 +291,8 @@ ${body}
 <p><strong>${SITE_NAME}</strong>, ${escapeHtml(SITE_TAGLINE)} Visa assistance for Indian travelers.</p>
 <address>${escapeHtml(addr.streetAddress)}, Vastrapur, ${escapeHtml(addr.addressLocality)}, ${escapeHtml(addr.addressRegion)} ${addr.postalCode}, India.<br>
 WhatsApp / phone: <a href="https://wa.me/918200918967">+91 82009 18967</a> · Email: <a href="mailto:${BIZ.email}">${BIZ.email}</a> · Mon to Sat, 9 AM to 7 PM IST</address>
+<nav aria-label="Trending visa guides"><ul>${TRENDING.map(([l, p]) => `<li><a href="${href(p)}">${l}</a></li>`).join('')}</ul></nav>
+<p>Travlys is a private visa consultancy, not affiliated with any embassy, consulate, VFS Global or government.</p>
 <p><a href="/sitemap.html">All pages</a> · Page updated ${TODAY}</p>
 </footer>
 </div>`
