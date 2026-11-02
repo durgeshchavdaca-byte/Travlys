@@ -10602,8 +10602,8 @@ export const BLOG_POSTS = [
   {
     "slug": "thailand-visa-free-for-indians-2026",
     "title": "Thailand Visa-Free for Indians in 2026: The 30-Day Rule Explained",
-    "metaTitle": "Thailand Visa-Free for Indians 2026: 30-Day Rules | Travlys",
-    "metaDescription": "Indians can visit Thailand visa-free for up to 30 days from 15 September 2026. The 60-day exemption has ended. TDAC, funds, extensions and when you need a visa.",
+    "metaTitle": "Thailand Visa-Free for Indians: 30 Days, Not 60, from 15 Sep 2026 | Travlys",
+    "metaDescription": "Indians get 30 days visa-free in Thailand since 15 September 2026; the 60-day exemption has ended. TDAC, 20,000 baht funds rule, onward ticket, extensions, and when you need the e-Visa instead.",
     "excerpt": "Since 15 September 2026, Indian passport holders can enter Thailand without a visa for up to 30 days for tourism. Here is what changed, what to carry and when you still need a visa.",
     "date": "2026-10-24",
     "updated": "2026-10-24",
@@ -11132,8 +11132,8 @@ export const BLOG_POSTS = [
   {
     "slug": "uae-visa-on-arrival-for-indians-2026",
     "title": "UAE Visa on Arrival for Indians 2026: Who Qualifies and Fees",
-    "metaTitle": "UAE Visa on Arrival for Indians 2026: Rules, Fees | Travlys",
-    "metaDescription": "Indians with a valid US visa or green card, a UK or EU visa or residence permit, or some other residence permits get a 14-day UAE visa on arrival for AED 100.",
+    "metaTitle": "UAE Visa on Arrival for Indians with US/UK Visa: AED 100, 14 Days | Travlys",
+    "metaDescription": "Have a valid US visa or green card, or a UK or EU visa or residence permit? Indians get a 14-day UAE visa on arrival for AED 100. Who qualifies, the 6-month rule, extending, and the e-visa if you do not.",
     "excerpt": "Holding a US, UK or EU visa, or a residence permit from six other countries, can get you a UAE visa on arrival. Here is who qualifies, what it costs in AED and what to do if you don't.",
     "date": "2026-10-24",
     "updated": "2026-10-24",
@@ -11371,8 +11371,8 @@ export const BLOG_POSTS = [
   {
     "slug": "malaysia-visa-free-for-indians-2026",
     "title": "Malaysia Visa-Free for Indians 2026: 30 Days, MDAC and End Date",
-    "metaTitle": "Malaysia Visa-Free for Indians 2026: 30 Days, MDAC | Travlys",
-    "metaDescription": "Indians can visit Malaysia visa-free for up to 30 days until 31 December 2026. You must file the free MDAC before arrival. Documents, business trips and 2027.",
+    "metaTitle": "Is Malaysia Visa-Free for Indians? Yes, 30 Days to 31 Dec 2026 | Travlys",
+    "metaDescription": "Yes. Indians can visit Malaysia visa-free for up to 30 days until 31 December 2026; file the free MDAC within 3 days before arrival. What to carry, business trips, and what we know about 2027.",
     "excerpt": "Malaysia's visa waiver for Indian nationals allows stays of up to 30 days and runs until 31 December 2026. Here is what to carry, how the MDAC works and what happens after the deadline.",
     "date": "2026-10-24",
     "updated": "2026-10-28",
@@ -13007,8 +13007,8 @@ export const BLOG_POSTS = [
   {
     "slug": "china-visa-for-indians-2026-new-process",
     "title": "China Visa for Indians 2026: The New Embassy Filing Process",
-    "metaTitle": "China Visa for Indians 2026: New Process | Travlys",
-    "metaDescription": "From 26 October 2026, Indians file China visas at the Embassy in New Delhi or Consulate in Mumbai. Fees start at ₹2,900, paid by demand draft only for now.",
+    "metaTitle": "China Visa for Indians 2026: Fees from ₹2,900, Where to Apply | Travlys",
+    "metaDescription": "Since 26 October 2026, Indians apply for China visas at the Embassy in New Delhi or the Consulate in Mumbai, not the old centres. Fees from ₹2,900, paid by demand draft. Who files where, documents, timing.",
     "excerpt": "Chinese visa applications in India moved from the service centres to the Embassy in New Delhi and the Consulate in Mumbai on 26 October 2026. Here is who files where, what it costs, and how to pay.",
     "date": "2026-10-24",
     "updated": "2026-10-24",
