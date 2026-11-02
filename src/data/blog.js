@@ -12509,7 +12509,7 @@ export const BLOG_POSTS = [
   {
     "slug": "sri-lanka-eta-for-indians-2026",
     "title": "Sri Lanka ETA for Indians 2026: Free Visa, Rules and How to Apply",
-    "metaTitle": "Sri Lanka ETA for Indians 2026: Free Visa Guide | Travlys",
+    "metaTitle": "Sri Lanka ETA for Indians 2026: Free, Apply on eta.gov.lk | Travlys",
     "metaDescription": "Indians get a free 30-day Sri Lanka tourist ETA in 2026 but must still apply on eta.gov.lk before flying. Stay rules, extensions, entry checks, 7-night route.",
     "excerpt": "The Sri Lanka tourist ETA is free for Indians in 2026, but you still have to apply online before you fly. Here is how to apply on the official site, what to carry, and a classic 7-night route.",
     "date": "2026-10-24",
@@ -12767,8 +12767,8 @@ export const BLOG_POSTS = [
   {
     "slug": "bali-visa-on-arrival-for-indians-2026",
     "title": "Bali Visa on Arrival for Indians 2026: Cost, Levy and Rules",
-    "metaTitle": "Bali Visa on Arrival for Indians 2026 | Travlys",
-    "metaDescription": "Indians get a 30-day Bali visa on arrival or e-VOA for IDR 500,000, extendable once. Also pay the IDR 150,000 Bali levy and file the free All Indonesia card.",
+    "metaTitle": "Bali Visa on Arrival for Indians 2026: Fee ~₹2,700, e-VOA, Levy | Travlys",
+    "metaDescription": "Indians get a 30-day Bali visa on arrival or e-VOA for IDR 500,000 (about ₹2,700), extendable once. Add the IDR 150,000 (about ₹800) Bali levy and the free All Indonesia card.",
     "excerpt": "Indian passport holders can get a 30-day visa on arrival or e-VOA for Bali at IDR 500,000. Here is how it works with the Bali tourist levy, the All Indonesia arrival card and the other entry rules for 2026.",
     "date": "2026-10-24",
     "updated": "2026-10-24",
@@ -12796,6 +12796,10 @@ export const BLOG_POSTS = [
       {
         "q": "How much is the Bali visa on arrival for Indians in 2026?",
         "a": "The fee is IDR 500,000, whether you buy the e-VOA online or pay on arrival. In August 2026 Indonesian immigration proposed raising it to IDR 750,000 for the e-VOA and IDR 1,000,000 on arrival, but as of 24 October 2026 no regulation or effective date had been published. The Bali tourist levy of IDR 150,000 is a separate charge on top of the visa."
+      },
+      {
+        "q": "How much is the Bali visa fee in Indian rupees?",
+        "a": "The visa on arrival or e-VOA costs IDR 500,000, about ₹2,700 at recent exchange rates, and the Bali tourist levy is IDR 150,000, about ₹800. So budget roughly ₹3,500 per person before any agent or card charges. The fees are fixed in rupiah, so the rupee figure moves with the exchange rate."
       },
       {
         "q": "Is the e-VOA better than paying for the visa on arrival?",
