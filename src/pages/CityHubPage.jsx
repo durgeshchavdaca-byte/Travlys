@@ -104,8 +104,8 @@ export default function CityHubPage() {
             <p className="text-slate-muted mt-5 text-[1.05rem] max-w-2xl leading-relaxed">
               Travlys files US, UK, Canada, Schengen and 6 more visas for{' '}
               <strong className="font-semibold text-ink-900">{city.name}</strong> ({city.state}) applicants.
-              VFS biometrics at <strong className="font-semibold text-ink-900">{city.vfsCenter}</strong>;
-              jurisdiction handled by <strong className="font-semibold text-ink-900">{city.nearestConsulate}</strong>.
+              Visa centres around <strong className="font-semibold text-ink-900">{city.vfsCenter}</strong>;
+              US visas fall under the <strong className="font-semibold text-ink-900">{city.nearestConsulate}</strong>.
               {city.isHQ ? ' Travlys is headquartered in this city, walk in to our office or message us on WhatsApp.' : ''}
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
@@ -120,8 +120,8 @@ export default function CityHubPage() {
 
           {/* Quick city facts row */}
           <div className="mt-10 grid grid-cols-2 md:grid-cols-4 gap-3 max-w-4xl">
-            <CityFact icon={Building2} label="VFS centre" value={city.vfsCenter} />
-            <CityFact icon={ShieldCheck} label="Jurisdiction" value={city.nearestConsulate} />
+            <CityFact icon={Building2} label="Visa centres (VFS area)" value={city.vfsCenter} />
+            <CityFact icon={ShieldCheck} label="US visa jurisdiction" value={city.nearestConsulate} />
             <CityFact icon={Plane} label="Travel hub" value={city.travelHub.replace(/\s*\(.*\)$/, '')} />
             <CityFact icon={MapPin} label="Region" value={`${city.state} · ${city.region}`} />
           </div>
@@ -206,11 +206,11 @@ export default function CityHubPage() {
           <div className="lg:col-span-7 grid grid-cols-1 sm:grid-cols-2 gap-4">
             <WhyCard
               title={`Local VFS guidance`}
-              body={`We know the queues, timings and document gotchas at the ${city.vfsCenter} VFS. Slot booking + walk-in support included.`}
+              body={`We know the queues, timings and document gotchas at the visa centres around ${city.vfsCenter}. Slot booking + walk-in support included.`}
             />
             <WhyCard
               title={`Right jurisdiction, first time`}
-              body={`${city.name} applications go to ${city.nearestConsulate}. We file at the correct centre, not the convenient one, so your file is not rejected on jurisdiction.`}
+              body={`Each country decides ${city.name} files differently (US visas go to the ${city.nearestConsulate}). We file with the correct mission, not the convenient one, so your file is not rejected on jurisdiction.`}
             />
             <WhyCard
               title={`Remote-first`}

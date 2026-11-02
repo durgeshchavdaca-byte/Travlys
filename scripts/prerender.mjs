@@ -41,6 +41,7 @@ import {
   getCityHubMeta,
   getCityVisaFaqs,
   getCityHubFaqs,
+  getVisaRoute,
 } from '../src/seo/config.js'
 import {
   ABOUT_META,
@@ -489,13 +490,14 @@ ${d.relatedDestinations?.length ? `<section><h2>Related visas</h2><ul>${d.relate
 }
 
 function cityVisaBody(d, c) {
+  const route = getVisaRoute(d, c)
   return `${crumbs([['Home', '/'], [`${d.name} visa`, `/visa/${d.slug}`], [`From ${c.name}`]])}
 <h1>${escapeHtml(d.name)} visa from ${escapeHtml(c.name)}</h1>
-<p>Travlys files ${escapeHtml(d.name)} visas for ${escapeHtml(c.name)} (${escapeHtml(c.state)}) applicants end to end. VFS at ${escapeHtml(c.vfsCenter)}, jurisdiction handled by ${escapeHtml(c.nearestConsulate)}.</p>
+<p>Travlys files ${escapeHtml(d.name)} visas for ${escapeHtml(c.name)} (${escapeHtml(c.state)}) applicants end to end. Decided by ${escapeHtml(route.decidedBy)}. ${route.inPerson ? `In person: ${escapeHtml(route.inPerson)}.` : 'No visa centre visit is needed.'}</p>
 <section><h2>${escapeHtml(d.name)} visa from ${escapeHtml(c.name)} at a glance</h2>
 <dl>
-<dt>VFS centre</dt><dd>${escapeHtml(c.vfsCenter)}</dd>
-<dt>Jurisdiction</dt><dd>${escapeHtml(c.nearestConsulate)}</dd>
+<dt>Visa centre</dt><dd>${escapeHtml(route.centre)}</dd>
+<dt>Decided by</dt><dd>${escapeHtml(route.decidedBy)}</dd>
 <dt>Nearest airport</dt><dd>${escapeHtml(c.travelHub)}</dd>
 <dt>Processing time</dt><dd>${escapeHtml(d.processingTime)}</dd>
 <dt>Validity</dt><dd>${escapeHtml(d.validity)}</dd>
@@ -514,10 +516,10 @@ ${faqList(getCityVisaFaqs(d, c), `${d.name} visa from ${c.name}, answered`)}
 function cityHubBody(c) {
   return `${crumbs([['Home', '/'], [`Visa from ${c.name}`]])}
 <h1>Visa consultant in ${escapeHtml(c.name)}: visa agents for US, UK, Canada and Schengen</h1>
-<p>Travlys files US, UK, Canada, Schengen, Singapore, UAE and more visas for applicants in ${escapeHtml(c.name)}, ${escapeHtml(c.state)}. VFS biometrics at ${escapeHtml(c.vfsCenter)}; jurisdiction handled by ${escapeHtml(c.nearestConsulate)}. Everything except biometrics and any interview is handled remotely on WhatsApp and email.</p>
+<p>Travlys files US, UK, Canada, Schengen, Singapore, UAE and more visas for applicants in ${escapeHtml(c.name)}, ${escapeHtml(c.state)}. Visa application centres for ${escapeHtml(c.name)} are around ${escapeHtml(c.vfsCenter)}; US visas fall under the ${escapeHtml(c.nearestConsulate)}. Everything except biometrics and any interview is handled remotely on WhatsApp and email.</p>
 <dl>
-<dt>VFS centre</dt><dd>${escapeHtml(c.vfsCenter)}</dd>
-<dt>Jurisdiction</dt><dd>${escapeHtml(c.nearestConsulate)}</dd>
+<dt>Visa centres (VFS area)</dt><dd>${escapeHtml(c.vfsCenter)}</dd>
+<dt>US visa jurisdiction</dt><dd>${escapeHtml(c.nearestConsulate)}</dd>
 <dt>Travel hub</dt><dd>${escapeHtml(c.travelHub)}</dd>
 </dl>
 <p>${escapeHtml(c.visaProfile)}.</p>
@@ -872,7 +874,7 @@ function buildLlmsTxt() {
     '## Visa help by city',
     '',
     ...CITIES.map(
-      (c) => `- [Visa consultants in ${c.name}](${pageUrl(`/from/${c.slug}`)}): ${c.state}; VFS at ${c.vfsCenter}; jurisdiction ${c.nearestConsulate}`,
+      (c) => `- [Visa consultants in ${c.name}](${pageUrl(`/from/${c.slug}`)}): ${c.state}; visa centres around ${c.vfsCenter}; US visas: ${c.nearestConsulate}`,
     ),
     '',
     '## Company',

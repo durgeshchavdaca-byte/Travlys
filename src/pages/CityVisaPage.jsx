@@ -24,7 +24,7 @@ import { CITIES, getCity } from '../data/cities'
 import SEO from '../components/SEO'
 import InquiryForm from '../components/InquiryForm'
 import Flag from '../components/Flag'
-import { buildCityVisaSchemas, getCityVisaMeta, getCityVisaFaqs } from '../seo/config'
+import { buildCityVisaSchemas, getCityVisaMeta, getCityVisaFaqs, getVisaRoute } from '../seo/config'
 
 const BUILD_DATE = new Date().toISOString().slice(0, 10)
 function prettyDate(iso) {
@@ -85,6 +85,7 @@ export default function CityVisaPage() {
 
   const cost = getCostBreakdown(dest)
   const meta = getCityVisaMeta(dest, city)
+  const route = getVisaRoute(dest, city)
   const schemas = buildCityVisaSchemas(dest, city)
   const otherCities = CITIES.filter((c) => c.slug !== city.slug).slice(0, 11)
 
@@ -139,9 +140,8 @@ export default function CityVisaPage() {
               </h1>
               <p className="text-white/80 mt-5 text-[1.05rem] max-w-2xl leading-relaxed">
                 Travlys files {dest.name} visas for {city.name} ({city.state}) applicants end-to-end.
-                VFS at <strong className="font-semibold">{city.vfsCenter}</strong>, jurisdiction handled by{' '}
-                <strong className="font-semibold">{city.nearestConsulate}</strong>.
-                {city.isHQ ? ' Walk in to our Ahmedabad office or message us on WhatsApp.' : ' Everything is handled remotely over WhatsApp + email; the only in-person step is biometrics and the interview at the consulate (if your category needs one).'}
+                Decided by <strong className="font-semibold">{route.decidedBy.replace(/^the /, '')}</strong>.
+                {city.isHQ ? ' Walk in to our Ahmedabad office or message us on WhatsApp.' : route.inPerson ? ` Everything is handled remotely over WhatsApp + email; the only in-person step is ${route.inPerson}.` : ' Everything is handled remotely over WhatsApp + email, with no visa centre visit.'}
               </p>
               <div className="mt-7 flex flex-wrap gap-3">
                 <a href="https://wa.me/918200918967" className="btn btn-coral">
@@ -173,7 +173,7 @@ export default function CityVisaPage() {
                 <div className="grid grid-cols-2 gap-4 mt-6">
                   <SnapshotItem icon={Clock3} label="Processing" value={dest.processingTime} />
                   <SnapshotItem icon={CalendarRange} label="Validity" value={dest.validity} />
-                  <SnapshotItem icon={MapPin} label="VFS Centre" value={city.vfsCenter} />
+                  <SnapshotItem icon={MapPin} label="Visa centre" value={route.centre} />
                   <SnapshotItem icon={Repeat2} label="Stay" value={dest.stayDuration} />
                 </div>
 
@@ -211,11 +211,11 @@ export default function CityVisaPage() {
                     <Building2 className="w-4 h-4 text-coral-500" />
                   </span>
                   <div>
-                    <p className="font-semibold text-ink-900">VFS / VAC centre</p>
+                    <p className="font-semibold text-ink-900">Visa centre</p>
                     <p className="text-sm text-slate-muted mt-1 leading-relaxed">
-                      Biometrics and document submission happen at {city.vfsCenter}. We book
-                      the earliest available appointment slot inside {city.name}'s allocated
-                      window so you do not lose travel dates to a queue.
+                      {route.inPerson
+                        ? `In person: ${route.inPerson}. We book the earliest slot at the centre that serves ${city.name} so you do not lose travel dates to a queue.`
+                        : `No visa centre visit for ${dest.name}: the application is filed online and we send you the result.`}
                     </p>
                   </div>
                 </li>
@@ -225,13 +225,11 @@ export default function CityVisaPage() {
                     <ShieldCheck className="w-4 h-4 text-coral-500" />
                   </span>
                   <div>
-                    <p className="font-semibold text-ink-900">Jurisdiction</p>
+                    <p className="font-semibold text-ink-900">Who decides</p>
                     <p className="text-sm text-slate-muted mt-1 leading-relaxed">
-                      Applicants from {city.name} (and the wider {city.state} region) fall
-                      under the {city.nearestConsulate}. If your visa category needs an
-                      in-person interview, that's the centre you travel to. We tell you well
-                      in advance so flights and stay can be planned, and we coordinate
-                      the appointment date with your work schedule.
+                      {dest.name} visas for applicants from {city.name} ({city.state}) are
+                      decided by {route.decidedBy}. We tell you well in advance about any
+                      in-person step so flights and leave can be planned around it.
                     </p>
                   </div>
                 </li>

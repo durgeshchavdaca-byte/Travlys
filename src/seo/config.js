@@ -462,7 +462,7 @@ export function getCityVisaMeta(dest, city) {
     title: `${dest.name} Visa from ${city.name}: Apply with Travlys (${city.state})`,
     description:
       `Apply for a ${dest.name} visa from ${city.name}, ${city.state} with Travlys. ` +
-      `${dest.processingTime} processing, VFS at ${city.vfsCenter}, jurisdiction: ${city.nearestConsulate}. ` +
+      `${dest.processingTime} processing, decided by ${getVisaRoute(dest, city).decidedBy.replace(/^the /, '').split(',')[0]}. ` +
       `Service from ${dest.price}. 98% approval rate across 5,000+ Indian visas.`,
     path: pagePath,
     keywords: [
@@ -485,19 +485,84 @@ export function getCityVisaMeta(dest, city) {
 
 // Questions shown on each city x country page; the page renders the same list
 // its FAQPage schema describes.
+// Who decides each destination's visa and what, if anything, an applicant
+// does in person. City data only knows the US consulate for each city, so
+// every other country needs its own answer here.
+const VISA_ROUTES = {
+  'usa-visa': (city) => ({
+    decidedBy: `the ${city.nearestConsulate}`,
+    inPerson: 'biometrics at a US Visa Application Centre and, unless you qualify for the interview waiver, the interview at the consulate',
+    centre: 'US Visa Application Centre',
+  }),
+  'uk-visa': {
+    decidedBy: 'UK Visas and Immigration (UKVI), which decides files centrally rather than at a local consulate',
+    inPerson: 'biometrics at a VFS Global UK visa application centre',
+    centre: 'VFS Global UK visa centre',
+  },
+  'canada-visa': {
+    decidedBy: 'Immigration, Refugees and Citizenship Canada (IRCC), online',
+    inPerson: 'biometrics at a VFS Global Canada visa application centre (once given, they stay valid for 10 years)',
+    centre: 'VFS Global Canada visa centre',
+  },
+  'australia-visa': {
+    decidedBy: 'the Australian Department of Home Affairs, online through ImmiAccount',
+    inPerson: 'biometrics at an Australian visa application centre, only if Home Affairs asks for them',
+    centre: 'Only if biometrics are requested',
+  },
+  'netherlands-visa': {
+    decidedBy: 'the Embassy of the Netherlands in New Delhi or a Netherlands Consulate-General, depending on the state you live in',
+    inPerson: 'biometrics at a VFS Global Netherlands visa application centre, unless you gave Schengen fingerprints in the last 59 months',
+    centre: 'VFS Global Netherlands centre',
+  },
+  'singapore-visa': {
+    decidedBy: 'ICA Singapore, through an authorised visa agent of the Singapore High Commission or a Consulate in India',
+    inPerson: null,
+    centre: 'None, filed online',
+  },
+  'uae-visa': {
+    decidedBy: 'UAE immigration (ICP / GDRFA), online',
+    inPerson: null,
+    centre: 'None, e-Visa online',
+  },
+  'thailand-visa': {
+    decidedBy: 'the Royal Thai Embassy in New Delhi or a Royal Thai Consulate-General, through the official e-Visa portal',
+    inPerson: null,
+    centre: 'Usually none, e-Visa online',
+  },
+  'new-zealand-visa': {
+    decidedBy: 'Immigration New Zealand, online',
+    inPerson: null,
+    centre: 'None, applied online',
+  },
+  'malaysia-visa': {
+    decidedBy: 'Malaysian immigration at arrival: Indians are visa-free until 31 December 2026 and only file the free MDAC arrival card',
+    inPerson: null,
+    centre: 'None, visa-free',
+  },
+}
+
+export function getVisaRoute(dest, city) {
+  const r = VISA_ROUTES[dest.slug]
+  if (typeof r === 'function') return r(city)
+  return r || { decidedBy: `the ${dest.name} immigration authorities`, inPerson: null, centre: 'Ask Travlys' }
+}
+
 export function getCityVisaFaqs(dest, city) {
+  const route = getVisaRoute(dest, city)
   return [
     {
-      q: `Where do I submit biometrics for a ${dest.name} visa from ${city.name}?`,
-      a: `For a ${dest.name} visa from ${city.name}, biometrics are taken at the VFS centre in ${city.vfsCenter}. Travlys books the earliest available slot and prepares your full file before the appointment.`,
+      q: `Do I need to visit a visa centre in ${city.name} for a ${dest.name} visa?`,
+      a: route.inPerson
+        ? `Yes, for ${route.inPerson}. Travlys books the earliest slot at the centre that serves ${city.name} applicants and confirms the exact address on your appointment letter.`
+        : `No. ${city.name} applicants do not need to visit a visa centre for ${dest.name}; Travlys files everything remotely and sends you the result.`,
     },
     {
-      q: `Which embassy or consulate handles ${dest.name} visa applications from ${city.name}?`,
-      a: `Applicants from ${city.name} (${city.state}) fall under the jurisdiction of the ${city.nearestConsulate} for ${dest.name} visa processing.`,
+      q: `Who decides a ${dest.name} visa for applicants from ${city.name}?`,
+      a: `${dest.name} visas for ${city.name} (${city.state}) applicants are decided by ${route.decidedBy}.`,
     },
     {
-      q: `Can I apply for a ${dest.name} visa from ${city.name} without travelling to ${city.nearestConsulate.includes('Embassy') ? 'New Delhi' : 'the consulate city'}?`,
-      a: `Most of the application is online or at your local VFS in ${city.name}. You only travel to the consulate or embassy on the interview day. Travlys handles document prep, form filing and appointment booking remotely.`,
+      q: `Can Travlys handle my ${dest.name} visa from ${city.name} remotely?`,
+      a: `Yes. The brief, document check, form filling and appointment booking all happen on WhatsApp and email.${route.inPerson ? ` The only in-person step is ${route.inPerson}.` : ' There is no in-person step.'}`,
     },
     {
       q: `How much does a ${dest.name} visa cost from ${city.name}?`,
@@ -626,7 +691,7 @@ export function getCityHubFaqs(city) {
     },
     {
       q: `Where is the VFS centre for ${city.name} applicants?`,
-      a: `${city.name} applicants give biometrics at the VFS centre at ${city.vfsCenter}. Embassy jurisdiction: ${city.nearestConsulate}. Travlys books the slot and tells you exactly what to carry.`,
+      a: `Countries that take biometrics (UK, Canada, Schengen and the US) use visa application centres run mostly by VFS Global; ${city.name} applicants are served around ${city.vfsCenter}, and the exact centre depends on the country. For US visas, ${city.name} falls under the ${city.nearestConsulate}. e-Visa countries such as Singapore, Dubai and Thailand need no centre visit. Travlys books the slot and tells you exactly what to carry.`,
     },
     {
       q: `Do I need to visit an office in ${city.name} to apply?`,
