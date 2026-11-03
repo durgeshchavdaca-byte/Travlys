@@ -30,7 +30,7 @@ export const BIZ = {
   email: 'info@travlys.com',
   whatsapp: 'https://wa.me/918200918967',
   url: `${SITE_URL}/`,
-  logo: `${SITE_URL}/favicon.svg`,
+  logo: `${SITE_URL}/travlys-logo.png`,
   address: {
     streetAddress: '605, Shivalik Shilp II, Near Hotel ITC Narmada, Keshav Baug',
     addressLocality: 'Ahmedabad',
