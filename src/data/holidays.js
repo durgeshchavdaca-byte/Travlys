@@ -1,7 +1,7 @@
 // Holiday packages Travlys plans. The two featured itineraries come from
 // real Travlys proposals (Bali TRV-BL-261023, Sri Lanka TRV-LK-261208); the
-// other destinations are quoted to order. Prices are land packages per
-// person on twin sharing; GST and TCS are extra, as applicable.
+// other destinations are quoted to order. Prices are not published: every
+// package is quoted for the traveller's dates and group, GST and TCS extra.
 
 export const HOLIDAYS_UPDATED = '2026-11-03'
 
@@ -12,10 +12,7 @@ export const FEATURED_PACKAGES = [
     name: 'Bali & Nusa Penida with a private pool villa',
     nights: 5,
     days: 6,
-    price: 'From ₹40,400',
-    priceValue: 40400,
-    currency: 'INR',
-    priceNote: 'per person, 2-3 travellers sharing; rates for travel until June 2027',
+    priceNote: 'Quoted for your dates, group size and choice of three hotel options',
     image: 'https://images.unsplash.com/photo-1604999333679-b86d54738315?w=1200&h=800&fit=crop',
     stays: ['Kuta, 3 nights (beach hotel)', 'Ubud, 2 nights (private pool villa)'],
     highlights: [
@@ -33,10 +30,7 @@ export const FEATURED_PACKAGES = [
     name: 'Sri Lanka island tour: hills, tea country and the coast',
     nights: 7,
     days: 8,
-    price: 'From USD 795',
-    priceValue: 795,
-    currency: 'USD',
-    priceNote: 'per person, twin sharing; paid in INR at the day’s exchange rate',
+    priceNote: 'Quoted for your dates, group size and hotel category',
     image: 'https://images.unsplash.com/photo-1544015759-237f87d55ef3?w=1200&h=800&fit=crop',
     stays: ['Kandy, 2 nights', 'Nuwara Eliya, 2 nights', 'Bentota, 2 nights', 'Colombo, 1 night'],
     highlights: [
@@ -63,7 +57,11 @@ export const MORE_DESTINATIONS = [
 export const HOLIDAY_FAQS = [
   {
     q: 'Do Travlys holiday packages include flights?',
-    a: 'The prices shown are land packages: hotels, private transfers, sightseeing and the meals listed. Flights from your city can be added to the same quote, and we compare fares before booking.',
+    a: 'The itineraries are land packages: hotels, private transfers, sightseeing and the meals listed. Flights from your city can be added to the same quote, and we compare fares before booking.',
+  },
+  {
+    q: 'How much does a Travlys holiday package cost?',
+    a: 'Every package is priced for your travel dates, number of travellers and hotel category, so we quote rather than list one fixed price. Send your dates on WhatsApp and you get a day-by-day itinerary with the full cost, usually the same working day.',
   },
   {
     q: 'Are GST and TCS included in the package price?',

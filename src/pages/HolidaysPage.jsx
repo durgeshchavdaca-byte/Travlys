@@ -22,7 +22,7 @@ function FeaturedPackage({ p, flip }) {
           <p className="text-[0.7rem] uppercase tracking-[0.18em] font-semibold text-coral-600 m-0">{p.place}</p>
           <h3 className="font-display text-2xl md:text-3xl font-extrabold text-ink-900 mt-1 leading-tight">{p.name}</h3>
           <p className="mt-3 m-0">
-            <span className="font-display text-3xl font-extrabold text-ink-900">{p.price}</span>{' '}
+            <span className="font-display text-2xl font-extrabold text-ink-900">Price on request</span>{' '}
             <span className="text-sm text-slate-muted">{p.priceNote}. GST &amp; TCS extra.</span>
           </p>
           <div className="mt-5 grid sm:grid-cols-2 gap-6">

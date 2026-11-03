@@ -365,9 +365,9 @@ ${faqList(VISA_FEES_FAQS, 'About this table')}`
 function holidaysBody() {
   return `${crumbs([['Home', '/'], ['Holiday packages']])}
 <h1>Holiday packages from India, visa included</h1>
-<p>Tailor-made holiday packages by Travlys, a visa consultancy in Ahmedabad: hotels, private transfers and sightseeing in one day-by-day plan, with the visa, e-Visa or arrival card handled by the same team. Prices are land packages per person; GST and TCS extra, as applicable. Updated ${HOLIDAYS_UPDATED}.</p>
+<p>Tailor-made holiday packages by Travlys, a visa consultancy in Ahmedabad: hotels, private transfers and sightseeing in one day-by-day plan, with the visa, e-Visa or arrival card handled by the same team. Each package is quoted for your dates and group; GST and TCS extra, as applicable. Updated ${HOLIDAYS_UPDATED}.</p>
 ${FEATURED_PACKAGES.map((p) => `<section id="${p.slug}"><h2>${escapeHtml(p.place)} ${p.nights} nights / ${p.days} days: ${escapeHtml(p.name)}</h2>
-<p><strong>${escapeHtml(p.price)}</strong> ${escapeHtml(p.priceNote)}.</p>
+<p><strong>Price on request.</strong> ${escapeHtml(p.priceNote)}.</p>
 <h3>Where you stay</h3>${list(p.stays)}
 <h3>Highlights</h3>${list(p.highlights)}
 <h3>Included</h3>${list(p.includes)}

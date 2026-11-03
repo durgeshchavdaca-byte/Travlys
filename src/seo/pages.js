@@ -695,9 +695,9 @@ export { COUNTRIES as CHECKER_COUNTRIES, CHECKER_UPDATED, STATUS_LABEL }
 // from india" and similar searches with buying intent.
 
 export const HOLIDAYS_META = {
-  title: 'Holiday Packages from India 2026: Bali from ₹40,400, Sri Lanka | Travlys',
+  title: 'Holiday Packages from India 2026: Bali, Sri Lanka, Thailand | Travlys',
   description:
-    'Tailor-made holiday packages from India by Travlys, Ahmedabad: Bali 5N/6D from ₹40,400 and Sri Lanka 7N/8D from USD 795 per person, plus Thailand, Dubai and Singapore, with the visa handled.',
+    'Tailor-made holiday packages from India by Travlys, Ahmedabad: Bali 5N/6D, Sri Lanka 7N/8D, Thailand, Dubai and Singapore, quoted for your dates with the visa handled. Free quote on WhatsApp.',
   path: '/holidays',
   keywords:
     'holiday packages from india, bali package from india, bali package from ahmedabad, sri lanka tour package from india, sri lanka package from ahmedabad, international tour packages from ahmedabad, thailand package from india, dubai package from ahmedabad, travel agent ahmedabad',
@@ -722,14 +722,6 @@ export function buildHolidaysSchemas() {
       touristType: 'Indian travellers',
       itinerary: { '@type': 'ItemList', itemListElement: p.stays.map((st, i) => ({ '@type': 'ListItem', position: i + 1, name: st })) },
       provider: ORG,
-      offers: {
-        '@type': 'Offer',
-        price: String(p.priceValue),
-        priceCurrency: p.currency,
-        description: `${p.price} ${p.priceNote}. GST and TCS extra, as applicable.`,
-        url: `${url}#${p.slug}`,
-        availability: 'https://schema.org/InStock',
-      },
     })),
     faqSchema(HOLIDAY_FAQS),
     crumbs({ name: 'Holiday packages', url }),
