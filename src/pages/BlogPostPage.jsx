@@ -91,6 +91,62 @@ function midArticleIndex(body) {
   return i === -1 ? body.length : i
 }
 
+// Guides about visa-free or easy-visa trips. Their readers rarely need a
+// visa service, so they are offered a holiday package quote instead.
+const HOLIDAY_POSTS = {
+  'bali-visa-on-arrival-for-indians-2026': 'Bali',
+  'sri-lanka-eta-for-indians-2026': 'Sri Lanka',
+  'thailand-visa-free-for-indians-2026': 'Thailand',
+  'malaysia-visa-free-for-indians-2026': 'Malaysia',
+  'philippines-visa-free-for-indians-2026': 'the Philippines',
+  'vietnam-e-visa-for-indians-2026': 'Vietnam',
+  'uae-visa-on-arrival-for-indians-2026': 'Dubai',
+  'georgia-visa-for-indians-2026': 'Georgia',
+  'new-year-international-trips-from-india-easy-visa': 'a New Year trip abroad',
+  'visa-free-countries-for-indians-2026': 'a visa-free trip',
+}
+
+function HolidayCta({ post, place, variant = 'mid' }) {
+  const text =
+    `Hi Travlys, I read "${post.title}" on your website. I am planning ${place.startsWith('a ') ? place : `a trip to ${place}`}.\n\n` +
+    'Travel month:\nNumber of travellers:\nDeparture city:\nBudget per person:\n\nPlease send me a holiday package quote.'
+  const href = `https://wa.me/918200918967?text=${encodeURIComponent(text)}`
+  const title = place.startsWith('a ') ? `Planning ${place}?` : `Planning a ${place} trip?`
+  if (variant === 'end') {
+    return (
+      <div className="card p-6 md:p-7 mt-12 bg-sand-50">
+        <p className="text-xs uppercase tracking-widest text-coral-500 font-semibold">Holiday packages</p>
+        <h3 className="font-display text-2xl font-extrabold text-ink-900 mt-1">{title} Get one quote for everything.</h3>
+        <ul className="mt-3 grid sm:grid-cols-2 gap-x-6 gap-y-1.5 text-sm text-slate-text list-none p-0">
+          {['Flights from your city', 'Hand-picked hotels', 'Airport transfers and sightseeing', 'Visa, arrival card and insurance sorted'].map((t) => (
+            <li key={t} className="flex items-center gap-2">
+              <span className="w-1.5 h-1.5 rounded-full bg-coral-500 shrink-0" /> {t}
+            </li>
+          ))}
+        </ul>
+        <a href={href} className="btn btn-coral mt-5 no-underline inline-flex items-center gap-2">
+          <MessageCircle className="w-4 h-4" /> Get my free package quote
+        </a>
+        <p className="text-xs text-slate-faint mt-3 mb-0">A Travlys travel specialist replies on WhatsApp, usually within the hour on working days.</p>
+      </div>
+    )
+  }
+  return (
+    <div className="my-10 rounded-2xl bg-ink-950 text-white p-6 md:p-7 flex flex-col md:flex-row md:items-center gap-5 justify-between">
+      <div>
+        <p className="text-[0.7rem] uppercase tracking-[0.18em] font-semibold text-coral-400 m-0">Free holiday quote</p>
+        <p className="font-display text-xl font-extrabold mt-1.5 mb-0 leading-snug">{title}</p>
+        <p className="text-sm text-white/70 mt-1.5 mb-0">
+          Flights, hotels, transfers and sightseeing in one quote, with the visa or arrival card handled. Tell us your dates on WhatsApp.
+        </p>
+      </div>
+      <a href={href} className="btn btn-coral shrink-0 no-underline inline-flex items-center gap-2">
+        <MessageCircle className="w-4 h-4" /> Get a package quote
+      </a>
+    </div>
+  )
+}
+
 // Mid-article enquiry prompt. The WhatsApp message is prefilled with the
 // article title so each lead shows which guide it came from.
 function MidArticleCta({ post, dest }) {
@@ -146,6 +202,7 @@ export default function BlogPostPage() {
     .map((s) => BLOG_POSTS.find((p) => p.slug === s))
     .filter(Boolean)
   const ctaDest = post.cta?.slug ? destinations.find((d) => d.slug === post.cta.slug) : null
+  const holidayPlace = HOLIDAY_POSTS[post.slug]
   const midSplit = midArticleIndex(post.body)
 
   return (
@@ -200,11 +257,17 @@ export default function BlogPostPage() {
         <div className="container-app">
           <article className="max-w-3xl mx-auto">
             <PostBody body={post.body.slice(0, midSplit)} />
-            <MidArticleCta post={post} dest={ctaDest} />
+            {holidayPlace ? (
+              <HolidayCta post={post} place={holidayPlace} />
+            ) : (
+              <MidArticleCta post={post} dest={ctaDest} />
+            )}
             <PostBody body={post.body.slice(midSplit)} />
 
+            {holidayPlace && <HolidayCta post={post} place={holidayPlace} variant="end" />}
+
             {/* Inline CTA */}
-            {ctaDest && (
+            {ctaDest && !holidayPlace && (
               <div className="card p-6 mt-12 bg-sand-50">
                 <p className="text-xs uppercase tracking-widest text-coral-500 font-semibold">Apply with Travlys</p>
                 <h3 className="font-display text-xl font-extrabold text-ink-900 mt-1">
