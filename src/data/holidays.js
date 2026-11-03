@@ -5,7 +5,7 @@
 
 export const HOLIDAYS_UPDATED = '2026-11-03'
 
-export const FEATURED_PACKAGES = [
+const PROPOSAL_PACKAGES = [
   {
     slug: 'bali-tour-package',
     place: 'Bali',
@@ -46,11 +46,8 @@ export const FEATURED_PACKAGES = [
 
 // Quoted to order: no fixed price yet, so the card asks for dates instead.
 export const MORE_DESTINATIONS = [
-  { place: 'Thailand', idea: 'Bangkok, Pattaya, Phuket or Krabi', image: '/media/destinations/thailand-visa-sm.jpg', visa: { label: '30 days visa-free', href: '/blog/thailand-visa-free-for-indians-2026/' } },
-  { place: 'Dubai', idea: 'City, desert safari and Abu Dhabi', image: '/media/destinations/uae-visa-sm.jpg', visa: { label: 'e-Visa in 2-4 days', href: '/visa/uae-visa/' } },
   { place: 'Singapore', idea: 'Sentosa, Gardens by the Bay, Universal', image: '/media/destinations/singapore-visa-sm.jpg', visa: { label: 'Visa in 3-5 working days', href: '/visa/singapore-visa/' } },
   { place: 'Malaysia', idea: 'Kuala Lumpur, Genting and Langkawi', image: '/media/destinations/malaysia-visa-sm.jpg', visa: { label: 'Visa-free to 31 Dec 2026', href: '/blog/malaysia-visa-free-for-indians-2026/' } },
-  { place: 'Vietnam', idea: 'Hanoi, Ha Long Bay, Da Nang', image: 'https://images.unsplash.com/photo-1528127269322-539801943592?w=900&h=600&fit=crop', visa: { label: 'e-Visa', href: '/blog/vietnam-e-visa-for-indians-2026/' } },
   { place: 'Maldives', idea: 'Resort stays with transfers', image: 'https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=900&h=600&fit=crop', visa: { label: 'Visa on arrival', href: '/blog/maldives-visa-on-arrival-for-indians-2026/' } },
 ]
 
@@ -92,7 +89,7 @@ export function packageWhatsApp(place, extra = '') {
 // day-by-day plan, hotel options, inclusions, timing and tips. The first
 // paragraph of each is written to be quoted directly by search engines and
 // AI assistants.
-export const PACKAGE_DETAILS = {
+const PROPOSAL_DETAILS = {
   'bali-tour-package': {
     metaTitle: 'Bali Tour Package from India: 5N/6D Itinerary with Pool Villa | Travlys',
     metaDescription:
@@ -218,3 +215,321 @@ export const PACKAGE_DETAILS = {
     ],
   },
 }
+
+// Trending winter destinations for Indian travellers (Cox & Kings, Ixigo and
+// Agoda 2025-26 reports): Dubai, Vietnam, Thailand, Almaty and Georgia.
+// Sample itineraries, tailored and quoted per traveller.
+const TRENDING_PACKAGES = [
+  {
+    slug: 'dubai-tour-package',
+    place: 'Dubai',
+    name: 'Dubai with Burj Khalifa, desert safari and Abu Dhabi',
+    nights: 4,
+    days: 5,
+    sample: true,
+    priceNote: 'Quoted for your dates, group size and hotel category',
+    image: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200&h=800&fit=crop',
+    stays: ['Dubai, 4 nights (3-star to 5-star, your choice)'],
+    highlights: [
+      'Burj Khalifa At the Top and the Dubai Mall fountain show',
+      'Desert safari with dune bashing, camel ride and BBQ dinner',
+      'Dhow cruise dinner along Dubai Marina',
+      'Abu Dhabi day trip: Sheikh Zayed Grand Mosque and the BAPS Hindu Mandir',
+    ],
+    includes: ['Daily breakfast', 'Return airport transfers', 'Tours and tickets as listed', 'Dubai visa filed by Travlys'],
+    visa: { label: 'Dubai e-Visa, filed by Travlys', href: '/visa/uae-visa/' },
+  },
+  {
+    slug: 'vietnam-tour-package',
+    place: 'Vietnam',
+    name: 'Vietnam: Hanoi, a Ha Long Bay cruise and Da Nang',
+    nights: 6,
+    days: 7,
+    sample: true,
+    priceNote: 'Quoted for your dates, group size and hotel category',
+    image: 'https://images.unsplash.com/photo-1528127269322-539801943592?w=1200&h=800&fit=crop',
+    stays: ['Hanoi, 2 nights', 'Ha Long Bay, 1 night on a cruise', 'Da Nang, 3 nights'],
+    highlights: [
+      'Overnight cruise among the limestone islands of Ha Long Bay',
+      'Ba Na Hills and the Golden Bridge held up by giant stone hands',
+      'Hoi An Ancient Town lit by lanterns in the evening',
+      'Hanoi Old Quarter, Hoan Kiem Lake and the Temple of Literature',
+    ],
+    includes: ['Daily breakfast, plus meals on the cruise', 'Airport and intercity transfers', 'Sightseeing as listed', 'e-Visa guidance'],
+    visa: { label: 'Vietnam e-visa, USD 25 single entry', href: '/blog/vietnam-e-visa-for-indians-2026/' },
+  },
+  {
+    slug: 'thailand-tour-package',
+    place: 'Thailand',
+    name: 'Thailand: Bangkok and Pattaya',
+    nights: 4,
+    days: 5,
+    sample: true,
+    priceNote: 'Quoted for your dates, group size and hotel category',
+    image: 'https://images.unsplash.com/photo-1528181304800-259b08848526?w=1200&h=800&fit=crop',
+    stays: ['Pattaya, 2 nights', 'Bangkok, 2 nights'],
+    highlights: [
+      'Coral Island (Koh Larn) by speedboat, with lunch',
+      'Bangkok temples: the Golden Buddha and the Reclining Buddha',
+      'Safari World and Marine Park, with lunch',
+      'The Alcazar cabaret show in Pattaya',
+    ],
+    includes: ['Daily breakfast, plus 2 lunches', 'Airport and Pattaya-Bangkok transfers', 'Tours and tickets as listed', 'TDAC arrival card help'],
+    visa: { label: '30 days visa-free for Indians', href: '/blog/thailand-visa-free-for-indians-2026/' },
+  },
+  {
+    slug: 'almaty-kazakhstan-tour-package',
+    place: 'Almaty',
+    name: 'Almaty, Kazakhstan: mountains, snow and the Charyn Canyon',
+    nights: 4,
+    days: 5,
+    sample: true,
+    priceNote: 'Quoted for your dates, group size and hotel category',
+    image: 'https://images.unsplash.com/photo-1572940734104-684309ed7ac9?w=1200&h=800&fit=crop',
+    stays: ['Almaty, 4 nights'],
+    highlights: [
+      'Kok Tobe hill by cable car, with views over the city',
+      'Medeu ice rink and the Shymbulak mountain resort by gondola',
+      'Day trip to the Charyn Canyon',
+      'Big Almaty Lake in the mountains (May to October)',
+    ],
+    includes: ['Daily breakfast', 'Return airport transfers', 'Tours by private car with a driver', 'Sightseeing as listed'],
+    visa: { label: '14 days visa-free for Indians', href: '/blog/kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians/' },
+  },
+  {
+    slug: 'georgia-tour-package',
+    place: 'Georgia',
+    name: 'Georgia: Tbilisi, Kazbegi and the Kakheti wine country',
+    nights: 4,
+    days: 5,
+    sample: true,
+    priceNote: 'Quoted for your dates, group size and hotel category',
+    image: 'https://images.unsplash.com/photo-1565008576549-57569a49371d?w=1200&h=800&fit=crop',
+    stays: ['Tbilisi, 4 nights'],
+    highlights: [
+      'Tbilisi Old Town, the Narikala fortress cable car and the Bridge of Peace',
+      'Georgian Military Road to Kazbegi and the Gergeti Trinity Church',
+      'Mtskheta, the old capital, and the Ananuri fortress',
+      'Sighnaghi and the Kakheti wine region',
+    ],
+    includes: ['Daily breakfast', 'Return airport transfers', 'Tours by private car with a driver', 'e-Visa and insurance guidance'],
+    visa: { label: 'e-Visa, or visa-free with a US, UK or Schengen visa', href: '/blog/georgia-visa-for-indians-2026/' },
+  },
+]
+
+const SAMPLE_NOTE = 'This is a sample itinerary: we tailor the order, nights and hotels to your dates.'
+
+const TRENDING_DETAILS = {
+  'dubai-tour-package': {
+    metaTitle: 'Dubai Tour Package from India: 4N/5D with Desert Safari | Travlys',
+    metaDescription:
+      'Dubai tour package from India by Travlys: 4 nights with Burj Khalifa, desert safari, dhow cruise and an Abu Dhabi day trip with the BAPS Mandir. Dubai visa filed by Travlys. Free quote.',
+    keywords: 'dubai tour package from india, dubai package from ahmedabad, dubai 4 nights 5 days itinerary, dubai family package, dubai honeymoon package, abu dhabi day trip from dubai',
+    intro:
+      'The Travlys Dubai tour package is a 4-night, 5-day trip for Indian travellers with the Dubai visa filed by Travlys: a city tour with Burj Khalifa At the Top and the Dubai Mall fountain show, a desert safari with dune bashing and BBQ dinner, a dhow cruise dinner on Dubai Marina, and a day trip to Abu Dhabi for the Sheikh Zayed Grand Mosque and the BAPS Hindu Mandir. Hotels from 3-star to 5-star are quoted for your dates. ' + SAMPLE_NOTE,
+    glance: [
+      ['Duration', '4 nights, 5 days'],
+      ['Stays', 'Dubai, 4 nights'],
+      ['Meals', 'Daily breakfast, plus dinners on the safari and the dhow cruise'],
+      ['Transport', 'Airport transfers and tours, shared or private'],
+      ['Best time', 'November to March, the cooler months'],
+      ['Visa', 'Dubai e-Visa (14 or 30 days), filed by Travlys'],
+    ],
+    itinerary: [
+      { title: 'Arrival and a dhow cruise dinner', text: 'Arrive in Dubai and transfer to your hotel. In the evening, a dhow cruise along Dubai Marina with a buffet dinner.', overnight: 'Dubai' },
+      { title: 'Dubai city tour and Burj Khalifa', text: 'A half-day city tour with photo stops at Jumeirah Mosque, the Burj Al Arab and Atlantis The Palm, then the old souks by abra. In the evening, Burj Khalifa At the Top and the Dubai Mall fountain show.', overnight: 'Dubai' },
+      { title: 'Desert safari', text: 'A free morning, then an afternoon desert safari: dune bashing, a camel ride, sandboarding and a BBQ dinner with live shows at a desert camp.', overnight: 'Dubai' },
+      { title: 'Abu Dhabi day trip', text: 'Drive to Abu Dhabi for the Sheikh Zayed Grand Mosque and the BAPS Hindu Mandir, with a photo stop at Ferrari World on Yas Island. Return to Dubai in the evening.', overnight: 'Dubai' },
+      { title: 'Departure', text: 'Breakfast, then a transfer to Dubai airport for your flight home.' },
+    ],
+    hotels: [{ tier: 'Your choice', stays: '3-star, 4-star or 5-star hotels in Bur Dubai, Deira, Downtown or Dubai Marina, quoted for your dates' }],
+    included: ['4 nights with daily breakfast', 'Return airport transfers', 'Dhow cruise with dinner and desert safari with BBQ dinner', 'Burj Khalifa At the Top tickets', 'Dubai city tour and Abu Dhabi day trip', 'Dubai visa filed by Travlys'],
+    excluded: ['International flights (we can add them to your quote)', 'Tourism Dirham fee, paid at the hotel per room per night', 'Meals not listed, tips and personal expenses', 'Travel insurance', 'GST and TCS, as applicable'],
+    addons: ['Global Village (October to May)', 'Museum of the Future or Dubai Frame', 'IMG Worlds, Ferrari World or Warner Bros. World', 'Dubai Shopping Festival dates (December to January)'],
+    tips: [
+      'Cover shoulders and knees at the Sheikh Zayed Grand Mosque; women need a headscarf.',
+      'Book Burj Khalifa sunset slots early; they sell out first.',
+      'Hotels charge the Tourism Dirham fee at check-out, per room per night.',
+      'Carry your passport on the Abu Dhabi day trip for the mosque and mandir entry checks.',
+    ],
+    faqs: [
+      { q: 'How many days are enough for Dubai?', a: 'Four nights is enough for the Dubai city tour, Burj Khalifa, a desert safari, a dhow cruise and an Abu Dhabi day trip. Add a night for theme parks or a slower shopping trip during the Dubai Shopping Festival.' },
+      { q: 'What is the best time to visit Dubai from India?', a: 'November to March is the best time, when days are warm rather than hot and outdoor attractions such as Global Village are open. Summer (June to September) is very hot but hotel rates are lower.' },
+      { q: 'Does the Dubai package include the visa?', a: 'Yes. Travlys files your Dubai e-Visa as part of the package. Indians with a valid US visa or green card, or a UK or EU visa or residence permit, may get a visa on arrival instead.' },
+      { q: 'Are flights included in the Dubai package?', a: 'No, the package covers hotels, transfers, tours and the visa. Travlys can add flights from Ahmedabad, Mumbai, Delhi or any Indian city to the same quote.' },
+      { q: 'Is this Dubai package good for families?', a: 'Yes. The desert safari, Burj Khalifa, the dhow cruise and the Abu Dhabi day are all family-friendly, and we can add theme parks and connecting rooms for children.' },
+      { q: 'Can I visit the BAPS Hindu Mandir in Abu Dhabi on this trip?', a: 'Yes, the Abu Dhabi day trip includes the BAPS Hindu Mandir along with the Sheikh Zayed Grand Mosque. Modest clothing is required at both.' },
+    ],
+  },
+  'vietnam-tour-package': {
+    metaTitle: 'Vietnam Tour Package from India: 6N/7D Hanoi, Ha Long, Da Nang | Travlys',
+    metaDescription:
+      'Vietnam tour package from India by Travlys: 6 nights in Hanoi, an overnight Ha Long Bay cruise and Da Nang with Ba Na Hills, the Golden Bridge and Hoi An. Day-by-day plan, free quote.',
+    keywords: 'vietnam tour package from india, vietnam package from ahmedabad, vietnam 6 nights 7 days itinerary, ha long bay cruise package, da nang hoi an package, vietnam honeymoon package',
+    intro:
+      'The Travlys Vietnam tour package is a 6-night, 7-day trip for Indian travellers: 2 nights in Hanoi, an overnight cruise on Ha Long Bay and 3 nights in Da Nang, with Ba Na Hills and the Golden Bridge, lantern-lit Hoi An Ancient Town and the Marble Mountains. Indians need a Vietnam e-visa (USD 25 single entry), applied online on the official portal. ' + SAMPLE_NOTE,
+    glance: [
+      ['Duration', '6 nights, 7 days'],
+      ['Stays', 'Hanoi 2 nights, Ha Long Bay cruise 1 night, Da Nang 3 nights'],
+      ['Meals', 'Daily breakfast, plus meals on the cruise'],
+      ['Transport', 'Transfers and tours; Hanoi to Da Nang by domestic flight'],
+      ['Best time', 'February to April across the country'],
+      ['Visa', 'e-Visa, USD 25 single entry, on evisa.gov.vn'],
+    ],
+    itinerary: [
+      { title: 'Arrival in Hanoi', text: 'Arrive in Hanoi and transfer to your hotel. In the evening, walk the Old Quarter and Hoan Kiem Lake.', overnight: 'Hanoi' },
+      { title: 'Hanoi city tour', text: 'The Temple of Literature, the One Pillar Pagoda, the Ho Chi Minh Mausoleum complex (outside) and a water puppet show.', overnight: 'Hanoi' },
+      { title: 'Ha Long Bay cruise', text: 'Drive to Ha Long Bay and board an overnight cruise among the limestone islands, with kayaking or a cave visit and meals on board.', overnight: 'Ha Long Bay cruise' },
+      { title: 'Back to Hanoi, fly to Da Nang', text: 'Breakfast on deck, cruise back to the harbour, then return to Hanoi airport for the flight to Da Nang.', overnight: 'Da Nang' },
+      { title: 'Ba Na Hills and the Golden Bridge', text: 'A cable car up to Ba Na Hills for the Golden Bridge, held up by two giant stone hands, and the French Village.', overnight: 'Da Nang' },
+      { title: 'Marble Mountains and Hoi An', text: 'The Marble Mountains in the afternoon, then Hoi An Ancient Town as the lanterns light up in the evening.', overnight: 'Da Nang' },
+      { title: 'Departure', text: 'Breakfast, then a transfer to Da Nang airport for your flight home.' },
+    ],
+    hotels: [{ tier: 'Your choice', stays: '3-star, 4-star or 5-star hotels in Hanoi and Da Nang, and a cruise cabin category of your choice' }],
+    included: ['6 nights with daily breakfast, including 1 night on a Ha Long Bay cruise', 'Meals on the cruise as per the cruise plan', 'Airport and intercity transfers', 'Sightseeing and entrance tickets as listed', 'Ba Na Hills cable car ticket'],
+    excluded: ['International flights and the Hanoi to Da Nang domestic flight (we can add them)', 'Vietnam e-visa fee', 'Meals not listed, tips and personal expenses', 'Travel insurance', 'GST and TCS, as applicable'],
+    addons: ['Phu Quoc island, visa-free for 30 days for Indians', 'Ho Chi Minh City and the Mekong Delta', 'Ninh Binh and Trang An boat ride'],
+    tips: [
+      'Apply for the e-visa only on the official portal, evisa.gov.vn; look-alike sites charge extra.',
+      'Hanoi is cool from December to February, so carry a light jacket.',
+      'Central Vietnam (Da Nang, Hoi An) gets heavy rain from September to December.',
+      'Carry some US dollars or Vietnamese dong in cash for markets and street food.',
+    ],
+    faqs: [
+      { q: 'How many days are enough for Vietnam?', a: 'Six or seven nights covers Hanoi, Ha Long Bay and Da Nang with Hoi An. Add three nights for Ho Chi Minh City and the Mekong Delta, or Phu Quoc for a beach finish.' },
+      { q: 'What is the best time to visit Vietnam from India?', a: 'February to April is the best time to cover the north and centre on one trip. The north is cool from December to February, and central Vietnam gets heavy rain from September to December.' },
+      { q: 'Do Indians need a visa for Vietnam?', a: 'Yes. Indians apply for Vietnam’s e-visa online at evisa.gov.vn: USD 25 for single entry or USD 50 for multiple entry, valid for up to 90 days. Phu Quoc island alone is visa-free for 30 days.' },
+      { q: 'Are flights included in the Vietnam package?', a: 'No. The package covers hotels, the cruise, transfers and sightseeing. Travlys can add international flights from India and the Hanoi to Da Nang domestic flight to the same quote.' },
+      { q: 'Is Vietnam good for a honeymoon?', a: 'Yes. The Ha Long Bay cruise, Hoi An by lantern light and Da Nang’s beaches make Vietnam a popular honeymoon choice, and we can upgrade the cruise cabin and hotels.' },
+      { q: 'Is vegetarian food easy to find in Vietnam?', a: 'Yes, in Hanoi, Da Nang and Hoi An there are Indian and vegetarian restaurants, and we tell the cruise and hotels about your food preference in advance.' },
+    ],
+  },
+  'thailand-tour-package': {
+    metaTitle: 'Thailand Tour Package from India: 4N/5D Bangkok & Pattaya | Travlys',
+    metaDescription:
+      'Thailand tour package from India by Travlys: 2 nights in Pattaya and 2 in Bangkok with Coral Island, the Alcazar show, temples and Safari World. 30 days visa-free for Indians. Free quote.',
+    keywords: 'thailand tour package from india, thailand package from ahmedabad, bangkok pattaya package, thailand 4 nights 5 days itinerary, coral island tour, thailand family package',
+    intro:
+      'The Travlys Thailand tour package is a 4-night, 5-day trip for Indian travellers: 2 nights in Pattaya with a speedboat trip to Coral Island and the Alcazar show, then 2 nights in Bangkok with the Golden Buddha and Reclining Buddha temples and Safari World and Marine Park. Indians can visit Thailand visa-free for up to 30 days and only need the free TDAC arrival card. ' + SAMPLE_NOTE,
+    glance: [
+      ['Duration', '4 nights, 5 days'],
+      ['Stays', 'Pattaya 2 nights, Bangkok 2 nights'],
+      ['Meals', 'Daily breakfast, plus lunch on Coral Island and at Safari World'],
+      ['Transport', 'Airport and Pattaya-Bangkok transfers, tours as listed'],
+      ['Best time', 'November to February, the cool and dry season'],
+      ['Visa', '30 days visa-free, plus the free TDAC'],
+    ],
+    itinerary: [
+      { title: 'Arrive in Bangkok, drive to Pattaya', text: 'Arrive at Bangkok airport and transfer to Pattaya, about two hours away. In the evening, the Alcazar cabaret show.', overnight: 'Pattaya' },
+      { title: 'Coral Island by speedboat', text: 'A speedboat to Coral Island (Koh Larn) for beaches and optional water sports, with lunch.', overnight: 'Pattaya' },
+      { title: 'Pattaya to Bangkok, temple tour', text: 'Drive to Bangkok. In the afternoon, the Golden Buddha at Wat Traimit and the Reclining Buddha at Wat Pho.', overnight: 'Bangkok' },
+      { title: 'Safari World and Marine Park', text: 'A full day at Safari World and Marine Park, with lunch. Evening free for shopping.', overnight: 'Bangkok' },
+      { title: 'Departure', text: 'Breakfast, then a transfer to Bangkok airport for your flight home.' },
+    ],
+    hotels: [{ tier: 'Your choice', stays: '3-star, 4-star or 5-star hotels in Pattaya and Bangkok, quoted for your dates' }],
+    included: ['4 nights with daily breakfast', 'Lunch on Coral Island and at Safari World', 'Airport and Pattaya-Bangkok transfers', 'Coral Island speedboat tour, Alcazar show, temple tour and Safari World tickets', 'Help with the TDAC arrival card'],
+    excluded: ['International flights (we can add them to your quote)', 'Water sports on Coral Island', 'Meals not listed, tips and personal expenses', 'Travel insurance', 'GST and TCS, as applicable'],
+    addons: ['Phuket and Krabi beach extension', 'Floating market tour', 'Chao Phraya dinner cruise in Bangkok', 'Nong Nooch Garden near Pattaya'],
+    tips: [
+      'Submit the free TDAC within 3 days before arrival; never pay a website for it.',
+      'Carry proof of funds (about 20,000 baht per person) and your return ticket, which immigration may ask to see.',
+      'Cover shoulders and knees at temples.',
+      'Use only licensed taxis or the transfers in your package.',
+    ],
+    faqs: [
+      { q: 'How many days are enough for Thailand?', a: 'Four nights covers Bangkok and Pattaya comfortably. For beaches such as Phuket and Krabi, plan seven to eight nights in total.' },
+      { q: 'What is the best time to visit Thailand from India?', a: 'November to February is the best time: cooler, dry and good for the beaches. March to May is hot, and June to October brings monsoon rain, with lower hotel rates.' },
+      { q: 'Do Indians need a visa for Thailand?', a: 'No, not for a tourist trip of up to 30 days. Since 15 September 2026 Indians get 30 days visa-free, and must submit the free Thailand Digital Arrival Card (TDAC) before arrival.' },
+      { q: 'Are flights included in the Thailand package?', a: 'No, the package covers hotels, transfers and tours. Travlys can add flights from Ahmedabad, Mumbai, Delhi or any Indian city to the same quote.' },
+      { q: 'Is this Thailand package good for families?', a: 'Yes. Coral Island, Safari World and Marine Park are favourites with children, and we can arrange family rooms and private transfers.' },
+      { q: 'Can I add Phuket or Krabi?', a: 'Yes. A three or four night Phuket and Krabi extension with the Phi Phi island tour is the most popular add-on; we requote with the domestic flight included.' },
+    ],
+  },
+  'almaty-kazakhstan-tour-package': {
+    metaTitle: 'Almaty Tour Package from India: 4N/5D Kazakhstan, Visa-Free | Travlys',
+    metaDescription:
+      'Almaty, Kazakhstan tour package from India by Travlys: 4 nights with Kok Tobe, Medeu, Shymbulak by gondola and the Charyn Canyon. Indians get 14 days visa-free. Day-by-day plan, free quote.',
+    keywords: 'almaty tour package from india, kazakhstan tour package from india, almaty package from ahmedabad, almaty 4 nights 5 days itinerary, shymbulak snow trip, almaty honeymoon package',
+    intro:
+      'The Travlys Almaty tour package is a 4-night, 5-day trip to Kazakhstan for Indian travellers: Kok Tobe hill by cable car, Medeu and the Shymbulak mountain resort by gondola, a day trip to the Charyn Canyon and, from May to October, Big Almaty Lake. Indians can visit Kazakhstan visa-free for up to 14 days, which makes Almaty one of the easiest snow trips from India. ' + SAMPLE_NOTE,
+    glance: [
+      ['Duration', '4 nights, 5 days'],
+      ['Stays', 'Almaty, 4 nights'],
+      ['Meals', 'Daily breakfast'],
+      ['Transport', 'Airport transfers and tours by private car with a driver'],
+      ['Best time', 'December to February for snow; May to September for lakes and hikes'],
+      ['Visa', '14 days visa-free for Indians'],
+    ],
+    itinerary: [
+      { title: 'Arrival in Almaty', text: 'Arrive in Almaty and transfer to your hotel. The evening is free to walk the city centre.', overnight: 'Almaty' },
+      { title: 'Almaty city and Kok Tobe', text: 'Panfilov Park and the wooden Zenkov Cathedral, the Green Bazaar, then the cable car up Kok Tobe hill for views over the city and the mountains.', overnight: 'Almaty' },
+      { title: 'Medeu and Shymbulak', text: 'Drive up to the Medeu high-altitude ice rink, then the gondola to the Shymbulak mountain resort for snow, skiing lessons or the views from the top.', overnight: 'Almaty' },
+      { title: 'Charyn Canyon day trip', text: 'A full-day drive east to the Charyn Canyon and the Valley of Castles. From May to October this day can be swapped for Big Almaty Lake.', overnight: 'Almaty' },
+      { title: 'Departure', text: 'Breakfast, then a transfer to Almaty airport for your flight home.' },
+    ],
+    hotels: [{ tier: 'Your choice', stays: '3-star, 4-star or 5-star hotels in central Almaty, quoted for your dates' }],
+    included: ['4 nights with daily breakfast', 'Return airport transfers', 'Tours by private car with a driver', 'City tour, Medeu and Shymbulak, and the Charyn Canyon day trip'],
+    excluded: ['International flights (we can add them to your quote)', 'Cable car, gondola and ski equipment tickets', 'Meals not listed, tips and personal expenses', 'Travel insurance', 'GST and TCS, as applicable'],
+    addons: ['Kolsai and Kaindy lakes (summer)', 'Ski lessons at Shymbulak (winter)', 'An extra night or a combined trip with Uzbekistan'],
+    tips: [
+      'Winter temperatures in Almaty often fall below zero; pack thermals, gloves and waterproof boots.',
+      'Kazakhstan is phasing in the free QazETA from 1 November 2026; it becomes mandatory for Indians from 1 July 2027.',
+      'Big Almaty Lake and Kolsai are reachable only from roughly May to October.',
+      'Carry some Kazakh tenge in cash for markets and small cafes.',
+    ],
+    faqs: [
+      { q: 'Do Indians need a visa for Kazakhstan?', a: 'No. Indians can stay in Kazakhstan visa-free for up to 14 days per visit, up to 42 days in any 180. From 1 July 2027 the free QazETA authorisation becomes mandatory before travel.' },
+      { q: 'How many days are enough for Almaty?', a: 'Four nights covers the city, Kok Tobe, Medeu and Shymbulak, and the Charyn Canyon. Add a night or two for the Kolsai and Kaindy lakes in summer.' },
+      { q: 'When can I see snow in Almaty?', a: 'December to February is the snow season, when Shymbulak runs as a ski resort and the mountains above the city are white. Snow can linger at Shymbulak into March.' },
+      { q: 'Are flights included in the Almaty package?', a: 'No. The package covers hotels, transfers and tours. Travlys can add flights from India to the same quote.' },
+      { q: 'Is Almaty good for a honeymoon or a family trip?', a: 'Yes. It suits couples looking for snow and mountains on a short trip and families who want an easy visa-free winter holiday. We adjust the pace and rooms to your group.' },
+      { q: 'Is vegetarian food available in Almaty?', a: 'Yes. Almaty has Indian restaurants and vegetarian options, and we pass your food preference to the hotel in advance.' },
+    ],
+  },
+  'georgia-tour-package': {
+    metaTitle: 'Georgia Tour Package from India: 4N/5D Tbilisi, Kazbegi, Kakheti | Travlys',
+    metaDescription:
+      'Georgia tour package from India by Travlys: 4 nights in Tbilisi with Kazbegi and the Gergeti church, Mtskheta, Ananuri and the Kakheti wine country. e-Visa and insurance help. Free quote.',
+    keywords: 'georgia tour package from india, georgia package from ahmedabad, tbilisi tour package, georgia 4 nights 5 days itinerary, kazbegi gudauri tour, georgia honeymoon package',
+    intro:
+      'The Travlys Georgia tour package is a 4-night, 5-day trip for Indian travellers based in Tbilisi: the Old Town and the Narikala fortress cable car, the Georgian Military Road to Kazbegi and the Gergeti Trinity Church, Mtskheta and the Ananuri fortress, and Sighnaghi in the Kakheti wine country. Indians need a Georgia e-visa unless they hold a valid US, UK or Schengen visa, plus mandatory travel insurance. ' + SAMPLE_NOTE,
+    glance: [
+      ['Duration', '4 nights, 5 days'],
+      ['Stays', 'Tbilisi, 4 nights'],
+      ['Meals', 'Daily breakfast'],
+      ['Transport', 'Airport transfers and tours by private car with a driver'],
+      ['Best time', 'May to October; December to March for snow at Gudauri'],
+      ['Visa', 'e-Visa (USD 20 + 2%), or visa-free with a US, UK or Schengen visa'],
+    ],
+    itinerary: [
+      { title: 'Arrival in Tbilisi', text: 'Arrive in Tbilisi and transfer to your hotel. Evening free in the Old Town.', overnight: 'Tbilisi' },
+      { title: 'Tbilisi city tour', text: 'The Old Town and the sulphur bath district, the cable car up to Narikala fortress, the Bridge of Peace and Rustaveli Avenue.', overnight: 'Tbilisi' },
+      { title: 'Mtskheta, Ananuri and Kazbegi', text: 'Mtskheta, the old capital, then the Georgian Military Road past the Ananuri fortress and Gudauri to Kazbegi and the Gergeti Trinity Church below Mount Kazbek.', overnight: 'Tbilisi' },
+      { title: 'Sighnaghi and Kakheti', text: 'A day in the Kakheti wine region: the hilltop town of Sighnaghi, the Bodbe Monastery and a winery visit.', overnight: 'Tbilisi' },
+      { title: 'Departure', text: 'Breakfast, then a transfer to Tbilisi airport for your flight home.' },
+    ],
+    hotels: [{ tier: 'Your choice', stays: '3-star, 4-star or 5-star hotels in central Tbilisi, quoted for your dates' }],
+    included: ['4 nights with daily breakfast', 'Return airport transfers', 'Tours by private car with a driver', 'Tbilisi city tour, Kazbegi, Mtskheta and Kakheti day trips', 'e-Visa and insurance guidance'],
+    excluded: ['International flights (we can add them to your quote)', 'Georgia e-visa fee and travel insurance', 'Entrance fees, cable car and 4x4 to the Gergeti church', 'Meals not listed, tips and personal expenses', 'GST and TCS, as applicable'],
+    addons: ['A night at Gudauri for snow and skiing (winter)', 'Batumi on the Black Sea coast', 'Paragliding at Gudauri'],
+    tips: [
+      'Health insurance of at least 30,000 GEL for the whole stay is mandatory for visitors from 1 January 2026.',
+      'If you hold a valid US, UK or Schengen visa, you may be able to enter visa-free; check the official list first.',
+      'The road to Kazbegi can close in heavy snow; we keep a flexible day in winter.',
+      'Carry Georgian lari in cash for markets and small cafes.',
+    ],
+    faqs: [
+      { q: 'Do Indians need a visa for Georgia?', a: 'Yes, unless you hold a valid visa or residence permit from a listed country such as the US, UK, Canada or a Schengen state. Otherwise apply for the e-visa online (USD 20 plus 2%). Travel insurance of at least 30,000 GEL is mandatory.' },
+      { q: 'How many days are enough for Georgia?', a: 'Four nights based in Tbilisi covers the city, Kazbegi, Mtskheta and Kakheti. Add two nights for Batumi on the Black Sea or a snow stay at Gudauri.' },
+      { q: 'What is the best time to visit Georgia from India?', a: 'May to October for green mountains and wine country; December to March for snow at Gudauri. Spring (April to May) is mild and less crowded.' },
+      { q: 'Are flights included in the Georgia package?', a: 'No. The package covers hotels, transfers and tours. Travlys can add flights from India to the same quote.' },
+      { q: 'Is Georgia good for a honeymoon?', a: 'Yes. The mountains at Kazbegi, the wine country and Tbilisi’s Old Town make Georgia a popular honeymoon choice, and we can add a night in the mountains.' },
+      { q: 'Is vegetarian food available in Georgia?', a: 'Yes. Georgian cuisine has many vegetarian dishes such as khachapuri and lobio, and Tbilisi has Indian restaurants.' },
+    ],
+  },
+}
+
+// Every package with its own page: the two from real proposals first, then
+// the trending sample itineraries.
+export const FEATURED_PACKAGES = [...PROPOSAL_PACKAGES, ...TRENDING_PACKAGES]
+export const PACKAGE_DETAILS = { ...PROPOSAL_DETAILS, ...TRENDING_DETAILS }

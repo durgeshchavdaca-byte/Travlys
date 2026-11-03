@@ -104,12 +104,20 @@ const HOLIDAY_POSTS = {
   'georgia-visa-for-indians-2026': 'Georgia',
   'new-year-international-trips-from-india-easy-visa': 'a New Year trip abroad',
   'visa-free-countries-for-indians-2026': 'a visa-free trip',
+  'kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians': 'Almaty',
+  'dubai-shopping-festival-2026-27-visa-from-india': 'Dubai',
 }
 
 // Guides whose destination has a full Travlys package page.
 const PACKAGE_PAGE = {
   'bali-visa-on-arrival-for-indians-2026': '/holidays/bali-tour-package/',
   'sri-lanka-eta-for-indians-2026': '/holidays/sri-lanka-tour-package/',
+  'thailand-visa-free-for-indians-2026': '/holidays/thailand-tour-package/',
+  'uae-visa-on-arrival-for-indians-2026': '/holidays/dubai-tour-package/',
+  'dubai-shopping-festival-2026-27-visa-from-india': '/holidays/dubai-tour-package/',
+  'vietnam-e-visa-for-indians-2026': '/holidays/vietnam-tour-package/',
+  'georgia-visa-for-indians-2026': '/holidays/georgia-tour-package/',
+  'kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians': '/holidays/almaty-kazakhstan-tour-package/',
 }
 
 function HolidayCta({ post, place, variant = 'mid' }) {

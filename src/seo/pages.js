@@ -695,12 +695,12 @@ export { COUNTRIES as CHECKER_COUNTRIES, CHECKER_UPDATED, STATUS_LABEL }
 // from india" and similar searches with buying intent.
 
 export const HOLIDAYS_META = {
-  title: 'Holiday Packages from India 2026: Bali, Sri Lanka, Thailand | Travlys',
+  title: 'Holiday Packages from India 2026: Bali, Dubai, Vietnam, Almaty | Travlys',
   description:
-    'Tailor-made holiday packages from India by Travlys, Ahmedabad: Bali 5N/6D, Sri Lanka 7N/8D, Thailand, Dubai and Singapore, quoted for your dates with the visa handled. Free quote on WhatsApp.',
+    'Tailor-made holiday packages from India by Travlys, Ahmedabad: Bali, Sri Lanka, Dubai, Vietnam, Thailand, Almaty and Georgia itineraries, quoted for your dates with the visa handled.',
   path: '/holidays',
   keywords:
-    'holiday packages from india, bali package from india, bali package from ahmedabad, sri lanka tour package from india, sri lanka package from ahmedabad, international tour packages from ahmedabad, thailand package from india, dubai package from ahmedabad, travel agent ahmedabad',
+    'holiday packages from india, international tour packages from ahmedabad, bali package from ahmedabad, sri lanka tour package from india, dubai package from ahmedabad, vietnam tour package from india, thailand package from india, almaty tour package from india, georgia tour package from india, travel agent ahmedabad',
   type: 'website',
   image: FEATURED_PACKAGES[0].image,
   imageAlt: 'Bali holiday package by Travlys',

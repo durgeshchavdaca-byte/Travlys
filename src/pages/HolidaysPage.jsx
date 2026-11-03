@@ -105,8 +105,8 @@ export default function HolidaysPage() {
       <section id="packages" className="py-16 bg-sand-50 border-t border-line">
         <div className="container-app">
           <AnimatedSection className="max-w-2xl mb-10">
-            <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 leading-[1.05]">Ready itineraries.</h2>
-            <p className="text-slate-muted mt-3">Planned and priced by Travlys. Change the nights, hotels or sightseeing and we requote the same day.</p>
+            <h2 className="font-display text-4xl md:text-5xl font-extrabold text-ink-900 leading-[1.05]">Itineraries Indians are booking now.</h2>
+            <p className="text-slate-muted mt-3">Bali and Sri Lanka from real Travlys trips, plus this winter's most-booked destinations for Indian travellers. Change the nights, hotels or sightseeing and we requote the same day.</p>
           </AnimatedSection>
           <div className="space-y-8">
             {FEATURED_PACKAGES.map((p, i) => <FeaturedPackage key={p.slug} p={p} flip={i % 2 === 1} />)}

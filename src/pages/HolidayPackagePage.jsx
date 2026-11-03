@@ -41,7 +41,7 @@ export default function HolidayPackagePage() {
             <span className="text-white">{pkg.place}</span>
           </nav>
           <span className="pill bg-white/10 border border-white/20 text-white mt-6">
-            {pkg.nights} nights · {pkg.days} days · Price on request
+            {pkg.nights} nights · {pkg.days} days · {pkg.sample ? 'Sample itinerary · ' : ''}Price on request
           </span>
           <h1 className="font-display text-[2.4rem] sm:text-5xl md:text-[3.6rem] font-extrabold mt-5 leading-[1.03] max-w-4xl">
             {pkg.place} tour package from India
