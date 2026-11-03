@@ -107,6 +107,11 @@ export default function InquiryForm({ defaultDestination = '', compact = false }
         <Field label="Destination">
           <select name="destination" defaultValue={defaultDestination} className="input">
             <option value="">Pick a country</option>
+            {/* Pages can pass a context such as "Holiday package"; keep it selectable
+                so the inquiry email says where it came from. */}
+            {defaultDestination && !destinations.some((d) => d.name === defaultDestination) && defaultDestination !== 'Other' && (
+              <option value={defaultDestination}>{defaultDestination}</option>
+            )}
             {destinations.map((d) => (
               <option key={d.slug} value={d.name}>{d.name}</option>
             ))}

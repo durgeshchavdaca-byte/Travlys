@@ -128,6 +128,7 @@ export default function Header() {
             )}
           </div>
           <NavLink onClick={() => goSection('how-it-works')} colorClass={navTextColor}>How it works</NavLink>
+          <NavLink to="/holidays/" colorClass={navTextColor}>Holidays</NavLink>
           <NavLink to="/pricing/" colorClass={navTextColor}>Pricing</NavLink>
           <NavLink to="/travel-news/" colorClass={navTextColor}>News</NavLink>
           <NavLink to="/blog/" colorClass={navTextColor}>Blog</NavLink>
@@ -175,6 +176,9 @@ export default function Header() {
             <button onClick={() => goSection('how-it-works')} className="w-full text-left py-3 text-base font-medium text-ink-900 bg-transparent border-none cursor-pointer">
               How it works
             </button>
+            <Link to="/holidays/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
+              Holiday packages
+            </Link>
             <Link to="/pricing/" className="block w-full text-left py-3 text-base font-medium text-ink-900 no-underline">
               Pricing
             </Link>

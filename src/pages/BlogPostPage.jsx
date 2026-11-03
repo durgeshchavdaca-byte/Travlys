@@ -124,9 +124,12 @@ function HolidayCta({ post, place, variant = 'mid' }) {
             </li>
           ))}
         </ul>
-        <a href={href} className="btn btn-coral mt-5 no-underline inline-flex items-center gap-2">
-          <MessageCircle className="w-4 h-4" /> Get my free package quote
-        </a>
+        <div className="mt-5 flex flex-wrap items-center gap-3">
+          <a href={href} className="btn btn-coral no-underline inline-flex items-center gap-2">
+            <MessageCircle className="w-4 h-4" /> Get my free package quote
+          </a>
+          <Link to="/holidays/" className="btn btn-ghost no-underline">See ready itineraries</Link>
+        </div>
         <p className="text-xs text-slate-faint mt-3 mb-0">A Travlys travel specialist replies on WhatsApp, usually within the hour on working days.</p>
       </div>
     )

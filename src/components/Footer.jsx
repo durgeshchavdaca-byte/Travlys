@@ -103,6 +103,7 @@ export default function Footer() {
                 ['Schengen 90/180 calculator', '/schengen-calculator/'],
                 ['Visa cost calculator', '/visa-cost-calculator/'],
                 ['Visa fees by country', '/visa-fees/'],
+                ['Holiday packages', '/holidays/'],
                 ['Pricing', '/pricing/'],
                 ['Visa guides', '/blog/'],
                 ['About Travlys', '/about/'],

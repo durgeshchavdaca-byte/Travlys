@@ -9,6 +9,7 @@ import { VISA_FEE_ROWS, LAST_CHECKED } from '../data/visaFees.js'
 import { TRAVEL_NEWS, NEWS_UPDATED, getLatestNews, getUpcomingNews, formatNewsDate } from '../data/travelNews.js'
 import { GLOSSARY, ALL_TERMS, GLOSSARY_UPDATED, termId } from '../data/glossary.js'
 import { COUNTRIES, CHECKER_UPDATED, STATUS_LABEL } from '../data/visaChecker.js'
+import { FEATURED_PACKAGES, HOLIDAY_FAQS, HOLIDAYS_UPDATED } from '../data/holidays.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -687,3 +688,50 @@ export function buildVisaCheckerSchemas() {
 
 export { COUNTRIES as CHECKER_COUNTRIES, CHECKER_UPDATED, STATUS_LABEL }
 
+
+// --- Holiday packages ---------------------------------------------------------
+// Two priced itineraries (TouristTrip with an Offer) plus quoted-to-order
+// destinations. Targets "bali package from ahmedabad", "sri lanka tour package
+// from india" and similar searches with buying intent.
+
+export const HOLIDAYS_META = {
+  title: 'Holiday Packages from India 2026: Bali from ₹40,400, Sri Lanka | Travlys',
+  description:
+    'Tailor-made holiday packages from India by Travlys, Ahmedabad: Bali 5N/6D from ₹40,400 and Sri Lanka 7N/8D from USD 795 per person, plus Thailand, Dubai and Singapore, with the visa handled.',
+  path: '/holidays',
+  keywords:
+    'holiday packages from india, bali package from india, bali package from ahmedabad, sri lanka tour package from india, sri lanka package from ahmedabad, international tour packages from ahmedabad, thailand package from india, dubai package from ahmedabad, travel agent ahmedabad',
+  type: 'website',
+  image: FEATURED_PACKAGES[0].image,
+  imageAlt: 'Bali holiday package by Travlys',
+}
+
+export { HOLIDAY_FAQS }
+
+export function buildHolidaysSchemas() {
+  const url = pageUrl(HOLIDAYS_META.path)
+  return [
+    { ...buildWebPageSchema(HOLIDAYS_META), dateModified: HOLIDAYS_UPDATED },
+    ...FEATURED_PACKAGES.map((p) => ({
+      '@context': 'https://schema.org',
+      '@type': 'TouristTrip',
+      '@id': `${url}#${p.slug}`,
+      name: `${p.place} ${p.nights} nights / ${p.days} days: ${p.name}`,
+      description: `${p.stays.join('; ')}. ${p.highlights.join('. ')}.`,
+      image: p.image,
+      touristType: 'Indian travellers',
+      itinerary: { '@type': 'ItemList', itemListElement: p.stays.map((st, i) => ({ '@type': 'ListItem', position: i + 1, name: st })) },
+      provider: ORG,
+      offers: {
+        '@type': 'Offer',
+        price: String(p.priceValue),
+        priceCurrency: p.currency,
+        description: `${p.price} ${p.priceNote}. GST and TCS extra, as applicable.`,
+        url: `${url}#${p.slug}`,
+        availability: 'https://schema.org/InStock',
+      },
+    })),
+    faqSchema(HOLIDAY_FAQS),
+    crumbs({ name: 'Holiday packages', url }),
+  ]
+}

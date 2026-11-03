@@ -18,6 +18,7 @@ import VisaGlossaryPage from './pages/VisaGlossaryPage'
 import SchengenCalculatorPage from './pages/SchengenCalculatorPage'
 import VisaCostCalculatorPage from './pages/VisaCostCalculatorPage'
 import VisaCheckerPage from './pages/VisaCheckerPage'
+import HolidaysPage from './pages/HolidaysPage'
 import ScrollToTop from './components/ScrollToTop'
 import StickyContact from './components/StickyContact'
 import { PlaneProgress } from './components/FX'
@@ -67,6 +68,7 @@ function App() {
             <Route path="/schengen-calculator" element={<SchengenCalculatorPage />} />
             <Route path="/visa-cost-calculator" element={<VisaCostCalculatorPage />} />
             <Route path="/visa-checker" element={<VisaCheckerPage />} />
+            <Route path="/holidays" element={<HolidaysPage />} />
           </Routes>
           </motion.div>
         </AnimatePresence>

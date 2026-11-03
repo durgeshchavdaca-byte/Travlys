@@ -83,7 +83,11 @@ import {
   CHECKER_COUNTRIES,
   CHECKER_UPDATED,
   STATUS_LABEL,
+  HOLIDAYS_META,
+  HOLIDAY_FAQS,
+  buildHolidaysSchemas,
 } from '../src/seo/pages.js'
+import { FEATURED_PACKAGES, MORE_DESTINATIONS, HOLIDAYS_UPDATED } from '../src/data/holidays.js'
 import { NEWS_UPDATED, getLatestNews, getNewsByMonth, getUpcomingNews, formatNewsDate } from '../src/data/travelNews.js'
 import { VISA_FEE_ROWS, LAST_CHECKED, getQuickAnswers, visaFeesCsv } from '../src/data/visaFees.js'
 
@@ -253,6 +257,7 @@ const STATIC_CSS = `
 const NAV = [
   ['Home', '/'],
   ['Visa destinations', '/pricing'],
+  ['Holiday packages', '/holidays'],
   ['Visa questions answered', '/visa-questions'],
   ['Visa fees by country', '/visa-fees'],
   ['Visa and travel news', '/travel-news'],
@@ -355,6 +360,24 @@ function visaFeesBody() {
 </table>
 <p>Rupee amounts are approximate, at mid-October 2026 exchange rates. Government fees are paid to the embassy or immigration authority; the Travlys fee is separate.</p>
 ${faqList(VISA_FEES_FAQS, 'About this table')}`
+}
+
+function holidaysBody() {
+  return `${crumbs([['Home', '/'], ['Holiday packages']])}
+<h1>Holiday packages from India, visa included</h1>
+<p>Tailor-made holiday packages by Travlys, a visa consultancy in Ahmedabad: hotels, private transfers and sightseeing in one day-by-day plan, with the visa, e-Visa or arrival card handled by the same team. Prices are land packages per person; GST and TCS extra, as applicable. Updated ${HOLIDAYS_UPDATED}.</p>
+${FEATURED_PACKAGES.map((p) => `<section id="${p.slug}"><h2>${escapeHtml(p.place)} ${p.nights} nights / ${p.days} days: ${escapeHtml(p.name)}</h2>
+<p><strong>${escapeHtml(p.price)}</strong> ${escapeHtml(p.priceNote)}.</p>
+<h3>Where you stay</h3>${list(p.stays)}
+<h3>Highlights</h3>${list(p.highlights)}
+<h3>Included</h3>${list(p.includes)}
+<p>Visa: <a href="${href(p.visa.href.replace(/\/$/, ''))}">${escapeHtml(p.visa.label)}</a>.</p>
+</section>`).join('\n')}
+<section><h2>More holiday packages, quoted to order</h2>
+<ul>${MORE_DESTINATIONS.map((d) => `<li><strong>${escapeHtml(d.place)}</strong>: ${escapeHtml(d.idea)}. Visa: <a href="${href(d.visa.href.replace(/\/$/, ''))}">${escapeHtml(d.visa.label)}</a>.</li>`).join('')}</ul>
+</section>
+${faqList(HOLIDAY_FAQS, 'Holiday packages, answered')}
+<p>Get a quote on WhatsApp at <a href="https://wa.me/918200918967">+91 82009 18967</a>.</p>`
 }
 
 function visaCheckerBody() {
@@ -689,6 +712,7 @@ function buildSitemap() {
     sitemapEntry('/travel-news', { lastmod: NEWS_UPDATED, changefreq: 'daily', priority: '0.85' }),
     sitemapEntry('/visa-glossary', { changefreq: 'monthly', priority: '0.8' }),
     sitemapEntry('/visa-checker', { lastmod: CHECKER_UPDATED, changefreq: 'weekly', priority: '0.9' }),
+    sitemapEntry('/holidays', { lastmod: HOLIDAYS_UPDATED, changefreq: 'weekly', priority: '0.85' }),
     sitemapEntry('/schengen-calculator', { changefreq: 'monthly', priority: '0.85' }),
     sitemapEntry('/visa-cost-calculator', { changefreq: 'weekly', priority: '0.85' }),
     ...['/pricing', '/about', '/contact', '/blog'].map((p) => sitemapEntry(p, { changefreq: 'weekly', priority: '0.8' })),
@@ -758,6 +782,7 @@ ${linkList([
     ['Do Indians need a visa? (visa checker)', '/visa-checker'],
     ['Schengen 90/180 calculator', '/schengen-calculator'],
     ['Visa cost calculator', '/visa-cost-calculator'],
+    ['Holiday packages (Bali, Sri Lanka and more)', '/holidays'],
     ['Pricing', '/pricing'],
     ['About Travlys', '/about'],
     ['Contact', '/contact'],
@@ -1000,6 +1025,7 @@ async function main() {
   await page(NEWS_META, buildNewsSchemas(), newsBody())
   await page(GLOSSARY_META, buildGlossarySchemas(), glossaryBody())
   await page(VISA_CHECKER_META, buildVisaCheckerSchemas(), visaCheckerBody())
+  await page(HOLIDAYS_META, buildHolidaysSchemas(), holidaysBody())
   await page(SCHENGEN_CALC_META, buildSchengenCalcSchemas(), schengenCalcBody())
   await page(VISA_COST_META, buildVisaCostSchemas(), visaCostBody())
   for (const d of destinations) await page(getVisaMeta(d), buildVisaSchemas(d), visaBody(d))
