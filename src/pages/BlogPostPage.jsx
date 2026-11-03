@@ -106,6 +106,12 @@ const HOLIDAY_POSTS = {
   'visa-free-countries-for-indians-2026': 'a visa-free trip',
 }
 
+// Guides whose destination has a full Travlys package page.
+const PACKAGE_PAGE = {
+  'bali-visa-on-arrival-for-indians-2026': '/holidays/bali-tour-package/',
+  'sri-lanka-eta-for-indians-2026': '/holidays/sri-lanka-tour-package/',
+}
+
 function HolidayCta({ post, place, variant = 'mid' }) {
   const text =
     `Hi Travlys, I read "${post.title}" on your website. I am planning ${place.startsWith('a ') ? place : `a trip to ${place}`}.\n\n` +
@@ -128,7 +134,9 @@ function HolidayCta({ post, place, variant = 'mid' }) {
           <a href={href} className="btn btn-coral no-underline inline-flex items-center gap-2">
             <MessageCircle className="w-4 h-4" /> Get my free package quote
           </a>
-          <Link to="/holidays/" className="btn btn-ghost no-underline">See ready itineraries</Link>
+          <Link to={PACKAGE_PAGE[post.slug] || '/holidays/'} className="btn btn-ghost no-underline">
+            {PACKAGE_PAGE[post.slug] ? `See the ${place} itinerary` : 'See ready itineraries'}
+          </Link>
         </div>
         <p className="text-xs text-slate-faint mt-3 mb-0">A Travlys travel specialist replies on WhatsApp, usually within the hour on working days.</p>
       </div>

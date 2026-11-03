@@ -9,7 +9,7 @@ import { VISA_FEE_ROWS, LAST_CHECKED } from '../data/visaFees.js'
 import { TRAVEL_NEWS, NEWS_UPDATED, getLatestNews, getUpcomingNews, formatNewsDate } from '../data/travelNews.js'
 import { GLOSSARY, ALL_TERMS, GLOSSARY_UPDATED, termId } from '../data/glossary.js'
 import { COUNTRIES, CHECKER_UPDATED, STATUS_LABEL } from '../data/visaChecker.js'
-import { FEATURED_PACKAGES, HOLIDAY_FAQS, HOLIDAYS_UPDATED } from '../data/holidays.js'
+import { FEATURED_PACKAGES, HOLIDAY_FAQS, HOLIDAYS_UPDATED, PACKAGE_DETAILS } from '../data/holidays.js'
 import {
   SITE_URL,
   SITE_NAME,
@@ -725,5 +725,56 @@ export function buildHolidaysSchemas() {
     })),
     faqSchema(HOLIDAY_FAQS),
     crumbs({ name: 'Holiday packages', url }),
+  ]
+}
+
+// --- Holiday package pages (/holidays/<slug>) ------------------------------------
+// TouristTrip with the day-by-day itinerary, FAQPage and breadcrumbs.
+
+export function getPackage(slug) {
+  const base = FEATURED_PACKAGES.find((p) => p.slug === slug)
+  const detail = PACKAGE_DETAILS[slug]
+  return base && detail ? { ...base, ...detail } : null
+}
+
+export function getPackageMeta(pkg) {
+  return {
+    title: pkg.metaTitle,
+    description: pkg.metaDescription,
+    path: `/holidays/${pkg.slug}`,
+    keywords: pkg.keywords,
+    type: 'website',
+    image: pkg.image,
+    imageAlt: `${pkg.place} tour package by Travlys`,
+  }
+}
+
+export function buildPackageSchemas(pkg) {
+  const meta = getPackageMeta(pkg)
+  const url = pageUrl(meta.path)
+  return [
+    { ...buildWebPageSchema(meta), dateModified: HOLIDAYS_UPDATED },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'TouristTrip',
+      '@id': `${url}#trip`,
+      name: `${pkg.place} tour package, ${pkg.nights} nights / ${pkg.days} days`,
+      description: pkg.intro,
+      image: pkg.image,
+      url,
+      touristType: ['Couples', 'Families', 'Indian travellers'],
+      provider: ORG,
+      itinerary: {
+        '@type': 'ItemList',
+        numberOfItems: pkg.itinerary.length,
+        itemListElement: pkg.itinerary.map((d, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          item: { '@type': 'TouristAttraction', name: `Day ${i + 1}: ${d.title}`, description: d.text },
+        })),
+      },
+    },
+    faqSchema(pkg.faqs),
+    crumbs({ name: 'Holiday packages', url: pageUrl('/holidays') }, { name: `${pkg.place} tour package`, url }),
   ]
 }

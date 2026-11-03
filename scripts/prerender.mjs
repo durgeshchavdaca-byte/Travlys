@@ -86,6 +86,9 @@ import {
   HOLIDAYS_META,
   HOLIDAY_FAQS,
   buildHolidaysSchemas,
+  getPackage,
+  getPackageMeta,
+  buildPackageSchemas,
 } from '../src/seo/pages.js'
 import { FEATURED_PACKAGES, MORE_DESTINATIONS, HOLIDAYS_UPDATED } from '../src/data/holidays.js'
 import { NEWS_UPDATED, getLatestNews, getNewsByMonth, getUpcomingNews, formatNewsDate } from '../src/data/travelNews.js'
@@ -362,11 +365,29 @@ function visaFeesBody() {
 ${faqList(VISA_FEES_FAQS, 'About this table')}`
 }
 
+function packageBody(pkg) {
+  return `${crumbs([['Home', '/'], ['Holiday packages', '/holidays'], [`${pkg.place} tour package`]])}
+<h1>${escapeHtml(pkg.place)} tour package from India: ${pkg.nights} nights, ${pkg.days} days</h1>
+<p>${escapeHtml(pkg.intro)}</p>
+<section><h2>At a glance</h2><dl>${pkg.glance.map(([k, v]) => `<dt>${escapeHtml(k)}</dt><dd>${escapeHtml(v)}</dd>`).join('')}</dl>
+<p>Price on request: ${escapeHtml(pkg.priceNote)}. GST and TCS extra, as applicable. Visa: <a href="${href(pkg.visa.href.replace(/\/$/, ''))}">${escapeHtml(pkg.visa.label)}</a>.</p></section>
+<section><h2>${escapeHtml(pkg.place)} itinerary, day by day</h2>
+${pkg.itinerary.map((d, i) => `<h3>Day ${i + 1}: ${escapeHtml(d.title)}</h3>\n<p>${escapeHtml(d.text)}${d.overnight ? ` Overnight: ${escapeHtml(d.overnight)}.` : ''}</p>`).join('\n')}
+</section>
+<section><h2>Hotels</h2><ul>${pkg.hotels.map((h) => `<li><strong>${escapeHtml(h.tier)}:</strong> ${escapeHtml(h.stays)}</li>`).join('')}</ul></section>
+<section><h2>What is included</h2>${list(pkg.included)}
+<h3>Not included</h3>${list(pkg.excluded)}</section>
+${pkg.addons ? `<section><h2>Popular add-ons</h2>${list(pkg.addons)}</section>` : ''}
+<section><h2>Good to know before you go</h2>${list(pkg.tips)}</section>
+${faqList(pkg.faqs, `${pkg.place} trip questions, answered`)}
+<p>Get a quote on WhatsApp at <a href="https://wa.me/918200918967">+91 82009 18967</a>. See <a href="${href('/holidays')}">all Travlys holiday packages</a>.</p>`
+}
+
 function holidaysBody() {
   return `${crumbs([['Home', '/'], ['Holiday packages']])}
 <h1>Holiday packages from India, visa included</h1>
 <p>Tailor-made holiday packages by Travlys, a visa consultancy in Ahmedabad: hotels, private transfers and sightseeing in one day-by-day plan, with the visa, e-Visa or arrival card handled by the same team. Each package is quoted for your dates and group; GST and TCS extra, as applicable. Updated ${HOLIDAYS_UPDATED}.</p>
-${FEATURED_PACKAGES.map((p) => `<section id="${p.slug}"><h2>${escapeHtml(p.place)} ${p.nights} nights / ${p.days} days: ${escapeHtml(p.name)}</h2>
+${FEATURED_PACKAGES.map((p) => `<section id="${p.slug}"><h2><a href="${href(`/holidays/${p.slug}`)}">${escapeHtml(p.place)} ${p.nights} nights / ${p.days} days: ${escapeHtml(p.name)}</a></h2>
 <p><strong>Price on request.</strong> ${escapeHtml(p.priceNote)}.</p>
 <h3>Where you stay</h3>${list(p.stays)}
 <h3>Highlights</h3>${list(p.highlights)}
@@ -713,6 +734,9 @@ function buildSitemap() {
     sitemapEntry('/visa-glossary', { changefreq: 'monthly', priority: '0.8' }),
     sitemapEntry('/visa-checker', { lastmod: CHECKER_UPDATED, changefreq: 'weekly', priority: '0.9' }),
     sitemapEntry('/holidays', { lastmod: HOLIDAYS_UPDATED, changefreq: 'weekly', priority: '0.85' }),
+    ...FEATURED_PACKAGES.map((p) =>
+      sitemapEntry(`/holidays/${p.slug}`, { lastmod: HOLIDAYS_UPDATED, changefreq: 'monthly', priority: '0.85', image: { loc: p.image } }),
+    ),
     sitemapEntry('/schengen-calculator', { changefreq: 'monthly', priority: '0.85' }),
     sitemapEntry('/visa-cost-calculator', { changefreq: 'weekly', priority: '0.85' }),
     ...['/pricing', '/about', '/contact', '/blog'].map((p) => sitemapEntry(p, { changefreq: 'weekly', priority: '0.8' })),
@@ -783,6 +807,8 @@ ${linkList([
     ['Schengen 90/180 calculator', '/schengen-calculator'],
     ['Visa cost calculator', '/visa-cost-calculator'],
     ['Holiday packages (Bali, Sri Lanka and more)', '/holidays'],
+    ['Bali tour package, 5 nights / 6 days', '/holidays/bali-tour-package'],
+    ['Sri Lanka tour package, 7 nights / 8 days', '/holidays/sri-lanka-tour-package'],
     ['Pricing', '/pricing'],
     ['About Travlys', '/about'],
     ['Contact', '/contact'],
@@ -915,6 +941,12 @@ function buildLlmsTxt() {
     `- [Schengen 90/180 day calculator](${pageUrl('/schengen-calculator')}): days used, days left and the last legal day of stay under the 90/180 rule. Entry and exit days both count; all 29 Schengen countries count together.`,
     `- [Visa cost calculator](${pageUrl('/visa-cost-calculator')}): government visa fee in rupees plus the Travlys service fee for any number of applicants, for ${VISA_FEE_ROWS.length} destinations.`,
     '',
+    '## Holiday packages',
+    '',
+    `Travlys also plans tailor-made holiday packages from India, with the visa handled by the same team. Prices are quoted for the traveller's dates: [all holiday packages](${pageUrl('/holidays')}).`,
+    ...FEATURED_PACKAGES.map((p) => `- [${p.place} tour package, ${p.nights} nights / ${p.days} days](${pageUrl(`/holidays/${p.slug}`)}): ${p.stays.join('; ')}. ${p.highlights[0]}.`),
+    `- Also quoted to order: ${MORE_DESTINATIONS.map((d) => d.place).join(', ')}.`,
+    '',
     '## Visa terms explained',
     '',
     `Plain-English definitions from the [Travlys visa glossary](${pageUrl('/visa-glossary')}):`,
@@ -1026,6 +1058,10 @@ async function main() {
   await page(GLOSSARY_META, buildGlossarySchemas(), glossaryBody())
   await page(VISA_CHECKER_META, buildVisaCheckerSchemas(), visaCheckerBody())
   await page(HOLIDAYS_META, buildHolidaysSchemas(), holidaysBody())
+  for (const fp of FEATURED_PACKAGES) {
+    const pkg = getPackage(fp.slug)
+    await page(getPackageMeta(pkg), buildPackageSchemas(pkg), packageBody(pkg))
+  }
   await page(SCHENGEN_CALC_META, buildSchengenCalcSchemas(), schengenCalcBody())
   await page(VISA_COST_META, buildVisaCostSchemas(), visaCostBody())
   for (const d of destinations) await page(getVisaMeta(d), buildVisaSchemas(d), visaBody(d))

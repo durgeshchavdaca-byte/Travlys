@@ -20,7 +20,9 @@ function FeaturedPackage({ p, flip }) {
         </div>
         <div className="lg:col-span-7 p-6 md:p-8">
           <p className="text-[0.7rem] uppercase tracking-[0.18em] font-semibold text-coral-600 m-0">{p.place}</p>
-          <h3 className="font-display text-2xl md:text-3xl font-extrabold text-ink-900 mt-1 leading-tight">{p.name}</h3>
+          <h3 className="font-display text-2xl md:text-3xl font-extrabold text-ink-900 mt-1 leading-tight">
+            <Link to={`/holidays/${p.slug}/`} className="text-ink-900 hover:text-coral-600 no-underline">{p.name}</Link>
+          </h3>
           <p className="mt-3 m-0">
             <span className="font-display text-2xl font-extrabold text-ink-900">Price on request</span>{' '}
             <span className="text-sm text-slate-muted">{p.priceNote}. GST &amp; TCS extra.</span>
@@ -53,6 +55,7 @@ function FeaturedPackage({ p, flip }) {
             <a href={packageWhatsApp(p.place, `I saw the ${p.nights}N/${p.days}D package on your website.`)} className="btn btn-coral no-underline inline-flex items-center gap-2">
               <MessageCircle className="w-4 h-4" /> Get this itinerary
             </a>
+            <Link to={`/holidays/${p.slug}/`} className="btn btn-ghost no-underline">Day-by-day plan</Link>
             <Link to={p.visa.href} className="text-sm text-slate-muted hover:text-coral-600 inline-flex items-center gap-1">
               <ShieldCheck className="w-4 h-4" /> Visa: {p.visa.label}
             </Link>
