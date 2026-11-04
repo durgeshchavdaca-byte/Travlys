@@ -541,6 +541,60 @@ const VISA_ROUTES = {
   },
 }
 
+// Where each country has an embassy or consulate in India. Searches like
+// "uae embassy in kolkata" or "canada embassy in hyderabad" land on the city
+// visa pages, so each page answers whether that mission exists in the city.
+const MISSIONS = {
+  'usa-visa': { head: 'the US Embassy in New Delhi', posts: ['Mumbai', 'Chennai', 'Hyderabad', 'Kolkata'], kind: 'Consulate General' },
+  'uk-visa': { head: 'the British High Commission in New Delhi', posts: ['Mumbai', 'Chennai', 'Kolkata', 'Bengaluru', 'Hyderabad', 'Ahmedabad', 'Chandigarh'], kind: 'Deputy High Commission' },
+  'canada-visa': { head: 'the High Commission of Canada in New Delhi', posts: ['Mumbai', 'Bengaluru', 'Chandigarh'], kind: 'Consulate General' },
+  'australia-visa': { head: 'the Australian High Commission in New Delhi', posts: ['Mumbai', 'Chennai', 'Kolkata', 'Bengaluru'], kind: 'Consulate-General' },
+  'netherlands-visa': { head: 'the Embassy of the Netherlands in New Delhi', posts: ['Mumbai', 'Bengaluru'], kind: 'Consulate-General' },
+  'singapore-visa': { head: 'the Singapore High Commission in New Delhi', posts: ['Mumbai', 'Chennai'], kind: 'Consulate-General' },
+  'uae-visa': { head: 'the UAE Embassy in New Delhi', posts: ['Mumbai', 'Thiruvananthapuram'], kind: 'Consulate General' },
+  'thailand-visa': { head: 'the Royal Thai Embassy in New Delhi', posts: ['Mumbai', 'Chennai', 'Kolkata'], kind: 'Consulate-General' },
+  'new-zealand-visa': { head: 'the New Zealand High Commission in New Delhi', posts: ['Mumbai'], kind: 'Consulate-General' },
+  'malaysia-visa': { head: 'the High Commission of Malaysia in New Delhi', posts: ['Mumbai', 'Chennai'], kind: 'Consulate General' },
+}
+
+const SHORT_NAME = {
+  'United States': 'the US',
+  'United Kingdom': 'the UK',
+  'United Arab Emirates': 'the UAE',
+  'Schengen (Netherlands)': 'the Netherlands',
+}
+const PLURAL = {
+  'Consulate General': 'Consulates General',
+  'Consulate-General': 'Consulates-General',
+  'Deputy High Commission': 'Deputy High Commissions',
+}
+
+function missionFaq(dest, city) {
+  const m = MISSIONS[dest.slug]
+  if (!m) return null
+  const route = getVisaRoute(dest, city)
+  const name = SHORT_NAME[dest.name] || dest.name
+  const Name = name.charAt(0).toUpperCase() + name.slice(1)
+  const kinds = m.posts.length > 1 ? PLURAL[m.kind] : m.kind
+  const list = `${m.head}${m.posts.length ? `, with ${kinds} in ${m.posts.join(', ').replace(/, ([^,]*)$/, ' and $1')}` : ''}`
+  let where
+  if (dest.slug === 'malaysia-visa') where = 'Indians do not need a Malaysia visa for trips of up to 30 days until 31 December 2026; only the free MDAC arrival card.'
+  else if (route.inPerson) where = `Visa applications are not taken at the embassy counter: ${city.name} applicants apply online, and the only in-person step is ${route.inPerson}.`
+  else where = `${city.name} applicants do not need to visit any mission: the visa is filed online.`
+  if (city.name === 'Delhi' || city.name === 'New Delhi') {
+    return { q: `Where is the ${name.replace(/^the /, '')} embassy in Delhi?`, a: `${Name} is represented in India by ${list}. ${where}` }
+  }
+  const has = m.posts.includes(city.name)
+  const label = name.replace(/^the /, '')
+  const article = /^[AEIO]/.test(label) ? 'an' : 'a'
+  return {
+    q: `Is there ${article} ${label} embassy or consulate in ${city.name}?`,
+    a: has
+      ? `Yes. ${Name} has a ${m.kind} in ${city.name}; its embassy is ${m.head}. ${where}`
+      : `No. ${Name} has no embassy or consulate in ${city.name}. It is represented in India by ${list}. ${where}`,
+  }
+}
+
 export function getVisaRoute(dest, city) {
   const r = VISA_ROUTES[dest.slug]
   if (typeof r === 'function') return r(city)
@@ -560,6 +614,7 @@ export function getCityVisaFaqs(dest, city) {
       q: `Who decides a ${dest.name} visa for applicants from ${city.name}?`,
       a: `${dest.name} visas for ${city.name} (${city.state}) applicants are decided by ${route.decidedBy}.`,
     },
+    ...[missionFaq(dest, city)].filter(Boolean),
     {
       q: `Can Travlys handle my ${dest.name} visa from ${city.name} remotely?`,
       a: `Yes. The brief, document check, form filling and appointment booking all happen on WhatsApp and email.${route.inPerson ? ` The only in-person step is ${route.inPerson}.` : ' There is no in-person step.'}`,

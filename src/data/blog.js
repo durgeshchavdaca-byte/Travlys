@@ -7,6 +7,178 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  // --- 4 November 2026: Schengen visa fees (cost searches rank 70-83). ---
+  {
+    "slug": "schengen-visa-fees-for-indians-2026",
+    "title": "Schengen Visa Fees for Indians 2026: €90, VFS Charges and Total Cost",
+    "metaTitle": "Schengen Visa Fees for Indians 2026: €90 + VFS, Total Cost | Travlys",
+    "metaDescription": "The Schengen visa fee for Indians is €90 for adults and €45 for children aged 6 to 11; under 6 is free. Add the VFS service charge and insurance: the full 2026 cost.",
+    "excerpt": "The Schengen visa fee is the same in every Schengen country: €90 for adults. What changes is the service charge, insurance and extras. Here is what an Indian applicant really pays in 2026.",
+    "date": "2026-11-04",
+    "updated": "2026-11-04",
+    "readMinutes": 6,
+    "category": "Country guides",
+    "tags": [
+      "Schengen",
+      "Fees",
+      "Europe",
+      "VFS"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-for-christmas-new-year-trips-2026",
+      "schengen-ees-explained-for-indian-travellers"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "See Schengen visa pricing"
+    },
+    "faqs": [
+      {
+        "q": "How much is the Schengen visa fee for Indians in 2026?",
+        "a": "The Schengen visa fee is €90 for an adult, about ₹9,600 at recent exchange rates, and it is the same for every Schengen country. Children aged 6 to 11 pay €45 and children under 6 pay nothing. The visa centre's service charge is added on top."
+      },
+      {
+        "q": "What is the total cost of a Schengen visa from India?",
+        "a": "For one adult, budget roughly ₹12,000 to ₹14,000: the €90 visa fee, a service charge of about ₹2,000 to ₹3,000 at the visa centre, and travel insurance with €30,000 cover. A consultant's fee, if you use one, is extra; Travlys starts at ₹2,950."
+      },
+      {
+        "q": "Is the Schengen visa fee refunded if my visa is refused?",
+        "a": "No. The visa fee and the service charge are processing fees, so they are not refunded if the visa is refused or if you withdraw the application."
+      },
+      {
+        "q": "Is the Schengen visa fee different for France, Germany or Italy?",
+        "a": "No. The €90 visa fee is set by EU law and is the same for all Schengen countries. The service charge differs, because each country uses its own visa centre provider and fee schedule in India."
+      },
+      {
+        "q": "Do children pay the Schengen visa fee?",
+        "a": "Children under 6 pay no visa fee. Children aged 6 to 11 pay €45, half the adult fee. From 12 years old, the full €90 applies. The visa centre's service charge may still apply to children."
+      },
+      {
+        "q": "How early should I apply and how long does it take?",
+        "a": "You can apply up to 6 months before travel and should apply at least 15 days before. Consulates usually decide within 15 calendar days, which can stretch to 45 days in busy periods, so apply 4 to 8 weeks ahead in peak season."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The Schengen visa fee for Indian passport holders in 2026 is **€90 for adults**, about ₹9,600, and it is the same whichever Schengen country you apply to. Children aged 6 to 11 pay **€45**, and children under 6 pay **nothing**. On top of the visa fee you pay the visa centre's service charge, usually about ₹2,000 to ₹3,000, and you need travel insurance, so a typical adult application costs roughly ₹12,000 to ₹14,000 before any consultant fee."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Adult visa fee:** €90 (about ₹9,600). **Child 6 to 11:** €45. **Under 6:** free. **Service charge:** about ₹2,000 to ₹3,000, set by each country's visa centre. **Insurance:** mandatory, minimum €30,000 medical cover. **Refund if refused:** no. **Decision time:** usually 15 calendar days, up to 45."
+      },
+      {
+        "type": "h2",
+        "text": "The Schengen visa fee in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The short-stay (type C) Schengen visa fee is fixed by the EU Visa Code, so it does not change between France, Germany, Italy, Switzerland, the Netherlands or any other Schengen state. It rose from €80 to €90 in June 2024 and has stayed at €90 since."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults (12 and over):** €90",
+          "**Children aged 6 to 11:** €45",
+          "**Children under 6:** no visa fee",
+          "**Some categories** such as school pupils on organised study trips and researchers travelling for scientific work can get the fee waived; the consulate decides."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In India the fee is collected in rupees at the exchange rate the consulate sets, so the rupee figure moves a little through the year. Check the current figure on your visa centre's fee page before you pay."
+      },
+      {
+        "type": "h2",
+        "text": "The service charge: why the total differs by country"
+      },
+      {
+        "type": "p",
+        "text": "Schengen consulates in India take applications through outsourced visa centres run by companies such as VFS Global, BLS International or TLScontact, depending on the country. Each charges its own service fee, typically about ₹2,000 to ₹3,000 per applicant, published on the country's visa centre website. This is the part of the bill that genuinely varies between, say, a Netherlands and a Spain application."
+      },
+      {
+        "type": "h3",
+        "text": "Optional extras you can skip"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Premium or lounge appointments",
+          "SMS updates and form-filling help at the centre",
+          "Courier delivery of your passport",
+          "Photo booth and photocopies at the centre"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "None of these improve your chances. A complete, consistent file does."
+      },
+      {
+        "type": "h2",
+        "text": "Travel insurance: the cost people forget"
+      },
+      {
+        "type": "p",
+        "text": "Every Schengen applicant needs travel medical insurance valid across all Schengen states for the whole trip, with at least €30,000 of cover for medical emergencies and repatriation. The premium depends on your age and the number of days; for a short holiday it is usually a small part of the total, but older travellers and long trips pay more."
+      },
+      {
+        "type": "h2",
+        "text": "What one adult really pays: a worked example"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa fee:** €90, about ₹9,600",
+          "**Visa centre service charge:** about ₹2,000 to ₹3,000",
+          "**Travel insurance:** varies by age and days",
+          "**Estimated total before consultant fee:** roughly ₹12,000 to ₹14,000",
+          "**Travlys service fee (optional):** from ₹2,950, covering the document check, cover letter, application form, appointment booking and a final file review"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a family of two adults and one child aged 8, the visa fees alone come to €225 (€90 + €90 + €45), plus a service charge for each person."
+      },
+      {
+        "type": "h2",
+        "text": "Fees are not refunded: get the file right first"
+      },
+      {
+        "type": "p",
+        "text": "If the visa is refused, the visa fee and the service charge are lost. The most common reasons for refusal from India are an itinerary that does not match the hotel bookings, unexplained cash deposits in bank statements, insurance that does not cover the full trip, and applying to the wrong country for your main destination. Spending an hour on these before you book the appointment saves the whole fee."
+      },
+      {
+        "type": "h2",
+        "text": "When to apply and how long it takes"
+      },
+      {
+        "type": "p",
+        "text": "You can apply up to 6 months before your trip and at least 15 days before it. Consulates usually decide within 15 calendar days, but this can stretch to 45 days, and appointment slots in Indian cities fill up weeks ahead before summer and the Christmas season. For December and summer trips, book the appointment 6 to 8 weeks ahead."
+      },
+      {
+        "type": "callout",
+        "label": "Travlys tip",
+        "text": "Apply to the country where you spend the most nights, or where you enter first if the nights are equal. Applying to an easier country for a trip that is mainly elsewhere is a classic refusal reason and costs you the full fee."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission: Visa policy, short-stay visa fee",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en"
+      },
+      {
+        "label": "EU Visa Code (Regulation (EC) No 810/2009, as amended)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0810-20200202"
+      },
+      {
+        "label": "Business Today: Schengen visa costs in 2025",
+        "url": "https://www.businesstoday.in/nri/visa/story/schengen-visa-costs-climb-in-2025-heres-what-youll-pay-for-cheapest-most-expensive-options-491555-2025-08-29"
+      }
+    ]
+  },
   // --- 31 October 2026: OCI card rules, Azerbaijan and Armenia. ---
   {
     "slug": "oci-card-rules-2026-fees-passport-update",

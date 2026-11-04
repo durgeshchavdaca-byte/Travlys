@@ -276,6 +276,7 @@ const NAV = [
 // Newer guides Search Console shows close to page one; linked from every
 // page's static footer (the React footer has the same list).
 const TRENDING = [
+  ['Schengen visa fees for Indians', '/blog/schengen-visa-fees-for-indians-2026'],
   ['Bali visa on arrival for Indians', '/blog/bali-visa-on-arrival-for-indians-2026'],
   ['Sri Lanka ETA for Indians', '/blog/sri-lanka-eta-for-indians-2026'],
   ['Thailand visa-free for Indians', '/blog/thailand-visa-free-for-indians-2026'],
