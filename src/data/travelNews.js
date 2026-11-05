@@ -3,10 +3,18 @@
 // Rendered at /travel-news, and fed into the homepage, llms.txt and the
 // prerendered HTML so search engines and AI assistants see the latest dates.
 
-export const NEWS_UPDATED = '2026-11-02'
+export const NEWS_UPDATED = '2026-11-05'
 
 export const TRAVEL_NEWS = [
   // --- Announced, not yet in force (shown under "Coming up") ---
+  {
+    date: '2026-11-10',
+    headline: 'Comments close on US plan to end 60-day grace period for H-1B, L-1, O-1, TN workers',
+    summary:
+      'DHS proposed on 11 September 2026 to remove the up to 60-day grace period after job loss for E, H-1B, H-1B1, L-1, O-1 and TN workers and their dependants. Comments under docket USCIS-2026-0364 close on 10 November 2026, and the grace period still applies until a final rule takes effect.',
+    href: '/blog/us-h1b-grace-period-opt-fee-proposals-2026-indians/',
+    source: { label: 'Federal Register: Eliminating the Discretionary 60-Day Grace Period', url: 'https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period' },
+  },
   {
     date: '2026-11-30',
     headline: 'UK student visa funds rise to £1,570 a month in London',
@@ -52,6 +60,38 @@ export const TRAVEL_NEWS = [
     },
   },
   // --- Dated news, newest first ---
+  {
+    date: '2026-11-03',
+    headline: 'US now requires every air passenger to sign a CDC Ebola declaration before boarding',
+    summary:
+      'From 11:59 pm EST on 3 November 2026 (10:29 am IST, 4 November), everyone boarding a flight to the US must attest they were not in the DR Congo in the past 21 days. Parents sign for children under 18, and airlines must refuse boarding without a completed declaration.',
+    href: '/blog/us-cdc-ebola-declaration-flights-from-india-2026/',
+    source: { label: 'CDC: Attestation order for all persons travelling by air to the United States', url: 'https://www.cdc.gov/port-health/legal-authorities/attestation-order.html' },
+  },
+  {
+    date: '2026-10-29',
+    headline: 'Appeals court keeps US green card lottery shut; DV-2027 registration did not open',
+    summary:
+      'On 29 October 2026 the Ninth Circuit stayed a district court order that required the State Department to open DV-2027 registration by 1 November 2026. No DV-2027 or DV-2028 dates have been announced, and Indian-born applicants remain ineligible unless they qualify through a spouse\'s or parent\'s country of birth.',
+    href: '/blog/can-indians-apply-us-green-card-lottery-dv-2028/',
+    source: { label: 'Bloomberg Law: Diversity Immigrant Visa Lottery Can Remain Paused as US Appeals', url: 'https://news.bloomberglaw.com/litigation/diversity-immigrant-visa-lottery-can-remain-paused-as-us-appeals' },
+  },
+  {
+    date: '2026-10-22',
+    headline: 'Uzbekistan visa-free entry: qualifying visa must be in your latest passport',
+    summary:
+      'The Embassy of India in Tashkent says Uzbek authorities apply the 30-day visa exemption only on an Indian traveller\'s latest valid passport. A US, UK, Schengen or other qualifying visa in an expired or old passport is not being accepted, so such travellers need the e-visa.',
+    href: '/blog/kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians/',
+    source: { label: 'Embassy of India, Tashkent: Advisory on visa-free travel (22 Oct 2026)', url: 'https://eoitashkent.gov.in/wp-content/uploads/2026/10/advisory-dt-oct-22-2026.pdf' },
+  },
+  {
+    date: '2026-10-08',
+    headline: 'US proposes USD 70,000 fee for first OPT, USD 30,000 for later OPT, paid by schools',
+    summary:
+      'A DHS proposed rule published on 8 October 2026 would make SEVP-certified schools pay USD 70,000 for a student\'s first OPT and USD 30,000 for any later OPT, including STEM OPT extensions. It is not in effect, and comments under docket ICEB-2026-0100 close on 9 November 2026.',
+    href: '/blog/us-h1b-grace-period-opt-fee-proposals-2026-indians/',
+    source: { label: 'Federal Register: Optional Practical Training Fees', url: 'https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees' },
+  },
   {
     date: '2026-11-01',
     headline: 'Kazakhstan starts QazETA pilot; free e-permit becomes mandatory for Indians on 1 July 2027',
@@ -326,8 +366,8 @@ export const TRAVEL_NEWS = [
       'Indians with a valid multiple-entry US, UK, Schengen, Canada, Australia, New Zealand, Japan or South Korea visa can stay up to 30 days without a visa. Everyone else should use the e-visa.',
     href: '/blog/kazakhstan-uzbekistan-kyrgyzstan-visa-for-indians/',
     source: {
-      label: 'Uzbekistan Tourism Committee',
-      url: 'https://gov.uz/en/uzbektourism/news/view/228993',
+      label: 'Embassy of India, Tashkent',
+      url: 'https://eoitashkent.gov.in/visa-free-travel/',
     },
   },
   {

@@ -7,6 +7,795 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  // --- 5 November 2026: CDC Ebola declaration, H-1B/OPT proposals, DV-2028 lottery. ---
+  {
+    "slug": "us-cdc-ebola-declaration-flights-from-india-2026",
+    "title": "CDC Ebola declaration form: what Indians flying to the US must do",
+    "metaTitle": "CDC Ebola declaration for US flights from India | Travlys",
+    "metaDescription": "Every passenger flying to the US must now sign a CDC Ebola declaration (no DRC visit in 21 days). Who signs, children, transits, and what to do at check-in.",
+    "excerpt": "Since 4 November 2026, everyone boarding a flight to the US, Indians included, must sign a one-page CDC declaration that they have not been in the DR Congo in the past 21 days. Here is what it means at check-in, for families and for connecting flights.",
+    "date": "2026-11-05",
+    "updated": "2026-11-05",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "US travel rules",
+      "CDC Ebola declaration",
+      "Flights to USA",
+      "US visa",
+      "Students",
+      "H-1B",
+      "Family travel"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-changes-2026-indian-applicants",
+      "us-visa-appointment-wait-time-india-2026",
+      "us-visa-integrity-fee-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Apply for your US visa with Travlys"
+    },
+    "faqs": [
+      {
+        "q": "What is the CDC Ebola declaration form?",
+        "a": "It is a one-page CDC Traveler Disclosure and Attestation (form 367886-A) in which you confirm you have not been in the Democratic Republic of the Congo in the 21 days before boarding a flight to the US. Every passenger and crew member must complete it, on paper or digitally, for flights departing at or after 11:59 pm EST on 3 November 2026. Airlines must refuse boarding to anyone who has not completed it."
+      },
+      {
+        "q": "Do I need the Ebola declaration if I am flying from India to the US?",
+        "a": "Yes. The rule covers every person boarding any flight to the United States from a foreign country, whatever their nationality or route. Indian tourists, students, H-1B workers, parents on visitor visas, OCI holders and US citizens all sign it. If you have not been in the DR Congo in the past 21 days, you simply confirm that during check-in and travel as usual."
+      },
+      {
+        "q": "Who signs the Ebola declaration for children?",
+        "a": "A parent, guardian or another authorised adult signs for anyone under 18. Each traveller, including an infant, needs a separate declaration, but one adult in the travelling party can complete all of them by choosing the option to attest on behalf of another person. A travel companion can also sign for an adult who cannot sign, such as an elderly parent with a disability."
+      },
+      {
+        "q": "Where do I get the CDC Ebola declaration form?",
+        "a": "Your airline gives it to you, usually as a step in online check-in or app check-in, or as a paper form or question at the airport counter. CDC also publishes the form as a PDF on its attestation order page (English form 367886-A, Spanish 367886-B). Follow your airline's process, because the airline must record a completed declaration for each passenger before boarding."
+      },
+      {
+        "q": "Does a transit in Dubai, Doha, Europe or Nairobi affect the declaration?",
+        "a": "No. Only presence in the DR Congo counts for this form, so connections in the Gulf, Europe, Nairobi or Addis Ababa do not change your answer. A connection at an airport inside the DR Congo does count, even if you never left the plane. Note that a separate CDC order restricts entry for foreign nationals who were in the DRC, Uganda or South Sudan in the past 21 days."
+      },
+      {
+        "q": "Is the new US entry rule from November 2026 a visa change?",
+        "a": "No. The CDC order is a boarding check run by airlines and does not mention visas. The DS-160, interview process, fees and documents for B1/B2, F-1 and H-1B applicants are unchanged by it. You still need a valid US visa, green card or US passport, plus the signed declaration, to board."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Since 10:29 am India time on 4 November 2026, every person boarding a flight to the United States must sign a short CDC declaration that they have not been in the Democratic Republic of the Congo (DRC) in the 21 days before boarding. It applies to Indian tourists, students, H-1B workers, parents visiting children and US citizens alike, including babies, whose parent signs for them. If you have not been to the DRC, it takes a minute at check-in and nothing about your visa changes."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**What it is:** a signed CDC Traveler Disclosure and Attestation (form 367886-A, OMB No. 0920-1474) confirming you were not in the DRC in the 21 days before boarding. **Who:** every person on a US-bound flight, of any age or nationality, including crew and passengers only connecting through the US. **Starts:** flights departing at or after 11:59 pm EST on 3 November 2026 (10:29 am IST on 4 November). **Ends:** 18 December 2026, unless CDC ends, changes or extends it. **How:** paper or digital, usually at check-in; the airline must see it before you board. **Children:** a parent, guardian or authorised adult signs for anyone under 18. **No declaration:** no boarding. **Visas:** no change to visa rules, fees or the DS-160. **Risk:** CDC says the overall risk to the American public and travellers remains low."
+      },
+      {
+        "type": "h2",
+        "text": "What is the CDC Ebola declaration?"
+      },
+      {
+        "type": "p",
+        "text": "The US Centers for Disease Control and Prevention (CDC) issued the order on 22 October 2026 and an amended order on 28 October 2026, which made clear that airline crew are covered too. It responds to a large outbreak of Ebola disease caused by the Bundibugyo virus, centred in eastern DRC. CDC's outbreak page, updated on 3 November, lists more than 10,500 confirmed cases, almost all of them in the DRC, and no cases linked to this outbreak in the United States."
+      },
+      {
+        "type": "p",
+        "text": "The form itself is one page. You choose one of two options: you attest for yourself, or you attest on behalf of a person you are authorised to act for. You then confirm you have answered truthfully, print your name, sign and date it. Presence in the DRC means any physical presence, including connecting through a DRC airport even if you never left the plane. Flying over the country does not count."
+      },
+      {
+        "type": "h2",
+        "text": "Do I need to fill the Ebola form if I have never been to Congo?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. The declaration is not only for people who visited Africa: every person on every flight to the US must complete it, and the airline is not allowed to board you without it. If you have not been in the DRC, you simply attest that and fly as normal."
+      },
+      {
+        "type": "h2",
+        "text": "What Indian passengers actually do at check-in"
+      },
+      {
+        "type": "p",
+        "text": "The order lets airlines collect the declaration on paper or digitally, and CDC encourages airlines to build it into paperless check-in. So the exact screen depends on your airline. Expect one of these:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Online or app check-in:** a declaration step or tick box before your boarding pass is issued. Complete it for every name on the booking.",
+          "**Airport counter:** a paper form, or the agent asks and records your answer. Airline staff may type it in for you, but you are still the one making the statement.",
+          "**Transfer or gate check:** the airline must confirm your declaration at or before boarding the US-bound flight, so some carriers may check again at the hub or gate."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Nonstop flights from Delhi or Mumbai"
+      },
+      {
+        "type": "p",
+        "text": "You will be asked during check-in for that flight. Do it online if your airline offers it, because counters for US flights are already slow with visa and document checks. Keep a screenshot of the confirmation in case the gate agent asks."
+      },
+      {
+        "type": "h3",
+        "text": "Via Dubai, Doha, Abu Dhabi or Europe"
+      },
+      {
+        "type": "p",
+        "text": "The rule applies to the flight into the US, so the airline operating that leg must confirm your declaration. On a single ticket, such as Ahmedabad to Chicago via Dubai, you will usually be asked at your first check-in in India. On separate tickets, expect to do it again when you check in for the US flight at the hub. If you clear US immigration before departure through preclearance, such as at Abu Dhabi or Dublin, the declaration still applies."
+      },
+      {
+        "type": "h3",
+        "text": "Via Africa"
+      },
+      {
+        "type": "p",
+        "text": "A fare through Addis Ababa or Nairobi does not change your answer, because only presence in the DRC counts for this form. A routing that stops in Kinshasa or Lubumbashi does, even if you stay on the plane. Separately, another CDC order suspends US entry for foreign nationals who were physically present in the DRC, Uganda or South Sudan in the past 21 days. CDC's page says its latest continuation, issued on 11 October 2026, runs for 30 days, so if your trip touches Uganda or South Sudan, check its current status before you book."
+      },
+      {
+        "type": "h2",
+        "text": "Families, children and elderly parents"
+      },
+      {
+        "type": "p",
+        "text": "Each person needs their own declaration, but one adult can complete them for others. A parent, guardian or another authorised person signs for anyone under 18. A travel companion can also sign for someone who cannot sign, for example an elderly parent with a disability. For a family of four flying Mumbai to Newark, that means four declarations, which one parent can complete."
+      },
+      {
+        "type": "p",
+        "text": "If your parents are flying alone on visitor visas, walk them through the online check-in step before the trip. If a wheelchair assistant or airline agent helps with the screen, they only enter data; the declaration is still your parent's own statement."
+      },
+      {
+        "type": "h2",
+        "text": "If you have been in the DRC in the last 21 days"
+      },
+      {
+        "type": "p",
+        "text": "You cannot board a US-bound flight until day 22. Day 0 is the day you left the DRC, and day 1 is the first full calendar day outside it. This applies to US citizens and green card holders too. Exemptions exist only for government-authorised medical transport and rare individual CDC exemptions on humanitarian or other important government grounds. Indians who work in the DRC, or visit for business, should plan at least 21 full days in India or elsewhere before flying to the US."
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes to avoid"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Completing it for yourself only.** Every name on the booking needs one, including infants.",
+          "**Ticking the wrong option.** Use the on-behalf option when you sign for a child or parent; the first option is only for yourself.",
+          "**Counting days loosely.** Count calendar days from the day you left the DRC. If you left 20 days ago, you cannot board yet.",
+          "**Leaving it to the airport.** Do it at online check-in where offered, and save a screenshot.",
+          "**Treating it as a formality.** A knowingly false statement to the US government can lead to criminal fines and imprisonment under 18 U.S.C. 1001, and the form warns it can also mean denial of boarding on future trips.",
+          "**Booking a cheap Africa routing without checking.** A connection in the DRC counts as presence, and a stop in Uganda or South Sudan can bring in the separate entry suspension."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Does anything change for US visas?"
+      },
+      {
+        "type": "p",
+        "text": "No. The CDC order does not mention visas, and nothing in it changes the DS-160, interviews, fees or documents for B1/B2, F-1 or H-1B applicants. It is a boarding check run by airlines. You still need a valid visa, green card or US passport and your usual documents. Our post on US visa changes in 2026 covers the visa side, including the visa integrity fee."
+      },
+      {
+        "type": "h2",
+        "text": "How long will this rule last?"
+      },
+      {
+        "type": "p",
+        "text": "The order runs until 18 December 2026 unless CDC rescinds or changes it earlier. CDC says any amendment or extension will depend on case counts, geographic spread, community transmission and containment capacity, so if you are flying around Christmas or New Year, check the CDC attestation page in mid-December. Airline groups asked CDC to reconsider before the start date, but the requirement took effect as scheduled."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys files US visas for Indian passport holders from ₹19,940 (service fee; government fees extra), with 5,000+ visas filed and a 98% approval rate. We check your documents before you apply, so your file is complete when you reach the interview. For other trips, use the visa checker at travlys.com/visa-checker/, follow rule changes on the travel news page at travlys.com/travel-news/, or WhatsApp us on +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules checked on 5 November 2026 against the CDC order and amended order, the Federal Register notice, CDC's attestation, outbreak and returning-traveller pages and the attestation form listed below. Airline check-in steps vary; follow your airline's instructions and check the CDC page before you fly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "CDC: Order: Requirement for Attestation by All Persons Traveling by Air to the United States",
+        "url": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html"
+      },
+      {
+        "label": "CDC: Notice and Amended Order (signed 28 October 2026)",
+        "url": "https://www.cdc.gov/port-health/media/pdfs/2026/10/CDC-Ebola-Attestation-Order-Signed.pdf"
+      },
+      {
+        "label": "Federal Register (public inspection): Notice of Agency Order, document 2026-21828",
+        "url": "https://public-inspection.federalregister.gov/2026-21828.pdf"
+      },
+      {
+        "label": "CDC: Traveler Disclosure and Attestation form (367886-A)",
+        "url": "https://www.cdc.gov/port-health/media/pdfs/2026/10/367886-A_FRM_EbolaAttestation_3_pass.pdf"
+      },
+      {
+        "label": "CDC: Ebola outbreak, current situation",
+        "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
+      },
+      {
+        "label": "CDC: Information for travelers returning from Ebola-affected areas",
+        "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html"
+      },
+      {
+        "label": "CDC: Order suspending the right to introduce certain persons from countries where a quarantinable communicable disease exists",
+        "url": "https://www.cdc.gov/port-health/legal-authorities/evdorder.html"
+      }
+    ]
+  },
+  {
+    "slug": "us-h1b-grace-period-opt-fee-proposals-2026-indians",
+    "title": "H-1B 60-Day Grace Period Ending? What the US Proposals Mean",
+    "metaTitle": "H-1B Grace Period and OPT Fee Proposals Explained | Travlys",
+    "metaDescription": "No, the H-1B 60-day grace period has not ended. DHS only proposed removing it, plus a USD 70,000 OPT fee. Current rules apply until a final rule takes effect.",
+    "excerpt": "Three US proposals that worry Indian students and H-1B workers are open for comment until 9 to 13 November 2026. None of them is law yet; here is what each would change and what to do now.",
+    "date": "2026-11-05",
+    "updated": "2026-11-05",
+    "readMinutes": 8,
+    "category": "Study abroad",
+    "tags": [
+      "H-1B",
+      "OPT",
+      "F-1 student visa",
+      "USA",
+      "US immigration rules",
+      "Study in USA",
+      "Visa rule changes 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1501466044931-62695aada8e9?w=1600&h=900&fit=crop",
+    "related": [
+      "study-abroad-visa-changes-2026-indian-students",
+      "us-visa-changes-2026-indian-applicants",
+      "us-visa-integrity-fee-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get help with your US visa application"
+    },
+    "faqs": [
+      {
+        "q": "Has the H-1B 60-day grace period been removed?",
+        "a": "No. As of 5 November 2026, DHS has only proposed removing it, in a rule published on 11 September 2026. The grace period in 8 CFR 214.1(l)(2) still applies today. It would end only if DHS publishes a final rule and that rule takes effect. Comments on the proposal close on 10 November 2026 under docket USCIS-2026-0364 on regulations.gov."
+      },
+      {
+        "q": "Do Indian students have to pay the USD 70,000 OPT fee?",
+        "a": "No one pays it today because it is only a proposal. Under the October 2026 proposal, the school, not the student, would pay USD 70,000 for a student's first OPT and USD 30,000 for any later OPT, including a STEM OPT extension. The proposal lets schools seek funding from employers or others. Whether any cost reaches students would depend on each school."
+      },
+      {
+        "q": "What is the new H-1B rule in November 2026?",
+        "a": "There is no new final H-1B rule in November 2026. What happens this month is that comment windows close on three DHS proposals: the OPT fee on 9 November, ending the 60-day grace period on 10 November and ending deference on extensions on 13 November. Current rules continue until any final rule is published and takes effect."
+      },
+      {
+        "q": "Is the USD 100,000 H-1B fee still in force?",
+        "a": "No, it is not being collected now. A federal court in Massachusetts vacated the policy on 8 June 2026, and on 24 July 2026 the First Circuit refused to reinstate it while the appeal goes on. Law firm reports say a California court also blocked it on 30 September 2026. A proclamation of 18 September 2026 extended the requirement to 21 September 2027, but the court orders still apply. Check USCIS before any new H-1B filing."
+      },
+      {
+        "q": "Can I comment on these rules if I live in India?",
+        "a": "Yes. Anyone can comment on regulations.gov; you do not need to be a US citizen or resident. Search the docket ID, click Comment, explain with specific facts how the change would affect you, and submit before the deadline. Comments are made public, so leave out passport numbers, addresses and other personal details."
+      },
+      {
+        "q": "Should I drop my Fall 2027 US study plans?",
+        "a": "Not because of a proposal alone. Current OPT rules still apply, and the duration of status rule is on hold after a court order. Ask your universities how they would handle an OPT fee, build a budget that does not depend fully on OPT income and keep a backup country on your list. For your own case, speak to a US immigration attorney."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The H-1B 60-day grace period has not ended. On 11 September 2026 the US Department of Homeland Security (DHS) only proposed removing it, and the same is true of the USD 70,000 OPT fee proposed on 8 October and the plan to end deference on H-1B and L-1 extensions proposed on 14 October. All three are open for public comment until 9 to 13 November 2026, and today's rules apply until a final rule is published and takes effect."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Grace period proposal:** published 11 Sep 2026, docket USCIS-2026-0364, comments close 10 Nov 2026. **OPT fee proposal:** published 8 Oct 2026, docket ICEB-2026-0100, USD 70,000 for a first OPT and USD 30,000 for later OPT, paid by the school, comments close 9 Nov 2026. **Deference proposal:** published 14 Oct 2026, docket USCIS-2026-0529, comments close 13 Nov 2026. **Legal status:** none of the three is law yet. **USD 100,000 H-1B fee:** vacated by a Massachusetts federal court on 8 Jun 2026 and not being collected. **D/S rule for F-1 students:** final rule published 17 Jul 2026 but blocked by a court on 14 Sep 2026."
+      },
+      {
+        "type": "h2",
+        "text": "Is the H-1B 60-day grace period ending?"
+      },
+      {
+        "type": "p",
+        "text": "Not yet. The grace period still exists today under 8 CFR 214.1(l)(2), and DHS has only proposed removing it. If DHS publishes a final rule after reading the comments, the change would apply from the date that rule takes effect, not before."
+      },
+      {
+        "type": "h3",
+        "text": "What the grace period is today"
+      },
+      {
+        "type": "p",
+        "text": "Since January 2017, a worker in E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 or TN status whose job ends early can stay up to 60 days, or until the I-94 end date if that comes sooner. In that window you can find a new employer who files for you, file to change to another status, or prepare to leave. It can be used once per authorised validity period. Dependants, such as H-4 spouses and children, rely on it too."
+      },
+      {
+        "type": "h3",
+        "text": "What the proposal would change"
+      },
+      {
+        "type": "p",
+        "text": "The proposal, titled Eliminating the Discretionary 60-Day Grace Period (91 FR 57807), would delete that provision. DHS says it would restore its older, long-standing policy. In practice, your status would end when your job ends, unless a new petition or a change of status is already filed. Your H-4 family would be affected in the same way. Some immigration lawyers say it is not yet clear how moving to a new H-1B employer would work in practice without any gap."
+      },
+      {
+        "type": "h2",
+        "text": "The USD 70,000 OPT fee proposal"
+      },
+      {
+        "type": "p",
+        "text": "Published on 8 October 2026 (91 FR 64566, docket ICEB-2026-0100), this proposal would charge a fee each time an F-1 student is recommended for Optional Practical Training (OPT). The amounts are **USD 70,000** for a student's first OPT and **USD 30,000** for any later OPT."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who pays:** the SEVP-certified school, not the student directly. The proposal says schools may fund it through contributions from outside parties such as employers.",
+          "**When:** the full amount must be paid before the school issues the OPT recommendation.",
+          "**First OPT:** USD 70,000, whether it is pre-completion or post-completion OPT.",
+          "**Later OPT:** USD 30,000. The DHS analysis treats a STEM OPT extension as a later OPT.",
+          "**Example:** a student who does pre-completion OPT and then post-completion OPT would cost the school USD 100,000 in total.",
+          "**Not settled:** whether schools would absorb the fee, pass it on, or recommend fewer students for OPT. The proposal does not decide this.",
+          "**Deadline:** comments must be received by 9 November 2026."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Ending deference on H-1B and L-1 extensions"
+      },
+      {
+        "type": "p",
+        "text": "The third proposal, published on 14 October 2026 (91 FR 65119, docket USCIS-2026-0529), would remove 8 CFR 214.1(c)(5). Today that rule says USCIS generally defers to an earlier approval when the same employer files an extension on the same facts. It covers all Form I-129 extensions, including H-1B, L-1, O-1 and TN, so it is wider than H-1B and L-1."
+      },
+      {
+        "type": "p",
+        "text": "If it becomes final, an officer could review your extension almost like a fresh case. That can mean more Requests for Evidence (RFEs) and slower decisions, even when nothing about your job has changed. Comments close on 13 November 2026."
+      },
+      {
+        "type": "h2",
+        "text": "What is already decided, and what is blocked"
+      },
+      {
+        "type": "h3",
+        "text": "USD 100,000 H-1B fee: blocked in court"
+      },
+      {
+        "type": "p",
+        "text": "The USD 100,000 payment from the September 2025 proclamation was vacated by the US District Court for the District of Massachusetts on 8 June 2026, in a case brought by 20 states. On 24 July 2026 the First Circuit Court of Appeals refused to put it back in force while the appeal continues. According to law firm Ogletree Deakins, it is not being collected, a California federal court separately blocked it on 30 September 2026, and USCIS has said it intends to collect it if the court orders are lifted. Separately, a presidential proclamation of 18 September 2026, published in the Federal Register on 23 September, extended the payment requirement until 21 September 2027; whether USCIS can collect it still depends on the court orders. The appeal is still pending, so this can change."
+      },
+      {
+        "type": "h3",
+        "text": "D/S rule for F-1 students: published, then paused"
+      },
+      {
+        "type": "p",
+        "text": "DHS did publish a final rule on 17 July 2026 (91 FR 44976) to replace duration of status (D/S) with a fixed admission end date for F, J and I visa holders, due to start on 15 September 2026. On 14 September 2026 a federal judge in Massachusetts granted a nationwide preliminary injunction, so the rule has not taken effect. Students continue under the D/S system for now, but the case is ongoing."
+      },
+      {
+        "type": "h3",
+        "text": "EAD automatic extensions: final"
+      },
+      {
+        "type": "p",
+        "text": "One related change is final. A DHS rule effective 14 October 2026 confirmed the end of automatic extensions for certain work permits (EADs) while a renewal is pending. If you or your spouse hold an EAD, check your category and file renewals as early as the rules allow."
+      },
+      {
+        "type": "h2",
+        "text": "Proposals are not law: how the process works"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Proposed rule:** published in the Federal Register with a comment window. Nothing changes yet.",
+          "**Comments:** DHS must consider the comments and respond to significant points in any final rule.",
+          "**Final rule:** DHS can finalise, change or drop the proposal. A final rule states its own effective date.",
+          "**Courts:** final rules can be challenged, as the D/S rule and the USD 100,000 fee show."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "There is no fixed timeline. A final rule could come within months, or much later. Be careful with social media posts that say a rule starts next week without pointing to a Federal Register notice."
+      },
+      {
+        "type": "h2",
+        "text": "What students planning Fall 2027 should do now"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Do not cancel plans over a proposal.** Current OPT rules still apply.",
+          "**Ask each shortlisted university in writing** how it would handle the OPT fee if it becomes final: absorb it, recover it from employers or students, or limit recommendations.",
+          "**Build two budgets:** one with OPT income as it works today, one where OPT is harder to get. Check that you could still repay an education loan.",
+          "**Look at timing:** a two-year master's starting in Fall 2027 reaches post-completion OPT around mid-2029, so the final shape of these rules matters more than today's headlines.",
+          "**Keep a backup country** on your list. Our posts on UK student changes 2026-27 and Australia student visa rules cover current post-study work options.",
+          "**Plan your F-1 visa interview early** once you have your I-20. Our post on US visa appointment wait times explains current waits."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What current H-1B and L-1 holders should do now"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**The grace period still applies today.** If you lose your job now, the current 60-day window is available.",
+          "**Keep an emergency fund** and an updated CV, so you can move fast if a final rule removes the gap.",
+          "**Keep records together:** pay slips, I-797 approval notices, I-94 records and offer letters.",
+          "**For extensions,** prepare as if it were a new petition: detailed job duties, degree evaluation and client letters where relevant. File well before your status ends.",
+          "**H-4 families:** your status follows the main visa holder's, so plan together.",
+          "**Speak to a US immigration attorney** before changing jobs, travelling while a case is pending, or if you are laid off."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How to submit a comment on regulations.gov"
+      },
+      {
+        "type": "p",
+        "text": "Anyone can comment, including students, parents and workers in India. Comments are published, so do not share passport numbers, A-numbers or other private details."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Go to regulations.gov and search the docket ID: **USCIS-2026-0364** (grace period), **ICEB-2026-0100** (OPT fee) or **USCIS-2026-0529** (deference).",
+          "Open the proposed rule and click Comment.",
+          "Write in plain English. Explain how the change would affect you, with facts such as costs, dates and family situation.",
+          "Submit and save the tracking number you receive.",
+          "Deadlines run on US Eastern time. The grace period and deference dockets accept comments until midnight Eastern at the end of 10 November and 13 November, which is about 10:30 am IST the next day. OPT fee comments must be received by 9 November. Do not leave it to the last hour."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A comment is not a vote. DHS weighs reasons and evidence, so one specific, factual comment counts for more than a copied template."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not give legal advice on US immigration status; for that, consult a licensed US immigration attorney. What we do is file US visa applications from ₹19,940 (service fee, government fees extra), check your documents before your interview and track rule changes on our travel news page. We have filed 5,000+ visas with a 98% approval rate. WhatsApp us on +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules were checked on 5 November 2026 against the Federal Register notices, regulations.gov dockets and court reports listed below. Proposals can change or be withdrawn, so check the Federal Register before you act."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Federal Register: Eliminating the Discretionary 60-Day Grace Period (proposed rule, 11 Sep 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period"
+      },
+      {
+        "label": "Federal Register: Optional Practical Training Fees (proposed rule, 8 Oct 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees"
+      },
+      {
+        "label": "Federal Register: Removing Deference to Prior USCIS Determinations of Eligibility (proposed rule, 14 Oct 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility"
+      },
+      {
+        "label": "Federal Register: Establishing a Fixed Time Period of Admission for F, J and I nonimmigrants (final rule, 17 Jul 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+      },
+      {
+        "label": "Federal Register: Removal of Automatic Extensions for Certain Employment Authorization Documents (final rule, 14 Oct 2026)",
+        "url": "https://www.federalregister.gov/d/2026-20955"
+      },
+      {
+        "label": "Regulations.gov: Docket USCIS-2026-0364",
+        "url": "https://www.regulations.gov/docket/USCIS-2026-0364"
+      },
+      {
+        "label": "Regulations.gov: Docket ICEB-2026-0100",
+        "url": "https://www.regulations.gov/docket/ICEB-2026-0100"
+      },
+      {
+        "label": "Regulations.gov: Docket USCIS-2026-0529",
+        "url": "https://www.regulations.gov/docket/USCIS-2026-0529"
+      },
+      {
+        "label": "Ogletree Deakins: Federal court issues new order blocking agency implementation of USD 100,000 H-1B fee",
+        "url": "https://ogletree.com/insights-resources/blog-posts/federal-court-issues-new-order-blocking-agency-implementation-of-100000-h-1b-fee"
+      },
+      {
+        "label": "EIG Law: First Circuit refuses to reinstate USD 100,000 H-1B fee while appeal proceeds",
+        "url": "https://eiglaw.com/first-circuit-refuses-to-reinstate-100000-h-1b-fee-while-appeal-proceeds/"
+      },
+      {
+        "label": "AIP FYI: Court temporarily blocks rule ending duration of status for international students",
+        "url": "https://www.aip.org/fyi/court-temporarily-blocks-rule-ending-duration-of-status-for-international-students"
+      },
+      {
+        "label": "ICEF Monitor: US court grants preliminary injunction blocking end of duration of status",
+        "url": "https://monitor.icef.com/2026/09/us-court-grants-preliminary-injunction-to-block-rule-that-would-have-ended-duration-of-status-admissions-for-international-students/"
+      },
+      {
+        "label": "Federal Register: Restriction on Entry of Certain Nonimmigrant Workers (Proclamation of 18 September 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19554/restriction-on-entry-of-certain-nonimmigrant-workers"
+      }
+    ]
+  },
+  {
+    "slug": "can-indians-apply-us-green-card-lottery-dv-2028",
+    "title": "Can Indians Apply for the US Green Card Lottery (DV-2028)?",
+    "metaTitle": "Green Card Lottery India: DV-2028 Eligibility | Travlys",
+    "metaDescription": "Indian-born applicants cannot enter the DV-2028 green card lottery, and no registration dates exist yet. Spouse and parent exceptions, new rules, scam warnings.",
+    "excerpt": "India is on the Diversity Visa ineligible list, and DV-2028 registration has not opened. Here is what is confirmed as of 5 November 2026, the spouse and parent exceptions, and realistic alternatives.",
+    "date": "2026-11-05",
+    "updated": "2026-11-05",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "green card lottery",
+      "DV-2028",
+      "DV-2027",
+      "Diversity Visa",
+      "US immigration",
+      "US visa",
+      "visa scams",
+      "H-1B"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1508433957232-3107f5fd5995?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-from-india-2026-complete-guide",
+      "us-visa-appointment-wait-time-india-2026",
+      "us-visa-changes-2026-indian-applicants"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Apply for a US visitor visa"
+    },
+    "faqs": [
+      {
+        "q": "Can Indians apply for the green card lottery in 2026?",
+        "a": "No, not if you were born in India. India is on the Diversity Visa ineligible list because more than 50,000 Indian natives immigrated to the US in the previous five years. In any case, no DV lottery registration was open as of 5 November 2026. You may still qualify through your spouse's country of birth, or a parent's in limited cases, once registration opens."
+      },
+      {
+        "q": "When is DV-2028 registration?",
+        "a": "No dates have been announced. As of 5 November 2026 the State Department has not published DV-2028 registration dates or instructions, and DV-2027 registration has not opened either. A court order to open DV-2027 by 1 November 2026 was stayed by the Ninth Circuit on 29 October 2026. Watch dvprogram.state.gov and travel.state.gov for official dates."
+      },
+      {
+        "q": "Is India eligible for DV-2028?",
+        "a": "Probably not, but the official list is not out yet. India was ineligible for DV-2026, the latest year with published instructions, and has been on the ineligible list for many years. The list is recalculated every year using five years of US immigration data. Check the DV-2028 instructions when the State Department publishes them."
+      },
+      {
+        "q": "Can I apply using my wife's or husband's country of birth?",
+        "a": "Yes, if your spouse was born in an eligible country. You can claim your spouse's country of birth, but you both must be named on the selected entry, both be issued diversity visas, and enter the US together. It does not work if your spouse is already a US citizen or green card holder, because they would not be issued a diversity visa."
+      },
+      {
+        "q": "Is there a fee to enter the DV lottery now?",
+        "a": "Yes, USD 1. A State Department final rule effective 16 September 2025 added a USD 1 registration fee, collected at the time of entry through an authorised US government payment portal. Selectees later pay the USD 330 Diversity Visa application fee. Anyone charging thousands of rupees to \"register\" you is not the US government."
+      },
+      {
+        "q": "Do I need a passport for the DV lottery?",
+        "a": "Yes, for future entries. A final rule effective 10 April 2026 requires entrants to give valid, unexpired passport details and upload a scan of the passport's biographic and signature page, unless an exemption applies. Indians who qualify through a spouse or parent should make sure their passport is valid before registration opens."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "No, not if you were born in India. India is on the list of countries whose natives cannot enter the US Diversity Visa (green card) lottery, because more than 50,000 Indian natives immigrated to the US through family and employment categories in the previous five years. On top of that, as of 5 November 2026 the State Department has **not opened registration or announced any dates for DV-2028**, and the DV-2027 lottery has not run either. The only openings for an Indian-born person are the official exceptions: claiming a spouse's country of birth, or in rare cases a parent's."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Born in India:** not eligible for the DV lottery (India is on the ineligible list in the latest published instructions, DV-2026). **Reason:** more than 50,000 Indian natives immigrated to the US in the previous five years. **DV-2028 registration:** not open; no dates announced as of 5 November 2026. **DV-2027:** registration never opened; a court order to open it by 1 November 2026 was stayed on appeal on 29 October 2026. **Exceptions:** spouse's country of birth, or a parent's country of birth if neither parent was born in or resident of India when you were born. **New rules for the next entry:** valid passport details and a passport scan (rule in force since 10 April 2026), plus a USD 1 registration fee (rule in force since 16 September 2025). **Only official website:** dvprogram.state.gov. **Selectee visa fee (if picked):** USD 330."
+      },
+      {
+        "type": "h2",
+        "text": "Can Indians apply for the DV-2028 green card lottery?"
+      },
+      {
+        "type": "p",
+        "text": "Most Indians cannot. Eligibility depends on your **country of birth**, not your passport or where you live, and India has been on the ineligible list for many years. Even for people who do qualify, there is nothing to apply for yet, because DV-2028 registration has not opened."
+      },
+      {
+        "type": "h2",
+        "text": "Why India is not eligible"
+      },
+      {
+        "type": "p",
+        "text": "The Diversity Visa programme exists for people from countries with low immigration to the US. US law treats a country as \"high admission\" if more than **50,000** of its natives immigrated in family-sponsored and employment-based categories over the previous five years. The Department of Homeland Security recounts this every year, so the list can change."
+      },
+      {
+        "type": "p",
+        "text": "The DV-2026 instructions, published in the Federal Register on 1 October 2024, list India among the ineligible countries, along with Bangladesh, Pakistan, China, the Philippines, Vietnam, Nigeria, Brazil, Canada, Mexico and others. No DV-2027 or DV-2028 instructions have been published, so no newer list exists. India coming off the list would be a surprise, but check the instructions once they are released."
+      },
+      {
+        "type": "h2",
+        "text": "DV-2028 and DV-2027 status on 5 November 2026: what is confirmed"
+      },
+      {
+        "type": "h3",
+        "text": "What the State Department has said"
+      },
+      {
+        "type": "p",
+        "text": "On **5 November 2025** the State Department posted that it is \"implementing certain changes\" to the DV entry process and would announce the DV-2027 registration start date \"as soon as practicable\". It said the visa application window for DV-2027 selectees stays **1 October 2026 to 30 September 2027**. On **23 December 2025** it paused all diversity visa issuances after a shooting suspect was found to have entered the US through the programme. No DV-2027 or DV-2028 registration dates have been announced since."
+      },
+      {
+        "type": "h3",
+        "text": "The court case"
+      },
+      {
+        "type": "p",
+        "text": "A law firm, Red Eagle Law, sued to force the lottery open. On **14 October 2026** a federal judge in the Southern District of California ordered the State Department to announce DV-2027 registration details by 29 October and open registration by **1 November 2026**. On **29 October 2026** the Ninth Circuit Court of Appeals stayed that order while the government's appeal continues, according to Bloomberg Law and the law firm Fragomen. So DV-2027 registration did not open on 1 November. A separate lawsuit reported by Newsweek asks a court to order 30-day registration windows for both DV-2027 and DV-2028."
+      },
+      {
+        "type": "h3",
+        "text": "Clearing up conflicting reports"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**\"DV-2028 entry ran 2 October to 4 November 2026\":** we found no official notice of this. The State Department has published no DV-2028 dates. Treat any page saying so as wrong.",
+          "**\"A judge ordered the lottery reopened by 1 November\":** true, but that order was for **DV-2027**, not DV-2028, and it has been stayed on appeal.",
+          "**\"No DV-2027 or DV-2028 dates announced\":** this is still the position as of 5 November 2026.",
+          "**DV-2027 results:** none exist. The State Department has not said when Entrant Status Check results might be available, and no one has been selected for DV-2027."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "New rules for the next entry period"
+      },
+      {
+        "type": "p",
+        "text": "Two rules are already law and should apply whenever registration next opens."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport required:** a final rule effective **10 April 2026** requires every entrant to give valid, unexpired passport details and upload a scan of the passport's biographic and signature page, unless an exemption applies.",
+          "**USD 1 entry fee:** a final rule effective **16 September 2025** adds a USD 1 fee to register, collected through an authorised US government payment portal at the time of entry. Earlier lotteries were free to enter. The USD 330 Diversity Visa application fee for selectees is separate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Both rules confirm what scam sites get wrong: the official entry cost is USD 1, not thousands of rupees."
+      },
+      {
+        "type": "h2",
+        "text": "The exceptions: when an Indian-born person can enter"
+      },
+      {
+        "type": "p",
+        "text": "The official instructions allow exactly three ways to choose your country of chargeability: your own country of birth, your spouse's, or in limited cases a parent's. If you were born in India, only the second and third can help."
+      },
+      {
+        "type": "h3",
+        "text": "Your spouse's country of birth"
+      },
+      {
+        "type": "p",
+        "text": "If your husband or wife was born in an eligible country, you can enter the lottery charged to that country. The catch: you **both** must be named on the selected entry, **both** be found eligible and issued diversity visas, and **enter the US together**. So this works only if your spouse is immigrating with you on a DV. If your spouse is already a US citizen or green card holder, it does not help."
+      },
+      {
+        "type": "h3",
+        "text": "A parent's country of birth"
+      },
+      {
+        "type": "p",
+        "text": "You can claim the country of birth of either parent if **neither parent was born in India and neither was resident in India at the time of your birth**. The instructions say people simply visiting, studying or temporarily working in a country are not generally considered residents. Example: you were born in Chennai while both your parents, born in an eligible country, were in India on a short work posting. If your parents had settled in India, this route is closed. You must explain any alternate chargeability on the entry form, and listing a country you cannot prove disqualifies you."
+      },
+      {
+        "type": "h3",
+        "text": "What does not count"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**A foreign passport:** an Indian-born person who became a Canadian or British citizen is still charged to India.",
+          "**Living abroad:** residence in the UAE, UK or anywhere else does not change your country of birth.",
+          "**Grandparents' birthplace:** only your own, your spouse's or your parents' country of birth can be used.",
+          "**Education requirement:** you also need a high school education (12 years of schooling) or two years of qualifying work experience in the last five years."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Scams and fake \"lottery agents\""
+      },
+      {
+        "type": "p",
+        "text": "Every year, Indians are targeted by websites and agents selling \"green card lottery registration\". Remember these points from the official instructions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Entries are accepted **only at dvprogram.state.gov**. Official US government sites end in .gov.",
+          "The US government **never emails or posts letters** to tell you that you have won. Results are only on Entrant Status Check.",
+          "The State Department will never ask you to send money by mail or by Western Union.",
+          "Do the entry yourself. Dishonest agents keep the confirmation number and then demand money. Without that number you cannot check your result.",
+          "Only one entry per person is allowed. Multiple entries disqualify you.",
+          "Right now there is **nothing to register for**, so anyone taking money for DV-2028 entry today is not acting for the US government."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Realistic routes for Indians who want to live or work in the US"
+      },
+      {
+        "type": "p",
+        "text": "None of these is a lottery shortcut, and none is guaranteed. Each has its own costs and long timelines."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Study (F-1):** the most common route for young Indians. You need admission to a SEVP-certified US institution and proof of funds. Post-study work rules such as OPT are under review.",
+          "**Work (H-1B):** needs a US employer and a lottery-based cap selection. A presidential proclamation of 18 September 2026 extended the **USD 100,000 payment** for new H-1B petitions for workers outside the US until 21 September 2027, though law firm reports say court orders currently stop USCIS from collecting it. Selection is now weighted towards higher wage levels.",
+          "**Employment green cards (EB-1, EB-2, EB-3, EB-5):** Indian-born applicants face some of the longest waits because of per-country limits. The State Department has posted notices that India reached its limit in EB-2 and the EB-5 unreserved category. Check the monthly Visa Bulletin.",
+          "**Family sponsorship:** possible if a close relative is a US citizen or green card holder, but queues for Indian-born applicants can run for years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Speak to a licensed US immigration attorney before you commit money to any of these routes."
+      },
+      {
+        "type": "h2",
+        "text": "If you only want to visit: the B1/B2 visa"
+      },
+      {
+        "type": "p",
+        "text": "Many people searching for the green card lottery really want to visit family or travel. For that you need a **B1/B2 visitor visa**, a separate process with a DS-160 form, a fee and an interview. Our posts on US visa changes in 2026, the US visa integrity fee and appointment wait times cover the current rules."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file green card or DV lottery entries, and you should never pay anyone to do that. What we do file is the **US B1/B2 visitor visa**, from ₹19,940 service fee (government fees extra), with 5,000+ visas filed and a 98% approval rate. We check your DS-160 and documents and prepare you for the interview. Use our visa checker at travlys.com/visa-checker/ for other countries, or message us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "callout",
+        "label": "Last checked",
+        "text": "Rules in this guide were checked on 5 November 2026 against the sources listed below, including the Federal Register (DV-2026 instructions, the passport rule and the USD 1 fee rule) and State Department notices. travel.state.gov and dvprogram.state.gov blocked automated access that day, so State Department notices were read from archived copies and court developments from Bloomberg Law and Fragomen. Check dvprogram.state.gov yourself before acting on any date."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Federal Register: Diversity Visa Instructions for DV-2026 (1 October 2024)",
+        "url": "https://www.federalregister.gov/documents/2024/10/01/2024-22482/diversity-visa-instructions-for-dv-2026"
+      },
+      {
+        "label": "Federal Register: Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program (final rule, 11 March 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04737/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program"
+      },
+      {
+        "label": "Federal Register: Schedule of Fees for Consular Services, USD 1 DV registration fee (final rule, 16 September 2025)",
+        "url": "https://www.federalregister.gov/documents/2025/09/16/2025-17851/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and"
+      },
+      {
+        "label": "US Department of State: Changes to Entry Period for 2027 Diversity Visa (DV) Program",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/changes-to-2027-dv-program-entry-period.html"
+      },
+      {
+        "label": "US Department of State: Diversity Visa Issuance Updated Guidance (23 December 2025)",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/diversity-visa-issuance-updated-guidance.html"
+      },
+      {
+        "label": "US Department of State: Electronic Diversity Visa Program (official entry site)",
+        "url": "https://dvprogram.state.gov/"
+      },
+      {
+        "label": "Bloomberg Law: Diversity Immigrant Visa Lottery Can Remain Paused as US Appeals",
+        "url": "https://news.bloomberglaw.com/litigation/diversity-immigrant-visa-lottery-can-remain-paused-as-us-appeals"
+      },
+      {
+        "label": "Fragomen: Ninth Circuit Stays District Court Order, Leaving FY 2027 Diversity Visa Lottery Program Halted",
+        "url": "https://www.fragomen.com/insights/united-states-ninth-circuit-stays-district-court-order-leaving-fy-2027-diversity-visa-lottery-program-halted-while-litigation-continues.html"
+      },
+      {
+        "label": "Newsweek: Green Card Update: New Lawsuit Revives Diversity Visa Lottery Fight",
+        "url": "https://www.newsweek.com/green-card-update-new-lawsuit-revives-diversity-visa-lottery-fight-12648458"
+      },
+      {
+        "label": "Federal Register: Proclamation 11069, Restriction on Entry of Certain Nonimmigrant Workers (23 September 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19554/restriction-on-entry-of-certain-nonimmigrant-workers"
+      }
+    ]
+  },
   // --- 4 November 2026: Schengen visa fees (cost searches rank 70-83). ---
   {
     "slug": "schengen-visa-fees-for-indians-2026",
@@ -1401,8 +2190,8 @@ export const BLOG_POSTS = [
         "url": "https://www.visitsaudi.com/en/campaigns/package-visa"
       },
       {
-        "label": "Uzbekistan Tourism Committee: visa-free entry for holders of certain visas",
-        "url": "https://gov.uz/en/uzbektourism/news/view/228993"
+        "label": "Embassy of India, Tashkent: Visa-free travel to Uzbekistan for Indian nationals",
+        "url": "https://eoitashkent.gov.in/visa-free-travel/"
       },
       {
         "label": "Expresso das Ilhas: Novo despacho redefine países sujeitos a visto e reforça controlo fronteiriço",
@@ -6912,7 +7701,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Kazakhstan is visa-free for Indians for 14 days. Uzbekistan needs a USD 20 e-visa unless you hold a US, UK or Schengen visa. Kyrgyzstan needs an e-visa.",
     "excerpt": "Kazakhstan lets Indians in visa-free for 14 days. Uzbekistan is visa-free for 30 days only if you hold a valid multiple-entry US, UK, Schengen or similar visa; otherwise it is a USD 20 e-visa. Kyrgyzstan needs an e-visa.",
     "date": "2026-10-27",
-    "updated": "2026-10-27",
+    "updated": "2026-11-05",
     "readMinutes": 8,
     "category": "Travel planning",
     "tags": [
@@ -6940,7 +7729,11 @@ export const BLOG_POSTS = [
       },
       {
         "q": "Is Uzbekistan visa-free for all Indians now?",
-        "a": "No. Despite August 2026 headlines, Presidential Decree PF-180, in force from 1 September 2026, gives 30 days visa-free only to Indians holding a valid multiple-entry business or tourist visa from the US, UK, a Schengen state, Canada, Australia, Japan, New Zealand or South Korea, plus an air ticket out. Everyone else still needs a visa, usually the e-visa from e-visa.gov.uz."
+        "a": "No. Despite August 2026 headlines, Presidential Decree PF-180, in force from 1 September 2026, gives 30 days visa-free only to Indians holding a valid multiple-entry business or tourist visa from the US, UK, a Schengen state, Canada, Australia, Japan, New Zealand or South Korea, plus an air ticket out. The qualifying visa must be in your latest valid passport. Everyone else still needs a visa, usually the e-visa from e-visa.gov.uz."
+      },
+      {
+        "q": "Can I use a US, UK or Schengen visa that is in my old passport for Uzbekistan?",
+        "a": "No. The Embassy of India in Tashkent said on 22 October 2026 that, as informed by the Uzbek authorities, the exemption applies only on your latest valid passport, and a visa in an expired or old passport is not being accepted. If your qualifying visa is in a passport you have since replaced, apply for the USD 20 e-visa before you fly."
       },
       {
         "q": "How much does the Uzbekistan e-visa cost for Indians?",
@@ -6967,7 +7760,7 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Kazakhstan:** Visa-free, 14 days per entry, 42 days in any 180. **Kazakhstan, new:** Free QazETA authorisation phased in from 1 November 2026, mandatory from 1 July 2027. **Uzbekistan, visa-free route:** 30 days with a valid multiple-entry visa from the US, UK, Schengen, Canada, Australia, Japan, New Zealand or South Korea, plus an onward air ticket. **Uzbekistan, e-visa:** USD 20, single entry, 30 days, at e-visa.gov.uz. **Uzbekistan registration:** Within 3 days (hotels do it). **Kyrgyzstan:** Tourist e-visa up to 30 days, official review 5 working days; 7 days visa-free only with a long-term US, UK or Schengen visa, by air into Bishkek. **Direct flights:** Delhi to Almaty and Delhi to Tashkent."
+        "text": "**Kazakhstan:** Visa-free, 14 days per entry, 42 days in any 180. **Kazakhstan, new:** Free QazETA authorisation phased in from 1 November 2026, mandatory from 1 July 2027. **Uzbekistan, visa-free route:** 30 days with a valid multiple-entry visa from the US, UK, Schengen, Canada, Australia, Japan, New Zealand or South Korea, plus a confirmed onward air ticket; the visa must be in your latest passport. **Uzbekistan, e-visa:** USD 20, single entry, 30 days, at e-visa.gov.uz. **Uzbekistan registration:** Within 3 days (hotels do it). **Kyrgyzstan:** Tourist e-visa up to 30 days, official review 5 working days; 7 days visa-free only with a long-term US, UK or Schengen visa, by air into Bishkek. **Direct flights:** Delhi to Almaty and Delhi to Tashkent."
       },
       {
         "type": "h2",
@@ -7017,7 +7810,7 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "Watch out",
-        "text": "Do not fly to Tashkent on an Indian passport alone because a headline said visa-free. A single-entry Schengen visa, or one that has expired, does not qualify. If you are not covered, get the e-visa before you book non-refundable hotels."
+        "text": "Do not fly to Tashkent on an Indian passport alone because a headline said visa-free. A single-entry Schengen visa, or one that has expired, does not qualify. A valid US, UK or Schengen visa in an old passport does not count either: it must be in the passport you are travelling on. If you are not covered, get the e-visa before you book non-refundable hotels."
       },
       {
         "type": "h3",
@@ -7031,6 +7824,11 @@ export const BLOG_POSTS = [
           "**Condition:** An air ticket out to India or a third country.",
           "**Cost:** Nil."
         ]
+      },
+      {
+        "type": "callout",
+        "label": "New on 22 October 2026",
+        "text": "The Embassy of India in Tashkent says, as informed by the Uzbek authorities, that the visa exemption applies **only on your latest valid passport**. A visa in an expired or old passport is not being accepted. If your qualifying visa is in a passport you have since replaced, apply for the **USD 20 e-visa** before you fly."
       },
       {
         "type": "h3",
@@ -7127,10 +7925,18 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "Last checked",
-        "text": "Rules in this guide were checked on 27 October 2026 against the sources listed below. Central Asian entry rules are changing quickly, especially Kazakhstan's QazETA and Uzbekistan's visa-free regime, so check the official portal before you apply or fly."
+        "text": "Rules in this guide were checked on 5 November 2026 against the sources listed below. Central Asian entry rules are changing quickly, especially Kazakhstan's QazETA and Uzbekistan's visa-free regime, so check the official portal before you apply or fly."
       }
     ],
     "sources": [
+      {
+        "label": "Embassy of India, Tashkent: Advisory on visa-free travel (22 October 2026)",
+        "url": "https://eoitashkent.gov.in/wp-content/uploads/2026/10/advisory-dt-oct-22-2026.pdf"
+      },
+      {
+        "label": "Embassy of India, Tashkent: Visa-free travel to Uzbekistan for Indian nationals",
+        "url": "https://eoitashkent.gov.in/visa-free-travel/"
+      },
       {
         "label": "Ministry of Foreign Affairs of Kazakhstan: Kazakhstan introduces visa free travel for citizens of India, Iran, and China",
         "url": "https://www.gov.kz/memleket/entities/mfa/press/news/details/398648?lang=en"
@@ -7519,7 +8325,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: Australia biometrics, China direct filing, Australia student rules, Thailand 30 days.",
     "excerpt": "A dated, monthly-updated list of every significant visa and entry rule change for Indian passport holders in 2026, with what changed, who it affects and what to do.",
     "date": "2026-10-25",
-    "updated": "2026-10-31",
+    "updated": "2026-11-05",
     "readMinutes": 10,
     "category": "Visa rule updates",
     "tags": [
@@ -7583,6 +8389,22 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "3 Nov 2026: CDC Ebola declaration for all US-bound flights"
+      },
+      {
+        "type": "p",
+        "text": "Every person boarding a flight to the US, including Indian passengers, crew and transit travellers, must sign a CDC declaration that they have not been in the DR Congo in the 21 days before boarding. It applies to flights departing at or after 11:59 pm EST on 3 November 2026 (10:29 am IST on 4 November) and runs to 18 December 2026 unless changed. Parents sign for children under 18, and visa rules are unchanged."
+      },
+      {
+        "type": "h3",
+        "text": "29 Oct 2026: US green card lottery stays closed after appeals court stay"
+      },
+      {
+        "type": "p",
+        "text": "A federal judge had ordered the State Department to open DV-2027 registration by 1 November 2026, but the Ninth Circuit stayed that order on 29 October while the government appeals, according to Bloomberg Law and Fragomen. No DV-2027 or DV-2028 dates have been announced. India-born applicants remain ineligible except through a spouse's or, in limited cases, a parent's country of birth."
+      },
+      {
+        "type": "h3",
         "text": "26 Oct 2026: Australia expands biometrics for visa applicants in India"
       },
       {
@@ -7599,6 +8421,22 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
+        "text": "22 Oct 2026: Uzbekistan visa-free only on your latest passport"
+      },
+      {
+        "type": "p",
+        "text": "The Indian Embassy in Tashkent says, citing Uzbek authorities, that the 30-day visa-free entry for holders of qualifying multiple-entry visas applies only on the latest valid passport. A visa in an expired or old passport is not being accepted. If your US, UK, Schengen or other qualifying visa is in an old passport, get the USD 20 e-visa instead."
+      },
+      {
+        "type": "h3",
+        "text": "14 Oct 2026: US proposes ending deference on H-1B and other I-129 extensions"
+      },
+      {
+        "type": "p",
+        "text": "DHS proposed that USCIS stop deferring to earlier approvals when it decides extensions filed on Form I-129, which covers H-1B, L-1, O-1, TN, E and other categories. It is only a proposal; comments close on 13 November 2026."
+      },
+      {
+        "type": "h3",
         "text": "9 Oct 2026: Armenia drops extra e-visa conditions for Indians"
       },
       {
@@ -7612,6 +8450,14 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "The October 2026 edition puts India **84th**, with **55 destinations** reachable without a visa arranged in advance. Business Today reports this as up one place from 85th, though other reports had India 81st in July. We could not view the figures on Henley & Partners' own site. The index counts visa-free, visa on arrival and ETA entries, not e-visas, so it understates how easily you can travel."
+      },
+      {
+        "type": "h3",
+        "text": "8 Oct 2026: US proposes USD 70,000 OPT fee for F-1 students"
+      },
+      {
+        "type": "p",
+        "text": "DHS proposed a fee of USD 70,000 for a student's first Optional Practical Training (OPT) and USD 30,000 for any later OPT, including STEM extensions, to be paid by the school before the OPT recommendation. It is only a proposal; comments close on 9 November 2026 and current OPT rules continue until a final rule takes effect."
       },
       {
         "type": "h3",
@@ -7660,6 +8506,14 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "Thailand revoked its 60-day visa exemption for all countries and gave Indian ordinary passport holders a **30-day** visa-free stay for tourism. India is not on the new visa on arrival list. Fill the free Thailand Digital Arrival Card within three days before arrival, and get a tourist visa or DTV on thaievisa.go.th if you need longer."
+      },
+      {
+        "type": "h3",
+        "text": "11 Sep 2026: US proposes ending the H-1B 60-day grace period"
+      },
+      {
+        "type": "p",
+        "text": "DHS proposed removing the up to 60-day grace period after job loss for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers and their dependants. Comments close on 10 November 2026, and the grace period still applies until a final rule takes effect."
       },
       {
         "type": "h3",
@@ -7740,6 +8594,14 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "Indians are among 40 nationalities who get a **free 30-day, double-entry** tourist ETA. You must still apply on eta.gov.lk before you fly; free does not mean no application. Business ETAs and extensions are still charged."
+      },
+      {
+        "type": "h3",
+        "text": "10 Apr 2026: Passport now required to enter the US DV lottery"
+      },
+      {
+        "type": "p",
+        "text": "A State Department final rule effective 10 April 2026 requires every Diversity Visa entrant to provide valid, unexpired passport details and upload a passport scan, unless exempt. A USD 1 registration fee has applied since 16 September 2025. Entries are accepted only at dvprogram.state.gov."
       },
       {
         "type": "h3",
@@ -8028,8 +8890,8 @@ export const BLOG_POSTS = [
         "url": "https://mfa.go.th/en/content/summary-press-briefing-190526"
       },
       {
-        "label": "Uzbekistan Tourism Committee: visa-free regime for Indian citizens from 1 September 2026",
-        "url": "https://gov.uz/en/uzbektourism/news/view/228993"
+        "label": "Embassy of India, Tashkent: Visa-free travel to Uzbekistan for Indian nationals",
+        "url": "https://eoitashkent.gov.in/visa-free-travel/"
       },
       {
         "label": "Embassy of Japan in India: Visa (fees from 1 July 2026)",
@@ -12321,8 +13183,8 @@ export const BLOG_POSTS = [
         "url": "https://www.mea.gov.in/press-releases.htm?dtl%2F40303%2FAdvisory_on_suspension_of_visa_waiver_facility_extended_to_Indian_nationals_traveling_to_Iran="
       },
       {
-        "label": "Uzbekistan Tourism Committee: visa-free regime for Indian citizens from 1 September 2026",
-        "url": "https://gov.uz/en/uzbektourism/news/view/228993"
+        "label": "Embassy of India, Tashkent: Visa-free travel to Uzbekistan for Indian nationals",
+        "url": "https://eoitashkent.gov.in/visa-free-travel/"
       },
       {
         "label": "Embassy of India Astana: Kazakhstan visa-free travel for Indians up to 14 days",
