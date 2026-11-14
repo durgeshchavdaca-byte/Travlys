@@ -707,7 +707,9 @@ export function buildCityVisaSchemas(dest, city) {
 export function getCityHubMeta(city) {
   const pagePath = `/from/${city.slug}`
   return {
-    title: `Visa Consultant in ${city.name}: Visa Agents for US, UK, Canada & Schengen | Travlys`,
+    title: city.isHQ
+      ? `Visa Agent in ${city.name} (Vastrapur): Visa Consultants for US, UK, Canada, Schengen | Travlys`
+      : `Visa Consultant in ${city.name}: Visa Agents for US, UK, Canada & Schengen | Travlys`,
     description:
       `Looking for a visa consultant or visa agent in ${city.name}? Travlys files US, UK, Canada, Schengen, Singapore and more visas for ${city.state} applicants. ` +
       `VFS at ${city.vfsCenter}. 98% approval across 5,000+ Indian visas, flat fees from ₹999.`,
@@ -717,6 +719,12 @@ export function getCityHubMeta(city) {
       `visa consultants in ${city.name.toLowerCase()}`,
       `visa agents in ${city.name.toLowerCase()}`,
       `visa agent ${city.name.toLowerCase()}`,
+      `visa agency in ${city.name.toLowerCase()}`,
+      `visa services in ${city.name.toLowerCase()}`,
+      `best visa agent in ${city.name.toLowerCase()}`,
+      `singapore visa agent in ${city.name.toLowerCase()}`,
+      `dubai visa agent in ${city.name.toLowerCase()}`,
+      `visa consultants in ${city.name.toLowerCase()} for usa`,
       `visa from ${city.name.toLowerCase()}`,
       `${city.name.toLowerCase()} visa services`,
       `vfs ${city.name.toLowerCase()}`,
@@ -735,7 +743,31 @@ export function getCityHubMeta(city) {
 // Questions people ask when they search "visa consultant in <city>". Shown on
 // the city hub and published as its FAQPage schema.
 export function getCityHubFaqs(city) {
+  // The head office city gets the questions people type for it on Google India
+  // ("visa agency in ahmedabad", "singapore visa agent in ahmedabad", "dubai visa
+  // agent in ahmedabad", "visa consultants in ahmedabad for usa").
+  const hq = city.isHQ
+    ? [
+        {
+          q: `Where is the Travlys visa office in ${city.name}?`,
+          a: `Travlys is at ${BIZ.address.streetAddress}, Vastrapur, ${city.name}, ${city.state} ${BIZ.address.postalCode}. The office is open Monday to Saturday, 9 am to 7 pm. You can walk in with your passport and papers, or start on WhatsApp at +91 82009 18967 and come in only if you want to.`,
+        },
+        {
+          q: `Is there a Singapore visa agent in ${city.name}?`,
+          a: `Singapore visas for Indians are filed online through an authorised visa agent appointed by the Singapore High Commission or a Consulate; you cannot apply to ICA directly. Travlys in Vastrapur prepares your Form 14A and documents and files through that authorised route, usually with a decision in 3 to 5 working days.`,
+        },
+        {
+          q: `Can I get a Dubai visa from an agent in ${city.name}?`,
+          a: `Yes. A UAE tourist visa for Indians is an e-visa, so there is no embassy visit. Travlys in Vastrapur, ${city.name} files it online and emails you the visa, usually in 2 to 4 working days. If you already hold a valid US visa or green card, or a UK or EU residence permit, you may qualify for a UAE visa on arrival instead.`,
+        },
+        {
+          q: `Which visa consultant in ${city.name} helps with US B1/B2 visas?`,
+          a: `Travlys handles US B1/B2 visitor visas from ${city.name} end to end: DS-160 drafting and review, fee payment, biometrics and interview slot booking, and mock interview preparation. ${city.name} applicants fall under the ${city.nearestConsulate}. You book the biometrics and interview slots on the official US visa appointment portal, and we tell you exactly what to carry to each.`,
+        },
+      ]
+    : []
   return [
+    ...hq,
     {
       q: `How do I choose a visa consultant in ${city.name}?`,
       a: `Pick a consultant with a real office and a named specialist, a written flat fee, and no promise of guaranteed approval (only the embassy decides). Travlys is an India-based visa consultancy with its office in Vastrapur, Ahmedabad; it serves ${city.name} applicants remotely, with 5,000+ visas filed and a 98% approval rate.`,

@@ -884,6 +884,31 @@ ${posts
 // facts, and a link map. llms-full.txt is the plain-text content of every
 // important page, so an assistant can answer and cite without crawling the app.
 
+// Blog guides ordered by what Indians actually search (Search Console
+// impressions + Google India autocomplete, November 2026). Their first two
+// FAQs go into llms.txt as direct answers AI assistants can quote.
+const TOP_DEMAND_SLUGS = [
+  'sri-lanka-eta-for-indians-2026',
+  'thailand-visa-free-for-indians-2026',
+  'singapore-visa-for-indians-2026',
+  'uae-visa-on-arrival-for-indians-2026',
+  'bali-visa-on-arrival-for-indians-2026',
+  'japan-visa-for-indians-2026',
+  'schengen-visa-fees-for-indians-2026',
+  'malaysia-visa-free-for-indians-2026',
+  'uk-visa-for-indians-2026-fees-processing-time',
+  'turkey-visa-for-indians-2026',
+  'south-korea-visa-for-indians-2026',
+  'us-visa-appointment-wait-time-india-2026',
+  'vietnam-e-visa-for-indians-2026',
+  'georgia-visa-for-indians-2026',
+  'countries-visa-free-for-indians-with-us-visa-2026',
+  'us-visa-interview-questions-answers-b1-b2-india-2026',
+  'australia-visitor-visa-subclass-600-from-india-2026',
+  'easiest-visa-to-get-for-indians-2026',
+  'visa-photo-size-by-country-for-indians-2026',
+]
+
 function buildLlmsTxt() {
   const a = BIZ.address
   const lines = [
@@ -918,6 +943,14 @@ function buildLlmsTxt() {
     `## Quick answers for Indian passport holders (checked ${LAST_CHECKED})`,
     '',
     ...destinations.flatMap((d) => getQuickAnswers(d).slice(0, 2).map((f) => `- **${f.q}** ${f.a}`)),
+    '',
+    '## Most searched visa questions from India, answered',
+    '',
+    'The questions Indian travellers search for most (from Travlys search data, November 2026), each with a short answer and the full guide:',
+    '',
+    ...TOP_DEMAND_SLUGS.map((slug) => BLOG_POSTS.find((p) => p.slug === slug))
+      .filter(Boolean)
+      .flatMap((p) => p.faqs.slice(0, 2).map((f) => `- **${f.q}** ${plain(f.a)} Guide: ${pageUrl(`/blog/${p.slug}`)}`)),
     '',
     '## Data you can cite',
     '',

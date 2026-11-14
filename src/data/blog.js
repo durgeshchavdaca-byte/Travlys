@@ -7,6 +7,1720 @@
 // landing pages to build internal-link density.
 
 export const BLOG_POSTS = [
+  {
+    "slug": "countries-visa-free-for-indians-with-us-visa-2026",
+    "title": "Visa Free Countries for Indians With a US Visa (2026): What Actually Works",
+    "metaTitle": "Visa free countries for Indians with US visa (2026) | Travlys",
+    "metaDescription": "A valid US visa gets Indians easier entry to 10 countries in 2026: UAE visa on arrival for 14 days, Georgia visa-free for 90 days, Turkey e-visa and more.",
+    "excerpt": "A valid US visa gets Indians easier entry to 10 countries we confirmed on official pages, from a 14-day UAE visa on arrival to 90 days in Georgia. Here are the exact conditions, and the places where a US visa does not help.",
+    "date": "2026-11-14",
+    "updated": "2026-11-14",
+    "readMinutes": 9,
+    "category": "Country guides",
+    "tags": [
+      "US visa",
+      "Visa free countries",
+      "Indian passport",
+      "UAE visa on arrival",
+      "Georgia",
+      "Turkey e-visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-from-india-2026-complete-guide",
+      "uae-visa-on-arrival-for-indians-2026",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get your US B1/B2 visa filed"
+    },
+    "faqs": [
+      {
+        "q": "dubai visa on arrival for indians with us visa",
+        "a": "Yes. Indians holding a US visa or a US green card can get a UAE visa on arrival for 14 days, according to the UAE Embassy in Washington. The fee is AED 100 (about ₹2,400), and you can extend once for another 14 days for AED 250 (about ₹6,000). All your documents, including the passport and the US visa, must be valid for at least six months from your arrival date. Check the expiry before you book."
+      },
+      {
+        "q": "georgia visa for indian with us visa",
+        "a": "No Georgian visa is needed. Under Georgia's Ordinance No. 256, Indians holding a valid US visa or US residence permit can enter and stay for up to 90 days in any 180-day period. The rule only asks that the US visa be valid on the day you enter Georgia. There is no visa fee and no rule that the visa must have been used. The same concession covers UK, Schengen, Canadian and Japanese visas, among others."
+      },
+      {
+        "q": "turkey visa for indians with us visa",
+        "a": "You still need a Turkish visa, but a valid US visa makes you eligible for the online e-visa instead of a sticker visa from the embassy. Turkey's foreign ministry describes it as a single-entry e-visa valid for one month. The US visa must be valid on the date you enter Turkey, and used or unused visas both count. Carry the original US visa, apply only on evisa.gov.tr, and check the fee shown there before paying."
+      },
+      {
+        "q": "singapore visa for indians with us visa",
+        "a": "A US visa does not let Indians holiday in Singapore without a visa. Singapore's ICA lists India among countries whose citizens need a visa. The only benefit is the 96-hour Visa Free Transit Facility. It needs a US visa valid for at least one month, an onward ticket out of Singapore within 96 hours, and a journey to or from a third country. A Mumbai to Singapore and back to Mumbai trip does not qualify."
+      },
+      {
+        "q": "japan visa for indians with us visa",
+        "a": "As far as we could find, a US visa does not remove the need for a Japanese visa. We found no Japanese rule that gives Indian holders of US visas visa-free entry. Japan's foreign ministry website blocked our automated check on 14 November 2026, so confirm with the Embassy of Japan in New Delhi before you travel. Plan on applying for a Japanese visa well before your dates, whatever US visa you hold."
+      },
+      {
+        "q": "south korea visa for indians with us visa",
+        "a": "Only for transit. Korea lets Indians with a valid US visa stay up to 30 days without a Korean visa when Korea is a stop on a journey to or from the US, for example India to Seoul to the US. The visa sticker must be in your passport and you need an onward ticket within 30 days. India to Seoul and back to India does not qualify, so a Seoul holiday still needs a Korean visa."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A valid US visa gets Indian passport holders easier entry to **10 countries** that we confirmed on official government pages in November 2026. The biggest wins are a **14-day UAE visa on arrival**, **90 days visa-free in Georgia**, a Turkey e-visa, a free Taiwan travel authorisation and **30 days visa-free in the Philippines**. Singapore and South Korea give transit benefits only. Japan, Vietnam and New Zealand give none."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Countries confirmed:** 10 (8 for visits, 2 for transit only). **Quickest win:** UAE, 14 days on arrival, AED 100 (about ₹2,400). **Longest stay:** Georgia, 90 days in any 180 days, no fee. **Transit only:** Singapore (96 hours) and South Korea (30 days on set routes). **No benefit:** Japan, Vietnam, New Zealand. **Visa that does the work:** a valid US B1/B2 visa."
+      },
+      {
+        "type": "h2",
+        "text": "Visa free countries for Indians with US visa: the full list"
+      },
+      {
+        "type": "p",
+        "text": "These are the countries where we read the rule on a government page ourselves. \"Valid\" means unexpired on the day you land unless we say otherwise. Each country sets its own validity rule, so a US visa that expires next month works in Georgia but not in the UAE or Colombia. If your US visa sits in an old passport, carry both passports."
+      },
+      {
+        "type": "h3",
+        "text": "Middle East and Asia"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**UAE:** visa on arrival for 14 days with a US visa or green card. Passport and US visa must be valid for at least six months from arrival. Fee AED 100 (about ₹2,400), with one 14-day extension for AED 250 (about ₹6,000).",
+          "**Philippines:** visa-free for 30 days for tourism with a valid US visa or residence permit. Not extendable. No visa fee.",
+          "**Taiwan:** free online Travel Authorization Certificate. The US visa can be valid or expired less than 10 years ago. Up to 30 days per stay, multiple entries within 90 days."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Europe and the Caucasus"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Georgia:** visa-free for 90 days in any 180 days. The US visa must be valid on the day you enter. No fee.",
+          "**Turkey:** single-entry e-visa valid for one month, open to Indians only because they hold a valid US, UK, Irish or Schengen visa or residence permit. Used or unused visas count. Fee shown on evisa.gov.tr.",
+          "**Serbia:** visa-free for up to 90 days in a six-month period, but only while your US visa stays valid. No fee."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Americas"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Mexico:** no Mexican visa needed for tourism, business or transit if you show a valid US visa with your passport. The consulate page does not state a maximum stay. No visa fee.",
+          "**Colombia:** visa-free short visits if your US or Schengen visa has more than 180 days of validity left when you enter Colombia. No visa fee."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Transit only"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Singapore:** up to 96 hours visa-free when transiting to or from a third country, with a US visa valid for at least one month from entry. No application or fee.",
+          "**South Korea:** up to 30 days visa-free on set routes to or from the US, with the US visa sticker in your passport. No visa fee."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "All of these run off one document. A US B1/B2 visa, typically issued for 10 years to Indians, is what gets you all of them, and it keeps working for trip after trip until it expires."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visa on arrival for Indians with US visa"
+      },
+      {
+        "type": "p",
+        "text": "Yes, Indians with a US visa or US green card can get a UAE visa on arrival at Dubai and the other UAE airports. The UAE Embassy in Washington sets out the terms:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who qualifies:** Indian citizens with US visas, green cards, UK residence permits or EU residence permits.",
+          "**Validity:** all documents must be valid for at least six months from your expected arrival in the UAE.",
+          "**Stay:** 14 days.",
+          "**Fee:** AED 100 (about ₹2,400).",
+          "**Extension:** once, for another 14 days, for AED 250 (about ₹6,000)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The six-month rule is where people get stuck. A US visa with four months left does not qualify, and airlines check documents before you board. Indian press reported in mid-2026 that the UAE was revising this list and that holders of only a UK residence permit could lose access. Those reports did not change the position for US visa or green card holders, but check the current rule with your airline a few days before you fly."
+      },
+      {
+        "type": "h2",
+        "text": "Georgia visa for Indian with US visa"
+      },
+      {
+        "type": "p",
+        "text": "You do not need a Georgian visa if you hold a valid US visa or US residence permit. Georgia's Ordinance No. 256 lets holders of a visa or residence permit from a listed country enter and stay for **90 calendar days in any 180-day period**. The US is on that list, along with the UK, Canada, Japan, Australia, New Zealand, South Korea, the UAE and the Schengen countries."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Condition:** the visa or residence permit must be valid on the day you enter Georgia.",
+          "**Used or unused:** the ordinance does not ask for a used visa.",
+          "**Stay:** 90 days in any 180 days, counted across all your visits.",
+          "**Fee:** none."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "This makes Georgia the most generous option on the list. A US visa expiring next week still works for entry, though we would not cut it that fine. Immigration can still ask about your hotel, funds and return ticket."
+      },
+      {
+        "type": "h2",
+        "text": "Turkey visa for Indians with US visa"
+      },
+      {
+        "type": "p",
+        "text": "Indians still need a Turkish visa, but a valid US visa lets you get it online as an e-visa instead of applying at the embassy. Turkey's foreign ministry describes it as a **single-entry e-visa valid for one month**. The Embassy of Türkiye in New Delhi adds these conditions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Supporting document:** a valid visa or residence permit from a Schengen country, the US, the UK or Ireland.",
+          "**Validity:** valid by date on the day you enter Turkey.",
+          "**Used or unused:** both are accepted.",
+          "**Old passport:** a valid US visa in an old passport is accepted, but the e-visa goes on your current passport and you must carry the old one.",
+          "**Originals:** carry the original supporting visa for Turkish immigration.",
+          "**Purpose:** tourism or commerce only. Work or study needs a visa from a Turkish mission.",
+          "**Fee:** paid on evisa.gov.tr. The embassy says the e-visa costs at least US$85 (about ₹7,500) less than a sticker visa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The embassy warns that airlines will refuse boarding if your supporting document does not meet these rules. Apply only on evisa.gov.tr. Many look-alike sites charge extra."
+      },
+      {
+        "type": "h2",
+        "text": "Philippines and Taiwan for Indians with a US visa"
+      },
+      {
+        "type": "p",
+        "text": "Both give real visa-free or near visa-free access with a US visa. The Philippines doubles your stay, and Taiwan accepts even an expired US visa."
+      },
+      {
+        "type": "h3",
+        "text": "Philippines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Stay:** 30 days, not extendable, for tourism. Without a US visa, Indians get 14 days.",
+          "**Qualifying visas:** valid US, Japanese, Australian, Canadian, Schengen, Singapore or UK visa or residence permit.",
+          "**Also needed:** passport valid six months beyond your stay, confirmed hotel booking, proof of funds, and a return or onward ticket.",
+          "**Not covered:** transit passengers and non-tourism trips need a Philippine visa."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Taiwan"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**What you get:** an online Travel Authorization Certificate, valid 90 days with multiple entries, up to 30 days per stay.",
+          "**US visa rule:** a valid US visa, or one that expired less than 10 years before you arrive. An electronic visa must be printed.",
+          "**Other conditions:** passport valid six months from arrival, return or onward ticket, and no past blue-collar work in Taiwan.",
+          "**Fee:** none. Taiwan's office in India describes it as completely free."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Singapore visa for Indians with US visa"
+      },
+      {
+        "type": "p",
+        "text": "A US visa does not let Indians visit Singapore without a visa. Singapore's ICA lists India among countries that need a visa. The US visa only helps with the **96-hour Visa Free Transit Facility**:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You must be transiting to or from a third country through Singapore.",
+          "You need an onward air, ferry or cruise ticket leaving Singapore within 96 hours.",
+          "Your US visa must be valid for at least one month from the day you enter Singapore.",
+          "Visas from Australia, Canada, Germany, Japan, New Zealand, Switzerland and the UK also qualify.",
+          "No extension is possible, and meeting the rules does not guarantee entry."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So Mumbai to Singapore for three nights, then on to Bali, can work. A Mumbai to Singapore and back holiday does not. For that you need a Singapore visa."
+      },
+      {
+        "type": "h2",
+        "text": "South Korea visa for Indians with US visa"
+      },
+      {
+        "type": "p",
+        "text": "South Korea gives US visa holders a transit concession, not a holiday waiver. Under Korea's visa-free transit programme, you can stay up to **30 days** without a Korean visa if Korea sits on a journey to or from the US."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Routes that work:** US to Korea to India, India to Korea to the US, and similar routes through a third country.",
+          "**Routes that fail:** India to Korea and back to India.",
+          "**Visa:** the US visa sticker must be in your passport and its validity must be checkable.",
+          "**Ticket:** confirmed onward ticket leaving within 30 days.",
+          "**Stopover limit:** no more than 3 days in a transit country before Korea.",
+          "**Barred:** anyone refused entry to Korea in the past 3 years. India is not among the 23 excluded nationalities."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Korean consulates do not pre-approve this. For a Seoul holiday from India, apply for a Korean visa."
+      },
+      {
+        "type": "h2",
+        "text": "Japan, Vietnam and New Zealand: where a US visa does NOT help"
+      },
+      {
+        "type": "p",
+        "text": "People search these often, so here is the plain answer. A US visa gives no visa benefit in these places:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Japan:** we found no rule letting Indian holders of a US visa enter without a Japanese visa. Japan's foreign ministry site blocked our automated check on 14 November 2026, so confirm with the Embassy of Japan in New Delhi, but plan on applying for a Japanese visa.",
+          "**Vietnam:** the Vietnam Immigration Department's e-visa portal offers e-visas of up to 90 days, single or multiple entry, with no concession for US visa holders. The fee is paid online and not refunded if refused.",
+          "**New Zealand:** India is not on Immigration New Zealand's visa waiver list, and there is no provision for US visa holders. You need a New Zealand visa.",
+          "**Singapore and South Korea for holidays:** transit only, as explained above."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We also checked Albania, Montenegro, Bosnia and Herzegovina, Oman, Saudi Arabia, Peru, Costa Rica, Panama and the Dominican Republic. Travel sites list many of them, but we could not open a current government page confirming the rule on 14 November 2026, so we left them out. Ask us before you plan around any of them."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team files US B1/B2 applications from our office in Vastrapur, Ahmedabad, and for clients across India. We check your DS-160, prepare you for the interview, and once the visa is issued we can tell you which of these countries it opens for your dates."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 14 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every rule above on official pages on 14 November 2026. These rules change without much notice, so re-check before you book: the UAE Embassy or UAE immigration (ICP) for the visa on arrival list, evisa.gov.tr and the Embassy of Türkiye in New Delhi, Georgia's Ordinance No. 256 on matsne.gov.ge, ICA Singapore's Visa Free Transit Facility page, Korea's visa-free transit notice, Taiwan's Bureau of Consular Affairs, the Philippine DFA, Serbia's foreign ministry, Mexico's consulates and Colombia's Cancillería."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of the UAE in Washington: Visas for Non-US Citizens",
+        "url": "https://www.uae-embassy.org/visas-for-non-us-citizens"
+      },
+      {
+        "label": "Embassy of Türkiye in New Delhi: E-visa of the Republic of Türkiye",
+        "url": "https://newdelhi-emb.mfa.gov.tr/Mission/ShowAnnouncement/361514"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Türkiye: Visa information for foreigners",
+        "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa"
+      },
+      {
+        "label": "Legislative Herald of Georgia: Ordinance No. 256 on visa-free entry for holders of visas and residence permits",
+        "url": "https://matsne.gov.ge/en/document/view/2867377"
+      },
+      {
+        "label": "Bureau of Consular Affairs, Taiwan: Travel Authorization Certificate for nationals of India and others",
+        "url": "https://www.boca.gov.tw/cp-220-1885-b6ae7-2.html"
+      },
+      {
+        "label": "PTV News (Philippine government broadcaster): Indian nationals may enter PH visa-free starting June 8",
+        "url": "https://ptvnews.ph/indian-nationals-may-enter-ph-visa-free-starting-june-8/"
+      },
+      {
+        "label": "Immigration and Checkpoints Authority, Singapore: Visa Free Transit Facility",
+        "url": "https://ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Korea: Visa-free entry for transit passengers",
+        "url": "https://overseas.mofa.go.kr/us-en/brd/m_4502/view.do?seq=715888"
+      },
+      {
+        "label": "Consulate General of Mexico in Washington: Visas for foreigners",
+        "url": "https://consulmex.sre.gob.mx/washington/index.php/servicios-para-extranjeros-visas?id=156"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Serbia: Visa requirements",
+        "url": "https://mfa.gov.rs/en/citizens/travel-serbia/visa-requirements"
+      }
+    ]
+  },
+  {
+    "slug": "us-visa-interview-questions-answers-b1-b2-india-2026",
+    "title": "US Visa Interview Questions and Answers for B1/B2 Applicants from India (2026)",
+    "metaTitle": "US Visa Interview Questions and Answers: B1/B2 2026 | Travlys",
+    "metaDescription": "B1/B2 officers check 3 things: a temporary trip, ties to India and funds. 28 common US visa interview questions with answer patterns, documents and the fee.",
+    "excerpt": "28 common US B1/B2 interview questions grouped by theme, what the officer is really checking, and answer patterns Indian applicants can fill with their own facts.",
+    "date": "2026-11-14",
+    "updated": "2026-11-14",
+    "readMinutes": 10,
+    "category": "How-to",
+    "tags": [
+      "US visa",
+      "B1/B2 visa",
+      "Visa interview",
+      "DS-160",
+      "Interview prep",
+      "214(b) refusal"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-from-india-2026-complete-guide",
+      "ds-160-form-mistakes",
+      "us-visa-appointment-wait-time-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Book US B1/B2 interview prep with Travlys"
+    },
+    "faqs": [
+      {
+        "q": "what questions are asked in us visa interview for b1 b2",
+        "a": "Most B1/B2 questions cover your trip purpose, how long you will stay, your job and income, your family in India, past travel, who pays, relatives in the US and any earlier refusals. The officer is testing whether your visit is temporary and whether your ties to India will bring you back. Answer briefly and honestly, in line with your DS-160. Memorised scripts tend to sound rehearsed and can contradict your form."
+      },
+      {
+        "q": "us visa interview documents list india",
+        "a": "Bring your interview appointment letter, DS-160 confirmation page, a passport valid at least six months beyond your stay, old passports with US visas, and one 2 x 2 inch photo taken in the last six months without glasses. If you corrected your DS-160 after booking, bring both confirmation pages. Supporting papers like ITRs, salary slips and bank statements are optional and shown only if the officer asks."
+      },
+      {
+        "q": "b1 b2 visa fees in india 2026",
+        "a": "The B1/B2 application fee is USD 185, about ₹18,130 at the consular rate of ₹98 per dollar. It is non-refundable and you must book within 365 days of paying. Indians pay no extra issuance fee. A USD 250 visa integrity fee is set by US law, but the official India fee page does not list it yet, so check the current page before paying."
+      },
+      {
+        "q": "b1 b2 visa validity for indian citizens",
+        "a": "Indian citizens can get a B1/B2 visa valid for up to 10 years (120 months) with multiple entries, according to the State Department reciprocity table. The officer decides the actual validity, so some applicants receive less. Visa validity is different from length of stay: the US border officer decides how long you can remain on each visit, and you must not overstay that period."
+      },
+      {
+        "q": "can i reapply after us visa rejection 214b",
+        "a": "Yes, a 214(b) refusal is not permanent and you can reapply. The official FAQ says you will need to show further evidence of ties or how your circumstances have changed since the last interview. Each attempt needs a new DS-160 and a new USD 185 fee. Reapplying with the same facts usually gives the same result, so wait until something real has changed."
+      },
+      {
+        "q": "us visa interview waiting time india",
+        "a": "The waiting time depends on the city and changes every month, so check the State Department's official appointment wait-time tool before you book. The official India appointment service advises applying at least three months before travel. People renewing a full-validity B1/B2 visa that expired within the last 12 months may qualify for the interview waiver, which skips the interview queue."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "In a US B1/B2 interview the officer is checking three things: that your trip is a **temporary visit**, that your **ties to India** will bring you back, and that **someone can pay** for it. Most questions are short versions of those three. Answer briefly, truthfully and in line with your DS-160. The visa fee is **USD 185** (about ₹18,130) and the visa can be valid for **up to 10 years**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** B-1 (business), B-2 (tourism, family visits, medical treatment), usually issued together as B1/B2. **Application fee:** USD 185 (about ₹18,130 at the consular rate of ₹98 per dollar), non-refundable. **Visa integrity fee:** USD 250 set by US law in July 2025; the official India fee page does not list it yet. **Validity for Indians:** up to 10 years, multiple entries; the officer decides. **Legal test:** INA section 214(b), which presumes you intend to immigrate until you show otherwise. **Interview posts:** New Delhi, Mumbai, Chennai, Hyderabad, Kolkata. **Where to apply:** your country of nationality or residence."
+      },
+      {
+        "type": "h2",
+        "text": "US visa interview questions and answers: how the interview really works"
+      },
+      {
+        "type": "p",
+        "text": "The interview is short, so your first two answers matter most. The official India FAQ says most cases are decided after a brief interview and a review of whatever evidence of ties you present. In our experience at Travlys, many B1/B2 interviews last two to three minutes. The officer has already read your DS-160 before you reach the window."
+      },
+      {
+        "type": "p",
+        "text": "Under section 214(b) of the Immigration and Nationality Act, every B1/B2 applicant is presumed to be an intending immigrant. To overcome that, the official rules say you must show four things:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "the trip is a temporary visit for business, pleasure or medical treatment;",
+          "you will stay for a specific, limited period;",
+          "you have funds to cover your expenses in the US;",
+          "you have a residence outside the US and other social or economic ties that will make you return."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Honesty beats polish",
+        "text": "Officers compare what you say with your DS-160. A plain, true answer in simple words is safer than a polished, memorised one. Use the patterns below to organise your facts, not as scripts to learn by heart."
+      },
+      {
+        "type": "h2",
+        "text": "US visa interview questions: 28 common ones, grouped by theme"
+      },
+      {
+        "type": "p",
+        "text": "Each question below shows what the officer is really checking, a short answer pattern you fill with your own facts, and one thing to avoid."
+      },
+      {
+        "type": "h3",
+        "text": "Purpose of trip"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Why are you going to the US?** Checking: a clear, temporary purpose that fits B1/B2. Good pattern: \"Tourism with my wife for 15 days: New York, Washington and Niagara.\" Avoid: vague answers like \"just to see\" or any hint of job hunting.",
+          "**What will you do on this business trip?** Checking: that the activity is a business visit, not work. Good pattern: \"Attending the ___ trade show in Las Vegas for 4 days, then meeting two suppliers.\" Avoid: saying you will \"work on a project\" for a US client.",
+          "**Why are you travelling now?** Checking: whether the timing makes sense. Good pattern: Link it to a fixed date: a convocation, a conference, school holidays. Avoid: having no reason at all.",
+          "**Have you booked tickets and hotels?** Checking: how firm and realistic the plan is. Good pattern: \"I have a tentative plan; I will book after the visa.\" Avoid: claiming bookings you have not made."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Itinerary"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**How long will you stay?** Checking: a specific, limited period. Good pattern: \"17 days, from 2 to 19 May.\" Avoid: \"Three to six months, depends.\"",
+          "**Which cities will you visit?** Checking: that the plan is real and yours. Good pattern: Two or three cities in order, with roughly how long in each. Avoid: a long list you cannot explain.",
+          "**Where will you stay?** Checking: consistency with the US address on your DS-160. Good pattern: \"With my brother in Edison, New Jersey, then hotels in Orlando.\" Avoid: an address different from your form."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Job, business and income"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**What do you do?** Checking: your economic tie to India. Good pattern: \"I work as a ___ at ___ in Ahmedabad, for 6 years.\" Avoid: reading your designation off a paper or using heavy jargon.",
+          "**How much do you earn?** Checking: that income matches the trip and your records. Good pattern: Your annual figure in rupees, the same as your ITR or salary slips. Avoid: guessing or rounding up.",
+          "**Who runs your business while you are away?** Checking: that you have a running business to return to. Good pattern: \"My partner and manager handle daily work; the firm is GST-registered since 2014.\" Avoid: \"It will stay closed.\"",
+          "**Has your employer approved your leave?** Checking: that your job continues after the trip. Good pattern: \"Yes, 3 weeks, from ___ to ___.\" Avoid: travelling without approved leave if you are salaried."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Family ties"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Are you married? Do you have children?** Checking: family who keep you rooted in India. Good pattern: Short facts: \"Married, two children, 10 and 14, both in school in Vadodara.\" Avoid: a long story when a one-line answer will do.",
+          "**Who is travelling with you?** Checking: consistency with the travel companions on your DS-160. Good pattern: Name the relation; if you go alone, say why your spouse stays. Avoid: a different group from the one on your form.",
+          "**Who looks after your parents or children while you are away?** Checking: real responsibilities at home. Good pattern: \"My brother lives with us and will manage.\" Avoid: inventing duties you do not have."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Travel history"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Have you travelled abroad before?** Checking: that you returned on time from earlier trips. Good pattern: \"Dubai 2023, Singapore 2024, Schengen 2025, all short holidays.\" Avoid: leaving out trips that are in your passport or DS-160.",
+          "**Have you been to the US before?** Checking: past compliance with your US stay. Good pattern: Dates of each visit and that you left within your permitted stay. Avoid: being unsure of dates you can easily check.",
+          "**Why have you not travelled anywhere before?** Checking: for first-timers, your ties carry the case. Good pattern: \"This is my first big trip; my work and family are here.\" Avoid: apologising or over-explaining."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Who pays"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who is paying for the trip?** Checking: funds to cover your expenses. Good pattern: \"I am, from my savings; my budget is about ₹4 lakh.\" Avoid: naming a sponsor you cannot explain.",
+          "**How much will the trip cost?** Checking: that you have planned it yourself. Good pattern: A rough split: flights, stay, local travel. Avoid: \"I don't know, my son is handling it.\"",
+          "**Why is your son paying?** Checking: the sponsor's link to you and their means. Good pattern: \"He works at ___ in Dallas and is covering flights; I pay the rest.\" Avoid: hiding that a US relative is paying."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Relatives in the US"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Do you have relatives in the US?** Checking: honesty, because the DS-160 asks this. Good pattern: \"Yes, my daughter in Texas, an F-1 student at ___.\" Avoid: saying no when you have family there.",
+          "**What is their status?** Checking: that you know the basic facts. Good pattern: Exact status: US citizen, green card, H-1B or F-1. Avoid: \"I don't know.\"",
+          "**What do they do there?** Checking: a real picture of the family you will visit. Good pattern: Job title and city, or course and university. Avoid: vague answers about close family.",
+          "**Will you live with your son in the US?** Checking: that the visit is temporary. The official India FAQ says a B1/B2 lets you visit a child in the US, not live with them. Good pattern: \"No, 4 weeks for his graduation; I return on ___.\" Avoid: \"I will stay as long as they need me.\""
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Previous refusals"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Have you been refused a US visa before?** Checking: honesty; the refusal is already on record. Good pattern: \"Yes, under 214(b) in March 2025.\" Avoid: denying it.",
+          "**What has changed since then?** Checking: new evidence of ties, which is what the official FAQ asks refused applicants to show. Good pattern: \"Promoted, bought a flat in Surat, travelled to the UK and returned.\" Avoid: repeating the same story with nothing new.",
+          "**Why did you reapply so soon?** Checking: whether you are just trying your luck. Good pattern: Point to a real change in work, family or travel history. Avoid: \"The agent said to try again.\""
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Closing"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Is there anything else you want to tell me?** Checking: a calm summary of your ties. Good pattern: One line: job, family, home, return date. Avoid: pleading or pushing papers the officer did not ask for."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "US visa interview documents: what to bring"
+      },
+      {
+        "type": "p",
+        "text": "Bring the items the official India appointment service lists; supporting papers are optional and only shown if asked."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Interview appointment letter** from the official booking system.",
+          "**DS-160 confirmation page.** If you corrected your DS-160 after booking (for appointments booked on or after 15 November 2023), bring both the original and the corrected confirmation pages.",
+          "**Passport** valid for at least six months beyond your intended stay, plus old passports with US visas.",
+          "**One photo**, 2 x 2 inches (51 x 51 mm), taken in the last six months. Eyeglasses are no longer allowed in visa photos.",
+          "**Optional supporting documents:** salary slips, ITRs, bank statements, business registration, leave letter, property papers, invitation letter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Do not carry phones, smart watches, large bags or sealed envelopes; the consulates and Visa Application Centres (VACs) do not allow them and have no storage. Friends, relatives and agents cannot go in with you."
+      },
+      {
+        "type": "h2",
+        "text": "US visa interview waiting time India"
+      },
+      {
+        "type": "p",
+        "text": "Check the State Department's official visa appointment wait-time tool for your city; we do not quote numbers here because they change monthly. The official India appointment service advises applying at least three months before travel, and says processing after the interview is typically seven to ten working days."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You need two appointments: biometrics at a VAC, at least 2 business days before the consular interview.",
+          "Applicants under 14 or over 79 can skip the VAC visit, but must attend the interview in person.",
+          "VACs and interview posts: New Delhi, Mumbai, Chennai, Hyderabad, Kolkata. Mumbai is the nearest for Gujarat.",
+          "Book in your country of nationality or residence. Indians living in India should apply in India.",
+          "For a genuine emergency, request an expedited appointment through the booking system after you hold a regular date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Who can skip the interview:** people renewing a full-validity B1, B2 or B1/B2 visa that is still valid or expired within the last 12 months, who were at least 18 when it was issued, had all 10 fingerprints taken, were never refused (unless overcome) and are applying from India. Allow up to three weeks for processing; an officer can still call you in."
+      },
+      {
+        "type": "h2",
+        "text": "B1 B2 visa means (meaning in Hindi and Gujarati)"
+      },
+      {
+        "type": "p",
+        "text": "A B1/B2 visa is the US visitor visa: B-1 covers business visits such as meetings, conferences and contract negotiations, and B-2 covers tourism, visiting friends or relatives, and medical treatment. It does not allow work or study."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Hindi:** बी1/बी2 वीज़ा यानी अमेरिका का विज़िटर वीज़ा। बी1 बिज़नेस मीटिंग या कॉन्फ़्रेंस के लिए, बी2 घूमने, रिश्तेदारों से मिलने या इलाज के लिए।",
+          "**Gujarati:** બી1/બી2 વિઝા એટલે અમેરિકાનો વિઝિટર વિઝા. બી1 બિઝનેસ મીટિંગ કે કોન્ફરન્સ માટે, બી2 ફરવા, સગાંસંબંધીઓને મળવા અથવા સારવાર માટે."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "B1 B2 visa fees in India"
+      },
+      {
+        "type": "p",
+        "text": "The B1/B2 application fee is USD 185, paid in rupees at the consular exchange rate."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application (MRV) fee:** USD 185, about ₹18,130 at ₹98 per dollar (the consular rate since 25 May 2026). Non-refundable, even if refused.",
+          "**Fee validity:** you must book your appointment within 365 days of the receipt.",
+          "**Issuance (reciprocity) fee for Indians:** none for B-1, B-2 or B1/B2.",
+          "**Visa integrity fee:** US law (Public Law 119-21, section 100007) sets USD 250, about ₹24,500, payable when a visa is issued, with possible reimbursement for people who comply with their visa terms. The official India fee page lists only the USD 185 fee and gives no collection date, so check it before you pay.",
+          "**Payment:** NEFT, UPI, debit or credit card, or cash at listed bank branches."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "B1 B2 visa validity"
+      },
+      {
+        "type": "p",
+        "text": "For Indian citizens, the State Department reciprocity table lists B1/B2 visas as multiple entry with validity of up to 120 months (10 years). That is the maximum; the consular officer decides the validity on your visa. Validity is not the same as length of stay: the US border officer decides how long you may remain on each visit. You can enter on the last valid day of the visa."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with US B1/B2 interview prep"
+      },
+      {
+        "type": "p",
+        "text": "Our team runs mock interviews for B1/B2 applicants and reviews your DS-160 so your answers and your form say the same thing. We work from our office in Vastrapur, Ahmedabad, and file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 14 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the fees, interview waiver rules, documents and appointment rules against the official India appointment service and the US Embassy in India on 14 November 2026. Before you apply, re-check the fee page (especially for the visa integrity fee), the interview waiver page, the State Department's reciprocity table for India and the official wait-time tool."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Embassy and Consulates in India: U.S. Visa Services",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Business/Tourist visa",
+        "url": "https://www.ustraveldocs.com/in/en/business-visa"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Pay your visa fees",
+        "url": "https://www.ustraveldocs.com/in/en/step-3"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Waive my interview and renew my visa",
+        "url": "https://www.ustraveldocs.com/in/en/renew-visa"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Schedule your appointment",
+        "url": "https://www.ustraveldocs.com/in/en/step-4"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Attend your interview",
+        "url": "https://www.ustraveldocs.com/in/en/step-5"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Frequently Asked Questions",
+        "url": "https://www.ustraveldocs.com/in/en/general-information"
+      },
+      {
+        "label": "U.S. Department of State: India Reciprocity Schedule",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/India.html"
+      },
+      {
+        "label": "U.S. Department of State: Visa Appointment Wait Times",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html"
+      },
+      {
+        "label": "U.S. Government Publishing Office: Public Law 119-21, Section 100007 Visa Integrity Fee",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ]
+  },
+  {
+    "slug": "visa-photo-size-by-country-for-indians-2026",
+    "title": "Visa photo size by country for Indians (2026): US, Schengen, UK, Singapore, Japan and more",
+    "metaTitle": "Visa photo size by country for Indians (2026) | Travlys",
+    "metaDescription": "Visa photo size by country for Indians: US wants 51x51 mm, Canada, Schengen and Japan 35x45 mm, China 33x48 mm, Vietnam 4x6 cm. Checked on official sites.",
+    "excerpt": "The exact photo size, background, recency and glasses rule for 13 visas Indians apply for most, checked on official embassy and immigration pages on 14 November 2026.",
+    "date": "2026-11-14",
+    "updated": "2026-11-14",
+    "readMinutes": 9,
+    "category": "Checklists",
+    "tags": [
+      "visa photo",
+      "photo size",
+      "US visa",
+      "Schengen visa",
+      "Singapore visa",
+      "Vietnam e-visa",
+      "documents"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?w=1600&h=900&fit=crop",
+    "related": [
+      "singapore-visa-for-indians-2026",
+      "schengen-visa-documents-checklist-2026",
+      "visa-rejection-reasons-india"
+    ],
+    "cta": {
+      "slug": "singapore-visa",
+      "label": "Get your visa file checked, photo included"
+    },
+    "faqs": [
+      {
+        "q": "what is the us visa photo size in mm",
+        "a": "A US visa photo is 2 x 2 inches, which is **51 x 51 mm**. It must be in colour, taken within the last six months, on a plain white or off-white background, with your full face centred. Eyeglasses are not allowed except in rare medical cases backed by a signed medical statement. A normal Indian 35 x 45 mm passport-size print will not work for the US, so ask the studio for the square size."
+      },
+      {
+        "q": "schengen visa photo size and background",
+        "a": "The German missions in India ask for one biometric photo of **35 x 45 mm** on a white or grey background, with the face covering 70 to 80% of the frame, not older than six months. Switzerland's VFS page for India asks for a light (white or off-white) background and no sunglasses. Each Schengen country sets its own details, so check the page of the embassy you are applying to before you print."
+      },
+      {
+        "q": "can i wear glasses in visa photo",
+        "a": "For a US visa or a Vietnam e-visa, no. The US allows glasses only for medical reasons with a signed statement, and Vietnam's portal says no glasses. The UK says do not wear them unless you have to, and never tinted. Canada allows clear prescription glasses if your eyes are fully visible. Our advice for every country: take them off. It removes the most common reason for a glare or reflection rejection."
+      },
+      {
+        "q": "singapore visa photo size for indian",
+        "a": "ICA's India visa page asks for a recent colour passport-size photo taken **within the last three months**, which is stricter than most countries. ICA's photo guidelines set online uploads at 400 x 514 pixels, with no filters or edits beyond resizing. Indians apply through an authorised visa agent or a Singapore contact, and the agent uploads the photo, so give them a fresh studio file rather than a phone selfie."
+      },
+      {
+        "q": "is photo required for bali visa on arrival",
+        "a": "Indonesia's immigration FAQ lists only two things for the visa on arrival and the e-VOA: a passport valid for at least six months and a return or onward ticket. No photo is listed. Indonesia's other online visas do ask for a passport-size photo in JPG, JPEG or PNG, up to 200 KB. If the e-VOA screen asks you for an image on the day, follow what it shows."
+      },
+      {
+        "q": "vietnam e visa photo size and kb",
+        "a": "Vietnam's official e-visa portal asks for a recent **4 x 6 cm** photo in JPG or JPEG, file size up to 2 MB, face looking straight, no hat, no glasses, white background. You also upload a clear image of your passport data page. The portal checks your face against the passport photo and flags pictures copied from another source, so use a fresh photo, not a scan of an old print."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "There is no single visa photo size. The US wants a square **51 x 51 mm** (2 x 2 inch) photo. Canada, the Schengen countries and Japan work with **35 x 45 mm**. China asks for **33 x 48 mm** and Vietnam's e-visa wants a **4 x 6 cm** digital file. Almost all want a plain white or light background, no glasses and a photo **under six months old**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**US:** 51 x 51 mm, white or off-white, within 6 months, no glasses. **UK:** photo taken at the VFS centre; digital uploads at least 600 x 750 pixels, 50 KB to 6 MB. **Canada:** at least 35 x 45 mm, head 31 to 36 mm, within 6 months. **Schengen (Germany, India):** 35 x 45 mm, white or grey, face 70 to 80%. **Australia:** 45 x 35 mm, plain background, under 6 months. **Singapore:** colour, within 3 months, 400 x 514 pixels online. **Japan:** 45 x 35 mm, white, face 70 to 80%. **China:** 48 x 33 mm, two prints, white or near-white. **Vietnam e-visa:** 4 x 6 cm, JPG up to 2 MB, no glasses. **Bali e-VOA and Malaysia:** no photo asked."
+      },
+      {
+        "type": "h2",
+        "text": "US visa photo size, UK visa photo and Canada visa photo size"
+      },
+      {
+        "type": "p",
+        "text": "Three popular visas from India, and three different photo rules. Do not assume one print covers all of them."
+      },
+      {
+        "type": "h3",
+        "text": "US visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Size:** exactly 2 x 2 inches (51 x 51 mm), in colour.",
+          "**Background:** plain white or off-white, full face centred.",
+          "**Recency:** taken within the last six months and matching how you look now.",
+          "**Glasses:** not allowed, except rare medical cases with a signed medical statement.",
+          "**Other:** no editing filters, no hats unless worn for religion with the full face visible.",
+          "**Digital file:** the DS-160 needs an upload. The State Department's digital image page blocked our check today, so confirm the file limits there before you upload."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "UK visa photo"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**For Indians:** a Standard Visitor applicant goes to a visa application centre to have fingerprints and a photo taken, so you usually do not bring a print.",
+          "**If a form asks for a digital photo:** at least 600 pixels wide and 750 pixels tall, 50 KB to 6 MB, JPG or JPEG.",
+          "**Background:** plain and light-coloured, no shadows on your face or behind you.",
+          "**Glasses:** do not wear them unless you have to. Never sunglasses or tinted lenses, and no glare on the eyes.",
+          "**Not allowed:** filters, a scan of another photo, or the same photo as in your passport.",
+          "**Recency:** GOV.UK does not state a limit."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Canada visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Size:** frame at least 35 x 45 mm, head 31 mm to 36 mm from chin to crown.",
+          "**Background:** plain white or light-coloured.",
+          "**Recency:** within the last six months, two identical prints on photo paper.",
+          "**Glasses:** clear prescription glasses are fine if your eyes are clearly visible. No sunglasses.",
+          "**Digital:** if the photo is digital, it must not be altered in any way. IRCC's visitor visa photo page gives no pixel or KB limit."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa photo size and Australia visa photo"
+      },
+      {
+        "type": "h3",
+        "text": "Schengen visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Germany (missions in India):** one biometric photo, 35 x 45 mm, white or grey background, face covering 70 to 80%, not older than six months.",
+          "**Germany, at the centre:** the photo can be taken digitally at the time of application, or scanned from a recent one if it meets ICAO standards.",
+          "**Switzerland (VFS, India):** 35 to 40 mm wide, light background (white or off-white), not older than six months, no sunglasses or hats unless worn for religious reasons.",
+          "**Glasses:** the German FAQ is silent. Take them off to be safe.",
+          "**Check:** each Schengen state publishes its own page, so read the one for your embassy before printing."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Australia visa photo"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Size:** 45 x 35 mm passport photograph, head and shoulders only.",
+          "**Background:** plain, with you facing the camera.",
+          "**Recency:** less than six months old. Print your name on the back when sending a print.",
+          "**Glasses and online file limits:** not stated on the Home Affairs help page we checked. ImmiAccount shows its own upload limits."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Singapore visa photo size, Malaysia visa photo size and Bali visa photo size"
+      },
+      {
+        "type": "h3",
+        "text": "Singapore visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Recency:** a colour passport-size photo taken **within the last three months**. This is the strictest window in this list.",
+          "**How it is filed:** through ICA's e-Service by an authorised visa agent or a local contact in Singapore, with a signed Form 14A.",
+          "**Digital:** ICA's photo guidelines set online uploads at 400 x 514 pixels, JPG, JPEG, HEIC, HEIF or PNG, up to 8 MB.",
+          "**Not allowed:** filters or changes to facial features. Selfies usually do not meet the rules.",
+          "**Note:** ICA's photo guideline page is written for passport and IC photos, and its background rules sit inside an image. Use a white background to be safe."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Malaysia visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa:** Malaysia's Immigration Department lists Indian citizens as visa-exempt until 31 December 2026.",
+          "**Arrival card:** the Malaysia Digital Arrival Card form asks for passport, travel and address details. It has no photo upload field.",
+          "**eVISA photo:** the official eVISA portal did not show its photo spec when we checked. If you need an eVISA after the exemption ends, follow the upload screen."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Bali visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa on arrival and e-VOA:** Indonesia's immigration FAQ asks for a passport valid for at least six months and a return or onward ticket. It lists no photo.",
+          "**Other Indonesian online visas:** a passport-size photo in JPG, JPEG or PNG, up to 200 KB. No pixel size is given."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Japan visa photo size and China visa photo size"
+      },
+      {
+        "type": "h3",
+        "text": "Japan visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Size:** 45 x 35 mm, one photo, in colour.",
+          "**Background:** plain white, looking straight forward with the face clearly seen.",
+          "**Face:** 70 to 80% of the photo.",
+          "**Recency:** not more than six months old, printed on good quality paper.",
+          "**Glasses:** not stated on the VFS Delhi page for the Embassy of Japan."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "China visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Size:** 48 x 33 mm (33 mm wide, 48 mm tall), two recent colour photos.",
+          "**Pose:** full face, front view, bare head.",
+          "**Background:** white or close to white.",
+          "**Recency:** within six months.",
+          "**Online form:** if the photo upload fails three times, the system tells you to bring a suitable printed photo to the centre.",
+          "**Not stated on the Delhi centre pages we read:** head size, glasses rule and digital file limits. Ask the centre if your photo is borderline."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visa photo size, Thailand e-visa photo and Vietnam e-visa photo size"
+      },
+      {
+        "type": "h3",
+        "text": "Dubai visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Official spec:** GDRFA Dubai's visit visa service page lists \"two personal photos\" but gives no size, background or file limit.",
+          "**What to do:** use the limits shown on the upload screen of the channel you apply through (airline, hotel or sponsor). We prepare a fresh colour photo on plain white, which meets every other official rule in this post."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Thailand e-visa photo"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Orientation:** a vertical photo. The Royal Thai Embassy in Vienna gives a 3:4 width-to-height ratio.",
+          "**Background:** plain white or off-white, nothing behind you.",
+          "**Head:** about 70% of the photo's height (Royal Thai Embassy, Singapore).",
+          "**Recency:** within the last six months (Royal Thai Embassy, Vienna).",
+          "**Glasses:** if you wear them, no flash on the eyes. No headgear or earphones unless worn for religion.",
+          "**Gap:** we found no separate photo spec page from the embassy in New Delhi, so check the thaievisa.go.th upload step."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Vietnam e-visa photo size"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Size:** recent 4 x 6 cm photo, JPG or JPEG.",
+          "**File:** up to 2 MB. One label on the portal says 10 MB, but the upload notes say 2 MB, so stay under 2 MB.",
+          "**Rules:** face looking straight, no hat, **no glasses**, polite clothes, white background.",
+          "**Also upload:** a clear image of your passport data page with no cut corners.",
+          "**Checks:** the portal warns when the portrait and passport photo have a low match rate, or when the portrait was captured from another source."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Indian passport photo size, for contrast"
+      },
+      {
+        "type": "p",
+        "text": "Your passport photo and your visa photo are not the same thing. At a Passport Seva Kendra, the passport advisory says no photograph is required because the photo is captured on site. For manual submission at a Passport Office, it asks for a recent colour photo of 4.5 x 3.5 cm on a white background. Indian missions abroad that follow the ICAO rules, such as the Consulate in Auckland, ask for 630 x 810 pixels, white background, face filling 80 to 85%, and glasses taken off."
+      },
+      {
+        "type": "p",
+        "text": "Do not reuse your passport photo for a visa. The UK says so in writing, and an old passport photo will fail every six-month or three-month rule in this list."
+      },
+      {
+        "type": "h2",
+        "text": "Why visa photos get rejected"
+      },
+      {
+        "type": "p",
+        "text": "Most photo rejections are avoidable. These are the ones the official pages call out again and again:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Shadows:** on the face or behind the head. GOV.UK and the Thai embassy both reject them. Studio lights in front, not overhead.",
+          "**Glasses:** banned for the US and Vietnam, discouraged by the UK, and a common source of glare everywhere else.",
+          "**Edited or filtered photos:** ICA, GOV.UK and the US all reject filters. Beauty mode on a phone counts as editing.",
+          "**Wrong background:** coloured walls, patterned curtains or a grey cast where white is needed. China and Japan want white or near-white.",
+          "**Old photo:** the US, Canada, Schengen, Japan, China and Australia want six months or less. Singapore wants three months.",
+          "**Wrong size:** a 35 x 45 mm print for the US, or a square print for Schengen.",
+          "**Copies and selfies:** a scan of an old print, a photo of a document, or an arm's-length selfie. Vietnam's portal flags photos captured from another source."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Get one studio print set and keep the digital file"
+      },
+      {
+        "type": "p",
+        "text": "Our standing advice to clients: get **one session at a photo studio** and ask for two print sizes, **35 x 45 mm** (Canada, Schengen, Japan, Australia) and **51 x 51 mm** (US). Ask for a plain white background, glasses off, no retouching, and the date written on the bill. Then ask for the **original digital file** on WhatsApp or email. Most online forms in this list want an upload, and a studio file beats a phone photo every time."
+      },
+      {
+        "type": "p",
+        "text": "If China or a Vietnam e-visa is on your list, ask the studio to crop the same shot to 33 x 48 mm and 4 x 6 cm too. Keep the set for six months at most, and redo it within three months for Singapore."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks your photo against the exact rule for your visa before anything is filed, along with the rest of your documents. We work from our office at Shivalik Shilp II in Vastrapur, Ahmedabad, and file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 14 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every rule above on official pages on 14 November 2026. Photo rules change without much notice, so re-check the page for your visa before printing: the State Department and your US embassy page, GOV.UK, IRCC, Home Affairs, your Schengen embassy, ICA, the VFS Japan page, the Chinese Visa Application Service Center, Indonesia's imigrasi.go.id, evisa.gov.vn, thaievisa.go.th, imi.gov.my and passportindia.gov.in."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Embassy in Guyana: Ask the Consul, November 2025 (visa photos)",
+        "url": "https://gy.usembassy.gov/ask-the-consul-november-2025/"
+      },
+      {
+        "label": "GOV.UK: How to take a photo for a visa application or permission",
+        "url": "https://www.gov.uk/guidance/how-to-take-a-photo-for-a-visa-application-or-permission"
+      },
+      {
+        "label": "Immigration, Refugees and Citizenship Canada: Temporary resident visa application photograph specifications",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/temporary-resident-visa-application-photograph-specifications.html"
+      },
+      {
+        "label": "Department of Home Affairs (Australia): Photograph - Passport",
+        "url": "https://immi.homeaffairs.gov.au/help-text/evidence/Pages/et-h0050.aspx"
+      },
+      {
+        "label": "German Missions in India: Schengen Visa FAQs",
+        "url": "https://india.diplo.de/in-en/service/schengen-visa-faq-2610538"
+      },
+      {
+        "label": "Immigration & Checkpoints Authority Singapore: Visa guideline, India",
+        "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/visa-guidelines/visa-guideline-detail/india"
+      },
+      {
+        "label": "VFS Global for the Embassy of Japan: Visa information, New Delhi",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/delhi/"
+      },
+      {
+        "label": "Chinese Visa Application Service Center, New Delhi: Notice on application documents",
+        "url": "https://pdf.visaforchina.cn/DEL4_EN/tongzhigonggao/553117983279550498.html"
+      },
+      {
+        "label": "Vietnam Immigration Department: National Electronic Visa system",
+        "url": "https://evisa.gov.vn/"
+      },
+      {
+        "label": "Directorate General of Immigration, Indonesia: Visa FAQ",
+        "url": "https://www.imigrasi.go.id/faq/visa?lang=en-US"
+      }
+    ]
+  },
+  {
+    "slug": "australia-visitor-visa-subclass-600-from-india-2026",
+    "title": "Australia Visitor Visa (Subclass 600) from India 2026: Fees in ₹, Processing Time, Documents",
+    "metaTitle": "Australia Visitor Visa Subclass 600 from India 2026 | Travlys",
+    "metaDescription": "An Australia visitor visa (subclass 600) from India costs AUD 250, about ₹16,000. 90% of Tourist stream files are decided in 31 days. Documents and steps.",
+    "excerpt": "The Australia Visitor visa (subclass 600) costs AUD 250 (about ₹16,000) when you apply from India, and most Tourist stream files are decided within a month. Here are the fees, current processing times, documents and the ImmiAccount steps, checked on the Home Affairs website.",
+    "date": "2026-11-14",
+    "updated": "2026-11-14",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "Australia",
+      "Visitor visa",
+      "Subclass 600",
+      "Visa fees",
+      "Processing time",
+      "Parents visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1524293581917-878a6d017c71?w=1600&h=900&fit=crop",
+    "related": [
+      "australia-visa-biometrics-india-2026",
+      "visa-rejection-reasons-india",
+      "when-to-apply-for-visa-from-india-by-country"
+    ],
+    "cta": {
+      "slug": "australia-visa",
+      "label": "Get your Australia visitor visa filed"
+    },
+    "faqs": [
+      {
+        "q": "What is the Australia visitor visa fee in Indian rupees?",
+        "a": "The Australia Visitor visa (subclass 600) Tourist stream costs AUD 250 per person when you apply from India, which is about ₹16,000 at roughly ₹64 to the Australian dollar. The Business Visitor and Sponsored Family streams also cost AUD 250. Every family member pays separately, including children. Your card company's exchange rate, any card surcharge, the VFS biometrics fee and medicals, if asked for, are extra."
+      },
+      {
+        "q": "How many days does Australia tourist visa take from India?",
+        "a": "The Home Affairs processing guide, checked on 14 November 2026, shows 50% of Tourist stream applications decided in 21 days and 90% in 31 days. Business Visitor files took 7 and 23 days, and Sponsored Family files 40 and 89 days. These figures are global, not India-specific, and are based on recently decided cases. Missing documents, medicals or biometrics requests make a file take longer, so apply at least six weeks before travel."
+      },
+      {
+        "q": "Is biometrics compulsory for Australia visitor visa from India?",
+        "a": "Biometrics are not taken from every applicant automatically. Home Affairs says it will tell you after you apply if you need to give fingerprints and a face photo. If you do, you either book an appointment at an Australian Biometrics Collection Centre run by VFS Global, or Home Affairs may let you use the Australian Immi App. India has 16 listed centres, including Ahmedabad, Mumbai, New Delhi and Pune. VFS charges its own service fee."
+      },
+      {
+        "q": "Can my parents get a 1 year Australia visa from India?",
+        "a": "Yes, parents can apply for up to 12 months, but Home Affairs generally grants 3 months and decides longer stays case by case. If you are an Australian citizen or permanent resident, your parents can ask for a Tourist stream visa valid for more than 12 months, possibly with multiple entries. They still cannot stay more than 12 months in total in any 18-month period, and they must arrange adequate health insurance for the trip."
+      },
+      {
+        "q": "How much bank balance is required for Australia tourist visa from India?",
+        "a": "There is no fixed bank balance for the Australia visitor visa. Home Affairs only says you must have, or have access to, enough money to support yourself in Australia and to leave. It suggests itemised personal bank statements for 3 months, pay slips, tax records, term deposits or credit card statements. If a relative in Australia is paying, attach their invitation letter and proof of their funds. The amount should match your trip length and plans."
+      },
+      {
+        "q": "Can I extend my Australia visitor visa while in Australia?",
+        "a": "No, you cannot extend a Visitor visa (subclass 600). To stay longer you must apply for a new visa before your current one ends. You can only do this if your visa does not carry condition 8503 (No Further Stay). Sponsored Family stream visas always carry 8503. Home Affairs can waive it only in limited circumstances, through its No Further Stay waiver request form. Check your conditions in VEVO or your grant letter."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "An Australia Visitor visa (subclass 600) applied for from India costs **AUD 250** (about **₹16,000**) in the Tourist, Business Visitor and Sponsored Family streams. The Home Affairs processing guide shows 90% of Tourist stream applications decided in **31 days**, Business Visitor in **23 days** and Sponsored Family in **89 days**. You apply online in ImmiAccount, and most visits are granted for **3 months**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Tourist stream fee (apply from India):** AUD 250, about ₹16,000. **Tourist stream fee (apply in Australia):** AUD 630, about ₹40,300. **Business Visitor and Sponsored Family fee:** AUD 250 each. **Processing (90% of files):** Tourist 31 days, Business Visitor 23 days, Sponsored Family 89 days. **Usual stay:** 3 months, up to 12 months in some cases. **Where to apply:** online in ImmiAccount. **Biometrics:** only if Home Affairs asks. **Rate used:** about ₹64 to AUD 1."
+      },
+      {
+        "type": "h2",
+        "text": "What is the Australia visitor visa subclass 600?"
+      },
+      {
+        "type": "p",
+        "text": "The Visitor visa (subclass 600) is Australia's standard visa for Indians going for a holiday, to see family, or for short business meetings. You cannot work on it. You can study or train for up to 3 months. Every person applies separately, including children listed on a parent's passport."
+      },
+      {
+        "type": "p",
+        "text": "The visa has several streams. Indian passport holders normally use one of these:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tourist stream (apply outside Australia):** for holidays, cruises and visiting family or friends. This is what most Indian travellers apply for.",
+          "**Tourist stream (apply in Australia):** for people already in Australia on another visa who want to stay on as a visitor.",
+          "**Business Visitor stream:** for business enquiries, contract negotiations, conferences and trade fairs. You cannot work for an Australian business or sell to the public.",
+          "**Sponsored Family stream:** for visitors sponsored by a family member in Australia. Your sponsor completes Form 1149 and may be asked to pay a security bond."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The **Frequent Traveller stream** (up to 10 years, AUD 1,845) is not open to Indian citizens. Home Affairs lists it only for citizens of China, Brunei, Cambodia, the Philippines, Laos, Indonesia, Malaysia, Singapore, Thailand, Vietnam and Timor-Leste. If you travel to Australia often, ask for a multiple-entry Tourist stream visa instead."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visitor visa fees in Indian rupees"
+      },
+      {
+        "type": "p",
+        "text": "The visa application charge for most Indian applicants is **AUD 250**, about ₹16,000. These are the figures in the Home Affairs current visa pricing table on 14 November 2026. Rupee amounts use about ₹64 to one Australian dollar, the mid-market rate on that date. Your bank or card will charge a little more."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tourist stream, applied outside Australia:** AUD 250 (about ₹16,000)",
+          "**Tourist stream, applied in Australia:** AUD 630 (about ₹40,300). A Subsequent Temporary Application Charge of AUD 700 (about ₹44,800) can also apply in some cases.",
+          "**Business Visitor stream:** AUD 250 (about ₹16,000)",
+          "**Sponsored Family stream:** AUD 250 (about ₹16,000), plus a security bond if Home Affairs asks your sponsor for one",
+          "**Frequent Traveller stream:** AUD 1,845 (about ₹1,18,000), not available to Indian citizens"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Each applicant pays the full charge. A family of four applying from Ahmedabad pays AUD 1,000 (about ₹64,000) in visa charges alone. On top of that you may pay for health checks, police certificates and biometrics. Home Affairs also says a surcharge may apply when you pay by credit card or PayPal."
+      },
+      {
+        "type": "callout",
+        "label": "Price depends on the date Home Affairs receives your file",
+        "text": "Visa charges change from time to time. Home Affairs says the price is set by the date it receives your application. If the price rises before your file is received, you pay the new charge. Check the Visa Pricing Estimator on the day you pay."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visitor visa processing time from India"
+      },
+      {
+        "type": "p",
+        "text": "Most Tourist stream files are decided within a month. These are the figures from the Home Affairs visa processing times guide, checked on 14 November 2026 (the page was last updated on 2 November 2026):"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tourist stream:** 50% decided in 21 days, 90% in 31 days",
+          "**Business Visitor stream:** 50% decided in 7 days, 90% in 23 days",
+          "**Sponsored Family stream:** 50% decided in 40 days, 90% in 89 days",
+          "**Frequent Traveller stream:** Home Affairs says processing times are unavailable"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These are global figures. Home Affairs does not publish a separate India number. Also, the tool shows one figure for the whole Tourist stream and does not split applications made in India from those made in Australia. If Home Affairs asks for medicals or biometrics, your file sits until you provide them."
+      },
+      {
+        "type": "p",
+        "text": "In practice, apply at least six weeks before your flight, and earlier for Sponsored Family files or for December and school-holiday travel. If you apply from India, you must be outside Australia when the visa is decided."
+      },
+      {
+        "type": "h2",
+        "text": "How long can you stay: 3, 6 or 12 months, and condition 8503"
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs generally grants a stay of **3 months** and can grant up to 12 months in some cases. The visa can be granted for 3, 6 or 12 months, and you may not get the length you ask for. Officers look at how long you want to stay and why."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tourist stream (from India):** single entry or multiple entry. With multiple entry you can leave and come back while the visa is valid.",
+          "**Tourist stream (in Australia):** multiple entry or no travel.",
+          "**Business Visitor stream:** single or multiple entry. Generally 3 months, up to 12 months in some cases.",
+          "**Sponsored Family stream:** generally single entry, with 6 months from the grant date to enter Australia. Standard stay is 3 months."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "One inconsistency: the Business Visitor overview on the Home Affairs website says **up to 3 months**, while the detailed section on the same page says up to 12 months in certain circumstances. Plan a business trip around 3 months and explain clearly if you need longer."
+      },
+      {
+        "type": "p",
+        "text": "You cannot extend a visitor visa. To stay longer you must apply for a new visa from inside Australia, and only if your visa does not carry **condition 8503 (No Further Stay)**. Sponsored Family visas always carry 8503. Tourist and Business Visitor visas may carry it. Home Affairs can waive 8503 only in limited circumstances through its No Further Stay waiver request form. Check your grant letter or VEVO before you plan any change."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visitor visa documents"
+      },
+      {
+        "type": "p",
+        "text": "Upload as much proof as you can with the application, because Home Affairs says it may decide your file without asking for more. For an Indian Tourist stream applicant, a strong file usually has:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport pages with your photo, personal details, and issue and expiry dates",
+          "National identity card, if you have one",
+          "Proof of any name change, such as a marriage certificate",
+          "Itemised personal bank statements for the last 3 months",
+          "Pay slips, income tax returns, audited accounts or term deposit receipts",
+          "A letter from your employer saying you will return to your job, or a college letter if you are a student",
+          "Proof of ties at home, such as family in India or property you own",
+          "An invitation letter from your relative or friend in Australia, stating the relationship, purpose of the visit, length of stay and whether you will stay with them",
+          "Your rough plan for the trip",
+          "Military service records, if any"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For applicants under 18, add a birth certificate showing both parents. If a parent with legal rights is not travelling, they must sign Form 1229 or a statutory declaration giving consent, with a copy of their passport or driving licence. If the child is not staying with a relative or guardian, add Form 1257 signed by the host."
+      },
+      {
+        "type": "p",
+        "text": "Translate any Gujarati, Hindi or other non-English document into English, and upload both the original and the translation. Translators in India do not need Australian accreditation, but each translation must show their full name, address, phone number and qualifications in English. Scan everything in colour, and save multi-page documents as one file."
+      },
+      {
+        "type": "h3",
+        "text": "How much money do you need to show?"
+      },
+      {
+        "type": "p",
+        "text": "There is no fixed minimum balance. Home Affairs only says you must have, or have access to, enough money to support yourself in Australia and to leave at the end of your stay. Make sure the funds fit the length of your trip and make it clear who is paying. If your son or daughter in Australia is paying, attach their invitation letter and their bank statements as well."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visitor visa application: how to apply in ImmiAccount"
+      },
+      {
+        "type": "p",
+        "text": "You apply online in ImmiAccount, the Home Affairs portal. The steps are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Check your passport. If you plan to renew it, do that before you apply.",
+          "Log in to ImmiAccount or create a free account.",
+          "Fill in the Visitor visa (subclass 600) form for the right stream. Ask for a longer stay or multiple entry in the form, with reasons.",
+          "Attach your documents in colour.",
+          "Submit family members' applications together, and say you are travelling as a group.",
+          "Pay the visa charge online. Home Affairs will not process your file until you pay.",
+          "Wait for the acknowledgement, then attend biometrics or medicals if you are asked.",
+          "Get the decision in writing, with your grant number, start date and conditions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If someone helps you, you can use Form 956A to name a person who receives letters for you. Tell Home Affairs straight away about a mistake or a change, such as a new passport or phone number, while the file is open."
+      },
+      {
+        "type": "h2",
+        "text": "Biometrics, health and character checks for Indian applicants"
+      },
+      {
+        "type": "p",
+        "text": "Biometrics are taken only if Home Affairs asks for them. After you apply, it tells you whether to attend an Australian Biometrics Collection Centre or whether you can use the Australian Immi App. The centres are run by VFS Global, which charges its own service fee. Home Affairs lists 16 centres in India (correct as of October 2026):"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ahmedabad, Mumbai, Pune and Panaji (pop-up, reduced hours) in the west",
+          "New Delhi, Chandigarh, Jalandhar, Jaipur and Lucknow in the north",
+          "Bengaluru, Chennai, Hyderabad, Kochi, Thiruvananthapuram and Puducherry (pop-up, reduced hours) in the south",
+          "Kolkata in the east"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Take the passport linked to your application, or VFS will generally not collect your biometrics. Applicants in Gujarat normally use the Ahmedabad centre."
+      },
+      {
+        "type": "p",
+        "text": "**Health:** you must meet the health requirement. India is not on Australia's list of low tuberculosis risk countries. For a stay under 6 months, most Indian visitors need no medical unless special circumstances apply. For a stay of **6 months or more**, expect a medical examination, a chest x-ray (age 11 and over) and a serum creatinine/eGFR test (age 15 and over). Applicants aged **75 or over** need a medical examination and serum creatinine/eGFR test for a Visitor visa. Medicals are done at a panel clinic and are an extra cost."
+      },
+      {
+        "type": "p",
+        "text": "**Character:** you must meet the character requirement and may be asked for a police certificate. Any money you owe the Australian government must be paid back or arranged. Home Affairs also strongly recommends health insurance for every visitor, and it may add condition 8501 (maintain adequate health insurance) to your visa."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visa for parents from India"
+      },
+      {
+        "type": "p",
+        "text": "Most parents should use the Tourist stream, not the Sponsored Family stream. Home Affairs itself suggests checking the Tourist stream first, because it does not need a sponsor. Your son or daughter in Australia can still support the application with an invitation letter and proof of their funds."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tourist stream for parents:** AUD 250 each. If the child is an Australian citizen or permanent resident, parents can ask for a visa valid for more than 12 months, possibly with multiple entries. They cannot stay more than 12 months in total in any 18-month period, and must arrange adequate health insurance. Attach proof that the child is a citizen or permanent resident.",
+          "**Sponsored Family stream:** AUD 250 each. The sponsor completes Form 1149, you prove the relationship with birth certificates or passport pages, and Home Affairs may ask for a security bond. It is generally single entry, carries condition 8503 and took 89 days for 90% of files.",
+          "**Longer visits:** if your parents want to stay more than 12 months on each visit, look at the Sponsored Parent (Temporary) visa (subclass 870), which is a separate visa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Parents aged 75 or over need a medical examination, so book the panel clinic early. For a stay of 6 months or more, Indian parents of any age should expect a medical and chest x-ray."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Australia visitor visa"
+      },
+      {
+        "type": "p",
+        "text": "Our team prepares your ImmiAccount application, checks your bank statements, invitation letters and translations before you submit, and tracks requests for biometrics or medicals. We work from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file Australia visitor visas for clients across India. Call +91-8200918967 to start."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 14 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every fee, processing time and rule in this post on the Home Affairs website on 14 November 2026. Before you pay, re-check the Home Affairs current visa pricing table, the visa processing times guide and the Visitor visa (subclass 600) stream page for your stream. For biometrics, check the Home Affairs biometrics page."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Tourist stream (apply outside Australia)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas"
+      },
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Tourist stream (apply in Australia)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-onshore"
+      },
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Sponsored family stream",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/sponsored-family-stream"
+      },
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Business Visitor stream",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/business-visitor-stream"
+      },
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Frequent traveller stream",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/frequent-traveller-stream"
+      },
+      {
+        "label": "Department of Home Affairs: Current visa pricing table",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing"
+      },
+      {
+        "label": "Department of Home Affairs: Visa processing times guide",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times"
+      },
+      {
+        "label": "Department of Home Affairs: Biometrics",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+      },
+      {
+        "label": "Department of Home Affairs: What health examinations you need",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/what-health-examinations-you-need"
+      },
+      {
+        "label": "Department of Home Affairs: No Further Stay waiver request form",
+        "url": "https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/no-further-stay-waiver-request-form"
+      }
+    ]
+  },
+  {
+    "slug": "easiest-visa-to-get-for-indians-2026",
+    "title": "Easiest Visa to Get for Indians in 2026: Ranked by Effort, Time and Cost",
+    "metaTitle": "Easiest Visa to Get for Indians 2026: Ranked | Travlys",
+    "metaDescription": "Nepal, Bhutan, Thailand (30 days) and Sri Lanka's free ETA are the easiest for Indians in 2026. Then e-visas from USD 20, then Schengen, UK and US.",
+    "excerpt": "Every easy visa option for Indian passport holders in 2026, ranked in three tiers by effort, time and cost, plus what the official 2025 Schengen data says about the easiest Schengen country.",
+    "date": "2026-11-14",
+    "updated": "2026-11-14",
+    "readMinutes": 10,
+    "category": "Honest takes",
+    "tags": [
+      "Easiest visa",
+      "Visa on arrival",
+      "e-Visa",
+      "Schengen visa",
+      "Indian passport",
+      "Budget travel"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-free-countries-for-indians-2026",
+      "schengen-visa-documents-checklist-2026",
+      "sri-lanka-eta-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Schengen visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Which visa is easiest to get for Indians?",
+        "a": "The easiest are the ones with nothing to apply for. Nepal and Bhutan need no visa for Indians, Thailand gives 30 days visa-free for tourism, and Malaysia gives 30 days visa-free until 31 December 2026. Sri Lanka needs an ETA, but it is free for Indians and valid for 30 days. After these come online e-visas such as Vietnam, Georgia and Azerbaijan, which are decided in days without any appointment."
+      },
+      {
+        "q": "Which Schengen visa is easiest to get for Indians?",
+        "a": "There is no easy Schengen country you can choose. You must apply to the country where you will spend the longest time, or the country you enter first if the stays are equal. The European Commission's 2025 figures for consulates in India show a 15.8% overall not-issued rate, with Germany at about 10.5% and Greece at about 33%. These numbers reflect who applies where, not a shortcut you can use."
+      },
+      {
+        "q": "Which countries give visa on arrival to Indians in 2026?",
+        "a": "The Ministry of External Affairs lists visa on arrival for Indians in countries including Indonesia, Mauritius, Cambodia, Qatar, Fiji and Tanzania. Indonesia's visa on arrival costs IDR 500,000, about ₹2,700, for 30 days. The Maldives also grants a free visa on arrival, but every traveller must file the IMUGA Traveller Declaration within 96 hours before landing. The UAE gives visa on arrival only to Indians holding certain US, UK, EU or other qualifying visas or permits."
+      },
+      {
+        "q": "Which is the easiest visa for Indians with a low budget?",
+        "a": "Sri Lanka, Thailand, Malaysia, Kazakhstan and Nepal cost nothing in visa fees for Indians right now. Hong Kong's pre-arrival registration is also free. If you want a paid e-visa, Azerbaijan's standard e-visa is USD 20, about ₹2,000, and Georgia's is USD 20 plus a 2% service fee and a USD 15 identity check. Bhutan needs no visa but charges Indians a Sustainable Development Fee of ₹1,200 per day."
+      },
+      {
+        "q": "Is Thailand visa free for Indians now?",
+        "a": "Yes, for 30 days for tourism. The Thai Cabinet approved a 30-day visa exemption for Indian passport holders on 14 July 2026, replacing the earlier 60-day stay, and it took effect on 15 September 2026. You need a passport valid for six months, a return ticket, a hotel booking and the Thailand Digital Arrival Card. For a longer stay, apply for the right e-visa on thaievisa.go.th before you travel."
+      },
+      {
+        "q": "Can I apply for a Schengen visa from any country that is easier?",
+        "a": "No. EU rules say you apply at the consulate of the country where you will spend the most time. If your stays are equal, you apply to the country you visit first. Picking a country only because it seems easier, and then not following that itinerary, can lead to refusal or problems at the border. Plan the trip first, then apply to the country your itinerary points to."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The easiest visas for Indians in 2026 are the ones you never apply for: **Nepal** and **Bhutan** (no visa), **Thailand** (**30 days** visa-free), **Malaysia** (**30 days**, until **31 December 2026**) and **Sri Lanka** (a **free 30-day ETA**). Next come online e-visas such as **Vietnam**, **Georgia** and **Azerbaijan**, decided in days. Schengen, UK, US, Canada, Australia and Japan remain the hardest."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Easiest overall:** Nepal, Bhutan, Thailand, Malaysia, Sri Lanka. **Free online step:** Sri Lanka ETA, Hong Kong pre-arrival registration. **Cheapest e-visas:** Azerbaijan USD 20, Georgia USD 20 plus fees. **Easiest if you already hold a US, UK or Schengen visa:** UAE visa on arrival, Turkey e-visa, Philippines 30 days. **Schengen not-issued rate at consulates in India (2025):** 15.8%. **Rule to remember:** you apply to your main Schengen destination, not the easiest one."
+      },
+      {
+        "type": "h2",
+        "text": "Which visa is easiest to get for Indians?"
+      },
+      {
+        "type": "p",
+        "text": "The easiest visa is the one with the least paperwork, the shortest wait and the lowest fee. We ranked every option into three tiers on exactly those three things. This is different from a plain visa-free list: an online e-visa you get in three days can be easier in practice than a visa on arrival with a long airport queue and strict document checks."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tier 1, no visa or a free form:** nothing to apply for, or a free online step. Cost is zero or close to it.",
+          "**Tier 2, online e-visa in days:** a short online application, decided in hours to about a week. Fees are mostly around USD 20 to 30.",
+          "**Tier 3, full applications:** document-checked files, often with biometrics at a VFS or BLS centre, weeks of lead time and fees from about ₹9,600 upwards."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "One warning applies to every tier. Easy to get does not mean guaranteed entry. Immigration officers at the border decide whether you get in and for how long."
+      },
+      {
+        "type": "h2",
+        "text": "Visa on arrival and visa-free countries for Indians (Tier 1)"
+      },
+      {
+        "type": "p",
+        "text": "These are the lowest-effort trips for an Indian passport right now. Each line gives the rule, the stay, the cost and the one catch we see travellers miss."
+      },
+      {
+        "type": "h3",
+        "text": "No visa needed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Nepal:** visa-free, no fixed limit listed by the Ministry of External Affairs. Cost: nothing. Catch: none on the visa side, but carry valid ID that your airline accepts.",
+          "**Bhutan:** no visa, but you need an entry permit at Phuentsholing, Gelephu, Samdrup Jongkhar, Samtse or Paro airport. Use a passport with six months' validity or your original Voter ID. Cost: **₹1,200 per day** Sustainable Development Fee. Catch: the daily fee adds up on a long trip.",
+          "**Thailand:** **30 days** visa-free for tourism since **15 September 2026** (it was 60 days before). Cost: nothing. Catch: file the Thailand Digital Arrival Card within 72 hours before arrival, and carry a return ticket and hotel booking.",
+          "**Malaysia:** **30 days** visa-free, valid **until 31 December 2026**. Cost: nothing. Catch: no extension had been announced when we checked, so confirm before booking a 2027 trip. Register on the official Malaysia Digital Arrival Card portal.",
+          "**Kazakhstan:** **14 days** visa-free per visit, with a cap of **42 days in any 180**. Cost: nothing. Catch: the 14 days cannot be stretched; longer stays need a visa.",
+          "**Philippines:** **14 days** visa-free for tourism, not extendable. **30 days** if you hold a valid US, UK, Schengen, Japan, Australia, Canada or Singapore visa or residence permit. Cost: nothing. Catch: passport valid six months beyond your stay, plus proof of funds, hotel and onward ticket.",
+          "**Rwanda:** **30 days** visa-free, as listed by the Ministry of External Affairs. Cost: nothing."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Visa on arrival or a free online form"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Sri Lanka:** free tourist ETA since **25 May 2026**, valid **30 days** with double entry. Cost: nothing. Catch: you must still apply on eta.gov.lk before flying; staying beyond 30 days needs a paid extension.",
+          "**Maldives:** visa granted on arrival with no pre-approval. The Ministry of External Affairs lists a 90-day stay. Cost: nothing. Catch: confirmed return ticket, a prepaid booking at a registered facility or enough funds, and the free IMUGA Traveller Declaration within 96 hours before arrival.",
+          "**Indonesia (including Bali):** visa on arrival for **30 days**, extendable once by 30 days. Cost: **IDR 500,000** (about ₹2,700), same again for the extension. Catch: the extension is done at an immigration office, so plan it early.",
+          "**Hong Kong:** free online Pre-arrival Registration, **14 days** per visit, valid six months for multiple visits. Cost: nothing. Catch: print and sign the slip; if registration fails, a visit visa takes about four weeks.",
+          "**Mauritius:** listed by the Ministry of External Affairs as visa on arrival. Catch: the official pages we checked do not state the stay length, so confirm it with the Mauritius Passport and Immigration Office.",
+          "**Seychelles:** **90 days** visa-free, but you need a Seychelles Travel Authorisation costing **€10 to €70** (about ₹1,100 to ₹7,500).",
+          "**Qatar and Cambodia:** Qatar's visa on arrival fee is waived but needs a hotel booked through Discover Qatar. Cambodia gives one month on arrival, and officers may ask to see USD 500 per person."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Uzbekistan:** a 30-day visa-free regime for Indians has been announced, but the official Uzbek tourism page we checked describes it as expected, not in force. Use the e-visa until an official notice confirms the start date."
+      },
+      {
+        "type": "h2",
+        "text": "Which country visa is easiest to get online? (Tier 2 e-visas)"
+      },
+      {
+        "type": "p",
+        "text": "These need approval before you fly, but the whole process is online, with no appointment and no passport submission. For most travellers they are the next easiest option after Tier 1."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Azerbaijan:** ASAN e-visa, single entry, **30-day** stay within 90 days' validity. Cost: **USD 20** (about ₹2,000) for standard processing in **3 working days**, or **USD 50** (about ₹4,900) for urgent processing in 3 hours. Catch: apply only on evisa.gov.az, not on look-alike sites.",
+          "**Georgia:** e-visa on evisa.gov.ge for short stays under 90 days. Cost: **USD 20** plus a 2% service fee (about ₹2,000), plus a **USD 15** DuVerify identity check (about ₹1,500). Decision: not less than **5 working days**. Catch: fees are non-refundable, and you must show insurance for your whole stay at the border.",
+          "**Vietnam:** e-visa open to all nationalities, stays of up to **90 days**, single or multiple entry. Cost: paid online at evisa.gov.vn; the portal's fee page would not load for us on the day we checked. Catch: use only the official portal.",
+          "**Kenya:** eTA from **USD 30** (about ₹2,900), usually processed in about **72 hours**; expedited costs USD 100 more. Catch: you may travel only after approval.",
+          "**Singapore:** apply through an authorised visa agent appointed by the High Commission. Cost: **₹2,100** visa fee plus an agent service fee of ₹1,300. Time: usually **3 to 5 working days**. Catch: your stay length is decided at the checkpoint, not by the visa.",
+          "**UAE:** Indians holding a valid US visa or green card, a UK or EU visa or residence permit, or a residence permit from Singapore, Japan, South Korea, Australia, New Zealand or Canada get a visa on arrival: **AED 100** (about ₹2,700) for **14 days**, extendable once, or **AED 250** (about ₹6,700) for **60 days**, not extendable. Everyone else applies in advance through a UAE sponsor such as an airline, hotel or licensed agent. Catch: the qualifying visa and your passport need six months' validity.",
+          "**Turkey (conditional):** e-visa only if you hold a valid Schengen, US, UK or Irish visa or residence permit. Single entry, **one month**. Catch: without one of these you need a sticker visa from the embassy, which is Tier 3 effort."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Easiest visa for Indians with a low budget"
+      },
+      {
+        "type": "p",
+        "text": "On visa fees alone, the cheapest trips are Sri Lanka, Thailand, Malaysia, Kazakhstan, Nepal and the Philippines, all free for Indians right now, plus Hong Kong's free registration. From Gujarat, Nepal and Bhutan also work overland, and Bhutan's only charge is the ₹1,200 daily fee."
+      },
+      {
+        "type": "p",
+        "text": "The visa is rarely the expensive part. What catches budget travellers is the money and bookings officers expect to see: a return ticket almost everywhere, prepaid accommodation or funds in the Maldives, and up to USD 500 per person in Cambodia. Budget for those before you count a destination as cheap."
+      },
+      {
+        "type": "h2",
+        "text": "Tier 3: the hardest visas for Indians and why"
+      },
+      {
+        "type": "p",
+        "text": "These need a full application judged on your finances, job, travel history and ties to India. The visa officer can refuse even a complete file, so lead time and preparation matter more than the fee."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Schengen:** **€90** (about ₹9,600) for adults, €45 for children aged 6 to 12, plus the visa centre's service fee. Normal processing is **15 days**, up to 45 days. Apply no earlier than six months and no later than 15 days before travel. Catch: summer appointments fill fast.",
+          "**UK:** Standard Visitor visa **£135** (about ₹17,000) for up to six months. Decision usually within **3 weeks**, and you can apply no earlier than three months before travel. Catch: long-term visit visas cost far more.",
+          "**Canada:** visitor visa **CAD 100** plus **CAD 85** biometrics (about ₹13,000 together). Catch: biometrics mean a visit to an application centre.",
+          "**US:** the B1/B2 visitor visa is the slowest of all because of appointment waits. We could not load the State Department fee page on the day we checked, so confirm the current fee and any visa integrity fee on travel.state.gov.",
+          "**Australia:** a full visitor visa application with document review. Check the current fee on the Home Affairs website; we could not load it today.",
+          "**Japan:** the Ministry of External Affairs lists an e-visa route for Indians, but it is still a document-checked application, not a formality."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Which Schengen visa is easiest to get?"
+      },
+      {
+        "type": "p",
+        "text": "The honest answer: the easiest Schengen visa is the one for the country your itinerary points to. EU rules say you apply to the country where you will **spend the longest time**. If two stays are equal, you apply to the country you **enter first**. Choosing a consulate because it seems lenient, then travelling differently, is visa shopping and can cost you the visa or entry at the border."
+      },
+      {
+        "type": "p",
+        "text": "The European Commission's statistics for **2025**, published on 28 May 2026, show **1,153,748** short-stay visa applications at consulates in India, **966,529** visas issued and an overall not-issued rate of **15.8%**. Rates by country for applications made in India, worked out from the Commission's consulate table:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Belgium:** about 7.8% not issued (33,333 applications).",
+          "**Germany:** about 10.5% (153,179 applications). Almost every visa issued was multiple-entry.",
+          "**Italy:** about 12.7% (53,423).",
+          "**Switzerland:** about 13.6% (226,044, the most of any country).",
+          "**France:** about 15.3% (204,184).",
+          "**Spain:** about 15.4% (90,720).",
+          "**Netherlands:** about 20.7% (97,650).",
+          "**Austria:** about 22.1% (48,761).",
+          "**Greece:** about 33.2% (41,009)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Read these carefully. A low rate may simply mean that country gets more business travellers and repeat visitors from India. Your own chances depend on your file: bank statements, leave letter, bookings and travel history. A strong file for your real main destination beats a weak file sent to a low-refusal country."
+      },
+      {
+        "type": "h2",
+        "text": "Easiest Europe visa for Indians: build a travel history"
+      },
+      {
+        "type": "p",
+        "text": "Schengen gets easier the more you use it properly. Since 18 April 2024, the EU's cascade rules for **Indian nationals residing in India** allow a **two-year multiple-entry visa** after you have obtained and lawfully used **two visas within the previous three years**. That is normally followed by a **five-year visa** if your passport has enough validity. The 90 days in any 180 limit still applies."
+      },
+      {
+        "type": "p",
+        "text": "A valid Schengen, US or UK visa also moves other countries into easier tiers for you:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**UAE:** visa on arrival for 14 or 60 days instead of applying in advance.",
+          "**Turkey:** e-visa instead of an embassy sticker visa.",
+          "**Philippines:** 30 days visa-free instead of 14.",
+          "**Kyrgyzstan:** 7 days visa-free with a long-term multiple-entry US, UK or Schengen visa, arriving through Manas International Airport only."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes that turn an easy visa into a denied boarding"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Skipping the digital arrival form:** Thailand's TDAC, Malaysia's MDAC and the Maldives IMUGA declaration are separate from the visa rule.",
+          "**Short passport validity:** Thailand, the Philippines, Hong Kong and the UAE route all ask for about six months.",
+          "**No return ticket or hotel booking:** most Tier 1 countries can ask for both at the counter.",
+          "**Assuming Turkey is an e-visa for everyone:** it is only for holders of the supporting visas listed above.",
+          "**Booking Malaysia for January 2027 without checking:** the current exemption ends on 31 December 2026."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team in Vastrapur, Ahmedabad files visas for clients across India, from quick e-visas to full Schengen, UK, US and Canada applications. We check which country you should apply to, build the document file and book the appointment, so the hard tiers feel closer to the easy ones."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 14 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Rules in this post were checked on 14 November 2026 against official pages. Visa-free deals change quickly, so re-check before booking: the Royal Thai Embassy in New Delhi, the Immigration Department of Malaysia (for the 31 December 2026 end date), eta.gov.lk, the Ministry of External Affairs visa facility list, ICP UAE, the Singapore High Commission in New Delhi, and the European Commission's Schengen visa pages."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ministry of External Affairs, India: Visa facility for Indian Nationals (Ordinary Passport Holders)",
+        "url": "https://www.mea.gov.in/VFFIN.htm"
+      },
+      {
+        "label": "Royal Thai Embassy, New Delhi: Latest update on revision to Thailand's visa exemption scheme for Indian passport holders",
+        "url": "https://newdelhi.thaiembassy.org/en/content/latest-update-on-revision-to-thailand-s-visa-exemp"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+      },
+      {
+        "label": "Sri Lanka Department of Immigration and Emigration: ETA information",
+        "url": "https://www.eta.gov.lk/slvisa/"
+      },
+      {
+        "label": "ICP UAE: Six new nationalities and six additional countries of residence added to eligibility criteria",
+        "url": "https://icp.gov.ae/en/media-center/icp-expands-eligibility-for-uae-entry-visa-for-nationals-of-certain-countries/"
+      },
+      {
+        "label": "High Commission of Singapore, New Delhi: Visa information",
+        "url": "https://new-delhi.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "European Commission: Statistics on short-stay visas issued by the Schengen States",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/statistics-short-stay-visas-issued-schengen-states_en"
+      },
+      {
+        "label": "European Commission: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "EEAS, Delegation of the EU to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "GOV.UK: Apply for a Standard Visitor visa",
+        "url": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa"
+      }
+    ]
+  },
   // --- 5 November 2026: CDC Ebola declaration, H-1B/OPT proposals, DV-2028 lottery. ---
   {
     "slug": "us-cdc-ebola-declaration-flights-from-india-2026",
@@ -800,11 +2514,11 @@ export const BLOG_POSTS = [
   {
     "slug": "schengen-visa-fees-for-indians-2026",
     "title": "Schengen Visa Fees for Indians 2026: €90, VFS Charges and Total Cost",
-    "metaTitle": "Schengen Visa Fees for Indians 2026: €90 + VFS, Total Cost | Travlys",
+    "metaTitle": "Schengen Visa Fees for Indians 2026: €90 (₹9,900) + VFS, Kids | Travlys",
     "metaDescription": "The Schengen visa fee for Indians is €90 for adults and €45 for children aged 6 to 11; under 6 is free. Add the VFS service charge and insurance: the full 2026 cost.",
     "excerpt": "The Schengen visa fee is the same in every Schengen country: €90 for adults. What changes is the service charge, insurance and extras. Here is what an Indian applicant really pays in 2026.",
     "date": "2026-11-04",
-    "updated": "2026-11-04",
+    "updated": "2026-11-14",
     "readMinutes": 6,
     "category": "Country guides",
     "tags": [
@@ -826,7 +2540,7 @@ export const BLOG_POSTS = [
     "faqs": [
       {
         "q": "How much is the Schengen visa fee for Indians in 2026?",
-        "a": "The Schengen visa fee is €90 for an adult, about ₹9,600 at recent exchange rates, and it is the same for every Schengen country. Children aged 6 to 11 pay €45 and children under 6 pay nothing. The visa centre's service charge is added on top."
+        "a": "The Schengen visa fee is €90 for an adult, about ₹9,900 at recent exchange rates, and it is the same for every Schengen country. Children aged 6 to 11 pay €45 and children under 6 pay nothing. The visa centre's service charge is added on top."
       },
       {
         "q": "What is the total cost of a Schengen visa from India?",
@@ -847,17 +2561,21 @@ export const BLOG_POSTS = [
       {
         "q": "How early should I apply and how long does it take?",
         "a": "You can apply up to 6 months before travel and should apply at least 15 days before. Consulates usually decide within 15 calendar days, which can stretch to 45 days in busy periods, so apply 4 to 8 weeks ahead in peak season."
+      },
+      {
+        "q": "What is the Schengen visa fee in Indian rupees?",
+        "a": "€90 for an adult, which German missions in India list as ₹9,900 (October 2026, subject to change). Children aged 6 to 11 pay €45, listed as ₹5,000, and children under 6 pay nothing. Each country converts at its own rate, so the rupee figure can differ slightly between France, Italy or the Netherlands. The visa centre service charge and travel insurance are extra."
       }
     ],
     "body": [
       {
         "type": "p",
-        "text": "The Schengen visa fee for Indian passport holders in 2026 is **€90 for adults**, about ₹9,600, and it is the same whichever Schengen country you apply to. Children aged 6 to 11 pay **€45**, and children under 6 pay **nothing**. On top of the visa fee you pay the visa centre's service charge, usually about ₹2,000 to ₹3,000, and you need travel insurance, so a typical adult application costs roughly ₹12,000 to ₹14,000 before any consultant fee."
+        "text": "The Schengen visa fee for Indian passport holders in 2026 is **€90 for adults**, about ₹9,900, and it is the same whichever Schengen country you apply to. Children aged 6 to 11 pay **€45**, and children under 6 pay **nothing**. On top of the visa fee you pay the visa centre's service charge, usually about ₹2,000 to ₹3,000, and you need travel insurance, so a typical adult application costs roughly ₹12,000 to ₹14,000 before any consultant fee."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Adult visa fee:** €90 (about ₹9,600). **Child 6 to 11:** €45. **Under 6:** free. **Service charge:** about ₹2,000 to ₹3,000, set by each country's visa centre. **Insurance:** mandatory, minimum €30,000 medical cover. **Refund if refused:** no. **Decision time:** usually 15 calendar days, up to 45."
+        "text": "**Adult visa fee:** €90 (about ₹9,900). **Child 6 to 11:** €45. **Under 6:** free. **Service charge:** about ₹2,000 to ₹3,000, set by each country's visa centre. **Insurance:** mandatory, minimum €30,000 medical cover. **Refund if refused:** no. **Decision time:** usually 15 calendar days, up to 45."
       },
       {
         "type": "h2",
@@ -920,7 +2638,7 @@ export const BLOG_POSTS = [
       {
         "type": "ul",
         "items": [
-          "**Visa fee:** €90, about ₹9,600",
+          "**Visa fee:** €90, about ₹9,900",
           "**Visa centre service charge:** about ₹2,000 to ₹3,000",
           "**Travel insurance:** varies by age and days",
           "**Estimated total before consultant fee:** roughly ₹12,000 to ₹14,000",
@@ -965,6 +2683,10 @@ export const BLOG_POSTS = [
       {
         "label": "Business Today: Schengen visa costs in 2025",
         "url": "https://www.businesstoday.in/nri/visa/story/schengen-visa-costs-climb-in-2025-heres-what-youll-pay-for-cheapest-most-expensive-options-491555-2025-08-29"
+      },
+      {
+        "label": "German Missions in India: Visa fees (01.10.2026)",
+        "url": "https://india.diplo.de/in-en/service/-/1984596"
       }
     ]
   },
@@ -4226,7 +5948,7 @@ export const BLOG_POSTS = [
   {
     "slug": "turkey-visa-for-indians-2026",
     "title": "Turkey Visa for Indians 2026: e-Visa Rules, Fees, Sticker Visa",
-    "metaTitle": "Turkey Visa for Indians 2026: e-Visa & Sticker | Travlys",
+    "metaTitle": "Turkey Visa for Indians with US Visa: e-Visa Rules 2026 | Travlys",
     "metaDescription": "Indians need a visa for Türkiye. With a valid US, UK, Schengen or Irish visa or permit you can get a one-month e-Visa online. Others need a sticker visa.",
     "excerpt": "Indian passport holders need a visa for Türkiye. A valid US, UK, Schengen or Irish visa or residence permit gets you a quick e-Visa; everyone else applies for a sticker visa through the authorised visa centre.",
     "date": "2026-10-28",
@@ -4244,9 +5966,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=1600&h=900&fit=crop",
     "related": [
+      "countries-visa-free-for-indians-with-us-visa-2026",
       "schengen-visa-documents-checklist-2026",
-      "georgia-visa-for-indians-2026",
-      "airport-transit-visa-for-indians-europe-2026"
+      "georgia-visa-for-indians-2026"
     ],
     "faqs": [
       {
@@ -5859,11 +7581,11 @@ export const BLOG_POSTS = [
   {
     "slug": "singapore-visa-for-indians-2026",
     "title": "Singapore Visa for Indians 2026: Fees, Documents, Transit Rules",
-    "metaTitle": "Singapore Visa for Indians 2026: Fees & Rules | Travlys",
+    "metaTitle": "Singapore Visa for Indians 2026: Price, Processing Time, Agents | Travlys",
     "metaDescription": "Indians need a Singapore visa in 2026, filed through an authorised visa agent. Fee ₹2,100 plus agent charge, 3 to 5 working days. Documents and transit rules.",
     "excerpt": "Indian passport holders still need a visa for Singapore, filed through an authorised visa agent. Here is the 2026 fee, the documents, the timeline for a December–January trip and the 96-hour transit option.",
     "date": "2026-10-28",
-    "updated": "2026-10-28",
+    "updated": "2026-11-14",
     "readMinutes": 8,
     "category": "Country guides",
     "tags": [
@@ -5876,9 +7598,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=1600&h=900&fit=crop",
     "related": [
+      "visa-photo-size-by-country-for-indians-2026",
       "malaysia-visa-free-for-indians-2026",
-      "new-year-international-trips-from-india-easy-visa",
-      "visa-free-countries-for-indians-2026"
+      "new-year-international-trips-from-india-easy-visa"
     ],
     "cta": {
       "slug": "singapore-visa",
@@ -5900,6 +7622,10 @@ export const BLOG_POSTS = [
       {
         "q": "How long does a Singapore visa take for Indians?",
         "a": "Singapore missions in India say a visa generally takes 3 to 5 working days. That count excludes the day you submit, weekends and public holidays, and some applications take longer. For a Christmas or New Year trip, apply in the second half of November or early December. The Mumbai consulate advises applying within 30 days before you arrive."
+      },
+      {
+        "q": "Can I visit Singapore with a US visa?",
+        "a": "Not for a holiday. A US visa does not replace a Singapore visa for Indians. It helps only under the 96-hour Visa Free Transit Facility: you must be travelling to or from a third country through Singapore, hold a US, UK, Canada, Australia, New Zealand, Japan, Germany or Switzerland visa or pass valid at least one month from entry, and have an onward ticket out within 96 hours."
       },
       {
         "q": "Can Indians transit Singapore without a visa?",
@@ -6153,6 +7879,10 @@ export const BLOG_POSTS = [
       {
         "label": "Consulate-General of Singapore, Chennai: Visa information",
         "url": "https://chennai.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "ICA Singapore: Visa Free Transit Facility",
+        "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/entry-requirements/visa-free-transit-facility"
       }
     ]
   },
@@ -6176,9 +7906,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1600&h=900&fit=crop",
     "related": [
+      "australia-visitor-visa-subclass-600-from-india-2026",
       "australia-visa-biometrics-india-2026",
-      "visa-rejection-reasons-india",
-      "new-year-international-trips-from-india-easy-visa"
+      "visa-rejection-reasons-india"
     ],
     "cta": {
       "slug": "new-zealand-visa",
@@ -6475,9 +8205,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1600&h=900&fit=crop",
     "related": [
+      "australia-visitor-visa-subclass-600-from-india-2026",
       "australia-student-visa-new-rules-2026-indian-students",
-      "visa-rule-changes-for-indians-2026-tracker",
-      "study-abroad-visa-changes-2026-indian-students"
+      "visa-rule-changes-for-indians-2026-tracker"
     ],
     "cta": {
       "slug": "australia-visa",
@@ -6733,9 +8463,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1600&h=900&fit=crop",
     "related": [
+      "us-visa-interview-questions-answers-b1-b2-india-2026",
       "us-visa-changes-2026-indian-applicants",
-      "ds-160-form-mistakes",
-      "us-visa-from-india-2026-complete-guide"
+      "ds-160-form-mistakes"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -8014,11 +9744,11 @@ export const BLOG_POSTS = [
   {
     "slug": "south-korea-visa-for-indians-2026",
     "title": "South Korea Visa for Indians 2026: Fees, Documents, Jeju Rule",
-    "metaTitle": "South Korea Visa for Indians 2026: Fees & Process | Travlys",
+    "metaTitle": "South Korea Visa for Indians 2026: Price ₹3,600, Documents | Travlys",
     "metaDescription": "Indians need a C-3-9 tourist visa for South Korea; K-ETA does not apply. Fee is ₹3,600 single entry, about 10 working days. Jeju is visa-free on direct entry.",
     "excerpt": "Indians need a C-3-9 tourist visa for South Korea, and K-ETA is not open to Indian passports. Since 1 October 2026, Mumbai-jurisdiction applicants, including Gujarat, must apply through a designated travel agency.",
     "date": "2026-10-27",
-    "updated": "2026-10-27",
+    "updated": "2026-11-14",
     "readMinutes": 8,
     "category": "Country guides",
     "tags": [
@@ -8045,6 +9775,10 @@ export const BLOG_POSTS = [
       {
         "q": "Can Indians use K-ETA for South Korea?",
         "a": "No. The Korean Consulate General in Mumbai states that India is not eligible for K-ETA and all Indian nationals must get a visa through a Korean mission. News about Korea extending its K-ETA exemption to 31 December 2026 applies to 22 visa-free countries, not India. Any website selling a K-ETA or Korea e-visa to Indians is not official."
+      },
+      {
+        "q": "Can Indians with a US visa enter South Korea without a visa?",
+        "a": "Yes, but only in transit. An Indian holding a valid US visa or green card can enter Korea visa-free for up to 30 days when travelling to or from the US or a third country, for example India to Seoul to New York. A round trip India to Korea to India does not qualify. You need an onward ticket within 30 days and no Korean entry refusal or overstay in the last 3 years."
       },
       {
         "q": "What is the South Korea visa fee for Indians?",
@@ -8314,6 +10048,10 @@ export const BLOG_POSTS = [
       {
         "label": "NewKerala: VFS Global expands Korea visa services; New Delhi centre inaugurated (15 Sep 2026)",
         "url": "https://www.newkerala.com/news/a/vfs-global-expands-korea-visa-services-across-south-812.htm"
+      },
+      {
+        "label": "Consulate General of the Republic of Korea in Houston: Visa-free entry for transit passengers",
+        "url": "https://overseas.mofa.go.kr/us-houston-en/brd/m_5573/view.do?seq=759894"
       }
     ]
   },
@@ -9654,11 +11392,11 @@ export const BLOG_POSTS = [
   {
     "slug": "uk-visa-for-indians-2026-fees-processing-time",
     "title": "UK Visa for Indians 2026: Fees, Processing Time and Documents",
-    "metaTitle": "UK Visa for Indians 2026: Fees and Processing | Travlys",
+    "metaTitle": "UK Visa for Indians 2026: £135 Fee, Processing Time, Documents | Travlys",
     "metaDescription": "UK visitor visa for Indians in 2026 costs £135 for 6 months. Decisions take about 3 weeks, or 5 days with priority. Fees, VFS centres, documents and refusals.",
     "excerpt": "Indians need a UK Standard Visitor visa, not an ETA. Here are the 2026 fees, processing times in India, VFS centres, the documents that help, the common refusal reasons and what the India-UK trade deal changes.",
     "date": "2026-10-25",
-    "updated": "2026-10-25",
+    "updated": "2026-11-14",
     "readMinutes": 8,
     "category": "Country guides",
     "tags": [
@@ -9685,6 +11423,10 @@ export const BLOG_POSTS = [
       {
         "q": "What is the UK visa fee for Indians in 2026?",
         "a": "The Standard Visitor visa costs £135 for up to 6 months, from 8 April 2026. Long-term visit visas cost £506 for 2 years, £903 for 5 years and £1,128 for 10 years, and each visit can still last up to 6 months. Priority service adds £500 and super priority adds £1,000. You pay in rupees online, and the fee is not refunded if you are refused."
+      },
+      {
+        "q": "How much is a 2-year, 5-year or 10-year UK visa for Indians?",
+        "a": "On GOV.UK in November 2026, a standard 6-month UK visitor visa costs £135. Long-term visitor visas cost £506 for 2 years, £903 for 5 years and £1,128 for 10 years. Each visit on a long-term visa is still limited to 6 months, and VFS charges are extra. Long-term visas suit frequent visitors with a clean UK travel record."
       },
       {
         "q": "How long does a UK visitor visa take from India?",
@@ -10264,7 +12006,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Indians apply for a Japan tourist visa at VFS and get a single-entry eVISA on their phone. Visa fee ₹500 plus VFS charges; allow 5 to 12 working days.",
     "excerpt": "Japan still needs a visa for Indian passport holders, but tourist visas are now issued electronically after you apply at VFS. Here is the 2026 fee, document list, timeline and a simple 7-day first trip.",
     "date": "2026-10-25",
-    "updated": "2026-10-25",
+    "updated": "2026-11-14",
     "readMinutes": 8,
     "category": "Country guides",
     "tags": [
@@ -10278,9 +12020,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1600&h=900&fit=crop",
     "related": [
+      "visa-photo-size-by-country-for-indians-2026",
       "vietnam-e-visa-for-indians-2026",
-      "visa-free-countries-for-indians-2026",
-      "new-year-international-trips-from-india-easy-visa"
+      "visa-free-countries-for-indians-2026"
     ],
     "faqs": [
       {
@@ -10290,6 +12032,10 @@ export const BLOG_POSTS = [
       {
         "q": "Can Indians apply for the Japan eVISA online by themselves?",
         "a": "No. Japan's Ministry of Foreign Affairs lists India among the places where the eVISA must go through an accredited agency, which in India is VFS Global. You submit your form and documents at a VFS centre as before. The difference is the result: an approved single-entry tourist visa arrives as an eVISA, and you show the visa issuance notice on your phone at the airport."
+      },
+      {
+        "q": "Is there a Japan visa centre in Ahmedabad?",
+        "a": "Yes. Gujarat falls under the Consulate-General of Japan in Mumbai, and applicants from Gujarat can apply at the Japan Visa Application Centre in Ahmedabad, run by VFS Global. Check the current address and appointment rules on the VFS Global Japan India page before you go, and carry the exact documents listed for your visa type."
       },
       {
         "q": "What is the Japan visa fee for Indians in 2026?",
@@ -10558,6 +12304,10 @@ export const BLOG_POSTS = [
       {
         "label": "Business Today: Visa-free tourists to Japan will need JESTA from 2028",
         "url": "https://www.businesstoday.in/amp/nri/visa/story/heading-to-japan-in-2028-visa-free-tourists-will-need-digital-ok-under-new-jesta-rule-487522-2025-08-02"
+      },
+      {
+        "label": "VFS Global: Japan visa information for India",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/english/"
       }
     ]
   },
@@ -10843,9 +12593,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1600&h=900&fit=crop",
     "related": [
+      "countries-visa-free-for-indians-with-us-visa-2026",
       "vietnam-e-visa-for-indians-2026",
-      "georgia-visa-for-indians-2026",
-      "visa-free-countries-for-indians-2026"
+      "georgia-visa-for-indians-2026"
     ],
     "faqs": [
       {
@@ -11115,7 +12865,7 @@ export const BLOG_POSTS = [
   {
     "slug": "georgia-visa-for-indians-2026",
     "title": "Georgia Visa for Indians 2026: e-Visa, Fees, Insurance Rule",
-    "metaTitle": "Georgia Visa for Indians 2026: e-Visa & Rules | Travlys",
+    "metaTitle": "Georgia Visa for Indians with US Visa: 90 Days Free, e-Visa | Travlys",
     "metaDescription": "Indians need a Georgia e-visa (USD 20 + 2%) unless they hold a valid US, UK, Schengen or similar visa. Insurance of 30,000 GEL is mandatory from 2026.",
     "excerpt": "Indians need a visa for Georgia, usually an e-visa from evisa.gov.ge. A valid US, UK, Schengen or similar visa lets you skip it for 90 days in 180. Since 1 January 2026, every tourist also needs health and accident insurance.",
     "date": "2026-10-25",
@@ -11133,9 +12883,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1565008576549-57569a49371d?w=1600&h=900&fit=crop",
     "related": [
+      "countries-visa-free-for-indians-with-us-visa-2026",
       "philippines-visa-free-for-indians-2026",
-      "schengen-ees-explained-for-indian-travellers",
-      "visa-free-countries-for-indians-2026"
+      "schengen-ees-explained-for-indian-travellers"
     ],
     "faqs": [
       {
@@ -11892,9 +13642,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1600&h=900&fit=crop",
     "related": [
+      "us-visa-interview-questions-answers-b1-b2-india-2026",
       "us-visa-from-india-2026-complete-guide",
-      "ds-160-form-mistakes",
-      "visa-rejection-reasons-india"
+      "ds-160-form-mistakes"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -12184,9 +13934,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
     "related": [
+      "countries-visa-free-for-indians-with-us-visa-2026",
       "dubai-visa-cost-from-india-2026",
-      "visa-free-countries-for-indians-2026",
-      "new-year-international-trips-from-india-easy-visa"
+      "visa-free-countries-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -12905,9 +14655,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=1600&h=900&fit=crop",
     "related": [
-      "thailand-visa-free-for-indians-2026",
-      "uae-visa-on-arrival-for-indians-2026",
-      "sri-lanka-eta-for-indians-2026"
+      "easiest-visa-to-get-for-indians-2026",
+      "countries-visa-free-for-indians-with-us-visa-2026",
+      "thailand-visa-free-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -13246,9 +14996,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=1600&h=900&fit=crop",
     "related": [
+      "easiest-visa-to-get-for-indians-2026",
       "visa-free-countries-for-indians-2026",
-      "bali-visa-on-arrival-for-indians-2026",
-      "sri-lanka-eta-for-indians-2026"
+      "bali-visa-on-arrival-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -13543,11 +15293,11 @@ export const BLOG_POSTS = [
   {
     "slug": "sri-lanka-eta-for-indians-2026",
     "title": "Sri Lanka ETA for Indians 2026: Free Visa, Rules and How to Apply",
-    "metaTitle": "Sri Lanka ETA for Indians 2026: Free, Apply on eta.gov.lk | Travlys",
+    "metaTitle": "Sri Lanka ETA for Indians 2026: Free, Official Site, Status | Travlys",
     "metaDescription": "Indians get a free 30-day Sri Lanka tourist ETA in 2026 but must still apply on eta.gov.lk before flying. Stay rules, extensions, entry checks, 7-night route.",
     "excerpt": "The Sri Lanka tourist ETA is free for Indians in 2026, but you still have to apply online before you fly. Here is how to apply on the official site, what to carry, and a classic 7-night route.",
     "date": "2026-10-24",
-    "updated": "2026-10-24",
+    "updated": "2026-11-14",
     "readMinutes": 7,
     "category": "Travel planning",
     "tags": [
@@ -13572,6 +15322,14 @@ export const BLOG_POSTS = [
       {
         "q": "How do I apply for the Sri Lanka ETA as an Indian?",
         "a": "Apply online at www.eta.gov.lk, the official site run by Sri Lanka's Department of Immigration and Emigration. Choose a tourist ETA, enter your details exactly as they appear in your passport, and submit. You get an acknowledgement and then an approval or referral notice. Save or print the approval and carry it when you fly. Do not use look-alike sites that charge a fee for the free Indian tourist ETA."
+      },
+      {
+        "q": "How do I check my Sri Lanka ETA status and download it?",
+        "a": "Go to www.eta.gov.lk, the only official ETA site, and open \"Check Status\". Enter your confirmation code and passport number. If you lost the code, tick the box and enter your passport number, nationality and date of birth instead. When the status shows \"Approved\", click \"Download\" to save or print the ETA Approval Notice, and carry a copy when you fly."
+      },
+      {
+        "q": "Which Sri Lanka ETA websites are fake?",
+        "a": "Any site other than www.eta.gov.lk. The High Commission of India in Colombo has warned Indians about unauthorised look-alike sites, such as eta.org.lk, srilankavisa.org.lk, e-visa.org.lk and srilankavisa.lk, that charge high fees. The tourist ETA is free for Indians since 25 May 2026, so if a site asks you to pay for a tourist ETA, you are on the wrong site."
       },
       {
         "q": "How long can Indians stay in Sri Lanka on the free ETA?",
@@ -13657,6 +15415,19 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "The only official sites are **eta.gov.lk** and **immigration.gov.lk**. Sri Lanka's Controller General of Immigration and Emigration has warned about misleading websites that charge high fees for Sri Lanka ETAs, and the High Commission of India in Colombo has issued a similar advisory. These sites often use \"Sri Lanka visa\" in their name and charge a processing fee. While the free scheme runs, the tourist ETA for Indians costs nothing. If a site asks for card details for it, close the page."
+      },
+      {
+        "type": "h2",
+        "text": "Sri Lanka ETA status check and download"
+      },
+      {
+        "type": "p",
+        "text": "Open **eta.gov.lk**, choose **Check Status**, and enter your confirmation code and passport number. No code? Tick the box and use your passport number, nationality and date of birth. Once it says **Approved**, click **Download** to save or print the ETA Approval Notice. Carry a printed or phone copy to the airport."
+      },
+      {
+        "type": "callout",
+        "label": "Avoid fake ETA sites",
+        "text": "The only official site is **www.eta.gov.lk**. The High Commission of India in Colombo lists look-alike sites such as eta.org.lk, srilankavisa.org.lk, e-visa.org.lk and srilankavisa.lk that charge high fees. The Indian tourist ETA is free, so never pay for it."
       },
       {
         "type": "h2",
@@ -13795,6 +15566,14 @@ export const BLOG_POSTS = [
       {
         "label": "Jetwing Hotels: best times and seasons to visit Sri Lanka",
         "url": "https://www.jetwinghotels.com/islandinsider/best-times-seasons-to-visit-sri-lanka/"
+      },
+      {
+        "label": "Sri Lanka Department of Immigration and Emigration: Check ETA status",
+        "url": "https://eta.gov.lk/etaslvisa/pages/checkStatus.jsp?locale=en_US"
+      },
+      {
+        "label": "High Commission of India, Colombo: Visa advisory to Indian nationals",
+        "url": "https://www.hcicolombo.gov.in/page/visa-advisory-to-indian-nationals/"
       }
     ]
   },
@@ -14310,7 +16089,7 @@ export const BLOG_POSTS = [
     category: 'Country guides',
     tags: ['USA', 'Embassy visa', 'B1/B2', 'F-1', 'H-1B', 'DS-160'],
     heroImage: 'https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=1600&h=900&fit=crop',
-    related: ['ds-160-form-mistakes', 'visa-consultant-vs-diy', 'visa-rejection-reasons-india'],
+    related: ['us-visa-interview-questions-answers-b1-b2-india-2026', 'ds-160-form-mistakes', 'visa-consultant-vs-diy'],
     cta: { slug: 'usa-visa', label: 'See full US visa pricing' },
     faqs: [
       {
@@ -14406,7 +16185,7 @@ export const BLOG_POSTS = [
     category: 'How-to',
     tags: ['DS-160', 'USA', 'Refusal', 'B1/B2'],
     heroImage: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&h=900&fit=crop',
-    related: ['us-visa-from-india-2026-complete-guide', 'visa-rejection-reasons-india', 'visa-consultant-vs-diy'],
+    related: ['us-visa-interview-questions-answers-b1-b2-india-2026', 'us-visa-from-india-2026-complete-guide', 'visa-rejection-reasons-india'],
     cta: { slug: 'usa-visa', label: 'See US visa application help' },
     faqs: [
       {
@@ -14480,7 +16259,7 @@ export const BLOG_POSTS = [
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['us-visa-from-india-2026-complete-guide', 'visa-consultant-vs-diy', 'visa-rejection-reasons-india'],
+    related: ['visa-photo-size-by-country-for-indians-2026', 'us-visa-from-india-2026-complete-guide', 'visa-consultant-vs-diy'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
