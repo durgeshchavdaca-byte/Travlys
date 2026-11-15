@@ -168,15 +168,45 @@ function HolidayCta({ post, place, variant = 'mid' }) {
 
 // Mid-article enquiry prompt. The WhatsApp message is prefilled with the
 // article title so each lead shows which guide it came from.
+// Refusal and parents' guides get their own offer, since those readers need
+// a consultant most.
+function ctaIntent(slug) {
+  if (/refused|rejected|214b/.test(slug)) return 'refusal'
+  if (/parents/.test(slug)) return 'parents'
+  return null
+}
+
 function MidArticleCta({ post, dest }) {
+  const intent = ctaIntent(post.slug)
   const ask = dest ? `my ${dest.name} visa` : 'the visas for my trip'
-  const text = `Hi Travlys, I read "${post.title}" on your website and want help with ${ask}.`
+  const text =
+    intent === 'refusal'
+      ? `Hi Travlys, I read "${post.title}" on your website. My visa was refused and I want a refusal review.
+
+Country:
+Date of refusal:
+Reason on the letter:`
+      : intent === 'parents'
+        ? `Hi Travlys, I read "${post.title}" on your website and want help with my parents' visa.
+
+Where I live:
+Parents' city in India:
+Planned travel month:`
+        : `Hi Travlys, I read "${post.title}" on your website and want help with ${ask}.`
   return (
     <div className="my-10 rounded-2xl bg-ink-950 text-white p-6 md:p-7 flex flex-col md:flex-row md:items-center gap-5 justify-between">
       <div>
-        <p className="text-[0.7rem] uppercase tracking-[0.18em] font-semibold text-coral-400 m-0">Free document check</p>
+        <p className="text-[0.7rem] uppercase tracking-[0.18em] font-semibold text-coral-400 m-0">
+          {intent === 'refusal' ? 'Free refusal review' : intent === 'parents' ? 'For NRIs and their parents' : 'Free document check'}
+        </p>
         <p className="font-display text-xl font-extrabold mt-1.5 mb-0 leading-snug">
-          {dest ? `Applying for ${/^[AEIO]/.test(dest.name) ? 'an' : 'a'} ${dest.name} visa?` : 'Planning this trip?'}
+          {intent === 'refusal'
+            ? 'Refused once? Send us the refusal letter before you reapply.'
+            : intent === 'parents'
+              ? 'Living abroad? We prepare your parents’ file and coach them in Gujarati or Hindi.'
+              : dest
+                ? `Applying for ${/^[AEIO]/.test(dest.name) ? 'an' : 'a'} ${dest.name} visa?`
+                : 'Planning this trip?'}
         </p>
         <p className="text-sm text-white/70 mt-1.5 mb-0">
           Send your passport and travel dates on WhatsApp. A Travlys specialist replies with your checklist and timeline, usually within the hour on working days.

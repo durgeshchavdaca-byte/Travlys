@@ -86,6 +86,14 @@ export const HOME_FAQS = [
     q: 'Is Travlys better than other visa consultants?',
     a: 'We handle fewer countries (10) so we know each route deeply, charge a single flat fee (no per-document or “urgency” surcharges), and you get a named specialist who stays on your file from brief to decision instead of a ticket queue.',
   },
+  {
+    q: 'I live abroad. Can Travlys handle my parents’ visa in India?',
+    a: 'Yes. If you live in the US, UK, Canada, Australia or the Gulf and want your parents to visit you, you brief us on WhatsApp (+91 82009 18967) from wherever you are; we collect your invitation letter and status documents, prepare your parents’ file in India, book their biometrics and interview, and coach them for the interview in Gujarati, Hindi or English.',
+  },
+  {
+    q: 'My visa was refused. Can Travlys help me reapply?',
+    a: 'Yes. Send us the refusal letter on WhatsApp first. We read the exact refusal reason (for example US 214(b), UK V 4.2, a Canada refusal or a Schengen refusal form), tell you honestly whether to reapply now or wait, and fix what was weak in the file. We never promise approval: only the embassy decides.',
+  }
 ]
 
 // --- Schema builders ---------------------------------------------------------
@@ -751,6 +759,10 @@ export function getCityHubFaqs(city) {
         {
           q: `Where is the Travlys visa office in ${city.name}?`,
           a: `Travlys is at ${BIZ.address.streetAddress}, Vastrapur, ${city.name}, ${city.state} ${BIZ.address.postalCode}. The office is open Monday to Saturday, 9 am to 7 pm. You can walk in with your passport and papers, or start on WhatsApp at +91 82009 18967 and come in only if you want to.`,
+        },
+        {
+          q: `Where are the visa application centres (VFS) in ${city.name}?`,
+          a: `Most are in one building: Shree Balaji Agora Mall, between Tapovan and Bhat Circle on SP Ring Road, Motera, ${city.name} 382424. VFS Global runs the centres for Canada, the UK and Ireland (first floor), Australia, Japan, Germany, France, the Netherlands and several other Schengen countries there, and the US document drop-off is in the same mall. Spain uses BLS International in Navrangpura. Always confirm the address on your appointment letter.`,
         },
         {
           q: `Is there a Singapore visa agent in ${city.name}?`,

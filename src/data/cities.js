@@ -108,7 +108,7 @@ export const CITIES = [
     region: 'West',
     lat: 23.0225,
     lng: 72.5714,
-    vfsCenter: 'Vastrapur (walk-distance from Travlys office)',
+    vfsCenter: 'Shree Balaji Agora Mall, Motera (VFS Global)',
     nearestConsulate: 'US Consulate Mumbai (jurisdiction)',
     travelHub: 'Sardar Vallabhbhai Patel International Airport (AMD)',
     population: '8M+',

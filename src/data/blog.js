@@ -8,6 +8,2976 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "us-visa-for-parents-from-india-2026",
+    "title": "US Visa for Parents from India (2026): Documents, Interview Questions and Refusal Risks",
+    "metaTitle": "US Visa for Parents from India: 2026 Guide | Travlys",
+    "metaDescription": "Parents apply in India for a B1/B2 visa at USD 185 each. What the child in the US sends, a sample invitation letter, 12 interview questions, refusal risks.",
+    "excerpt": "Parents apply in India for a B1/B2 visitor visa, at USD 185 each. Here is what the child in the US should send, a sample invitation letter, 12 interview questions and why parents get refused.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 10,
+    "category": "How-to",
+    "tags": [
+      "US visa",
+      "B1/B2 visa",
+      "Parents visa",
+      "Invitation letter",
+      "Interview questions",
+      "NRI families"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-interview-questions-answers-b1-b2-india-2026",
+      "us-visa-rejected-214b-what-to-do-2026",
+      "us-visa-renewal-dropbox-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get your parents' US visa file prepared"
+    },
+    "faqs": [
+      {
+        "q": "Can I apply for US visa for my parents from USA?",
+        "a": "You can do most of the paperwork from the US, but your parents must apply in India themselves. The official portal lets an applicant or their representative submit the DS-160, and the fee can be paid from a relative's bank account. Your parents must still attend biometrics at a VAC (unless they are over 79) and the interview in person. Each parent needs their own DS-160 and fee."
+      },
+      {
+        "q": "Is invitation letter required for US visa for parents?",
+        "a": "No, the US does not require an invitation letter for a B1/B2 visa. The official portal only says applicants may bring whatever supporting documents they believe support their case. A short, signed letter still helps, because it puts the purpose, dates, US address and who pays on one page. The officer decides on your parents' own answers and ties to India, not on the letter."
+      },
+      {
+        "q": "How long can parents stay in US on B2 visa?",
+        "a": "The US border officer decides how long your parents can stay, and the date appears on their I-94 record. US regulations say an admitted B-2 visitor gets at least six months unless an individual exception is made, with a cap of one year per admission. The visa's expiry date does not set the stay. Your parents must leave by the I-94 date, even if the visa is still valid."
+      },
+      {
+        "q": "Do parents above 80 need to attend US visa interview?",
+        "a": "Yes. The official portal says all applicants, including those over 79, must attend the interview in person at the Embassy or Consulate. What changes is biometrics: applicants over 79 do not need to visit the VAC, and a family member or representative can submit their documents. The only way to skip the interview is the renewal waiver, which depends on the earlier visa, not on age."
+      },
+      {
+        "q": "Can my parents look after my baby in US on visitor visa?",
+        "a": "Your parents can visit to see a new grandchild, but they cannot work in the US. US rules say a B-2 visitor may not engage in any employment, so being paid for childcare is not allowed. The official FAQ also says parents may visit a child but not live with them on a visitor visa. Give the officer fixed dates and a clear reason to return to India."
+      },
+      {
+        "q": "Can my parents give US visa interview in Gujarati?",
+        "a": "Possibly, but it is not guaranteed. The official FAQ says Hindi and English are spoken at all five US consular facilities in India, and Gujarati is not named. Applicants can ask for interpretation during intake, before the interview, subject to availability. If no interpreter is free, they may be asked to return another day. Parents cannot bring their own translator, and relatives cannot go in with them."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried your parents will be refused, or that they speak only Gujarati? Parents apply in India themselves for a **B1/B2 visitor visa**. The fee is **USD 185** each (about ₹18,130). Their son or daughter in the US can pay and invite, but the officer decides on the parents' own ties to India. Hindi and English are spoken at all **five** US visa posts in India."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** B1/B2 (B-2 covers family visits). **Who applies:** each parent, in India, with their own DS-160. **Fee:** USD 185 per person (about ₹18,130 at the consular rate of ₹98 per dollar), non-refundable. **Gujarat applicants:** the Mumbai consulate covers Gujarat. **Over 79:** no biometrics visit needed, but the interview is still in person. **Stay:** set by the US border officer and shown on the I-94. **Work:** not allowed, and that includes paid childcare. **Renewal without interview:** possible if the earlier B1/B2 is still valid or expired within the last 12 months. **When to apply:** at least three months before travel."
+      },
+      {
+        "type": "h2",
+        "text": "US visa for parents from India: who applies and who pays"
+      },
+      {
+        "type": "p",
+        "text": "The parents apply, not the child. Each parent fills in their own DS-160, pays their own USD 185 fee, gives biometrics at a Visa Application Centre (VAC) and attends the interview in India. Parents can book together using the 'Dependent' option when scheduling, because family ties can be proven."
+      },
+      {
+        "type": "p",
+        "text": "Whether you are an **F-1 student**, an **H-1B worker**, a **green card holder** or a **US citizen**, your parents apply for the same B1/B2 visa. Only the proof you send changes."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who can pay:** the official FAQ says someone without an internet bank account can use another person's account, such as a relative's. So a child can pay, as long as the payment goes in rupees through the portal's options (NEFT, UPI, debit or credit card, or cash at the listed banks).",
+          "**Receipt validity:** the fee receipt is valid for 365 days. The appointment must be booked within that period.",
+          "**Where Gujarat parents go:** the Mumbai consulate covers Gujarat. Relatives cannot go into the interview with them."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "DS-160 tips for parents"
+      },
+      {
+        "type": "p",
+        "text": "The officer reads the DS-160 first, so it must match what your parents will say. Each person needs their own form, in English. The portal warns that misrepresenting facts can make an applicant ineligible."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who is paying:** if the child is paying for tickets or expenses, say so. Then make sure the child's payslips or bank statement are in the file.",
+          "**US contact and address:** give the child's full US address exactly as it appears on the lease. Use the same city and address in the interview.",
+          "**Children in the US:** declare every son or daughter living in the US, with their correct status. Hiding a second child is the kind of mismatch that sinks a case.",
+          "**Past travel and refusals:** list earlier US visits and any refusal truthfully.",
+          "**Changes after booking:** small corrections are allowed. Bring both the original and the corrected confirmation pages to the VAC.",
+          "**Placeholder forms:** never let anyone book with a dummy DS-160. The portal says this leads to loss of the appointment."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Papers from the son or daughter in the US"
+      },
+      {
+        "type": "p",
+        "text": "There is no fixed official list; the portal says applicants may bring whatever supporting documents they believe help. For parents, that means proof of who they are visiting and where they will stay."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Parents of F-1 students:** a copy of the I-20, a current enrolment letter from the university and a copy of the student's visa page.",
+          "**Parents of an H-1B holder:** a copy of the H-1B approval notice, a recent employment letter and the last three payslips.",
+          "**Parents of a green card holder:** a copy of the green card (both sides) and an employment letter or recent payslips.",
+          "**Parents of a US citizen:** a copy of the US passport or naturalisation certificate, plus job or income proof.",
+          "**For everyone:** US address proof (lease or utility bill), and an invitation letter."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Invitation letter for parents' US visa: a short sample"
+      },
+      {
+        "type": "p",
+        "text": "The US does not require an invitation letter, and officers decide on the parents' own answers, not on the letter. It still helps, because it puts the purpose, dates, address and who pays on one page. Keep it short and factual, and sign it."
+      },
+      {
+        "type": "callout",
+        "label": "Sample invitation letter",
+        "text": "To the Consular Officer, U.S. Consulate General, Mumbai. I, [full name], am [an H-1B worker at ABC Inc. / an F-1 student at XYZ University / a US citizen], living at [full US address]. I invite my parents, [father's name] and [mother's name], of [city], Gujarat, to visit me from [date] to [date]. I will pay for their air tickets and expenses during the visit. They will return to India on or before [date], where they live in their own home and my father [receives a pension / runs a business]. Enclosed: copy of my [status document], my employment or enrolment letter, recent payslips and my lease. [Signature, phone, email]"
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who carry their child's payslips and US address proof can answer the 'who will you visit?' question in one line, with a document ready if asked."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for the parents: ties to India and money"
+      },
+      {
+        "type": "p",
+        "text": "The law presumes every B1/B2 applicant intends to immigrate. Parents answer that with a fixed, temporary trip, money for it, and ties in India."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Required:** a passport valid at least six months beyond the planned stay, the DS-160 confirmation page, the appointment letter and one 2 x 2 inch (51 x 51 mm) photo taken within six months.",
+          "**Ties:** property papers, a pension order, a business registration, farmland records, and family who stay in India.",
+          "**Money:** bank statements, fixed deposits and income tax returns, even if the child is paying.",
+          "**Travel history:** old passports with earlier visas and stamps.",
+          "**Health:** anyone bringing a medically necessary device to the consulate needs an original, hard-copy letter from a medical professional. Without it, they may be refused entry to the consular section."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Visa interview questions for parents: 12 common ones"
+      },
+      {
+        "type": "p",
+        "text": "The official FAQ says most cases are decided after a brief interview. Each question below has an answer pattern to fill with your own facts. Do not learn a script by heart."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Why are you going to the US?** Pattern: \"To visit our son in Dallas. He works there. We will stay about ten weeks.\" Avoid: \"Just to see\" or \"as long as possible.\"",
+          "**What does your son or daughter do?** Pattern: Job title, company and city, or course, university and year. Avoid: not knowing the employer's name or the course.",
+          "**What is their status in the US?** Pattern: \"H-1B\", \"F-1 student\", \"green card holder\" or \"US citizen\", matching the DS-160. Avoid: guessing or upgrading their status.",
+          "**How long will you stay?** Pattern: Fixed dates: \"From 10 March to 20 May.\" Avoid: \"Six months, whatever they give.\"",
+          "**Who is paying for the trip?** Pattern: \"Our son is paying for the tickets. We also have our own savings.\" Avoid: an answer that contradicts the DS-160.",
+          "**Where will you stay?** Pattern: The child's city and address, the same as on the form. Avoid: a different city from the form.",
+          "**What do you do in India?** Pattern: \"I retired from a bank and get a pension.\" Or the name of the business or farm. Avoid: long stories; one line is enough.",
+          "**Who will stay back in India?** Pattern: \"Our younger son and his family live with us in Surat.\" Avoid: claiming you have no one if that is not true.",
+          "**Have you travelled abroad before?** Pattern: Country and year for each trip. Avoid: leaving out trips that are in your passport.",
+          "**Why are you travelling now?** Pattern: Link it to a date: a delivery, a convocation, a festival break. Avoid: having no reason at all.",
+          "**Do you have other children in the US?** Pattern: A truthful yes or no, matching the DS-160. Avoid: hiding a second child.",
+          "**Have you ever been refused a US visa?** Pattern: \"Yes, once. Since then my husband's pension has started.\" Say what changed. Avoid: denying a refusal on record."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Can the interview be in Hindi or Gujarati?"
+      },
+      {
+        "type": "p",
+        "text": "Hindi, yes: the official FAQ says Hindi and English are spoken at all five consular facilities. Gujarati is not named. Other languages need an interpreter, requested during intake and subject to availability; if none is free, parents may be asked to return another day. They cannot bring their own translator, and a couple should ask for a language both understand."
+      },
+      {
+        "type": "h2",
+        "text": "US visa for elderly parents: what changes after 79"
+      },
+      {
+        "type": "p",
+        "text": "Age changes the biometrics step, not the interview. Applicants over 79 do not need to attend the VAC in person; a family member or representative can submit their documents on the scheduled date and time. All applicants, including those over 79, must appear in person for the interview at the Embassy or Consulate. Missing the interview means a no-show, a new fee and a fresh start."
+      },
+      {
+        "type": "p",
+        "text": "Carry any medical device letter, and keep papers in a small folder, because large bags are not allowed inside. The current interview waiver rules have no exemption based on age alone."
+      },
+      {
+        "type": "h2",
+        "text": "Why parents get refused under 214(b)"
+      },
+      {
+        "type": "p",
+        "text": "Most refusals for parents come under section 214(b): the officer was not satisfied the visit is temporary. It is not permanent, but reapplying needs a new fee and DS-160, and only new evidence or changed circumstances help."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**A long or open-ended plan:** \"we will stay as long as they need us\" sounds like moving, not visiting.",
+          "**A purpose that sounds like a job:** US rules say a B-2 visitor may not engage in any employment. Being paid to look after a child, or taking paid work as a nanny or cook, is employment.",
+          "**Living with the child, not visiting:** the official FAQ says parents can visit a child studying in the US but may not live with them without their own immigrant, work or student visa.",
+          "**Weak ties:** no property, income or family shown in India.",
+          "**Mismatches:** answers that differ from the DS-160 about the child's status, city or who pays."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "\"For the delivery and to help for a year\" sounds like a stay with no end. \"For the birth, back home in May\" sounds like a visit. Be honest about the delivery; just give it dates."
+      },
+      {
+        "type": "h2",
+        "text": "US visa renewal for parents without an interview (dropbox)"
+      },
+      {
+        "type": "p",
+        "text": "Parents may renew without an interview if they meet all of these current conditions on the official portal:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "renewing a B-1, B-2 or B1/B2 visa that is still valid or expired within the past 12 months;",
+          "at least 18 years old when the previous visa was issued;",
+          "all 10 fingerprints taken when the last visa was issued;",
+          "the previous visa was not lost, stolen, revoked or marked cancelled;",
+          "never refused, unless the refusal was overcome or waived;",
+          "applying in their consular district of residence, and present in India when submitting;",
+          "a drop-off date at least 15 calendar days before the 12-month window closes, and a passport valid for at least 15 days from that date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "They submit the appointment letter, both passports, the DS-160 page and a photo. Allow up to three weeks. Submission is free at a VAC in a consulate city and costs ₹1,500 per passport at other drop-off locations. The officer can still call them for an interview."
+      },
+      {
+        "type": "h2",
+        "text": "US visa fee, wait time and how long parents can stay"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fee:** USD 185 per person (about ₹18,130), paid in rupees, non-refundable whether or not the visa is issued.",
+          "**Wait time:** check the State Department's official wait-time tool, linked from the portal's scheduling page.",
+          "**When to apply:** the portal advises at least three months before travel. Processing is typically seven to ten working days after the interview.",
+          "**Stay:** the border officer decides how long your parents may stay, and the date is on the I-94 record. US rules say an admitted B-2 visitor gets at least six months unless an individual exception is made, capped at one year. The visa can expire during the stay, as long as they leave by the I-94 date."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Green card for parents: when your child is a US citizen"
+      },
+      {
+        "type": "p",
+        "text": "A US citizen son or daughter aged 21 or older can file Form I-130 for their parents. Parents of adult citizens count as immediate relatives, so they do not wait in a visa queue. Green card holders cannot petition for parents, and nor can F-1 or H-1B holders. Read the family pages on uscis.gov before you start."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your parents' US visa"
+      },
+      {
+        "type": "p",
+        "text": "We prepare your parents' file in English, draft both DS-160 forms, and write the invitation letter around your real status and dates. Then we run interview practice with them in Gujarati or Hindi. If you live abroad, brief us on WhatsApp (+91 82009 18967) and we coordinate with your parents in India. Our office is in Vastrapur, Ahmedabad, and we file for families across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 15 November 2026. Before booking, re-check the fee, renewal and FAQ pages on the official appointment portal (ustraveldocs.com/in), the US Embassy's visa page and the State Department's wait-time tool. For green cards, check uscis.gov."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Business/Tourist visa",
+        "url": "https://www.ustraveldocs.com/in/en/business-visa"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Waive my interview and renew my visa",
+        "url": "https://www.ustraveldocs.com/in/en/renew-visa"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Pay your visa fees",
+        "url": "https://www.ustraveldocs.com/in/en/step-3"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Schedule your appointment",
+        "url": "https://www.ustraveldocs.com/in/en/step-4"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Attend your interview",
+        "url": "https://www.ustraveldocs.com/in/en/step-5"
+      },
+      {
+        "label": "U.S. Department of State Visa Appointment Service (India): Frequently Asked Questions",
+        "url": "https://www.ustraveldocs.com/in/en/general-information"
+      },
+      {
+        "label": "U.S. Embassy and Consulates in India: U.S. Visa Services",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Embassy and Consulates in India: U.S. Consulate General Mumbai",
+        "url": "https://in.usembassy.gov/mumbai/"
+      },
+      {
+        "label": "eCFR: 8 CFR Part 214, Nonimmigrant Classes (sections 214.1 and 214.2)",
+        "url": "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214"
+      },
+      {
+        "label": "USCIS: Family of U.S. Citizens",
+        "url": "https://www.uscis.gov/family/family-of-us-citizens"
+      }
+    ]
+  },
+  {
+    "slug": "canada-visitor-visa-for-parents-from-india-2026",
+    "title": "Canada Visitor Visa for Parents from India 2026: TRV vs Super Visa, Processing Time, Income Table",
+    "metaTitle": "Canada Visitor Visa for Parents from India 2026 | Travlys",
+    "metaDescription": "Canada visitor visa for parents from India: CAD 100 plus CAD 85 biometrics, about 34 days to process. Super Visa income table, insurance and documents.",
+    "excerpt": "Indian parents can visit a child in Canada on a visitor visa (CAD 100, 34 days for India) or, if the child is a citizen or PR, on a Super Visa that allows 5 years per entry. Here is how to choose, what each needs and why parents get refused.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "Canada",
+      "Super Visa",
+      "Visitor visa",
+      "Parents visa",
+      "Processing time",
+      "Invitation letter"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1600&h=900&fit=crop",
+    "related": [
+      "canada-visitor-visa-from-india-2026",
+      "canada-visa-refused-what-to-do-2026",
+      "visa-rejection-reasons-india"
+    ],
+    "cta": {
+      "slug": "canada-visa",
+      "label": "Get your parents' Canada visa filed"
+    },
+    "faqs": [
+      {
+        "q": "How many days does Canada visitor visa take for parents from India?",
+        "a": "IRCC's processing-time tool showed 34 days for a visitor visa applied from India, in data last updated on 12 November 2026. A Super Visa from India showed 87 days. The clock does not include the time taken to give biometrics, and extra requests such as more documents or a medical recheck add time. IRCC updates the figures weekly, so check the tool on the day you apply and plan at least two to three months ahead."
+      },
+      {
+        "q": "Can parents of international students apply for super visa in Canada?",
+        "a": "No. A Super Visa needs a host child or grandchild who is a Canadian citizen, a permanent resident or a registered Indian, aged 18 or over and living in Canada. A child on a study permit or work permit cannot host one. Their parents apply for a normal visitor visa instead, choosing \"Temporary resident in Canada\" as the family member's status. That visa usually allows stays of up to 6 months per visit and can be multiple entry."
+      },
+      {
+        "q": "What is the super visa income requirement for 2 parents?",
+        "a": "It depends on the host's family size, not just the number of parents. A single host with no spouse or children inviting both parents is a family of 3, so the host needs CAD 46,720 under IRCC's current table, marked updated July 29, 2025. A host with a spouse and two children inviting both parents is a family of 6 and needs CAD 72,560. The host proves this mainly with a CRA notice of assessment."
+      },
+      {
+        "q": "Is Indian insurance accepted for Canada super visa?",
+        "a": "Usually not. IRCC accepts a policy from a Canadian insurance company, or from a foreign insurer only if it is authorised by OSFI, appears on its list of federally regulated financial institutions, and issued the policy while doing insurance business in Canada. The policy must state that in writing. It also needs at least CAD 100,000 emergency cover for health care, hospitalisation and repatriation, valid for 1 year from entry and paid in full or by instalments."
+      },
+      {
+        "q": "How long can parents stay in Canada on a visitor visa?",
+        "a": "Most visitors can stay up to 6 months. The border officer may allow less or more and will then write the leave-by date in the passport or issue a visitor record. If there is no stamp, the stay is 6 months from entry, or until the passport or biometrics expire, whichever comes first. A visitor visa can be valid for up to 10 years, but that is validity, not the length of each stay."
+      },
+      {
+        "q": "Do parents need a medical test for Canada visitor visa?",
+        "a": "For a normal visit of 6 months or less, IRCC says you generally do not need an immigration medical exam, unless you will work in certain jobs that protect public health. Super Visa applicants always need one. It must be done by an IRCC panel physician, not your family doctor, and you can take it before applying as an upfront medical. Results are valid for 12 months, and fees are not refunded if refused."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Age or a past refusal does not, on its own, stop Indian parents from visiting a child in Canada. Most parents visit on a normal visitor visa: **CAD 100** plus **CAD 85** biometrics, with IRCC showing **34 days** for India. If your child is a citizen or PR, the Super Visa allows stays of **5 years per entry**, but needs income proof, a medical and insurance."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visitor visa fee:** CAD 100 per person (about ₹6,700). **Biometrics:** CAD 85 per person, CAD 170 maximum for a couple applying together; applicants over 79 are exempt. **India processing time:** visitor visa 34 days, Super Visa 87 days (IRCC data updated 12 November 2026). **Visitor visa stay:** usually up to 6 months per visit. **Super Visa stay:** up to 5 years per entry, multiple entries for up to 10 years. **Super Visa host:** a child or grandchild who is a Canadian citizen, PR or registered Indian; students and workers do not qualify. **Super Visa insurance:** at least CAD 100,000, valid 1 year from entry."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa for parents from India: TRV or Super Visa?"
+      },
+      {
+        "type": "p",
+        "text": "Choose by your child's status in Canada and how long you want to stay. If your child is on a study permit or work permit, the visitor visa (also called a temporary resident visa, or TRV) is your only route. If your child is a citizen or permanent resident, both are open, and IRCC itself says to apply for a visitor visa if you want to stay 6 months or less."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visitor visa (TRV):** CAD 100. Most visitors can stay up to 6 months. It can be single or multiple entry and valid for up to 10 years, or until your passport or biometrics expire. No income test for your child and no medical for a short visit.",
+          "**Super Visa:** CAD 100. Stays of up to 5 years at a time, multiple entries over a period of up to 10 years. Your child must meet a minimum income, sign a formal invitation letter, and you need an immigration medical and qualifying health insurance."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Super visa Canada for parents: who qualifies"
+      },
+      {
+        "type": "p",
+        "text": "Parents and grandparents qualify only if the host child or grandchild is a **Canadian citizen, a permanent resident or a registered Indian**, is at least 18, and lives in Canada. Children on study or work permits cannot host a Super Visa. Their parents apply for a visitor visa and select \"Temporary resident in Canada\" as the family member's status in the IRCC questionnaire."
+      },
+      {
+        "type": "p",
+        "text": "You must also be outside Canada when you apply, take an immigration medical, buy the right insurance and meet the normal visitor tests. IRCC lists these as whether you are a genuine visitor who will leave by choice, your ties to your home country, the purpose of your visit, and your family and finances. IRCC says you cannot include dependants in a Super Visa application, so plan a separate application for each parent."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa for parents processing time from India"
+      },
+      {
+        "type": "p",
+        "text": "IRCC's processing-time tool showed **34 days** for a visitor visa from India and **87 days** for a Super Visa from India, in data last updated on **12 November 2026**. IRCC says the figures are updated weekly."
+      },
+      {
+        "type": "p",
+        "text": "These are estimates, not promises. They do not include the time to give biometrics. Extra tests, document requests or a slow biometrics booking add time. For a wedding, Diwali or a grandchild's birth, we suggest applying at least two to three months ahead for a visitor visa and four months ahead for a Super Visa."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents often book flights for a grandchild's due date and then wait on the visa. Apply as soon as the delivery month is known, attach the doctor's letter showing the expected date, and keep the tickets refundable until the visa is in hand."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa for parents requirements"
+      },
+      {
+        "type": "p",
+        "text": "For a family visit, IRCC asks for a letter of invitation and proof of your relationship with the person inviting you, plus a valid passport. After you answer the portal questions, IRCC gives you a personalised checklist. A strong parents' file usually holds:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport valid for at least 6 months from your travel date, with copies of the bio page and every page with stamps or visas",
+          "Invitation letter from your child, with proof of their status in Canada (PR card, citizenship proof, or study or work permit)",
+          "Proof of relationship, such as your child's birth certificate or another official document naming you as parent",
+          "Family Information form (IMM 5645)",
+          "Your bank statements showing at least 6 months of transactions, with the bank name and contact, your name and address",
+          "Old passports and visas used in the last 10 years",
+          "Itinerary: flight plan and where you will stay",
+          "Employer letter dated within 3 months, or pension, rent or business income papers if retired",
+          "Use of a Representative form (IMM 5476), if you appoint a consultant"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Biometrics are needed unless you are exempt. IRCC exempts applicants over the age of 79, which helps many grandparents. Everyone else gives fingerprints and a photo at a visa application centre after applying."
+      },
+      {
+        "type": "p",
+        "text": "Documents in Gujarati or Hindi need an English or French translation. If the translator is not certified, IRCC also needs a sworn affidavit, and an uncertified translator cannot be the applicant's child, parent, spouse, sibling or other close relative. So your son or daughter in Canada cannot translate your papers."
+      },
+      {
+        "type": "h2",
+        "text": "Super visa income requirement (minimum income table)"
+      },
+      {
+        "type": "p",
+        "text": "Your child, the host, must earn at least the minimum necessary income for their family size. Many people call this LICO plus 30%; IRCC's page simply calls it the minimum necessary income. The table IRCC shows is marked **Updated July 29, 2025**, and it was still the version on the page on 15 November 2026. All figures are in Canadian dollars."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "1 person: $30,526",
+          "2 people: $38,002 (about ₹25.5 lakh)",
+          "3 people: $46,720",
+          "4 people: $56,724",
+          "5 people: $64,336",
+          "6 people: $72,560",
+          "7 people: $80,784",
+          "Each extra person over 7: add $8,224"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Family size counts the invited parents, the host, the host's spouse or partner, their dependent children, anyone already on a Super Visa under a still-valid letter from the host or spouse, and anyone the host is still sponsoring. IRCC's own example: a host with a spouse and two children inviting both parents is a family of 6, so needs $72,560."
+      },
+      {
+        "type": "p",
+        "text": "There are two ways to prove it. The host shows the amount on a CRA notice of assessment for either of the 2 tax years before you apply. Or, if the host earned at least 75% of the amount last year, your own income can cover the rest, shown with pension statements, pay stubs, bank statements or rental agreements, plus proof that the income continues while you are in Canada. The host's spouse or common-law partner can co-sign if they are a citizen or PR. Siblings cannot."
+      },
+      {
+        "type": "h2",
+        "text": "Super visa insurance: CAD 100,000 minimum and Indian insurers"
+      },
+      {
+        "type": "p",
+        "text": "The policy must give at least **CAD 100,000** emergency coverage, cover health care, hospitalisation and repatriation, and be valid for at least 1 year from the date of entry and for each entry. It must name the insurer and be paid in full, or in instalments with a deposit. IRCC does not accept quotes."
+      },
+      {
+        "type": "p",
+        "text": "Insurers outside Canada are allowed only in a narrow case. IRCC says a foreign insurer must be authorised by the Office of the Superintendent of Financial Institutions (OSFI) to provide accident and sickness insurance, appear on OSFI's list of federally regulated financial institutions, and have issued the policy while doing insurance business in Canada. The policy must carry a statement saying so. A standard overseas travel policy bought in India usually does not, so check before you pay. Brokers are not insurers."
+      },
+      {
+        "type": "h2",
+        "text": "Super visa Canada fees"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Super Visa fee: CAD 100 per person (about ₹6,700)",
+          "Biometrics: CAD 85 per person, or CAD 170 maximum for a couple applying at the same time (about ₹11,400)",
+          "Immigration medical: paid to the panel physician at the appointment, not refunded if the application is refused",
+          "Insurance premium: paid to the insurer, and it depends on age and health",
+          "For comparison, visitor visa: CAD 100 per person, or CAD 500 for a family of 5 or more, plus the same biometrics fee"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Pay the biometrics fee with the application to avoid delays. If you gave biometrics before, IRCC cannot issue a Super Visa that lasts longer than those biometrics remain valid."
+      },
+      {
+        "type": "h2",
+        "text": "Super visa document checklist"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Invitation letter signed by your child (and co-signer, if any), with the promise of financial support and the family-size list giving each person's name and date of birth",
+          "Proof the host is a citizen, PR or registered Indian, and the same for a co-signing spouse",
+          "Proof you are the host's parent: their birth certificate or another official document naming you",
+          "Proof of minimum income: CRA notice of assessment, or the 75% option documents",
+          "Paid insurance policy meeting the CAD 100,000 and 1-year rules",
+          "Confirmation of your immigration medical from a panel physician",
+          "Passport copies, Family Information form and any extra documents the visa office for India asks for",
+          "Translations, with affidavits where the translator is not certified"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For the medical, see a doctor on IRCC's panel physician list; your own doctor cannot do it. You can take it before applying and upload the confirmation. Results stay valid for 12 months, so do not take the medical too early."
+      },
+      {
+        "type": "h2",
+        "text": "Invitation letter for parents: what to write"
+      },
+      {
+        "type": "p",
+        "text": "IRCC lists what the letter should include. About you, the visitor: full name, date of birth, address and phone, relationship, purpose of the trip, length of stay, where you will stay, how you will pay, and when you will leave. About the host: full name, date of birth, Canadian address and phone, job title, status in Canada with a copy of proof, and names and dates of birth of their spouse and children. For a Super Visa, add a promise of financial support for the whole visit and the family-size list. IRCC says its list is only a guide, and the host must write the letter themselves."
+      },
+      {
+        "type": "callout",
+        "label": "Sample wording",
+        "text": "I, [full name], born [date], of [address and phone in Canada], working as [job title] at [employer], am a permanent resident of Canada (copy of PR card attached). I invite my parents, [names and dates of birth], of [address and phone in India], to visit me from [date] to [date] for [reason, for example the birth of our first child]. They will stay at my home at the address above, and I will cover their living costs in Canada. My family here is my spouse [name, date of birth] and our son [name, date of birth]. My parents will return to India by [date], where they live in their own home in [city] and my father receives a pension."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa for parents success rate"
+      },
+      {
+        "type": "p",
+        "text": "IRCC's visitor visa pages do not publish an approval rate for India, so no official percentage applies to your case, whatever social media says. What decides a parent's file is what IRCC says it checks: whether you are a genuine visitor who will leave by choice, your ties to India, the purpose of the visit, and your family and finances."
+      },
+      {
+        "type": "p",
+        "text": "The refusal reasons we see most often for parents, and the fix for each:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Purpose of visit:** vague plans, or a stay length that does not match the reason. Tie the dates to a real event, such as a delivery date, graduation or wedding.",
+          "**Family ties:** both parents travelling, other children also abroad, and nothing shown in India. Show what brings you back: your home, pension, farm or business, other family, and ongoing commitments.",
+          "**Finances:** a balance that jumps just before applying, or no proof of the child's income. Show steady statements for at least 6 months, and the child's payslips and job letter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you are refused, read the reasons on the refusal letter and fix those points before you reapply. Sending the same file again usually brings the same answer."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "When parents have their own pension or rental income in India, we put those papers at the front of the file. It answers the \"why will they return\" question before the officer reaches the child's documents."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team prepares parents' Canada files in English and explains every document to parents in Gujarati or Hindi, so they understand what they are signing. If your parents were refused before, we start with a refusal review and fix the reasons stated. NRI children in Canada can brief us on WhatsApp at +91 82009 18967, and we coordinate directly with parents in India. Our office is at Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 15 November 2026. Fees, Super Visa rules, the insurance wording and the minimum income table were checked on canada.ca, and the India processing times on IRCC's processing-time tool (data updated 12 November 2026). Before applying, re-check the processing-time tool, the Super Visa \"Proof of financial support\" page for a newer income table, and the visa office instructions for India."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IRCC: Super visa for parents and grandparents",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html"
+      },
+      {
+        "label": "IRCC: Super visa, who can apply",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html"
+      },
+      {
+        "label": "IRCC: Biometrics",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/biometrics/facts.html"
+      },
+      {
+        "label": "IRCC: Super visa, forms and documents",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html"
+      },
+      {
+        "label": "IRCC: Super visa, proof of financial support",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents/host-financial-support.html"
+      },
+      {
+        "label": "IRCC: Super visa, submit your application",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html"
+      },
+      {
+        "label": "IRCC: Visitor visa, how to apply",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html"
+      },
+      {
+        "label": "IRCC: Check current IRCC processing times",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+      },
+      {
+        "label": "IRCC: Letter of invitation for visitors to Canada",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html"
+      },
+      {
+        "label": "IRCC: Medical exams for visitors, students and workers",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams/requirements-temporary-residents.html"
+      }
+    ]
+  },
+  {
+    "slug": "uk-visa-for-parents-from-india-2026",
+    "title": "UK Visa for Parents from India 2026: Standard Visitor Fees, Documents, Sponsor Letter",
+    "metaTitle": "UK Visa for Parents from India 2026: Fees, Documents | Travlys",
+    "metaDescription": "UK visa for parents from India: the Standard Visitor visa costs £135 for up to 6 months and takes about 3 weeks. Documents, sponsor letter and refusal fixes.",
+    "excerpt": "Indian parents visiting a child in the UK apply for the Standard Visitor visa: £135 for up to 6 months per visit, or 2, 5 and 10-year visas. Here are the documents, what the sponsoring child should give, a sample letter and why parents get refused.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "UK",
+      "Standard Visitor visa",
+      "Parents visa",
+      "Sponsor letter",
+      "Visa refusal",
+      "Long-term visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=1600&h=900&fit=crop",
+    "related": [
+      "uk-visa-for-indians-2026-fees-processing-time",
+      "uk-visa-refused-what-to-do-2026",
+      "visa-application-centres-ahmedabad-addresses-2026"
+    ],
+    "cta": {
+      "slug": "uk-visa",
+      "label": "Get your parents' UK visa file prepared"
+    },
+    "faqs": [
+      {
+        "q": "Can my parents stay 6 months in UK on visitor visa?",
+        "a": "Yes. A Standard Visitor can usually stay up to 6 months on each visit, including on a 2, 5 or 10-year visa. Parents must not live in the UK through frequent or successive visits or make it their main home. There is no fixed 6-months-in-12 rule, but the Home Office says it will refuse if the travel history shows long stays that look like living there. A long-term visa can also be cancelled for this."
+      },
+      {
+        "q": "How long does UK visitor visa take for parents from India?",
+        "a": "gov.uk lists 3 weeks for a Standard Visitor application made outside the UK, counted from the visa application centre appointment where fingerprints and a photo are taken. The earliest you can apply is 3 months before travel. Some centres offer priority (usually 5 working days) or super priority (usually next working day) for an extra fee; check when booking. The Home Office says not to book travel until you get a decision."
+      },
+      {
+        "q": "How much bank balance is required for UK visitor visa for parents?",
+        "a": "There is no fixed amount. The Home Office caseworker guidance says there is no set level of funds. The officer compares the likely cost of the trip with your income, savings and commitments in India, such as loans or other dependants. Funds must be clearly yours, with the origin explained. If your child is paying, declare it on the form and send their bank statements, payslips and proof of their UK status."
+      },
+      {
+        "q": "Can parents of student visa holders visit the UK?",
+        "a": "Yes. Parents of a student apply for the same Standard Visitor visa as any other parents, £135 for up to 6 months. There is no special parents' visa for visiting a student. Because a student's income is usually limited, parents should mainly show their own funds in India. If the student is paying, the Home Office expects proof they can support themselves and their parents, which is hard to show on a student budget."
+      },
+      {
+        "q": "Is invitation letter mandatory for UK visitor visa?",
+        "a": "No, gov.uk does not list an invitation letter as a mandatory document for a family visit. But if your child is providing travel, maintenance or accommodation, the supporting documents guide says to show what support is given, how, that they have enough funds, your relationship, and that they are legally in the UK. A clear sponsor letter is the easiest way to set that out, backed by their documents."
+      },
+      {
+        "q": "Can my parents get 10 year UK visa?",
+        "a": "They can apply for one. A 10-year long-term Standard Visitor visa costs £1,128 and allows visits of up to 6 months each. UKVI may give a shorter visa if it thinks the conditions will not be met for the whole period, and there is no refund of the difference. For first-time travellers, we usually suggest a shorter visa first, a clean travel record, then a longer one."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Two things worry families most: parents who speak only Gujarati, and a large recent deposit in their bank account. Neither has to mean a refusal. Indian parents visiting a child in the UK apply for the **Standard Visitor visa**: **£135** (about ₹17,100) for up to **6 months** per visit, usually decided within **3 weeks**. The same visa works whether your child is a student, Skilled Worker, ILR holder or British citizen."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** Standard Visitor visa. **Fee:** £135 for up to 6 months (about ₹17,100). **Long-term visas:** 2 years £506, 5 years £903, 10 years £1,128, up to 6 months per visit. **Processing time:** 3 weeks from the biometrics appointment; priority options at some centres. **Apply:** online, no earlier than 3 months before travel, then a visa application centre appointment. **If approved:** an eVisa linked to a UKVI account. **Funds:** no fixed amount; it must be clearly explained. **Main rule:** you must not live in the UK through frequent or successive visits."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa for parents from India: which visa do they need?"
+      },
+      {
+        "type": "p",
+        "text": "Parents visiting a child apply for the Standard Visitor visa. Seeing family or friends is a permitted activity, and so is tourism. Indian citizens need to apply before travel; there is no visa-free or ETA option for them. You apply online, pay, and book an appointment at a visa application centre for fingerprints and a photo."
+      },
+      {
+        "type": "p",
+        "text": "Each parent fills their own application, pays their own fee and attends their own appointment. Your passport must be valid for the whole stay. A TB test certificate is only asked for if a visit will be longer than 6 months, which a normal parents' visit is not."
+      },
+      {
+        "type": "p",
+        "text": "The Adult Dependent Relative visa is a settlement route, not a visit visa, and only for a parent who needs long-term personal care because of illness, disability or age that is not available or affordable in India."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa for parents of students, Skilled Workers and British citizens"
+      },
+      {
+        "type": "p",
+        "text": "The visa is the same for all of them, but the paperwork from the child changes. The Home Office looks at whether the person supporting you is legally in the UK and has enough money for themselves, their dependants and you."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Parents of students:** your child's student status and course letter. A student's income is limited, so your own funds in India should carry the file.",
+          "**Parents of Skilled Workers:** your child's job letter, recent payslips, bank statements and proof of status (eVisa share code or visa details).",
+          "**Parents of ILR holders:** proof of settled status, plus income and housing details if they are hosting you.",
+          "**Parents of British citizens:** a copy of the British passport or naturalisation certificate, plus income and address proof."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "UK visa for parents to visit: fees and how long they can stay"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Standard Visitor visa: £135, up to 6 months (about ₹17,100)",
+          "2-year long-term visa: £506, up to 6 months per visit (about ₹64,300)",
+          "5-year long-term visa: £903, up to 6 months per visit (about ₹1,14,700)",
+          "10-year long-term visa: £1,128, up to 6 months per visit (about ₹1,43,300)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Long-term visas suit parents who will visit every year. Three conditions matter. UKVI may give a shorter visa than you asked for if it thinks you cannot meet the rules for the whole period, and there is no refund if that happens or if you are refused. The visa may be cancelled if your travel history shows you repeatedly living in the UK for extended periods. And each visit is still capped at 6 months."
+      },
+      {
+        "type": "p",
+        "text": "The caseworker guidance says there is no fixed limit such as \"6 months in 12 months\". But officers look at how many visits you made in the last 12 months, how long each was, and whether you spend more time in the UK than in India. Two back-to-back 6-month stays will be questioned."
+      },
+      {
+        "type": "h2",
+        "text": "UK visitor visa processing time from India"
+      },
+      {
+        "type": "p",
+        "text": "gov.uk lists **3 weeks** for a Standard Visitor application made outside the UK. The clock starts when you attend the visa application centre appointment and give your biometrics. It can take longer if evidence of funds needs checking, documents need verifying or you are called for an interview."
+      },
+      {
+        "type": "p",
+        "text": "You may be able to pay for a faster decision. Priority usually gives a decision within 5 working days and super priority usually by the end of the next working day, but gov.uk says to check whether your centre offers it for your visa when you book. The priority fee is not refunded if you are refused. Do not book non-refundable flights before a decision."
+      },
+      {
+        "type": "p",
+        "text": "If the visa is approved, you get an **eVisa**, a digital record of your status, instead of a sticker in the passport. gov.uk says eVisas have replaced physical immigration documents. Parents create a free UKVI account, link the eVisa, and add their passport details before travelling. Children can help set this up on a video call."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for a UK visitor visa for parents"
+      },
+      {
+        "type": "p",
+        "text": "The Home Office guide to supporting documents says you must show you are a genuine visitor, will leave at the end of your visit, and can pay for yourself and your return journey. For parents, that usually means:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Current passport, plus old passports showing travel to other countries",
+          "Bank statements showing where the money came from, ideally your regular pension, salary, rent or business income",
+          "Proof of income: pension order, employer letter on letterhead, ITR or business registration",
+          "Proof of ties in India: property papers, family responsibilities, business or farm documents",
+          "Your child's sponsor letter and documents, if they are paying or hosting you (see below)",
+          "Proof of relationship, such as your child's birth certificate",
+          "Translations of anything in Gujarati or Hindi, with the translator's confirmation, date, full name, signature and contact details"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The same guide lists documents that are less useful. These include bank statements over 1 year old, credit card statements, hotel and flight bookings, travel insurance, personal photographs, notarial certificates, and the sponsor's utility or council tax bills. Leave them out unless asked."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The online form asks how much the trip will cost and how much you earn. Parents who fill these in with their child, using the same figures that appear in the bank statements, avoid most of the mismatch problems we see in refused files."
+      },
+      {
+        "type": "h2",
+        "text": "Sponsor's role: what your child in the UK should give"
+      },
+      {
+        "type": "p",
+        "text": "If your child is providing travel, maintenance or accommodation, the guide says you should show what support is given and to whom, how it is given, that your child has enough funds for themselves and their dependants, your relationship, and that your child is legally in the UK. In practice, your child should send:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A signed sponsor letter (sample below)",
+          "Proof of UK status: British passport copy, or eVisa details or share code",
+          "Last 3 to 6 months of payslips and an employer letter, or a student status letter",
+          "Recent bank statements",
+          "Proof of address, such as a tenancy agreement, and who else lives there"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The online form also asks for the name, address and passport number of family members in the UK, and the name and address of anyone paying for the trip. These must match the sponsor letter."
+      },
+      {
+        "type": "h2",
+        "text": "Invitation letter for UK visitor visa: sample sponsor letter"
+      },
+      {
+        "type": "p",
+        "text": "Keep it to one page, factual and consistent with the form. Use your own words; a copied template adds nothing."
+      },
+      {
+        "type": "callout",
+        "label": "Sample sponsor letter",
+        "text": "To the Entry Clearance Officer. I, [full name], date of birth [date], passport number [number], live at [UK address] with my wife [name] and our daughter [name, age]. I am a [British citizen / Skilled Worker / ILR holder] (eVisa share code [code] or passport copy attached). I work as [job title] at [employer] and earn £[amount] a year (payslips and bank statements attached). I invite my parents, [names, dates of birth, passport numbers], of [address in India], to visit us from [date] to [date] to [reason, for example meet their new granddaughter]. They will stay with us at the address above. I will pay for [their flights / their living costs in the UK]; they also have their own savings and my father's pension. They will return to India on [date], where they live in their own home and my mother cares for [family responsibility]. Signed, [name, date, phone, email]."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa for parents over 65"
+      },
+      {
+        "type": "p",
+        "text": "There is no separate route or age relaxation for older parents. Parents over 65 apply for the same Standard Visitor visa, give fingerprints and a photo at the centre, and meet the same funds and return tests. Age can help on ties, since a pensioner with a home and family in India has clear reasons to return."
+      },
+      {
+        "type": "p",
+        "text": "The caseworker guidance allows a family member to visit to look after a child or relative if the arrangement is temporary and informal, not employment as a child-minder or carer. So grandparents helping after a birth is fine, as long as the plan is a visit, not long-term childcare."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa rejected due to bank statement: why it happens"
+      },
+      {
+        "type": "p",
+        "text": "Most parents' refusals come down to money that is not clearly explained, not to a lack of money. The caseworker guidance says: \"There is no set level of funds required.\" Officers instead compare what you declared on the form, including income, large deposits and family support, with your documents, and they look for bank statements that show where the money came from."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Large unexplained deposit:** if most of the money arrived recently, the guidance tells officers they may make further checks on its origin. Explain any large credit with a sale deed, FD maturity or a transfer from your child, and declare it on the form.",
+          "**Unclear funds:** income or savings must cover the trip after your commitments in India, such as rent, loans and dependants. Undeclared help from your child that you cannot show is genuinely yours is ignored.",
+          "**Over-long stay:** asking for 6 months with weak ties, or a history of long stays, raises the frequent or successive visits question. Ask for the time the event needs.",
+          "**Mismatch with the sponsor:** the guidance names differences between your answers and your child's as a reason to doubt a visit."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who carry their child's payslips and UK address proof to the centre, and know the visit dates by heart, answer the \"who are you visiting and why\" question in one line. We brief parents for this in Gujarati or Hindi before the appointment."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team prepares parents' UK visitor files in English, checks that the form, bank statements and sponsor letter tell the same story, and briefs parents in Gujarati or Hindi before their appointment. If your parents were refused, we start with a refusal review. NRI children in the UK can brief us on WhatsApp at +91 82009 18967, and we coordinate with parents in India. Our office is at Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 15 November 2026. Fees, stay rules, long-term visa conditions and the eVisa were checked on gov.uk's Standard Visitor pages, along with the supporting documents guide, the Visit caseworker guidance and UKVI processing times. Before applying, re-check the fee table, the processing times page and the faster decision page for your visa application centre."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GOV.UK: Visit the UK as a Standard Visitor",
+        "url": "https://www.gov.uk/standard-visitor"
+      },
+      {
+        "label": "GOV.UK: Standard Visitor, apply for a Standard Visitor visa",
+        "url": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa"
+      },
+      {
+        "label": "GOV.UK: Visiting the UK, guide to supporting documents",
+        "url": "https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk"
+      },
+      {
+        "label": "GOV.UK: Visit caseworker guidance",
+        "url": "https://www.gov.uk/government/publications/visit-guidance"
+      },
+      {
+        "label": "GOV.UK: Visa processing times, applications outside the UK",
+        "url": "https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk"
+      },
+      {
+        "label": "GOV.UK: Get a faster decision on your visa, settlement or citizenship application",
+        "url": "https://www.gov.uk/faster-decision-visa-settlement"
+      },
+      {
+        "label": "GOV.UK: eVisas, access and use your online immigration status",
+        "url": "https://www.gov.uk/evisa"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix Visitor, visa national list",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+      },
+      {
+        "label": "GOV.UK: Family visas, adult dependent relative",
+        "url": "https://www.gov.uk/uk-family-visa/adult-dependent-relative"
+      }
+    ]
+  },
+  {
+    "slug": "us-visa-rejected-214b-what-to-do-2026",
+    "title": "US Visa Rejected Under 214(b): What It Means and What to Do Next (India, 2026)",
+    "metaTitle": "US Visa Rejected 214(b): What to Do Next in 2026 | Travlys",
+    "metaDescription": "US visa rejected under 214(b)? There is no appeal and no waiting period. Reapply with a new DS-160 and the USD 185 fee only when your circumstances change.",
+    "excerpt": "A US B1/B2 refusal under 214(b) is not permanent. What it means, how it differs from 221(g), where and when to reapply from India, and what must change first.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 9,
+    "category": "How-to",
+    "tags": [
+      "US visa",
+      "214(b) refusal",
+      "221(g)",
+      "B1/B2 visa",
+      "DS-160",
+      "Visa refusal"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-rejection-reasons-india",
+      "us-visa-interview-questions-answers-b1-b2-india-2026",
+      "ds-160-form-mistakes"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get a free US refusal review"
+    },
+    "faqs": [
+      {
+        "q": "us visa rejected 214b what to do",
+        "a": "Read your refusal letter, then decide honestly whether anything has changed. A 214(b) refusal means you did not show strong enough ties to India or did not meet the visa's requirements. There is no appeal, but you may reapply at any time with a new DS-160 and a new USD 185 fee. Reapply only when you can show new information or changed circumstances, such as a promotion, filed ITRs or completed foreign trips."
+      },
+      {
+        "q": "us visa rejected when can i reapply",
+        "a": "You can reapply at any time; no official waiting period applies after a 214(b) refusal. The US Mission in India advises reapplying only when your circumstances have changed significantly or you have information you did not present before. Each attempt needs a new DS-160, a new USD 185 fee (about ₹18,130) and a new interview. Reapplying quickly with the same facts usually leads to the same result."
+      },
+      {
+        "q": "us visa 221g refusal meaning",
+        "a": "A 221(g) refusal means your case is on hold because documents are missing or it needs administrative processing. The officer gives you a letter stating what is required. If documents are requested, submit them at a VAC or drop-off location as instructed. For administrative processing, most cases resolve within 180 days. Within one year of the refusal, the case can be reopened without a new DS-160 or fee."
+      },
+      {
+        "q": "do i need new ds 160 after us visa rejection",
+        "a": "Yes, you need a new DS-160 every time you reapply after a refusal, according to the official India appointment site. You must also pay a new USD 185 fee and attend a new interview. The new form must declare the earlier refusal. Compare it carefully with your old DS-160 so that genuine facts match, and correct real errors honestly rather than changing your story."
+      },
+      {
+        "q": "us visa rejected 3 times can i apply again",
+        "a": "Yes, you can apply again; no official limit on the number of applications exists. Each refusal is a final decision on that application, and the officer sees your full history. Three refusals on similar facts usually mean the facts or their presentation are the problem. Audit your DS-160, documents and answers, then wait until something material changes before paying another fee."
+      },
+      {
+        "q": "can i apply us visa in another city after rejection",
+        "a": "Yes. If you live in India, you can reapply at any of the five US posts: New Delhi, Mumbai, Chennai, Hyderabad or Kolkata. The official FAQ suggests choosing the consular district where you can show the strongest ties, not the shortest wait. You cannot reapply in another country unless you are a national or resident there, and fees paid in India cannot be transferred abroad."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A refusal letter at the Mumbai or Delhi window feels final. It is not. A US visa rejected under **section 214(b)** means the officer was not convinced your trip is temporary or that your ties to India will bring you back. There is **no appeal**, but you **may reapply at any time**. Each attempt needs a **new DS-160** and a new **USD 185** fee (about ₹18,130)."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**What 214(b) means:** you did not overcome the legal presumption that you intend to immigrate. **Appeal:** none; the refusal letter says the decision cannot be appealed. **Waiting period:** none set; you may reapply at any time. **To reapply:** new DS-160 and photo, new USD 185 fee (about ₹18,130 at the consular rate of ₹98), biometrics and a new interview. **Where:** in your country of nationality or residence; if you live in India, any of New Delhi, Mumbai, Chennai, Hyderabad or Kolkata. **Interview waiver:** not available after a refusal unless it was overcome or waived. **221(g):** a different outcome; the case is on hold for documents or administrative processing."
+      },
+      {
+        "type": "h2",
+        "text": "US visa rejected 214(b): what it actually means"
+      },
+      {
+        "type": "p",
+        "text": "A 214(b) refusal means you did not prove, to the officer's satisfaction, that you qualify as a visitor. Section 214(b) of the Immigration and Nationality Act says every applicant \"shall be presumed to be an immigrant\" until they show otherwise. The burden of proof is on you, not on the officer."
+      },
+      {
+        "type": "p",
+        "text": "For a B1/B2 visa, the most common reason is ties. The official India appointment site explains that you must show a residence abroad you do not intend to abandon, proved by ties such as a job, a house, family and a bank account. Officers decide most cases after a brief interview and whatever evidence of ties you present."
+      },
+      {
+        "type": "p",
+        "text": "Two points from the State Department's own officer manual (the Foreign Affairs Manual) help Indian applicants understand the decision:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Fitting a profile such as \"young\" or \"single\" is not a ground for refusal. The refusal must rest on your specific circumstances.",
+          "A 214(b) refusal is a final decision on that application. The manual tells officers to dispel the idea that luck plays a part, and to emphasise facts."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "US visa rejected without reason? Read your letter"
+      },
+      {
+        "type": "p",
+        "text": "You were given a reason, even if it felt like none. The standard 214(b) letter says either that you did not show ties that will compel you to return, or that you did not meet the requirements of the visa class you applied for. Officers do not list every factor. Keep the letter: it is the starting point for any refusal review."
+      },
+      {
+        "type": "h2",
+        "text": "Visa rejected 214(b) vs 221(g): the blue, white or pink slip"
+      },
+      {
+        "type": "p",
+        "text": "A 221(g) is not the same as a 214(b). Under 221(g), essential information is missing or the case needs administrative processing, and the officer gives you a written letter saying what is needed. People in India often call it the blue, white or pink slip. The colour is not an official category, so read what the letter actually asks for."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**If documents are requested:** submit them at a Visa Application Centre or document drop-off location with the 221(g) letter and courier submission letter, as the India appointment site instructs.",
+          "**If it says administrative processing:** wait. The official India site says most cases resolve within 180 days and asks applicants not to enquire before 180 days, except in emergencies such as serious illness or death in the immediate family.",
+          "**No new fee within a year:** under State Department rules, a 221(g) case can be reopened without a new DS-160 or fee if less than one year has passed since the refusal.",
+          "**Track it** on the CEAC status page (ceac.state.gov) using the post where you were interviewed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Note that a 221(g) is still recorded as a refusal. Declare it on future visa forms."
+      },
+      {
+        "type": "h2",
+        "text": "US visa rejected: when can I reapply?"
+      },
+      {
+        "type": "p",
+        "text": "You can reapply the next day if you want to. No official page sets a waiting period, and the officer manual says previously refused applicants may reapply at any time, following the same steps as first-time applicants: fee, new DS-160 and photo, biometrics and interview."
+      },
+      {
+        "type": "p",
+        "text": "The real question is whether you should. The US Mission in India says a refused applicant should not reapply unless there are significant changes in their circumstances or information that was not presented at the first interview. The refusal letter asks for the same thing: new information, or proof that your circumstances have changed."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fee:** USD 185 again, non-refundable, valid for 365 days for booking an appointment.",
+          "**Form:** a new DS-160 every time, as the official India FAQ states.",
+          "**Interview:** in person. The interview waiver (dropbox) route requires that you were never refused, unless the refusal was overcome or waived by a consular officer.",
+          "**Appointments:** the officer manual allows posts to limit appointment slots for previously refused applicants, so do not burn an attempt on an unchanged file."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "US visa rejected in India: where to reapply"
+      },
+      {
+        "type": "p",
+        "text": "Reapply in your country of nationality or residence. The US Mission in India and the official appointment site both say nonimmigrant applicants should book at the embassy or consulate in their country of residence or nationality. An Indian living in India cannot book in Bangkok or Dubai to dodge the queue. Fees paid in India also cannot be transferred to another country."
+      },
+      {
+        "type": "p",
+        "text": "Within India you may use any of the five posts: New Delhi, Mumbai, Chennai, Hyderabad or Kolkata. The official FAQ adds that you should choose based on more than convenience or wait time, for example the consular district where you can show the strongest ties. For most Gujarat applicants that is Mumbai. Ahmedabad has a document drop-off and passport collection location that follows the Mumbai consulate's holiday calendar."
+      },
+      {
+        "type": "h2",
+        "text": "Common 214(b) refusal patterns for Indian applicants"
+      },
+      {
+        "type": "p",
+        "text": "These are the patterns we see most often in refused Indian B1/B2 files. None is an automatic refusal; each is a gap you need to close."
+      },
+      {
+        "type": "h3",
+        "text": "A weak job or business profile"
+      },
+      {
+        "type": "p",
+        "text": "Short tenure, a small salary compared with the trip cost, irregular ITRs, or a business you cannot describe in two sentences. The officer is asking whether your life in India is strong enough to pull you back."
+      },
+      {
+        "type": "h3",
+        "text": "First trip to the US with no travel history"
+      },
+      {
+        "type": "p",
+        "text": "A blank passport is not a refusal ground, but it means the officer has no record of you returning from anywhere. Applicants who first travel to easier destinations and come back on time build a record an officer can see."
+      },
+      {
+        "type": "h3",
+        "text": "Parents visiting children in the US"
+      },
+      {
+        "type": "p",
+        "text": "Parents of students or H-1B workers are often refused when they cannot explain who stays in India, how long they will stay, or what they do here. Language matters too. Hindi and English are spoken at all five posts, and you may request interpretation in other languages on arrival, subject to availability; you cannot bring your own translator. The US Mission also warns that some consultants have coached parents to lie about the number or location of their other children, and those applicants were found permanently ineligible."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who can say in one line who their child is, what the child does in the US, and why they are coming back for a specific reason at home (a pension, a house, another child, a business) answer the officer's real question before it is asked. Long memorised answers do the opposite."
+      },
+      {
+        "type": "h3",
+        "text": "Inconsistencies with the DS-160"
+      },
+      {
+        "type": "p",
+        "text": "Your answers at the window are compared with your form. A different trip length, a US address you do not recognise, a job title that does not match your payslip, or a relative left off the form all damage credibility. This is often the problem when an agent filled the DS-160 and the applicant never read it. The US Mission reminds applicants that they alone are responsible for its accuracy."
+      },
+      {
+        "type": "h2",
+        "text": "What to change before reapplying: a checklist"
+      },
+      {
+        "type": "p",
+        "text": "Change the facts or the way you present them, not just the date. Before booking again, go through this list:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Read the refusal letter** and note which 214(b) letter you received: ties, or classification requirements.",
+          "**Pull your old DS-160** and compare every answer with your documents. Fix real errors honestly; do not change facts to fit a story.",
+          "**Identify the change:** a promotion, a longer job history, a new property, a filed ITR, a spouse or child staying back, completed international trips.",
+          "**Make the trip plan specific:** fixed dates, a reason for the timing, and a length of stay that matches your leave.",
+          "**Match money to the trip:** income and savings that clearly cover the visit, in records that agree with each other.",
+          "**Prepare short, true answers** in the language you think in. Practise saying what changed in one or two sentences.",
+          "**Choose the post on ties,** not on the shortest wait.",
+          "**Book only when the file is ready,** remembering the one-time reschedule limit on each fee."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "When NOT to reapply yet"
+      },
+      {
+        "type": "p",
+        "text": "Sometimes the honest advice is to wait. The official FAQ says some applicants will not qualify, however many times they reapply, until their personal, professional and financial circumstances change considerably. Hold off if:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "nothing in your job, income, family or travel record has changed since the refusal;",
+          "you were refused weeks ago and your only plan is \"try again with a different officer\";",
+          "you just changed jobs and cannot yet show stable income in the new role;",
+          "you are planning to tell a different story from your first DS-160 or interview;",
+          "the trip itself is the problem, for example a stay of several months with no fixed return reason."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Use the gap to build ties and travel history. A refusal costs you a fee and adds to your record; an unchanged reapplication usually adds another."
+      },
+      {
+        "type": "h2",
+        "text": "How to explain a previous refusal on the new DS-160"
+      },
+      {
+        "type": "p",
+        "text": "Declare it, every time. The DS-160 asks about previous US visa refusals, and the officer already sees your earlier application and the refusing officer's notes in the system. State Department guidance treats hiding a refusal as a misrepresentation, and it can become a serious problem if it also hides other facts. The US Mission warns that deliberately false information can lead to a permanent ineligibility."
+      },
+      {
+        "type": "p",
+        "text": "Keep the explanation short and factual, for example:"
+      },
+      {
+        "type": "callout",
+        "label": "Sample DS-160 explanation",
+        "text": "Refused under section 214(b), B1/B2 visa, US Consulate General Mumbai, March 2026."
+      },
+      {
+        "type": "p",
+        "text": "At the interview, if asked, give one or two sentences on what has changed: \"I was refused in March. Since then I completed two years at my company, was promoted, and travelled to Singapore and Dubai and returned on time.\" Do not argue with the earlier decision."
+      },
+      {
+        "type": "h2",
+        "text": "US visa rejected 3 times: can I still apply?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. No official page sets a limit on the number of applications, and each refusal is a separate, final decision on that file. But three refusals on similar facts tell you the facts are the problem. Each new attempt costs USD 185, and the officer reads the full history."
+      },
+      {
+        "type": "p",
+        "text": "After repeated refusals, stop and audit everything: DS-160 consistency, the purpose of the trip, the strength of your ties, and how you answered. Then wait until something material changes. A fourth attempt with the same file is unlikely to end differently."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "When we review repeated refusals, the cause is often visible on paper: the DS-160 says one thing, the documents another, and the answers a third. Fixing the consistency, then waiting for a real change, works better than another quick booking."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps after a US refusal"
+      },
+      {
+        "type": "p",
+        "text": "Our team offers a free refusal review: we read your refusal letter, old DS-160 and documents, then tell you honestly whether to reapply now or wait, and what must change. If you reapply, we redraft the DS-160 with you, prepare the file in English, and run interview practice in Gujarati, Hindi or English. NRI children in the US can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 15 November 2026. Before you reapply, re-check the India appointment site's FAQ and refusal pages, the US Mission India visa page for notices on where to apply, and the current fee on the official fee page. Refusal rules rarely change, but fees, reschedule limits and appointment policies do."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): FAQs, Visa Refusals",
+        "url": "https://www.ustraveldocs.com/in/en/general-information"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Application refused under INA 221(g)",
+        "url": "https://www.ustraveldocs.com/in/en/221g"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Waive my interview and renew my visa",
+        "url": "https://www.ustraveldocs.com/in/en/renew-visa"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Pay your visa fees",
+        "url": "https://www.ustraveldocs.com/in/en/step-3"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Visa Consultants",
+        "url": "https://in.usembassy.gov/visa-consultants/"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Visas (notices and consular exchange rate)",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Department of State: 9 FAM 403.10 NIV Refusals",
+        "url": "https://fam.state.gov/fam/09FAM/09FAM040310.html"
+      },
+      {
+        "label": "U.S. Department of State: 9 FAM 403.2 NIV Application Processing",
+        "url": "https://fam.state.gov/fam/09FAM/09FAM040302.html"
+      },
+      {
+        "label": "U.S. Department of State: 9 FAM 302.9 Ineligibility Based on Illegal Entry, Misrepresentation and Other Immigration Violations",
+        "url": "https://fam.state.gov/fam/09FAM/09FAM030209.html"
+      }
+    ]
+  },
+  {
+    "slug": "us-visa-expedited-emergency-appointment-india-2026",
+    "title": "US Visa Expedited or Emergency Appointment in India (2026): Criteria, Sample Request and the USD 750 Pilot",
+    "metaTitle": "US Visa Expedited Appointment India: 2026 Rules | Travlys",
+    "metaDescription": "US visa expedited appointment in India: pay USD 185, book the earliest slot, then file up to 2 emergency requests. The USD 750 pilot is unconfirmed here.",
+    "excerpt": "The official way to get an emergency US visa appointment in India: who qualifies, which documents to attach, a sample request, reasons that fail, and the truth about the USD 750 fast-track.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 8,
+    "category": "How-to",
+    "tags": [
+      "US visa",
+      "Emergency appointment",
+      "Expedited appointment",
+      "B1/B2 visa",
+      "Visa appointment",
+      "USD 750 pilot"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-appointment-wait-time-india-2026",
+      "us-visa-from-india-2026-complete-guide",
+      "us-visa-interview-questions-answers-b1-b2-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get help with your US appointment strategy"
+    },
+    "faqs": [
+      {
+        "q": "how to get emergency us visa appointment in india",
+        "a": "Fill the DS-160, pay the USD 185 fee and book the earliest available appointment first. Then submit the Expedited Request Form in your profile on the official appointment system, choosing the urgency type and keeping documents ready. The embassy or consulate replies by email. Qualifying reasons are urgent medical care, an immediate family member's funeral, unforeseen urgent business, exceptional student cases and ESTA denial. Keep your original appointment until you are approved."
+      },
+      {
+        "q": "us visa expedited appointment fee 750 india",
+        "a": "The USD 750 expedited B1/B2 interview is a real State Department pilot running from 1 July to 31 December 2026, but we found no official sign that Indian posts offer it. It is available only at posts listed on travel.state.gov. In India, the official route is a free emergency request after paying the normal USD 185 fee. Do not pay any agent claiming to sell the USD 750 fast-track."
+      },
+      {
+        "q": "can i get us visa emergency appointment for wedding",
+        "a": "No. The official India appointment site says travel for weddings does not qualify for an expedited appointment, along with graduation ceremonies, helping pregnant relatives, annual conferences and last-minute tourism. For a wedding or any planned family event, book a regular appointment as soon as you know the date. The official site encourages applying at least three months before travel, and earlier when wait times are long."
+      },
+      {
+        "q": "how many times can i request expedited appointment for us visa",
+        "a": "You can submit only two expedited appointment requests per application, according to the official India appointment site. Use them carefully and only with documentary proof of a qualifying emergency. An approved expedite cannot be transferred to another city; to try another post you must cancel, rebook and request again. A past approval does not guarantee any future expedite request will be approved."
+      },
+      {
+        "q": "us visa slots opening time in india",
+        "a": "There is no official fixed time when new US visa slots open in India. The official terms say appointments are released on a sequential basis and availability changes daily, so check your profile regularly. Precise dates are visible only after paying the visa fee. Claims about exact release times are informal. Do not use bots or auto-refresh tools: they break the site's rules and can block your access."
+      },
+      {
+        "q": "can agent book us visa slot faster",
+        "a": "No agent has an official faster route to US visa appointments in India. The official site bans access through bots, crawlers or scripts, and only the listed payment options are authorised for consular fees. Agents who book with placeholder DS-160 forms can cost you the appointment. A legitimate consultant can help you choose the right post, prepare an accurate DS-160 and file a genuine emergency request."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "When a parent needs urgent surgery in the US or a brother dies there, the normal queue will not do. India's official route is a **free emergency (expedite) request**, made online only after you pay the **USD 185** fee (about ₹18,130) and book the **earliest available** slot. You get **two requests** per application. The **USD 750** paid fast-track is a US pilot we could not confirm for any Indian post."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Official route in India:** expedited appointment request through your profile on the official appointment system. **Cost:** no extra fee; you pay the normal USD 185 visa fee (about ₹18,130 at the consular rate of ₹98). **When you can request:** only after the DS-160, fee payment and booking the first available appointment. **Requests allowed:** two per application. **Qualifying reasons:** urgent medical care, funeral or death of an immediate family member, urgent business, students and exchange visitors (exceptional cases), ESTA denied. **Not accepted:** weddings, graduations, helping pregnant relatives, annual conferences, last-minute tourism. **USD 750 pilot:** a real State Department pilot for B1/B2 at selected posts until 31 December 2026; we could not confirm any Indian post in it."
+      },
+      {
+        "type": "h2",
+        "text": "US visa emergency appointment criteria in India"
+      },
+      {
+        "type": "p",
+        "text": "You qualify only for an urgent, unforeseen need that falls in one of five official categories, and you must prove it with documents. The official India appointment site lists these:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Medical needs:** urgent medical care for yourself, or accompanying a relative or employer for urgent care. Documents: a letter from your doctor in India describing the condition and why you need treatment in the US; a letter from the US physician or hospital agreeing to treat you, with the approximate cost; and proof of how you will pay.",
+          "**Funeral or death:** attending the funeral of, or arranging repatriation of the body of, an immediate family member (mother, father, brother, sister, child) in the US. Documents: a letter from the funeral director with contact details, details of the deceased and the funeral date, plus proof of the relationship.",
+          "**Urgent business travel:** a business matter that could not be predicted in advance. Documents: an invitation letter from the US company explaining the urgency and the significant loss of opportunity if you cannot travel, or proof of a necessary US training programme of three months or less, with letters from both companies.",
+          "**Students or exchange visitors:** considered only in exceptional circumstances, given limited availability. Document: original Form I-20 or DS-2019.",
+          "**ESTA denied:** for citizens of Visa Waiver Program countries who are no longer eligible for ESTA and must travel imminently. Document: the CBP message about your ESTA status."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The site also warns that if it appears at your interview that you misrepresented the reason for urgent travel, this will be noted on your case file and may affect the decision."
+      },
+      {
+        "type": "h2",
+        "text": "US visa emergency appointment reasons that are usually NOT accepted"
+      },
+      {
+        "type": "p",
+        "text": "Planned events and holidays do not qualify, however important they are to the family. The official India site names these as not qualifying:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "weddings (including family weddings planned months ahead);",
+          "graduation ceremonies;",
+          "assisting pregnant relatives (for example, going to help a daughter with a delivery);",
+          "an annual business, academic or professional conference;",
+          "last-minute tourism."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "From experience, we would add travel tied to dates you knew about well in advance, such as school holidays, Diwali or Christmas visits and a child's planned move. If you knew the date months ago, the officer will expect you to have booked a regular appointment months ago."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Most refused expedite requests we see were never emergencies in the official sense. They were planned trips where the family booked late. For a delivery, a convocation or a wedding, book the regular appointment the day you know the date."
+      },
+      {
+        "type": "h2",
+        "text": "How to request an expedited US visa appointment in India: step by step"
+      },
+      {
+        "type": "p",
+        "text": "You cannot ask for an emergency slot first. The official process is:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fill the DS-160** for each traveller.",
+          "**Create your profile** on the official appointment system (the Login button on ustraveldocs.com/in leads to it).",
+          "**Pay the USD 185 fee and book the earliest available date.** The booking screen shows the earliest date, which already includes expedited slots. If no earlier date exists, an expedite request will not help.",
+          "**Complete the Expedited Request Form** in your profile, select the type of urgency, and explain it briefly. Keep your evidence ready.",
+          "**Wait for the email.** The answer comes from do-not-reply@usvisascheduling.com, so check spam. Do not cancel your existing appointment while waiting.",
+          "**If approved,** schedule the expedited appointment online within the validity period given. The call centre cannot book it for you. If denied, keep your original appointment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Plan carefully around three limits. You get only two expedite requests per application. An approved expedite cannot be moved to another city: to try another post, you must cancel, rebook there and request again, which the site does not recommend. And since January 2025 each fee allows only one reschedule."
+      },
+      {
+        "type": "h2",
+        "text": "US visa emergency appointment request letter: sample text"
+      },
+      {
+        "type": "p",
+        "text": "The request is a short form entry, not a long letter. State the category, the fixed date, why it could not be predicted, and what you have attached. Adapt this medical example with your own facts:"
+      },
+      {
+        "type": "callout",
+        "label": "Sample request (medical)",
+        "text": "Urgency type: Medical. I request an expedited B1/B2 interview to accompany my father, [name], aged [age], for [procedure] at [hospital], [city], on [date]. His doctor in Ahmedabad, Dr [name], has advised urgent treatment because [one-line medical reason]. [US hospital] has agreed to treat him and estimates the cost at USD [amount], which we will pay from [source]. My current appointment on [date] falls after the treatment date. Attached: Indian doctor's letter, US hospital letter with cost estimate, proof of funds, proof of relationship."
+      },
+      {
+        "type": "callout",
+        "label": "Sample request (funeral)",
+        "text": "Urgency type: Funeral. My brother, [name], died in [city], [state], on [date]. The funeral is on [date], arranged by [funeral home]. I need to attend and help with arrangements. My current appointment is on [date]. Attached: funeral director's letter with contact details and funeral date, death certificate or notice, and proof that he is my brother."
+      },
+      {
+        "type": "p",
+        "text": "Do not exaggerate. Every line must match your documents and what you will say at the window."
+      },
+      {
+        "type": "h2",
+        "text": "US visa expedited appointment $750: is it available in India?"
+      },
+      {
+        "type": "p",
+        "text": "The USD 750 expedited interview is real, but we could not confirm that it is offered at any post in India. A State Department temporary final rule, published in the Federal Register on 9 June 2026, created a **USD 750** fee (about ₹73,500) for an expedited B1/B2 interview within **ten business days**, in effect from **1 July to 31 December 2026**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "It is on top of the normal USD 185 fee, and only for B1/B2 applicants.",
+          "It is offered \"only to applicants at limited posts as published on travel.state.gov\" and in limited numbers.",
+          "It does not guarantee a visa and does not speed up administrative processing.",
+          "Free expedites for humanitarian and urgent reasons continue at all posts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We could not load the official list of participating posts on travel.state.gov on 15 November 2026. The US Mission India visa pages and the India appointment site, which we checked the same day, mention only the free emergency route. News reports in August 2026 named posts in Mexico, Canada and Central and South America, not India."
+      },
+      {
+        "type": "callout",
+        "label": "Do not pay anyone for it",
+        "text": "If an agent in India offers a \"USD 750 fast-track\" or a \"premium slot\", do not pay. Official consular fees can be paid only through the payment options listed on the official appointment site, and no other vendor is authorised. If Indian posts join the pilot, it will appear on travel.state.gov and the US Mission India site first."
+      },
+      {
+        "type": "h2",
+        "text": "US visa slots availability check in India"
+      },
+      {
+        "type": "p",
+        "text": "The only reliable check is inside your own profile on the official appointment system. The official site says precise availability is visible only after the visa fee has been paid, and that appointments are not guaranteed and change daily. For a rough guide before paying, use the State Department's official Visa Appointment Wait Times tool, which the India sites link to for each of the five posts. Those figures are estimates, based on workload and staffing. For how the wait times move through the year, see our separate wait-time guide."
+      },
+      {
+        "type": "h2",
+        "text": "US visa slots not available in India: what you can do"
+      },
+      {
+        "type": "p",
+        "text": "Use only the legitimate options:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Check all five posts.** Anyone legally present in India may apply in New Delhi, Mumbai, Chennai, Hyderabad or Kolkata, though the official FAQ suggests choosing where your ties are strongest.",
+          "**Keep checking your profile.** The official FAQ says slots are first come, first served, and availability changes daily.",
+          "**Request an expedite** only if you meet one of the five criteria and can prove it.",
+          "**Ask for an earlier date** by writing to support-india@usvisascheduling.com. The FAQ says such requests are granted only if slots are available.",
+          "**Check the interview waiver.** If you are renewing a full B1/B2 visa that is still valid or expired within 12 months, and you meet the other rules, you may be able to skip the interview queue.",
+          "**Do not reschedule casually.** With one reschedule per fee, losing a booked date can cost you a new fee and a longer wait."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "US visa slots opening time in India: is there a fixed time?"
+      },
+      {
+        "type": "p",
+        "text": "No official page gives a fixed time when new slots open. The official terms say appointments are released on a sequential basis and that availability changes daily. Any \"slots open at 9 a.m. on Fridays\" claim you see online is informal and unverified."
+      },
+      {
+        "type": "p",
+        "text": "Be careful how you check. The official site's terms ban using the site through automated means, including bots, crawlers or scripts, and limit login attempts per day. Users with automation plug-ins see an \"Access limitation\" warning and are asked to remove the tools and wait at least 24 hours. The official FAQ also warns that a placeholder or improperly filled DS-160, sometimes used by agents to hold slots, will cost you the appointment."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with US appointment strategy"
+      },
+      {
+        "type": "p",
+        "text": "We check honestly whether your situation meets the official emergency criteria, help you collect the right evidence and draft a short, accurate expedite request. For regular bookings we plan the post, timing and reschedule use, prepare your DS-160 and file, and run interview practice in Gujarati, Hindi or English. NRI children in the US can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. We never use bots or sell slots. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 15 November 2026. Before you apply, re-check the expedited appointment page and FAQs on the India appointment site, the US Mission India visa page, and the travel.state.gov pilot page for the current list of participating posts. The USD 750 pilot is due to end on 31 December 2026 unless the State Department extends it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Apply for an expedited appointment",
+        "url": "https://www.ustraveldocs.com/in/en/expedited-appointment"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Schedule your appointment",
+        "url": "https://www.ustraveldocs.com/in/en/step-4"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Terms and conditions",
+        "url": "https://www.ustraveldocs.com/in/en/terms-and-conditions"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Frequently Asked Questions",
+        "url": "https://www.ustraveldocs.com/in/en/general-information"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Pay your visa fees",
+        "url": "https://www.ustraveldocs.com/in/en/step-3"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Visas (expedited appointment requests and consular exchange rate)",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Nonimmigrant Visas",
+        "url": "https://in.usembassy.gov/nonimmigrant-visas/"
+      },
+      {
+        "label": "Federal Register (GovInfo): Schedule of Fees for Consular Services, temporary final rule creating the $750 expedited B1/B2 appointment fee (FR Doc 2026-11513)",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-06-09/html/2026-11513.htm"
+      },
+      {
+        "label": "U.S. Department of State: Visa Appointment Wait Times",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html"
+      }
+    ]
+  },
+  {
+    "slug": "us-visa-renewal-dropbox-india-2026",
+    "title": "US Visa Renewal in India 2026: Dropbox (Interview Waiver) Rules, Fees, Documents and the Ahmedabad Drop-off",
+    "metaTitle": "US Visa Renewal in India 2026: Dropbox Rules, Fees | Travlys",
+    "metaDescription": "Renew a US B1/B2 visa in India without an interview if it was full validity, issued at 18+ and expired within 12 months. Fee $185, Ahmedabad drop-off, docs.",
+    "excerpt": "Who still qualifies for the US interview waiver (dropbox) in India after the October 2025 tightening, what to carry, what it costs and where to drop off in Ahmedabad.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 8,
+    "category": "How-to",
+    "tags": [
+      "US visa",
+      "Dropbox",
+      "Interview waiver",
+      "B1/B2 renewal",
+      "Ahmedabad",
+      "Parents"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1544016768-982d1554f0b9?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-for-parents-from-india-2026",
+      "us-visa-appointment-wait-time-india-2026",
+      "us-visa-interview-questions-answers-b1-b2-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Check if you qualify for the US dropbox"
+    },
+    "faqs": [
+      {
+        "q": "Who is eligible for US visa dropbox in India 2026?",
+        "a": "You are eligible if you are renewing a B1/B2 visa that was issued for full validity, you were at least 18 when it was issued, and it is still valid or expired within the last 12 months. You must also never have been refused, apply in your consular district while physically in India, and book at least 15 days before the 12-month window ends. Students and H-1B workers no longer qualify under the rule in force since October 2025."
+      },
+      {
+        "q": "Can I submit US visa dropbox documents in Ahmedabad?",
+        "a": "Yes. Ahmedabad has an official US document drop-off point at Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, Sardar Patel Ring Road, Motera, open Monday to Friday from 10 am to 4 pm. Interview waiver applicants may use it. A charge of ₹1,500 per application applies here. Drop-off is free at the Visa Application Centres in the five consulate cities, including Mumbai."
+      },
+      {
+        "q": "How long does US visa dropbox take in India?",
+        "a": "Allow up to three weeks from the day you drop off your passport until it is ready for collection or delivery, according to the US visa appointment site for India. This cannot be expedited. After CEAC shows \"Issued\", passports usually come back within 4 to 6 business days. If the officer asks for an interview, the process takes longer, so apply well before you plan to travel."
+      },
+      {
+        "q": "Can my parents renew their US visa without an interview?",
+        "a": "Yes, if they meet the dropbox rules: a B1/B2 renewal, previous visa issued for full validity when they were 18 or older, still valid or expired within 12 months, and no past refusal. Age alone no longer exempts anyone, so parents over 79 who do not meet these rules need an interview. They must be in India when applying, but a family member or agent can drop off the documents for them."
+      },
+      {
+        "q": "Can a child renew a US visa through dropbox?",
+        "a": "Usually not. The interview waiver needs a previous visa issued when the applicant was at least 18, so children, and young adults whose last visa was issued before 18, must apply the regular way. Children under 14 do not have to attend the Visa Application Centre for biometrics, but the India FAQ says all applicants, including those under 14, must appear in person for the interview."
+      },
+      {
+        "q": "How to check US visa dropbox status?",
+        "a": "Check your status on the State Department's CEAC Status Check at ceac.state.gov. Enter your CEAC barcode or case number and the location where your application is processed. \"Approved\" means the decision is made. Wait for \"Issued\", after which the passport usually comes back within 4 to 6 business days. The US Embassy asks applicants not to contact it about processing times."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If your US visitor visa, or your parents' visa, is running out, you may not need another interview in Mumbai. In India in 2026 you can renew through the interview waiver (dropbox) if your old B1/B2 was a **full-validity** visa, it is still valid or expired within the last **12 months**, you were **18 or older** when it was issued, and you have never been refused. The fee is **$185**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Who qualifies:** B1/B2 renewals only, previous visa issued for full validity when you were 18 or older, still valid or expired within 12 months. **Fee:** $185 (about ₹18,130 at the US Mission's consular rate of ₹98 per dollar). **Where to drop off:** any of 5 Visa Application Centres or 6 Document Drop Off Centres in India. **Ahmedabad:** drop-off point at Shree Balaji Agora Mall, Motera, Monday to Friday, 10 am to 4 pm. **Extra charge outside consulate cities:** ₹1,500 per passport. **Processing:** allow up to 3 weeks. **Status check:** CEAC on ceac.state.gov. **You must be in India** when you apply."
+      },
+      {
+        "type": "h2",
+        "text": "US visa dropbox eligibility India: who qualifies in 2026"
+      },
+      {
+        "type": "p",
+        "text": "You qualify only if you are renewing a B-1, B-2 or B1/B2 visa that was issued for full validity, and you were at least 18 when it was issued. The State Department narrowed the waiver from 1 October 2025. Since then, almost every other applicant, including children under 14 and adults over 79, needs an in-person interview."
+      },
+      {
+        "type": "p",
+        "text": "The India appointment site (ustraveldocs) adds its own checks. Each applicant in a family or group must meet all of these on the day of submission:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your previous B1/B2 is still valid, or expired within the past 12 months.",
+          "You book the drop-off at least 15 calendar days before the 12-month window closes. Book later and you are moved to a biometrics appointment and an in-person interview.",
+          "Your passport is valid for at least 15 calendar days from the drop-off date.",
+          "You apply in your consular district of residence (Gujarat falls under the US Consulate General in Mumbai).",
+          "All 10 fingerprints were taken when your last visa was issued.",
+          "Your previous visa was not lost, stolen, revoked or marked \"Clearly Without Prejudice\" (CWOP).",
+          "You have never been refused a US visa, unless that refusal was later overcome or waived.",
+          "You are physically present in India when you apply."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Who no longer qualifies: students on F-1, H-1B and L-1 workers and other categories outside the B1/B2 renewal rule. The State Department list now covers only B1/B2 renewals, H-2A renewals and diplomatic or official visas. The India FAQ also says L-1 blanket renewals cannot use the waiver."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The 15-day rule catches people out. If a parent's visa expired 11 months and 3 weeks ago, the system will not offer a dropbox slot even though they are \"within 12 months\". Check the expiry date on the visa foil, then count back."
+      },
+      {
+        "type": "h2",
+        "text": "US visa renewal process in India, step by step"
+      },
+      {
+        "type": "p",
+        "text": "The renewal process has seven steps, and the online system decides whether you get a dropbox slot or a regular interview. You answer the eligibility questions in your profile, and only applicants who qualify are routed to an interview waiver appointment."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Fill in a fresh DS-160 online and print the confirmation page.",
+          "Create or log in to your profile on the US visa appointment system and choose \"Start Application\". Enter passport, address and delivery details carefully, because the call centre may not be able to correct them later.",
+          "Pay the $185 fee and check that the visa type is right. Fees are non-refundable and non-transferable.",
+          "Answer the interview waiver questions. If you qualify, you are sent to book a drop-off appointment.",
+          "Print the interview waiver appointment letter. It carries a checklist for your visa type.",
+          "Drop off your passports and documents on the appointment day, yourself or through a representative.",
+          "A consular officer decides whether to issue the visa without an interview, or calls you in."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Eligibility does not guarantee a visa. The ustraveldocs page tells applicants not to buy tickets or make firm plans until the renewed visa is in hand."
+      },
+      {
+        "type": "h2",
+        "text": "US visa dropbox documents for B1/B2 India"
+      },
+      {
+        "type": "p",
+        "text": "Carry only the documents on your appointment letter's checklist. The India site warns that extra papers will not be returned and will be destroyed. The core list for all applicants is:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Interview waiver appointment letter.",
+          "Current passport.",
+          "DS-160 confirmation page. If you corrected the DS-160 after booking, bring both the original and the corrected confirmation pages.",
+          "Previous passport with the US visa, the original book, not photocopied pages.",
+          "One colour photograph, 5 cm x 5 cm, white background, taken within the last six months.",
+          "Non-Indian lawful residents of India: proof of residence status, such as a copy of an OCI card or an employment visa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If your name, date of birth or other personal details differ between the old and new passport, sort that out first. The India FAQ says the name and personal data must match for an old passport with a valid visa to be used."
+      },
+      {
+        "type": "h2",
+        "text": "US visa dropbox Ahmedabad address"
+      },
+      {
+        "type": "p",
+        "text": "Yes, Ahmedabad has an official US document drop-off point, and interview waiver applicants may use it. The ustraveldocs India site lists it as:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Address:** Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Hours:** Monday to Friday, 10:00 a.m. to 4:00 p.m.",
+          "**Charge:** ₹1,500 per application from 15 October 2026, collected at submission."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Ahmedabad is a drop-off centre, not a Visa Application Centre. There are no biometrics or interviews here. Submission is free at the Visa Application Centres in the five consulate cities. For Gujarat that means Mumbai, where the free drop-off point is at Parinee Crescenzo, 101, 1st Floor, A Wing, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051 (Monday to Friday, 10 a.m. to 4 p.m.). For most Gujarat families, ₹1,500 costs less than a day trip to Mumbai."
+      },
+      {
+        "type": "p",
+        "text": "A friend, relative or agent can drop off on your behalf, as long as they carry every document on the letter's checklist."
+      },
+      {
+        "type": "h2",
+        "text": "US visa renewal fees India"
+      },
+      {
+        "type": "p",
+        "text": "The visa application fee for a B1/B2 renewal is **$185**, the same as for a first-time applicant. It is paid in rupees at the consular exchange rate, which the US Mission set at ₹98 per dollar from 25 May 2026, so about ₹18,130."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa application (MRV) fee:** $185, non-refundable whether or not a visa is issued.",
+          "**Drop-off outside a consulate-city VAC (Ahmedabad, Pune, Bengaluru and others):** ₹1,500 per application.",
+          "**Optional home delivery of your passport:** ₹1,500 per passport, collected on delivery.",
+          "**Fee validity:** the receipt is valid for 365 days. You must book within that period.",
+          "**Payment options:** NEFT, UPI, debit or credit card, or cash over the counter at the listed banks."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If a payment seems to fail, do not pay again. The India site says a second payment will not be refunded and asks you to write to support-india@usvisascheduling.com instead."
+      },
+      {
+        "type": "h2",
+        "text": "US visa dropbox status: how to track it"
+      },
+      {
+        "type": "p",
+        "text": "Track your case on the State Department's CEAC Status Check at ceac.state.gov, using your CEAC barcode or case number and the location where your application is processed. The US Mission in India says the embassy cannot speed up processing, so do not write to them for updates."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Allow up to **three weeks** from drop-off until your passport is ready. This cannot be expedited.",
+          "\"Approved\" is not the end. Wait for \"Issued\". After that, passports usually come back within 4 to 6 business days, with an SMS and email.",
+          "If the officer wants to see you, you will be told, and you must attend the interview at the post that is handling your file.",
+          "You cannot collect your passport while it is being processed, so plan travel around those three weeks."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "US visa renewal for minors in India"
+      },
+      {
+        "type": "p",
+        "text": "Most children cannot use the dropbox. The waiver needs a previous visa issued when the applicant was **at least 18**, so a child, or a young adult whose last visa was issued at 16 or 17, must apply the regular way."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Children under 14 do not need to go to the Visa Application Centre for biometrics. A parent or guardian can carry the child's documents and one printed photo.",
+          "All applicants, including those under 14, must appear in person for the interview at the embassy or consulate, according to the India FAQ.",
+          "Family members can be booked together using the \"Dependent\" option, so parents and children can get the same date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A child's visa is usually the reason a family's renewal turns into a Mumbai trip. Book the whole family's interview together rather than splitting the parents onto the dropbox and the child onto a separate date months later."
+      },
+      {
+        "type": "h2",
+        "text": "US visa renewal photo size"
+      },
+      {
+        "type": "p",
+        "text": "The photo for a US visa is **5 cm x 5 cm**, in colour, against a white background, and taken within the last six months. Eyeglasses are no longer allowed in new visa photos. You carry one printed photo to the drop-off. Do not reuse the photo from your last visa."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes we see on dropbox renewals"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Booking inside the last 15 days of the 12-month window, which forces a full interview.",
+          "Leaving the old passport with the US visa at home, or bringing photocopies of it.",
+          "Renewing after a past refusal. A refusal that was never overcome rules you out.",
+          "Trying to apply while abroad. You must be in India, though you can book the slot in advance for when you return.",
+          "Updating the DS-160 after booking but bringing only the new confirmation page.",
+          "Booking flights before the passport is back."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who carry their old passport, the new passport and the appointment letter in one clear folder, in the order of the checklist, get through the counter fastest. The drop-off counter only collects documents, and the decision is made later by a consular officer, so extra bank papers only slow you down."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with US visa renewals"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks dropbox eligibility against the dates on your visa foil, drafts the DS-160, books the right slot and builds the file in the order of the checklist. If the waiver is not open to you, we prepare you for the Mumbai interview, with practice in Gujarati or Hindi for parents who prefer it. NRI children abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate directly with their parents in India. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every rule, fee and address on this page against official sources on 15 November 2026. The US Mission changes waiver rules and drop-off charges with little notice. Before you book, re-check the Renew My Visa page and the drop-off locations page on ustraveldocs.com, the State Department's interview waiver update on travel.state.gov, and the consular exchange rate on in.usembassy.gov."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Department of State: Interview Waiver Update September 18, 2025",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/interview-waiver-update-sept-18-2025.html"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Renew my visa / Waive my interview",
+        "url": "https://www.ustraveldocs.com/in/en/renew-visa"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Frequently Asked Questions",
+        "url": "https://www.ustraveldocs.com/in/en/general-information"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Document drop-off locations",
+        "url": "https://www.ustraveldocs.com/in/en/drop-off-locations"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Pay your visa fees",
+        "url": "https://www.ustraveldocs.com/in/en/step-3"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Passport/Visa collection locations",
+        "url": "https://www.ustraveldocs.com/in/en/collection-locations"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Check your case status",
+        "url": "https://in.usembassy.gov/check-your-case-status/"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Visas (service updates and consular exchange rate)",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: U.S. Consulate General Mumbai",
+        "url": "https://in.usembassy.gov/embassy-consulates/mumbai/"
+      }
+    ]
+  },
+  {
+    "slug": "visa-application-centres-ahmedabad-addresses-2026",
+    "title": "Visa Application Centres in Ahmedabad 2026: VFS, BLS and US Drop-off Addresses and Timings by Country",
+    "metaTitle": "VFS Ahmedabad Address 2026: Every Visa Centre | Travlys",
+    "metaDescription": "VFS Ahmedabad is at Shree Balaji Agora Mall, Motera, for 12 countries incl. Canada, UK and Germany. Spain is at BLS Navrangpura. Floors, timings, US drop-off.",
+    "excerpt": "Where to go in Ahmedabad for biometrics and submission, country by country, with the floor, timings and the jurisdiction rules Gujarat applicants need to know.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 9,
+    "category": "Travel planning",
+    "tags": [
+      "VFS Ahmedabad",
+      "Visa centres",
+      "Gujarat",
+      "Biometrics",
+      "Schengen",
+      "BLS Spain"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-photo-size-by-country-for-indians-2026",
+      "schengen-visa-documents-checklist-2026",
+      "us-visa-renewal-dropbox-india-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your visa file and VFS slot sorted"
+    },
+    "faqs": [
+      {
+        "q": "What is the VFS Ahmedabad address?",
+        "a": "Most VFS Global visa centres in Ahmedabad are at Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424. Canada, Germany, France, the Netherlands, Belgium, Portugal, Sweden, Hungary, Japan and Australia are on the ground floor. The UK and Ireland are on the first floor. Always confirm the floor on your appointment letter."
+      },
+      {
+        "q": "Where is the Canada visa center in Ahmedabad?",
+        "a": "The Canada Visa Application Centre in Ahmedabad is on the ground floor of Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, Sardar Patel Ring Road, Motera, Ahmedabad 382424. VFS Global runs it. It is open Monday to Friday, 09:00 to 17:00, for submission with biometrics, biometrics only, passport submission and passport collection, all by appointment."
+      },
+      {
+        "q": "Is there a US visa office in Ahmedabad?",
+        "a": "No. There is no US consulate or Visa Application Centre in Ahmedabad, and Gujarat comes under the US Consulate General in Mumbai for biometrics and interviews. Ahmedabad has only a US document drop-off point at Shree Balaji Agora Mall, Motera, used for interview waiver renewals and 221(g) documents. It is open weekdays from 10 am to 4 pm and charges ₹1,500 per application."
+      },
+      {
+        "q": "VFS Ahmedabad timing for Schengen visa?",
+        "a": "Schengen centres at VFS Ahmedabad open Monday to Friday. Germany, the Netherlands, Belgium and Hungary take submissions from 09:00 to 15:00 and return passports from 14:00 to 16:00. France works 09:00 to 16:00 by appointment, Portugal takes submissions until 15:00 and Sweden until 14:00. Spain is separate, at BLS in Navrangpura, with submissions from 08:00 to 13:00."
+      },
+      {
+        "q": "Where is the Spain visa centre in Ahmedabad?",
+        "a": "The Spain Visa Application Centre in Ahmedabad is run by BLS International, not VFS. The address is Flexi Business Hub, 2nd Floor, Madhur Complex, Opp. Gwalia Sweets, near Stadium Cross Road, Navrangpura, Ahmedabad 380009. Submissions are accepted Monday to Friday from 08:00 to 13:00, according to the official BLS Spain India contact page."
+      },
+      {
+        "q": "Can I walk in at VFS Ahmedabad without an appointment?",
+        "a": "Usually not. Most country centres at VFS Ahmedabad accept submissions by appointment only. The Canada page lists walk-in hours of 09:00 to 17:00, and Australia offers a walk-in service for an extra INR 4,000 on top of its biometric fee. For every other country, book a slot first. Entry to the centres is restricted to people with visa business there."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Turning up at the wrong building on biometrics day is easier than it sounds. In 2026 most visa centres in Ahmedabad are in one place: **Shree Balaji Agora Mall, Motera (382424)**. VFS Global runs centres there for **12 countries** we checked, and the US document drop-off point is in the same mall. Spain is the main exception, at BLS in **Navrangpura**. US visa interviews happen in Mumbai."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Main VFS building:** Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, Sardar Patel Ring Road, Motera, Ahmedabad 382424. **Ground floor:** Canada, Germany, France, Netherlands, Belgium, Portugal, Sweden, Hungary, Japan, Australia. **First floor:** UK and Ireland. **US:** document drop-off only (no interviews, no biometrics), same mall. **Spain:** BLS International, Madhur Complex, Navrangpura 380009. **Italy and Switzerland:** VFS lists an Ahmedabad centre, but we could not confirm the address. **New Zealand:** listed as temporarily closed. **Days:** Monday to Friday, by appointment."
+      },
+      {
+        "type": "h2",
+        "text": "VFS Ahmedabad address in 2026"
+      },
+      {
+        "type": "p",
+        "text": "VFS Global's Ahmedabad centres for the countries below share one address in Motera, on the Sardar Patel Ring Road between Tapovan Circle and Bhat Circle. The floor matters, so check it before you go. Each address here is taken from that country's own VFS India page, checked on 15 November 2026:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Canada:** Canada Visa Application Centre, Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**United Kingdom:** First Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Ireland:** VFS Global Services Pvt Ltd, First Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Germany:** Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**France:** Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Netherlands:** Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Belgium:** Visa Application Centre, Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Portugal:** Portugal Visa Application Centre, Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Sweden:** VFS Global Services Pvt. Ltd., Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Hungary:** Hungary Visa Application Centre, Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Japan:** Visa Application Centre, Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424.",
+          "**Australia:** Australian Biometric Collection Centre, Ground Floor, Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Older blogs still give addresses on Ashram Road, in Paldi or near Parimal Garden. Do not rely on them. If a country is not on this list, go by the address printed on your official appointment letter."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visa center Ahmedabad"
+      },
+      {
+        "type": "p",
+        "text": "The Canada Visa Application Centre is on the ground floor of Shree Balaji Agora Mall, Motera, and is run by VFS Global. It handles application submission with biometrics, biometrics only, passport submission and passport collection, all Monday to Friday from 09:00 to 17:00."
+      },
+      {
+        "type": "p",
+        "text": "Its page lists walk-in hours of 09:00 to 17:00 as well, but the other services are by appointment only. Book a slot rather than risk a wasted trip."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa center Ahmedabad"
+      },
+      {
+        "type": "p",
+        "text": "The UK Visa Application Centre is on the **first floor** of Shree Balaji Agora Mall, Motera, run by VFS Global. Business hours are Monday to Friday, 08:00 to 16:00."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Priority visa submission hours: 08:00 to 14:00.",
+          "HMPO passport collection: 11:00 to 13:00.",
+          "Prime time appointments: 16:00 to 17:00.",
+          "Passport collection outside normal hours carries a service fee."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Priority and Super Priority are UKVI services and can only be bought online. VFS says that failing to pay for them online after booking will delay your application."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa VFS Ahmedabad: Germany, France, Netherlands and others"
+      },
+      {
+        "type": "p",
+        "text": "Seven Schengen countries confirm an Ahmedabad VFS centre at Shree Balaji Agora Mall, all on the ground floor: Germany, France, the Netherlands, Belgium, Portugal, Sweden and Hungary. Spain uses BLS International in Navrangpura instead."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Germany:** business hours 09:00 to 17:00, submission 09:00 to 15:00, passport collection 14:00 to 16:00. Schengen logistic fee INR 2,146.",
+          "**France:** 09:00 to 16:00 by appointment only, passport collection 09:00 to 17:00.",
+          "**Netherlands:** business hours 09:00 to 17:00, submission 09:00 to 15:00, passport collection 14:00 to 16:00. Service fee INR 1,890.",
+          "**Belgium:** submission 09:00 to 15:00, passport collection 14:00 to 16:00.",
+          "**Portugal:** submission 09:00 to 15:00, passport collection 14:00 to 16:00.",
+          "**Sweden:** submission 09:00 to 14:00.",
+          "**Hungary:** submission 09:00 to 15:00, passport collection 14:00 to 16:00.",
+          "**Spain (BLS International):** Flexi Business Hub, 2nd Floor, Madhur Complex, Opp. Gwalia Sweets, near Stadium Cross Road, Navrangpura, Ahmedabad 380009. Submission 08:00 to 13:00, Monday to Friday."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Italy:** the Consulate General of Italy in Mumbai, whose area includes Gujarat, names Ahmedabad among the VFS centres it uses. We could not find the address on an official page, so check the official appointment letter. Long-stay student visas for Gujarat residents go only through the VFS centres in Mumbai or Cochin."
+      },
+      {
+        "type": "p",
+        "text": "**Switzerland:** the Swiss Embassy lists Ahmedabad among the VFS centres that accept applications, and all applications in India are processed by the embassy in New Delhi. The address was not on the official page, so check the official appointment letter."
+      },
+      {
+        "type": "h3",
+        "text": "Germany visa Ahmedabad: which mission handles Gujarat"
+      },
+      {
+        "type": "p",
+        "text": "Gujarat falls under the German Consulate General in Mumbai, along with Maharashtra, Goa, Madhya Pradesh, Chhattisgarh, Daman and Diu, and Dadra and Nagar Haveli. Short-stay Schengen applications can be submitted at the Ahmedabad VFS centre. For long-stay national visas, check the Mumbai consulate's visa page before booking, because submission is by appointment either at the consulate's visa section or at VFS, and only for selected categories at VFS."
+      },
+      {
+        "type": "h2",
+        "text": "US visa Ahmedabad: is there a US visa centre in Gujarat?"
+      },
+      {
+        "type": "p",
+        "text": "No. There is no US Visa Application Centre or consulate in Ahmedabad. Gujarat is in the consular district of the US Consulate General in Mumbai, so biometrics and interviews for Gujarat applicants normally happen in Mumbai."
+      },
+      {
+        "type": "p",
+        "text": "Ahmedabad has only a US **document drop-off** point, listed on ustraveldocs.com at Shree Balaji Agora Mall, Between Tapovan & Bhat Circle, 200 Ft, Sardar Patel Ring Road, Motera, Ahmedabad 382424. It is open Monday to Friday, 10 a.m. to 4 p.m., and is used for interview waiver (dropbox) renewals and documents requested after a 221(g) refusal. From 15 October 2026 it charges ₹1,500 per application."
+      },
+      {
+        "type": "h2",
+        "text": "VFS Ahmedabad Japan"
+      },
+      {
+        "type": "p",
+        "text": "The Japan Visa Application Centre is on the ground floor of Shree Balaji Agora Mall, Motera, run by VFS Global. It is open only in the mornings: submission and passport collection are Monday to Friday, 09:00 to 13:00. The service fee is INR 800 per application."
+      },
+      {
+        "type": "p",
+        "text": "Applications from Ahmedabad are decided by the Consulate General of Japan in Mumbai, whose area covers Gujarat, Maharashtra, Goa, Madhya Pradesh, Chhattisgarh, Daman, Diu, and Dadra and Nagar Haveli. VFS publishes indicative processing times for each location and asks for photocopies on A4 paper, unstapled."
+      },
+      {
+        "type": "h2",
+        "text": "Australia VFS Ahmedabad, New Zealand and Singapore"
+      },
+      {
+        "type": "p",
+        "text": "Australia runs an **Australian Biometric Collection Centre** on the ground floor of Shree Balaji Agora Mall, Motera, open Monday to Friday, 09:00 to 17:00. As the name says, it collects biometrics. The page also lists paid help with online visa lodgement. The biometric collection fee is INR 1,425, and a walk-in service costs INR 4,000 extra."
+      },
+      {
+        "type": "p",
+        "text": "New Zealand's VFS page gives its Ahmedabad centre as the Ground Floor, Gujarat Chambers of Commerce Building, Ashram Road, Ahmedabad 380009, but lists business hours as **temporarily closed**. Check the New Zealand VFS page before planning a visit."
+      },
+      {
+        "type": "h3",
+        "text": "Singapore visa from Ahmedabad: authorised agents only"
+      },
+      {
+        "type": "p",
+        "text": "Singapore has no visa centre in Ahmedabad. The Consulate-General of Singapore in Mumbai covers Gujarat, and only its Authorised Visa Agents may submit applications online on an applicant's behalf. The consulate's page refers to a list of participating agents, so pick one from that list rather than any travel agent who offers a Singapore visa."
+      },
+      {
+        "type": "h2",
+        "text": "VFS Ahmedabad timing"
+      },
+      {
+        "type": "p",
+        "text": "Every centre in this guide works Monday to Friday, but hours differ by country, so read your appointment letter. Holidays follow each centre's own calendar."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest start:** UK and Ireland at 08:00. Spain (BLS) submissions also start at 08:00.",
+          "**Morning only:** Japan, 09:00 to 13:00. Spain submissions close at 13:00.",
+          "**Until 17:00:** Canada, Australia, Germany, Netherlands, Belgium and Hungary (business hours).",
+          "**Ireland:** 08:00 to 14:00.",
+          "**US drop-off:** 10:00 to 16:00.",
+          "**Passport collection** for most Schengen countries: 14:00 to 16:00."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The floor is the detail people miss, not the building. UK and Ireland applicants go to the first floor, and almost everyone else goes to the ground floor. Check which one your letter says before you join a queue."
+      },
+      {
+        "type": "h2",
+        "text": "What to carry to a VAC"
+      },
+      {
+        "type": "p",
+        "text": "Carry the documents on your country's checklist, in the order it gives. Beyond that, the general list is the same at every centre:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Printed appointment confirmation letter.",
+          "Original passport, plus old passports with previous visas.",
+          "Printed application form or checklist (for the UK, the checklist from your GOV.UK application).",
+          "Supporting documents sorted in checklist order, with photocopies where asked (Japan wants A4, unstapled).",
+          "Photographs in that country's size. Our photo size guide lists them.",
+          "A way to pay: most centres take cards and UPI, some take cash. Check your centre's page.",
+          "One cabin-size bag at most (55 x 35 x 20 cm). Larger bags are not allowed in, and centres will not store prohibited items."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Leave scissors, knives, aerosols and similar items at home. Phones are allowed but must be on silent. Photography and recording are not allowed. Minors must come with a parent or guardian, and elderly or unwell applicants may bring someone to help."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who speak only Gujarati manage the centre well when the file is already in checklist order and a family member waits with them. VFS staff check and collect papers. They do not decide the visa, so there is no interview at the counter."
+      },
+      {
+        "type": "h3",
+        "text": "VFS add-ons you do not need to buy"
+      },
+      {
+        "type": "p",
+        "text": "VFS offers optional paid services at most centres. They do not affect the visa decision, which is made by the embassy or consulate. Skip them unless you need the convenience:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Premium services, prime time slots and walk-in services (Australia charges INR 4,000 for walk-in).",
+          "Courier return of your passport (Japan: INR 550).",
+          "Photocopying and photo booths at the centre (Japan: INR 2 per page and INR 150 per applicant). Bring your own copies and photos.",
+          "SMS updates and form-filling help.",
+          "For the UK, Document Upload Assistance is needed only if you did not upload your documents online yourself."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Travlys in Vastrapur: we book the slot and prepare the file"
+      },
+      {
+        "type": "p",
+        "text": "Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad. We book the VFS or BLS slot, prepare the file in the order of the checklist, and tell you exactly what to carry and which floor to go to. NRI children abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents in India. We file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every address and timing above on the official VFS Global, BLS International, ustraveldocs and government pages on 15 November 2026. Centres move and hours change, so re-check the \"Attend a centre\" page for your country on visa.vfsglobal.com, the BLS Spain contact page and the ustraveldocs drop-off page before you leave. If anything differs, the address on your official appointment letter is the one to follow."
+      }
+    ],
+    "sources": [
+      {
+        "label": "VFS Global: Canada Visa Application Centre, Ahmedabad",
+        "url": "https://visa.vfsglobal.com/ind/en/can/attend-centre/ahmedabad"
+      },
+      {
+        "label": "VFS Global: UK Visa Application Centre, Gujarat - Ahmedabad",
+        "url": "https://visa.vfsglobal.com/ind/en/gbr/attend-centre/ahmedabad"
+      },
+      {
+        "label": "VFS Global: Germany Visa Application Centre, Ahmedabad",
+        "url": "https://visa.vfsglobal.com/ind/en/deu/attend-centre/ahmedabad"
+      },
+      {
+        "label": "VFS Global: Netherlands Visa Application Centre, Ahmedabad",
+        "url": "https://visa.vfsglobal.com/ind/en/nld/attend-centre/ahmedabad"
+      },
+      {
+        "label": "VFS Global: Japan Visa Application Centre, Ahmedabad",
+        "url": "https://visa.vfsglobal.com/ind/en/jpn/attend-centre/Ahmedabad"
+      },
+      {
+        "label": "VFS Global: Australian Biometric Collection Centre, Ahmedabad",
+        "url": "https://visa.vfsglobal.com/ind/en/aus/attend-centre/ahmedabad"
+      },
+      {
+        "label": "BLS International (Spain Visa in India): Contact us",
+        "url": "https://india.blsspainvisa.com/contact.php"
+      },
+      {
+        "label": "U.S. Visa Information and Appointment Services (India): Document drop-off locations",
+        "url": "https://www.ustraveldocs.com/in/en/drop-off-locations"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: U.S. Consulate General Mumbai",
+        "url": "https://in.usembassy.gov/embassy-consulates/mumbai/"
+      },
+      {
+        "label": "Consulate-General of Singapore in Mumbai: Visa Information",
+        "url": "https://mumbai.mfa.gov.sg/consular-services/visa-information/"
+      }
+    ]
+  },
+  {
+    "slug": "canada-visa-refused-what-to-do-2026",
+    "title": "Canada Visa Rejected? What to Do Next, When to Reapply and How to Get the Officer's Notes (2026)",
+    "metaTitle": "Canada Visa Rejected: What to Do Next in 2026 | Travlys",
+    "metaDescription": "Canada visa rejected? Read the officer's decision notes, fix the exact reason and reapply any time. A Federal Court challenge has a 15 or 60 day limit.",
+    "excerpt": "A Canada visitor visa refusal is not a ban. Here is how to read the letter, get the officer's notes for free, reapply with the right evidence, and when court is worth it.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 8,
+    "category": "How-to",
+    "tags": [
+      "Canada visa",
+      "Visa refusal",
+      "GCMS notes",
+      "Visitor visa",
+      "Parents visa",
+      "Reapply"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1551009175-15bdf9dcb580?w=1600&h=900&fit=crop",
+    "related": [
+      "canada-visitor-visa-for-parents-from-india-2026",
+      "canada-visitor-visa-from-india-2026",
+      "visa-rejection-reasons-india"
+    ],
+    "cta": {
+      "slug": "canada-visa",
+      "label": "Get a free Canada refusal review"
+    },
+    "faqs": [
+      {
+        "q": "Can I reapply for Canada visa immediately after rejection?",
+        "a": "Yes. IRCC sets no waiting period after a visitor visa refusal, so you can apply again whenever you choose. The real question is whether anything has changed. IRCC says applying again with the same information usually won't change the decision, and you will not get the CAD 100 fee back if you are refused again. Reapply when you have new evidence, better finances, a changed job or a clearer purpose of travel."
+      },
+      {
+        "q": "How to get GCMS notes for Canada visa refusal from India?",
+        "a": "Make a Privacy Act request through IRCC's ATIP online portal. IRCC says foreign nationals can request their own personal information wherever they live, and there is no fee. If a relative or consultant files it for you, include consent form IMM 5744. The law gives IRCC 30 days to reply, but IRCC warns that high volumes can delay it. Check your refusal letter first, because most visitor refusals since 29 July 2025 already include officer decision notes."
+      },
+      {
+        "q": "Do I need to give biometrics again after Canada visa refusal?",
+        "a": "Usually not. IRCC says biometrics are valid for 10 years and are attached automatically to a new visitor visa, study permit or work permit application made in that time. You can check the expiry date with IRCC's Check status tool. The exception is a refusal caused by not giving biometrics at all. Then you pay the biometric fee again, CAD 85, and wait for a new instruction letter before going to the VAC."
+      },
+      {
+        "q": "Is Canada visa fee refunded after rejection?",
+        "a": "No. IRCC says application fees are not refunded once processing begins, and a refusal does not change that. If you reapply, you pay the CAD 100 visitor visa fee again, about ₹6,800, plus the VAC service charge. If your biometrics are still valid you usually do not need to give them again. This is why it pays to fix the refusal reason properly before you submit a second time, rather than reapplying the same week."
+      },
+      {
+        "q": "Can I appeal Canada visitor visa rejection?",
+        "a": "You can challenge it only through judicial review at the Federal Court of Canada. You first apply for leave, within 15 days if the matter arose in Canada or 60 days if it arose outside Canada, counted from when you were notified. The Court checks whether the decision was lawful and reasonable, not whether you deserve the visa. It needs a Canadian lawyer and takes months, so a stronger new application is often quicker."
+      },
+      {
+        "q": "Canada visa rejected 3 times, should I apply again?",
+        "a": "Not straight away. Three refusals usually mean the same concern has not been answered. Get your full GCMS notes, compare the reasons across all three letters and fix the pattern before applying again. You must declare every past refusal, because the form asks about refusals by Canada or any other country. Hiding one can be treated as misrepresentation, which brings a five-year ban. One careful file beats three rushed ones."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A Canada refusal, even one that arrives after your parents gave biometrics, is not a ban. IRCC sets **no waiting period**, so you can apply again whenever you have something new to show. Since **29 July 2025**, most visitor visa refusals come with the officer's decision notes. Read them, fix the exact concern, then reapply. A Federal Court challenge has a strict **15-day or 60-day** limit."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Waiting period to reapply:** none set by IRCC. **Why you were refused:** refusal letter plus officer decision notes (most visitor refusals since 29 July 2025). **Full file (GCMS notes):** free Privacy Act request, open to applicants anywhere. **Fee refund:** none; the CAD 100 fee (about ₹6,800) is paid again. **Biometrics:** valid 10 years and reused automatically. **Federal Court limit:** 15 days for matters in Canada, 60 days for matters outside Canada. **Misrepresentation:** five years inadmissible."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visa rejected: what to do first"
+      },
+      {
+        "type": "p",
+        "text": "Start with the refusal letter, not a fresh application. The letter names the legal reason, usually a section of the Immigration and Refugee Protection Act or its Regulations. IRCC says the letter and the officer decision note together explain why you were refused. The reasons fall into four groups:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Eligibility:** the officer was not satisfied you met the requirements, had enough money, or gave authentic and reliable documents.",
+          "**Conditions of stay:** the officer was not satisfied you would leave Canada on time. Letters often show this as 'Inconsistent Purpose', 'Inconsistent with a temporary stay' or 'Assets'.",
+          "**Misrepresentation:** false or missing information, even if it was a mistake. This is serious (see below).",
+          "**Inadmissibility:** past convictions, medical conditions or security concerns."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Write each reason on one line. Under it, write the document or fact that answers it. If you cannot answer a reason with something new, you are not ready to reapply."
+      },
+      {
+        "type": "h2",
+        "text": "How to get the officer's decision notes (GCMS notes)"
+      },
+      {
+        "type": "p",
+        "text": "Since 29 July 2025, IRCC sends officer decision notes with the refusal letter for most temporary resident applications, including visitor visas, super visas and transit visas. They come from the officer who made the final decision. Some parts may be removed to protect private or sensitive information."
+      },
+      {
+        "type": "p",
+        "text": "For the full file, known as GCMS notes, make a request under the **Privacy Act**. IRCC says foreign nationals can request their own information wherever they live, and there are **no fees**. File through IRCC's ATIP online portal, or by post with form IMM 5563. If your son or daughter in Canada files for you, include consent form IMM 5744 for each person on the file aged 16 or over."
+      },
+      {
+        "type": "p",
+        "text": "The other route, an Access to Information Act request, costs **CAD 5** (about ₹340) and is open only to Canadian citizens, permanent residents and people or companies present in Canada. The Privacy Act gives IRCC **30 days** to respond, but IRCC warns that high request volumes may affect its ability to meet legal deadlines. Plan for a longer wait."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The decision note is often only a few lines. The full GCMS notes can show which document the officer could not connect to the form, for example an invitation letter whose dates differ from the travel dates on the application. That single detail tells you what the next file must fix."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visa rejected after biometrics"
+      },
+      {
+        "type": "p",
+        "text": "A refusal after biometrics is normal and does not mean anything went wrong at the VAC. Biometrics only confirm who you are. The decision comes later, from the officer reading your file."
+      },
+      {
+        "type": "p",
+        "text": "IRCC says biometrics are **valid for 10 years**. If you gave them for a visitor visa, study permit or work permit in that time, they are attached automatically to your new application, so you usually do not need to visit the VAC again. You can check the expiry date with IRCC's Check status tool. The exception: if the first refusal happened because you never gave biometrics, you pay the biometric fee again (**CAD 85**, about ₹5,800) and wait for a new instruction letter."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visa rejected due to insufficient funds"
+      },
+      {
+        "type": "p",
+        "text": "A funds refusal means the officer was not satisfied you have enough money to support yourself, and anyone travelling with you, in Canada. The form asks you to state your available funds in Canadian dollars, and IRCC says officers check that your documents clearly connect to what you wrote. For a file from India, show:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Recent bank statements for the account that will pay, with salary or business credits visible.",
+          "Income tax returns (ITR) for recent years.",
+          "Salary slips and an employer leave letter, or business registration and GST records.",
+          "Fixed deposits, property papers or pension proof, to show what you return to in India.",
+          "If a child in Canada is paying: their invitation letter, proof of status in Canada, job letter and recent bank statements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Do not park a large sum in the account a week before applying. Money with no visible source raises more questions than it answers. Explain any big credit in one line (an FD maturity, a land sale, a gift from your son) and attach the paper that proves it."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visa rejected: when can I apply again?"
+      },
+      {
+        "type": "p",
+        "text": "You can apply again at any time. IRCC's own refusal page says a refusal does not stop you applying again, and it sets no waiting period. But it is blunt about the risk: applying again with the same information usually won't change the decision, and a second refusal brings no refund. You pay the **CAD 100** visa fee (about ₹6,800) each time. IRCC lists the kind of changes that can justify a new application:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your financial situation has improved.",
+          "Your job or studies have changed.",
+          "You have new documents that answer the officer's concerns.",
+          "Your purpose of travel has changed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Reapplying a week later with the same papers is the most common mistake we see. Wait until you can point to something genuinely different."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visa rejected 3 times: what now?"
+      },
+      {
+        "type": "p",
+        "text": "There is no limit on how many times you can apply, but every refusal stays on your record. Canada's visitor visa form asks whether you have ever been refused a visa or permit, denied entry or ordered to leave **Canada or any other country**. You must answer yes and give details every time."
+      },
+      {
+        "type": "p",
+        "text": "Never hide an old refusal. Leaving out a material fact, even by mistake, can be treated as misrepresentation. Under section 40 of the Act, that makes you inadmissible for **five years**, which is far worse than any refusal."
+      },
+      {
+        "type": "p",
+        "text": "After two or three refusals, stop applying. Get the full GCMS notes, compare the reasons across every letter, and ask whether the trip makes sense to an officer right now. Sometimes the honest answer is to wait until your job, savings or travel history has changed."
+      },
+      {
+        "type": "h2",
+        "text": "Can you appeal a Canada visitor visa refusal? Judicial review explained"
+      },
+      {
+        "type": "p",
+        "text": "The way to challenge the decision itself is judicial review at the **Federal Court of Canada**. You first ask the Court for permission, called leave. Under section 72 of the Act, the leave application must be filed within **15 days** for a matter arising in Canada, or **60 days** for a matter arising outside Canada, counted from the day you are notified or otherwise learn of the decision. Have a Canadian lawyer confirm which limit applies to you the day the letter arrives."
+      },
+      {
+        "type": "p",
+        "text": "The Court does not re-decide your visa. It checks whether the decision was lawful and reasonable. If leave is refused, that decision cannot be appealed. IRCC advises that when you apply for leave, you state that you have not received the full reasons, even if you got a decision note, so the Court can ask for them. Court suits cases where the officer clearly ignored documents you sent or got a fact wrong. For most visitor refusals, a stronger new application is faster and cheaper."
+      },
+      {
+        "type": "h2",
+        "text": "Sample cover letter after a Canada refusal"
+      },
+      {
+        "type": "p",
+        "text": "Keep it to one page and answer the reasons in the same order as the letter. Declare the refusal in the first line."
+      },
+      {
+        "type": "callout",
+        "label": "Sample wording",
+        "text": "I applied for a visitor visa on [date] and was refused on [date] (application number [ ]). The officer was not satisfied that I would leave Canada at the end of my stay, based on my financial situation. Since then, my fixed deposit of ₹[ ] has matured and is now in my savings account (statement and FD closure receipt attached). I will visit my daughter in [city] from [date] to [date]. My employer, [name], has approved my leave and expects me back on [date] (letter attached)."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team offers a free Canada refusal review: we read your letter and decision notes, file the Privacy Act request for your GCMS notes, and tell you plainly whether to reapply now, wait, or speak to a lawyer. For parents, we prepare the file in English and brief them in Gujarati or Hindi. Children in Canada can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents in India. We file for clients across India from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked this post on 15 November 2026 against IRCC's refusal, officer decision notes, biometrics, fee and ATIP pages, the visitor visa guide (IMM 5256), the Federal Court's leave chart and the Immigration and Refugee Protection Act. Before you apply, re-check IRCC's officer decision notes page and fee list, because IRCC adds application types and changes fees."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IRCC: If your application for a visitor visa, work permit or study permit was refused",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/tr-refusal-letter.html"
+      },
+      {
+        "label": "IRCC: Explaining application refusals: Officer decision notes",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/officer-decision-notes.html"
+      },
+      {
+        "label": "IRCC: How to make a request under the Privacy Act",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/request-privacy-act.html"
+      },
+      {
+        "label": "IRCC: How to make a request under the Access to Information Act",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/requests-information-act.html"
+      },
+      {
+        "label": "IRCC: When to give your biometrics, temporary resident applicants",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/when-to-give-temporary-residence.html"
+      },
+      {
+        "label": "IRCC: Fee list, visitor visa",
+        "url": "https://ircc.canada.ca/english/information/fees/result.asp?lob=trv"
+      },
+      {
+        "label": "IRCC: Guide 5256, applying for a visitor visa",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html"
+      },
+      {
+        "label": "Justice Laws Website: Immigration and Refugee Protection Act, section 72",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-72.html"
+      },
+      {
+        "label": "Justice Laws Website: Immigration and Refugee Protection Act, section 40",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-40.html"
+      },
+      {
+        "label": "Federal Court: Application for leave and for judicial review (immigration)",
+        "url": "https://www.fct-cf.ca/en/pages/representing-yourself/procedural-charts/application-for-leave-and-for-judicial-review-immigration"
+      }
+    ]
+  },
+  {
+    "slug": "uk-visa-refused-what-to-do-2026",
+    "title": "UK Visa Rejected? What to Do Next, Refusal Paragraphs Explained and When to Reapply (2026)",
+    "metaTitle": "UK Visa Rejected: What to Do Next in 2026 | Travlys",
+    "metaDescription": "UK visa rejected? Visitor visas have no appeal or admin review, and the £135 fee is not refunded. Answer each refusal paragraph and reapply when ready.",
+    "excerpt": "There is no appeal for a refused UK visitor visa, but there is no waiting period either. Here is how to read the refusal paragraphs, fix bank statement problems and reapply properly.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 8,
+    "category": "How-to",
+    "tags": [
+      "UK visa",
+      "Visa refusal",
+      "Standard Visitor visa",
+      "V 4.2",
+      "Bank statement",
+      "Reapply"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1600&h=900&fit=crop",
+    "related": [
+      "uk-visa-for-parents-from-india-2026",
+      "uk-visa-for-indians-2026-fees-processing-time",
+      "visa-rejection-reasons-india"
+    ],
+    "cta": {
+      "slug": "uk-visa",
+      "label": "Get a free UK refusal review"
+    },
+    "faqs": [
+      {
+        "q": "Can I appeal UK visitor visa refusal?",
+        "a": "In almost all cases, no. A refused Standard Visitor visa has no right of appeal unless the refusal letter says the decision attracts an appeal on human rights grounds. Administrative review is not available either, because the Visitor route is not on the Appendix AR list. The only legal challenge is judicial review in the Upper Tribunal within 3 months, which tests whether the decision was unlawful. For most people, a stronger new application is the practical route."
+      },
+      {
+        "q": "How soon can I reapply after UK visa refusal?",
+        "a": "You can reapply at any time. The Immigration Rules set no waiting period after an ordinary visitor refusal. The fixed bars apply to breaches such as deception, where further applications are refused for 10 years. Reapplying quickly with the same documents usually gets the same answer, so first answer every paragraph in your refusal notice with new or clearer evidence. Most visitor applications from outside the UK get a decision within about 3 weeks."
+      },
+      {
+        "q": "Will I get refund if UK visa is rejected?",
+        "a": "No. GOV.UK says you will not get the fee back if your application is refused, or if you are given a shorter visa than you applied for. The Home Office refunds policy also lists no refund of Priority or Super Priority fees when a visa is refused. The only refund route is cancelling before the application is processed. On a 6-month Standard Visitor visa, that means losing £135, about ₹17,200, plus any priority fee."
+      },
+      {
+        "q": "UK visa rejected due to bank statement, what to do?",
+        "a": "Show where the money came from and make it match your form. Home Office guidance says financial documents should confirm the income or support you declared and show the origin of the funds. Officers may check money that has not been in the account for long, and they deduct commitments such as rent and EMIs. Use your regular salary account, explain large credits with documents, and declare any sponsor on the form with their own proof."
+      },
+      {
+        "q": "Do I need to mention UK visa refusal in Canada or US visa application?",
+        "a": "Yes, wherever the form asks, and Canada's form does. Canada's visitor visa form asks whether you have ever been refused a visa or permit by Canada or any other country, and every question in that section must be answered. For the US DS-160 and Australian forms, read each question exactly as written and answer it truthfully. Hiding a refusal is far more damaging than declaring it with a short, clear explanation."
+      },
+      {
+        "q": "What is V 4.2 in UK visa refusal letter?",
+        "a": "V 4.2 is the genuine visitor test in Appendix V of the Immigration Rules. The officer must be satisfied that you will leave the UK at the end of your visit, will not live in the UK through frequent visits, are coming for a permitted purpose, will not work or do other prohibited activities, and have enough funds for all reasonable costs. A refusal under V 4.2(e) is about money; V 4.2(a) is about your intention to return."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A UK refusal hurts most when it is your parents who were refused and the family date is fixed. The direct answer: visitor visas have **no right of appeal** (except human rights cases) and **no administrative review**, and the **£135** fee is not refunded. But there is **no waiting period** either. The fix is a new application that answers each refusal paragraph."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Appeal:** none for visitor visas, unless the letter says the refusal attracts a human rights appeal. **Administrative review:** not available for the Visitor route. **Judicial review:** Upper Tribunal, within 3 months, £179 to apply. **Refund:** none, including Priority and Super Priority fees. **Waiting period:** none in the Immigration Rules for an ordinary refusal. **Ban:** 10 years if deception is found. **Declare it:** on every future UK application, and on other countries' forms that ask, such as Canada's."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa rejected: what to do first"
+      },
+      {
+        "type": "p",
+        "text": "Read the refusal notice line by line. Home Office guidance tells officers that reasons must be factual, clear and relevant, and backed by evidence. So each paragraph points to something specific the officer was not satisfied about. Most visitor refusals use a 'no right of appeal' template. A small number that raise human rights grounds carry an appeal right, and the letter will say so."
+      },
+      {
+        "type": "p",
+        "text": "Then gather what you sent: the online form, cover letter, bank statements and invitation letter. Compare what the form says with what the documents show. Often the problem is a mismatch between the two, not a missing document."
+      },
+      {
+        "type": "h2",
+        "text": "Common UK refusal paragraphs: V 4.2 and V 4.3"
+      },
+      {
+        "type": "p",
+        "text": "Most visitor refusals cite paragraph **V 4.2** of Appendix V: Visitor, the genuine visitor test. The officer must be satisfied that you:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "will leave the UK at the end of the visit (V 4.2(a));",
+          "will not live in the UK through frequent or successive visits, or make it your main home (V 4.2(b));",
+          "are visiting for a purpose permitted on the Visitor route (V 4.2(c));",
+          "will not do prohibited activities, such as work (V 4.2(d));",
+          "have enough funds for all reasonable costs of the visit, including the return journey and any dependants (V 4.2(e))."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**V 4.3** covers third-party support. If a son, daughter or friend pays for your trip, they need a genuine relationship with you, must not be in breach of immigration law, and must be able and willing to support you for the whole stay. Refusals for false documents or undisclosed facts come under **Part Suitability** (SUI 9.1), which is far more serious."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa rejected due to bank statement"
+      },
+      {
+        "type": "p",
+        "text": "A bank statement refusal usually means the officer could not match your money to your story. Home Office guidance says financial documents should confirm the income or support declared on the form and show where the funds came from. There is **no set level of funds**. Officers deduct your ongoing commitments in India, such as rent, EMIs and dependants, then judge whether the trip is reasonable spending for you."
+      },
+      {
+        "type": "p",
+        "text": "The guidance adds two points that catch many Indian applicants. Where most of the funds have not been in the account for long, officers may check their origin. And money from a third party that was not declared on the form is not counted at all. To fix it:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Use the account that shows your regular salary or business income, not a dormant one topped up last week.",
+          "Explain every large credit with a document: FD maturity, property sale, gift deed.",
+          "Declare a sponsor on the form and add their statements, payslips and a letter.",
+          "Keep your stated trip cost realistic for your income."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents applying on a child's support do best when the child's letter, payslips and bank statements say the same thing as the parents' form: same dates, same address, same person paying. When one figure differs, that is usually the line the refusal quotes."
+      },
+      {
+        "type": "h2",
+        "text": "Can you appeal a UK visitor visa refusal?"
+      },
+      {
+        "type": "p",
+        "text": "In almost all cases, no. Visitor refusals have no right of appeal unless the letter says the decision attracts an appeal on human rights grounds. Administrative review (fee £80, within 28 days) is not available either, because the Visitor route is not on the list of eligible routes in Appendix AR. Reconsideration requests apply only to applications made inside the UK."
+      },
+      {
+        "type": "p",
+        "text": "The one legal challenge left is **judicial review** in the Upper Tribunal (Immigration and Asylum Chamber). It tests whether the decision was unlawful, irrational or unreasonable, not merely wrong. The application must reach the tribunal within **3 months** of the decision. It costs **£179** (about ₹22,800) to apply, plus **£897** (about ₹1,14,400) if permission is granted, before lawyers' fees. It suits cases where the officer clearly ignored evidence. For most families, a better new application is quicker."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa rejected: when can I apply again?"
+      },
+      {
+        "type": "p",
+        "text": "You can apply again at any time. The Immigration Rules set no waiting period after an ordinary visitor refusal. Fixed bars apply only to specific breaches. If the Home Office finds you used deception in a visit visa application, further applications are refused for **10 years** (Part Suitability, SUI 12.1)."
+      },
+      {
+        "type": "p",
+        "text": "Apply again only when the new file answers every paragraph of the old refusal. GOV.UK says you will usually get a decision within **3 weeks**, so a careful file costs you less time than you fear."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa rejected twice"
+      },
+      {
+        "type": "p",
+        "text": "Two refusals are not a ban, but the next officer will read both letters. Home Office guidance tells officers to weigh your immigration history, including visits to the UK and other countries. Past compliant travel to the USA, Canada, Australia, New Zealand, Ireland, Schengen countries or Switzerland can help. Being refused entry to, or removed from, another country may count against you."
+      },
+      {
+        "type": "p",
+        "text": "After a second refusal, do not apply a third time with small changes. Put the paragraphs from both letters side by side. If the same paragraph appears twice, the core concern (usually your ties to India or your funds) has not been answered."
+      },
+      {
+        "type": "h2",
+        "text": "UK visa rejected refund: will I get my money back?"
+      },
+      {
+        "type": "p",
+        "text": "No. GOV.UK says you will not get the fee back if your application is refused, or if you get a shorter visa than you applied for. The Home Office refunds policy lists **no refund** of Priority or Super Priority fees when a visa is refused. The only refund route is cancelling before your application is processed. The visa fees at stake:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Standard Visitor visa, up to 6 months: **£135** (about ₹17,200).",
+          "2-year visa: **£506** (about ₹64,500).",
+          "5-year visa: **£903** (about ₹1,15,100).",
+          "10-year visa: **£1,128** (about ₹1,43,800)."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Do I have to declare a UK refusal on other visa applications?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. Every future UK application asks about your immigration history, and GOV.UK says you may need to give your travel history for the past 10 years. Other countries ask too. Canada's visitor visa form asks whether you have ever been refused a visa or permit by Canada **or any other country**, and every question in that section must be answered. For the US DS-160 and Australian forms, read each question exactly as written and answer it truthfully."
+      },
+      {
+        "type": "p",
+        "text": "Hiding a refusal is the worst choice. In the UK, not disclosing relevant facts counts as deception under Part Suitability, with the 10-year bar. A declared refusal with a clear explanation is something an officer can weigh. A hidden one usually ends the application."
+      },
+      {
+        "type": "h2",
+        "text": "Sample cover letter for a UK reapplication"
+      },
+      {
+        "type": "callout",
+        "label": "Sample wording",
+        "text": "My Standard Visitor visa application (GWF reference [ ]) was refused on [date] under paragraph V 4.2(e), because the officer could not see the source of ₹[ ] credited to my account. That amount was the maturity of my fixed deposit with [bank]; the FD receipt and closure statement are attached. My son, [name], is paying for my stay in [city] from [date] to [date]; his letter, payslips and bank statements are attached. I will return to India on [date] for [reason]."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team offers a free UK refusal review. We read the refusal notice against your old form and documents, tell you which paragraphs can be answered, and rebuild the file. For parents, we prepare everything in English and brief them in Gujarati or Hindi before the VFS appointment. Children in the UK can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents in India. We file for clients across India from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked this post on 15 November 2026 against GOV.UK's Standard Visitor pages, Appendix V, Appendix AR, Part Suitability, the Visit caseworker guidance (version 18.0), the refunds policy and the judicial review guidance. Re-check the Standard Visitor fee page and Appendix AR before you apply, because fees and the list of reviewable routes change."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GOV.UK: Visit the UK as a Standard Visitor",
+        "url": "https://www.gov.uk/standard-visitor"
+      },
+      {
+        "label": "GOV.UK: Apply for a Standard Visitor visa",
+        "url": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix V: Visitor",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-v-visitor"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix AR: Administrative review",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ar-administrative-review"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Part Suitability",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-suitability"
+      },
+      {
+        "label": "GOV.UK: Visit caseworker guidance, version 18.0",
+        "url": "https://assets.publishing.service.gov.uk/media/69945f4e0b6fa0acfdaaf0ea/Visit.pdf"
+      },
+      {
+        "label": "GOV.UK: Immigration and nationality refunds policy",
+        "url": "https://www.gov.uk/government/publications/immigration-and-nationality-refunds-policy/immigration-and-nationality-refunds-policy-accessible"
+      },
+      {
+        "label": "GOV.UK: Ask for a visa administrative review",
+        "url": "https://www.gov.uk/ask-for-a-visa-administrative-review"
+      },
+      {
+        "label": "GOV.UK: Apply for a judicial review in an immigration or asylum case",
+        "url": "https://www.gov.uk/guidance/apply-for-a-judicial-review-in-an-immigration-or-asylum-case"
+      },
+      {
+        "label": "IRCC: Guide 5256, applying for a visitor visa",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html"
+      }
+    ]
+  },
+  {
+    "slug": "schengen-visa-refused-appeal-reapply-2026",
+    "title": "Schengen Visa Rejected? How to Appeal, When to Reapply and How to Choose (2026)",
+    "metaTitle": "Schengen Visa Rejected: Appeal or Reapply in 2026 | Travlys",
+    "metaDescription": "Schengen visa rejected? Appeal within the deadline on your form (Netherlands: 4 weeks) or reapply at once. The €90 fee is not refunded. How to choose.",
+    "excerpt": "A Schengen refusal can be appealed or answered with a new application. Here are the real deadlines for the Netherlands, Germany and France, what the ticked reasons mean, and how to choose.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "readMinutes": 8,
+    "category": "How-to",
+    "tags": [
+      "Schengen visa",
+      "Visa refusal",
+      "Visa appeal",
+      "Netherlands visa",
+      "Germany visa",
+      "France visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-fees-for-indians-2026",
+      "visa-rejection-reasons-india"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get a free Schengen refusal review"
+    },
+    "faqs": [
+      {
+        "q": "Schengen visa rejected, when can I apply again?",
+        "a": "You can apply again straight away. Neither the Netherlands nor Germany sets a waiting period. NetherlandsWorldwide says a new application is the best option if you want to travel soon, provided you fix the documents behind the refusal, and Germany's missions in India say there is no cooling or locking period. You pay the €90 fee again, about ₹9,600. Standard processing is 15 days, and up to 45 days if more checks are needed."
+      },
+      {
+        "q": "How to appeal Schengen visa rejection from India?",
+        "a": "Follow the appeal details printed at the bottom of your refusal form, because each country runs its own procedure. For the Netherlands, object to the IND within 4 weeks; it is free and can be written in English. For France, send a written appeal to the sous-directeur des visas within 30 days. For Germany, the only challenge is a lawsuit at the Administrative Court Berlin within one month, filed in German, usually through a lawyer."
+      },
+      {
+        "q": "Is Schengen visa fee refunded after rejection?",
+        "a": "No. The Netherlands states plainly that the visa fee and any service charges paid to VFS Global or TLScontact are not refunded after a refusal, and none of the German or French pages we checked offers a refund. If you reapply, you pay the €90 visa fee again, about ₹9,600, plus the service charge. An objection in the Netherlands is free, but a court case in Germany or France costs money."
+      },
+      {
+        "q": "Does Schengen visa rejection affect other countries?",
+        "a": "Yes, within Schengen and sometimes beyond. The refusal is stored in the EU's Visa Information System for five years from the decision date, and visa authorities of every Schengen state can consult it, so switching countries does not hide it. Outside Schengen, some forms ask directly; Canada's visitor visa form asks about refusals by any country. Always declare a past refusal where a form asks, with a short explanation."
+      },
+      {
+        "q": "Germany visa rejected, can I send a remonstration letter?",
+        "a": "No. German visa sections in India stopped accepting remonstrations from 1 January 2024, and the Federal Foreign Office ended the procedure worldwide from 1 July 2025 for Schengen and national visas. You now have two choices: submit a new application at any time, or file a lawsuit at the Administrative Court Berlin within one month of receiving the refusal. The lawsuit must be in German and involves court costs."
+      },
+      {
+        "q": "Schengen visa rejected due to insufficient funds, what to do?",
+        "a": "Rebuild the money trail before reapplying. Reason 3 on the refusal form means the officer was not satisfied you can pay for the stay and the return. Show recent statements from your regular salary or business account, income tax returns and fixed deposits, and explain any large recent credit with a document. If a child in Europe is paying, add their letter, residence permit copy, payslips and bank statements, all matching your form."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A Schengen refusal, often weeks before a booked trip, does not stop you applying again. You have two routes: **appeal** within the deadline on your form (Netherlands: objection within **4 weeks**; France: written appeal within **30 days**; Germany: lawsuit in Berlin within **one month**) or **reapply at once** with a stronger file. The **€90** fee is not refunded, and the refusal stays in the EU's VIS database for **five years**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Reasons:** ticked boxes on a standard EU form with 16 grounds. **Netherlands:** objection to the IND within 4 weeks, free. **Germany:** no remonstration; lawsuit at the Administrative Court Berlin within one month, or reapply. **France:** written appeal to the sous-directeur des visas within 30 days, compulsory before court. **Reapply:** any time. **Fee:** €90 (about ₹9,600), not refunded. **VIS record:** five years from the refusal decision."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa rejected: read the ticked reasons first"
+      },
+      {
+        "type": "p",
+        "text": "Every Schengen refusal uses the same EU standard form, with numbered reasons the officer ticks. For tourist and family visits, these are the ones that matter most:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Reason 2:** justification for the purpose and conditions of the stay was not provided.",
+          "**Reason 3:** no proof of sufficient means of subsistence for the stay or the return.",
+          "**Reason 10:** the information on the purpose and conditions of the stay was not reliable.",
+          "**Reason 11:** reasonable doubts about the reliability of statements you made.",
+          "**Reason 12:** reasonable doubts about the authenticity of supporting documents or their contents.",
+          "**Reason 13:** reasonable doubts about your intention to leave before the visa expires.",
+          "**Reason 16:** no adequate and valid travel medical insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The same form says you may appeal, names the national law that governs the appeal, gives the authority to write to and states the time limit. Read the bottom half carefully. Your deadline is printed there."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa rejected: how to appeal"
+      },
+      {
+        "type": "h3",
+        "text": "Netherlands: objection within 4 weeks"
+      },
+      {
+        "type": "p",
+        "text": "You object to the IND within **4 weeks**. NetherlandsWorldwide counts from the date at the bottom of the decision, so file well inside that window. Objecting is **free**. Write in Dutch, English, German or French, and include your name, date of birth, address, the date, your reasons, your signature and a copy of the decision, plus supporting documents. If you were visiting family or friends, your host can object online for you. The IND must decide within 6 weeks, extendable by 6 more, but says objections can currently take up to **6 months**. If it rejects the objection, you can go to court."
+      },
+      {
+        "type": "h3",
+        "text": "Germany: remonstration abolished, court or new application"
+      },
+      {
+        "type": "p",
+        "text": "The old remonstration letter is gone. German visa sections in India stopped accepting it from **1 January 2024**, and the Federal Foreign Office ended it worldwide from **1 July 2025**, for Schengen and national visas. You now have two choices: apply again at any time (the missions in India say there is no cooling period), or file a lawsuit at the **Administrative Court Berlin** within **one month** of receiving the refusal. The lawsuit must be in German and involves court costs, so in practice you need a German lawyer."
+      },
+      {
+        "type": "h3",
+        "text": "France: written appeal within 30 days"
+      },
+      {
+        "type": "p",
+        "text": "Send a written appeal to the **sous-directeur des visas** within **30 days** of notification of the refusal. Under the French immigration code (CESEDA), this appeal is compulsory before any court case; skip it and a court challenge is inadmissible. The sous-directeur can reject the appeal or instruct the consulate to issue the visa. If it is rejected, you can ask the administrative court to annul the decision. Use the address printed on your refusal form."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa rejected: when can I apply again?"
+      },
+      {
+        "type": "p",
+        "text": "Immediately. Neither the Netherlands nor Germany sets a waiting period, and we found none on the French pages we checked. NetherlandsWorldwide says a new application is your best option if you want to travel soon, provided you supply the correct documents this time. Germany's missions in India say there is no cooling or locking period. You pay the **€90** fee again. The European Commission gives a standard processing time of **15 days**, extendable to **45 days** where more checks are needed."
+      },
+      {
+        "type": "h2",
+        "text": "Appeal or reapply: how to choose"
+      },
+      {
+        "type": "p",
+        "text": "Ask two questions. Was the officer wrong about the file you actually sent? And when do you need to travel?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Appeal** if the officer ignored or misread a document that was in the file, such as insurance that was attached or a bank statement that did show the funds. An appeal argues the original decision was wrong.",
+          "**Appeal** if a serious reason was ticked, such as reason 12 (doubtful documents), and you can prove it is wrong. That finding otherwise sits in VIS for five years.",
+          "**Reapply** if the refusal was fair on what you sent, for example thin bank statements or no bookings. An appeal cannot repair a weak file.",
+          "**Reapply** if you need to travel soon. A Dutch objection can currently take up to 6 months, and a court case takes longer."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa rejected due to insufficient funds"
+      },
+      {
+        "type": "p",
+        "text": "Reason 3 means the officer was not satisfied you can pay for the stay and the return journey. The fix is rarely one bigger balance. It is a clear money trail:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Recent statements from your regular salary or business account, not a new account opened for the visa.",
+          "Income tax returns, salary slips or business records that match the balance.",
+          "Fixed deposits or property papers that show what you return to in India.",
+          "A written explanation, with proof, for any large recent credit.",
+          "Hotel and flight reservations whose cost fits your declared budget, plus travel medical insurance for the whole trip."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents visiting a child in Europe answer the funds question in one page when the child's letter, residence permit copy, payslips and bank statements travel with the parents' own ITR and statements. Splitting the story across two people's papers is fine. Contradicting it is not."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa rejected twice"
+      },
+      {
+        "type": "p",
+        "text": "A second refusal is harder to overcome because the first is on record. The Visa Information System (VIS) stores short-stay applications, fingerprints and decisions for **five years**, counted from the date of a negative decision. Visa authorities of every Schengen state can consult it. The EU built it partly to stop 'visa shopping', meaning applying to another country after a refusal."
+      },
+      {
+        "type": "p",
+        "text": "So switching countries does not wipe the slate. You must still apply to the country where you will spend the most time, or the first one you enter if the stays are equal. Change the itinerary only to change the consulate, and the new officer sees the old refusal and the new plan side by side."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa rejected from India: mistakes we see"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Applying to the country with the earliest slot instead of the main destination.",
+          "A bank balance that jumped just before applying, with no explanation.",
+          "No employer leave letter, or leave dates that differ from the flight booking.",
+          "Insurance that does not cover every day of the trip.",
+          "A cover letter copied from the internet, with a purpose that does not match the bookings.",
+          "An earlier refusal not mentioned anywhere in the new file."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Sample objection letter wording"
+      },
+      {
+        "type": "callout",
+        "label": "Sample wording",
+        "text": "I object to the decision of [date] refusing my short-stay visa application (reference [ ]). The refusal cites reason 3, insufficient means of subsistence. My bank statements for [months], submitted with the application as document [ ], show a balance of ₹[ ] and monthly salary credits of ₹[ ]. My son, [name], who lives in [city], also undertook to cover my stay; his letter and income proof were submitted as documents [ ]. I request that the decision be reviewed and the visa issued."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team offers a free Schengen refusal review: we read the ticked reasons against your original file and tell you whether to appeal or reapply, and to which consulate. For parents, we prepare the file in English and brief them in Gujarati or Hindi before the VFS appointment. Children living in Europe can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents in India. We file for clients across India from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 15 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked this post on 15 November 2026 against the IND and NetherlandsWorldwide objection pages, the German missions' pages on refusals and the end of remonstration, the French immigration code (CESEDA) on Légifrance, the European Commission's Schengen visa and VIS pages, and the EU standard refusal form. Always follow the appeal deadline printed on your own refusal form, and re-check the IND page, as its processing times change."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "European Commission: Visa Information System (VIS)",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-information-system_en"
+      },
+      {
+        "label": "Danish Immigration Service: Standard form for notifying reasons for refusal of a visa (Visa Code template)",
+        "url": "https://www.nyidanmark.dk/-/media/Files/US/Lovstof/Visumkodeks/Visumhaandbogen/annex_25a.pdf"
+      },
+      {
+        "label": "IND: Object to decision on Schengen or transit visa",
+        "url": "https://ind.nl/en/short-stay/object-to-decision-on-schengen-or-transit-visa"
+      },
+      {
+        "label": "NetherlandsWorldwide: Objecting to the decision to refuse your visa application",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/objecting-refuse-application"
+      },
+      {
+        "label": "German Missions in India: Visa refusal, new application or lawsuit",
+        "url": "https://india.diplo.de/in-en/-/2673980"
+      },
+      {
+        "label": "German Embassy London: Abolition of the remonstration procedure",
+        "url": "https://uk.diplo.de/uk-en/02/abolition-of-remonstration-procedure-2717960"
+      },
+      {
+        "label": "Légifrance: CESEDA, appeals against visa refusals (Articles D312-3 to R312-6)",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000045998044/"
+      }
+    ]
+  },
+  {
     "slug": "countries-visa-free-for-indians-with-us-visa-2026",
     "title": "Visa Free Countries for Indians With a US Visa (2026): What Actually Works",
     "metaTitle": "Visa free countries for Indians with US visa (2026) | Travlys",
@@ -376,9 +3346,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1600&h=900&fit=crop",
     "related": [
-      "us-visa-from-india-2026-complete-guide",
-      "ds-160-form-mistakes",
-      "us-visa-appointment-wait-time-india-2026"
+      "us-visa-rejected-214b-what-to-do-2026",
+      "us-visa-for-parents-from-india-2026",
+      "us-visa-from-india-2026-complete-guide"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -2529,9 +5499,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-visa-refused-appeal-reapply-2026",
       "schengen-visa-documents-checklist-2026",
-      "schengen-visa-for-christmas-new-year-trips-2026",
-      "schengen-ees-explained-for-indian-travellers"
+      "schengen-visa-for-christmas-new-year-trips-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -4227,9 +7197,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1600&h=900&fit=crop",
     "related": [
+      "us-visa-renewal-dropbox-india-2026",
       "us-visa-changes-2026-indian-applicants",
-      "us-visa-appointment-wait-time-india-2026",
-      "us-visa-from-india-2026-complete-guide"
+      "us-visa-appointment-wait-time-india-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -8205,9 +11175,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1600&h=900&fit=crop",
     "related": [
+      "visa-application-centres-ahmedabad-addresses-2026",
       "australia-visitor-visa-subclass-600-from-india-2026",
-      "australia-student-visa-new-rules-2026-indian-students",
-      "visa-rule-changes-for-indians-2026-tracker"
+      "australia-student-visa-new-rules-2026-indian-students"
     ],
     "cta": {
       "slug": "australia-visa",
@@ -8463,9 +11433,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1600&h=900&fit=crop",
     "related": [
-      "us-visa-interview-questions-answers-b1-b2-india-2026",
-      "us-visa-changes-2026-indian-applicants",
-      "ds-160-form-mistakes"
+      "us-visa-expedited-emergency-appointment-india-2026",
+      "us-visa-for-parents-from-india-2026",
+      "us-visa-interview-questions-answers-b1-b2-india-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -11411,9 +14381,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=1600&h=900&fit=crop",
     "related": [
-      "visa-rejection-reasons-india",
-      "study-abroad-visa-changes-2026-indian-students",
-      "visa-rule-changes-for-indians-2026-tracker"
+      "uk-visa-refused-what-to-do-2026",
+      "uk-visa-for-parents-from-india-2026",
+      "visa-rejection-reasons-india"
     ],
     "cta": {
       "slug": "uk-visa",
@@ -11735,9 +14705,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1600&h=900&fit=crop",
     "related": [
-      "visa-rejection-reasons-india",
-      "study-abroad-visa-changes-2026-indian-students",
-      "visa-rule-changes-for-indians-2026-tracker"
+      "canada-visa-refused-what-to-do-2026",
+      "visa-application-centres-ahmedabad-addresses-2026",
+      "canada-visitor-visa-for-parents-from-india-2026"
     ],
     "cta": {
       "slug": "canada-visa",
@@ -13642,9 +16612,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1600&h=900&fit=crop",
     "related": [
+      "us-visa-expedited-emergency-appointment-india-2026",
       "us-visa-interview-questions-answers-b1-b2-india-2026",
-      "us-visa-from-india-2026-complete-guide",
-      "ds-160-form-mistakes"
+      "us-visa-from-india-2026-complete-guide"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -16089,7 +19059,7 @@ export const BLOG_POSTS = [
     category: 'Country guides',
     tags: ['USA', 'Embassy visa', 'B1/B2', 'F-1', 'H-1B', 'DS-160'],
     heroImage: 'https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=1600&h=900&fit=crop',
-    related: ['us-visa-interview-questions-answers-b1-b2-india-2026', 'ds-160-form-mistakes', 'visa-consultant-vs-diy'],
+    related: ['us-visa-renewal-dropbox-india-2026', 'us-visa-for-parents-from-india-2026', 'us-visa-interview-questions-answers-b1-b2-india-2026'],
     cta: { slug: 'usa-visa', label: 'See full US visa pricing' },
     faqs: [
       {
@@ -16185,7 +19155,7 @@ export const BLOG_POSTS = [
     category: 'How-to',
     tags: ['DS-160', 'USA', 'Refusal', 'B1/B2'],
     heroImage: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&h=900&fit=crop',
-    related: ['us-visa-interview-questions-answers-b1-b2-india-2026', 'us-visa-from-india-2026-complete-guide', 'visa-rejection-reasons-india'],
+    related: ['us-visa-rejected-214b-what-to-do-2026', 'us-visa-interview-questions-answers-b1-b2-india-2026', 'us-visa-from-india-2026-complete-guide'],
     cta: { slug: 'usa-visa', label: 'See US visa application help' },
     faqs: [
       {
@@ -16259,7 +19229,7 @@ export const BLOG_POSTS = [
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['visa-photo-size-by-country-for-indians-2026', 'us-visa-from-india-2026-complete-guide', 'visa-consultant-vs-diy'],
+    related: ['schengen-visa-refused-appeal-reapply-2026', 'visa-application-centres-ahmedabad-addresses-2026', 'visa-photo-size-by-country-for-indians-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
@@ -16463,7 +19433,7 @@ export const BLOG_POSTS = [
     category: 'Honest takes',
     tags: ['Refusal', 'Re-application', '214(b)'],
     heroImage: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1600&h=900&fit=crop',
-    related: ['us-visa-from-india-2026-complete-guide', 'ds-160-form-mistakes', 'visa-consultant-vs-diy'],
+    related: ['uk-visa-refused-what-to-do-2026', 'canada-visa-refused-what-to-do-2026', 'us-visa-rejected-214b-what-to-do-2026'],
     cta: { slug: null, label: null },
     faqs: [
       {
