@@ -8,6 +8,529 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "nepal-bhutan-passport-rule-indians-third-country-2026",
+    "title": "Passport Rule for Nepal and Bhutan 2026: What Indians Need for Third-Country Travel",
+    "metaTitle": "Passport Required for Nepal from India? 2026 Rule | Travlys",
+    "metaDescription": "Passport required for Nepal from India? Only if you go on to a third country. From 5 November 2026, Indians crossing via Nepal or Bhutan onward need one.",
+    "excerpt": "An MHA order in force from 5 November 2026 makes a valid passport compulsory for Indians travelling to or from a third country through the Nepal or Bhutan border. Nepal-only and Bhutan-only trips still work with a voter ID.",
+    "date": "2026-11-18",
+    "updated": "2026-11-18",
+    "readMinutes": 7,
+    "category": "Visa rule updates",
+    "tags": [
+      "Nepal",
+      "Bhutan",
+      "Passport rules",
+      "Voter ID",
+      "Third-country travel",
+      "MHA order"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=1600&h=900&fit=crop",
+    "related": [
+      "bhutan-permit-for-indians-2026",
+      "indian-e-passport-2026-how-to-apply",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "thailand-visa",
+      "label": "Ask us before you travel"
+    },
+    "faqs": [
+      {
+        "q": "Is passport compulsory for Nepal from India in 2026?",
+        "a": "No, not for a trip that is only to Nepal and back. Indians can still enter Nepal by land or air without a passport or visa if they carry an accepted ID, such as an Election Commission voter ID. A passport became compulsory on 5 November 2026 only for Indians going to or coming from a third country through the Nepal border. If your plan includes any other country, carry your passport from the start."
+      },
+      {
+        "q": "Can I go to Nepal with Aadhaar card?",
+        "a": "Not as an adult. The Embassy of India in Kathmandu states that Aadhaar and PAN cards are not valid for travel between India and Nepal, and asks Indians to carry a passport or an Election Commission identity card. The Bureau of Immigration does allow an original Aadhaar card for minor children travelling with parents who hold valid ID. For a child on a flight, a passport or a government-issued birth certificate is the safer choice."
+      },
+      {
+        "q": "Do I need passport for Bhutan from India?",
+        "a": "No, not if Bhutan is your only destination. An original Indian passport with at least six months validity or an original Election Commission voter ID is accepted, and children under 18 can use an original birth certificate. You still need a Bhutan entry permit at the border or at Paro airport, and the Sustainable Development Fee applies. If you continue from Bhutan to another country, the new rule means you need a valid passport."
+      },
+      {
+        "q": "Can I fly from Kathmandu to Dubai without passport?",
+        "a": "No. Any journey from Nepal to a third country needs a valid Indian passport, and under the order in force from 5 November 2026 you must also leave India through a designated immigration post. Most Indians flying out of Kathmandu to a third country also need a Third Country NOC from the Embassy of India, which costs NPR 3,290 (about ₹2,050). Apply in person at least three working days before your flight."
+      },
+      {
+        "q": "What is NOC for Indians in Nepal?",
+        "a": "It is the Third Country No Objection Certificate that the Embassy of India in Kathmandu issues to Indians flying from Nepal to another country. The fee is NPR 3,290 (about ₹2,050) and you apply in person with your passport, flight ticket and two photographs. Children under 10, air transit passengers who do not clear immigration and those flying out within 24 hours of arriving by air are exempt."
+      },
+      {
+        "q": "Which documents are required for Nepal from India by road?",
+        "a": "A valid Indian passport or an original Election Commission voter ID is the safe choice for adults crossing by road. The Bureau of Immigration says Indians entering Nepal by land or air need no passport or visa, and the Embassy in Kathmandu names the passport and voter ID as the valid documents. Children need proof of identity, age and relation to the parent, such as a government-issued birth certificate."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Yes, from **5 November 2026** an Indian citizen needs a **valid passport** to travel to or from any third country through the India-Nepal or India-Bhutan border, by land or air, and must leave or enter India only at a designated immigration post. A trip only to Nepal or only to Bhutan still works with an accepted ID, such as an Election Commission **voter ID**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Rule:** Immigration and Foreigners (Exemption) (Amendment) Order, 2026, S.O. 6027(E). **In force:** 5 November 2026, the date of Gazette publication (the order is dated 4 November). **Passport needed:** Indians going to or returning from any country other than Nepal or Bhutan through these borders. **Nepal-only or Bhutan-only trip:** passport or an ID listed in the Visa Manual. **Bhutan:** passport with 6 months validity or original voter ID, plus an entry permit. **Flying out of Kathmandu:** Embassy of India NOC, NPR 3,290 (about ₹2,050), unless exempt."
+      },
+      {
+        "type": "h2",
+        "text": "What changed in the Nepal and Bhutan passport rule?"
+      },
+      {
+        "type": "p",
+        "text": "The Ministry of Home Affairs replaced the Nepal and Bhutan clauses of the Immigration and Foreigners (Exemption) Order, 2025. The new order is dated 4 November 2026, was published in the Gazette of India on 5 November 2026 and came into force on publication. It applies now."
+      },
+      {
+        "type": "p",
+        "text": "The basic freedom stays. An Indian citizen going to Nepal or Bhutan, or coming back from there, by land or air, needs no passport. They must show the Immigration Officer one of the identity documents listed in the Visa Manual and answer the officer's questions."
+      },
+      {
+        "type": "p",
+        "text": "The new part is a second proviso. The exemption does not apply to an Indian citizen **departing to or returning from countries other than Nepal or Bhutan** through the Indo-Nepal or Indo-Bhutan border, by land or by air. In those cases the traveller must hold a **valid passport**, and the exit from or entry into India must be **only through designated immigration posts**."
+      },
+      {
+        "type": "callout",
+        "label": "What the order does not say",
+        "text": "The order does not name the designated immigration posts and does not list the accepted IDs. It only defines the Visa Manual as the manual the Central Government issues from time to time. We could not find the Visa Manual published online, so the ID lists below come from the Bureau of Immigration and the Indian Embassies in Kathmandu and Thimphu."
+      },
+      {
+        "type": "h2",
+        "text": "Is passport required for Nepal from India?"
+      },
+      {
+        "type": "p",
+        "text": "No, not for a trip that starts and ends in Nepal. The Bureau of Immigration (BOI) says an Indian citizen entering Nepal by land or air needs no passport or visa. For air travel between India and Nepal, BOI lists these identity documents:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Valid Indian passport.",
+          "Election ID card issued by the Election Commission of India.",
+          "Photo identity card issued by the Government of India, a State Government or a UT Administration to its employees and their dependent family members.",
+          "Emergency Certificate or Identity Certificate from the Embassy of India, Kathmandu, valid for a single journey back to India."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Embassy of India in Kathmandu is stricter in its wording. It tells Indians to carry a valid passport or an Election Commission identity card, and states that **Aadhaar and PAN cards are not valid** for travel between India and Nepal. If you are an adult with neither a passport nor a voter ID, do not attempt the trip on anything else."
+      },
+      {
+        "type": "h2",
+        "text": "Documents required for Nepal from India for children"
+      },
+      {
+        "type": "p",
+        "text": "Children need proof of identity, age and relation to the parent. BOI says minors travelling with parents who hold valid ID may travel on one of these originals:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Aadhaar card.",
+          "Birth certificate.",
+          "Photo identity certificate from the school or college.",
+          "Ration card."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Embassy in Kathmandu adds that a birth certificate must come from a competent Indian authority or an Indian Mission abroad, and that a hospital birth certificate is not accepted. The two official lists differ on Aadhaar for children. A passport removes the doubt, so for a flight we advise getting the child one."
+      },
+      {
+        "type": "h2",
+        "text": "Who needs a passport now on Nepal and Bhutan routes?"
+      },
+      {
+        "type": "p",
+        "text": "Anyone whose journey goes beyond Nepal or Bhutan. Common cases we see from Gujarat and elsewhere:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You cross by road into Nepal and then fly from Kathmandu to Dubai, Bangkok or anywhere else.",
+          "You fly from a third country into Kathmandu or Paro and then enter India by road.",
+          "You go into Tibet (China) for Kailash Mansarovar through Nepal.",
+          "You visit Bhutan and continue to a third country, or arrive in Bhutan from one and then enter India."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In each case carry your passport from the start and leave or enter India at a designated immigration post, so that your passport carries the Indian immigration stamp. Nepalese and Bhutanese citizens face a parallel rule: a passport for third-country travel, and a passport plus visa if they embarked at or transited through China, Macau, Hong Kong or Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Flying out of Kathmandu to a third country"
+      },
+      {
+        "type": "p",
+        "text": "You need a valid passport and, in most cases, a Third Country No Objection Certificate (TCNOC) from the Embassy of India, Kathmandu. The Embassy says all Indian nationals need it to travel to a third country from Nepal. The fee is **NPR 3,290** (about ₹2,050) and you apply in person. Documents:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Original passport, with copies of the first and last pages, the page with the visa or permit for your destination and the page with your latest Indian immigration stamp.",
+          "Original Registration Certificate from the Embassy, if you normally live in Nepal.",
+          "Copy of your flight ticket.",
+          "Two passport-size photographs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Exemptions listed by the Embassy:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Children under 10.",
+          "Indians who arrive in Nepal by air and fly out to a third country within 24 hours.",
+          "Indian air passengers transiting Nepal without clearing immigration.",
+          "Holders of Diplomatic, Official or UN passports."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Embassy's NOC page says to apply at least three working days before departure, and the NOC is issued only after an interview or document check. Note the stamp requirement: if you crossed the land border without passing through Indian immigration, you may not be able to show it."
+      },
+      {
+        "type": "h2",
+        "text": "Bhutan passport rule for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Indians visiting only Bhutan still need no passport and no visa. BOI and the Embassy of India in Thimphu accept:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Original Indian passport with at least six months validity, or",
+          "Original voter ID card issued by the Election Commission of India.",
+          "For children under 18: original birth certificate (BOI says in English) or a passport. BOI adds that the child must be with a legal guardian.",
+          "Recent passport-size photographs, as listed by the Embassy in Thimphu."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You still need a Bhutan entry permit. By road it is issued at the Regional Immigration Offices in Phuentsholing, Gelephu, Samdrup Jongkhar or Samtse, and by air at Paro International Airport. The Embassy also lists a Sustainable Development Fee of ₹1,200 a day. Our Bhutan permit guide covers the permit and fee in detail. If Bhutan is one stop on a trip that includes another country, the new passport rule applies."
+      },
+      {
+        "type": "h2",
+        "text": "Nepal travel rules for Indians 2026: practical tips"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Carry the original ID, not a photocopy or a phone scan.",
+          "If you hold a passport, carry it even on a Nepal-only trip. It is accepted everywhere and covers a change of plan.",
+          "Do not rely on Aadhaar, PAN or a driving licence as an adult.",
+          "If your ID is lost in Nepal, the Embassy issues a single-journey document for the return to India only.",
+          "Flying onward from Kathmandu? Keep three working days for the TCNOC before your flight."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team at the Vastrapur, Ahmedabad office checks travel documents and routes before you book, including Nepal and Bhutan trips that continue to Thailand, Dubai or elsewhere. We file visas for clients across India and will tell you plainly if your route needs a passport or an NOC."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 18 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 18 November 2026. Before you travel, re-check the Gazette notification S.O. 6027(E) on egazette.gov.in, the BOI pages Entry to Nepal and Entry to Bhutan, and the advisories of the Embassy of India in Kathmandu and Thimphu. The Visa Manual list and the designated immigration posts can change without a new Gazette order."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Gazette of India: Immigration and Foreigners (Exemption) (Amendment) Order, 2026, S.O. 6027(E)",
+        "url": "https://egazette.gov.in/WriteReadData/2026/277692.pdf"
+      },
+      {
+        "label": "Bureau of Immigration: Entry to Nepal",
+        "url": "https://boi.gov.in/boi/contents/travelling-abroad/indian-citizens/entry-to-nepal"
+      },
+      {
+        "label": "Bureau of Immigration: Entry to Bhutan",
+        "url": "https://boi.gov.in/boi/contents/travelling-abroad/indian-citizens/entry-to-bhutan"
+      },
+      {
+        "label": "Embassy of India, Kathmandu: Consular services and valid travel documents",
+        "url": "https://www.indembkathmandu.gov.in/consular-services-2"
+      },
+      {
+        "label": "Embassy of India, Kathmandu: Advisory regarding NOC to travel to 3rd country",
+        "url": "https://www.indembkathmandu.gov.in/latest-advisory-regarding-consular-services"
+      },
+      {
+        "label": "Embassy of India, Kathmandu: NOC to travel to 3rd country",
+        "url": "https://www.indembkathmandu.gov.in/noc-to-travel-to-3rd-country"
+      },
+      {
+        "label": "Embassy of India, Thimphu: Info for Indian nationals entering Bhutan",
+        "url": "https://indembthimphu.gov.in/pages/NDA5"
+      }
+    ]
+  },
+  {
+    "slug": "india-new-visitor-visa-e-oci-2026-nri-guide",
+    "title": "India New Visa Rules 2026 for NRI Families: Visitor Visa V-1, V-2, e-OCI and the 180-Day Rule",
+    "metaTitle": "India New Visa Rules 2026: Visitor Visa V-1, e-OCI | Travlys",
+    "metaDescription": "India new visa rules 2026: 9 categories and a Visitor Visa (V-1 for 30 days, V-2 up to 10 years) due by year-end. The e-Visa still works; e-OCI is live.",
+    "excerpt": "India has announced 9 visa categories and a Visitor Visa with V-1 and V-2 sub-types, due by the end of 2026. Here is what is live now for a foreign spouse, children and OCI holders, and what is not final yet.",
+    "date": "2026-11-18",
+    "updated": "2026-11-18",
+    "readMinutes": 8,
+    "category": "Visa rule updates",
+    "tags": [
+      "India visa",
+      "Visitor Visa",
+      "e-OCI",
+      "OCI card",
+      "NRI families",
+      "FRRO registration"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1600&h=900&fit=crop",
+    "related": [
+      "oci-card-rules-2026-fees-passport-update",
+      "indian-e-passport-2026-how-to-apply",
+      "visa-consultant-vs-diy"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Ask us about your family's visa"
+    },
+    "faqs": [
+      {
+        "q": "What is India visitor visa V1?",
+        "a": "V-1 is the short sub-type of India's new Visitor Visa, which replaces the Tourist Visa. PIB says it is granted for 30 days with multiple entries and covers tourism plus short activities such as business meetings, medical consultations, wellness retreats and short courses in Indian languages, music, art and craft. The MHA says visas will be issued under the new categories by the end of 2026, so you cannot apply for V-1 yet."
+      },
+      {
+        "q": "Is India e-Tourist visa still valid after new rules?",
+        "a": "Yes. On 18 November 2026 the e-Visa portal at indianvisaonline.gov.in was still open and listed the e-Tourist visa for 30 days, 1 year and 5 years. The new Visitor Visa is announced but the MHA says it is still updating its IT systems, with issue under the new categories by year-end. A valid e-Tourist visa you already hold keeps its own conditions, such as the 180-day stay limit per calendar year."
+      },
+      {
+        "q": "What is e OCI card and how to download?",
+        "a": "The e-OCI is a digital version of the OCI card, launched by the Ministry of Home Affairs on 30 June 2026. Existing cardholders log in at ociservices.gov.in with the email linked to their OCI record, open the e-OCI tab and click Generate e-OCI Card. The download is free and allowed up to five times a day. The Bureau of Immigration says it can be shown on a phone at immigration and to airlines."
+      },
+      {
+        "q": "Is physical OCI card still needed after e-OCI?",
+        "a": "Your physical OCI card stays valid. The official FAQ says the e-OCI is a digital representation of the OCI card and does not change the validity or status of existing cards. It also tells travellers to follow the document rules in force at the time of travel. Until airlines handle the e-OCI consistently, we advise carrying the passport linked to your OCI, the physical card and the e-OCI on your phone."
+      },
+      {
+        "q": "How can my foreign wife get Indian visa?",
+        "a": "Today a foreign spouse of an Indian citizen can apply online for the e-Miscellaneous (e-X1) visa, valid for 3 months from first entry, with the Indian spouse's passport or voter ID and the marriage certificate. A regular visa through the Indian mission is the other route. Once the marriage has been registered and has lasted two continuous years, the spouse can apply for an OCI card, which removes repeated visa applications."
+      },
+      {
+        "q": "Do OCI holders need to register with FRRO for stay over 180 days?",
+        "a": "No. The Bureau of Immigration states that OCI cardholders are exempt from the requirement of registration. The 180-day rule applies to foreigners on visas whose continuous stay on a visit, or total stay in a calendar year, goes over 180 days. Since 1 June 2026 they must register any time before day 180, not within 14 days after it. Children under 12 are also exempt from registration."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "India has cut its main visa categories from 13 to **9** and renamed the Tourist Visa the **Visitor Visa**, with **V-1** (30 days, multiple entry) and **V-2** (1, 5 or 10 years). The MHA says visas will be issued under the new system **by year-end**. Until then the current e-Visa still works, and the digital **e-OCI** card is live now."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Announced:** PIB release of 11 November 2026, decision dated 27 August 2026. **Main categories:** 9, with 23 sub-categories. **V-1:** 30 days, multiple entry. **V-2:** 1, 5 or 10 years. **Start:** by year-end 2026, after IT updates. **e-Visa now:** still open on indianvisaonline.gov.in. **e-OCI:** launched 30 June 2026, free download. **Registration:** stays over 180 days must be registered before day 180 (since 1 June 2026). **OCI holders:** exempt from registration."
+      },
+      {
+        "type": "h2",
+        "text": "India new visa rules 2026: what is live and what is not"
+      },
+      {
+        "type": "p",
+        "text": "The new structure is decided but not yet in use for applications. The PIB release says the MHA reduced the main visa categories from 13 to 9 and sub-categories from 49 to 23 on 27 August 2026, and cut the fields in application forms by 65% to 70%. It also says the MHA is updating its IT systems and that **by year-end, visas will be granted as per the new rationalisation**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Live now:** the e-OCI card (since 30 June 2026), online-only OCI applications, and the stricter 180-day registration rule (since 1 June 2026).",
+          "**Announced, not yet live:** the 9 categories, the Visitor Visa with V-1 and V-2, and the shorter forms.",
+          "**Not yet published:** fees, the full list of 23 sub-categories, and how visas already issued will map to the new ones."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Reports conflict",
+        "text": "Some news and agent sites give start dates, fees or stay limits for V-1 and V-2 that the PIB release does not. We have used only what PIB, the Gazette and the official portals say. Treat anything else as unconfirmed until the MHA publishes the new visa pages."
+      },
+      {
+        "type": "h2",
+        "text": "India Visitor Visa V-1 and V-2 explained"
+      },
+      {
+        "type": "p",
+        "text": "The Visitor Visa replaces the Tourist Visa and covers more than holidays. PIB describes the two sub-types:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**V-1:** 30 days, multiple entry. Covers tourism plus short activities such as business meetings, medical consultations, wellness retreats, short medical treatment and short courses in Indian languages, music, art and craft.",
+          "**V-2:** for longer-duration visits, valid for 1, 5 or 10 years as specified. Covers everything under V-1, plus mountaineering, for which a 6-month multiple-entry visa will be granted."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For an NRI family, V-2 sounds like the natural fit for a spouse or child who visits India every year. PIB does not yet say how long each stay can be, which nationalities get 5 or 10 years, or what it costs. Do not plan around those details until the MHA publishes them."
+      },
+      {
+        "type": "h2",
+        "text": "Does the current India e-Visa still work?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. When we checked indianvisaonline.gov.in on 18 November 2026, the e-Visa service was open and still listed the existing types, including e-Tourist, e-Business, e-Medical and e-Miscellaneous. PIB says e-Visa is currently available to nationals of 172 countries. The portal's own country list is slightly longer, so check your nationality there. Current e-Tourist options:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "30 days, multiple entry, cannot be extended.",
+          "1 year, multiple entry.",
+          "5 years, multiple entry.",
+          "On the 1-year and 5-year visas, total stay in a calendar year must not exceed 180 days."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The portal says to apply at least four days before arrival, and each person needs a separate application and passport. If your family is travelling for December or January, apply under the current system now rather than waiting for the new categories."
+      },
+      {
+        "type": "h2",
+        "text": "India visa for foreign spouse of Indian"
+      },
+      {
+        "type": "p",
+        "text": "A foreign spouse has three routes today: an e-Visa, a regular visa, or an OCI card once eligible."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**e-Miscellaneous (e-X1):** listed on the portal for e-Entry purposes, valid 3 months from first entry, multiple entry. It asks for a copy of the Indian spouse's or parent's voter ID or Indian passport (or OCI card), and the birth or marriage certificate.",
+          "**Regular visa through the Indian mission:** under the new framework, PIB says the Miscellaneous Visa covers Persons of Indian Origin and their spouses and children. The sub-type name and fees are not yet published.",
+          "**OCI card:** BOI says a spouse of foreign origin of an Indian citizen or OCI cardholder is eligible once the marriage has been registered and has lasted at least two continuous years. BOI also notes that a spouse-based OCI issued after 3 September 2025 has an initial validity of 5 years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For children, BOI lists a minor child with both parents, or one parent, an Indian citizen as eligible for OCI. For a child who will visit often, OCI is usually less work over the years than repeated visas."
+      },
+      {
+        "type": "h2",
+        "text": "e-OCI card: what it is and how to get it"
+      },
+      {
+        "type": "p",
+        "text": "The e-OCI is a digital version of the OCI card, launched by the MHA on 30 June 2026. The Citizenship (Amendment) Rules, 2026 (G.S.R. 323(E), dated 30 April 2026) allow a cardholder to be issued a physical card or an electronic e-OCI registration, and require new OCI applications to be made online at ociservices.gov.in."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Existing holders log in at ociservices.gov.in with the email linked to their OCI record, open the e-OCI tab and click Generate e-OCI Card.",
+          "The download is free, up to five times a day.",
+          "BOI says you can show the e-OCI on your phone at immigration check posts and to airlines.",
+          "The official FAQ says the e-OCI does not change the validity or status of your existing OCI card.",
+          "If your OCI record has no email, create a new account and use the Email ID Updation service with your OCI number, date of birth and linked passport number."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "OCI card update 2026: new passport and other changes"
+      },
+      {
+        "type": "p",
+        "text": "You no longer need a new OCI booklet when you get a new passport after age 20, but you must update your passport details online. PIB said this when the e-OCI was launched. The e-OCI FAQ adds that the e-OCI shows new passport particulars only after the update is approved. Two more points from the April 2026 rules matter for families:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "OCI applications no longer need documents in duplicate.",
+          "Parents registering a minor child as an Indian citizen must note that the child cannot hold another country's passport while also holding an Indian passport."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Our separate OCI guide covers fees and the passport update process."
+      },
+      {
+        "type": "h2",
+        "text": "The new 180-day registration rule"
+      },
+      {
+        "type": "p",
+        "text": "If a family member on a visa needs to stay in India beyond 180 days, they must now register with the FRRO before day 180, not after. The Immigration and Foreigners (Amendment) Rules, 2026 (G.S.R. 424(E), 1 June 2026) replaced the words allowing registration within 14 days after the 180 days with any time before the 180 days run out. All India Radio reported that late registration is now allowed only in emergent circumstances. BOI's registration page sets out who must register:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Any visa holder (except on official or diplomatic passports) whose continuous stay on a visit, or total stay in a calendar year, exceeds 180 days.",
+          "Student, Employment, Medical and missionary visa holders with visas valid over 180 days: within 14 days of arrival.",
+          "Exempt: OCI cardholders and children under 12."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The same June rules add that if a child with an Indian citizen parent later acquires foreign citizenship while in India, a parent must inform the Registration Officer within 30 days."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team at the Vastrapur, Ahmedabad office helps NRI families plan visits to India: which visa or OCI route fits a foreign spouse or child, the documents, and the timing around the switch to the new categories. We file for clients across India and will update this guide when the new visa forms go live."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 18 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 18 November 2026. Before applying, re-check the PIB release of 11 November 2026, indianvisaonline.gov.in, ociservices.gov.in and boi.gov.in. We could not open mha.gov.in pages directly for this update; when the MHA publishes the new visa pages, fees and start date, we will revise this post."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Press Information Bureau: Government of India rationalizes Indian visa regime (11 November 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335182"
+      },
+      {
+        "label": "Press Information Bureau: Union Home Minister launches FCRA 2.0 Portal and e-OCI Card (30 June 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2279410"
+      },
+      {
+        "label": "Gazette of India: Citizenship (Amendment) Rules, 2026, G.S.R. 323(E)",
+        "url": "https://egazette.gov.in/WriteReadData/2026/272180.pdf"
+      },
+      {
+        "label": "Gazette of India: Immigration and Foreigners (Amendment) Rules, 2026, G.S.R. 424(E)",
+        "url": "https://egazette.gov.in/WriteReadData/2026/273046.pdf"
+      },
+      {
+        "label": "OCI Services portal: e-OCI Card FAQs",
+        "url": "https://ociservices.gov.in/onlineOCI/eOCICardFAQs"
+      },
+      {
+        "label": "Bureau of Immigration: About PIO/OCI Card",
+        "url": "https://boi.gov.in/boi/contents/visa-oci/pio-oci-card-holders/about-pio-oci-card"
+      },
+      {
+        "label": "Bureau of Immigration: Registration Requirements",
+        "url": "https://boi.gov.in/boi/contents/registration-authority/registration-of-foreign-nationals/registration-requirements"
+      },
+      {
+        "label": "Indian Visa Online: e-Visa",
+        "url": "https://indianvisaonline.gov.in/evisa/tvoa.html"
+      },
+      {
+        "label": "All India Radio News: MHA revises immigration rules, registration timeline",
+        "url": "https://newsonair.gov.in/mha-revises-immigration-rules-allows-flexible-registration-timeline/"
+      }
+    ]
+  },
+  {
     "slug": "us-visa-for-parents-from-india-2026",
     "title": "US Visa for Parents from India (2026): Documents, Interview Questions and Refusal Risks",
     "metaTitle": "US Visa for Parents from India: 2026 Guide | Travlys",
@@ -5681,9 +6204,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=1600&h=900&fit=crop",
     "related": [
+      "india-new-visitor-visa-e-oci-2026-nri-guide",
       "indian-e-passport-2026-how-to-apply",
-      "us-visa-from-india-2026-complete-guide",
-      "uk-visa-for-indians-2026-fees-processing-time"
+      "us-visa-from-india-2026-complete-guide"
     ],
     "faqs": [
       {
@@ -8432,9 +8955,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1578556881786-851d4b79cb73?w=1600&h=900&fit=crop",
     "related": [
+      "nepal-bhutan-passport-rule-indians-third-country-2026",
       "visa-free-countries-for-indians-2026",
-      "sri-lanka-eta-for-indians-2026",
-      "indian-e-passport-2026-how-to-apply"
+      "sri-lanka-eta-for-indians-2026"
     ],
     "faqs": [
       {
@@ -14366,7 +14889,7 @@ export const BLOG_POSTS = [
     "metaDescription": "UK visitor visa for Indians in 2026 costs £135 for 6 months. Decisions take about 3 weeks, or 5 days with priority. Fees, VFS centres, documents and refusals.",
     "excerpt": "Indians need a UK Standard Visitor visa, not an ETA. Here are the 2026 fees, processing times in India, VFS centres, the documents that help, the common refusal reasons and what the India-UK trade deal changes.",
     "date": "2026-10-25",
-    "updated": "2026-11-14",
+    "updated": "2026-11-18",
     "readMinutes": 8,
     "category": "Country guides",
     "tags": [
@@ -14401,6 +14924,10 @@ export const BLOG_POSTS = [
       {
         "q": "How long does a UK visitor visa take from India?",
         "a": "Usually about 3 weeks after your biometrics appointment at the visa application centre, according to GOV.UK. If you pay £500 for priority, most decisions come within 5 working days. Super priority, at £1,000, aims for a decision by the end of the next working day. The earliest you can apply is 3 months before you travel."
+      },
+      {
+        "q": "What is the UK visa fast track (priority) fee in India?",
+        "a": "UK fast track is sold as two add-ons on top of the £135 visa fee. Priority Visa costs £500 and usually gives a decision within 5 working days. Super Priority costs £1,000 and usually gives a decision by the end of the next working day. The clock starts after your biometrics. Some centres charge the add-on in rupees, and not every Indian centre offers Super Priority, so check when you book."
       },
       {
         "q": "Do Indians need an ETA for the UK?",
@@ -14681,6 +15208,14 @@ export const BLOG_POSTS = [
       {
         "label": "Business.gov.uk: The UK-India trade deal",
         "url": "https://www.business.gov.uk/campaign/alive-with-opportunity/the-uk-india-trade-deal/"
+      },
+      {
+        "label": "GOV.UK: Get a faster decision on your visa, applying from outside the UK",
+        "url": "https://www.gov.uk/faster-decision-visa-settlement/applying-from-outside-the-uk"
+      },
+      {
+        "label": "VFS Global: UK optional services in India",
+        "url": "https://visa.vfsglobal.com/ind/en/gbr/optional-services-uk"
       }
     ]
   },
@@ -17625,9 +18160,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=1600&h=900&fit=crop",
     "related": [
+      "nepal-bhutan-passport-rule-indians-third-country-2026",
       "easiest-visa-to-get-for-indians-2026",
-      "countries-visa-free-for-indians-with-us-visa-2026",
-      "thailand-visa-free-for-indians-2026"
+      "countries-visa-free-for-indians-with-us-visa-2026"
     ],
     "cta": {
       "slug": "uae-visa",

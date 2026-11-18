@@ -463,11 +463,20 @@ export function getHomeMeta() {
 // City × country meta. Targets queries like "USA visa from Mumbai" or
 // "Schengen visa from Bengaluru" with their own static HTML, title,
 // description and structured data.
+// The names people type in searches ("dubai visa from ahmedabad", "schengen
+// visa ahmedabad"), used in city page titles.
+const CITY_TITLE_NAME = {
+  'usa-visa': 'US',
+  'uk-visa': 'UK',
+  'uae-visa': 'Dubai (UAE)',
+  'netherlands-visa': 'Schengen (Netherlands)',
+}
+
 export function getCityVisaMeta(dest, city) {
   const pagePath = `/visa/${dest.slug}/from/${city.slug}`
   const heroImage = dest.heroImage || dest.image
   return {
-    title: `${dest.name} Visa from ${city.name}: Apply with Travlys (${city.state})`,
+    title: `${CITY_TITLE_NAME[dest.slug] || dest.name} Visa from ${city.name}: Price, Documents and Agent (${city.state})`,
     description:
       `Apply for a ${dest.name} visa from ${city.name}, ${city.state} with Travlys. ` +
       `${dest.processingTime} processing, decided by ${getVisaRoute(dest, city).decidedBy.replace(/^the /, '').split(',')[0]}. ` +
@@ -478,6 +487,8 @@ export function getCityVisaMeta(dest, city) {
       `${dest.name.toLowerCase()} visa ${city.name.toLowerCase()}`,
       `${dest.name.toLowerCase()} visa consultants ${city.name.toLowerCase()}`,
       `${dest.name.toLowerCase()} visa agent ${city.name.toLowerCase()}`,
+      `${(CITY_TITLE_NAME[dest.slug] || dest.name).toLowerCase()} visa ${city.name.toLowerCase()} price`,
+      `${city.name.toLowerCase()} to ${(CITY_TITLE_NAME[dest.slug] || dest.name).toLowerCase().replace(/ \(.*\)/, '')} visa price`,
       `${dest.name.toLowerCase()} visa appointment ${city.name.toLowerCase()}`,
       `vfs ${city.name.toLowerCase()}`,
       `${city.name.toLowerCase()} ${dest.name.toLowerCase()} visa cost`,
@@ -609,8 +620,21 @@ export function getVisaRoute(dest, city) {
   return r || { decidedBy: `the ${dest.name} immigration authorities`, inPerson: null, centre: 'Ask Travlys' }
 }
 
+// Visa centres that serve Gujarat applicants, checked on the operators' official
+// pages on 15 Nov 2026. Most are in one Ahmedabad building. Used for every
+// Gujarat city page, since "vfs ahmedabad address" style searches land there.
+const AGORA = 'Shree Balaji Agora Mall, between Tapovan and Bhat Circle, SP Ring Road, Motera, Ahmedabad 382424'
+const GUJARAT_VAC = {
+  'usa-visa': `There is no US Visa Application Centre in Gujarat: Gujarat comes under the US Consulate General in Mumbai, so biometrics and interviews are in Mumbai. Interview-waiver (dropbox) applicants can hand in documents at the US document drop-off at ${AGORA}.`,
+  'uk-visa': `The VFS Global UK visa application centre for Gujarat is on the first floor of ${AGORA}.`,
+  'canada-visa': `The VFS Global Canada visa application centre for Gujarat is on the ground floor of ${AGORA}. Biometrics given there stay valid for 10 years.`,
+  'australia-visa': `If Home Affairs asks for biometrics, Gujarat applicants go to the Australian Biometric Collection Centre (VFS Global) on the ground floor of ${AGORA}.`,
+  'netherlands-visa': `The VFS Global Netherlands visa application centre for Gujarat is on the ground floor of ${AGORA}.`,
+}
+
 export function getCityVisaFaqs(dest, city) {
   const route = getVisaRoute(dest, city)
+  const gvac = city.state === 'Gujarat' && GUJARAT_VAC[dest.slug]
   return [
     {
       q: `Do I need to visit a visa centre in ${city.name} for a ${dest.name} visa?`,
@@ -618,6 +642,12 @@ export function getCityVisaFaqs(dest, city) {
         ? `Yes, for ${route.inPerson}. Travlys books the earliest slot at the centre that serves ${city.name} applicants and confirms the exact address on your appointment letter.`
         : `No. ${city.name} applicants do not need to visit a visa centre for ${dest.name}; Travlys files everything remotely and sends you the result.`,
     },
+    ...(gvac
+      ? [{
+          q: `Where is the ${dest.name.replace(/^Schengen \(Netherlands\)$/, 'Netherlands (Schengen)')} visa centre for ${city.name} applicants?`,
+          a: `${gvac} Always confirm the address and floor on your appointment letter. Travlys is in Vastrapur, Ahmedabad, and books the slot and prepares the file before you go.`,
+        }]
+      : []),
     {
       q: `Who decides a ${dest.name} visa for applicants from ${city.name}?`,
       a: `${dest.name} visas for ${city.name} (${city.state}) applicants are decided by ${route.decidedBy}.`,
