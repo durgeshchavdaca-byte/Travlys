@@ -554,7 +554,7 @@ const VISA_ROUTES = {
     centre: 'None, applied online',
   },
   'malaysia-visa': {
-    decidedBy: 'Malaysian immigration at arrival: Indians are visa-free until 31 December 2026 and only file the free MDAC arrival card',
+    decidedBy: 'Malaysian immigration: Indians are visa-free until 31 December 2026 (free MDAC arrival card only); from 1 January 2027 a Malaysia eVISA is needed',
     inPerson: null,
     centre: 'None, visa-free',
   },

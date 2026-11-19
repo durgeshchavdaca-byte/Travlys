@@ -8,6 +8,1324 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "malaysia-visa-for-indians-2027-evisa",
+    "title": "Malaysia Visa for Indians 2027: Visa-Free Ends 31 December, How to Get the eVISA",
+    "metaTitle": "Malaysia Visa for Indians 2027: eVISA Fees, Dates | Travlys",
+    "metaDescription": "Malaysia visa-free entry for Indians ends 31 Dec 2026. From 1 Jan 2027 you need an eVISA, open from 1 Dec, costing about RM 156. Dates, fees, photo, cases.",
+    "excerpt": "Malaysia's visa-free entry for Indians ends on 31 December 2026. Here is what the official notice says, what it costs, and what it means for New Year, side-trip and Chinese New Year plans.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "Visa rule updates",
+    "tags": [
+      "Malaysia",
+      "eVISA",
+      "Visa-free",
+      "New Year 2027",
+      "Chinese New Year",
+      "Visa photo"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1600&h=900&fit=crop",
+    "related": [
+      "malaysia-visa-free-for-indians-2026",
+      "malaysia-new-year-trip-2026-27-visa-free-end-date",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "malaysia-visa",
+      "label": "Get your Malaysia eVISA filed"
+    },
+    "faqs": [
+      {
+        "q": "Is Malaysia visa free for Indians in 2027?",
+        "a": "No. Malaysia's Immigration Department says visa-free entry for Indians ends on 31 December 2026. From 1 January 2027, Indian passport holders need a valid visa before they arrive. Apply online on the official MyVISA portal, malaysiavisa.imi.gov.my, which opens to Indian applicants from 1 December 2026. The date that counts is the day you enter Malaysia, not the day you booked, so a trip booked months ago still needs a visa if you land in 2027."
+      },
+      {
+        "q": "Has Malaysia visa free for Indians been extended beyond December 2026?",
+        "a": "No, there is no extension. On 17 November 2026 JIM posted a notice saying the visa exemption for Indian nationals will no longer be available from 1 January 2027. Its country table also lists Indians as visa-exempt only until 31 December 2026. Posts about an extension usually refer to the earlier extension that ran to 31 December 2026. Check the date on anything you read before you rely on it."
+      },
+      {
+        "q": "What is the Malaysia visa fee for Indians in 2027?",
+        "a": "The official cost is about RM 156, roughly ₹3,600, on the MyVISA portal. That is a RM 50 visa fee for Indian nationals, a RM 105 processing charge, and a 0.8% convenience charge if you pay by card (1.7% by e-wallet). Payment is online only. Every payment is non-refundable, even if the visa is refused or your plans change, so check your details and documents carefully before paying."
+      },
+      {
+        "q": "What is the Malaysia visa photo size for Indian applicants?",
+        "a": "The Malaysia eVISA photo must be 35 mm wide and 50 mm high, on a plain white background, with no border. Your head should measure 30 to 35 mm from chin to crown, with about 5 mm above the head. It must be a studio photo taken in the last six months, with eyes open and a neutral expression. Selfies and scanned photos are rejected, and so is the common Indian 35 x 45 mm size."
+      },
+      {
+        "q": "I reach Malaysia on 31 December and return on 10 January. Do I need a visa?",
+        "a": "If you clear Malaysian immigration on 31 December 2026, you enter under the visa-free rules, which allow up to 30 days per visit. The new visa rule applies to entries from 1 January 2027. Check your landing time: Malaysia is 2.5 hours ahead of India, so a late flight on 31 December can land on 1 January. If you leave Malaysia and come back in January, you need a visa for that re-entry."
+      },
+      {
+        "q": "How many days does the Malaysia eVISA take for Indians?",
+        "a": "The MyVISA portal says processing takes 2 to 7 working days. That excludes weekends and Malaysian public holidays, and it does not count time spent on queries or extra documents. The portal recommends applying at least 14 days before you travel. For trips over Chinese New Year 2027, apply in January once flights and hotels are confirmed, because public holidays and higher demand can push decisions closer to your travel date."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Booked a Malaysia trip over New Year or in February? This is the change that matters. Malaysia's Immigration Department (JIM) says visa-free entry for Indians ends on **31 December 2026**. Anyone entering from **1 January 2027** needs a valid visa before arrival. Applications open on the MyVISA portal on **1 December 2026**. The official charges come to about **RM 156 (about ₹3,600)**, and none of it is refundable."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa-free entry for Indians:** until 31 December 2026 (JIM country table). **From 1 January 2027:** visa required before arrival (JIM notice, 17 November 2026). **Where to apply:** malaysiavisa.imi.gov.my (MyVISA), open from 1 December 2026. **Tourist visa type:** Single Entry Visa (SEV). **Official cost:** RM 50 visa fee + RM 105 processing charge + 0.8% card charge, about RM 156 (about ₹3,600). **Processing:** 2 to 7 working days; MyVISA advises applying at least 14 days before travel. **Photo:** 35 mm x 50 mm, plain white background, studio photo. **Arrival card:** MDAC within 3 days before arrival, still required. **Refunds:** none, whatever the outcome."
+      },
+      {
+        "type": "h2",
+        "text": "Malaysia visa free end date: what the 17 November notice says"
+      },
+      {
+        "type": "p",
+        "text": "The notice says plainly that the visa exemption for Indian nationals stops from 1 January 2027. It was posted on the official MyVISA portal on 17 November 2026 under the title \"Notice on Visa Facility for Indian Nationals\", in English and Malay."
+      },
+      {
+        "type": "p",
+        "text": "It makes four points:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The visa exemption facility for Indian nationals will no longer be available from **1 January 2027**.",
+          "Indian nationals entering Malaysia from that date must obtain a **valid visa before arrival**.",
+          "Visa applications can be submitted through the MyVISA portal from **1 December 2026**.",
+          "All visa processing fees paid are **non-refundable**, regardless of the result, a change of policy or a change in your travel plans."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "JIM's own \"Visa Requirement by Country\" page agrees. It lists India among the countries that need a visa, with a note that Indian citizens are exempt **until 31 December 2026**. The MyVISA FAQ says the same: the exemption for Indians ran from 1 December 2023 to 31 December 2026."
+      },
+      {
+        "type": "p",
+        "text": "On 19 November 2026 the notice was on the MyVISA portal, which JIM runs. It was not yet on the imi.gov.my announcements list or the New Delhi High Commission's news page."
+      },
+      {
+        "type": "h2",
+        "text": "Malaysia visa free extended? No"
+      },
+      {
+        "type": "p",
+        "text": "No. There is no extension for 2027. Many people expected one because earlier extensions were announced. This time JIM has said the opposite, in writing. If you see a post saying \"Malaysia visa free extended to 2027\", check the date on it. It is almost certainly about the earlier extension to 31 December 2026."
+      },
+      {
+        "type": "h2",
+        "text": "What happens to my December-January trip?"
+      },
+      {
+        "type": "p",
+        "text": "What counts is the day you **enter** Malaysia. Entry on or before 31 December 2026 is under the old visa-free rules. Entry on or after 1 January 2027 needs a visa. Here are the cases we are being asked about most."
+      },
+      {
+        "type": "h3",
+        "text": "Arriving on 30 or 31 December, leaving in January"
+      },
+      {
+        "type": "p",
+        "text": "If you clear Malaysian immigration on 30 or 31 December, you enter visa-free under the rules in force that day. The High Commission of India in Kuala Lumpur describes the visa-free stay as **up to 30 days per visit**. The JIM notice ties the visa requirement to entry from 1 January. It does not say anything about people who are already inside on that date. So the stay the officer gives you at entry is what counts. Keep your whole stay inside 30 days and carry your confirmed return ticket."
+      },
+      {
+        "type": "p",
+        "text": "Watch the clock. Malaysia is 2 hours 30 minutes ahead of India. A flight leaving Mumbai or Ahmedabad late on 31 December often lands in Kuala Lumpur on the morning of 1 January. That is a 2027 entry, and you need a visa. A delay that pushes you past midnight Malaysian time does the same. If your arrival is close to midnight, either move the flight earlier or apply for the eVISA anyway."
+      },
+      {
+        "type": "h3",
+        "text": "Side trips to Singapore or Thailand and re-entering in January"
+      },
+      {
+        "type": "p",
+        "text": "Every time you come back into Malaysia, it counts as a new entry. Say you enter in December, go to Singapore or Thailand, and come back on or after 1 January. You need a visa for that return entry. Your December entry does not cover it."
+      },
+      {
+        "type": "p",
+        "text": "Three rules from the MyVISA FAQ make side trips tricky:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The tourist eVISA for Indians is a **Single Entry Visa**. The Multiple Entry Visa was limited from 1 September 2026 to Fly & Cruise, Business, Medical Treatment and Wedding Tourism purposes. It is not offered for ordinary tourism.",
+          "You **cannot apply from inside Malaysia**. You can apply while in another country if you show proof that you are staying there.",
+          "When a new eVISA is approved, **any earlier visa that is still active is automatically cancelled**. Do not apply for a second visa before you have used the first one."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The simplest fix is to rework the itinerary so you enter Malaysia only once in 2027. For example, do Singapore or Bangkok first and fly into Kuala Lumpur last. If you must enter Malaysia twice in January, plan two separate single-entry visas, applied for at the right times."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Families doing Kuala Lumpur, Singapore and back to Kuala Lumpur for the flight home are the ones most likely to get caught. Many of them think of the last Malaysian leg as \"just the airport\". If you leave immigration to go to a hotel, you need a visa for that entry."
+      },
+      {
+        "type": "h3",
+        "text": "Trips booked for Chinese New Year 2027"
+      },
+      {
+        "type": "p",
+        "text": "Chinese New Year falls in February 2027, so these trips are fully under the new rules. Everyone in your group needs an eVISA, children included. Do not leave it to the last week. Processing is 2 to 7 working days. That does not count weekends or Malaysian public holidays, and Chinese New Year is a public holiday in Malaysia. Any query on your file stops the clock. Apply in January, once your flights and hotels are confirmed. Do not wait until the week before travel."
+      },
+      {
+        "type": "h3",
+        "text": "Transit and layovers in January"
+      },
+      {
+        "type": "p",
+        "text": "If your layover means clearing immigration, for example to collect bags and re-check them, you need a visa. For a short layover with no overnight stay, the MyVISA FAQ says to give the airport's address and upload a cover letter explaining the layover. Ask your airline whether your connection stays airside."
+      },
+      {
+        "type": "h2",
+        "text": "Malaysia eVISA for Indians: which visa to apply for"
+      },
+      {
+        "type": "p",
+        "text": "For tourism, family visits or a short business trip, you apply for a **Visa Without Reference (VTR)** on MyVISA. For Indians this is a **Single Entry Visa (SEV)**. MyVISA's eligibility checker shows that the SEV is the visa Indians can apply for. The FAQ lists India among the 31 nationalities for whom an eVISA is compulsory for social visits."
+      },
+      {
+        "type": "p",
+        "text": "Work, study and long stays use a different route, the Visa With Reference (VDR). You need an approval letter from the Malaysian authorities before you apply."
+      },
+      {
+        "type": "p",
+        "text": "How long can you stay? The MyVISA FAQ says the stay on a single-entry visa depends on your nationality. It does not give a figure for Indians, and we could not find one on any official page. The officer at the airport decides the stay at entry. Until JIM publishes a figure, plan for 30 days or less. Overstaying can bring fines and refusal of entry on later visits."
+      },
+      {
+        "type": "p",
+        "text": "Validity: the FAQ says you do not need to apply again if your travel date changes, as long as the new date is within six months of the visa's issue date."
+      },
+      {
+        "type": "h2",
+        "text": "Malaysia visa fees for Indian passport holders"
+      },
+      {
+        "type": "p",
+        "text": "The official cost for an Indian on MyVISA is about **RM 156**. That is about ₹3,600 at roughly ₹23 per ringgit in mid-November 2026. The charges are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa fee:** RM 50 (JIM's visa fee table, single or multiple entry, for India).",
+          "**Processing charge:** RM 105 (MyVISA FAQ).",
+          "**Convenience charge:** 0.8% of the total if you pay by card, or 1.7% by e-wallet.",
+          "**Total by card:** about RM 156.24 (about ₹3,600)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Payment is online only, by credit card or e-wallet. **Every payment is non-refundable**, including when the visa is refused, so check everything before you pay. Your bank may add its own foreign transaction charge."
+      },
+      {
+        "type": "p",
+        "text": "Applications left in \"New Application\" or \"Pending Payment\" status for more than 7 working days expire automatically, under a rule in force since 1 October 2026."
+      },
+      {
+        "type": "p",
+        "text": "The Malaysian High Commission in New Delhi lists its own visa fee as ₹1,250 from July 2026, but the 17 November notice names MyVISA as the place to apply."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for the Malaysia eVISA from India"
+      },
+      {
+        "type": "p",
+        "text": "MyVISA's checklist for a Visa Without Reference asks for:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport-size studio photo (see the photo rules below).",
+          "Passport bio page, valid for **more than six months** from your travel date to Malaysia.",
+          "The passport page showing your previous passport number, if you have one.",
+          "Round-trip flight ticket or proof of onward journey.",
+          "Proof of paid accommodation or a hotel booking for the whole stay.",
+          "Proof of financial support. The FAQ asks for bank statements for the **last three months**.",
+          "Birth certificate for children.",
+          "Other supporting documents, such as a cover letter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A few practical rules from the same FAQ:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your passport needs at least **three blank pages**.",
+          "If you have several tickets or hotel bookings, merge them into **one file** for each upload field.",
+          "Staying with friends or family? Upload a cover letter addressed to the Immigration Officer. Include your details, the Malaysian address, and your host's name, identity card number and phone number.",
+          "Everything you type must match your passport exactly. A visa with a mismatch is treated as invalid, and the fee is gone."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "At the airport, carry your passport, the eVISA (printed on A4 or shown on your phone), your boarding pass, a confirmed return ticket and proof of paid accommodation. An eVISA does not guarantee entry. The officer at the border has the final say."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The files that go through cleanly have the same name spelling on the passport, ticket, hotel booking and bank statement. A missing middle name on an airline booking is the small thing that causes queries."
+      },
+      {
+        "type": "h2",
+        "text": "Malaysia visa photo size and rules"
+      },
+      {
+        "type": "p",
+        "text": "The Malaysia eVISA photo must be **35 mm wide x 50 mm high** on a **plain white background**. The MyVISA portal says photos that do not meet these rules lead to rejection:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Full face, front view, eyes open, neutral expression.",
+          "Head height 30 to 35 mm, measured from chin to crown.",
+          "Top margin of about 5 mm and a chin margin of 5 to 10 mm.",
+          "No head covering, except for religious reasons, and the face must stay fully visible.",
+          "No border or frame. Clear and sharp, not tilted, blurred or too small.",
+          "A studio photo taken within the last six months. Selfies and scanned photos are not allowed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Run your photo through the checker on the MyVISA home page before you upload. The common Indian 35 x 45 mm photo is the wrong height for Malaysia, so ask the studio for 35 x 50 mm."
+      },
+      {
+        "type": "h2",
+        "text": "Is eNTRI still available for Indians?"
+      },
+      {
+        "type": "p",
+        "text": "Do not count on it. JIM still has an \"eNTRI for Indian Nationals\" page. But the page's own text describes a facility open from 1 April 2017 to 31 March 2018, with a 15-day stay. Nothing on JIM or MyVISA says eNTRI will be offered from 2027. The 17 November notice tells Indians to get a valid visa through MyVISA. Treat the eNTRI page as old content."
+      },
+      {
+        "type": "h2",
+        "text": "Malaysia Digital Arrival Card (MDAC): still required"
+      },
+      {
+        "type": "p",
+        "text": "Yes. The visa does not replace the arrival card. JIM says the MDAC has been mandatory for foreign visitors since 1 January 2024, with narrow exceptions such as Singapore citizens and diplomatic passport holders. Indians are not exempt."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Submit it on imigresen-online.imi.gov.my/mdac **within 3 days before arrival**.",
+          "Show the MDAC registration and your passport at the immigration counter.",
+          "The same site has a \"Check Visit Pass\" option, so you can see the stay you were given after you enter."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes we expect to see in January"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Booking a late-night 31 December flight that lands on 1 January, with no visa.",
+          "Applying for a second visa before using the first, which cancels the first.",
+          "Using a look-alike website. MyVISA says malaysiavisa.imi.gov.my is the only official eVISA site.",
+          "Uploading a 35 x 45 mm photo or a phone selfie.",
+          "Applying days before travel in Chinese New Year week.",
+          "Skipping the MDAC because \"we have a visa now\"."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team prepares your Malaysia eVISA file and submits it on the official MyVISA portal. That includes the correct photo, merged bookings, bank statements and any cover letter, and we plan New Year arrivals and side trips so you do not pay twice. Our service fee starts at ₹999, plus the official charges. We work from 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file for clients across India. Family abroad can brief us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 19 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "All the official sources listed below were checked on this date. Before you pay, re-check the MyVISA home page and FAQ for the stay length for Indians and the charges, and JIM's visa requirement page for the India note. JIM says it can change entry rules at any time."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration Department of Malaysia (MyVISA): Notice on Visa Facility for Indian Nationals, 17 November 2026",
+        "url": "https://malaysiavisa.imi.gov.my/"
+      },
+      {
+        "label": "Immigration Department of Malaysia (MyVISA): Frequently Asked Questions",
+        "url": "https://malaysiavisa.imi.gov.my/faq"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa Requirement by Country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa Fees",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-fees/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Multiple Entry Visa (MEV) no longer available for all nationalities",
+        "url": "https://www.imi.gov.my/index.php/pengumuman/multiple-entry-visa-mev-tidak-lagi-tersedia-untuk-semua-warganegara/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: eNTRI for Indian Nationals",
+        "url": "https://www.imi.gov.my/index.php/perkhidmatan-utama/visa/evisa/entri-bagi-warga-india/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Malaysia Digital Arrival Card (MDAC)",
+        "url": "https://imigresen-online.imi.gov.my/mdac/main"
+      },
+      {
+        "label": "High Commission of India, Kuala Lumpur: Indian nationals getting stranded in Malaysia (17 July 2026)",
+        "url": "https://hcikl.gov.in/pdf/indian-nationals-getting-stranded-in-malaysia.pdf"
+      },
+      {
+        "label": "High Commission of Malaysia, New Delhi: Revision of Malaysian Visa Fees (effective July 2026)",
+        "url": "https://www.kln.gov.my/web/ind_new-delhi/post/notice-revision-of-malaysian-visa-fees-effective-july-2026-"
+      }
+    ]
+  },
+  {
+    "slug": "uae-visa-for-parents-from-india-2026",
+    "title": "UAE Visa for Parents from India 2026: Visit Visa, Salary Rules and Parents' Residence",
+    "metaTitle": "Visa for Parents in UAE 2026: Salary Rules, Fees | Travlys",
+    "metaDescription": "Visa for parents in UAE: a resident child earning AED 4,000 a month can sponsor a 30 to 90-day visit visa. Dubai parents' residence needs AED 10,000.",
+    "excerpt": "UAE residents can sponsor their parents on a 30, 60 or 90-day visit visa with a salary of AED 4,000, or for a one-year renewable residence in Dubai at AED 10,000. Fees, documents, a sample letter and the mistakes we see.",
+    "date": "2026-11-19",
+    "updated": "2026-11-19",
+    "readMinutes": 9,
+    "category": "Country guides",
+    "tags": [
+      "UAE",
+      "Dubai",
+      "Parents visa",
+      "Visit visa",
+      "Family residence",
+      "Salary requirement"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
+    "related": [
+      "dubai-visa-cost-from-india-2026",
+      "uae-visa-on-arrival-for-indians-2026",
+      "us-visa-for-parents-from-india-2026"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Get your parents' UAE visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Can I sponsor my parents visit visa in Dubai with 4000 salary?",
+        "a": "Yes. ICP sets AED 4,000 a month as the minimum income for a UAE resident hosting a first-degree relative, which includes father and mother, on a visit visa. You need proof of kinship and an active sponsor file. The visa allows 30, 60 or 90 days and can be extended up to 120 days in total. AED 4,000 does not cover parents' residence, which GDRFA lists at AED 10,000 a month in Dubai."
+      },
+      {
+        "q": "What is the salary requirement to sponsor parents in UAE?",
+        "a": "For a visit visa, AED 4,000 a month (ICP). For a one-year residence permit for parents in Dubai, GDRFA lists a salary certificate or contract showing at least AED 10,000 a month, plus an attested tenancy contract and three months of bank statements. The often quoted AED 20,000 comes from older guidance. For residence in other emirates, no parent-specific figure was on ICP's page, so confirm with ICP first."
+      },
+      {
+        "q": "How long can parents stay in Dubai on visit visa?",
+        "a": "Up to 90 days on one visa, and longer with extensions. ICP issues relative visit visas for 30, 60 or 90 days and says they can be extended one or more times, up to a total stay of 120 days. Your parents must enter within 60 days of the visa being issued. For longer stays, consider the parents' residence permit or the 5-year multiple-entry tourist visa, which allows up to 90 days per visit."
+      },
+      {
+        "q": "How much does a UAE visit visa for parents cost?",
+        "a": "In Dubai, GDRFA charges AED 200, 300 or 400 for a 30, 60 or 90-day single-entry relative visa, plus 5% VAT. Add a refundable AED 1,000 deposit, AED 60 in deposit fees and medical insurance of AED 40 to 90. A 90-day visa therefore costs roughly AED 1,570 upfront, about ₹37,700, with AED 1,000 returned after your parents leave without any violation."
+      },
+      {
+        "q": "Can I get a residence visa for my parents in UAE?",
+        "a": "Yes, but it is not the standard family visa. In Dubai, GDRFA issues a one-year renewable residence permit for parents under its humanitarian cases service. You need a salary of at least AED 10,000, an attested tenancy contract, three months of bank statements and an AED 5,000 guarantee per approved request. A committee decides case by case. Golden visa holders can sponsor parents directly, according to ICP."
+      },
+      {
+        "q": "Do my parents need to apply for UAE visa from India?",
+        "a": "No. For a relative visit visa, you apply from the UAE through the ICP or GDRFA smart services, or at an Amer centre in Dubai. Your parents only send scans of their passports and photos, plus proof that you are their child. The e-visa is issued online, usually within 2 working days, and your parents carry a printout. They should not book flights until the visa is issued."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If you work in Dubai, Abu Dhabi or Sharjah and your parents are in India, you do most of the paperwork, not them. As a UAE resident you can sponsor a **30, 60 or 90-day** visit visa if you earn at least **AED 4,000** a month. To keep them longer, Dubai's GDRFA lists a **one-year renewable** residence permit for parents that needs a salary of **AED 10,000**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visit visa sponsored by you:** 30, 60 or 90 days, extendable up to 120 days in total (ICP). **Salary to host a parent on a visit visa:** AED 4,000 a month (ICP, first-degree relative). **Dubai single-entry visit visa fee:** AED 200, 300 or 400 plus 5% VAT, plus a refundable AED 1,000 deposit (GDRFA). **Parents' residence in Dubai:** one year, renewable, salary of at least AED 10,000, committee decision (GDRFA). **Processing:** about 48 hours for a Dubai visit visa, about 14 days for a parents' residence permit. **Who applies:** you, online from the UAE, through ICP, GDRFA or an Amer centre."
+      },
+      {
+        "type": "h2",
+        "text": "Visa for parents in Dubai: what are the options?"
+      },
+      {
+        "type": "p",
+        "text": "There are three practical routes, and which one fits depends on how long your parents want to stay and what you earn."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visit visa for a relative, sponsored by you:** the usual route. You apply from the UAE, your parents get an e-visa by email, and they fly.",
+          "**Tourist visa:** arranged through a UAE airline, hotel or licensed travel agent, or the 5-year multiple-entry tourist visa, which your parents hold on their own.",
+          "**Residence permit for parents:** a one-year renewable permit, meant for parents who will live with you. It has the strictest conditions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A fourth case: if your parents already hold a valid US visa or green card, or a UK or EU visa or residence permit, ICP lists a **14-day** visa for Indian nationals at **AED 200** (about ₹4,800), extendable once. Many parents do not hold these, so the sponsored visit visa is where we start."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visit visa for parents: fees, stay and processing"
+      },
+      {
+        "type": "p",
+        "text": "The resident child applies, and the visa is usually issued within 2 working days. ICP (for Abu Dhabi, Sharjah and the other emirates) and GDRFA (for Dubai residents) both run this service. ICP says the stay can be 30, 60 or 90 days, can be extended up to a total of 120 days, and your parents must enter within 60 days of the visa being issued."
+      },
+      {
+        "type": "h3",
+        "text": "GDRFA Dubai fees for a single-entry relative visit visa"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "30 days: AED 200 (about ₹4,800), plus 5% VAT.",
+          "60 days: AED 300 (about ₹7,200), plus 5% VAT.",
+          "90 days: AED 400 (about ₹9,600), plus 5% VAT.",
+          "Security deposit: AED 1,000 (about ₹24,000), plus AED 20 service and AED 40 collection fees.",
+          "Medical insurance: AED 40, 60 or 90 for 30, 60 or 90 days.",
+          "Multiple-entry version: AED 300, 500 or 700, with an AED 2,000 deposit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "GDRFA says the total can change with circumstances, and the expected completion time is 48 hours. For residents of other emirates, ICP lists an application fee, issuance fee and smart service fee of AED 100 each, and a refundable guarantee of AED 1,000 for single entry or AED 2,000 for multiple entry. ICP refunds the guarantee after your parents leave, if there were no violations."
+      },
+      {
+        "type": "h2",
+        "text": "Parents visa Dubai salary requirement: AED 4,000 or AED 10,000?"
+      },
+      {
+        "type": "p",
+        "text": "It depends on the visa. **AED 4,000 a month** is the ICP minimum to host a parent on a visit visa. **AED 10,000 a month** is the figure GDRFA lists to sponsor parents for residence in Dubai."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visit visa, parent (first-degree relative):** AED 4,000 a month. ICP defines first degree as father, mother, spouse, son and daughter.",
+          "**Visit visa, siblings or grandparents:** AED 8,000 a month.",
+          "**Visit visa, a friend:** AED 15,000 a month.",
+          "**Residence for parents in Dubai:** salary certificate or employment contract showing at least AED 10,000 a month (GDRFA)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You will still see **AED 20,000** quoted online for sponsoring parents. That figure comes from older and archived guidance, not the current GDRFA service page. For residence in Abu Dhabi, Sharjah and the other ICP emirates, we did not find a parent-specific salary figure on an official page, so treat it as variable and confirm with ICP (600522222) before you apply."
+      },
+      {
+        "type": "h2",
+        "text": "UAE family visa for parents: the one-year residence route"
+      },
+      {
+        "type": "p",
+        "text": "Yes, a resident can sponsor parents for residence, but it is not the standard family visa. u.ae says expatriates sponsor a spouse, unmarried daughters, sons under 25 and children with special needs at AED 4,000. Parents fall outside that list."
+      },
+      {
+        "type": "p",
+        "text": "In Dubai, parents are handled under GDRFA's **residence permit for humanitarian cases**. It is issued for one year and is renewable. GDRFA lists father and mother among the relatives a resident can sponsor, and says each request is reviewed case by case by a committee. Expected completion is 14 days."
+      },
+      {
+        "type": "h3",
+        "text": "GDRFA documents for sponsoring parents"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Copy of each parent's passport.",
+          "Your salary certificate (government) or employment contract (private sector) showing at least AED 10,000 a month. Partners or investors give the partnership agreement and trade licence.",
+          "Attested tenancy contract suitable for the number of family members.",
+          "Your bank statement for the last three months."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Dubai residence costs"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Residence permit fee: AED 200 (about ₹4,800), plus AED 10 Knowledge and AED 10 Innovation fees.",
+          "Inside-country fee: AED 500, if your parents are already in the UAE when you apply.",
+          "Delivery: AED 20.",
+          "Financial guarantee: AED 5,000 (about ₹1,20,000) per approved request, capped at AED 15,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Two other groups have an easier path. ICP's Golden Residency guide says Golden visa holders can sponsor parents, and its residency page says Green Residence holders can sponsor first-degree relatives. For Abu Dhabi and the northern emirates, ICP's residency service mentions proof of kinship when sponsoring parents and a humanitarian guarantee of AED 5,000 per person, but the exact conditions should be confirmed with ICP for your case."
+      },
+      {
+        "type": "h2",
+        "text": "Tourist visa for parents: when it makes more sense"
+      },
+      {
+        "type": "p",
+        "text": "If you earn below AED 4,000, or your parents want to come and go over several years, a tourist visa can work better. A UAE airline, hotel or licensed agent can arrange a standard tourist visa, usually tied to buying the ticket or hotel through them."
+      },
+      {
+        "type": "p",
+        "text": "The **5-year multiple-entry tourist visa** lets your parents enter on their own, without a sponsor, for up to 90 days per visit. ICP's conditions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A bank balance of USD 4,000 or its equivalent across the last six months.",
+          "UAE-valid health insurance for 180 days, a return ticket and proof of where they will stay.",
+          "Fees of AED 3,720 (about ₹89,000) in total, of which AED 3,000 is a refundable guarantee."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "One caution: ICP's page says stays can be extended up to 180 days a year, but another line on the same page says 90 days a year. Confirm with ICP before planning a long stay on this visa."
+      },
+      {
+        "type": "h2",
+        "text": "Documents your parents need from India"
+      },
+      {
+        "type": "p",
+        "text": "For a visit visa, your parents mainly send you scans, and you upload them. Keep these ready:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport for each parent, valid for at least 6 months.",
+          "A recent photo on a white background.",
+          "Proof that they are your parents: usually your birth certificate showing their names. For residence, the relationship proof must be attested.",
+          "Your Emirates ID, passport and visa page, and your salary certificate or employment contract.",
+          "A short reason for the visit (ICP asks for a justification).",
+          "UAE-valid health insurance and a return ticket.",
+          "For residence only: attested tenancy contract, three months of your bank statements. u.ae says sponsored family members aged 18 and over must also pass a medical fitness test in the UAE."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "A delay we see often is a name mismatch. An old birth certificate says Kantaben, the passport says Kanta. Fix spellings, or add an affidavit, before you upload anything."
+      },
+      {
+        "type": "h2",
+        "text": "Sample reason-for-visit letter for parents"
+      },
+      {
+        "type": "p",
+        "text": "Keep it short and factual. This wording works for a visit visa:"
+      },
+      {
+        "type": "p",
+        "text": "\"I, [your name], Emirates ID [number], working as [job] with [employer] in Dubai, request a 90-day visit visa for my parents, [father's name] (passport [number]) and [mother's name] (passport [number]), residents of Ahmedabad, India. They will stay with me at [address] from [date] to [date]. I will cover their travel, stay and medical insurance. They will return to India on [date]. My salary certificate, tenancy contract and their passports are attached.\""
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes that slow down a UAE parents' visa"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Applying for residence when a visit visa would do. Residence needs the higher salary, a tenancy contract and a committee decision.",
+          "Using the AED 20,000 figure from an old article and assuming you cannot sponsor.",
+          "Booking flights before the visa is issued.",
+          "Letting the visit end without an extension or exit. ICP charges AED 50 a day for overstaying.",
+          "Insurance that is not valid in the UAE."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who carry a printed copy of the e-visa, your address and your phone number clear arrival questions in a minute. Put these on one page in Gujarati or Hindi so they can show it if asked."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your parents' UAE visa"
+      },
+      {
+        "type": "p",
+        "text": "NRI children in the UAE can brief us on WhatsApp at +91 82009 18967, and we coordinate with parents in India: we collect and check the documents, fix name mismatches, draft the reason-for-visit letter and tell you which route fits your salary. Our office is in Vastrapur, Ahmedabad, and we prepare files for families across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 19 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the u.ae family residence and tourist visa pages, ICP's visit visa, residency, Golden Residency, long-term tourist visa and 14-day visa pages, and GDRFA Dubai's relative visit visa and humanitarian residence pages on 19 November 2026. UAE rules change often, so re-check the salary thresholds and fees on icp.gov.ae or gdrfad.gov.ae, or at an Amer centre, before applying."
+      }
+    ],
+    "sources": [
+      {
+        "label": "UAE Government Portal (u.ae): Residence visa for families of employees",
+        "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Residence-visa/residence-visa-for-family-members"
+      },
+      {
+        "label": "UAE Government Portal (u.ae): Tourist visa",
+        "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa"
+      },
+      {
+        "label": "ICP: Issuance of a Visa (visit visa for relatives or friends)",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e60"
+      },
+      {
+        "label": "ICP: ICP adds four new visit visa categories and updates conditions of existing visas",
+        "url": "https://icp.gov.ae/en/media-center/identity-citizenship-customs-and-port-security-adds-four-new-visit-visa-categories-and-updates-conditions-and-durations-of-existing-visas/"
+      },
+      {
+        "label": "ICP: Issuing Residency Permit",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e64"
+      },
+      {
+        "label": "ICP: Golden Residency Guide",
+        "url": "https://icp.gov.ae/en/services/uae-golden-residency/"
+      },
+      {
+        "label": "ICP: Issuance of a Long-Term Multiple-Entry Tourist Visa",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68f5bc968c587a0011cb16cd"
+      },
+      {
+        "label": "ICP: Issuance of a 14-day visa for nationals of certain countries residing abroad",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68e3532c5ae59b0011738404"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a visit visa for a relative or friend for one entry",
+        "url": "https://www.gdrfad.gov.ae/en/services/d551ce89-52e8-11ea-0320-0050569629e8"
+      },
+      {
+        "label": "GDRFA Dubai: Issuance of a residence permit for humanitarian cases",
+        "url": "https://gdrfad.gov.ae/en/services/f52024ec-b812-11ed-5210-4cd98f768936"
+      }
+    ]
+  },
+  {
+    "slug": "schengen-visa-for-parents-from-india-2026",
+    "title": "Schengen Visa for Parents from India 2026: Germany, Netherlands, France Invitation Rules",
+    "metaTitle": "Schengen Visa for Parents from India 2026: Rules | Travlys",
+    "metaDescription": "Schengen visa for parents from India: €90 fee, €30,000 insurance, up to 90 days in 180. Invitation letter, Germany's Verpflichtungserklärung and documents.",
+    "excerpt": "Indian parents visiting a child in Germany, the Netherlands, France or Italy need a Schengen visa: €90, €30,000 insurance and up to 90 days in 180. Which country to apply to, the invitation letter, sponsor forms and the multiple-entry cascade.",
+    "date": "2026-11-19",
+    "updated": "2026-11-19",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "Schengen",
+      "Germany",
+      "Netherlands",
+      "Parents visa",
+      "Invitation letter",
+      "Verpflichtungserklärung"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-fees-for-indians-2026",
+      "schengen-visa-refused-appeal-reapply-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your parents' Schengen visa filed"
+    },
+    "faqs": [
+      {
+        "q": "How to apply Schengen visa for parents from India?",
+        "a": "Your parents apply for a Schengen short-stay visa at the visa centre of the country where they will spend the most days, usually the country where you live. They book an appointment, give fingerprints and pay €90 each. You send a signed invitation and proof of your residence. They add bank statements, pension or ITR papers, €30,000 travel insurance and a flight reservation. Apply 15 days to 6 months before travel."
+      },
+      {
+        "q": "Is Verpflichtungserklärung mandatory for parents visiting Germany?",
+        "a": "No. The German missions' India checklist lists the Verpflichtungserklärung as a document to submit \"if provided\". An original signed invitation letter from you is required. The formal obligation helps when your parents cannot fully pay for the trip themselves, because you pledge to cover all costs. You sign it at your local Ausländerbehörde or Ordnungsamt in Germany. Book that appointment well before your parents' visa appointment."
+      },
+      {
+        "q": "How much bank balance is required for Schengen visa for parents?",
+        "a": "Most countries set no single figure. Germany asks for 3 months of stamped bank statements and proof of income or pension. The Netherlands says a visitor paying their own way needs at least €55 per person per day. France asks hosted visitors to show at least €32.50 per day at the border. If you, the child, are paying, your invitation must say so and your income must support it."
+      },
+      {
+        "q": "Can my parents stay 6 months in Germany on visit visa?",
+        "a": "No. A Schengen visa allows a maximum of 90 days in any 180-day period across the whole Schengen area. After 90 days in, your parents must stay out until enough days fall outside the rolling 180-day window. A six-month stay, for example after a grandchild's birth, needs a national visa under German rules, which is a separate application with its own conditions."
+      },
+      {
+        "q": "What is the Schengen visa fee for senior citizens from India?",
+        "a": "The standard fee is €90 per adult, about ₹9,600, according to the EU Home Affairs page. There is no general age discount for senior citizens. Children aged 6 to 12 pay €45. The visa centre adds its own service charge on top, and that charge applies even when the visa fee is waived."
+      },
+      {
+        "q": "Do my parents get a multiple entry Schengen visa?",
+        "a": "Possibly. Under the EU's April 2024 rule for Indians living in India, applicants who obtained and lawfully used two Schengen visas within the previous three years get a two-year multiple-entry visa, normally followed by a five-year visa. First-time applicants should not count on a long multiple-entry visa, since the cascade starts after two lawfully used visas. The visa cannot run beyond three months before the passport's expiry, so renew old passports first."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Parents applying in their sixties often fear a refusal after the tickets are planned. The answer is a clean, complete file. Indian parents visiting a child in Germany, the Netherlands, France or Italy apply for a Schengen short-stay visa: **€90** fee, travel insurance of at least **€30,000**, and a stay of up to **90 days in any 180**. Your child's invitation, and the host country's sponsor form, carry the file."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (type C) visa. **Fee:** €90 (about ₹9,600) per adult, plus the visa centre's service charge. **Where to apply:** the country where your parents will spend the most days. **When:** up to 6 months before travel, at least 15 days before. **Decision:** normally 15 days, up to 45 days if more checks are needed. **Insurance:** at least €30,000 medical cover, valid across Schengen. **Stay:** up to 90 days in any 180-day period. **Host documents:** invitation letter, plus Germany's Verpflichtungserklärung, the Netherlands' form 1310 or France's attestation d'accueil where needed."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa for parents from India: which country to apply to"
+      },
+      {
+        "type": "p",
+        "text": "Apply to the country where your parents will spend the most time. The EU rule is simple: if the stays are equal, apply to the country they enter first. You also apply at the consulate responsible for where your parents live in India."
+      },
+      {
+        "type": "p",
+        "text": "So if your son is on a Blue Card in Munich and your parents spend 50 days with him and 10 days touring Italy, they apply to Germany. If they plan 20 days in Germany and 30 in Italy, it is an Italian visa, even though they are visiting their son. Keep the itinerary, bookings and cover letter consistent with the country you choose."
+      },
+      {
+        "type": "h2",
+        "text": "Invitation letter for parents Schengen visa: what to include"
+      },
+      {
+        "type": "p",
+        "text": "Every country expects a signed invitation from the child. The German missions in India ask for an **original signed** letter that includes the following:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your address and contact details in Germany.",
+          "The intended dates and length of your parents' stay.",
+          "Proof of your legal residence: passport copy (first and last page if Indian) and residence permit.",
+          "Your parents' names and passport numbers.",
+          "The purpose of the trip and a brief itinerary."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Sample invitation letter"
+      },
+      {
+        "type": "p",
+        "text": "\"I, [your name], born [date], holder of Indian passport [number] and German residence permit [type and number], living at [full address], invite my parents, [father's name] (passport [number]) and [mother's name] (passport [number]), residing in Ahmedabad, India, to visit me from [date] to [date]. They will stay with me at my address. I will bear the cost of their stay, and they will also travel with their own funds and insurance. During the visit we plan to stay in [city] and spend a few days in [places]. My parents will return to India on [date]. Copies of my passport, residence permit and proof of address are attached. Signed, [name], [date], [phone], [email].\""
+      },
+      {
+        "type": "p",
+        "text": "Only write that you will pay if you can prove it. If you are covering costs, attach your payslips or bank statements, and in Germany consider the formal obligation explained below."
+      },
+      {
+        "type": "h2",
+        "text": "Germany visit visa for parents: invitation and Verpflichtungserklärung"
+      },
+      {
+        "type": "p",
+        "text": "For Germany, the invitation letter is required, and the Verpflichtungserklärung (formal obligation) is optional but useful. The German missions' India checklist lists it as \"if provided\" under sponsor documents."
+      },
+      {
+        "type": "p",
+        "text": "The Verpflichtungserklärung is a formal pledge by you, the host, to cover all costs of your parents' stay. According to the Federal Foreign Office, you sign it at your local authority in Germany, usually the Ausländerbehörde or Ordnungsamt. It matters most when your parents cannot fully pay for the trip themselves. Your parents still need their own travel insurance, which the checklist requires in every case."
+      },
+      {
+        "type": "h3",
+        "text": "What the German checklist asks for when visiting a child"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Schengen form filled on the VIDEX website, printed with all pages and barcodes, and signed.",
+          "Passport issued within the last 10 years, valid 3 months beyond return, with two blank pages.",
+          "Proof of relationship: birth certificate, plus your passport copy and residence permit if you are an Indian citizen in Germany.",
+          "Your proof of private accommodation and address if they stay with you.",
+          "Your parents' bank statements for 3 months, stamped by the bank. Passbook copies are not accepted.",
+          "If retired: pension statements for 3 months and/or proof of property or business income.",
+          "Covering letter, flight reservation and civil status proof such as a marriage certificate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you plan to give one, book the appointment at your local office well before your parents' VFS date, and ask what income proof it wants."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa for parents: the sponsorship form"
+      },
+      {
+        "type": "p",
+        "text": "In the Netherlands, the host completes the IND **proof of sponsorship and/or private accommodation** form (form 1310) and has it legalised at the Dutch municipality where they are registered. NetherlandsWorldwide's India checklist says it must be signed by the person inviting you, and if you are paying your parents' costs, questions 3A and 3B should be answered yes."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You need a steady and sufficient income for at least the next 12 months to sponsor. Partners can combine incomes.",
+          "Each visitor needs their own form.",
+          "After legalisation, your parents must apply for the visa within 6 months.",
+          "If your parents pay their own way, the IND says they need at least €55 per person per day.",
+          "Dutch visa applications in India go through VFS Global, including the Ahmedabad centre."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "France and Italy: attestation d'accueil and host letters"
+      },
+      {
+        "type": "p",
+        "text": "For France, the host requests an **attestation d'accueil** at the town hall (mairie) where your parents will stay. Service-Public.fr lists the details:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Form cerfa 10798, signed at the town hall with the host present.",
+          "€30 fee, paid by tax stamp.",
+          "The host must show proof of housing and means, and commit to support the visitor if needed.",
+          "If the town hall does not reply within 1 month, treat it as refused."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "France-Visas says a hosted visitor must also show at least €32.50 per day at the border, against €65 to €120 a day for those not staying with family."
+      },
+      {
+        "type": "p",
+        "text": "For Italy, apply through Italy's visa centre in India with the Italian mission's checklist for visiting family and friends, and an invitation signed by the host. We could not open that checklist today, so confirm its current version before filing."
+      },
+      {
+        "type": "h2",
+        "text": "Travel insurance, funds and documents for parents"
+      },
+      {
+        "type": "p",
+        "text": "Insurance must cover at least **€30,000** of medical expenses, including emergency care, hospital treatment and repatriation, across all Schengen countries for the whole trip. German missions accept Indian travel medical insurance only from approved Indian insurers, so check the list before buying."
+      },
+      {
+        "type": "p",
+        "text": "There is no single fixed bank balance for Germany. The officer looks for regular income and savings that match the trip. A practical document set for retired parents:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passports, old passports and two photos (35 x 45 mm, white background).",
+          "Bank statements for 3 months, stamped and signed by the bank.",
+          "ITR acknowledgements for the last two years, or pension statements.",
+          "Property papers, rent receipts or FDs that show ties to India.",
+          "Your invitation, residence permit, payslips and proof of address.",
+          "Return flight reservation and insurance certificate."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who carry their child's residence permit copy and the invitation in a folder answer the 'who are you visiting' question at the counter in one line. Keep a Gujarati or Hindi note of your address and phone number in the same folder."
+      },
+      {
+        "type": "h2",
+        "text": "The 90/180 rule for parents"
+      },
+      {
+        "type": "p",
+        "text": "Your parents can stay up to 90 days in any 180-day period across the whole Schengen area, not 90 days per country. The count rolls: on any day, look back 180 days and add up the days spent inside Schengen."
+      },
+      {
+        "type": "p",
+        "text": "If they spend 90 days with you from 1 April, they cannot return before late September. Many families want parents to stay for six months after a grandchild is born. A Schengen visa cannot do that. Longer stays need a national visa, which follows each country's own rules."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry visa for parents: the India cascade"
+      },
+      {
+        "type": "p",
+        "text": "Indian nationals have a special rule. Under the EU's April 2024 decision for applicants living in India, someone who has obtained and lawfully used **two visas within the previous three years** gets a **two-year multiple-entry visa**. The EU delegation in India says this will normally be followed by a **five-year** visa if the passport has enough validity left."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "\"Lawfully used\" means no overstay and using the visa for its stated purpose.",
+          "The visa ends three months before the passport expires, so renew a passport that is close to expiry before applying.",
+          "It is not automatic. The consulate still checks every entry condition each time."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who keep every boarding pass and their entry and exit stamps from past trips make the cascade easy to show. Note that the EU's Entry/Exit System now records non-EU visitors' entries and exits at the border."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your parents' Schengen visa"
+      },
+      {
+        "type": "p",
+        "text": "We prepare the parents' file in English and brief them for the interview in Gujarati or Hindi. NRI children in Germany, the Netherlands or France can brief us on WhatsApp at +91 82009 18967, and we coordinate with parents in India, check your invitation and sponsor form, and pick the right country and appointment. Our office is in Vastrapur, Ahmedabad, and we file for families across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 19 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the EU Home Affairs Schengen application page, the Commission's India cascade decision and the EU delegation's notice, the German missions' family-visit checklist and the Federal Foreign Office FAQ, NetherlandsWorldwide and IND pages, Service-Public.fr and France-Visas (archived copy) on 19 November 2026. Re-check india.diplo.de, netherlandsworldwide.nl, france-visas.gouv.fr and your VFS checklist before booking."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission, Migration and Home Affairs: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "European Commission: Implementing Decision C(2024) 2434 on multiple-entry visas for Indian nationals",
+        "url": "https://home-affairs.ec.europa.eu/document/download/93d78385-3bd5-441f-bbf5-a233dceac4ae_en"
+      },
+      {
+        "label": "EU Delegation to India (EEAS): European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "German Missions in India: Checklist for a Schengen visa for the purpose of Visit/Family & Friends",
+        "url": "https://india.diplo.de/in-en/-/2674162"
+      },
+      {
+        "label": "Federal Foreign Office (Germany): Visa for Germany FAQ",
+        "url": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/606848-606848"
+      },
+      {
+        "label": "NetherlandsWorldwide: Checklist Schengen visa family and friends (India)",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/checklist-schengen-visa-family-friends/india"
+      },
+      {
+        "label": "NetherlandsWorldwide: Sponsoring a visitor",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/sponsoring"
+      },
+      {
+        "label": "IND (Netherlands): Short stay, holiday or business visa",
+        "url": "https://ind.nl/en/short-stay/short-stay-holiday-or-business-visa"
+      },
+      {
+        "label": "France-Visas: Your arrival in France",
+        "url": "https://france-visas.gouv.fr/en/votre-arrivee-en-france"
+      },
+      {
+        "label": "Service-Public.fr: Certificate of acceptance (attestation d'accueil)",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2191?lang=en"
+      }
+    ]
+  },
+  {
+    "slug": "f1-visa-interview-questions-answers-india-2026",
+    "title": "F1 Visa Interview Questions and Answers for Indian Students (2026)",
+    "metaTitle": "F1 Visa Interview Questions and Answers 2026 | Travlys",
+    "metaDescription": "F1 visa interview questions and answers for Indian students: 30 questions by theme, what officers check, the USD 350 SEVIS fee and the social media rule.",
+    "excerpt": "Thirty F-1 visa interview questions grouped by theme, with what the officer is checking, an answer pattern and the mistake to avoid. Plus documents, the social media rule, slots and what to do after a 214(b) refusal.",
+    "date": "2026-11-19",
+    "updated": "2026-11-19",
+    "readMinutes": 10,
+    "category": "How-to",
+    "tags": [
+      "F-1 visa",
+      "US student visa",
+      "Visa interview",
+      "214(b) refusal",
+      "SEVIS fee",
+      "DS-160"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-rejected-214b-what-to-do-2026",
+      "ds-160-form-mistakes",
+      "us-visa-appointment-wait-time-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Book F-1 interview prep with Travlys"
+    },
+    "faqs": [
+      {
+        "q": "what questions are asked in f1 visa interview",
+        "a": "Most F-1 interview questions fall into six themes: your university choice, your course and career plans, who is funding you, your academics and test scores, your ties to India, and your travel history or relatives in the US. Expect three to eight questions in a few minutes. The officer is checking that you are a genuine student, academically ready, funded for at least the first year, and that you intend to leave the US when your studies end."
+      },
+      {
+        "q": "is social media public mandatory for f1 visa",
+        "a": "Yes, the State Department instructs F, M and J applicants to set the privacy settings on all their social media profiles to public or open. Its vetting announcement, last updated 25 March 2026, confirms student applicants are subject to online presence review. Do it well before your interview. Keep your profiles consistent with your DS-160, and do not delete accounts suddenly, because gaps can raise more questions than ordinary posts."
+      },
+      {
+        "q": "how many days before course start f1 visa is issued",
+        "a": "A new student's F-1 visa can be issued up to 365 days before the program start date on the I-20. You still cannot enter the US more than 30 days before that start date. Older guides mention a 120-day limit, but the State Department's student visa page now gives 365 days. Continuing students already enrolled and in SEVIS can get a visa at any time and may enter before classes start."
+      },
+      {
+        "q": "what is sevis fee for f1 visa 2026",
+        "a": "The SEVIS I-901 fee for F-1 students is USD 350, about ₹34,300 at ₹98 to the dollar, though your card's rate may differ. It is separate from the USD 185 visa fee. You pay it on FMJfee.com, and it must be paid before the State Department can issue your visa. Carry the payment receipt to your interview along with your I-20 and DS-160 confirmation page."
+      },
+      {
+        "q": "can f1 visa interview be waived in india",
+        "a": "No, not under the current rules. The State Department's interview waiver update in force since 1 October 2025 limits waivers mainly to diplomatic visas and certain B1/B2 and H-2A renewals. F-1 is not on that list, so first-time and renewing students should plan for an in-person interview. Officers can also require an interview from anyone. Check the official India appointment site for any change before you book."
+      },
+      {
+        "q": "f1 visa rejected 214b can i apply again",
+        "a": "Yes, you can reapply after a 214(b) refusal; there is no fixed waiting period and no appeal. The State Department says to reapply when you have more evidence of your qualifications or your circumstances have changed. Work out what failed first, such as funding, ties or inconsistent answers, and fix it with real changes. File a new DS-160 that discloses the refusal and pay the USD 185 fee again."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Most F-1 interviews in Mumbai or Delhi last a few minutes, and one weak answer about money or plans can end in a **214(b)** refusal. Prepare for about **30 questions** in six themes: university, course, funding, academics, ties to India and family. Carry your **I-20**, **SEVIS fee receipt (USD 350)** and DS-160 page, and set your social media to **public**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa fee:** USD 185 (about ₹18,130 at the consular rate of ₹98). **SEVIS I-901 fee:** USD 350 for F-1, paid before the visa can be issued. **Interview:** in person; F-1 is not on the interview waiver list in force since 1 October 2025. **Social media:** F, M and J applicants are told to set all profiles to \"public\". **Earliest issue:** up to 365 days before your program start date. **Earliest entry:** 30 days before the start date. **Where:** New Delhi, Mumbai, Chennai, Hyderabad or Kolkata. **Refusal:** usually 214(b); no appeal, but you may reapply."
+      },
+      {
+        "type": "h2",
+        "text": "F1 visa interview questions and answers: what the officer is really checking"
+      },
+      {
+        "type": "p",
+        "text": "The officer checks four things: you are a genuine student, academically ready, funded for the first year, and intend to leave the US after your studies. US law presumes every applicant is an intending immigrant until they show otherwise."
+      },
+      {
+        "type": "p",
+        "text": "The officers' manual (9 FAM 402.5) gives students some room. Students are not expected to have the job and property ties of older applicants, and officers should judge your present intent, not what you might do years later. You do not need a perfect life plan. You need honest, consistent answers that match your documents."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Students who can say their sponsor's occupation, the first-year cost on their I-20 and their loan amount without looking at papers usually get through the money questions in one line each. Hesitation on numbers looks like someone else prepared the file."
+      },
+      {
+        "type": "h2",
+        "text": "F1 visa interview questions 2026: 30 questions by theme"
+      },
+      {
+        "type": "p",
+        "text": "For each question: what the officer is checking, an answer pattern and the mistake to avoid. Use the pattern, not a memorised script."
+      },
+      {
+        "type": "h3",
+        "text": "University choice"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Why this university?** Checking: did you choose it, or did an agent? Answer: two specific reasons (a named course, lab, faculty area or co-op) tied to your background. Avoid: rankings alone, or \"it has a good reputation\".",
+          "**How many universities did you apply to, and how many admitted you?** Checking: a real selection process. Answer: give exact numbers and why you picked this one over the others. Avoid: hiding admits or rejects; the numbers should match your story.",
+          "**Why not study in India?** Checking: purpose. Answer: what this program offers that you could not get at home, such as a specialisation, research access or industry projects. Avoid: criticising Indian universities.",
+          "**Where is your university, and what do you know about the city?** Checking: basic homework. Answer: the city, state and one practical point, such as cost of living or the industry nearby. Avoid: confusing campuses or not knowing the state.",
+          "**Name two courses you will take in your first semester.** Checking: genuine interest. Answer: two real course titles from the curriculum and why they matter to you. Avoid: vague subjects like \"computers\" or \"management\"."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Course and career plans"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**What will you study, and why this course?** Checking: a clear academic purpose. Answer: name the degree and major, then link it to your past study or work in one sentence. Avoid: switching fields with no reason you can explain.",
+          "**Why a master's now, and not after some work experience?** Checking: timing makes sense. Answer: the skill gap you found in your bachelor's or job, and why this degree fills it. Avoid: \"everyone in my batch is going\".",
+          "**What will you do after you graduate?** Checking: intent to depart. Answer: the role, sector or type of employer you will target in India, kept realistic. Avoid: talking only about US jobs, or claiming you will never use OPT.",
+          "**How does this course connect to what you studied or did before?** Checking: logic of the move. Answer: one or two concrete links, such as a final-year project, an internship or a job duty. Avoid: inventing experience your documents cannot back.",
+          "**For a bachelor's applicant: why go abroad straight after Class 12?** Checking: maturity and family support. Answer: the program, the major you want, and why your family backs it. Avoid: answers that sound like your parents' script, not yours."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Funding and sponsor"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who is sponsoring your education?** Checking: a credible source of money. Answer: name the sponsor and relationship in one line, for example \"my father, who runs a textile business in Surat\". Avoid: a distant relative with no clear reason to pay.",
+          "**What does your sponsor do, and what is their annual income?** Checking: income matches the cost. Answer: occupation and approximate yearly income, matching the ITRs you carry. Avoid: a figure that differs from the papers.",
+          "**What is your total cost for the first year?** Checking: you know the I-20 figure. Answer: the exact I-20 total and how it is covered. Avoid: guessing; officers must see readily available funds for the first year.",
+          "**Have you taken an education loan?** Checking: the loan is real. Answer: the bank, the sanctioned amount and whether it is disbursed. Avoid: saying you will apply for one; the manual says a mere intention to get a loan is not enough.",
+          "**Will you work in the US to pay your fees?** Checking: risk of unauthorised work. Answer: your funding covers the costs; any on-campus work is optional. Avoid: relying on part-time jobs, CPT or OPT to fund the first year.",
+          "**Who else does your sponsor support?** Checking: the money is truly available for you. Answer: siblings, parents and how the family's other costs are met. Avoid: hiding a sibling who is also studying abroad on the same income."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Academics, test scores and gaps"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**What was your percentage or CGPA?** Checking: academic readiness. Answer: the exact figure and, if it is low, one honest line on how you improved. Avoid: rounding up; transcripts are checked.",
+          "**What were your GRE, GMAT, IELTS, TOEFL or Duolingo scores?** Checking: scores match the admission and your spoken English. Answer: exact scores, without fumbling. Avoid: a strong test score with weak spoken English; the manual flags this pattern.",
+          "**You have backlogs. Why?** Checking: honesty and recovery. Answer: the number, the reason in one line and the clearance. Avoid: denying backlogs that are on your marksheets.",
+          "**Explain the gap in your education.** Checking: what you did with the time. Answer: job, preparation, family duty or health, with something to show for it. Avoid: \"I was preparing\" with nothing to prove it.",
+          "**Your scores are average. How did you get admitted?** Checking: a real admission. Answer: what the university weighed, such as work experience, projects or recommendations. Avoid: \"my agent arranged it\"."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Ties to India and plans after study"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Will you come back to India?** Checking: present intent to depart. Answer: yes, and why, linked to family, a business or a career path. Avoid: a bare \"yes\", or a long speech that sounds rehearsed.",
+          "**What ties do you have to India?** Checking: reasons to leave the US. Answer: family, a family business you may join, property or a job offer to return to. Avoid: claiming ties you cannot explain if asked a follow-up.",
+          "**Do you plan to work on OPT after graduation?** Checking: honesty. Answer: if you plan to, say so, briefly and linked to experience you will bring home. Avoid: denying any interest; officers know OPT exists.",
+          "**What will you do if you get a US job offer?** Checking: whether your plan is really immigration. Answer: your plan is to return; any work in the US would be temporary and within the rules. Avoid: saying you will try for a green card.",
+          "**What does your family do in India?** Checking: the household you are part of. Answer: parents' work, siblings and where the family lives. Avoid: answers that contradict your DS-160."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Travel history and family in the US"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Have you travelled abroad before?** Checking: past compliance. Answer: list trips and confirm you returned on time. Avoid: panicking if you have none.",
+          "**Do you have relatives in the US?** Checking: whether family may pull you to stay. Answer: name them, where they live and their status, honestly. Avoid: hiding them; it matches badly with your DS-160 and later records.",
+          "**Where will you stay in the US?** Checking: practical planning. Answer: on-campus housing or a shared flat near campus. Avoid: \"with my uncle\" when he lives in another state."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Many Gujarati families have cousins in New Jersey or Texas. That is fine. Hiding it is not. Students who say \"my cousin lives in Edison, but I will live on campus in Arizona\" answer the follow-up before it is asked."
+      },
+      {
+        "type": "h2",
+        "text": "F1 visa interview questions for masters vs bachelor: what changes"
+      },
+      {
+        "type": "p",
+        "text": "Master's applicants get more career questions: why this specialisation, why now, and what role you will target afterwards."
+      },
+      {
+        "type": "p",
+        "text": "Bachelor's applicants get more questions about parents: who pays, what they do and why they back four years abroad. Officers do not expect an 18-year-old to have a full life plan, but they want your own reasons in your own words."
+      },
+      {
+        "type": "h2",
+        "text": "Documents to carry to the US student visa interview in India"
+      },
+      {
+        "type": "p",
+        "text": "The State Department requires your passport, DS-160 page, fee receipt and Form I-20, plus a photo if the upload failed. Officers may ask for more, so carry the supporting file."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport, valid at least six months beyond your intended stay.",
+          "DS-160 confirmation page, and the appointment confirmation.",
+          "Form I-20, signed by you and your school official.",
+          "SEVIS I-901 fee receipt: USD 350 for F-1 (about ₹34,300 at ₹98; your card's rate may differ).",
+          "Visa fee payment receipt: USD 185.",
+          "Transcripts, degree certificates and marksheets, including backlog clearances.",
+          "Test score reports required by your university.",
+          "Financial proof: bank statements, loan sanction letter, sponsor's ITRs and income proof.",
+          "Admission letter and any scholarship or assistantship letter."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "F1 visa social media: what to set to public"
+      },
+      {
+        "type": "p",
+        "text": "If you apply for an F-1 visa, you are instructed to set the privacy settings on all of your social media profiles to \"public\" or \"open\". The State Department's vetting announcement, last updated 25 March 2026, says F, M and J student and exchange applicants were already subject to online presence review before it widened the rule to more visa types from 30 March 2026."
+      },
+      {
+        "type": "p",
+        "text": "Do this well before your interview. Your profiles should tell the same story as your DS-160: same college, same job dates, same plans. Do not delete accounts in a panic; a missing profile raises more questions than an ordinary one."
+      },
+      {
+        "type": "h2",
+        "text": "F1 visa slots India: when to book and how early you can get the visa"
+      },
+      {
+        "type": "p",
+        "text": "Book your interview as soon as you have your I-20 and have paid the SEVIS fee. Student visas for new students can be issued **up to 365 days** before your program start date, though you cannot enter the US more than **30 days** before it. Ignore older guides that quote a 120-day rule."
+      },
+      {
+        "type": "p",
+        "text": "We do not publish slot dates because they change week to week; check the wait times on travel.state.gov and the appointment system linked from in.usembassy.gov. Since December 2025, applicants must interview in their country of nationality or residence, so booking abroad is not a shortcut. One more change: a DHS rule published on 17 July 2026 replaces \"duration of status\" with a fixed admission period of up to 4 years for F-1 students. Ask your university's DSO how it affects your program."
+      },
+      {
+        "type": "h2",
+        "text": "214(b) for students: why F-1 visas get refused"
+      },
+      {
+        "type": "p",
+        "text": "A 214(b) refusal means the officer was not satisfied you qualify, usually on intent to return, funding or study purpose. It is not a ban. Common patterns we see:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Answers that do not match the DS-160 or documents.",
+          "Not knowing the first-year cost or the loan amount.",
+          "A sponsor whose income cannot carry the cost.",
+          "A course change with no explanation.",
+          "Scripted answers that collapse at the first follow-up.",
+          "Strong test scores but weak spoken English."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "F1 visa refused: what to do next"
+      },
+      {
+        "type": "p",
+        "text": "You can reapply. The State Department's student visa page says you may reapply if you have more evidence of your qualifications or your circumstances have changed. There is no appeal against a 214(b) refusal."
+      },
+      {
+        "type": "p",
+        "text": "Write down every question and answer from the interview. Find the weak point (money, ties, academics or delivery) and fix it with something real, such as a sanctioned loan or a clearer sponsor file. File a fresh DS-160 that discloses the refusal and pay the USD 185 fee again. Our guide on 214(b) refusals covers reapplying in detail."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with F-1 interviews"
+      },
+      {
+        "type": "p",
+        "text": "Our team runs mock F-1 interviews built around your own I-20, funding and profile, and reviews your DS-160 so your answers and documents match. After a refusal, we review what went wrong before you rebook. Parents abroad or in India can brief us on WhatsApp (+91 82009 18967). Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we work with students across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 19 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 19 November 2026. Before your interview, re-check the student visa, fee and vetting pages on travel.state.gov, the SEVIS fee on ice.gov and notices on in.usembassy.gov."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Department of State: Student Visa",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+      },
+      {
+        "label": "U.S. Department of State: Fees for Visa Services",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html"
+      },
+      {
+        "label": "U.S. Department of State: Announcement of Expanded Screening and Vetting for Visa Applicants",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html"
+      },
+      {
+        "label": "U.S. Department of State: Interview Waiver Update September 18, 2025",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/interview-waiver-update-sept-18-2025.html"
+      },
+      {
+        "label": "U.S. Department of State: Adjudicating Nonimmigrant Visa (NIV) Applicants in Their Country of Residence",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html"
+      },
+      {
+        "label": "U.S. Department of State: 9 FAM 402.5 Students and Exchange Visitors",
+        "url": "https://fam.state.gov/fam/09FAM/09FAM040205.html"
+      },
+      {
+        "label": "U.S. Immigration and Customs Enforcement: I-901 SEVIS Fee",
+        "url": "https://www.ice.gov/sevis/i901"
+      },
+      {
+        "label": "Study in the States (DHS): Paying the I-901 SEVIS Fee",
+        "url": "https://studyinthestates.dhs.gov/students/prepare/paying-the-i-901-sevis-fee"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Visas (notices and consular exchange rate)",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "Federal Register: Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+      }
+    ]
+  },
+  {
     "slug": "nepal-bhutan-passport-rule-indians-third-country-2026",
     "title": "Passport Rule for Nepal and Bhutan 2026: What Indians Need for Third-Country Travel",
     "metaTitle": "Passport Required for Nepal from India? 2026 Rule | Travlys",
@@ -3869,9 +5187,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1600&h=900&fit=crop",
     "related": [
+      "f1-visa-interview-questions-answers-india-2026",
       "us-visa-rejected-214b-what-to-do-2026",
-      "us-visa-for-parents-from-india-2026",
-      "us-visa-from-india-2026-complete-guide"
+      "us-visa-for-parents-from-india-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -4578,7 +5896,7 @@ export const BLOG_POSTS = [
     "metaDescription": "An Australia visitor visa (subclass 600) from India costs AUD 250, about ₹16,000. 90% of Tourist stream files are decided in 31 days. Documents and steps.",
     "excerpt": "The Australia Visitor visa (subclass 600) costs AUD 250 (about ₹16,000) when you apply from India, and most Tourist stream files are decided within a month. Here are the fees, current processing times, documents and the ImmiAccount steps, checked on the Home Affairs website.",
     "date": "2026-11-14",
-    "updated": "2026-11-14",
+    "updated": "2026-11-19",
     "readMinutes": 10,
     "category": "Country guides",
     "tags": [
@@ -4622,7 +5940,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "Can I extend my Australia visitor visa while in Australia?",
-        "a": "No, you cannot extend a Visitor visa (subclass 600). To stay longer you must apply for a new visa before your current one ends. You can only do this if your visa does not carry condition 8503 (No Further Stay). Sponsored Family stream visas always carry 8503. Home Affairs can waive it only in limited circumstances, through its No Further Stay waiver request form. Check your conditions in VEVO or your grant letter."
+        "a": "No, not by extending it. For visitor visa applications made from 28 November 2026, condition 8503 (No Further Stay) is mandatory on every subclass 600 visa, so you cannot apply for another visa while in Australia unless Home Affairs grants a rare 8503 waiver. Plan the full length of your stay before you apply, and ask for 6 or 12 months up front if you need it, with a clear reason."
       }
     ],
     "body": [
@@ -4735,7 +6053,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "You cannot extend a visitor visa. To stay longer you must apply for a new visa from inside Australia, and only if your visa does not carry **condition 8503 (No Further Stay)**. Sponsored Family visas always carry 8503. Tourist and Business Visitor visas may carry it. Home Affairs can waive 8503 only in limited circumstances through its No Further Stay waiver request form. Check your grant letter or VEVO before you plan any change."
+        "text": "You cannot extend a visitor visa. To stay longer you must apply for a new visa from inside Australia, and only if your visa does not carry **condition 8503 (No Further Stay)**. Sponsored Family visas always carry 8503. For visitor visa applications made from **28 November 2026**, condition 8503 is mandatory on all Visitor (subclass 600) visas, as well as ETA (601) and eVisitor (651), under an amendment to the Migration Regulations registered on 13 November 2026. Applications made before that date may or may not carry it. Home Affairs can waive 8503 only in limited circumstances through its No Further Stay waiver request form. Check your grant letter or VEVO before you plan any change."
       },
       {
         "type": "h2",
@@ -4907,6 +6225,10 @@ export const BLOG_POSTS = [
       {
         "label": "Department of Home Affairs: No Further Stay waiver request form",
         "url": "https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/no-further-stay-waiver-request-form"
+      },
+      {
+        "label": "Federal Register of Legislation: Migration Amendment making condition 8503 mandatory for visitor visas (F2026L01503)",
+        "url": "https://www.legislation.gov.au/F2026L01503/asmade/text"
       }
     ]
   },
@@ -6022,9 +7344,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-visa-for-parents-from-india-2026",
       "schengen-visa-refused-appeal-reapply-2026",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-visa-for-christmas-new-year-trips-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -6723,11 +8045,11 @@ export const BLOG_POSTS = [
   {
     "slug": "malaysia-new-year-trip-2026-27-visa-free-end-date",
     "title": "Malaysia Visa-Free Ends 31 Dec 2026: What If Your Trip Crosses It?",
-    "metaTitle": "Malaysia Visa-Free Ends 31 Dec 2026: New Year Trips | Travlys",
-    "metaDescription": "Malaysia's visa exemption for Indians runs until 31 Dec 2026 and no official rule covers trips into 2027. Return by 31 Dec or get a Malaysia visa first.",
+    "metaTitle": "Malaysia Visa-Free Ends 31 Dec 2026: New Year Trips, eVISA | Travlys",
+    "metaDescription": "Malaysia confirmed visa-free entry for Indians ends 31 December 2026. Land by 31 Dec and the 30-day exemption covers you; re-entering in January needs an eVISA.",
     "excerpt": "Malaysia's visa-free entry for Indians ends on 31 December 2026, and no official source says what happens to a trip that runs into January 2027. Here is the safe way to plan a New Year trip.",
     "date": "2026-10-30",
-    "updated": "2026-10-30",
+    "updated": "2026-11-19",
     "readMinutes": 7,
     "category": "Visa rule updates",
     "tags": [
@@ -6740,15 +8062,19 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "malaysia-visa-free-for-indians-2026",
-      "christmas-new-year-2026-visa-deadlines-by-country",
-      "new-year-international-trips-from-india-easy-visa"
+      "christmas-new-year-2026-visa-deadlines-by-country"
     ],
     "cta": {
       "slug": "malaysia-visa",
       "label": "Get your Malaysia visa for a trip into 2027"
     },
     "faqs": [
+      {
+        "q": "Is Malaysia visa-free entry for Indians being extended into 2027?",
+        "a": "No. Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indian nationals ends on 31 December 2026, and its official country table lists the exemption only until that date. From 1 January 2027 Indians need a Malaysia visa, applied for online. If you arrive on or before 31 December 2026, the 30-day exemption still covers that visit."
+      },
       {
         "q": "Can I enter Malaysia visa-free on 28 December 2026 and leave in January 2027?",
         "a": "No official Malaysian source answers this. The Immigration Department only says Indian citizens are visa exempt until 31 December 2026, without saying whether that date applies to your entry or your last day of stay. Until there is official guidance or an extension, the safe choice is to get a Malaysian visa for any trip that runs into 2027, or to leave by 31 December."
@@ -6778,6 +8104,11 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "Malaysia's visa exemption for Indian citizens runs until 31 December 2026, and no official Malaysian source says what happens if you enter before that date and leave after it. As of 30 October 2026, no extension into 2027 has been announced. So if your New Year trip runs into January 2027, the safe choice is to get a Malaysian visa before you fly, or to end the trip by 31 December."
+      },
+      {
+        "type": "callout",
+        "label": "Update",
+        "text": "**Update, 19 November 2026:** Malaysia's Immigration Department said in a notice dated 17 November 2026 (reported by PTI) that visa-free entry for Indian nationals ends on **31 December 2026** and will not be extended. Its official country table lists the exemption only until that date. From **1 January 2027**, Indians need a Malaysia visa; eVISA applications are reported to open on the MyVISA portal on **1 December 2026**. If you land on or before 31 December 2026, the 30-day exemption still covers that visit."
       },
       {
         "type": "callout",
@@ -6953,6 +8284,10 @@ export const BLOG_POSTS = [
       {
         "label": "Envoy Global: Malaysia extends visa exemption policy for Chinese and Indian nationals",
         "url": "https://www.envoyglobal.com/news-alert/malaysia-extends-visa-exemption-policy-for-chinese-and-indian-nationals/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirements by country",
+        "url": "https://www.imi.gov.my/index.php/perkhidmatan-utama/visa/keperluan-visa-mengikut-negara/"
       }
     ]
   },
@@ -14557,9 +15892,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503221043305-f7498f8b7888?w=1600&h=900&fit=crop",
     "related": [
+      "f1-visa-interview-questions-answers-india-2026",
       "australia-student-visa-new-rules-2026-indian-students",
-      "us-visa-changes-2026-indian-applicants",
-      "uk-visa-for-indians-2026-fees-processing-time"
+      "us-visa-changes-2026-indian-applicants"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -17439,9 +18774,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
     "related": [
+      "uae-visa-for-parents-from-india-2026",
       "countries-visa-free-for-indians-with-us-visa-2026",
-      "dubai-visa-cost-from-india-2026",
-      "visa-free-countries-for-indians-2026"
+      "dubai-visa-cost-from-india-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -17660,11 +18995,11 @@ export const BLOG_POSTS = [
   {
     "slug": "malaysia-visa-free-for-indians-2026",
     "title": "Malaysia Visa-Free for Indians 2026: 30 Days, MDAC and End Date",
-    "metaTitle": "Is Malaysia Visa-Free for Indians? Yes, 30 Days to 31 Dec 2026 | Travlys",
-    "metaDescription": "Yes. Indians can visit Malaysia visa-free for up to 30 days until 31 December 2026; file the free MDAC within 3 days before arrival. What to carry, business trips, and what we know about 2027.",
+    "metaTitle": "Malaysia Visa-Free for Indians Ends 31 Dec 2026: eVISA from 2027 | Travlys",
+    "metaDescription": "Malaysia visa-free entry for Indians ends on 31 December 2026 (JIM notice, 17 Nov). Until then: 30 days with the free MDAC. From 1 January 2027 you need an eVISA.",
     "excerpt": "Malaysia's visa waiver for Indian nationals allows stays of up to 30 days and runs until 31 December 2026. Here is what to carry, how the MDAC works and what happens after the deadline.",
     "date": "2026-10-24",
-    "updated": "2026-10-28",
+    "updated": "2026-11-19",
     "readMinutes": 6,
     "category": "Visa rule updates",
     "tags": [
@@ -17677,15 +19012,19 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "thailand-visa-free-for-indians-2026",
-      "visa-free-countries-for-indians-2026",
-      "new-year-international-trips-from-india-easy-visa"
+      "visa-free-countries-for-indians-2026"
     ],
     "cta": {
       "slug": "malaysia-visa",
       "label": "See Malaysia visa help"
     },
     "faqs": [
+      {
+        "q": "Is Malaysia visa-free entry for Indians being extended into 2027?",
+        "a": "No. Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indian nationals ends on 31 December 2026, and its official country table lists the exemption only until that date. From 1 January 2027 Indians need a Malaysia visa, applied for online. If you arrive on or before 31 December 2026, the 30-day exemption still covers that visit."
+      },
       {
         "q": "Do Indians need a visa for Malaysia in 2026?",
         "a": "No, not for a visit of up to 30 days made before the waiver ends. The Government of Malaysia has extended its visa waiver for Indian nationals until 31 December 2026, for stays of up to 30 days. You must still carry a passport valid for at least six months, a confirmed return ticket and a hotel booking, and submit the Malaysia Digital Arrival Card (MDAC) online before you arrive."
@@ -17715,6 +19054,11 @@ export const BLOG_POSTS = [
       {
         "type": "p",
         "text": "Yes, Indians can still visit Malaysia without a visa. The Government of Malaysia has extended its visa waiver for Indian nationals **until 31 December 2026**, for stays of **up to 30 days**. You must carry a return ticket and hotel booking and submit the free **Malaysia Digital Arrival Card (MDAC)** online before you land."
+      },
+      {
+        "type": "callout",
+        "label": "Update",
+        "text": "**Update, 19 November 2026:** Malaysia's Immigration Department said in a notice dated 17 November 2026 (reported by PTI) that visa-free entry for Indian nationals ends on **31 December 2026** and will not be extended. Its official country table lists the exemption only until that date. From **1 January 2027**, Indians need a Malaysia visa; eVISA applications are reported to open on the MyVISA portal on **1 December 2026**. If you land on or before 31 December 2026, the 30-day exemption still covers that visit."
       },
       {
         "type": "callout",
@@ -17888,6 +19232,10 @@ export const BLOG_POSTS = [
       {
         "label": "News On AIR: Indian High Commission cautions nationals against seeking jobs in Malaysia (22 September 2026)",
         "url": "https://newsonair.gov.in/indian-high-commission-cautions-nationals-against-seeking-jobs-in-malaysia-on-tourist-visa/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirements by country",
+        "url": "https://www.imi.gov.my/index.php/perkhidmatan-utama/visa/keperluan-visa-mengikut-negara/"
       }
     ]
   },
@@ -18160,9 +19508,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "nepal-bhutan-passport-rule-indians-third-country-2026",
-      "easiest-visa-to-get-for-indians-2026",
-      "countries-visa-free-for-indians-with-us-visa-2026"
+      "easiest-visa-to-get-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -19764,7 +21112,7 @@ export const BLOG_POSTS = [
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['schengen-visa-refused-appeal-reapply-2026', 'visa-application-centres-ahmedabad-addresses-2026', 'visa-photo-size-by-country-for-indians-2026'],
+    related: ['schengen-visa-for-parents-from-india-2026', 'schengen-visa-refused-appeal-reapply-2026', 'visa-application-centres-ahmedabad-addresses-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
@@ -19898,7 +21246,7 @@ export const BLOG_POSTS = [
     category: 'Cost guides',
     tags: ['UAE', 'Dubai', 'e-Visa', 'Cost'],
     heroImage: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&h=900&fit=crop',
-    related: ['us-visa-from-india-2026-complete-guide', 'schengen-visa-documents-checklist-2026', 'visa-consultant-vs-diy'],
+    related: ['uae-visa-for-parents-from-india-2026', 'us-visa-from-india-2026-complete-guide', 'schengen-visa-documents-checklist-2026'],
     cta: { slug: 'uae-visa', label: 'See Dubai visa pricing' },
     faqs: [
       {

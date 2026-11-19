@@ -1026,10 +1026,10 @@ export const destinations = [
     flag: '🇲🇾',
     accent: '#ffcc00',
     region: 'Asia',
-    visaType: 'Visa-free (until 31 Dec 2026)',
+    visaType: 'Visa-free to 31 Dec 2026, then eVISA',
     processingTime: 'No visa needed; MDAC online',
     processingTimeShort: 'Visa-free',
-    validity: 'Waiver valid until 31 Dec 2026',
+    validity: 'Waiver ends 31 Dec 2026; eVISA from 1 Jan 2027',
     stayDuration: 'Up to 30 days',
     entryType: 'Single',
     price: 'From ₹999',
@@ -1037,16 +1037,16 @@ export const destinations = [
     currency: 'INR',
     image: 'https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=900&h=600&fit=crop',
     heroImage: 'https://images.unsplash.com/photo-1567892737950-30c4db37f9eb?w=1600&h=900&fit=crop',
-    tagline: 'Visa-free for 30 days until 31 December 2026',
+    tagline: 'Visa-free ends 31 December 2026: eVISA needed from 1 January 2027',
     description:
       'Visa-free for 30 days until 31 December 2026. Travlys handles the MDAC and itinerary now, and eNTRI or e-Visa for trips the waiver does not cover.',
-    subtitle: 'Visa-free now; eNTRI and e-Visa when you need them',
+    subtitle: 'Visa-free until 31 December 2026; eVISA from 1 January 2027',
     aboutTitle: 'About the Malaysia visa',
     aboutText:
       'Indian passport holders can visit Malaysia visa-free for up to 30 days for business, tourism, social or transit purposes until 31 December 2026. You need a passport valid for at least six months, a confirmed return ticket and hotel booking, and the free Malaysia Digital Arrival Card (MDAC) submitted three days before arrival. Travlys helps with MDAC filing and itineraries now, and with eNTRI or eVISA applications for trips after the scheme ends or for stays the waiver does not cover.',
-    metaTitle: 'Malaysia Visa for Indians 2026: Visa-Free 30 Days + MDAC | Travlys',
+    metaTitle: 'Malaysia Visa for Indians 2027: Visa-Free Ends 31 Dec, eVISA | Travlys',
     metaDescription:
-      'Indians can visit Malaysia visa-free for 30 days until 31 December 2026 with the free MDAC. Travlys helps with MDAC, itineraries, and eNTRI or e-Visa from ₹999.',
+      'Malaysia visa-free entry for Indians ends 31 December 2026. From 1 January 2027 you need an eVISA. Travlys files Malaysia eVISAs and MDAC from ₹999.',
     keywords:
       'malaysia visa free for indians, malaysia mdac, malaysia digital arrival card, malaysia visa from india, malaysia entri, malaysia evisa, malaysia tourist visa, malaysia visa documents',
     includes: [
@@ -1058,8 +1058,8 @@ export const destinations = [
       'Approved visa emailed',
     ],
     faqs: [
-      { q: 'Do Indians need a visa for Malaysia right now?', a: 'No, not for visits of up to 30 days until 31 December 2026. Malaysia\'s visa waiver for Indian nationals covers business, tourism, social and transit visits. You must carry a passport valid for six months, a confirmed return ticket and a hotel booking, and submit the MDAC online before you arrive. Work is not allowed.' },
-      { q: 'What happens after 31 December 2026?', a: 'As of 24 October 2026, Malaysia has not announced whether the waiver will be extended. Before the waiver, Indians used eNTRI (up to 15 days per visit) or an eVISA. If your trip is in 2027, check with us or the High Commission before booking. Travlys files eNTRI or eVISA applications from ₹999 (Travlys fee) once the route is confirmed.' },
+      { q: 'Do Indians need a visa for Malaysia right now?', a: 'Not until 31 December 2026: visits of up to 30 days that start on or before that date are visa-free. Malaysia\'s visa waiver for Indian nationals covers business, tourism, social and transit visits. You must carry a passport valid for six months, a confirmed return ticket and a hotel booking, and submit the MDAC online before you arrive. Work is not allowed.' },
+      { q: 'What happens after 31 December 2026?', a: 'Visa-free entry ends. Malaysia’s Immigration Department said in a notice dated 17 November 2026 that the waiver for Indian nationals will not be extended, so from 1 January 2027 Indians need a Malaysia visa, applied for online (eVISA applications are reported to open on 1 December 2026). If you land on or before 31 December, that visit is still covered for up to 30 days. Travlys files Malaysia eVISAs from ₹999 (Travlys fee).' },
       { q: 'What is the MDAC and is it free?', a: 'The Malaysia Digital Arrival Card is a compulsory online form for foreign visitors, and it is free on the official portal, imigresen-online.imi.gov.my/mdac/main. The High Commission says Indian visitors must submit it three days before the arrival date. Avoid paid lookalike sites. Travlys can file it with you so the details match your bookings.' },
       { q: 'Can I work or stay longer than 30 days on visa-free entry?', a: 'No. The waiver allows up to 30 days and does not permit work. Paid work needs a work permit, employment pass or Visa With Reference arranged before travel, and longer visits need the right visa. Tell us your plans and Travlys will advise the correct visa and prepare the application.' },
       { q: 'How much do you charge?', a: 'Service starts at ₹999 for an eNTRI or e-Visa filing; Imigresen fees are paid separately. For visa-free trips there is no visa fee, and we can help with the MDAC and your documents.' },

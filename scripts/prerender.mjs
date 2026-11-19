@@ -888,6 +888,11 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'malaysia-visa-for-indians-2027-evisa',
+  'malaysia-visa-free-for-indians-2026',
+  'uae-visa-for-parents-from-india-2026',
+  'schengen-visa-for-parents-from-india-2026',
+  'f1-visa-interview-questions-answers-india-2026',
   'nepal-bhutan-passport-rule-indians-third-country-2026',
   'india-new-visitor-visa-e-oci-2026-nri-guide',
   'us-visa-for-parents-from-india-2026',

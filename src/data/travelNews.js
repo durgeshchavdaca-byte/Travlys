@@ -3,9 +3,65 @@
 // Rendered at /travel-news, and fed into the homepage, llms.txt and the
 // prerendered HTML so search engines and AI assistants see the latest dates.
 
-export const NEWS_UPDATED = '2026-11-05'
+export const NEWS_UPDATED = '2026-11-19'
 
 export const TRAVEL_NEWS = [
+  {
+    date: "2026-11-28",
+    headline: "Australia: No Further Stay (8503) becomes mandatory on visitor visas",
+    summary:
+      "For visitor visa applications made from 28 November 2026, condition 8503 is attached to every Visitor (subclass 600), ETA and eVisitor grant, so visitors cannot switch to another visa while in Australia. Indian parents planning long stays should ask for 6 or 12 months up front.",
+    href: "/blog/australia-visitor-visa-subclass-600-from-india-2026/",
+    source: { label: "Federal Register of Legislation: F2026L01503", url: "https://www.legislation.gov.au/F2026L01503/asmade/text" },
+  },
+  {
+    date: "2026-11-17",
+    headline: "Malaysia ends visa-free entry for Indians from 1 January 2027",
+    summary:
+      "Malaysia’s Immigration Department said in a 17 November notice that the 30-day visa waiver for Indian nationals ends on 31 December 2026; its country table lists the exemption only until then. From 1 January 2027 Indians need an eVISA. Visits that start by 31 December are still covered.",
+    href: "/blog/malaysia-visa-for-indians-2027-evisa/",
+    source: { label: "Immigration Department of Malaysia: Visa requirement by country", url: "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/" },
+  },
+  {
+    date: "2026-11-16",
+    headline: "New Zealand: up to 4-year post-study work visas for Indian PhD graduates",
+    summary:
+      "Under the India-New Zealand trade agreement, Indian PhD graduates can get post-study work visas of up to four years, and a new 6-month Short-Term Graduate Work Visa opened on 16 November 2026.",
+    href: "/blog/new-zealand-visa-for-indians-2026/",
+    source: { label: "Immigration New Zealand: India-New Zealand FTA visa commitments", url: "https://www.immigration.govt.nz/about-us/news-centre/india-new-zealand-free-trade-agreement-brings-new-visa-commitments/" },
+  },
+  {
+    date: "2026-11-11",
+    headline: "India cuts visa categories to 9; Tourist visa becomes Visitor visa (V-1, V-2)",
+    summary:
+      "The Home Ministry announced a simpler visa system for foreign visitors: 9 main categories instead of 13, and a Visitor visa with V-1 and V-2 types replacing the Tourist visa, to be issued by year-end. The current e-Visa works until then, and the digital e-OCI card is live.",
+    href: "/blog/india-new-visitor-visa-e-oci-2026-nri-guide/",
+    source: { label: "PIB: India simplifies its visa regime", url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335182" },
+  },
+  {
+    date: "2026-11-05",
+    headline: "Passport needed for third-country travel via the Nepal or Bhutan border",
+    summary:
+      "A Home Ministry Gazette order of 5 November 2026 says Indians travelling to or from a third country through the India-Nepal or India-Bhutan border need a valid passport. Trips only to Nepal or Bhutan can still use an accepted ID such as a voter ID.",
+    href: "/blog/nepal-bhutan-passport-rule-indians-third-country-2026/",
+    source: { label: "Gazette of India: S.O. 6027(E), 5 November 2026", url: "https://egazette.gov.in/WriteReadData/2026/277692.pdf" },
+  },
+  {
+    date: "2026-11-05",
+    headline: "Canada’s 2027-2029 plan: 150,000 new students and 220,000 workers a year",
+    summary:
+      "Canada’s immigration levels plan sets yearly targets of 150,000 new international students and 220,000 temporary workers for 2027-2029, plus one-time measures to help some temporary residents move to permanent residence.",
+    href: "/blog/study-abroad-visa-changes-2026-indian-students/",
+    source: { label: "IRCC: Immigration levels plan", url: "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels/" },
+  },
+  {
+    date: "2026-11-02",
+    headline: "UK sets a 10-year default wait for settlement under \"earned settlement\"",
+    summary:
+      "The UK Home Office confirmed a 10-year default qualifying period for settlement (ILR), with shorter routes for higher earners and some public-sector staff. Rule changes start in December 2026 and roll out through 2027.",
+    href: "/visa/uk-visa/",
+    source: { label: "GOV.UK: New rules for migrants settling in the UK", url: "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk" },
+  },
   // --- Announced, not yet in force (shown under "Coming up") ---
   {
     date: '2026-11-10',
@@ -24,17 +80,6 @@ export const TRAVEL_NEWS = [
     source: {
       label: 'GOV.UK: Statement of changes HC 584',
       url: 'https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible',
-    },
-  },
-  {
-    date: '2026-12-31',
-    headline: 'Malaysia visa-free entry for Indians is due to end',
-    summary:
-      'Malaysia’s 30-day visa waiver for Indians runs until 31 December 2026, and no extension had been announced when we checked on 28 October 2026. If you are travelling in 2027, avoid non-refundable bookings until Malaysia confirms the rule.',
-    href: '/blog/malaysia-visa-free-for-indians-2026/',
-    source: {
-      label: 'Malay Mail: Home Ministry extends visa exemption for Indians until end of 2026',
-      url: 'https://www.malaymail.com/news/malaysia/2024/12/21/home-ministry-extends-visa-exemption-for-indian-nationals-until-end-of-2026/160597',
     },
   },
   {
