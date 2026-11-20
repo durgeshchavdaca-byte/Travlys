@@ -8,6 +8,336 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "schengen-5-year-multiple-entry-visa-for-indians-2026",
+    "title": "Schengen Visa for 5 Years for Indians 2026: How the Cascade Rule Gets You 2-Year, Then 5-Year Multiple Entry",
+    "metaTitle": "Schengen Visa for 5 Years for Indians: Cascade Rule | Travlys",
+    "metaDescription": "Indians living in India get a 2-year multiple-entry Schengen visa after 2 lawfully used visas in 3 years, then normally 5 years. Rules, passport and tips.",
+    "excerpt": "Under the EU cascade for India, two lawfully used Schengen visas in three years lead to a 2-year multiple-entry visa, and that normally leads to a 5-year visa. Here is what the official rules say, what breaks the chain and how to ask for multiple entry.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "How-to",
+    "tags": [
+      "Schengen",
+      "5-year visa",
+      "Multiple entry",
+      "Cascade rule",
+      "Europe",
+      "Frequent travellers"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-fees-for-indians-2026",
+      "schengen-visa-appointment-india-how-to-get-slot-2026",
+      "schengen-visa-documents-checklist-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Schengen file built for multiple entry"
+    },
+    "faqs": [
+      {
+        "q": "How to get Schengen visa for 5 years for Indian?",
+        "a": "You normally get a 5-year Schengen visa after lawfully using a 2-year multiple-entry visa. Under the EU cascade for India, Indian citizens living in India first need two Schengen visas obtained and lawfully used in the previous three years, which leads to a 2-year visa. After you use that 2-year visa correctly, the next one is normally valid for five years, if your passport is valid long enough. You must apply at a Schengen consulate in India."
+      },
+      {
+        "q": "Can I get 5 year Schengen visa directly?",
+        "a": "It is possible but not the normal route. The Visa Code lets consulates issue a multiple-entry visa of up to five years in justified cases, when you prove a need to travel often and show integrity and reliability, especially lawful use of earlier visas, a stable economic situation at home and a genuine intention to return. Germany's missions in India confirm some trustworthy travellers get five years directly. Most first-time applicants should expect a visa for their trip dates only."
+      },
+      {
+        "q": "How to get Schengen visa for 2 years?",
+        "a": "An Indian citizen living in India gets a 2-year multiple-entry Schengen visa after obtaining and lawfully using two Schengen visas within the previous three years. The rule comes from Commission Implementing Decision C(2024) 2434, adopted on 18 April 2024. You must apply at a Schengen consulate in India, meet the normal entry conditions and ask for multiple entry on your form. Consulates can still issue a shorter visa in individual cases where they have doubts."
+      },
+      {
+        "q": "Is 5 year Schengen visa guaranteed after 2 year visa?",
+        "a": "No. The EU Delegation to India says a 2-year visa is normally followed by a 5-year visa, but consulates can shorten validity in individual cases where there is reasonable doubt you will meet the entry conditions for the whole period. Germany's missions in India state that applicants have no entitlement to these longer visas. A clean record on the 2-year visa, a passport valid for over five years and a strong current file give you the best chance."
+      },
+      {
+        "q": "How many days can I stay in Europe with 5 year Schengen visa?",
+        "a": "You can stay up to 90 days in any 180-day period, counted across all 29 Schengen countries, for the whole life of the visa. A 5-year visa is still a short-stay visa. It is not residence and does not allow you to work. The 90 days can be one trip or several. Also check the Duration of stay number on your visa sticker, which you must never exceed, and leave before the Until date."
+      },
+      {
+        "q": "How much passport validity is required for 5 year Schengen visa?",
+        "a": "For a full 5-year visa, your passport should be valid for at least five years and three months on the day the visa is issued. The India decision says that where the visa would outlast your passport, it ends three months before the passport expires. Germany's missions say you then get the next lower category, such as four years instead of five. Your passport must also be issued within the last 10 years and have two blank pages."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If every Schengen visa you get ends the week your trip ends, the cascade rule is your way out. Indian citizens living in India get a **2-year multiple-entry visa** after obtaining and lawfully using **two Schengen visas in the previous 3 years**, then normally a **5-year visa**, if the passport allows. Consulates can still issue less."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Rule:** Commission Implementing Decision C(2024) 2434, adopted 18 April 2024. **Who:** Indian nationals residing in India and applying at a Schengen consulate in India. **2-year visa:** two Schengen visas obtained and lawfully used in the previous 3 years. **5-year visa:** after lawfully using a 2-year multiple-entry visa within the previous 3 years. **Passport:** the visa ends 3 months before your passport expires, so a short passport means a shorter visa. **Stay limit:** 90 days in any 180 days, on every visa. **Guarantee:** none, consulates can shorten validity in individual cases."
+      },
+      {
+        "type": "h2",
+        "text": "What is the Schengen cascade rule for India?"
+      },
+      {
+        "type": "p",
+        "text": "The cascade is a ladder of longer visas for travellers with a clean Schengen record. The European Commission adopted the India version on **18 April 2024** as Implementing Decision C(2024) 2434. It changes the general Visa Code ladder for Indian citizens who live in India and apply at a Schengen consulate here."
+      },
+      {
+        "type": "p",
+        "text": "The decision explains its own logic. It says first-time Indian applicants pose high migratory risks, while the growing group of Indians who have lawfully used earlier visas pose low risks. So the rule rewards travel history, not income or job title. That is also why your first one or two visas are often issued only for the dates you asked for."
+      },
+      {
+        "type": "p",
+        "text": "Under the general Visa Code, the ladder is longer: a 1-year visa after three visas in two years, then 2 years, then 5 years. The India rule skips the 1-year step. Germany's missions in India note that foreign nationals living in India (not Indian citizens) still follow the older ladder. The EU Delegation to India adds that these visas give travel rights similar to visa-free travellers while they are valid, but they **do not allow you to work** in Europe."
+      },
+      {
+        "type": "h2",
+        "text": "How to get Schengen visa for 2 years"
+      },
+      {
+        "type": "p",
+        "text": "You qualify for the 2-year multiple-entry visa (Germany calls it a C2) when all of these are true:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You are an Indian national and you reside in India.",
+          "You apply at a Schengen consulate in India, usually through its VFS or BLS centre. An NRI applying from Dubai or London falls outside this decision.",
+          "You have obtained **and** lawfully used **two Schengen visas within the previous three years**.",
+          "You meet the normal Schengen entry conditions for the new trip, such as a valid passport, a justified purpose and enough money for the stay."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The two visas can come from any Schengen country. The rule counts Schengen visas, so a US, UK or Canada visa strengthens your profile but is not one of the two. The Visa Code also says airport transit visas and visas with limited territorial validity are not counted for long-validity multiple-entry visas."
+      },
+      {
+        "type": "h2",
+        "text": "How to get Schengen visa for 5 years"
+      },
+      {
+        "type": "p",
+        "text": "The 5-year visa is the next rung. The India decision leaves the general Visa Code rule for this step in place: a multiple-entry visa valid for **five years** is issued if you obtained and lawfully used a previous **two-year multiple-entry visa within the previous three years**. The EU Delegation to India describes the 2-year visa as normally followed by a 5-year visa, if the passport has enough validity left."
+      },
+      {
+        "type": "p",
+        "text": "For a first-time traveller, the usual path looks like this:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**First application:** a visa that usually covers only your trip. Use it exactly as issued.",
+          "**Second application:** another visa, again used correctly, within three years of the first.",
+          "**Third application:** a 2-year multiple-entry visa (C2).",
+          "**Next application, after you have travelled on the C2:** a 5-year multiple-entry visa (C5), if your passport allows."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You do not have to wait for the 2-year visa to run out. The Commission's visa FAQ says holders of a multiple-entry visa valid for at least six months may apply for a new visa before it expires. Make sure you have actually travelled on it first."
+      },
+      {
+        "type": "p",
+        "text": "Can you jump straight to five years? Article 24(2c) of the Visa Code allows a multiple-entry visa of up to five years for travellers who prove a need to travel often and their integrity and reliability, in particular lawful use of earlier visas, their economic situation at home and a genuine intention to leave. Germany's missions confirm some trustworthy travellers get a C5 directly. Treat it as a possibility, not a plan."
+      },
+      {
+        "type": "h2",
+        "text": "Is the 5-year Schengen visa guaranteed? Do consulates keep discretion?"
+      },
+      {
+        "type": "p",
+        "text": "No, and yes. The India decision itself says it does not affect a consulate's power to **shorten the validity in individual cases** where there is reasonable doubt that you will meet the entry conditions for the whole period (Article 24(2a) of the Visa Code)."
+      },
+      {
+        "type": "p",
+        "text": "Germany's missions in India state plainly that applicants have no entitlement to these longer visas, and that the visa section may issue a shorter visa even after two used visas. They call validity a discretionary decision based on the merits of each application. The Netherlands says on its official site that you cannot apply for a multiple-entry visa yourself. Its Ministry of Foreign Affairs decides when, for how long and for how many journeys your visa is valid, based on your travel plans and travel history."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "When a client with two used visas gets a short visa, there is usually one weak spot the officer could point to: a job change just before applying, savings that appeared in the last month, or an itinerary that does not match the country applied to. Fix that weak spot before the next application. Quoting the cascade rule to the officer will not do it for you."
+      },
+      {
+        "type": "h2",
+        "text": "What does lawfully used mean for a Schengen visa?"
+      },
+      {
+        "type": "p",
+        "text": "None of the official pages we checked publishes a detailed test. What they do make clear is this:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**You stayed within the days allowed.** Germany's missions say your stay must never exceed the number printed under Duration of stay on the sticker.",
+          "**You left before the Until date,** whatever days you had left.",
+          "**You used the visa for the purpose you gave.** Germany's missions warn that misuse and overstay can lead to expulsion and a ban on new visas.",
+          "**You actually travelled.** The rule says obtained and lawfully used, so a visa you never travelled on is weak evidence.",
+          "**Your trip matched the visa.** Germany's missions say a visa should come from the main destination's mission, especially for the first trip."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Authorities can check all of this. Since **10 April 2026**, the EU Entry/Exit System (EES) records the date and place of every entry and exit by non-EU short-stay travellers. It has replaced passport stamping and detects overstayers automatically."
+      },
+      {
+        "type": "h2",
+        "text": "What breaks the Schengen cascade: overstay, refusal and gaps"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Overstay:** even one extra day means the visa was not lawfully used. Beyond losing your place on the ladder, Germany's missions warn of expulsion and a ban.",
+          "**Refusal:** the India decision does not mention refusals. A refusal does not erase visas you used correctly, but it adds no rung, and the next officer will want to see what changed. The Commission's visa FAQ recommends reading the refusal reasons and fixing them before you reapply.",
+          "**Time gaps:** the window is the previous three years. If your qualifying visas fall outside it when you apply, you are back to an ordinary application.",
+          "**Short passport:** a passport that cannot hold the full visa gets you a shorter one (see the next section).",
+          "**Doubts about the new trip:** consulates can shorten validity in individual cases, even when your history qualifies."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Passport validity for a 5-year Schengen visa"
+      },
+      {
+        "type": "p",
+        "text": "A long visa cannot outlive your passport. Under Article 1(4) of the India decision, where the visa would run past your passport, it is issued to end **three months before** the passport expires. Germany's missions say you then receive the next lower category, for example a C4 instead of a C5."
+      },
+      {
+        "type": "p",
+        "text": "So for a full 5-year visa, your passport should be valid for at least **5 years and 3 months** on the day the visa is issued. Germany's missions in India also list these passport rules:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Valid for at least 3 months after your planned departure from the Schengen area (after the last departure, for several visits).",
+          "Issued within the previous 10 years.",
+          "At least two blank pages.",
+          "Passports with extended validity, added pages or damage are not accepted.",
+          "An old passport holding a valid visa can be used with your new passport only if both are attached and the name and data match exactly."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Check your passport expiry before you book the VFS slot. If it has less than five years and three months left, a 5-year visa will be cut short. Renewing the passport first is usually the cleaner fix."
+      },
+      {
+        "type": "h2",
+        "text": "Does the 90/180 rule apply on a 5-year Schengen visa?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. A 5-year visa is still a short-stay visa: at most **90 days in any 180-day period**, counted across all 29 Schengen countries. It is not five years of residence, and it does not let you work."
+      },
+      {
+        "type": "p",
+        "text": "Netherlands Worldwide explains that once you have spent 90 days in a 180-day period, you cannot use the visa to enter again until that window clears, even though the visa is still valid. Before each trip, count your days with our Schengen calculator at travlys.com/schengen-calculator."
+      },
+      {
+        "type": "h2",
+        "text": "How to request multiple entry on the Schengen form"
+      },
+      {
+        "type": "p",
+        "text": "Germany's missions tell applicants to state the request clearly on the application form, for example the validity wanted, 90 days of stay and MULT for entries. For business trips, the need for repeat travel should appear in the invitation or assignment letter. For private visits, a note in the invitation letter does the job. You also need proof of previous travel."
+      },
+      {
+        "type": "p",
+        "text": "The Netherlands works a little differently. You cannot choose a multiple-entry visa yourself, but you must describe your travel plans on the form, say if you will enter the Schengen area two or more times, and you can show flight bookings or invitations at your appointment."
+      },
+      {
+        "type": "callout",
+        "label": "Sample cover letter paragraph",
+        "text": "I am applying for a short-stay visa for [purpose] from [date] to [date], with [country] as my main destination. I have travelled to the Schengen area on [visa 1: issuing country, dates] and [visa 2: issuing country, dates] and complied with all conditions of both visas. As I [visit my daughter in Rotterdam twice a year / attend quarterly supplier meetings in Germany], I request a multiple-entry visa with the longest validity the consulate considers appropriate under Commission Implementing Decision C(2024) 2434."
+      },
+      {
+        "type": "p",
+        "text": "On insurance, Germany's missions say you need to submit proof of travel medical insurance only for the first trip, but you must be insured for later trips too and be ready to show it at entry."
+      },
+      {
+        "type": "h2",
+        "text": "Keep your travel history and choose the main destination honestly"
+      },
+      {
+        "type": "p",
+        "text": "Your history is your case. Keep these together in one folder:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Every old passport with Schengen visas in it.",
+          "Colour copies of each visa sticker.",
+          "Boarding passes and e-tickets for every Schengen entry and exit. With EES replacing stamps from 10 April 2026, new trips no longer leave stamps, so your own records matter more.",
+          "Hotel invoices or host letters showing where you stayed.",
+          "Any refusal letters, with the reasons."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Then apply to the right country. The Commission's visa FAQ says you apply to the country of your main destination, meaning the main purpose or the longest stay. If stays are equal, apply to the country whose external border you cross first. Germany's missions add that an application lodged with the wrong mission is returned: the visa fee is refunded, but VFS charges are not."
+      },
+      {
+        "type": "p",
+        "text": "Do not pick a country because its slots open sooner. A visa from one country used mainly in another is exactly the kind of history that makes the next officer cautious."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Frequent travellers who carry a one-page table of past trips (country, dates, visa number, purpose) answer the travel history question in seconds. The officer does not have to piece it together from old passports."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team reviews your past visas, passport validity and travel record, then builds a file that asks for multiple entry with the right evidence: cover letter, invitation wording, itinerary and a clean trip history table. If you got a short visa or a refusal, we start with a review of what the officer saw. NRI children in Europe can brief us on WhatsApp at +91 82009 18967 and we coordinate with their parents in India. We work from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 20 November 2026. Before you apply, re-check the EU Delegation to India announcement, Commission Implementing Decision C(2024) 2434, the German Missions in India Schengen visa FAQ and Netherlands Worldwide's multiple-entry page. France's official visa pages could not be opened on the day we checked, so confirm French practice with France-Visas or the VFS France site before applying to France."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission: Implementing Decision C(2024) 2434 on multiple-entry visas for Indian nationals residing in India",
+        "url": "https://home-affairs.ec.europa.eu/document/download/93d78385-3bd5-441f-bbf5-a233dceac4ae_en"
+      },
+      {
+        "label": "EU Delegation to India (EEAS): European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EU) 2019/1155 amending the Visa Code (Article 24 multiple-entry visas)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1155"
+      },
+      {
+        "label": "German Missions in India: Schengen visa FAQ",
+        "url": "https://india.diplo.de/in-en/service/schengen-visa-faq-2610538"
+      },
+      {
+        "label": "German Missions in India: Schengen visa",
+        "url": "https://india.diplo.de/in-en/service/-/2633538"
+      },
+      {
+        "label": "Netherlands Worldwide: Can I apply for a multiple-entry visa for the Netherlands?",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/apply-multiple-entry-visa"
+      },
+      {
+        "label": "Netherlands Worldwide: How often can I travel to the Netherlands with my Schengen visa?",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/how-often-travel"
+      },
+      {
+        "label": "European Commission Migration and Home Affairs: Visa frequently asked questions",
+        "url": "https://home-affairs.ec.europa.eu/document/download/dae5e071-1564-4a5d-9714-2147f7641781_en?filename=FAQs.pdf"
+      },
+      {
+        "label": "European Commission Migration and Home Affairs: Entry/Exit System (EES)",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en"
+      }
+    ]
+  },
+  {
     "slug": "germany-opportunity-card-chancenkarte-for-indians-2026",
     "title": "Germany Opportunity Card (Chancenkarte) for Indians 2026: Points, €1,091 Funds Rule and How to Apply",
     "metaTitle": "Germany Opportunity Card for Indians: Points 2026 | Travlys",
@@ -956,7 +1286,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Study abroad",
     "tags": [
       "Germany",
       "Student visa",
@@ -1926,9 +2256,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-5-year-multiple-entry-visa-for-indians-2026",
       "visa-application-centres-ahmedabad-addresses-2026",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-visa-for-parents-from-india-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -2250,7 +2580,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Study abroad",
     "tags": [
       "Canada study permit",
       "PAL letter",
@@ -4298,7 +4628,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-19",
     "updated": "2026-11-19",
     "readMinutes": 10,
-    "category": "How-to",
+    "category": "Study abroad",
     "tags": [
       "F-1 visa",
       "US student visa",
@@ -10634,9 +10964,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-5-year-multiple-entry-visa-for-indians-2026",
       "schengen-visa-appointment-india-how-to-get-slot-2026",
-      "schengen-visa-for-parents-from-india-2026",
-      "schengen-visa-refused-appeal-reapply-2026"
+      "schengen-visa-for-parents-from-india-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -24402,7 +24732,7 @@ export const BLOG_POSTS = [
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['schengen-visa-appointment-india-how-to-get-slot-2026', 'business-visa-from-india-2026-usa-uk-schengen-uae', 'schengen-visa-for-parents-from-india-2026'],
+    related: ['schengen-5-year-multiple-entry-visa-for-indians-2026', 'schengen-visa-appointment-india-how-to-get-slot-2026', 'business-visa-from-india-2026-usa-uk-schengen-uae'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {

@@ -888,6 +888,7 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'schengen-5-year-multiple-entry-visa-for-indians-2026',
   'germany-opportunity-card-chancenkarte-for-indians-2026',
   'uae-job-seeker-visa-for-indians-2026',
   'uae-5-year-multiple-entry-tourist-visa-for-indians-2026',
@@ -984,6 +985,7 @@ function buildLlmsTxt() {
     '## Topic hubs',
     '',
     `- [Visa for parents from India](${pageUrl('/blog/category/visas-for-parents')}): every guide to visit visas for Indian parents going to see children in the US, UK, Canada, Australia, New Zealand, the UAE and Schengen countries.`,
+    `- [Student visas for Indian students](${pageUrl('/blog/category/study-abroad')}): US F-1 interview questions, Canada study permits, Germany student visas and APS, UK and Australia rule changes.`,
     `- [Visa refused? What to do next](${pageUrl('/blog/category/refusals-and-reapplying')}): US 214(b), UK, Canada, Schengen and China refusals, appeal options and how to reapply.`,
     '',
     '## Data you can cite',
