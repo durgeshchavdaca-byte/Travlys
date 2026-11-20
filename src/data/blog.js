@@ -8,6 +8,614 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "germany-opportunity-card-chancenkarte-for-indians-2026",
+    "title": "Germany Opportunity Card (Chancenkarte) for Indians 2026: Points, €1,091 Funds Rule and How to Apply",
+    "metaTitle": "Germany Opportunity Card for Indians: Points 2026 | Travlys",
+    "metaDescription": "Germany Opportunity Card for Indians: score 6 points or hold a recognised degree, show €1,091 a month and pay the €75 fee. It lasts up to 1 year. Full guide.",
+    "excerpt": "The Chancenkarte lets Indian professionals spend up to a year in Germany looking for work, with 20 hours a week of side work allowed. Here is the official points table, the €1,091 a month funds rule and the India application process.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "Germany",
+      "Opportunity Card",
+      "Chancenkarte",
+      "Work visa",
+      "EU Blue Card",
+      "Job seeker visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&h=900&fit=crop",
+    "related": [
+      "germany-student-visa-for-indians-2027",
+      "schengen-visa-appointment-india-how-to-get-slot-2026",
+      "visa-rejection-reasons-india"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Check your Opportunity Card eligibility"
+    },
+    "faqs": [
+      {
+        "q": "How many points are needed for Germany Opportunity Card?",
+        "a": "You need at least 6 points, unless your degree or training is already fully recognised in Germany, in which case you need no points at all. Points come from partial recognition (4), German at B2 (3), B1 (2) or A2 (1), English at C1 (1), experience (2 or 3), a shortage occupation (1), age up to 35 (2) or 35 to 40 (1), a past six-month stay in Germany (1) and an eligible spouse applying with you (1)."
+      },
+      {
+        "q": "How much bank balance is required for Germany Opportunity Card?",
+        "a": "The German Missions in India ask for proof of at least €1,091 a month, which is €13,092 for a full year, about ₹13.8 lakh. A German blocked account is the usual proof, and the India checklist also asks for enough money for the return flight. A formal obligation letter (Verpflichtungserklärung) from a sponsor living in Germany is accepted instead. Check the figure on the mission page before you transfer, because it is revised from time to time."
+      },
+      {
+        "q": "Is IELTS accepted for Germany Opportunity Card in India?",
+        "a": "The India missions accept English certificates that meet ALTE standards, or TOEFL, and they say Pearson PTE, Duolingo and TOEFL online are not accepted in India. IELTS is not named on the India page, although other German embassies list it. Ask the mission or check the Consular Services Portal before you book a test. You need English at B2 to meet the basic language rule, and C1 earns 1 point."
+      },
+      {
+        "q": "Can I work full time on Opportunity Card in Germany?",
+        "a": "No. The Opportunity Card allows work of up to 20 hours a week on average, plus trial employment of up to two weeks with each employer. The trial work must be qualified work, aimed at vocational training, or linked to a recognition measure. Once you find a qualified job, you apply to switch to a residence permit for employment, such as the EU Blue Card, at the local foreigners office in Germany."
+      },
+      {
+        "q": "What is the Germany Opportunity Card visa fee in India?",
+        "a": "The national visa fee is €75, listed by the German Missions in India as ₹7,900 for applicants over 18, paid in rupees at the exchange rate on the day of your appointment. It is not refunded if the visa is refused or withdrawn. VFS charges its own service fee on top. Budget separately for degree evaluation, as a ZAB Statement of Comparability costs €208 if you need one."
+      },
+      {
+        "q": "Is the Germany job seeker visa still available for Indians?",
+        "a": "For an Indian professional who wants to go to Germany to look for work without a job offer, the German Missions in India point you to the Opportunity Card. Their page says it is the correct visa if you intend to work in Germany but have no job offer or contract yet. If you already hold a job offer, you should apply for an employment visa or EU Blue Card instead."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Most professionals who ask us about Germany carry one fear: spending a year of savings there and coming home without a job. Start with the official numbers. You need **6 points**, or a degree fully recognised in Germany. You must show **€1,091 a month** (€13,092 a year). The visa fee is **€75**. The card lasts up to **1 year** and allows **20 hours** of work a week."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**What it is:** a German residence permit to look for work, under Section 20a of the Residence Act. **Routes:** fully recognised degree or training (no points), or at least **6 points**. **Basic language rule (points route):** German A1 or English B2. **Funds:** €1,091 a month, €13,092 for a year (about ₹13.8 lakh). **Validity:** up to 1 year. **Work allowed:** up to 20 hours a week, plus trial work of up to two weeks per employer. **Visa fee:** €75 (₹7,900), plus the VFS service fee. **Where to apply:** Consular Services Portal, then an on-site appointment at VFS."
+      },
+      {
+        "type": "h2",
+        "text": "Germany Opportunity Card for Indians: who it is for"
+      },
+      {
+        "type": "p",
+        "text": "The Opportunity Card is for people who want to work in Germany but do not yet have a job offer. The German Missions in India say this plainly, and they add that anyone who already has a job offer or contract should apply for the right employment visa instead."
+      },
+      {
+        "type": "p",
+        "text": "The missions also give an honest warning. Job seekers who go to Germany without researching employers and openings rarely succeed, and some German has proved very helpful. Treat the card as a search permit backed by a plan, not as a work visa."
+      },
+      {
+        "type": "p",
+        "text": "There are two ways in:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Skilled professional route:** your university degree or vocational training is fully recognised in Germany. You need no points, only the funds and documents.",
+          "**Points route:** your qualification is not fully recognised, so you need a state-recognised degree or at least two years of state-recognised vocational training, German at A1 or English at B2, and at least 6 points."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Consular Services Portal asks you to fill in a questionnaire called \"your score counter\" first. It decides which route applies to you and gives you a personalised document list."
+      },
+      {
+        "type": "h2",
+        "text": "Opportunity Card Germany requirements: check recognition on ANABIN first"
+      },
+      {
+        "type": "p",
+        "text": "Check your degree on the ANABIN database before you count a single point, because you may not need points at all. The German Missions in India treat you as a skilled professional if two things are true:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your degree is rated **\"entspricht\"** or **\"gleichwertig\"** in ANABIN.",
+          "Your university has an ANABIN rating of **\"H+\"**. If it shows \"H+/-\", your degree programme must be named in the comments for that university."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you cannot find your degree or university, or the ratings do not match, get a **Statement of Comparability** from the Central Office for Foreign Education (ZAB) in Bonn. ZAB charges **€208** (about ₹21,900) and the process is fully online. For non-academic vocational training, ZAB issues a separate Statement on a Foreign Vocational Qualification, which it says can be used for an Opportunity Card."
+      },
+      {
+        "type": "p",
+        "text": "Two India-specific points catch people out. You must upload mark sheets for every semester. You also need a letter from your university confirming you studied on-site in \"regular mode\". If you studied by distance learning, you need confirmation from the relevant Indian authority that the programme was approved when you graduated, or a ZAB recognition certificate."
+      },
+      {
+        "type": "h2",
+        "text": "Chancenkarte points calculator: how the 6 points are counted"
+      },
+      {
+        "type": "p",
+        "text": "Points are set by law, in the table annexed to the Residence Act and Section 20b. You need at least **6**. Only one score counts in each group (for example, you get points for your highest German level, not for every level):"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Partial recognition** of your qualification by a German authority (adjustment measures still needed): **4 points**.",
+          "**German B2:** 3 points. **German B1:** 2 points. **German A2:** 1 point.",
+          "**English C1:** 1 point.",
+          "**Experience:** at least 5 years in the last 7 years, related to your qualification: **3 points**. At least 2 years in the last 5 years: **2 points**.",
+          "**Shortage occupation:** your qualification belongs to an occupation group listed for the Blue Card shortage rule, such as engineering, IT, medicine, nursing and teaching professionals: **1 point**.",
+          "**Age:** up to 35 when you apply: **2 points**. Over 35 and up to 40: **1 point**.",
+          "**Past stay in Germany:** at least six months, legal and continuous, in the last five years: **1 point**. Schengen short visits do not count.",
+          "**Spouse:** your spouse or registered partner also qualifies and applies with you: **1 point** for one of you."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Note that German A1 and English B2 earn nothing. They are only the entry ticket for the points route."
+      },
+      {
+        "type": "h3",
+        "text": "Two worked examples"
+      },
+      {
+        "type": "p",
+        "text": "A 30-year-old B.Tech software engineer from Ahmedabad with six years of related experience and English at B2: age 2, experience 3, shortage occupation 1. That makes **6 points**, enough, provided the degree is confirmed by ZAB or ANABIN and the English certificate is one the India missions accept."
+      },
+      {
+        "type": "p",
+        "text": "A 38-year-old B.Com graduate with three years of experience and German A2: age 1, experience 2, German 1. That makes **4 points**. Raising German to B1 adds one more point, and a spouse applying alongside adds another, reaching 6."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Applicants who list two or three named German employers in their motivation letter, with the job titles they applied for, give the visa officer the plan the missions ask for. A letter that only says \"I want to work in Europe\" does not."
+      },
+      {
+        "type": "h2",
+        "text": "Proof of funds: blocked account or sponsor"
+      },
+      {
+        "type": "p",
+        "text": "You must prove you can support yourself, currently with at least **€1,091 a month**. For a full year that is **€13,092**, about ₹13.8 lakh. The India checklist accepts:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A German **blocked account (Sperrkonto)** holding at least €1,091 a month, plus enough money for your return flight.",
+          "A **formal obligation letter (Verpflichtungserklärung)** from a sponsor living in Germany.",
+          "Statements of a current bank account, which the checklist also lists. Ask the mission how it weighs these against a blocked account for your case."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You also need health insurance valid from the date of entry for your stay. The Opportunity Card is issued for at most one year, and only if your living costs for that period are covered."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for the Opportunity Card from India"
+      },
+      {
+        "type": "p",
+        "text": "The German Missions in India checklist (last updated September 2024) and the portal ask for:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport issued within the last 10 years, with at least two blank pages.",
+          "Proof of funds and health insurance, as above, and proof of accommodation in Germany with a full address.",
+          "Degree or training certificates, all semester mark sheets, and recognition proof: ANABIN printouts, a ZAB statement, or a partial recognition notice.",
+          "Language certificates: German from Goethe-Institut/Max Mueller Bhavan, ÖSD or telc; English meeting ALTE standards or TOEFL. PTE, Duolingo and TOEFL online are not accepted in India.",
+          "Experience letters from employers showing exact dates and duties, and a CV in English or German.",
+          "Birth certificate, and Aadhaar with English translation if applicable.",
+          "A signed declaration on retirement provisions if you are 45 or older, or turn 45 while in Germany."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The signed motivation letter must say what work you want to do, whether and since when you have been learning German, which companies you have applied to or been interviewed by, and why you chose Germany over another EU country. Attach proof of applications or interview invitations. A simple opening that covers the first point: \"I am applying for the Opportunity Card to find work as a mechanical design engineer in the automotive supplier sector in Bavaria and Baden-Württemberg.\""
+      },
+      {
+        "type": "h2",
+        "text": "How to apply: Consular Services Portal, VFS, fee and processing time"
+      },
+      {
+        "type": "p",
+        "text": "You apply online through the **Consular Services Portal**, then submit biometrics and originals at an on-site appointment. The steps:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Create an account on the portal, choose \"Opportunity card\", and pick your country of residence (India) and the German mission for your state. Gujarat residents fall under the Consulate General in Mumbai.",
+          "Complete \"your score counter\", then upload the documents on your personalised list. You can save and return at any time.",
+          "After the pre-check you receive a link to book your on-site appointment. The embassy lists VFS as the place of submission for the Opportunity Card. If slots are full, VFS offers a waiting list.",
+          "Pay the visa fee of **€75 (₹7,900)** at the appointment, plus the VFS service fee. It is not refunded on refusal."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The missions do not publish a fixed processing time. Their FAQ says national visas can take several months depending on the category, there is no online tracking, and status questions are not answered in the first three months. Early appointments are given only in extreme medical or humanitarian cases. Plan your notice period at work with that in mind."
+      },
+      {
+        "type": "h2",
+        "text": "Germany work rules on the Opportunity Card: 20 hours and trial work"
+      },
+      {
+        "type": "p",
+        "text": "The card allows work of **up to 20 hours a week** on average, and no other kind of employment. You may also do **trial work of up to two weeks** with each employer, if the work is qualified, aimed at a vocational training place, or part of a recognition measure."
+      },
+      {
+        "type": "p",
+        "text": "When you land a qualified job, you apply to switch to a residence permit for employment, such as the EU Blue Card, at the foreigners office where you live. If your job does not yet meet another permit's conditions, the law allows a follow-up Opportunity Card of up to two years, with the employment agency's approval. If you return without a job, you can only get a new search card after spending at least as long outside Germany as you spent there on the last one."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Candidates who start interviewing online from India before they fly usually use the first months in Germany for second rounds and trial days, not for writing their first applications. That is the best use of a twelve-month card."
+      },
+      {
+        "type": "h2",
+        "text": "Opportunity Card vs EU Blue Card: which Germany work visa suits Indians?"
+      },
+      {
+        "type": "p",
+        "text": "If you already have a job offer that pays enough, skip the Opportunity Card and apply for the **EU Blue Card**. The Federal Ministry of the Interior published the 2026 minimum salaries in December 2025:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Standard threshold:** **€50,700** gross a year (about ₹53 lakh).",
+          "**Lower threshold:** **€45,934.20** a year (about ₹48 lakh) for shortage occupations such as IT, engineering and medicine, for graduates who finished their degree within the last three years, and for IT specialists without a degree who have at least three years of relevant experience in the last seven."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Blue Card also needs a recognised degree (except that IT route) and a job contract or binding offer of at least six months. The Opportunity Card needs no offer at all, but it limits you to part-time and trial work. One caution: the German Missions in India's national visa FAQ still shows older salary figures, so rely on the 2026 notice and confirm with your employer's HR. The thresholds change every January."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Opportunity Card"
+      },
+      {
+        "type": "p",
+        "text": "We start with a recognition check: ANABIN ratings for your degree and university, and whether you need a ZAB statement. Then we work out your points honestly, draft the motivation letter around your real job applications, set up the Consular Services Portal file, and prepare you for the VFS appointment. Family members abroad can brief us on WhatsApp at +91 82009 18967. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the German Missions in India Opportunity Card page and checklist, national visa page, national visa FAQ and appointments page, Sections 20a, 20b and the points annex of the Residence Act, the Federal Ministry of the Interior notice on 2026 Blue Card salaries, and ZAB's fee page on 20 November 2026. Make it in Germany blocked automated access, so its self-check was not used. Re-check the monthly funds figure on india.diplo.de and the Blue Card thresholds each January."
+      }
+    ],
+    "sources": [
+      {
+        "label": "German Missions in India: Opportunity Card",
+        "url": "https://india.diplo.de/in-en/service/2756118-2756118"
+      },
+      {
+        "label": "German Missions in India: Checklist for a job search Opportunity Card",
+        "url": "https://india.diplo.de/blob/2659808/f370b5253f81ec9cc4269673cd359b8b/chancenkarte---opportunity-card-data.pdf"
+      },
+      {
+        "label": "German Missions in India: National Visa",
+        "url": "https://india.diplo.de/in-en/service/2755482-2755482"
+      },
+      {
+        "label": "German Missions in India: National Visa FAQs",
+        "url": "https://india.diplo.de/in-en/service/2546328-2546328"
+      },
+      {
+        "label": "German Embassy New Delhi: Visa appointments",
+        "url": "https://india.diplo.de/in-en/service/2503980-2503980"
+      },
+      {
+        "label": "Federal Ministry of Justice: Residence Act, Section 20a (Opportunity Card)",
+        "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html"
+      },
+      {
+        "label": "Federal Ministry of Justice: Residence Act, Section 20b (Points for the Opportunity Card)",
+        "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__20b.html"
+      },
+      {
+        "label": "Federal Ministry of Justice: Residence Act, Annex (Opportunity Card points table)",
+        "url": "https://www.gesetze-im-internet.de/aufenthg_2004/anlage.html"
+      },
+      {
+        "label": "Federal Ministry of the Interior (Bundesanzeiger): Minimum salaries for the EU Blue Card 2026",
+        "url": "https://www.bundesanzeiger.de/pub/publication/REViP4bN6jVdpGxPaiQ/content/REViP4bN6jVdpGxPaiQ/BAnz%20AT%2018.12.2025%20B3.pdf"
+      },
+      {
+        "label": "ZAB (Central Office for Foreign Education): Statement of Comparability fees",
+        "url": "https://zab.kmk.org/en/statement-comparability/fees"
+      }
+    ]
+  },
+  {
+    "slug": "uae-job-seeker-visa-for-indians-2026",
+    "title": "UAE Job Seeker Visa for Indians 2026: Eligibility, AED Fees, Guarantee and Fake Job Warnings",
+    "metaTitle": "UAE Job Seeker Visa for Indians 2026: Fees, Rules | Travlys",
+    "metaDescription": "UAE job seeker visa for Indians: single entry for 60, 90 or 120 days, no sponsor, for MOHRE skill levels 1-3. ICP charges AED 300 plus an AED 1,000 deposit.",
+    "excerpt": "The UAE lets skilled graduates enter for 60, 90 or 120 days to look for work without a sponsor. Here are the official eligibility rules, ICP and GDRFA fees, the refundable guarantee, and how to avoid fake job offers and illegal agents.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "Country guides",
+    "tags": [
+      "UAE",
+      "Dubai",
+      "Job seeker visa",
+      "Work visa",
+      "eMigrate",
+      "Fake job offers"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?w=1600&h=900&fit=crop",
+    "related": [
+      "uae-5-year-multiple-entry-tourist-visa-for-indians-2026",
+      "dubai-visa-cost-from-india-2026",
+      "uae-visa-on-arrival-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Get your UAE job seeker visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Who is eligible for UAE job seeker visa?",
+        "a": "You are eligible if you hold at least a bachelor's degree and either fall in skill level 1, 2 or 3 of the Ministry of Human Resources and Emiratisation (MOHRE) classification, or graduated within the last two years from one of the world's top 500 universities as classified by the UAE Ministry of Education. Levels 1 to 3 cover managers, professionals and technicians. You must also pay the financial guarantee and hold health insurance valid in the UAE."
+      },
+      {
+        "q": "What is the fee of Dubai job seeker visa for Indian?",
+        "a": "GDRFA Dubai lists AED 200 for 60 days, AED 300 for 90 days and AED 400 for 120 days, plus 5% VAT and a AED 1,000 refundable security deposit with small handling fees. ICP's federal 60-day visa costs AED 300 in fees plus the same AED 1,000 guarantee. In rupees, a 60-day visa needs roughly ₹30,000 to ₹32,000 upfront, most of it the refundable deposit. Extra fees apply if you apply from inside the UAE."
+      },
+      {
+        "q": "Is UAE job seeker visa single entry or multiple entry?",
+        "a": "ICP and the UAE government portal describe it as single entry, for one trip. GDRFA Dubai's service page says \"one or more visits\", so the two official sources do not match. Plan on single entry: if you leave the UAE, assume the visa ends and you will need a new one. Check the entry type printed on your visa before you book flights, and ask at issue if you expect to travel out."
+      },
+      {
+        "q": "Can I convert UAE job seeker visa to work visa?",
+        "a": "Yes, your employer can start your work permit and work entry permit while you are in the UAE, so you do not have to fly back to India. MOHRE must approve a work permit first, and GDRFA Dubai charges an extra in-country fee of AED 500 plus small fees when the person is already inside the country. After that, the work entry permit gives 60 days to complete medical, Emirates ID and residence visa steps."
+      },
+      {
+        "q": "Is the AED 1000 deposit refundable for UAE job seeker visa?",
+        "a": "Yes. ICP says the financial guarantee can be refunded through a refund request after the visa is cancelled or after you leave the UAE, as long as the visa is cancelled after your departure and you have committed no residency violations. Overstaying costs AED 50 a day under ICP's rules and puts the refund at risk. Keep your payment receipts, because you will need them for the refund claim."
+      },
+      {
+        "q": "Do ECR passport holders need emigration clearance for Dubai jobs?",
+        "a": "Yes. The Ministry of External Affairs says ECR passport holders need emigration clearance from the Protector of Emigrants when going abroad for employment to ECR countries, and the UAE is on that list. Clearance is given electronically through the eMigrate system, usually after recruitment by a registered recruiting agent or a direct employer registered on eMigrate. Do not take a UAE job offer that asks you to travel on a visit or tourist visa to work."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Most Indians who ask us about this visa really worry whether the job offer or agent in front of them is real. The visa itself is simple. The UAE issues a single-entry job exploration visa for **60, 90 or 120 days**, with no sponsor needed, to graduates in **MOHRE skill levels 1 to 3** or top-500 universities. ICP charges **AED 300** for 60 days, plus a refundable **AED 1,000** guarantee."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** visit visa to explore job opportunities, no host or sponsor needed. **Durations:** 60, 90 or 120 days. **Entry:** single entry (ICP and u.ae); GDRFA Dubai says one or more visits. **Who qualifies:** bachelor's degree plus MOHRE skill level 1, 2 or 3, or a top-500 university graduate within the last 2 years. **ICP fee (60 days):** AED 300 (about ₹7,200). **GDRFA fee:** AED 200, 300 or 400 plus 5% VAT. **Guarantee:** AED 1,000 (about ₹24,000), refundable. **Processing:** about 2 days. **Overstay fine:** AED 50 a day."
+      },
+      {
+        "type": "h2",
+        "text": "What is the UAE job seeker visa?"
+      },
+      {
+        "type": "p",
+        "text": "It is a visit visa that lets a foreigner enter the UAE to search for a job without a host or sponsor in the country. The UAE government portal (u.ae) describes it as being for one trip, with a choice of 60, 90 or 120 days."
+      },
+      {
+        "type": "p",
+        "text": "It is a search visa, not a work visa. Under the UAE Labour Law, nobody may work in the UAE without a work permit issued by the Ministry of Human Resources and Emiratisation (MOHRE). You can attend interviews and meet employers on this visa, but you cannot start the job until your employer has completed the work permit and residence process."
+      },
+      {
+        "type": "h2",
+        "text": "UAE job seeker visa eligibility: MOHRE skill levels and top-500 graduates"
+      },
+      {
+        "type": "p",
+        "text": "You must hold at least a **bachelor's degree or its equivalent**, pay the financial guarantee, and fit one of two categories:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**MOHRE skill level 1, 2 or 3.** MOHRE sorts jobs into nine levels based on the international ISCO classification. Level 1 covers legislators, managers and business executives. Level 2 covers professionals in scientific, technical and human fields. Level 3 covers technicians in scientific, technical and humanitarian fields.",
+          "**A graduate of one of the world's top 500 universities**, according to the classification approved by the UAE Ministry of Education, who graduated **within the last two years**."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In practice, an engineer, accountant, IT professional, nurse or manager with a degree usually falls in levels 1 to 3. A sales, hospitality or trade role without a degree usually does not, and that applicant should look for an employer-sponsored work visa instead. ICP's document list mentions a MOHRE certificate confirming your skill level and, for the top-500 route, a Ministry of Education certificate on your university's ranking. Ask at the time of applying which of these the system needs for your case, because the portals often pull data automatically."
+      },
+      {
+        "type": "h2",
+        "text": "UAE job seeker visa fees and the financial guarantee"
+      },
+      {
+        "type": "p",
+        "text": "The fee depends on which authority issues the visa. Both list a **AED 1,000** guarantee that you get back if you follow the rules."
+      },
+      {
+        "type": "h3",
+        "text": "ICP (federal) 60-day job exploration visa"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Application fee: AED 100.",
+          "Issuance fee: AED 100.",
+          "Smart services fee: AED 100.",
+          "Financial guarantee: AED 1,000 (about ₹24,000), refundable.",
+          "Total upfront: **AED 1,300** (about ₹31,200), of which AED 300 (about ₹7,200) is the actual fee."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "GDRFA Dubai"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "60 days: **AED 200** (about ₹4,800).",
+          "90 days: **AED 300** (about ₹7,200).",
+          "120 days: **AED 400** (about ₹9,600).",
+          "Plus 5% VAT, a AED 1,000 security deposit, a AED 20 guarantee service fee and a AED 40 fee for collecting and returning the guarantee.",
+          "If you apply while already inside the UAE: AED 500 in-country fee plus AED 10 Knowledge Dirham and AED 10 Innovation Dirham."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "ICP says the guarantee is refunded on request after the visa is cancelled or after you leave, provided the visa is cancelled after departure and there are no residency violations. Overstaying costs **AED 50 a day**. GDRFA notes the total can vary with the applicant's circumstances, and agents add their own charges on top."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for the Dubai job seeker visa for Indians"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport valid for at least six months.",
+          "A recent colour personal photo.",
+          "Bachelor's degree certificate, attested. The u.ae portal says the qualification certificate must be attested, and MOHRE's skill rules require certificates attested by the competent authorities.",
+          "Health insurance valid in the UAE, which ICP lists as a condition.",
+          "For top-500 graduates: proof of the university's ranking and your study dates, as listed by ICP."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Degree attestation is often the slowest step in the file. Start it before you pay any visa fee, because the visa clock starts at issue and you do not want it running while you wait for a stamp."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply: ICP or GDRFA Dubai"
+      },
+      {
+        "type": "p",
+        "text": "You apply online, either with the federal authority or with Dubai's own immigration department:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**ICP (Federal Authority for Identity, Citizenship, Customs and Port Security):** apply through the ICP smart services website or app. The u.ae portal links separate ICP services for 60, 90 and 120 days, all single entry. ICP lists 2 days for completion and requires a UAE Pass login.",
+          "**GDRFA Dubai:** apply through its smart services (UAE Pass or username), at a Customer Happiness Centre, or at an Amer centre in Dubai. GDRFA lists 48 hours for completion. It also has a separate service to extend this visa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you plan to job hunt mainly in Dubai, GDRFA Dubai is the natural choice; ICP is the federal route. Either visa lets you enter the UAE and attend interviews anywhere in the country."
+      },
+      {
+        "type": "h2",
+        "text": "Is the UAE job seeker visa single entry?"
+      },
+      {
+        "type": "p",
+        "text": "Treat it as **single entry**. ICP names its services \"Job Exploration Visa, Single Entry\", and u.ae says the visa is for one trip. GDRFA Dubai's page, however, describes it as allowing \"one or more visits\". Since official sources disagree, assume a trip back to India ends the visa, and check the entry type printed on yours."
+      },
+      {
+        "type": "p",
+        "text": "ICP's terms also say the visa is valid for 60 days from issue and you must enter within that time, or the visa is cancelled or needs extending. Book your flight soon after the visa is issued, and confirm how your permitted stay is counted when you apply."
+      },
+      {
+        "type": "h2",
+        "text": "Got hired? Switching to a UAE employment visa"
+      },
+      {
+        "type": "p",
+        "text": "You do not need to return to India. Once an employer hires you, the process runs from inside the UAE:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The employer applies to **MOHRE for a work permit**. MOHRE says permits are issued only to registered establishments, the job must match the company's activity, and the worker must be at least 18.",
+          "The employer then obtains a **work entry permit**. GDRFA Dubai says this gives you 60 days from entry to complete residency formalities, and charges an extra AED 500 in-country fee, plus AED 10 Knowledge Dirham and AED 10 Innovation Dirham, when the person is already in the UAE.",
+          "You complete the medical test, Emirates ID biometrics and residence visa. MOHRE's Work Bundle platform now combines these steps for many employers."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Work permit fees range from AED 250 to AED 3,450 depending on the company's MOHRE classification. Ask in writing who pays them before you accept an offer."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai job visa from India: fake job offers, agents and eMigrate"
+      },
+      {
+        "type": "p",
+        "text": "The safest route to a UAE job is still an employer-sponsored work visa arranged before you travel. India's Ministry of External Affairs (MEA) has warned about unregistered agents who cheat job seekers with fake offers and charge ₹2 to 5 lakh. Its advisory says:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A valid job offer comes with an employment contract signed by the foreign employer, the recruiting agent and you, stating the terms and salary.",
+          "Valid offers let you travel on an employment or work visa, not a tourist visa. Tourist visas are only for tourism.",
+          "A registered recruiting agent may charge you no more than **₹30,000 plus 18% GST** under the Emigration Act 1983, and must give a receipt.",
+          "Check any agent's licence under \"List of active RA\" on emigrate.gov.in. As of April 2026, MEA says it had notified 3,505 illegal agents on the portal."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If your passport is **ECR (Emigration Check Required)**, you need emigration clearance from the Protector of Emigrants to go abroad for employment to ECR countries, and the UAE is one of them. Clearance is granted electronically through eMigrate. Never let anyone send an ECR passport holder to the UAE on a job seeker or visit visa to start work. There is no Protector of Emigrants office in Ahmedabad yet; MEA says one is being taken up with the Gujarat government."
+      },
+      {
+        "type": "p",
+        "text": "For doubts or complaints, contact MEA's Pravasi Bharatiya Sahayata Kendra on toll-free 1800 11 3090 or helpline@mea.gov.in. The Consulate General of India in Dubai also asks job seekers to verify doubtful offers with its Labour wing at labour.dubai@mea.gov.in."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Before paying anyone, ask three questions: what is the employer's trade licence name, which visa will I enter on, and who pays the work permit? A genuine recruiter answers all three in writing. A fake one moves the conversation to WhatsApp voice notes."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your UAE job seeker visa"
+      },
+      {
+        "type": "p",
+        "text": "We check your eligibility against the MOHRE skill levels, guide degree attestation, file the job seeker visa with ICP or GDRFA, and review any job offer you receive before you pay anyone. Relatives already in the UAE can brief us on WhatsApp at +91 82009 18967, and we coordinate with the applicant in India. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the u.ae jobseeker visit visa, skill levels and work permit pages, ICP's 60-day job exploration visa service, GDRFA Dubai's job seeker visa and work entry permit services, MEA's advisory on illegal recruitment and its April 2026 overseas employment overview, and the Consulate General of India Dubai advisory on 20 November 2026. ICP's website currently shows only the 60-day service; re-check the 90 and 120-day fees on the ICP app or gdrfad.gov.ae before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "UAE Government Portal (u.ae): Jobseeker visit visa",
+        "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
+      },
+      {
+        "label": "UAE Government Portal (u.ae): Professional levels of jobs in the UAE",
+        "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/skill-levels-of-jobs-in-the-uae"
+      },
+      {
+        "label": "ICP: Issuance of a Job Exploration Visa, 60 Days, Single Entry",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68e3509b5ae59b00117383ea"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a visit visa to explore job opportunities",
+        "url": "https://gdrfad.gov.ae/en/services/2a679791-408a-11ed-4fe5-0050569629e8"
+      },
+      {
+        "label": "GDRFA Dubai: Visa issuance for foreigners linked with job contract",
+        "url": "https://gdrfad.gov.ae/en/node/13884"
+      },
+      {
+        "label": "UAE Government Portal (u.ae): Work permits",
+        "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/work-permits"
+      },
+      {
+        "label": "Ministry of External Affairs (eMigrate): Advisory on overcharging by agents, fake overseas jobs and illegal recruitment",
+        "url": "https://emigrate.gov.in/assets/pdfs/advisory/Advisory_2024.pdf"
+      },
+      {
+        "label": "Ministry of External Affairs: Overview of work of Overseas Employment (April 2026)",
+        "url": "https://www.mea.gov.in/images/pdf/01-Overview-of-work-of-Overseas-Employment-21-04-2026.pdf"
+      },
+      {
+        "label": "Consulate General of India, Dubai: Press release on fraud job offers",
+        "url": "https://www.cgidubai.gov.in/section/press-releases/press-release-on-fraud-job-offers/"
+      }
+    ]
+  },
+  {
     "slug": "uae-5-year-multiple-entry-tourist-visa-for-indians-2026",
     "title": "Dubai 5 Year Visa for Indians 2026: UAE Multiple-Entry Tourist Visa Rules, Fees and Documents",
     "metaTitle": "Dubai 5 Year Visa for Indian Citizens: Rules 2026 | Travlys",
@@ -28,9 +636,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1528702748617-c64d49f918af?w=1600&h=900&fit=crop",
     "related": [
+      "uae-job-seeker-visa-for-indians-2026",
       "uae-visa-on-arrival-for-indians-2026",
-      "dubai-visa-cost-from-india-2026",
-      "uae-visa-for-parents-from-india-2026"
+      "dubai-visa-cost-from-india-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -359,9 +967,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=1600&h=900&fit=crop",
     "related": [
+      "germany-opportunity-card-chancenkarte-for-indians-2026",
       "study-abroad-visa-changes-2026-indian-students",
-      "schengen-visa-appointment-india-how-to-get-slot-2026",
-      "canada-study-permit-for-indians-2027"
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -23928,7 +24536,7 @@ export const BLOG_POSTS = [
     category: 'Cost guides',
     tags: ['UAE', 'Dubai', 'e-Visa', 'Cost'],
     heroImage: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&h=900&fit=crop',
-    related: ['uae-5-year-multiple-entry-tourist-visa-for-indians-2026', 'urgent-visa-from-india-fastest-options-2026', 'uae-visa-for-parents-from-india-2026'],
+    related: ['uae-job-seeker-visa-for-indians-2026', 'uae-5-year-multiple-entry-tourist-visa-for-indians-2026', 'urgent-visa-from-india-fastest-options-2026'],
     cta: { slug: 'uae-visa', label: 'See Dubai visa pricing' },
     faqs: [
       {
