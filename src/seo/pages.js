@@ -295,6 +295,7 @@ const CATEGORY_BLURBS = {
   'Country guides': 'Full guides to applying for a visa to a specific country from India.',
   'Study abroad': 'Student visa guides for Indian students: US F-1 interview questions, Canada study permits, Germany student visas and APS, UK and Australia rule changes, with fees, funds and timelines checked on official sources.',
   'Visas for parents': 'Every guide to getting Indian parents a visa to visit their children abroad: the US, UK, Canada, Australia, New Zealand, the UAE and Schengen countries. Documents, invitation letters, interview questions, fees and refusal reasons, checked on official sources.',
+  'Work visas': 'Work and job-search visas for Indian professionals: the Germany Opportunity Card, the UAE job seeker visa and Japan’s Specified Skilled Worker route, with official eligibility rules, fees and warnings about fake recruiters.',
   'Refusals and reapplying': 'Visa refused? What the refusal letter means and what to do next for US 214(b), UK, Canada, Schengen and China refusals: appeal options, deadlines, and how to fix the file before you reapply.',
 }
 
@@ -303,6 +304,7 @@ const CATEGORY_TITLES = {
   'Visas for parents': 'Visa for Parents from India 2026: US, UK, Canada, Australia, UAE, Schengen',
   'Refusals and reapplying': 'Visa Rejected? What to Do Next: US, UK, Canada, Schengen (2026)',
   'Study abroad': 'Student Visa for Indian Students 2026-27: US F-1, Canada, Germany, UK, Australia',
+  'Work visas': 'Work Visa for Indians 2026: Germany Opportunity Card, UAE Job Seeker, Japan SSW',
 }
 
 export function getCategoryMeta(cat) {

@@ -8,6 +8,350 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "japan-specified-skilled-worker-visa-for-indians-2026",
+    "title": "Japan Specified Skilled Worker (SSW) Visa for Indians 2026: Fields, JFT-Basic, CoE and Fake Agent Warnings",
+    "metaTitle": "Japan work visa for Indians: SSW 2026 Guide | Travlys",
+    "metaDescription": "Japan work visa for Indians: the SSW visa covers 19 fields. Pass a skills test plus JFT-Basic A2 or JLPT N4, get an employer, and never pay a deposit.",
+    "excerpt": "Japan's Specified Skilled Worker visa lets Indians work in 19 fields after passing a skills test and a Japanese test. Here are the official fields, which tests run in India, SSW (i) vs (ii), the CoE process and how to spot fake agents.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "Work visas",
+    "tags": [
+      "Japan",
+      "SSW visa",
+      "Tokutei Ginou",
+      "Work visa",
+      "JFT-Basic",
+      "Fake job offers"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1600&h=900&fit=crop",
+    "related": [
+      "japan-visa-for-indians-2026",
+      "germany-opportunity-card-chancenkarte-for-indians-2026",
+      "visa-consultant-vs-diy"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Ask us about work visas"
+    },
+    "faqs": [
+      {
+        "q": "Can Indian apply for Japan SSW visa without agent?",
+        "a": "Yes. ISA's page on India says using a sending organisation approved by the Indian government is optional, and a Japanese employer can sign a contract with you directly. You still need to pass the skills test and JFT-Basic or JLPT N4, find the employer yourself, and let the employer apply for your Certificate of Eligibility in Japan. If you do use an agency, ask for an itemised fee list in writing and never pay a security deposit."
+      },
+      {
+        "q": "Is JFT Basic test conducted in India?",
+        "a": "Yes. The Immigration Services Agency of Japan's test calendar lists JFT-Basic dates in India, including 1, 5, 6, 10 and 12 to 15 November 2026. It is a computer-based test booked through Prometric, held every month as a rule, with results shown on the day. A score of 200 out of 250 (A2.2) meets the SSW (i) language requirement. Check Prometric for current Indian venues and the fee before booking."
+      },
+      {
+        "q": "Which JLPT level is required for Japan SSW visa?",
+        "a": "JLPT N4 or higher meets the Japanese requirement for SSW (i), as does JFT-Basic at A2.2. Nursing care also needs the Nursing Care Japanese Language Evaluation Test. For bus drivers, taxi drivers and train operation work, applications from 1 April 2027 need Japanese equivalent to B1. SSW (ii) applications from 1 April 2027 also need B1 or higher. JLPT is held in India in July and December in eight cities."
+      },
+      {
+        "q": "Can I take my wife and children to Japan on SSW visa?",
+        "a": "Only on SSW (ii). On SSW (i), family members are not permitted to accompany you as a rule, and the total stay is capped at 5 years. SSW (ii) allows your spouse and children to join you if requirements are met, and it can be renewed with no limit. SSW (ii) is open in 11 of the 19 fields and needs a higher-level skills test, plus B1 Japanese for applications from 1 April 2027."
+      },
+      {
+        "q": "How long does Japan SSW visa process take from India?",
+        "a": "Plan for at least two to four months after you sign the contract. ISA's standard processing time for the Certificate of Eligibility is 1 to 3 months, and your employer applies for it in Japan. The original CoE is then posted to you, and you apply for the visa at the Embassy of Japan in India. Before all this you need test passes, and JLPT results can take about two months to arrive."
+      },
+      {
+        "q": "Are restaurant jobs in Japan open for Indians in 2026?",
+        "a": "Not for new arrivals at the moment. On 13 April 2026 ISA temporarily stopped issuing Certificates of Eligibility in the food service field, and applications received from that date are in principle refused. In November 2026 ISA was still processing older applications received up to 16 February 2026. Treat any agent selling a Japan restaurant job from India today with suspicion, and check ISA's food service status page for changes."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried that a Japan job offer is fake? Start with the rules. Indians can work in Japan on the **Specified Skilled Worker (SSW)** visa, covered by an India-Japan agreement signed on **18 January 2021**. You need an employer in one of **19 fields**, a skills test pass and **JFT-Basic A2** or **JLPT N4**. Japan's rules require that no security deposit has been taken from you."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** Specified Skilled Worker (i) and (ii), called Tokutei Ginou in Japanese. **Fields:** 19 for SSW (i), 11 of them also for SSW (ii). **Tests for SSW (i):** a skills test for your field plus JFT-Basic at A2.2 (score 200 of 250) or JLPT N4 or higher. **Tests in India:** JFT-Basic most months, and skills tests for 7 fields on ISA's November to December 2026 calendar. **Stay:** SSW (i) up to 5 years in total; SSW (ii) renewable with no limit. **Family:** SSW (ii) only, spouse and children. **Certificate of Eligibility:** applied for by your Japanese employer, standard processing 1 to 3 months. **Indian agent:** optional, not compulsory. **Restaurant jobs:** new CoEs suspended since 13 April 2026."
+      },
+      {
+        "type": "h2",
+        "text": "Japan work visa for Indians: what SSW is and what the India-Japan agreement does"
+      },
+      {
+        "type": "p",
+        "text": "SSW is a Japanese status of residence for foreign workers in sectors that are short of staff. It started on 1 April 2019 and has two levels. SSW (i) is for work needing considerable knowledge or experience. SSW (ii) is for proficient, more senior skills. At the end of June 2026 Japan had **425,961** people on SSW (i) and **18,295** on SSW (ii), according to preliminary figures from the Immigration Services Agency of Japan (ISA)."
+      },
+      {
+        "type": "p",
+        "text": "India and Japan signed a Memorandum of Cooperation (MoC) on SSW in New Delhi on 18 January 2021. It does not create jobs or quotas for Indians. It sets up information sharing and a Joint Working Group, with the stated aim of eliminating malicious intermediaries. India's Ministry of External Affairs is the main contact point, and the IC Wing of the Ministry of Skill Development and Entrepreneurship handles skills and language tests. It runs for ten years and renews automatically."
+      },
+      {
+        "type": "p",
+        "text": "The MoC names the intermediary behaviour both governments want stopped:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Holding a worker's or candidate's money or property, including any deposit.",
+          "Contracts that impose money penalties for breaking them.",
+          "Assault, threats or restricting a worker's freedom.",
+          "Forged, altered or false documents used for Japanese visa or immigration procedures.",
+          "Collecting fees without explaining how they were calculated."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "SSW visa Japan: the 19 eligible fields"
+      },
+      {
+        "type": "p",
+        "text": "ISA's explanatory material, revised on 23 October 2026, lists **19 fields** for SSW (i). Linen supply, warehousing and resource circulation were added in January 2026, and ISA says warehousing and resource circulation will start only once preparations are complete. Some older ISA pages still say 16 fields, so go by the dated material. Fields marked (i) and (ii) allow you to move up to SSW (ii) later."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Nursing care: (i) only",
+          "Building cleaning management: (i) and (ii)",
+          "Linen supply: (i) only",
+          "Industrial product manufacturing: (i) and (ii), with (ii) limited to machining and metal processing, electric and electronic equipment assembly, and metal surface treatment",
+          "Construction: (i) and (ii)",
+          "Shipbuilding and ship machinery: (i) and (ii)",
+          "Automobile repair and maintenance: (i) and (ii)",
+          "Aviation: (i) and (ii)",
+          "Accommodation: (i) and (ii)",
+          "Automobile transportation (truck, taxi and bus drivers): (i) only",
+          "Railway: (i) only",
+          "Warehousing: (i) only, not yet open",
+          "Agriculture: (i) and (ii)",
+          "Fishery: (i) and (ii)",
+          "Food and beverage manufacturing: (i) and (ii)",
+          "Food service: (i) and (ii)",
+          "Forestry: (i) only",
+          "Wood industry: (i) only",
+          "Resource circulation: (i) only, not yet open"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Restaurant jobs are on hold for new arrivals.** On 13 April 2026 ISA temporarily stopped issuing Certificates of Eligibility (CoE) in the food service field, at the request of Japan's agriculture ministry. CoE applications received from that date are, in principle, refused. If someone in India is selling you a Japan restaurant job today, ask them how they expect to get a CoE."
+      },
+      {
+        "type": "h2",
+        "text": "Skills tests and the JFT-Basic test in India"
+      },
+      {
+        "type": "p",
+        "text": "For SSW (i) you must pass two tests: the skills test for your field and a Japanese test. The Japanese test is the Japan Foundation Test for Basic Japanese (**JFT-Basic**) at A2.2, or the Japanese-Language Proficiency Test (**JLPT**) at N4 or higher. Nursing care also needs the Nursing Care Japanese Language Evaluation Test. For bus drivers, taxi drivers and train operation work, ISA says applications from 1 April 2027 need Japanese equivalent to B1 or higher. If you completed Technical Intern Training (ii), you are exempt from both tests in the same field."
+      },
+      {
+        "type": "p",
+        "text": "JFT-Basic facts from the Japan Foundation:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Computer-based test at test centres, held every month as a rule.",
+          "Scores run from 10 to 250. A score of 200 or more is A2.2, the level SSW (i) needs.",
+          "You see your result on the day, and the official notification is issued on the Prometric website within 5 business days.",
+          "If you score 199 or less you can retake it, with a gap of at least 45 days. At 200 or more you cannot retake it.",
+          "Results do not expire, but they stay on the registration website for only five years, so print yours."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Is JFT-Basic held in India?** Yes. ISA's test calendar lists JFT-Basic dates in India on 1, 5, 6, 10 and 12 to 15 November 2026. Bookings are made through Prometric. Check its site for current Indian venues and the fee, and do not pay anyone extra to book a seat for you."
+      },
+      {
+        "type": "p",
+        "text": "JLPT is held in July and December. Its Indian test cities are New Delhi, Pune, Kolkata, Chennai, Bengaluru, Mumbai, Santiniketan and Karur. There is no centre in Gujarat, so candidates from Ahmedabad need to travel, usually to Mumbai or Pune."
+      },
+      {
+        "type": "p",
+        "text": "Skills tests are not held in India for every field. ISA's November and December 2026 calendar lists India for these SSW (i) skills tests:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Nursing care",
+          "Building cleaning management",
+          "Industrial product manufacturing",
+          "Construction",
+          "Accommodation",
+          "Automobile transportation",
+          "Agriculture"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Automobile repair, shipbuilding, aviation, railway, fishery, food and beverage manufacturing, food service, forestry and wood industry showed no India dates on that calendar. Schedules change monthly, so recheck."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Keep your skills test and JFT-Basic result notices as PDFs, with your name spelt exactly as in your passport. When an employer asks for CoE documents, spelling mismatches between certificates and passport cause the most avoidable delays we see."
+      },
+      {
+        "type": "h2",
+        "text": "SSW (i) vs SSW (ii): how long you can stay and whether family can come"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**SSW (i) stay:** granted for up to 3 years at a time, capped at 5 years in total (6 years if ISA accepts there are reasonable grounds).",
+          "**SSW (i) family:** as a rule, family members cannot accompany you.",
+          "**SSW (i) support:** your employer or a registered support organisation must support you at work and in daily life, and it cannot charge you for that support, directly or indirectly.",
+          "**SSW (ii) stay:** renewed for 3 years, 2 years, 1 year or 6 months at a time, with no limit on renewals.",
+          "**SSW (ii) family:** your spouse and children can join you if requirements are met.",
+          "**SSW (ii) Japanese:** applications made on or after 1 April 2027 need B1 or higher."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In both cases you must be 18 or older, and your pay must be at least what a Japanese worker would get for the same work. You can change employer within the same job category, but you must change your status of residence before you start at the new company. Moving to a different field is not allowed without passing that field's test."
+      },
+      {
+        "type": "h2",
+        "text": "Technical Intern Training and the new Employment for Skill Development system"
+      },
+      {
+        "type": "p",
+        "text": "Japan is replacing the Technical Intern Training Program (TITP) with a new system called **Employment for Skill Development (ESD)**. The amending law was promulgated on 21 June 2024, and ISA says ESD comes into operation on **1 April 2027**. ESD lasts three years and is meant to train workers up to SSW (i) level, after which they can move to SSW."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Before starting work, ESD needs Japanese at A1 or higher (for example JFT-Basic or JLPT N5) or equivalent Japanese classes. JFT-Basic has reported A1 and A2.1 results since August 2026.",
+          "ESD covers 17 fields: all SSW fields except automobile transportation and aviation.",
+          "ESD workers can change employer on their own after a set period if they meet skill and language standards, which TITP did not allow.",
+          "Trainees already on TITP on 1 April 2027 can continue under the old rules but cannot switch into ESD.",
+          "You do not have to go through ESD. You can pass the SSW (i) tests in India and go straight to SSW."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Japan jobs for Indians: how to find a genuine employer"
+      },
+      {
+        "type": "p",
+        "text": "SSW has no supervising organisations. Japanese employers recruit directly or through job placement agencies in Japan or abroad. For India in particular, ISA says using a sending organisation approved by the Indian government is optional, and an employer can sign a contract with you directly."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Pass the tests first.** Employers shortlist people who already hold a skills test pass and JFT-Basic A2.2 or JLPT N4.",
+          "**Use official events.** ISA lists job fairs and matching events run by ISA, the ministries for each field and foreign governments.",
+          "**Check NSDC empanelment.** A 2023 Press Information Bureau release refers to sending organisations empanelled by the National Skill Development Corporation (NSDC) for Japan's TITP and SSW. Ask an Indian agency whether it is one, and verify.",
+          "**Check the employer exists.** Get its registered name and address in Japan before you share passport copies.",
+          "**eMigrate is your choice.** ISA's India page says Indian officials describe eMigrate registration for SSW as voluntary, not compulsory."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Before you agree to anything, send the recruiter a message like this and keep the reply:"
+      },
+      {
+        "type": "p",
+        "text": "\"Before I proceed, please send me in writing: (1) the Japanese employer's registered name and address, (2) the SSW field and job category, (3) monthly salary before deductions and working hours, (4) the written notice of employment conditions in English, and (5) an itemised list of any fee you will charge me and what each item covers.\""
+      },
+      {
+        "type": "h2",
+        "text": "Fake Japan job agents: warning signs to walk away from"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**A security deposit or bond.** Japan's SSW rules require that no deposit has been collected from you.",
+          "**A penalty clause** that fines you or your family if you leave early.",
+          "**One lump-sum fee with no breakdown.** The MoC treats unexplained fees as improper.",
+          "**Charging you for support** that your Japanese employer must provide at its own cost.",
+          "**A restaurant job promised now,** while new food service CoEs are suspended.",
+          "**A visa with no tests.** Only people who completed TITP (ii) skip the SSW (i) tests.",
+          "**An offer to arrange a test pass.** Both governments have agreed to share information on proxy test-taking and forged test certificates."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Genuine offers come with a company name you can look up and a written statement of working conditions before you pay anything. Offers that stay vague until money changes hands are the ones we tell people to drop."
+      },
+      {
+        "type": "h2",
+        "text": "Certificate of Eligibility process for SSW, step by step"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**1. Pass the tests:** the skills test for your field and JFT-Basic or JLPT N4, unless you are exempt.",
+          "**2. Sign the employment contract** with the Japanese employer, directly or through an agency.",
+          "**3. The employer applies for your CoE** at its Regional Immigration Services Bureau in Japan, on paper or online. ISA's standard processing time is 1 to 3 months, there is no application fee, and there is no appeal route if it is refused.",
+          "**4. The employer posts the original CoE to you** in India.",
+          "**5. You apply for the SSW visa** at the Embassy of Japan in India, presenting the CoE.",
+          "**6. You enter Japan.** If you meet the landing conditions you get SSW status at the airport, where your employer or support organisation should meet you."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "ISA publishes a field-by-field CoE document list, last revised in 2026. The employer prepares most of it, such as the contract and support plan, so ask early what it needs from you. If you are already in Japan, the route is a change of status application instead."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with a Japan SSW visa"
+      },
+      {
+        "type": "p",
+        "text": "Travlys is not a recruiter and does not place workers in Japan. Our team at 605 Shivalik Shilp II, Vastrapur, Ahmedabad reviews SSW job offers and contracts against the official rules, checks your CoE and documents, and prepares your visa file for the Embassy of Japan, for clients across India. If you work abroad and are arranging this for a family member in India, brief us on WhatsApp at +91 82009 18967 and we coordinate with them here."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 20 November 2026. Before you act, re-check ISA's SSW page and its dated explanatory material (fields change by Cabinet decision), ISA's food service status page (updated about monthly), the ISA test calendar on ssw.go.jp, the Japan Foundation JFT-Basic site and Prometric for India dates and fees, and the Embassy of Japan in India for visa fees."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration Services Agency of Japan: Specified Skilled Worker System explanatory materials (English, revised 23 October 2026)",
+        "url": "https://www.moj.go.jp/isa/content/930004452.pdf"
+      },
+      {
+        "label": "Immigration Services Agency of Japan: Information on India (Specified Skilled Worker)",
+        "url": "https://www.moj.go.jp/isa/applications/ssw/03_00010.html"
+      },
+      {
+        "label": "Immigration Services Agency of Japan: Information on Tests Related to the Specified Skilled Worker System",
+        "url": "https://www.ssw.go.jp/en/about/sswv/exam/"
+      },
+      {
+        "label": "Immigration Services Agency of Japan: Outline of Employment for Skill Development Program (English, July 2026)",
+        "url": "https://www.moj.go.jp/isa/content/001438365.pdf"
+      },
+      {
+        "label": "Immigration Services Agency of Japan: Status of SSW (i) food service field applications (Japanese)",
+        "url": "https://www.moj.go.jp/isa/10_00259.html"
+      },
+      {
+        "label": "Immigration Services Agency of Japan: Certificate of Eligibility application (Japanese)",
+        "url": "https://www.moj.go.jp/isa/applications/procedures/16-1.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: Memorandum of Cooperation between Japan and India on Specified Skilled Worker",
+        "url": "https://www.mofa.go.jp/files/100139276.pdf"
+      },
+      {
+        "label": "The Japan Foundation: JFT-Basic FAQ",
+        "url": "https://www.jpf.go.jp/jft-basic/e/faq/index.html"
+      },
+      {
+        "label": "JLPT (Japan Foundation and JEES): Overseas test cities and local host institutions",
+        "url": "https://www.jlpt.jp/e/application/overseas_list.html"
+      },
+      {
+        "label": "Press Information Bureau: MSDE organizes a workshop with sending organizations to expand Japan operations",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1952468"
+      }
+    ]
+  },
+  {
     "slug": "dubai-visa-rejected-reasons-reapply-2026",
     "title": "Dubai Visa Rejected? What the Message Means, Fee Refunds and When to Reapply (2026)",
     "metaTitle": "Dubai Visa Rejected: Reasons and When to Reapply | Travlys",
@@ -963,7 +1307,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Work visas",
     "tags": [
       "Germany",
       "Opportunity Card",
@@ -974,9 +1318,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&h=900&fit=crop",
     "related": [
+      "japan-specified-skilled-worker-visa-for-indians-2026",
       "germany-student-visa-for-indians-2027",
-      "schengen-visa-appointment-india-how-to-get-slot-2026",
-      "visa-rejection-reasons-india"
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -1280,7 +1624,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 9,
-    "category": "Country guides",
+    "category": "Work visas",
     "tags": [
       "UAE",
       "Dubai",
@@ -21097,9 +21441,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1600&h=900&fit=crop",
     "related": [
+      "japan-specified-skilled-worker-visa-for-indians-2026",
       "visa-photo-size-by-country-for-indians-2026",
-      "vietnam-e-visa-for-indians-2026",
-      "visa-free-countries-for-indians-2026"
+      "vietnam-e-visa-for-indians-2026"
     ],
     "faqs": [
       {

@@ -888,6 +888,7 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'japan-specified-skilled-worker-visa-for-indians-2026',
   'dubai-visa-rejected-reasons-reapply-2026',
   'singapore-visa-rejected-reasons-reapply-2026',
   'schengen-5-year-multiple-entry-visa-for-indians-2026',
@@ -988,6 +989,7 @@ function buildLlmsTxt() {
     '',
     `- [Visa for parents from India](${pageUrl('/blog/category/visas-for-parents')}): every guide to visit visas for Indian parents going to see children in the US, UK, Canada, Australia, New Zealand, the UAE and Schengen countries.`,
     `- [Student visas for Indian students](${pageUrl('/blog/category/study-abroad')}): US F-1 interview questions, Canada study permits, Germany student visas and APS, UK and Australia rule changes.`,
+    `- [Work visas for Indians](${pageUrl('/blog/category/work-visas')}): Germany Opportunity Card, UAE job seeker visa and Japan Specified Skilled Worker, with official eligibility rules and recruiter-fraud warnings.`,
     `- [Visa refused? What to do next](${pageUrl('/blog/category/refusals-and-reapplying')}): US 214(b), UK, Canada, Schengen and China refusals, appeal options and how to reapply.`,
     '',
     '## Data you can cite',
