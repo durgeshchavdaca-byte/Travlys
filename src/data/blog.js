@@ -8,6 +8,685 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "uae-5-year-multiple-entry-tourist-visa-for-indians-2026",
+    "title": "Dubai 5 Year Visa for Indians 2026: UAE Multiple-Entry Tourist Visa Rules, Fees and Documents",
+    "metaTitle": "Dubai 5 Year Visa for Indian Citizens: Rules 2026 | Travlys",
+    "metaDescription": "Dubai 5 year visa for Indians: 90 days per visit, AED 3,720 total (AED 3,000 refundable) and a USD 4,000 bank balance over 6 months. What ICP and GDRFA say.",
+    "excerpt": "The UAE 5-year multiple-entry tourist visa needs no sponsor, a USD 4,000 bank balance and AED 3,720 in fees. Here is what ICP, GDRFA and u.ae actually say about stay limits, documents and how it compares with the 30-day, 60-day and US-visa routes.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "Country guides",
+    "tags": [
+      "UAE",
+      "Dubai",
+      "5-year visa",
+      "Multiple entry",
+      "Tourist visa",
+      "ICP",
+      "GDRFA"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1528702748617-c64d49f918af?w=1600&h=900&fit=crop",
+    "related": [
+      "uae-visa-on-arrival-for-indians-2026",
+      "dubai-visa-cost-from-india-2026",
+      "uae-visa-for-parents-from-india-2026"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Get your UAE 5-year visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Can Indian get 5 year Dubai visa?",
+        "a": "Yes. The UAE 5-year multiple-entry tourist visa is open to Indian passport holders, and u.ae says it can be issued for all nationalities. You do not need a sponsor or host in the UAE. You need a passport valid for 6 months, a bank balance of USD 4,000 or equivalent over the last 6 months, UAE-valid health insurance for 180 days, a return ticket and proof of where you will stay. ICP charges AED 3,720 in total."
+      },
+      {
+        "q": "What is the bank balance required for UAE 5 year visa?",
+        "a": "The requirement is USD 4,000 or its equivalent in other currencies, about ₹3.5 lakh, for the six months before you apply. ICP, GDRFA Dubai and u.ae all state this figure. None of them says whether it is a daily minimum, an average or a closing balance, so the safe approach is to keep at least that amount in your own account for the full six months and submit a stamped bank statement covering the period."
+      },
+      {
+        "q": "How many days can I stay in Dubai with 5 year visa?",
+        "a": "Each visit can last up to 90 days, extendable for a similar period. GDRFA Dubai caps the total at 180 days a year. ICP's page says 180 days in one line and 90 days a year in another, and u.ae gives no yearly total. The year counts from your first entry. Plan on 90 days a year unless ICP or GDRFA confirms an extension before your 90 days end."
+      },
+      {
+        "q": "What is the fee of Dubai 5 year multiple entry visa in Indian rupees?",
+        "a": "ICP lists AED 3,720 in total, about ₹89,000. Of that, AED 3,000 (about ₹72,000) is a financial guarantee that ICP refunds after you exit or the visa is cancelled, provided there are no violations. The part you do not get back is AED 720, about ₹17,000. GDRFA Dubai lists a slightly different total of AED 3,713 with its own service charges. Airlines or agents may add a service fee."
+      },
+      {
+        "q": "Do I need a sponsor for UAE 5 year tourist visa?",
+        "a": "No. GDRFA Dubai describes the 5-year tourist visa as one that needs no guarantor or host inside the UAE. You apply in your own name. ICP's and GDRFA's online channels need a UAE Pass or account login, so u.ae also lists airlines, hotels and licensed travel agents as ways to apply. You still need proof of where you will stay, such as a hotel booking or a relative's address."
+      },
+      {
+        "q": "Which is better for Dubai, 5 year visa or 14 day visa with US visa?",
+        "a": "For a single short trip with a valid US visa, the ICP 14-day visa is cheaper at AED 200, about ₹4,800, extendable once. ICP also lists a 60-day visa on the same eligibility at AED 350, not extendable. The 5-year visa costs AED 720 that you do not get back, plus a refundable AED 3,000 guarantee. It starts to pay off if you visit the UAE three or more times, or stay longer than 60 days."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Business travellers, families who holiday in Dubai every winter and parents of UAE residents ask us the same two things: can I stop applying for a visa every trip, and will my bank statement pass? Yes, Indians can get the **5-year multiple-entry tourist visa** without a sponsor. You need a balance of **USD 4,000** (about ₹3.5 lakh) over the last **6 months**, and ICP charges **AED 3,720** in total."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** UAE 5-year multiple-entry tourist visa, no sponsor or host needed. **Bank balance:** USD 4,000 or equivalent over the last 6 months (about ₹3.5 lakh). **Stay per visit:** up to 90 days, extendable for a similar period. **Total per year:** 180 days per GDRFA Dubai; ICP's page says both 180 and 90. **ICP fees:** AED 3,720 (about ₹89,000), including a refundable AED 3,000 guarantee. **GDRFA fees:** AED 3,713 listed. **Processing:** 2 days (ICP), 48 hours (GDRFA). **First entry:** within 60 days of issue. **Where to apply:** ICP smart services, GDRFA Dubai, or an airline, hotel or licensed travel agent."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai 5 year visa for Indian passport holders: what it is"
+      },
+      {
+        "type": "p",
+        "text": "It is a tourist visa valid for **five years** from the date of issue that lets you enter the UAE as many times as you like, within a yearly stay limit. GDRFA Dubai describes it as a visa for several trips that needs no guarantor or host inside the country. u.ae, the UAE government portal, says it can be issued for all nationalities, so Indian passport holders qualify on the same terms as everyone else."
+      },
+      {
+        "type": "p",
+        "text": "It suits three kinds of traveller we see often in Ahmedabad: traders and business owners who fly to Dubai several times a year, parents who visit a son or daughter in the UAE every year, and families who return for the same winter holiday. If you are going once, a 30-day visa costs far less."
+      },
+      {
+        "type": "h2",
+        "text": "UAE tourist visa 5 years requirements"
+      },
+      {
+        "type": "p",
+        "text": "The official conditions are short. ICP and GDRFA Dubai list the same core requirements:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A passport valid for at least **6 months**.",
+          "A bank statement showing **USD 4,000** or its equivalent in other currencies for the **six months** before you apply.",
+          "Health insurance for **180 days**. ICP says the policy must be issued in the UAE; u.ae says it must be applicable in the UAE; GDRFA says valid health insurance in the country.",
+          "A return or onward ticket.",
+          "Proof of where you will stay during the visit (ICP).",
+          "A personal photo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Neither ICP nor GDRFA lists an age limit, a salary threshold or income tax returns for this visa."
+      },
+      {
+        "type": "h3",
+        "text": "What the USD 4,000 bank balance means in practice"
+      },
+      {
+        "type": "p",
+        "text": "USD 4,000 is about ₹3.5 lakh. The official pages do not say whether this is a daily minimum, an average or a closing balance. Our advice is simple: keep at least ₹3.5 lakh in the applicant's own account for the full six months, and get a stamped statement from the bank that covers the whole period."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "A statement where the balance sat above ₹3.5 lakh for all six months reads cleanly. A statement where ₹4 lakh arrived last week makes an officer ask whose money it is. If a parent's funds sit in a joint account with a son or daughter, add a one-line note explaining it."
+      },
+      {
+        "type": "h2",
+        "text": "How long can you stay on the UAE 5-year tourist visa?"
+      },
+      {
+        "type": "p",
+        "text": "Each visit can last up to **90 days** at a stretch. The yearly limit is where the official pages disagree, so here is exactly what each one says:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**ICP service page:** a continuous stay of up to 90 days, which the Authority may extend for an equivalent period, provided the total stay does not exceed **180 days** in a single year. A separate line on the same page says the holder must not exceed **90 days** within a single year.",
+          "**GDRFA Dubai:** a continuous stay of no longer than 90 days, extendable for a similar period, as long as the total days in a year are at most **180**.",
+          "**u.ae:** 90 days on each visit, extendable for a further 90 days. It gives no yearly total."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "ICP and GDRFA both count the year from your **first entry** into the UAE, not from 1 January or the issue date. Unused days do not carry over to the next year."
+      },
+      {
+        "type": "p",
+        "text": "Our reading: plan on 90 days a year, because that satisfies every line on every official page. Treat days 91 to 180 as possible only with an extension approved before your first 90 days run out. If you need the longer stay, confirm it with ICP (600522222 from inside the UAE) or GDRFA before you book tickets."
+      },
+      {
+        "type": "p",
+        "text": "Your first entry must be within **60 days** of issue under ICP's page. GDRFA says the entry window is two months and can be extended by two more. GDRFA also lets you or a representative request a travel report of your entries and exits, which is the safest way to check how many days you have left. Overstaying costs **AED 50 a day** (about ₹1,200) under ICP's rules, and GDRFA says the guarantee is forfeited for violations."
+      },
+      {
+        "type": "h2",
+        "text": "UAE 5 year tourist visa fees"
+      },
+      {
+        "type": "p",
+        "text": "ICP lists **AED 3,720** in total, about ₹89,000. AED 3,000 of that is a refundable guarantee, so the part you do not get back is **AED 720**, about ₹17,000."
+      },
+      {
+        "type": "h3",
+        "text": "ICP fee breakdown"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Application fee: AED 100.",
+          "Issuance of the 5-year multiple-entry tourist visa: AED 500.",
+          "Smart service fee: AED 100.",
+          "Visa financial guarantee: AED 3,000 (about ₹72,000), refundable.",
+          "Financial guarantee deposit fee: AED 20."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "GDRFA Dubai fee breakdown"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Application fee: AED 100.",
+          "Issuance fee: AED 500.",
+          "Guarantee amount: AED 3,000.",
+          "Warranty service fee: AED 21, and AED 20 for collecting and returning the guarantee.",
+          "Knowledge and Innovation fees: AED 10 each.",
+          "Service fee: AED 52.5.",
+          "Stated total: AED 3,713. The items add up to AED 3,713.50, and GDRFA says the total can vary with circumstances."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "ICP refunds the guarantee after the visa is cancelled or you leave the UAE, provided the cancellation happens after departure and there are no residency violations. If you apply through an airline or agent, ask them for their own service charge separately."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply: ICP smart services, GDRFA or an agent"
+      },
+      {
+        "type": "p",
+        "text": "u.ae says you can apply online through ICP or GDRFA Dubai, or through airlines, licensed travel agents or hotels. The channels on the official pages:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**ICP:** the ICP smart services website or the ICP smart app, with a UAE Pass login, open 24/7. ICP also lists its customer happiness centres in the UAE. Processing time is 2 days.",
+          "**GDRFA Dubai:** the website or smart app with UAE Pass or a username, or in person at a customer happiness centre or an Amer centre. Expected completion is 48 hours.",
+          "**Airline, hotel or licensed travel agent:** listed on u.ae as another way to apply."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The practical catch: ICP's online channel needs UAE Pass, which most people living in India do not have. GDRFA also accepts a username login. If neither works for you, use one of the other channels u.ae lists rather than an unlicensed middleman."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for the UAE 5-year multiple-entry visa"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport scan (first and last page), valid for at least 6 months.",
+          "Recent passport photo.",
+          "Bank statement for the last 6 months showing USD 4,000 or equivalent. We advise a bank-stamped statement in the applicant's name.",
+          "Health insurance valid in the UAE for 180 days. ICP specifies a policy issued in the UAE.",
+          "Return ticket.",
+          "Proof of where you will stay: a hotel booking, or your host's address details if you stay with family."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Sample host letter when you stay with family"
+      },
+      {
+        "type": "p",
+        "text": "ICP asks for proof of residence but does not prescribe a format. When parents stay with a son or daughter in Dubai, we usually add a short letter from the child with a copy of their Emirates ID and tenancy contract. You can adapt this:"
+      },
+      {
+        "type": "p",
+        "text": "\"I, [name], Emirates ID [number], residing at [full address], Dubai, confirm that my father, [name], passport [number], and my mother, [name], passport [number], will stay with me at this address during their visits to the UAE on the 5-year multiple-entry tourist visa. My Emirates ID and tenancy contract are attached. Signed, [name], [date], [mobile number].\""
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Keep a simple note of every entry and exit date on your phone. Frequent travellers lose count by the third trip, and the visa year runs from your first entry, not from 1 January. A two-minute check of that note before you book saves an overstay fine."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai multiple entry visa for Indian: 5-year vs 30-day, 60-day and the US visa route"
+      },
+      {
+        "type": "p",
+        "text": "For one trip, the 5-year visa is rarely the cheapest choice. Here is how the options compare on official pages:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**30-day or 60-day single-entry tourist visa (GDRFA):** AED 200 or AED 300 plus 5% VAT (about ₹4,800 or ₹7,200), no deposit. A tourism establishment in the UAE must be the sponsor, so it comes through a licensed tourism office.",
+          "**30-day or 60-day multiple-entry tourist visa (GDRFA):** AED 300 or AED 500 plus 5% VAT (about ₹7,200 or ₹12,000), also sponsored by a tourism establishment.",
+          "**14-day visa for Indians with a valid US visa or green card, or a UK or EU visa or residence permit (ICP):** AED 200 in total (about ₹4,800), extendable once for the same period. Enter within 30 days of issue.",
+          "**60-day visa on the same eligibility (ICP):** AED 350 in total (about ₹8,400), single entry and not extendable.",
+          "**5-year multiple-entry tourist visa:** AED 3,720, of which AED 3,000 is refundable, with up to 90 days per visit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Since ICP widened the list on 25 June 2026, the 14-day and 60-day visas also cover Indians with a valid residence permit from Japan, South Korea, Australia, Canada, Singapore or New Zealand. Many people call these the visa on arrival. The ICP and GDRFA pages we checked describe an online application decided in about 2 days, and none of them says the visa is issued at the airport counter."
+      },
+      {
+        "type": "p",
+        "text": "A rule of thumb: if you will visit the UAE three or more times in the next five years, or a parent will visit a UAE-based child every year, the 5-year visa saves both money and repeat paperwork. For one trip with a valid US visa, the 14-day or 60-day visa is the better buy."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes we see with the UAE 5-year visa"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A bank balance that only reached USD 4,000 in the last few weeks.",
+          "An Indian travel insurance policy, when ICP asks for one issued in the UAE.",
+          "Planning 180 days a year on the strength of one line on one page.",
+          "Missing the first-entry window of 60 days from issue.",
+          "Forgetting that the AED 3,000 guarantee is forfeited for any violation, including an overstay.",
+          "Booking non-refundable tickets before the visa is issued."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your UAE 5-year visa"
+      },
+      {
+        "type": "p",
+        "text": "We check your six months of bank statements against the USD 4,000 rule before anything is filed, choose the right application channel, and prepare the proof of stay and host letter. For parents, we prepare the file in English and explain the 90-day rule and entry window to them in Gujarati or Hindi. NRI children in the UAE can brief us on WhatsApp at +91 82009 18967, and we coordinate with your parents in India. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked ICP's 5-year tourist visa, 14-day visa and 60-day visa service pages and its 25 June 2026 announcement, GDRFA Dubai's 5-year, single-entry and multiple-entry tourist visa pages and its visa page for Indian citizens, and the u.ae tourist visa page on 20 November 2026. ICP's 5-year visa page shows a last update of 11 December 2024. Re-check the yearly stay limit and fees on icp.gov.ae and gdrfad.gov.ae before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "ICP: Issuance of a Long-Term Multiple-Entry Tourist Visa (5 Years)",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68f5bc968c587a0011cb16cd"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a multi-entry tourist visa (5 years)",
+        "url": "https://www.gdrfad.gov.ae/en/services/7fe37963-b7f8-11ed-5210-4cd98f768936"
+      },
+      {
+        "label": "UAE Government Portal (u.ae): Tourist visa",
+        "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa"
+      },
+      {
+        "label": "GDRFA Dubai: Issuance of a single-entry tourist visa",
+        "url": "https://www.gdrfad.gov.ae/en/services/f9e586fe-0642-11ec-0320-0050569629e8"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a tourist visa for several entries",
+        "url": "https://www.gdrfad.gov.ae/en/services/f9e586fb-0642-11ec-0320-0050569629e8"
+      },
+      {
+        "label": "ICP: Issuance of a 14-day visa for nationals of certain countries residing abroad",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68e3532c5ae59b0011738404"
+      },
+      {
+        "label": "ICP: Issuance of a 60-day visa for nationals of certain countries residing abroad",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68f5bcdb8c587a0011cb16d5"
+      },
+      {
+        "label": "ICP: ICP expands eligibility for UAE entry visa for nationals of certain countries",
+        "url": "https://icp.gov.ae/en/media-center/icp-expands-eligibility-for-uae-entry-visa-for-nationals-of-certain-countries/"
+      },
+      {
+        "label": "GDRFA Dubai: Visa on arrival for citizens of the Republic of India",
+        "url": "https://gdrfad.gov.ae/en/services/727c91b1-52eb-11ea-0320-0050569629e8"
+      }
+    ]
+  },
+  {
+    "slug": "germany-student-visa-for-indians-2027",
+    "title": "Germany Student Visa for Indian Students 2027: APS, dMAT, Blocked Account and VFS Timeline",
+    "metaTitle": "Germany Student Visa for Indian Students 2027 | Travlys",
+    "metaDescription": "Germany student visa for Indian students 2027: APS costs ₹18,000, the blocked account is €11,904 (€992 a month) and the visa fee is €75. Steps and timelines.",
+    "excerpt": "For the 2027 intakes, Indian students need an APS certificate (₹18,000, plus the new dMAT for many Master's applicants), a €11,904 blocked account and a national visa booked through the Consular Services Portal and VFS. Here is the official process, step by step.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "Germany",
+      "Student visa",
+      "APS certificate",
+      "Blocked account",
+      "dMAT",
+      "Study abroad"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=1600&h=900&fit=crop",
+    "related": [
+      "study-abroad-visa-changes-2026-indian-students",
+      "schengen-visa-appointment-india-how-to-get-slot-2026",
+      "canada-study-permit-for-indians-2027"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Germany student visa file reviewed"
+    },
+    "faqs": [
+      {
+        "q": "What is the blocked account amount for Germany 2027?",
+        "a": "The official figure is still €11,904 for the first year, about ₹12.5 lakh, with no more than €992 released a month. The German Missions in India state this on their study visa page, and Make it in Germany gives at least €11,904 for 2026. As of 20 November 2026 no separate 2027 figure has been published. The amount follows German student support rates, so check the mission's page again before you transfer."
+      },
+      {
+        "q": "What is APS certificate fee in India?",
+        "a": "The APS fee is ₹18,000, according to APS India's 2026 information leaflets. You pay it online through CCAvenue during registration or by bank transfer, and it is non-refundable whatever the outcome of the verification. If you later need an updated certificate, for example after your Bachelor's is complete, APS says an additional fee applies. Master's applicants who also need the dMAT pay its €150 test fee separately to g.a.s.t."
+      },
+      {
+        "q": "How long does APS certificate take?",
+        "a": "APS India says verification takes at least two weeks, and it does not give a fixed time for every case. Delays usually come from volume and from how fast your school or university answers APS's verification email, which must come from an official address. Master's applicants who need the dMAT cannot get the certificate until their dMAT result is in, and the 2027 test dates are 16 January and 13 March."
+      },
+      {
+        "q": "Is dMAT compulsory for MS in Germany?",
+        "a": "It is compulsory only for some Master's applicants. APS requires the dMAT if your Bachelor's is in engineering or technology (any B.Tech or B.Eng), commerce, accounting, finance, economics, business, management, or tourism and hospitality, and you are applying for summer semester 2027 or later. It applies to APS registrations and document shipments on or after 29 June 2026. The test costs €150 and has a centre in Ahmedabad."
+      },
+      {
+        "q": "How long does Germany student visa take from India?",
+        "a": "Plan for several weeks, and in some cases months. The Federal Foreign Office says this because the alien's authority in Germany usually has to approve student applications. The German Missions in India say national visas can take several months, there is no online tracking, and status questions are not answered in the first three months. Waiting for a VFS appointment comes on top, so book as soon as you hold your admission letter."
+      },
+      {
+        "q": "Can Indian students work in Germany while studying and after graduation?",
+        "a": "Yes. During your studies you can work up to 140 full days or 280 half days a year, or up to 20 hours a week, according to Make it in Germany. After you graduate, you can apply for a job-seeker residence permit under Section 20 of the Residence Act. It is issued for up to 18 months, you can take any job during that time, and you switch to a skilled worker permit or EU Blue Card once you find qualified work."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Students and their parents ask us two things about Germany for 2027: will APS and the VFS slot come through before the semester starts, and how much money must sit in the blocked account? The official blocked account figure is still **€11,904** a year (**€992** a month). APS costs **₹18,000**, and the national visa fee is **€75**, currently **₹7,900**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** national (D) visa for study, applied for in the Consular Services Portal and usually submitted at VFS. **APS fee:** ₹18,000, non-refundable; verification takes at least two weeks. **dMAT:** required for many Master's applicants for summer 2027 intakes onwards; test fee €150. **Blocked account:** €11,904 for the first year, €992 a month (about ₹12.5 lakh). **Visa fee:** €75, currently ₹7,900 for adults. **Processing:** several weeks, in some cases months. **Work while studying:** 140 full days or 280 half days a year, or up to 20 hours a week. **After graduation:** up to 18 months to find a job. **Gujarat applicants:** consular district of the German Consulate General Mumbai."
+      },
+      {
+        "type": "h2",
+        "text": "APS certificate Germany: fee, process and timeline"
+      },
+      {
+        "type": "p",
+        "text": "Almost every Indian student needs the APS certificate before the visa. The German Missions in India say you almost always need it if you hold an Indian school-leaving certificate, have studied Indian semesters or hold an Indian degree. APS, the Academic Evaluation Centre at the German Embassy in New Delhi, checks that your documents are genuine and plausible. It does not admit you to a university and does not decide your visa."
+      },
+      {
+        "type": "p",
+        "text": "Exemptions listed by the missions include PhD and postdoc applicants, German or EU public scholarship holders, and students whose studies build on a non-Indian degree or a school certificate such as the International Baccalaureate."
+      },
+      {
+        "type": "h3",
+        "text": "How the APS process works"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Register online at aps-india.de under the correct procedure, then print and sign the application form.",
+          "Pay the **₹18,000** fee through CCAvenue during registration or by bank transfer. It is non-refundable. APS recommends CCAvenue, because a manual transfer means manual account activation and a longer wait.",
+          "Courier your documents to APS India. Do not send originals.",
+          "APS verifies your records with your school and college, which must reply from an official email address. Gmail and similar addresses are not accepted.",
+          "Successful applicants receive a **digital APS certificate** by email. Submit the PDF exactly as received: do not rename, edit or merge it."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "APS says verification takes **at least two weeks** and gives no fixed time, because it depends on volume and on how quickly your institutions reply."
+      },
+      {
+        "type": "h3",
+        "text": "APS documents for Bachelor's degree holders"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Signed application form with a photo not older than 6 months, and the fee receipt.",
+          "Aadhaar card with linked mobile number, and passport first and last page.",
+          "Class X and XII marksheets and certificates, plus the Class XII admit card if available.",
+          "Marksheets for all semesters and the degree, or a provisional certificate not older than 1 year.",
+          "Language certificate, signed student authorisation letter and, if it applies to you, the dMAT certificate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Documents in a regional language need a notarised English translation. Documents already in English do not need notarisation."
+      },
+      {
+        "type": "h3",
+        "text": "New for 2027: the dMAT for Master's applicants"
+      },
+      {
+        "type": "p",
+        "text": "If your Bachelor's is in engineering or technology (any B.Tech or B.Eng), commerce, accounting, finance, economics, business administration, management, or tourism and hospitality, APS now needs a **dMAT** certificate before it issues your APS certificate. This applies to Master's intakes from **summer semester 2027** for applicants who registered and shipped documents on or after 29 June 2026. The dMAT is run by g.a.s.t., costs **€150** (about ₹15,800), and the 2027 dates are **16 January** and **13 March**. Ahmedabad is one of the test centres."
+      },
+      {
+        "type": "p",
+        "text": "For Bachelor's applicants, APS says updated criteria from winter semester 2026/27 need at least **70%** overall in Class XII, whatever the board."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Before you courier the APS file, tell your college exam section that a verification email will come from APS and that it must be answered from the college's official address. The files that move are the ones where the college answers the first email."
+      },
+      {
+        "type": "h2",
+        "text": "Blocked account Germany 2027: the official amount"
+      },
+      {
+        "type": "p",
+        "text": "The official figure is **€11,904** for the first year, about ₹12.5 lakh, and the blocking confirmation must say that no more than **€992** a month can be withdrawn. The German Missions in India state this on their study visa page (dated 16 February 2026), and Make it in Germany gives at least €11,904 for 2026. As of 20 November 2026 we found no official figure for 2027. The Federal Foreign Office says the amount is based on the maximum support rates for German students, so it can change. Check the mission's study page again before you transfer."
+      },
+      {
+        "type": "p",
+        "text": "The missions accept any one of these as proof of funds:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A blocked account (Sperrkonto) in Germany with €11,904.",
+          "A formal obligation letter (Verpflichtungserklärung) from a sponsor living in Germany.",
+          "A German or EU scholarship.",
+          "Proof of an education loan, which the missions' current study page lists."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The embassy's FAQ adds that tuition for the first two semesters must be paid. Private universities and paid language courses need proof of the fee and of payment for the first year, or a substantial deposit. The Federal Foreign Office does not recommend any blocked account provider."
+      },
+      {
+        "type": "h2",
+        "text": "Health insurance for the German student visa"
+      },
+      {
+        "type": "p",
+        "text": "You need health insurance that starts on your date of arrival in Germany. The missions' current study page asks for a certificate of compulsory health insurance, statutory or private, from the intended date of arrival. The older September 2024 checklist asked for travel health insurance covering the first 90 days from entry. Follow the current page and the checklist the Consular Services Portal shows you. If your statutory cover starts only at enrolment, ask the insurer for a letter showing cover from arrival, or add travel cover for the gap."
+      },
+      {
+        "type": "h2",
+        "text": "Germany study visa requirements India: the document list"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport issued within the last 10 years, with at least 2 blank pages.",
+          "School-leaving certificate or previous degree, with marksheets for every semester.",
+          "APS certificate, or anabin or ZAB recognition documents if you are exempt.",
+          "Admission letter from a full-time German university, a Studienkolleg, or a language course registration.",
+          "Proof of German or English proficiency.",
+          "Motivation letter (intention to study) and CV in table form, in English or German.",
+          "Proof of funds: blocked account, obligation letter, scholarship or education loan.",
+          "Health insurance certificate.",
+          "Optional: earlier long-term German or EU visas or residence permits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The missions can ask for more documents or verify certificates, and incomplete files or a missed interview can lead to refusal."
+      },
+      {
+        "type": "h3",
+        "text": "Motivation letter: what to put in it"
+      },
+      {
+        "type": "p",
+        "text": "Keep it to one page. A structure that works: \"I completed my B.Tech in Mechanical Engineering at [college], Ahmedabad, in [year], with a final-year project on [topic]. I have been admitted to the M.Sc. [programme] at [university], starting [semester]. I chose it for the modules [module 1] and [module 2], which build directly on my project. After graduating, I plan to work in [field].\" Then add how you will fund your studies and why Germany, in two or three plain sentences."
+      },
+      {
+        "type": "h2",
+        "text": "Language requirements: B2 or C1?"
+      },
+      {
+        "type": "p",
+        "text": "It depends on your course, and the official pages do not use the same wording. The missions' study page says a German preparatory course needs B1 German, an English preparatory course needs B2 English, and direct Bachelor's or Master's study generally needs **C1**, in German or English. APS's 2026 leaflet says that as a rule at least **B2** in the language of instruction is needed, and Make it in Germany says usually B2. If your admission letter sets a language condition, that condition is what you must meet."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**German certificates the missions list:** Goethe-Institut or Max Mueller Bhavan, ÖSD and telc.",
+          "**English:** IELTS or tests by ALTE members.",
+          "**Not recognised in India:** Duolingo, Pearson PTE and the TOEFL home edition.",
+          "**Not accepted by APS:** medium of instruction letters or exemption letters."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Consular Services Portal asks whether you have B2 German. Answer yes only if you do; otherwise you have to delete the application and start again."
+      },
+      {
+        "type": "h2",
+        "text": "VFS appointment and the national (D) visa: how booking works"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Apply in the **Consular Services Portal** (digital.diplo.de/visa). A questionnaire sets your visa sub-type, which you cannot change without starting again.",
+          "At the end you receive a link to book an on-site appointment. The embassy says most student applications are submitted at VFS.",
+          "Apply in your consular district. The German Consulate General Mumbai covers Gujarat, Maharashtra, Goa, Madhya Pradesh, Chhattisgarh, and Daman and Diu and Dadra and Nagar Haveli.",
+          "The visa fee is **€75** for adults and €37.50 for under-18s, paid in rupees. The missions currently list ₹7,900 and ₹4,000. VFS charges its own service fee, and the visa fee is not refunded after a refusal.",
+          "If slots are full, VFS offers a waiting list and emails you when appointments are released.",
+          "You attend the interview alone, although family can come to the gate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "An early appointment cannot be moved because your semester is starting. The Mumbai consulate says the coming winter semester is not a reason for a special appointment, and asks students not to email for one."
+      },
+      {
+        "type": "h2",
+        "text": "Germany student visa processing time India"
+      },
+      {
+        "type": "p",
+        "text": "Plan for **several weeks**, and in some cases months. The Federal Foreign Office says this because the alien's authority in Germany has to approve most student applications. The missions' FAQ says national visas can take several months, and the September 2024 student checklist said six to eight weeks once the file reaches Germany. There is no online tracking, and the missions do not answer status questions in the first three months."
+      },
+      {
+        "type": "p",
+        "text": "Working back from your 2027 intake, the order we follow is:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Language test first:** the APS form asks for your language details.",
+          "**APS (and dMAT if it applies):** register as soon as your marksheets allow, and plan the dMAT on 16 January or 13 March 2027.",
+          "**University applications:** many German universities ask for the APS certificate with the application.",
+          "**Admission letter in hand:** open the blocked account, arrange insurance and start the Consular Services Portal application the same week.",
+          "**VFS appointment:** take the first slot offered, and leave at least three months between the appointment and the semester start."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Part-time work and the 18-month job-seeker permit"
+      },
+      {
+        "type": "p",
+        "text": "During your studies you can work up to **140 full days or 280 half days** a year, or up to **20 hours a week**, according to Make it in Germany. Student residence permits are usually issued for two years at first and can be renewed for another two."
+      },
+      {
+        "type": "p",
+        "text": "After you graduate, you can apply for a residence permit to look for skilled work under Section 20(1) No. 1 of the Residence Act. It is issued for up to **18 months**, and you can work in any job while you look. Once you find qualified work, you switch to a skilled worker residence permit or an EU Blue Card."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes we see in German student files"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Booking the visa before the APS certificate is in hand.",
+          "Submitting Duolingo, PTE or a TOEFL home edition score.",
+          "Sending APS a medium of instruction letter instead of a language certificate.",
+          "A blocked account confirmation that does not state the €992 monthly limit.",
+          "Ticking B2 German in the portal without the certificate.",
+          "Choosing a degree from an institution APS cannot accept: APS issues certificates only for UGC-recognised programmes, and some distance programmes are not recognised.",
+          "A motivation letter copied from the internet that does not match your marks or project."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Students who can name two modules from their programme and link them to their final-year project answer the \"why this course\" question in one breath. Read your own motivation letter the night before the VFS appointment."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Germany student visa"
+      },
+      {
+        "type": "p",
+        "text": "We review the whole file before you book VFS: APS documents and the college verification step, the blocked account confirmation, insurance letter, admission conditions, motivation letter and CV. We run a mock interview in English and explain each step to parents in Gujarati or Hindi. Relatives abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate with the student in India. Our office is in Vastrapur, Ahmedabad, and we work with students across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the German Missions in India pages on study visas, national visas, national visa FAQs and appointments, the Mumbai consulate page, the Kolkata consulate fee notice, APS India's process, FAQ, news and dMAT pages and its June and November 2026 leaflets, and the Federal Foreign Office blocked account and processing time pages on 20 November 2026. Make it in Germany blocked automated access, so we read its archived copy of 10 September 2026. Re-check the blocked account amount and the visa fee on india.diplo.de before you pay."
+      }
+    ],
+    "sources": [
+      {
+        "label": "German Missions in India: Studies, including preparatory college and language courses",
+        "url": "https://india.diplo.de/in-en/service/2756350-2756350"
+      },
+      {
+        "label": "German Missions in India: National Visa",
+        "url": "https://india.diplo.de/in-en/service/2755482-2755482"
+      },
+      {
+        "label": "German Missions in India: National Visa FAQs",
+        "url": "https://india.diplo.de/in-en/service/2546328-2546328"
+      },
+      {
+        "label": "German Missions in India: Checklist for a German national visa, students (September 2024)",
+        "url": "https://india.diplo.de/resource/blob/2667080/85ccf154e38cd7c5c36721503a49774c/infostudents-data.pdf"
+      },
+      {
+        "label": "German Embassy New Delhi: Visa appointments",
+        "url": "https://india.diplo.de/in-en/service/2503980-2503980"
+      },
+      {
+        "label": "German Consulate General Mumbai: Consular district and visa services",
+        "url": "https://india.diplo.de/in-en/ueber-uns/mumbai"
+      },
+      {
+        "label": "APS India: Digital Master Test (dMAT)",
+        "url": "https://aps-india.de/dmat/"
+      },
+      {
+        "label": "APS India: Information leaflet, students with Bachelor or Master degree (June 2026)",
+        "url": "https://aps-india.de/wp-content/uploads/2026/06/Leaflet_BA_Graduates_English_dMAT_June2026.pdf"
+      },
+      {
+        "label": "Federal Foreign Office: How long does it take to issue my student visa?",
+        "url": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/08a-bearbeitungszeit-studentenvisum-606760"
+      },
+      {
+        "label": "Make it in Germany: Visa for studying",
+        "url": "https://www.make-it-in-germany.com/en/visa-residence/types/studying"
+      }
+    ]
+  },
+  {
     "slug": "australia-visa-for-parents-from-india-2026",
     "title": "Australia Visa for Parents from India 2026: Subclass 600, 870 and the New 8503 Rule",
     "metaTitle": "Australia Visa for Parents from India 2026 | Travlys",
@@ -17895,9 +18574,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503221043305-f7498f8b7888?w=1600&h=900&fit=crop",
     "related": [
+      "germany-student-visa-for-indians-2027",
       "canada-study-permit-for-indians-2027",
-      "f1-visa-interview-questions-answers-india-2026",
-      "australia-student-visa-new-rules-2026-indian-students"
+      "f1-visa-interview-questions-answers-india-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -20777,9 +21456,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
     "related": [
+      "uae-5-year-multiple-entry-tourist-visa-for-indians-2026",
       "uae-visa-for-parents-from-india-2026",
-      "countries-visa-free-for-indians-with-us-visa-2026",
-      "dubai-visa-cost-from-india-2026"
+      "countries-visa-free-for-indians-with-us-visa-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -23249,7 +23928,7 @@ export const BLOG_POSTS = [
     category: 'Cost guides',
     tags: ['UAE', 'Dubai', 'e-Visa', 'Cost'],
     heroImage: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&h=900&fit=crop',
-    related: ['urgent-visa-from-india-fastest-options-2026', 'uae-visa-for-parents-from-india-2026', 'us-visa-from-india-2026-complete-guide'],
+    related: ['uae-5-year-multiple-entry-tourist-visa-for-indians-2026', 'urgent-visa-from-india-fastest-options-2026', 'uae-visa-for-parents-from-india-2026'],
     cta: { slug: 'uae-visa', label: 'See Dubai visa pricing' },
     faqs: [
       {
