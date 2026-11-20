@@ -5587,7 +5587,7 @@ export const BLOG_POSTS = [
     "metaDescription": "F1 visa interview questions and answers for Indian students: 30 questions by theme, what officers check, the USD 350 SEVIS fee and the social media rule.",
     "excerpt": "Thirty F-1 visa interview questions grouped by theme, with what the officer is checking, an answer pattern and the mistake to avoid. Plus documents, the social media rule, slots and what to do after a 214(b) refusal.",
     "date": "2026-11-19",
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "readMinutes": 10,
     "category": "Study abroad",
     "tags": [
@@ -5813,7 +5813,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "We do not publish slot dates because they change week to week; check the wait times on travel.state.gov and the appointment system linked from in.usembassy.gov. Since December 2025, applicants must interview in their country of nationality or residence, so booking abroad is not a shortcut. One more change: a DHS rule published on 17 July 2026 replaces \"duration of status\" with a fixed admission period of up to 4 years for F-1 students. Ask your university's DSO how it affects your program."
+        "text": "We do not publish slot dates because they change week to week; check the wait times on travel.state.gov and the appointment system linked from in.usembassy.gov. Since December 2025, applicants must interview in their country of nationality or residence, so booking abroad is not a shortcut. One update: a DHS rule published on 17 July 2026 would have replaced \"duration of status\" with a fixed admission period of up to 4 years, but on 16 November 2026 a US federal court in Massachusetts vacated it before it took effect. F-1 students stay on duration of status for now, though DHS can still appeal, so check with your university's DSO before you travel."
       },
       {
         "type": "h2",
@@ -5903,6 +5903,10 @@ export const BLOG_POSTS = [
       {
         "label": "Federal Register: Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
         "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+      },
+      {
+        "label": "US District Court, District of Massachusetts: order vacating the DHS duration-of-status rule (16 Nov 2026)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.305059/gov.uscourts.mad.305059.73.0.pdf"
       }
     ]
   },

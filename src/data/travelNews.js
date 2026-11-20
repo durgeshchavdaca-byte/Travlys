@@ -3,9 +3,25 @@
 // Rendered at /travel-news, and fed into the homepage, llms.txt and the
 // prerendered HTML so search engines and AI assistants see the latest dates.
 
-export const NEWS_UPDATED = '2026-11-19'
+export const NEWS_UPDATED = '2026-11-20'
 
 export const TRAVEL_NEWS = [
+  {
+    date: "2026-11-17",
+    headline: "Canada counts stipend-paid professor and lecturer work for Express Entry",
+    summary:
+      "A temporary public policy from 17 November 2026 lets professors and lecturers paid through stipends, grants or bursaries count that work and job offers for Canadian Experience Class and Federal Skilled Worker. Teaching and research assistants were removed from the researchers category.",
+    href: "/blog/study-abroad-visa-changes-2026-indian-students/",
+    source: { label: "IRCC: Express Entry updates for top researchers", url: "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/express-entry-updates-top-researchers-continue-contributing-canada-innovation-ecosystem.html" },
+  },
+  {
+    date: "2026-11-16",
+    headline: "US court vacates rule that would have capped F-1 student stays at 4 years",
+    summary:
+      "A federal court in Massachusetts vacated the DHS rule of 17 July 2026 that would have replaced duration of status with fixed stays of up to four years for F-1 and J-1 students. The rule never took effect; DHS can still appeal.",
+    href: "/blog/f1-visa-interview-questions-answers-india-2026/",
+    source: { label: "US District Court, District of Massachusetts: order of 16 November 2026", url: "https://storage.courtlistener.com/recap/gov.uscourts.mad.305059/gov.uscourts.mad.305059.73.0.pdf" },
+  },
   {
     date: "2026-11-28",
     headline: "Australia: No Further Stay (8503) becomes mandatory on visitor visas",
