@@ -1303,7 +1303,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Visas for parents",
     "tags": [
       "Australia",
       "Parents visa",
@@ -1644,7 +1644,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Visas for parents",
     "tags": [
       "New Zealand",
       "Parents visa",
@@ -3682,7 +3682,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-19",
     "updated": "2026-11-19",
     "readMinutes": 9,
-    "category": "Country guides",
+    "category": "Visas for parents",
     "tags": [
       "UAE",
       "Dubai",
@@ -3996,7 +3996,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-19",
     "updated": "2026-11-19",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Visas for parents",
     "tags": [
       "Schengen",
       "Germany",
@@ -5147,7 +5147,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-15",
     "updated": "2026-11-15",
     "readMinutes": 10,
-    "category": "How-to",
+    "category": "Visas for parents",
     "tags": [
       "US visa",
       "B1/B2 visa",
@@ -5477,7 +5477,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-15",
     "updated": "2026-11-15",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Visas for parents",
     "tags": [
       "Canada",
       "Super Visa",
@@ -5797,7 +5797,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-15",
     "updated": "2026-11-15",
     "readMinutes": 10,
-    "category": "Country guides",
+    "category": "Visas for parents",
     "tags": [
       "UK",
       "Standard Visitor visa",
@@ -6085,7 +6085,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-15",
     "updated": "2026-11-15",
     "readMinutes": 9,
-    "category": "How-to",
+    "category": "Refusals and reapplying",
     "tags": [
       "US visa",
       "214(b) refusal",
@@ -7345,7 +7345,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-15",
     "updated": "2026-11-15",
     "readMinutes": 8,
-    "category": "How-to",
+    "category": "Refusals and reapplying",
     "tags": [
       "Canada visa",
       "Visa refusal",
@@ -7607,7 +7607,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-15",
     "updated": "2026-11-15",
     "readMinutes": 8,
-    "category": "How-to",
+    "category": "Refusals and reapplying",
     "tags": [
       "UK visa",
       "Visa refusal",
@@ -7865,7 +7865,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-15",
     "updated": "2026-11-15",
     "readMinutes": 8,
-    "category": "How-to",
+    "category": "Refusals and reapplying",
     "tags": [
       "Schengen visa",
       "Visa refusal",
@@ -12081,7 +12081,7 @@ export const BLOG_POSTS = [
     "date": "2026-10-29",
     "updated": "2026-10-29",
     "readMinutes": 8,
-    "category": "Visa rule updates",
+    "category": "Refusals and reapplying",
     "tags": [
       "China",
       "China visa",
@@ -24603,7 +24603,7 @@ export const BLOG_POSTS = [
     date: '2026-06-19',
     updated: '2026-10-25',
     readMinutes: 6,
-    category: 'Honest takes',
+    category: 'Refusals and reapplying',
     tags: ['Refusal', 'Re-application', '214(b)'],
     heroImage: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1600&h=900&fit=crop',
     related: ['uk-visa-refused-what-to-do-2026', 'canada-visa-refused-what-to-do-2026', 'us-visa-rejected-214b-what-to-do-2026'],

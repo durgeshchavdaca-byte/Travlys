@@ -294,13 +294,21 @@ const CATEGORY_BLURBS = {
   'Travel planning': 'Where Indians can travel easily right now, what entry needs, and how to plan the trip.',
   'Country guides': 'Full guides to applying for a visa to a specific country from India.',
   'Study abroad': 'Student visa rules and changes for Indian students heading abroad.',
+  'Visas for parents': 'Every guide to getting Indian parents a visa to visit their children abroad: the US, UK, Canada, Australia, New Zealand, the UAE and Schengen countries. Documents, invitation letters, interview questions, fees and refusal reasons, checked on official sources.',
+  'Refusals and reapplying': 'Visa refused? What the refusal letter means and what to do next for US 214(b), UK, Canada, Schengen and China refusals: appeal options, deadlines, and how to fix the file before you reapply.',
+}
+
+// Hub categories get titles written around how people search.
+const CATEGORY_TITLES = {
+  'Visas for parents': 'Visa for Parents from India 2026: US, UK, Canada, Australia, UAE, Schengen',
+  'Refusals and reapplying': 'Visa Rejected? What to Do Next: US, UK, Canada, Schengen (2026)',
 }
 
 export function getCategoryMeta(cat) {
   const blurb = CATEGORY_BLURBS[cat.name] || `Travlys guides on ${cat.name.toLowerCase()} for Indian travelers.`
   return {
-    title: `${cat.name}: visa guides for Indian travelers`,
-    description: `${blurb} ${cat.posts.length} guides from the Travlys visa team.`.slice(0, 160),
+    title: CATEGORY_TITLES[cat.name] || `${cat.name}: visa guides for Indian travelers`,
+    description: CATEGORY_TITLES[cat.name] ? blurb.slice(0, 158) : `${blurb} ${cat.posts.length} guides from the Travlys visa team.`.slice(0, 160),
     path: `/blog/category/${cat.slug}`,
     keywords: `${cat.name.toLowerCase()}, visa guides india, travlys blog`,
     type: 'website',

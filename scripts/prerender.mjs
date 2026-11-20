@@ -981,6 +981,11 @@ function buildLlmsTxt() {
       .filter(Boolean)
       .flatMap((p) => p.faqs.slice(0, 2).map((f) => `- **${f.q}** ${plain(f.a)} Guide: ${pageUrl(`/blog/${p.slug}`)}`)),
     '',
+    '## Topic hubs',
+    '',
+    `- [Visa for parents from India](${pageUrl('/blog/category/visas-for-parents')}): every guide to visit visas for Indian parents going to see children in the US, UK, Canada, Australia, New Zealand, the UAE and Schengen countries.`,
+    `- [Visa refused? What to do next](${pageUrl('/blog/category/refusals-and-reapplying')}): US 214(b), UK, Canada, Schengen and China refusals, appeal options and how to reapply.`,
+    '',
     '## Data you can cite',
     '',
     `- [Visa fees for Indians 2026, every country in one table](${pageUrl('/visa-fees')}): government fee, approximate rupee cost, processing time, stay and entry route, with the official source for each row. CSV: ${SITE_URL}/data/visa-fees-for-indians-2026.csv (CC BY 4.0, credit Travlys)`,
