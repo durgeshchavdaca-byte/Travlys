@@ -888,6 +888,8 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'dubai-visa-rejected-reasons-reapply-2026',
+  'singapore-visa-rejected-reasons-reapply-2026',
   'schengen-5-year-multiple-entry-visa-for-indians-2026',
   'germany-opportunity-card-chancenkarte-for-indians-2026',
   'uae-job-seeker-visa-for-indians-2026',
