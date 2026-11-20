@@ -8,6 +8,348 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "visa-free-countries-for-indians-with-uae-residence-2026",
+    "title": "Visa-Free Countries for Indians with UAE Residence (and Other GCC Permits) in 2026",
+    "metaTitle": "Visa Free Countries for Indians with UAE Residence | Travlys",
+    "metaDescription": "Indians with a valid UAE or GCC permit can enter Georgia visa-free for 90 days and Armenia for up to 180 days, with easier Azerbaijan and Oman entry.",
+    "excerpt": "A valid UAE, Saudi, Qatar, Oman, Kuwait or Bahrain residence permit gets Indians into Georgia and Armenia visa-free, plus easier entry to Azerbaijan, Oman and Saudi Arabia. Here is what we confirmed, the validity rules, and where your permit does not help.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "Travel planning",
+    "tags": [
+      "UAE residents",
+      "GCC residence",
+      "Visa-free",
+      "Georgia",
+      "Armenia",
+      "Azerbaijan"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
+    "related": [
+      "countries-visa-free-for-indians-with-us-visa-2026",
+      "georgia-visa-for-indians-2026",
+      "turkey-visa-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Ask us about trips from the UAE"
+    },
+    "faqs": [
+      {
+        "q": "Which countries are visa free for Indians with UAE residence visa?",
+        "a": "Georgia and Armenia are the two clear visa-free options for Indians with a valid UAE residence visa. Georgia allows 90 days in any 180-day period, and Armenia allows up to 180 days a year until 1 July 2027. Oman is visa-free for 14 days if your profession qualifies. Azerbaijan gives a 30-day visa at the airport, and Saudi Arabia offers a tourist eVisa. Qatar is visa-free for Indians anyway."
+      },
+      {
+        "q": "Can Indian UAE residents go to Georgia without visa?",
+        "a": "Yes. An Indian with a valid UAE residence permit can enter Georgia visa-free and stay 90 days in any 180-day period. The permit only needs to be valid on the day you enter. The 2025 rule requiring a multiple-entry permit with one year left applies to 17 other nationalities, not to Indians. You must also carry health and accident insurance of at least 30,000 GEL covering your whole stay."
+      },
+      {
+        "q": "Is Turkey visa free for Indians living in Dubai?",
+        "a": "No. Türkiye's Foreign Ministry says Indians need a visa, and a UAE residence permit does not change that. Indians can get a one-month, single-entry e-Visa online only if they hold a valid Schengen, US, UK or Irish visa or residence permit and meet certain conditions. If you have none of those, you need a regular visa from a Turkish mission before you travel."
+      },
+      {
+        "q": "Which countries can I visit with Saudi iqama on Indian passport?",
+        "a": "With a valid Saudi iqama, an Indian can enter Georgia visa-free for 90 days in 180 and Armenia visa-free for up to 180 days a year until 1 July 2027. Azerbaijan issues a 30-day airport visa if the iqama is valid more than 6 months. Oman allows 14 days visa-free for eligible professions. Check each country's validity rule against your iqama expiry date."
+      },
+      {
+        "q": "Can GCC residents get Saudi tourist visa online?",
+        "a": "Yes. Saudi Arabia's Tourist Visa Regulations allow a resident of any GCC country with a residence visa valid at least three months to apply for a tourist visa, if their profession is on the list published on visitsaudi.com. First-degree relatives travelling with them are covered too. The fee is SAR 300 (about ₹7,000), plus compulsory medical insurance, so the total is higher."
+      },
+      {
+        "q": "Do I need 6 months validity on UAE residence to travel?",
+        "a": "It depends on the country. Georgia only needs your permit to be valid on the day you enter. Armenia needs at least 6 months from the date of entry, and Azerbaijan needs more than 6 months. Saudi Arabia's eVisa needs a residence visa valid at least 3 months, and Oman needs a passport valid at least 6 months. Airlines check these rules at check-in."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Living in Dubai, Riyadh or Doha and worried the airline will stop you at the gate? Your Gulf permit does open doors. As of November 2026, Indians with a valid GCC residence permit can enter **Georgia** visa-free for **90 days in 180**, **Armenia** for up to **180 days a year**, get a **30-day airport visa in Azerbaijan**, enter **Oman** visa-free for **14 days** and apply for a **Saudi** tourist eVisa."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Georgia:** visa-free, 90 days in any 180, permit valid on the day you enter, 30,000 GEL insurance compulsory. **Armenia:** visa-free from 1 July 2026 to 1 July 2027, up to 180 days a year, permit valid 6 months from entry. **Azerbaijan:** visa at the international airport, up to 30 days, permit valid more than 6 months. **Oman:** visa-free for 14 days if your profession is on Oman's eligible list. **Saudi Arabia:** tourist eVisa for GCC residents, SAR 300 fee plus medical insurance. **Qatar:** Indians already qualify for visa-free entry; Gulf residents also have the Hayya GCC Resident Visa (A2). **Turkey, UK, Singapore:** a Gulf permit gives no concession to Indians."
+      },
+      {
+        "type": "h2",
+        "text": "Visa-free countries for Indians with UAE residence visa: the confirmed list"
+      },
+      {
+        "type": "p",
+        "text": "The list below holds only what we confirmed on official government pages on 20 November 2026. It applies to an Indian passport holder with a valid residence permit from the UAE, Saudi Arabia, Qatar, Oman, Kuwait or Bahrain. A tourist visa for a Gulf country does not count. You need residence."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Georgia:** visa-free for 90 days in any 180-day period. Your permit must be valid on the day you cross the border.",
+          "**Armenia:** visa-free for up to 180 days in a one-year period, under a temporary exemption that runs from 1 July 2026 to 1 July 2027. India is on the list of 111 eligible nationalities.",
+          "**Azerbaijan:** visa issued at the international airport for up to 30 days. Your residence must be valid for more than 6 months.",
+          "**Oman:** visa-free for 14 days, if your profession is one that benefits from the scheme. Not extendable.",
+          "**Saudi Arabia:** tourist eVisa for GCC residents in listed professions, with a residence visa valid at least 3 months.",
+          "**Qatar:** Indian passport holders are on Qatar's visa-free entry list anyway. GCC residents can also apply for the Hayya GCC Resident Visa (A2)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Countries that are easy for every Indian, wherever they live, are covered further down. So are the ones where your Gulf permit makes no difference."
+      },
+      {
+        "type": "h2",
+        "text": "Georgia visa for Indian UAE residents"
+      },
+      {
+        "type": "p",
+        "text": "Indians holding a valid residence permit from any of the six Gulf states can enter Georgia without a visa and stay **90 days in any 180-day period**. This comes from Georgian Government Ordinance No. 256 of 5 June 2015. Its list of 50 countries includes the UAE, Saudi Arabia, Qatar, Kuwait, Oman and Bahrain. The permit has to be valid on the day you enter Georgia."
+      },
+      {
+        "type": "h3",
+        "text": "Does the 2025 one-year rule apply to Indians?"
+      },
+      {
+        "type": "p",
+        "text": "No. Ordinance No. 122 of 17 April 2025, in force from 16 May 2025, added a stricter rule for Gulf permits: they must be multiple-entry and have **at least one year of validity left** on the day of entry. That rule applies only to citizens of 17 countries listed in a new annex, including Pakistan, Bangladesh, Afghanistan, Nigeria and Morocco. India is not on that list. The Georgian Embassy in the UAE describes the same split on its visa page."
+      },
+      {
+        "type": "p",
+        "text": "Even so, do not cut it fine. A permit that expires next week is legally enough, but it invites questions from border officers about whether you will return to the Gulf."
+      },
+      {
+        "type": "h3",
+        "text": "Insurance is compulsory for every tourist"
+      },
+      {
+        "type": "p",
+        "text": "Since **1 January 2026**, every tourist entering Georgia must hold health and accident insurance covering at least **30,000 GEL** (about ₹9.8 lakh) for the full stay, including the arrival and departure days. Georgia's Foreign Ministry says the policy can come from a Georgian or foreign insurer, in Georgian or English, on paper or on your phone. This applies whether you enter visa-free or on a visa."
+      },
+      {
+        "type": "h2",
+        "text": "Armenia: visa-free with a Gulf permit until 1 July 2027"
+      },
+      {
+        "type": "p",
+        "text": "Armenia's Foreign Ministry runs a **temporary visa exemption from 1 July 2026 to 1 July 2027** for nationals of 111 countries, India included, who hold a valid residence permit from the US, an EU or Schengen state, or any of the six Gulf states. You can stay up to **180 days in a one-year period**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your residence permit must be valid for **at least 6 months from the date you enter Armenia**.",
+          "Show it as a physical card or as a sticker in your passport.",
+          "Border officers may accept it if it shows, in Latin script, the document title, your given name, surname, nationality, date of birth and validity dates in the Gregorian calendar."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "That last point matters for some Gulf cards. Look at your Emirates ID, iqama or Qatar ID before you book. If the English and Gregorian details are not all on the card, ask the Armenian embassy in your country of residence what they will accept. Because this is a temporary scheme, re-check the dates if you are travelling close to July 2027."
+      },
+      {
+        "type": "h2",
+        "text": "Azerbaijan: visa at the airport for Gulf residents"
+      },
+      {
+        "type": "p",
+        "text": "Azerbaijan's Foreign Ministry says holders of a residence permit valid **more than 6 months** in Saudi Arabia, Oman, Bahrain, Qatar or Kuwait, and holders of a UAE resident visa valid more than 6 months, can get a visa **at an international airport** for up to **30 days**. This is a visa on arrival, not visa-free entry."
+      },
+      {
+        "type": "p",
+        "text": "Azerbaijan's State Migration Service also announced a facilitated scheme for residents of Saudi Arabia, Oman, Kuwait, Bahrain and Qatar from **15 February 2026 to 15 February 2027**: a single-entry, 30-day tourist visa at the airports. The notice did not state a fee, so check it before you fly. Because the rule is tied to airports, plan to arrive by air."
+      },
+      {
+        "type": "h2",
+        "text": "Countries Indians can visit with a Saudi iqama or other GCC permit: Saudi Arabia, Oman and Qatar"
+      },
+      {
+        "type": "p",
+        "text": "Gulf residents often forget their neighbours. Here is what the official rules say for an Indian resident of one Gulf state visiting another."
+      },
+      {
+        "type": "h3",
+        "text": "Saudi Arabia eVisa for GCC residents"
+      },
+      {
+        "type": "p",
+        "text": "Saudi Arabia's Tourist Visa Regulations let a person who holds a **residence visa valid at least three months** in a GCC country apply for a tourist visa, for the professions published on visitsaudi.com. The same route covers first-degree relatives travelling with them. The visa fee is **SAR 300** (about ₹7,000), and the regulations also require medical insurance approved in Saudi Arabia, so the total you pay is higher. Travellers under 18 must be with a guardian. The validity and length of stay are shown on the portal when you apply."
+      },
+      {
+        "type": "h3",
+        "text": "Oman: 14 days visa-free"
+      },
+      {
+        "type": "p",
+        "text": "India is in the second group of Oman's 14-day visa exemption. Citizens of that group qualify if they are residents of a GCC country and their profession is among those that benefit, or if they hold a valid visa or residence from the US, Canada, Australia, the UK, Schengen or Japan. Oman's Foreign Ministry lists the conditions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport valid at least 6 months.",
+          "Return ticket and confirmed hotel booking.",
+          "Health insurance and enough money for the stay.",
+          "Stay of 14 days, which cannot be extended or converted to a residence visa.",
+          "Your spouse and children can benefit too."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If your job title does not qualify, apply for a visa on the Royal Oman Police eVisa portal instead."
+      },
+      {
+        "type": "h3",
+        "text": "Qatar"
+      },
+      {
+        "type": "p",
+        "text": "Visit Qatar lists India among the countries whose citizens get visa-free entry, so your Gulf permit is not needed to get in. Gulf residents can also apply for the GCC Resident Visa (A2) on the Hayya platform. Check the current length of stay and conditions on Hayya before you travel."
+      },
+      {
+        "type": "h2",
+        "text": "Turkey visa for Indians in Dubai: does the residence permit help?"
+      },
+      {
+        "type": "p",
+        "text": "No. Türkiye's Foreign Ministry says Indian passport holders need a visa. Indians can get a **single-entry e-Visa valid for one month** only if they hold a valid **Schengen, US, UK or Irish visa or residence permit**, and meet certain conditions. A UAE or other Gulf permit is not on that list. Without one of those four, you need a regular visa from a Turkish mission."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Most of the trouble we see with Gulf residents is about the card, not the country. People book Armenia or Azerbaijan with five months left on their permit, or travel on a card that is mid-renewal. Check each country's validity rule against your own expiry date before you pay for flights."
+      },
+      {
+        "type": "h2",
+        "text": "Where a Gulf permit makes no difference"
+      },
+      {
+        "type": "p",
+        "text": "Some countries treat you as an Indian passport holder, full stop. Your residence does not help, though for several of them you never needed help."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**United Kingdom:** India is on the UK's visa national list, so you need a Standard Visitor visa. The UK ETA is not an option for Indians, with or without a Gulf permit.",
+          "**Singapore:** India is on ICA's list of countries that need a visa. There is no exemption for Gulf residents. Apply through an authorised visa agent or a Singapore mission.",
+          "**Thailand:** Indians can enter visa-free for 30 days for tourism since 15 September 2026, according to the Thai Embassy in New Delhi.",
+          "**Malaysia:** Malaysia's Immigration Department lists Indian citizens as visa-exempt until 31 December 2026. Check the rules for trips from January 2027.",
+          "**Sri Lanka:** since 25 May 2026, Indians get a free tourist ETA valid 30 days with double entry. You still apply for the ETA before you fly."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Not confirmed: Albania, Montenegro, Serbia and Bosnia"
+      },
+      {
+        "type": "p",
+        "text": "We could not confirm a current visa-free rule for Indian Gulf residents on these countries' official pages, so we have left them off the list."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Albania and Montenegro:** news reports describe summer 2026 schemes for some UAE residents that ran until 1 October 2026. We could not confirm them, or any current scheme, on the governments' own pages.",
+          "**Serbia and Bosnia and Herzegovina:** we found no Gulf-residence concession for Indians on official pages."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Some of these countries do accept a valid Schengen, US or UK visa. Our guide to countries visa-free for Indians with a US visa covers that route."
+      },
+      {
+        "type": "h2",
+        "text": "Passport and permit validity: the rules that get people turned back"
+      },
+      {
+        "type": "p",
+        "text": "Every country above has its own validity rule. Airlines check them at check-in, so a mistake usually costs you the flight, not just an argument at the border."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Georgia:** permit valid on the day of entry. The one-year, multiple-entry rule does not apply to Indians.",
+          "**Armenia:** permit valid at least 6 months from entry, with Latin-script details and Gregorian dates.",
+          "**Azerbaijan:** permit valid more than 6 months.",
+          "**Saudi Arabia:** residence visa valid at least 3 months.",
+          "**Oman:** passport valid at least 6 months, plus return ticket, hotel, insurance and funds."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Carry the physical residence card, not just a photo of it. Keep your passport and permit details consistent: if you renewed your passport, make sure your Gulf residence record shows the new passport number. If your permit is being renewed, wait for the new one before you travel on any of these schemes."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Families should check each person's permit separately. A spouse's or child's residence often expires on a different date from the sponsor's, and one short permit can stop the whole family at check-in."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen, UK and US visas from the Gulf"
+      },
+      {
+        "type": "p",
+        "text": "If you live in the Gulf, you apply for a Schengen visa where you live, not in India. The European Commission says you lodge it at the consulate of your main destination, and as a rule at the consulate responsible for the country where you are legally resident. For an Indian in Dubai, that usually means the visa centre in Dubai, such as VFS or TLS, not the one in Ahmedabad."
+      },
+      {
+        "type": "p",
+        "text": "UK and US visitor visas can also be applied for from the Gulf. The forms are the same as in India. Our country guides explain documents and fees; just use the application centre or consulate in your Gulf country."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps Indians living in the Gulf"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks your permit, passport and travel dates against each country's rule before you book, and prepares Schengen, UK and US visa files for Gulf residents. If you live in the UAE or elsewhere in the Gulf, brief us on WhatsApp at +91 82009 18967. If your parents are flying from India to meet you, we coordinate with them directly. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India and abroad."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every rule above on official pages on 20 November 2026. Before you travel, re-check Georgia's ordinance on matsne.gov.ge and the Georgian Embassy in the UAE, Armenia's visa page on mfa.am, Azerbaijan's ASAN visa page on mfa.gov.az, Oman's entry visa page on fm.gov.om, Saudi Arabia's eVisa portal, Hayya for Qatar, and Türkiye's visa page on mfa.gov.tr. Armenia's and Azerbaijan's Gulf-resident schemes are temporary, so watch their end dates."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Legislative Herald of Georgia (Matsne): Ordinance No. 256 on visa-free entry for holders of visas or residence permits",
+        "url": "https://matsne.gov.ge/en/document/view/2867377"
+      },
+      {
+        "label": "Legislative Herald of Georgia (Matsne): Ordinance No. 122 of 17 April 2025",
+        "url": "https://matsne.gov.ge/ka/document/view/6478000"
+      },
+      {
+        "label": "Embassy of Georgia to the UAE: Visa information",
+        "url": "https://uae.mfa.gov.ge/en/visa-information"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Armenia: Visa (temporary visa exemption)",
+        "url": "https://www.mfa.am/en/visa/"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Azerbaijan: ASAN visa",
+        "url": "https://mfa.gov.az/en/category/visa/asan-visa"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Oman: Entry visas",
+        "url": "https://www.fm.gov.om/en/visitors/entry-visas/"
+      },
+      {
+        "label": "Saudi Ministry of Tourism: Tourist Visa Regulations",
+        "url": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf"
+      },
+      {
+        "label": "Republic of Türkiye Ministry of Foreign Affairs: Visa information for foreigners",
+        "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix Visitor, visa national list",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+      },
+      {
+        "label": "European Commission: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      }
+    ]
+  },
+  {
     "slug": "japan-specified-skilled-worker-visa-for-indians-2026",
     "title": "Japan Specified Skilled Worker (SSW) Visa for Indians 2026: Fields, JFT-Basic, CoE and Fake Agent Warnings",
     "metaTitle": "Japan work visa for Indians: SSW 2026 Guide | Travlys",
@@ -9423,9 +9765,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=1600&h=900&fit=crop",
     "related": [
+      "visa-free-countries-for-indians-with-uae-residence-2026",
       "us-visa-from-india-2026-complete-guide",
-      "uae-visa-on-arrival-for-indians-2026",
-      "visa-free-countries-for-indians-2026"
+      "uae-visa-on-arrival-for-indians-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -22308,9 +22650,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1565008576549-57569a49371d?w=1600&h=900&fit=crop",
     "related": [
+      "visa-free-countries-for-indians-with-uae-residence-2026",
       "countries-visa-free-for-indians-with-us-visa-2026",
-      "philippines-visa-free-for-indians-2026",
-      "schengen-ees-explained-for-indian-travellers"
+      "philippines-visa-free-for-indians-2026"
     ],
     "faqs": [
       {
