@@ -8,6 +8,617 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "australia-visa-for-parents-from-india-2026",
+    "title": "Australia Visa for Parents from India 2026: Subclass 600, 870 and the New 8503 Rule",
+    "metaTitle": "Australia Visa for Parents from India 2026 | Travlys",
+    "metaDescription": "Australia visa for parents from India: subclass 600 costs AUD 250, stays up to 12 months. From 28 Nov 2026, every visitor visa carries No Further Stay 8503.",
+    "excerpt": "Indian parents visiting a son or daughter in Australia usually need the AUD 250 Visitor visa (subclass 600). Tourist or Sponsored Family stream, the 3 or 5 year Sponsored Parent visa, the new mandatory 8503 condition, insurance, biometrics and processing times.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "Australia",
+      "Parents visa",
+      "Subclass 600",
+      "Subclass 870",
+      "Condition 8503",
+      "Visitor visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1529108190281-9a4f620bc2d8?w=1600&h=900&fit=crop",
+    "related": [
+      "australia-visitor-visa-subclass-600-from-india-2026",
+      "australia-visa-biometrics-india-2026",
+      "us-visa-for-parents-from-india-2026"
+    ],
+    "cta": {
+      "slug": "australia-visa",
+      "label": "Get your parents' Australia visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Which visa is best for parents to visit Australia from India?",
+        "a": "For most families, the Visitor visa (subclass 600) in the Tourist stream is the right choice. It costs AUD 250, needs no sponsor and can be granted for up to 12 months. Choose the Sponsored Family stream only if officers need extra comfort, such as a past refusal, because it is usually single entry and may need a bond. Choose the subclass 870 if your parents want to stay 3 or 5 years and you are a citizen or a 4 year PR."
+      },
+      {
+        "q": "Can my parents extend their Australia visitor visa in 2026?",
+        "a": "No. A visitor visa cannot be extended, and for applications made from 28 November 2026, condition 8503 (No Further Stay) is mandatory on every subclass 600 visa. That stops your parents applying for most other visas while in Australia. Home Affairs can waive it only after a major change outside their control, such as serious illness. Ask for the full stay you need, with reasons, when you first apply."
+      },
+      {
+        "q": "What is the fee for an Australia visitor visa for parents from India?",
+        "a": "The Visitor visa (subclass 600) costs AUD 250 (about ₹16,000) per person in both the Tourist stream and the Sponsored Family stream. Each parent applies separately, so a couple pays AUD 500. Biometrics, medicals and police certificates can add costs if Home Affairs asks for them. The Sponsored Parent (Temporary) visa costs far more: AUD 6,370 for up to 3 years or AUD 12,440 for up to 5 years."
+      },
+      {
+        "q": "How long can parents stay in Australia on a visitor visa?",
+        "a": "The usual grant is 3 months, and Home Affairs can grant up to 12 months. Parents of an Australian citizen or permanent resident can sometimes get a visa valid for more than 12 months with multiple entries, but they still cannot stay more than 12 months in any 18 month period, and they need health insurance. For longer stays at a stretch, look at the subclass 870."
+      },
+      {
+        "q": "Can I sponsor my parents for Australia if I am on a student visa?",
+        "a": "Not as a formal sponsor. The Sponsored Family stream needs a settled Australian citizen or permanent resident, and the subclass 870 needs a citizen or a permanent resident who has lived in Australia for 4 years. Students and temporary workers can still invite their parents. Your parents apply in the Tourist stream with your invitation letter, a copy of your visa, your enrolment or job letter, and proof of their own funds."
+      },
+      {
+        "q": "How long does the Australia visitor visa take for parents from India?",
+        "a": "The Home Affairs processing guide on 20 November 2026 showed 90% of Tourist stream applications decided in 31 days and 50% in 21 days. The Sponsored Family stream was slower, with 90% in 89 days. The subclass 870 visa showed 90% in 9 months, after a sponsorship stage of about 4 months. Apply at least 6 to 8 weeks before travel for a visitor visa."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "NRI children ask us two things: will a parent in their sixties be refused, and can they stay long enough for a new baby? Parents usually need the **Visitor visa (subclass 600)**, which costs **AUD 250** each, with a standard **3 month** stay and up to **12 months** possible. For applications made from **28 November 2026**, every visitor visa carries **condition 8503**, so ask for the full stay up front."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Main visa:** Visitor visa (subclass 600), Tourist stream or Sponsored Family stream. **Fee:** AUD 250 (about ₹16,000) per parent in either stream. **Stay:** usually 3 months, up to 12 months; parents of citizens or PRs can get visas valid longer, but no more than 12 months in any 18. **New rule:** condition 8503 (No Further Stay) is mandatory on visitor visas applied for from 28 November 2026. **Long stays:** Sponsored Parent (Temporary) visa (subclass 870), 3 or 5 years per visa, AUD 6,370 or AUD 12,440. **Processing:** Tourist stream 90% in 31 days; Sponsored Family 90% in 89 days. **Biometrics:** may be requested for applications lodged in India from 26 October 2026, at 16 VFS centres including Ahmedabad."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visa for parents from India: which visa fits"
+      },
+      {
+        "type": "p",
+        "text": "The right visa depends on your status in Australia and how long your parents want to stay. There are three real options:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tourist stream (subclass 600):** no sponsor needed. Works whether you are a citizen, PR, student or worker. This is the default for most parents.",
+          "**Sponsored Family stream (subclass 600):** you formally sponsor your parents. Only a settled citizen or PR can do this. Usually single entry, may need a bond, and has always carried condition 8503.",
+          "**Sponsored Parent (Temporary) visa (subclass 870):** 3 or 5 years per visa, up to 10 years in total. You must be a citizen, or a PR or eligible New Zealand citizen who has lived in Australia for at least 4 years, and pass an income test."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you are in Australia on a student or work visa, your parents apply in the Tourist stream. Home Affairs itself says that a family member who wants to support a visitor without becoming a sponsor can send a letter of invitation with a Tourist stream application."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visitor visa for parents: the Tourist stream"
+      },
+      {
+        "type": "p",
+        "text": "The Tourist stream is the simplest route: **AUD 250** per person, applied for online in ImmiAccount, and your parents must be outside Australia when they apply and when it is decided. Each parent lodges a separate application."
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs decides the stay case by case. It generally grants 3 months and may grant up to 12 months, looking at how long your parents want to stay and why. For parents of an Australian citizen or permanent resident, it may grant a visa valid for more than 12 months with multiple entries. Even then, your parents cannot stay more than **12 months in total in any 18 month period**, and they must have arranged health insurance."
+      },
+      {
+        "type": "p",
+        "text": "What officers look for, according to the Home Affairs document list:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Enough money for the stay: your parents' bank statements, pension slips or ITR, or your payslips if you are paying.",
+          "A letter of invitation from you stating your relationship, the purpose and length of the visit, where they will stay and your plans.",
+          "Reasons to return: property, other children or family in India, a business or pension in India.",
+          "Passport bio pages, and translations of any document not in English."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Sample invitation letter for parents"
+      },
+      {
+        "type": "p",
+        "text": "\"I, [your name], an Australian [citizen / permanent resident / student visa holder, subclass and grant number], living at [full address], invite my parents, [father's name] (passport [number]) and [mother's name] (passport [number]), of [city], India, to visit me from [date] to [date]. They will stay with me at my address. [Reason: for example, to be with us after the birth of our child, due on [date].] I will pay for their stay and have attached my payslips and bank statements. My parents own their home in [city] and will return to India on [date], where my [brother / sister] and their pension continue. Signed, [name], [date], [phone], [email].\""
+      },
+      {
+        "type": "p",
+        "text": "Only promise to pay if you can show it. A dated reason explains the length of stay better than \"to visit\"."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who ask for 6 months with a clear reason, a doctor's due-date letter or a graduation date, and show return ties in India, give the officer an easy file. A vague request for 12 months with no reason is where we see shorter grants."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visa for parents 600: the Sponsored Family stream"
+      },
+      {
+        "type": "p",
+        "text": "In the Sponsored Family stream you sponsor your parents formally. It costs the same **AUD 250**, but it comes with conditions that suit fewer families."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who can sponsor:** a settled Australian citizen or permanent resident aged 18 or over, who has usually lived in Australia for the last 2 years. A parent or child is an eligible relationship.",
+          "**Form 1149:** the sponsor completes Form 1149, Application for sponsorship for Sponsored Family Visitors, and the applicant attaches a copy. There is no sponsorship fee.",
+          "**Security bond:** Home Affairs may ask for one. Bonds are usually AUD 5,000 to AUD 15,000 per person (about ₹3.2 lakh to ₹9.6 lakh), paid before the decision and refunded if your parents comply and leave on time.",
+          "**Stay and entry:** standard stay 3 months, up to 12 months in limited cases. Generally single entry, with 6 months from grant to enter.",
+          "**Condition 8503:** always attached, so your parents cannot apply for another visa from inside Australia.",
+          "**Proof of relationship:** birth certificates, or passport pages showing the names of parents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "It suits families who need the sponsor's formal backing, for example after a refusal. For most parents, the Tourist stream is more flexible and faster."
+      },
+      {
+        "type": "h2",
+        "text": "Condition 8503 from 28 November 2026: what it means for parents"
+      },
+      {
+        "type": "p",
+        "text": "Condition 8503 is now mandatory on every subclass 600 visa, in every stream, applied for on or after **28 November 2026**. The instrument is the Migration Amendment (Preventing Further Stay for Visitor Visas) Regulations 2026 (F2026L01503), made on 12 November 2026. It also adds 8503 to the ETA (subclass 601) and eVisitor (subclass 651). The change applies to applications made from that date, not to applications already lodged."
+      },
+      {
+        "type": "p",
+        "text": "Parents could once arrive on a 3 month visa and apply for another visitor visa from inside Australia. With 8503, they cannot apply for most visas while in Australia and must leave before the visa ends."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Plan the whole stay now.** Ask for 6 or 12 months in the first application, with reasons, rather than counting on an extension.",
+          "**Waivers are narrow.** Home Affairs can waive 8503 only for a major change after the grant that was out of your control, such as being unable to travel for medical reasons or the death or serious illness of close family. Not knowing about the condition is not a reason.",
+          "**A waiver request is not a waiver.** If the visa expires while the request is pending, your parent becomes unlawful. The decision cannot be reviewed by the Administrative Review Tribunal.",
+          "**Check the grant letter or VEVO.** Visas from applications lodged before 28 November keep the conditions they were granted with."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Note: the Home Affairs visa pages we checked were last updated on 5 November 2026, before the new instrument was registered, so they do not yet describe the change. The legislation is the authority. Re-check the visa page after 28 November."
+      },
+      {
+        "type": "h2",
+        "text": "Sponsored parent visa 870: 3 or 5 years in Australia"
+      },
+      {
+        "type": "p",
+        "text": "The Sponsored Parent (Temporary) visa lets parents stay for **3 or 5 years per visa**, up to a **10 year** total, with multiple entries. It does not lead to permanent residence and does not allow work. It is a two step process: you are approved as a Parent Sponsor first, then your parents apply within 6 months."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Sponsor eligibility:** aged 18 or over; an Australian citizen, or a PR or eligible New Zealand citizen usually resident in Australia for at least 4 years.",
+          "**Income test:** taxable income of at least AUD 83,454.80 (about ₹53 lakh) in the last completed income year. You can combine with your partner or a sibling who is a citizen or PR, if your own income is at least half of that figure.",
+          "**Sponsorship fee:** AUD 420 (about ₹27,000), not refunded if you withdraw.",
+          "**Visa cost:** AUD 6,370 (about ₹4.1 lakh) for up to 3 years, or AUD 12,440 (about ₹8 lakh) for up to 5 years, paid in two instalments. The first instalment is AUD 1,515; Home Affairs invoices the second before grant.",
+          "**Household limit:** one sponsorship at a time, covering up to 2 parents.",
+          "**Sponsor duties:** financial support and accommodation, and repaying any public health debt your parents incur in Australia.",
+          "**Apply from outside Australia,** unless Home Affairs gives Permission to Apply in Australia in exceptional cases such as serious illness."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Processing on 20 November 2026: sponsorship about **4 months**, then the visa **7 months** for 50% and **9 months** for 90% of applications."
+      },
+      {
+        "type": "h2",
+        "text": "Australian visa for parents of permanent resident: which route"
+      },
+      {
+        "type": "p",
+        "text": "If you hold PR, all three routes can open up, depending on how long you have lived in Australia."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**New PR:** your parents use the Tourist stream. As parents of a permanent resident, they may be granted a visa valid for more than 12 months.",
+          "**PR settled about 2 years:** the Sponsored Family stream becomes available.",
+          "**PR resident 4 years, income above AUD 83,454.80:** you can sponsor them for the subclass 870.",
+          "**Citizen:** all three routes, with no residence period for the 870."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Health insurance for parents visiting Australia"
+      },
+      {
+        "type": "p",
+        "text": "Visitors pay for all their own healthcare in Australia, so insurance matters more than for most countries. The rules differ by visa:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Tourist and Sponsored Family streams:** Home Affairs strongly recommends adequate health insurance, and may grant the visa with condition 8501 (maintain adequate health insurance).",
+          "**Parents granted a visa valid for more than 12 months:** must have made adequate health insurance arrangements.",
+          "**Subclass 870:** must hold and maintain health insurance from an Australian health insurance provider for the whole stay."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs sets the minimum cover as broadly equivalent to Overseas Student Health Cover: hospital treatment in public or private hospitals, and admitted medical and pharmacy costs. Each policy sets its own waiting periods, so read them before you buy. For parents with diabetes, blood pressure or heart conditions, check in writing how the insurer treats pre-existing conditions."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Buy the policy for the exact visa dates and keep the policy schedule with the passport. Parents who can show the insurance and your Australian address at the airport answer the officer's questions in one line."
+      },
+      {
+        "type": "h2",
+        "text": "Biometrics in India and processing times"
+      },
+      {
+        "type": "p",
+        "text": "From **26 October 2026**, applicants in India may be asked for fingerprints and a facial photo. The Australian High Commission says this applies only to applications lodged from that date. Home Affairs will tell your parents if they need to give biometrics. Do not book until you receive the request."
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs lists **16 Australian Biometrics Collection Centres** in India, run by VFS Global: Ahmedabad, Bengaluru, Chandigarh, Chennai, Hyderabad, Jaipur, Jalandhar, Kochi, Kolkata, Lucknow, Mumbai, New Delhi, Pune and Thiruvananthapuram, plus pop-up centres with reduced hours at Panaji and Puducherry. VFS charges a service fee. Some applicants who gave biometrics before may be allowed to use the Australian Immi App instead, at no cost."
+      },
+      {
+        "type": "p",
+        "text": "Processing times from the Home Affairs guide, checked 20 November 2026:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Visitor (600) Tourist stream: 50% in 21 days, 90% in 31 days.",
+          "Visitor (600) Sponsored Family stream: 50% in 40 days, 90% in 89 days.",
+          "Sponsored Parent (870) sponsorship: about 4 months for both 50% and 90%.",
+          "Sponsored Parent (870) visa: 50% in 7 months, 90% in 9 months."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Health checks, biometrics or a missing document add time, so apply 6 to 8 weeks before a visitor visa trip."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes we see in parents' Australia files"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Asking for 12 months with no reason, or dates that do not match the invitation letter.",
+          "Large deposits into the parents' account just before applying, with no explanation.",
+          "Planning to \"extend later\". From 28 November 2026 that option is gone for most visitors."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your parents' Australia visa"
+      },
+      {
+        "type": "p",
+        "text": "We prepare your parents' file in English, draft the invitation letter with you, choose the right stream and length of stay, and brief your parents in Gujarati or Hindi so they understand every document they sign. NRI children in Australia can brief us on WhatsApp at +91 82009 18967, and we coordinate with your parents in India, including the biometrics appointment. Our office is in Vastrapur, Ahmedabad, and we file for families across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the Home Affairs pages for the subclass 600 Tourist and Sponsored Family streams, the subclass 870, current visa pricing, the processing times guide, the No Further Stay waiver, adequate health insurance and biometrics, plus instrument F2026L01503 on legislation.gov.au and the Australian High Commission's biometrics notice, on 20 November 2026. Fees are as shown on Home Affairs pages that day. Re-check immi.homeaffairs.gov.au after 28 November 2026 for the updated 8503 wording, and before you pay."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Tourist stream (apply outside Australia)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas"
+      },
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Sponsored family stream",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/sponsored-family-stream"
+      },
+      {
+        "label": "Department of Home Affairs: Sponsored Parent (Temporary) visa (subclass 870)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/sponsored-parent-temporary-870"
+      },
+      {
+        "label": "Federal Register of Legislation: Migration Amendment (Preventing Further Stay for Visitor Visas) Regulations 2026 (F2026L01503)",
+        "url": "https://www.legislation.gov.au/F2026L01503/asmade/text"
+      },
+      {
+        "label": "Department of Home Affairs: No further stay waiver",
+        "url": "https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/waivers-and-permissions/no-further-stay-waiver"
+      },
+      {
+        "label": "Department of Home Affairs: Global visa processing times",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times"
+      },
+      {
+        "label": "Department of Home Affairs: Current visa pricing",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing"
+      },
+      {
+        "label": "Department of Home Affairs: Adequate health insurance for visa holders",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/adequate-health-insurance"
+      },
+      {
+        "label": "Department of Home Affairs: Biometrics",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+      },
+      {
+        "label": "Australian High Commission, India: Australia expands biometric collection requirements for visa applicants in India",
+        "url": "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html"
+      }
+    ]
+  },
+  {
+    "slug": "new-zealand-visa-for-parents-from-india-2026",
+    "title": "New Zealand Visa for Parents from India 2026: Visitor, Parent Boost and Parent and Grandparent Visas",
+    "metaTitle": "New Zealand Visa for Parents from India 2026 | Travlys",
+    "metaDescription": "New Zealand visa for parents from India: a Visitor Visa costs NZD 441 for up to 9 months, or the Parent Boost Visitor Visa costs NZD 3,100 for up to 5 years.",
+    "excerpt": "Indian parents visiting a son or daughter in New Zealand can use the NZD 441 Visitor Visa, the multi-entry Parent and Grandparent Visitor Visa, or the 5 year Parent Boost Visitor Visa. Sponsor income, insurance, health checks, documents and processing times.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "New Zealand",
+      "Parents visa",
+      "Parent Boost Visitor Visa",
+      "Visitor visa",
+      "Sponsor income"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1469521669194-babb45599def?w=1600&h=900&fit=crop",
+    "related": [
+      "new-zealand-visa-for-indians-2026",
+      "canada-visitor-visa-for-parents-from-india-2026",
+      "uk-visa-for-parents-from-india-2026"
+    ],
+    "cta": {
+      "slug": "new-zealand-visa",
+      "label": "Get your parents' NZ visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Which New Zealand visa is best for parents from India?",
+        "a": "For one trip of up to 6 months, the regular Visitor Visa is simplest: NZD 441 and 80% decided within 2 weeks for applicants in India. For repeat visits over 3 years, the Parent and Grandparent Visitor Visa costs the same and allows 18 months in 3 years. For long stays, the Parent Boost Visitor Visa gives up to 5 years, but needs high sponsor income or parents' own funds, insurance and strict health checks."
+      },
+      {
+        "q": "What is the NZ Parent Boost visa fee from India?",
+        "a": "The Parent Boost Visitor Visa costs NZD 3,100 (about ₹1,64,000) for one person applying from India, including the NZD 100 International Visitor Conservation and Tourism Levy. Your parents also pay for medical tests, police certificates if needed, and at least one year of insurance after approval in principle. A health and insurance check in the third year will cost NZD 325. The fee is not refunded if the application is declined."
+      },
+      {
+        "q": "How much income does my child need to sponsor a Parent Boost visa?",
+        "a": "A single sponsor must earn at least NZD 72,800 a year to sponsor one parent and NZD 109,200 for two parents. Joint sponsors need NZD 109,200 for one parent and NZD 145,600 for two. The sponsor must earn this now and in 2 of the last 3 completed New Zealand tax years. Instead, parents can use their own income of NZD 33,663.24 a year, or personal funds of NZD 170,000."
+      },
+      {
+        "q": "How long can parents stay in New Zealand on a visitor visa?",
+        "a": "On a regular Visitor Visa, parents can stay up to 9 months in any 18 month period. A multiple-entry visa allows up to 6 months in each 12 month period. The Parent and Grandparent Visitor Visa allows 6 months at a time and 18 months in 3 years. The Parent Boost Visitor Visa has no limit per visit for up to 5 years, but parents must leave in the third year for a check."
+      },
+      {
+        "q": "Can parents of an NZ work visa holder apply for the Parent Boost visa?",
+        "a": "No. The Parent Boost Visitor Visa and the Parent and Grandparent Visitor Visa both need a sponsoring child who is a New Zealand citizen or resident. If you are in New Zealand on a work or student visa, your parents apply for the regular Visitor Visa. You can still sponsor them on the Sponsorship Form for Temporary Entry (INZ 1025), backed by your payslips, bank statements and proof of accommodation."
+      },
+      {
+        "q": "Is the Parent Resident Visa open for parents from India in 2026?",
+        "a": "Yes, but only through an expression of interest. Your parents submit an EOI, and only those selected are invited to apply. From 5 October 2026, about 90% of EOIs are selected by date order and 10% by random ballot, with the first selection on 10 November 2026. About 2,500 visas are available each year, and the visa costs from NZD 5,810. The sponsoring child must meet income and residence rules."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Parents often worry that a long trip to see grandchildren in Auckland means a long, uncertain wait. It need not. Indian parents can visit a child in New Zealand on a **Visitor Visa** costing **NZD 441**, decided for 80% of applicants in India within **2 weeks**. If your child is a New Zealand citizen or resident, the **Parent Boost Visitor Visa** allows visits over **5 years** for **NZD 3,100**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visitor Visa:** NZD 441 (about ₹23,400) including the NZD 100 visitor levy; up to 9 months in 18; 80% decided within 2 weeks from India. **Parent and Grandparent Visitor Visa:** NZD 441; multi-entry for 3 years; 6 months at a time, 18 months in 3 years; 80% within 3 months. **Parent Boost Visitor Visa:** NZD 3,100 (about ₹1,64,000); multi-entry for up to 5 years; about 4 months to process; child must be a citizen or resident. **Sponsor income (Parent Boost):** NZD 72,800 a year for one parent, NZD 109,200 for two. **Insurance (Parent Boost):** at least 1 year, NZD 250,000 emergency medical cover. **Parent Resident Visa:** EOI and ballot only, from NZD 5,810."
+      },
+      {
+        "type": "h2",
+        "text": "New Zealand visa for parents from India: three visitor options"
+      },
+      {
+        "type": "p",
+        "text": "The right visa depends on your status in New Zealand and how often your parents will come. All three are applied for online, from outside New Zealand for the two parent visas."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visitor Visa:** open to all parents, whatever your visa. Best for one trip of up to 6 months.",
+          "**Parent and Grandparent Visitor Visa:** for parents and grandparents of NZ citizens and residents. Same fee, more time over 3 years, but a medical and chest X-ray are needed.",
+          "**Parent Boost Visitor Visa:** for parents of NZ citizens and residents who want long stays over up to 5 years, and can meet the income, insurance and health rules."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "INZ itself says that if your parents plan to visit only once or for short stays, the Visitor Visa or the Parent and Grandparent Visitor Visa has fewer requirements to meet."
+      },
+      {
+        "type": "h2",
+        "text": "New Zealand visitor visa for parents"
+      },
+      {
+        "type": "p",
+        "text": "The regular Visitor Visa costs **NZD 441** for one person applying from India, including the NZD 100 International Visitor Conservation and Tourism Levy. On 20 November 2026, INZ showed **80% decided within 2 weeks** for applicants in India."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Stay:** up to 9 months in any 18 month period. A multiple-entry visa allows up to 6 months in each 12 month period; a single-entry visa can be given for stays over 6 months.",
+          "**Money:** NZD 1,000 a month (about ₹53,000), or NZD 400 a month if accommodation is paid. Or you sponsor them.",
+          "**Sponsorship:** you complete the Sponsorship Form for Temporary Entry (INZ 1025) and can add bank statements, payslips, your employment agreement and rent receipts or ownership papers.",
+          "**Health:** stays under 6 months do not normally need a chest X-ray. For stays over 6 months, check INZ's rules: citizens of countries without a low TB incidence need one.",
+          "**Insurance:** not compulsory, but INZ recommends full medical insurance. You or your parents pay for any healthcare."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "INZ notes that September to March is its busiest time. For a Diwali or Christmas trip, apply early, and do not book non-refundable flights until the visa is approved."
+      },
+      {
+        "type": "h3",
+        "text": "Sample invitation letter for parents"
+      },
+      {
+        "type": "p",
+        "text": "\"I, [your name], a New Zealand [citizen / resident / work visa holder] living at [full address], invite my parents, [father's name] (passport [number]) and [mother's name] (passport [number]), of [city], India, to stay with me from [date] to [date] [reason, for example: to be with us after the birth of our child, due on [date]]. They will live at my home. I have completed form INZ 1025 and attached my payslips, bank statements and tenancy agreement. My parents will return to India on [date], where they own their home and my father receives a pension. Signed, [name], [date], [phone], [email].\""
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents who carry a printed copy of the invitation, your address and phone number, and the return ticket, answer the airport officer's questions in a few words. We add a short note in Gujarati or Hindi with the same details for parents who are not comfortable in English."
+      },
+      {
+        "type": "h2",
+        "text": "NZ Parent Boost visa: who qualifies"
+      },
+      {
+        "type": "p",
+        "text": "The Parent Boost Visitor Visa is a multi-entry visitor visa for parents of New Zealand citizens and residents. INZ opened applications on **29 September 2025**. It allows visits over **up to 5 years**, with no limit on the length of each visit, and parents can hold only **2** of these visas."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Sponsor:** at least one adult child, 18 or over, who is a New Zealand citizen or resident. Up to 2 joint sponsors: your child and their partner, or two of your adult children.",
+          "**Sponsor in New Zealand:** sponsors must live in New Zealand and spend at least 184 days there in each year your parents hold the visa.",
+          "**Sponsor duties:** covering essential living costs such as accommodation, making sure parents can get health and financial support, and covering repatriation or deportation costs if needed.",
+          "**Parents:** no dependent children, living outside New Zealand when they apply, in good health, of good character and with genuine reasons to visit. A partner can be included.",
+          "**Limits:** the visa does not lead to residence. Parents cannot work. They must enter within 6 months of the visa being granted, and the 5 years start from first entry."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Parent Boost visa sponsor income and funds"
+      },
+      {
+        "type": "p",
+        "text": "Your parents must meet one of three money options. These figures are updated each April."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Sponsor's income, one sponsor:** NZD 72,800 a year (about ₹38.6 lakh) for one parent; NZD 109,200 for two parents.",
+          "**Sponsor's income, joint sponsors:** NZD 109,200 for one parent; NZD 145,600 for two parents.",
+          "**Parents' own annual income:** NZD 33,663.24 a year, or NZD 51,182.56 with a partner. It must be ongoing, for example a pension, rent or interest, earned in the 12 months before applying.",
+          "**Parents' personal funds:** NZD 170,000 (about ₹90 lakh), or NZD 260,000 with a partner, in a bank account they can use in New Zealand. Funds cannot be gifted or borrowed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Sponsors must earn the minimum now and must have earned it in **2 of the last 3** completed New Zealand tax years (1 April to 31 March). Evidence comes from Inland Revenue: Proof of Income or an Income Tax Assessment Letter for salaried sponsors, and Confirmation of Income or a Return Acknowledgement for the self-employed."
+      },
+      {
+        "type": "h2",
+        "text": "Parent Boost visa health insurance and health checks"
+      },
+      {
+        "type": "p",
+        "text": "Insurance is compulsory. Your parents need at least **1 year** of medical insurance, travel insurance or both, and cover every later visit. Buy it only after INZ approves the application in principle, and send proof within 3 months or the application is declined."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Emergency medical care: NZD 250,000 each year.",
+          "Cancer cover: NZD 100,000 each year.",
+          "Repatriation: NZD 250,000.",
+          "Return of remains: NZD 50,000.",
+          "The insurer needs a credit rating of at least A (strong), or an equivalent from a recognised agency."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The health standard is higher than for other visitor visas, and no medical waiver is available. Your parents give a chest X-ray and medical exam from an INZ panel physician after they apply, when asked. During the **third year**, they must leave New Zealand for a health and insurance check, stay outside until INZ confirms it (which can take up to 3 months), and pay a fee of **NZD 325**. Police certificates are needed if their total time in New Zealand will reach 24 months, which a long Parent Boost stay can easily do."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Price the insurance before you apply, not after approval. For parents in their late sixties with a heart or diabetes history, the premium for NZD 250,000 of cover, cancer cover included, can change the decision between Parent Boost and repeat Visitor Visas."
+      },
+      {
+        "type": "h2",
+        "text": "Parent and Grandparent Visitor Visa: still open"
+      },
+      {
+        "type": "p",
+        "text": "The Parent and Grandparent Visitor Visa is still offered. It costs **NZD 441** from India and INZ showed **80% within 3 months** on 20 November 2026."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Multi-entry for up to 3 years: 6 months at a time, 18 months in total.",
+          "Sponsor: your child or grandchild who is a NZ citizen or resident, or their parent if the grandchild is under 18. The sponsor must not be sponsoring anyone else.",
+          "Chest X-ray and medical exam with the application, unless given in the last 36 months.",
+          "Not available if your parents were granted this visa in the past 36 months.",
+          "INZ advises applicants with a medical condition to apply at least 4 months before travel."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Parent visa New Zealand: the Parent Resident Visa in brief"
+      },
+      {
+        "type": "p",
+        "text": "The Parent Resident Visa is for parents who want to live in New Zealand permanently. It works by expression of interest. From **5 October 2026**, INZ selects about 90% of EOIs by date order and 10% by random ballot; the first selection under this model was on 10 November 2026. About **2,500** visas are available each year, and the cost starts at **NZD 5,810**. Your child must have been a citizen or resident for at least 3 years, live in New Zealand, have spent 184 days or more there in each of the 3 years before your parents apply, and meet income rules. Your parents must also meet English, health and character rules."
+      },
+      {
+        "type": "h2",
+        "text": "Documents and processing times for parents' NZ visa"
+      },
+      {
+        "type": "p",
+        "text": "The core documents for every option:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport valid at least 3 months beyond the planned departure from New Zealand, and 1 acceptable photo.",
+          "Proof of relationship: birth certificates.",
+          "Your passport or NZ resident visa, and your sponsorship form or sharing ID.",
+          "Parents' funds: bank statements, pension or rent income; or your income evidence.",
+          "Return ties: property papers, family in India, a pension or business.",
+          "Medical certificates and chest X-ray if required, and police certificates if required.",
+          "English translations of any document in Gujarati, Hindi or another language."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Processing times for applicants in India, from INZ on 20 November 2026: Visitor Visa 80% within 2 weeks; Parent and Grandparent Visitor Visa 80% within 3 months; Parent Boost Visitor Visa expected around 4 months. INZ is not legally obliged to reconsider a declined Parent Boost application, so file it complete the first time."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your parents' New Zealand visa"
+      },
+      {
+        "type": "p",
+        "text": "We check which of the three visas fits, prepare your parents' file in English, draft your invitation and sponsorship documents, and brief your parents in Gujarati or Hindi before they travel. NRI children in New Zealand can brief us on WhatsApp at +91 82009 18967, and we coordinate with your parents in India, including medical and police certificate appointments. Our office is in Vastrapur, Ahmedabad, and we file for families across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the Immigration New Zealand pages for the Visitor Visa, Parent Boost Visitor Visa, Parent and Grandparent Visitor Visa and Parent Resident Visa, with fees and processing times shown for an applicant in India (Ahmedabad), on 20 November 2026. Income and funds thresholds change each April. Re-check immigration.govt.nz for your parents' details before you apply and before buying insurance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration New Zealand: Parent Boost Visitor Visa",
+        "url": "https://www.immigration.govt.nz/visas/parent-boost-visitor-visa/"
+      },
+      {
+        "label": "Immigration New Zealand: Parent and Grandparent Visitor Visa",
+        "url": "https://www.immigration.govt.nz/visas/parent-and-grandparent-visitor-visa/"
+      },
+      {
+        "label": "Immigration New Zealand: Visitor Visa",
+        "url": "https://www.immigration.govt.nz/visas/visitor-visa/"
+      },
+      {
+        "label": "Immigration New Zealand: Parent Resident Visa",
+        "url": "https://www.immigration.govt.nz/visas/parent-resident-visa/"
+      }
+    ]
+  },
+  {
     "slug": "schengen-visa-appointment-india-how-to-get-slot-2026",
     "title": "Schengen Visa Appointment in India 2026: How to Get a Slot When None Show",
     "metaTitle": "Schengen Visa Appointment Availability India 2026 | Travlys",
@@ -7301,9 +7912,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1524293581917-878a6d017c71?w=1600&h=900&fit=crop",
     "related": [
+      "australia-visa-for-parents-from-india-2026",
       "australia-visa-biometrics-india-2026",
-      "visa-rejection-reasons-india",
-      "when-to-apply-for-visa-from-india-by-country"
+      "visa-rejection-reasons-india"
     ],
     "cta": {
       "slug": "australia-visa",
@@ -14126,9 +14737,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1600&h=900&fit=crop",
     "related": [
+      "new-zealand-visa-for-parents-from-india-2026",
       "australia-visitor-visa-subclass-600-from-india-2026",
-      "australia-visa-biometrics-india-2026",
-      "visa-rejection-reasons-india"
+      "australia-visa-biometrics-india-2026"
     ],
     "cta": {
       "slug": "new-zealand-visa",
@@ -14425,9 +15036,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1600&h=900&fit=crop",
     "related": [
+      "australia-visa-for-parents-from-india-2026",
       "visa-application-centres-ahmedabad-addresses-2026",
-      "australia-visitor-visa-subclass-600-from-india-2026",
-      "australia-student-visa-new-rules-2026-indian-students"
+      "australia-visitor-visa-subclass-600-from-india-2026"
     ],
     "cta": {
       "slug": "australia-visa",
