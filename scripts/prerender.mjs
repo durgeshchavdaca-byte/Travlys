@@ -888,6 +888,10 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'schengen-visa-appointment-india-how-to-get-slot-2026',
+  'canada-study-permit-for-indians-2027',
+  'business-visa-from-india-2026-usa-uk-schengen-uae',
+  'urgent-visa-from-india-fastest-options-2026',
   'malaysia-visa-for-indians-2027-evisa',
   'malaysia-visa-free-for-indians-2026',
   'uae-visa-for-parents-from-india-2026',

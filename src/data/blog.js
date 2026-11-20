@@ -8,6 +8,1398 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "schengen-visa-appointment-india-how-to-get-slot-2026",
+    "title": "Schengen Visa Appointment in India 2026: How to Get a Slot When None Show",
+    "metaTitle": "Schengen Visa Appointment Availability India 2026 | Travlys",
+    "metaDescription": "No Schengen slots? Apply up to 6 months ahead, book Germany at any VFS centre in India, check daily for cancellations, and never pay for a guaranteed slot.",
+    "excerpt": "No Schengen slots on the VFS calendar? Here is who handles appointments for Germany, France, the Netherlands, Italy, Spain, Switzerland and Austria, how early you can apply, and what actually works when dates look full.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "How-to",
+    "tags": [
+      "Schengen visa",
+      "Visa appointment",
+      "VFS Global",
+      "Germany visa",
+      "France visa",
+      "Netherlands visa",
+      "Ahmedabad"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-application-centres-ahmedabad-addresses-2026",
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-for-parents-from-india-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Schengen file and slot sorted"
+    },
+    "faqs": [
+      {
+        "q": "How to get Schengen visa appointment fast in India?",
+        "a": "Check the official VFS or BLS website every day and book the moment a slot appears, because appointments are first come, first served and cancelled slots return to the same system. Apply as early as the rules allow, up to 6 months before travel. For Germany, you may book at any VFS centre in India. Germany's urgent business and trade fair categories help only genuine business travellers whose journey starts within four weeks."
+      },
+      {
+        "q": "Can I book Germany visa appointment in another city in India?",
+        "a": "Yes, for Schengen visas. The German missions say Schengen appointments can be booked and applications submitted at any VFS centre in India, regardless of where you live, and every German Schengen file is decided at the Consulate General in Mumbai. This does not apply to national visas such as student or work visas. When booking, select the mission for your home state as VFS asks, which is Mumbai for Gujarat."
+      },
+      {
+        "q": "How early can I book Schengen visa appointment from India?",
+        "a": "You can lodge a Schengen application up to 6 months before your trip starts and, as a rule, at least 15 calendar days before it. Seafarers on duty can apply up to 9 months ahead. Germany recommends at least three weeks, since the 15-day decision period starts only when your file reaches the visa section. For summer or December travel, book the appointment as soon as your trip falls within the 6-month window."
+      },
+      {
+        "q": "Is it safe to buy Schengen visa appointment from agent?",
+        "a": "No. VFS Global says it does not sell appointments, that they are free and bookable only on vfsglobal.com, and that it does not work with third parties. BLS International calls buying appointments from third parties a fraudulent practice. The German Consulate in Mumbai warns that an agent's misconduct counts against the applicant and can lead to invalid bookings or refusals. Nobody can guarantee a slot, and Travlys never sells one."
+      },
+      {
+        "q": "Can I apply Schengen visa from another country if appointment is not available?",
+        "a": "No, slot availability is not a valid reason. You must apply to your main destination, meaning the country where you will spend the most days or which is the main purpose of your trip. If days are equal, apply to the first country you will visit. A consulate that is not competent returns the application and refunds the visa fee. Shift your dates or try another allowed centre of the right country instead."
+      },
+      {
+        "q": "Does VFS premium lounge give early Schengen appointment?",
+        "a": "No. Premium lounge and prime time services make the visit more comfortable, but VFS states that value-added services have no influence on a quicker or positive visa decision, and they do not create earlier appointment dates. On VFS's Germany page for India, the Premium Lounge costs INR 3,088 and Prime Time Passport Collection costs INR 520, on top of the INR 1,933 VFS service fee."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Your trip is weeks away, the VFS calendar shows nothing, and someone on WhatsApp is offering a \"confirmed slot\" for a fee. You can still get a Schengen visa appointment in India in 2026: you may apply up to **6 months** before travel and, as a rule, at least **15 days** before. Germany accepts Schengen files at **any VFS centre in India**, and official appointments are **free**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Earliest you can apply:** 6 months before the trip (9 months for seafarers on duty). **Latest, as a rule:** 15 calendar days before the trip. **Where to book:** only on the official VFS Global or BLS International website, free of charge. **Providers:** VFS Global for Germany, France, the Netherlands, Italy, Switzerland and Austria. BLS International for Spain. **Germany:** book at any VFS centre in India; every German Schengen file is decided in Mumbai. **Ahmedabad centre:** Shree Balaji Agora Mall, Motera. **Visa fee:** €90 per adult (INR 9,100 on VFS's Germany page). **Guaranteed slots:** they do not exist, from anyone."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa appointment availability in India: why the calendar looks full"
+      },
+      {
+        "type": "p",
+        "text": "The calendar looks full because slots are limited and booked first come, first served. VFS Global says availability is at the sole discretion of the embassies it serves. Nobody else can create extra dates."
+      },
+      {
+        "type": "p",
+        "text": "On paper, the EU Visa Code says an appointment should, as a rule, take place within two weeks of the date you request it. In practice, the German missions' Schengen FAQ says that when no slot appears for your date, all available slots are fully booked. It suggests checking the VFS system regularly, because slots are sometimes added as capacity grows."
+      },
+      {
+        "type": "h2",
+        "text": "Which company handles appointments: Germany, France, Netherlands, Italy, Spain, Switzerland, Austria"
+      },
+      {
+        "type": "p",
+        "text": "Six of the seven big Schengen countries use VFS Global in India. Spain uses BLS International. This is what each official page said on 20 November 2026:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Germany:** VFS Global. Every German Schengen application accepted at any VFS centre in India is forwarded to the German Consulate General in Mumbai for a decision.",
+          "**France:** VFS Global, with centres including Ahmedabad, Pune, Bengaluru, Kolkata, Chandigarh, Kochi and Delhi. Decisions are made by the French consulates in Mumbai, Puducherry, Kolkata and Bengaluru and by the embassy in New Delhi.",
+          "**Netherlands:** VFS Global, at Ahmedabad, Bangalore, Chandigarh, Chennai, Cochin, Hyderabad, Jalandhar, Kolkata, Lucknow, Mumbai, Pune and New Delhi.",
+          "**Italy:** VFS Global. Your home state decides the office. Gujarat is in the West jurisdiction, with appointments at Mumbai, Cochin, Pune or Ahmedabad.",
+          "**Spain:** BLS International. Appointments must be booked only through the BLS website.",
+          "**Switzerland:** VFS Global. All applications submitted anywhere in India are processed by the Swiss Embassy in New Delhi.",
+          "**Austria:** VFS Global receives and returns passports for short-stay visas."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "None of the official pages we checked names TLScontact as the provider in India for these seven countries."
+      },
+      {
+        "type": "h3",
+        "text": "Germany visa appointment India"
+      },
+      {
+        "type": "p",
+        "text": "Germany is the most flexible. A German missions notice (July 2024, still online) says Schengen appointments can be booked, and applications submitted, at all VFS centres in India regardless of where you live. If your nearest centre is full, you may look for slots in other major cities. This does not apply to national visas such as student, work or family reunion visas."
+      },
+      {
+        "type": "p",
+        "text": "One catch: VFS's Germany page asks you to pick the mission competent for your place of residence when booking, or the appointment may be cancelled. For Gujarat that is Mumbai. Select your home state's mission and you meet both instructions, whichever city you submit in."
+      },
+      {
+        "type": "p",
+        "text": "Germany also has two booking categories for short-notice trips: urgent business and urgent trade fair. Your journey must start within four weeks of the booked appointment. They are only for business travellers and trade fair exhibitors, and the FAQ says they do not give a fast-track visa procedure. Special appointments outside these categories are generally limited to compelling and unplanned medical and humanitarian reasons."
+      },
+      {
+        "type": "h3",
+        "text": "France visa appointment India"
+      },
+      {
+        "type": "p",
+        "text": "France books through VFS Global. Submission is by appointment only, Monday to Friday, 9:00 to 16:00, and passport collection needs no appointment. Its India page (April 2026 archived copy) says Indian passport holders born in India should lodge a short-stay application at least five days before departure. Treat that as a last resort, not a plan."
+      },
+      {
+        "type": "h3",
+        "text": "Netherlands visa appointment India"
+      },
+      {
+        "type": "p",
+        "text": "The Netherlands asks you to book your VFS appointment yourself, one appointment per person, children included, and says plainly not to book through an intermediary. To change or cancel, contact VFS Global."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa appointment dates: how early and how late you can apply"
+      },
+      {
+        "type": "p",
+        "text": "You can lodge a Schengen application no more than **6 months** before your trip starts and, as a rule, no later than **15 calendar days** before. These limits come from the EU Visa Code."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest:** 6 months before the start of the trip. For a trip starting in June, you can apply from December.",
+          "**Seafarers on duty:** up to 9 months before.",
+          "**Latest:** 15 calendar days before, as a rule. Consulates may accept later applications in justified urgent cases.",
+          "**Germany:** recommends at least three weeks, because the 15-day decision clock starts when your file reaches the visa section, not when you submit at VFS. Files from centres outside Mumbai take 2 to 3 extra days in transit.",
+          "**Austria:** VFS's Austria page says applications must be submitted at least 15 working days before travel.",
+          "**Spain:** BLS centres under the Mumbai jurisdiction accept applications only when travel is more than 15 calendar days after submission.",
+          "**Decision time:** normally 15 days, extendable up to 45 days in individual cases."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The mistake we see most is waiting for flight prices to settle before booking the appointment. For summer or Christmas travel, book the appointment the day your dates fall inside the 6-month window, then buy flights."
+      },
+      {
+        "type": "h2",
+        "text": "What to do when no Schengen slots show"
+      },
+      {
+        "type": "p",
+        "text": "Check daily and be ready to book the moment a slot appears. None of the official pages we checked says at what time new or cancelled slots are released, so ignore anyone who claims to know a secret release time."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Check every day, more than once.** Cancelled slots go back into the same first come, first served system. The German missions ask applicants to cancel appointments they no longer need, because an unused booking blocks a slot for someone else.",
+          "**Try another city where the country allows it.** Germany does for Schengen visas. Switzerland processes everything in New Delhi and accepts applications in 13 VFS cities. Italy and Spain tie you to the jurisdiction of your home state.",
+          "**Move your dates, not your destination.** Shifting travel by a week or two is fine. Switching to a country with free slots is not, unless your plan genuinely changes.",
+          "**Use urgent routes only if you qualify.** Germany's urgent categories and special appointments exist for real business and humanitarian cases. A wrong category means VFS and the visa section will not honour the appointment.",
+          "**Book one appointment per person.** Each family member needs a separate slot."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "If Ahmedabad is full for Germany, a Pune or Mumbai slot is often worth the train ticket. Book the slot first and the train second. Carry the printed appointment letter and your originals, because a missing paper means a second trip, which costs more than the first one."
+      },
+      {
+        "type": "h3",
+        "text": "Sample wording: special appointment request (Germany, medical or humanitarian only)"
+      },
+      {
+        "type": "p",
+        "text": "The German missions consider special appointments only for compelling and unplanned medical or humanitarian reasons, through the Mumbai mission's contact form. Keep the request short and factual, and attach proof:"
+      },
+      {
+        "type": "callout",
+        "label": "Sample request",
+        "text": "Subject: Request for a special Schengen visa appointment, medical emergency. I am [full name], passport number [number], resident of [city, state]. My [relation], who lives in [city, Germany], was admitted to hospital on [date]; the hospital letter is attached. I need to travel by [date], and no VFS appointment is available before [date]. I request a special appointment at any VFS centre in India. Attached: hospital letter, passport copy, proof of relationship."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa appointment Ahmedabad"
+      },
+      {
+        "type": "p",
+        "text": "Ahmedabad's VFS centre for Germany, France and the Netherlands is on the ground floor of **Shree Balaji Agora Mall**, between Tapovan and Bhat Circle, Sardar Patel Ring Road, Motera, Ahmedabad 382424. Italy books West jurisdiction appointments in Ahmedabad, and Switzerland lists Ahmedabad among its accepting cities. Spain is separate: BLS International has its own centre in Navrangpura."
+      },
+      {
+        "type": "p",
+        "text": "Gujarat falls under the German Consulate General in Mumbai, so a German Schengen file submitted in Ahmedabad travels to Mumbai for the decision, which adds 2 to 3 days. Our Ahmedabad visa centres guide has floors, timings and what to carry."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa appointment tracker, bots and paid agents: what officials say"
+      },
+      {
+        "type": "p",
+        "text": "A tracker showing when dates recently opened can help you decide when to look, but none is official and none can book a slot that does not exist. The official warnings are blunt:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**VFS Global:** does not sell visa appointments. Appointments are free and can be booked only on www.vfsglobal.com, though some countries require a prepaid service fee. VFS says it does not work with any third-party entities.",
+          "**BLS International (Spain):** asks applicants not to buy appointments from third parties, calls it a fraudulent practice, and warns of individuals and agents charging large amounts for appointments.",
+          "**German Consulate General Mumbai (on VFS's Germany page):** strongly warns applicants who use visa agents to prepare an application or book appointments. The agent's misconduct counts against the applicant and may lead to invalid bookings or refusals.",
+          "**Netherlands:** do not make an appointment through an intermediary."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We did not find an official statement from these missions about booking bots by name. Our view is simple: a service that wants your VFS login, or charges for a \"confirmed\" or \"guaranteed\" slot, is asking you to break the provider's rules with your own passport details. Travlys does not sell slots and never promises one."
+      },
+      {
+        "type": "h2",
+        "text": "Can I apply to whichever Schengen country has slots? The main destination rule"
+      },
+      {
+        "type": "p",
+        "text": "No. Under the EU Visa Code, you apply to the country that is your main destination, judged by the number of days you will spend there or by the main purpose of the trip. If days are equal, the European Commission says to apply to the first country you will visit. Picking a country only because it has earlier slots is visa shopping."
+      },
+      {
+        "type": "p",
+        "text": "Consulates check this. Under the Visa Code, a consulate that is not competent returns your application, refunds the visa fee and tells you which consulate is. Officers also compare your itinerary and hotels with the country you chose."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "6 nights in Italy and 4 in Switzerland: apply to Italy.",
+          "5 nights in France and 5 in Germany, landing in Paris: apply to France.",
+          "A trade fair in Germany plus a weekend in Amsterdam: apply to Germany, as the main purpose."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Families visiting children in Europe sometimes add a quick side trip and then wonder which embassy to use. Count the nights on your hotel bookings, not the cities on your wish list. The country with the most nights is almost always the answer."
+      },
+      {
+        "type": "h2",
+        "text": "VFS premium lounge and prime time: what paying more gets you"
+      },
+      {
+        "type": "p",
+        "text": "Premium services buy comfort at the centre, not an earlier appointment or a faster decision. VFS states that opting for value-added services has no influence on a quicker or positive visa decision. Fees listed on VFS's India pages on 20 November 2026:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Germany (Mumbai jurisdiction page):** VFS service fee INR 1,933. Optional Premium Lounge INR 3,088. Prime Time Passport Collection (4 pm to 7 pm) INR 520. All include GST.",
+          "**Switzerland:** optional Premium Lounge INR 4,600, not available in Jaipur, Kolkata or Jalandhar.",
+          "**Italy (North India page):** Premium Lounge INR 4,669 per application.",
+          "**Visa fee:** €90 for adults (INR 9,100 on VFS's Germany page), €45 for children aged 6 to 12, nothing for children under 6."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These amounts change, so check on the day you pay and ask for a receipt."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with Schengen slots and files"
+      },
+      {
+        "type": "p",
+        "text": "We work out which country you must apply to, which centres it allows and the earliest date the 6-month rule permits. Then we get your file complete so you can take a cancelled slot the day it appears. We never buy, sell or guarantee slots; appointments are booked on the official VFS or BLS website in the applicant's own name."
+      },
+      {
+        "type": "p",
+        "text": "NRI children in Europe can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents in India: the file prepared in English, interview and counter briefing in Gujarati or Hindi. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked the European Commission, EUR-Lex (EU Visa Code), the German missions, VFS Global's India pages for Germany, Italy, Switzerland, Austria and the Netherlands, NetherlandsWorldwide, the Swiss Embassy, BLS Spain and France-Visas (April 2026 archived copy). Slot availability changes by the hour, so we quote no dates. Before booking, re-check your country's VFS or BLS page and the embassy website."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission, Migration and Home Affairs: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009 establishing a Community Code on Visas (consolidated text)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20200202"
+      },
+      {
+        "label": "German Missions in India: Schengen Visa FAQs",
+        "url": "https://india.diplo.de/in-en/service/schengen-visa-faq-2610538"
+      },
+      {
+        "label": "German Missions in India: Important information for Schengen visa applicants (appointment categories)",
+        "url": "https://india.diplo.de/in-en/service/-/2564504"
+      },
+      {
+        "label": "VFS Global: Germany visa information, India (Mumbai jurisdiction)",
+        "url": "https://visa.vfsglobal.com/one-pager/germany/india/mumbai/english/"
+      },
+      {
+        "label": "VFS Global: Do not fall for fraud",
+        "url": "https://www.vfsglobal.com/en/donotfallforfraud"
+      },
+      {
+        "label": "NetherlandsWorldwide: Applying for a Schengen visa in India",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-india"
+      },
+      {
+        "label": "France-Visas: Applying for a visa for France in India and Nepal",
+        "url": "https://france-visas.gouv.fr/web/france-visas/inde"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Visa, entry to and residence in Switzerland",
+        "url": "https://www.schweiz-indien.eda.admin.ch/en/visa-entry-to-and-residence-in-switzerland"
+      },
+      {
+        "label": "BLS International: Official website for Spain visa in India",
+        "url": "https://india.blsspainvisa.com/"
+      }
+    ]
+  },
+  {
+    "slug": "canada-study-permit-for-indians-2027",
+    "title": "Canada Study Visa for Indian Students 2027: PAL, Funds, Processing Time and PGWP Rules",
+    "metaTitle": "Canada Study Visa for Indian Students 2027: Rules | Travlys",
+    "metaDescription": "Canada will take up to 150,000 new students a year in 2027. Most Indians need a PAL, CAD 23,448 for living costs and a CAD 150 fee. India: about 7 weeks.",
+    "excerpt": "Canada's 2027-2029 plan allows up to 150,000 new international students a year. Here is what Indian students need now: PAL, proof of funds, fees, processing time, medicals and the PGWP rules to check before choosing a course.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 10,
+    "category": "Country guides",
+    "tags": [
+      "Canada study permit",
+      "PAL letter",
+      "Study permit cap",
+      "PGWP",
+      "Proof of funds",
+      "Indian students"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1517935706615-2717063c2225?w=1600&h=900&fit=crop",
+    "related": [
+      "canada-visa-refused-what-to-do-2026",
+      "study-abroad-visa-changes-2026-indian-students",
+      "canada-visitor-visa-for-parents-from-india-2026"
+    ],
+    "cta": {
+      "slug": "canada-visa",
+      "label": "Get your Canada study permit file reviewed"
+    },
+    "faqs": [
+      {
+        "q": "Is Canada still accepting Indian students in 2027?",
+        "a": "Yes. Canada's 2027-2029 Immigration Levels Plan, released on 5 November 2026, allows up to 150,000 new international students a year in 2027, 2028 and 2029. That is slightly below the 2026 target of 155,000. There is no ban on Indian students. The limit works through provincial allocations and the PAL system, so apply early in the cycle, choose a course that fits your background and make sure your funds are well documented."
+      },
+      {
+        "q": "What is the PAL letter for Canada and how do I get it?",
+        "a": "A PAL (Provincial Attestation Letter) is a letter from the province where you will study, confirming you fall within its share of the study permit cap. You do not apply for it yourself. Your college or university requests it after you accept the offer and usually after you pay a deposit. Master's and PhD students at public institutions do not need one from 1 January 2026. Quebec uses a CAQ instead."
+      },
+      {
+        "q": "How much bank balance is required for Canada student visa from India?",
+        "a": "For applications from 1 September 2026, a single student must show CAD 23,448 for one year of living costs (about ₹16 lakh), plus first-year tuition and travel costs. A student with one family member coming along must show CAD 29,192 for living costs. Proof can be a GIC, six months of bank statements, an education loan letter or a sponsor's letter with income proof. The source of the money matters as much as the amount."
+      },
+      {
+        "q": "How long does Canada student visa take from India right now?",
+        "a": "IRCC's processing time tool showed 7 weeks for a study permit from India in data updated on 18 November 2026. This shows how long recent applications took and can change every week. Add time for the medical exam and biometrics if you have not done them. For a September 2027 intake, aim to apply by May or June 2027. Check the tool yourself on the day you apply."
+      },
+      {
+        "q": "Is GIC compulsory for Canada study visa after SDS ended?",
+        "a": "No. The Student Direct Stream, which required a GIC, closed on 8 November 2024. Indian students now apply in the regular stream, where a GIC from a Canadian bank is accepted as proof of funds but is not required. You can use bank statements, an education loan or a sponsor's support instead. Many families still choose a GIC because it shows living money already set aside in Canada."
+      },
+      {
+        "q": "Which IELTS is needed for PGWP in Canada, Academic or General?",
+        "a": "IRCC's PGWP list accepts IELTS General Training, not IELTS Academic. The other accepted tests are CELPIP General, PTE Core, TEF Canada and TCF Canada, and results must be less than 2 years old when you apply. University degree graduates need CLB 7 in all four skills, which is 6.0 in each IELTS General band. College graduates need CLB 5. Many students who took Academic for admission need a second test."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried Canada has shut the door? It has not, but it has narrowed it. Canada's **2027-2029 Immigration Levels Plan**, released on 5 November 2026, allows **up to 150,000 new international students a year**. Most Indian applicants still need a **Provincial Attestation Letter (PAL)**, proof of **CAD 23,448** for living costs on top of tuition, and a **CAD 150** fee plus **CAD 85** biometrics. IRCC shows **7 weeks** for India."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**New student target:** up to 150,000 new arrivals a year in 2027, 2028 and 2029. **PAL/TAL:** needed by most college and undergraduate students; master's and PhD students at public institutions are exempt since 1 January 2026. **2027 provincial allocations:** not yet published (as of 20 November 2026). **Living costs to show (single student, outside Quebec):** CAD 23,448 a year (about ₹16 lakh), plus first-year tuition and travel. **Fees:** study permit CAD 150 (about ₹10,200), biometrics CAD 85 (about ₹5,800). **Processing time for India:** 7 weeks (IRCC data updated 18 November 2026). **Medical exam:** usually needed if you have lived in India for 6 months or more in the past year. **GIC:** not mandatory, but accepted as proof of funds. **Work while studying:** up to 24 hours a week off campus during term."
+      },
+      {
+        "type": "h2",
+        "text": "Canada study visa for Indian students 2027: what changed"
+      },
+      {
+        "type": "p",
+        "text": "The short answer: the numbers are fixed for three years, and the rules from 2024 to 2026 stay. The levels plan sets new temporary resident arrivals at **370,000 a year**, made up of **220,000 workers** and **up to 150,000 international students** in each of 2027, 2028 and 2029. The 2026 target was 155,000, so 2027 is slightly lower, not a fresh cut."
+      },
+      {
+        "type": "p",
+        "text": "Two details matter for Indian families. First, the 150,000 figure counts new arrivals only. Extensions for students already in Canada are not part of that target. Second, IRCC says the government still aims to bring the temporary resident population below 5% of Canada's population by the end of 2027. That is why every file is read closely, and why a weak file from a strong student still gets refused."
+      },
+      {
+        "type": "p",
+        "text": "For context, IRCC's own data shows 83,110 new student arrivals from January to September 2026, against the 155,000 target for the year."
+      },
+      {
+        "type": "h2",
+        "text": "Canada study permit cap 2027: how the allocation works"
+      },
+      {
+        "type": "p",
+        "text": "The cap is a ceiling on applications, shared out by province. IRCC sets a national number, then each province and territory gets a share of application spaces and issues PALs up to that share. The 2027 allocation notice had not been published when we checked on 20 November 2026. The 2026 notice came out on 25 November 2025, so expect the 2027 one soon."
+      },
+      {
+        "type": "p",
+        "text": "Here is how 2026 was set, which shows the structure IRCC uses:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Total study permits expected in 2026:** up to 408,000 (155,000 new arrivals and 253,000 extensions).",
+          "**PAL/TAL-required applicants:** 180,000 permits, with 309,670 application spaces allocated to allow for refusals.",
+          "**Master's and doctoral students at public institutions:** 49,000 (PAL-exempt).",
+          "**School students (K-12):** 115,000 (exempt).",
+          "**Largest provincial shares:** Ontario 104,780 and Quebec 93,069 application spaces."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In practice, the allocation is why some colleges stop issuing PALs mid-year. If your college says its PAL quota is used up, that is a provincial limit, not a visa refusal."
+      },
+      {
+        "type": "h2",
+        "text": "Canada PAL letter: who needs it and who is exempt"
+      },
+      {
+        "type": "p",
+        "text": "You need a PAL (or TAL, for territories) if you are going to a post-secondary institution outside Quebec and no exemption applies. Your college or university requests it from the province for you. You do not apply for it yourself. Quebec uses a Quebec Acceptance Certificate (CAQ) instead."
+      },
+      {
+        "type": "p",
+        "text": "IRCC lists these main exemptions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Master's or doctoral degree programs at a **public** designated learning institution (DLI), from 1 January 2026.",
+          "Preschool, primary and secondary school students (up to grade 12).",
+          "Exchange students who do not pay tuition to the Canadian institution.",
+          "Global Affairs Canada scholarship holders.",
+          "Students already in Canada extending at the same institution and the same level of study."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you claim an exemption, IRCC expects proof. A master's applicant should make sure the letter of acceptance clearly shows a degree-granting graduate program at a public institution. A postgraduate diploma or certificate at a college is **not** a master's degree for this rule and still needs a PAL."
+      },
+      {
+        "type": "callout",
+        "label": "Watch the cap year",
+        "text": "A PAL is tied to a cap year. PALs for the 2026 cap year are valid until **31 December 2026**, unless they show an earlier date, and IRCC will not accept a PAL from a previous cap year. If you hold a 2026 PAL for a January or May 2027 intake, submit your application before 31 December 2026, or ask your college about a 2027 PAL."
+      },
+      {
+        "type": "h2",
+        "text": "Canada study permit requirements 2027: documents list"
+      },
+      {
+        "type": "p",
+        "text": "The core file has not changed for 2027. IRCC's document list for applicants outside Canada is:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Letter of acceptance** from a DLI, which the school must confirm as valid.",
+          "**PAL/TAL**, unless exempt (CAQ for Quebec).",
+          "**Passport** copy and two recent photos, for you and any family member coming with you.",
+          "**Proof of funds** for tuition, living costs and travel.",
+          "**Letter of explanation** (IRCC calls it recommended; in our view it is essential).",
+          "**Medical exam** confirmation, where needed.",
+          "**Police certificate**, if IRCC asks for one."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Letter of explanation: a structure that works"
+      },
+      {
+        "type": "p",
+        "text": "Keep it to one or two pages, in your own words. A simple order that officers can follow:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who you are:** \"I completed my B.Com from Gujarat University in 2025 with 7.8 CGPA and have worked as an accounts assistant in Ahmedabad since July 2025.\"",
+          "**Why this program:** name the course and two modules that connect to your past study or work.",
+          "**Why Canada and why this school:** a specific reason, not \"good quality education\".",
+          "**Who is paying:** \"My father, a textile trader in Surat, will pay my tuition and living costs. His ITRs for three years and bank statements are attached.\"",
+          "**Your plan after the course:** the job you are aiming for, and why the qualification helps."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The files that struggle are rarely short of money. They are short of a reason. A student with a B.Com who picks a two-year college diploma in hospitality, with no explanation, invites the question an officer will ask anyway: why this, after that?"
+      },
+      {
+        "type": "h2",
+        "text": "Proof of funds for Canada student visa in 2027"
+      },
+      {
+        "type": "p",
+        "text": "For applications submitted on or after **1 September 2026**, a single student going anywhere outside Quebec must show **CAD 23,448** a year for living costs (about ₹16 lakh). This does not include tuition or travel, which you show separately. Quebec sets its own amounts through the CAQ process."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**1 person (student only):** CAD 23,448.",
+          "**2 people:** CAD 29,192.",
+          "**3 people:** CAD 35,888.",
+          "**4 people:** CAD 43,572."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Accepted proof includes a GIC from a Canadian bank, six months of bank statements showing where the money came from, an education loan letter from a bank, a scholarship letter, a receipt for tuition and housing already paid to the institution, and a letter from the person funding you with proof of their identity and income."
+      },
+      {
+        "type": "h3",
+        "text": "Is a GIC mandatory for Indian students now?"
+      },
+      {
+        "type": "p",
+        "text": "No. The Student Direct Stream, which required a GIC, ended on 8 November 2024. Indian students now apply in the regular stream, where a GIC is one accepted form of proof, not a requirement. Many families still buy one because it shows living costs already sitting in Canada. What matters more is that the money has a clear, documented source. A large deposit a week before applying, with no explanation, does more harm than good."
+      },
+      {
+        "type": "h2",
+        "text": "Canada student visa processing time from India"
+      },
+      {
+        "type": "p",
+        "text": "IRCC's processing time tool shows **7 weeks** for a study permit applied for from India, in data updated on **18 November 2026**. This is a measure of how long recent applications took, not a promise. It changes weekly."
+      },
+      {
+        "type": "p",
+        "text": "Plan backwards from your intake:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**September 2027 intake:** accept your offer, pay the deposit and get your PAL early. Apply by May or June 2027 if you can.",
+          "**January 2027 intake:** if your PAL is from the 2026 cap year, apply before 31 December 2026.",
+          "**Medical exam:** book an upfront exam with a panel physician before you apply, so the file is not paused waiting for it.",
+          "**Biometrics:** give them at a visa application centre as soon as you receive the instruction letter."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Medical exam for Canada study permit from India"
+      },
+      {
+        "type": "p",
+        "text": "Most Indian students need one. IRCC requires an immigration medical exam for a stay of more than 6 months if you have lived in or travelled to a listed country for 6 months or more in a row in the year before you come, and **India is on that list**. The exam must be done by an IRCC panel physician, not your family doctor. IRCC suggests getting it done upfront, before you apply, and including the confirmation document with your application."
+      },
+      {
+        "type": "h2",
+        "text": "PGWP new rules: what Indian students must check before choosing a course"
+      },
+      {
+        "type": "p",
+        "text": "The work permit after graduation now depends on your course, your language score and, for college students, your field of study. Check these before you pay a deposit, not after you graduate."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Field of study:** bachelor's, master's and PhD graduates have no field-of-study requirement. College, polytechnic and other non-degree graduates who applied for their study permit on or after 1 November 2024 must study an eligible field, matched by CIP code.",
+          "**Language:** CLB 7 in all four skills for university degree graduates, CLB 5 for college and non-university programs. In IELTS General Training, CLB 7 means 6.0 in each band.",
+          "**Accepted tests:** IELTS General Training, CELPIP General, PTE Core, TEF Canada or TCF Canada, less than 2 years old when you apply. IELTS Academic is not on IRCC's PGWP list.",
+          "**Program length:** at least 8 months.",
+          "**Public-private partnership colleges:** programs delivered by a private college for a public one are generally not PGWP-eligible if they started after 15 May 2024."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Many students take IELTS Academic for admission, then discover at graduation that IRCC wants General Training for the PGWP. If your plan includes working in Canada afterwards, plan for a second test, and check your college diploma's CIP code against IRCC's current list before you accept the offer."
+      },
+      {
+        "type": "h2",
+        "text": "Can my spouse get an open work permit if I study in Canada?"
+      },
+      {
+        "type": "p",
+        "text": "Only if you study certain programs. Since 21 January 2025, spouses and common-law partners of study permit holders can get an open work permit only if the student is in:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A master's program of at least **16 months**.",
+          "A doctoral program.",
+          "Certain professional degrees at a university, including medicine, law, dentistry, pharmacy, nursing, education and engineering.",
+          "A small number of listed provincial or pilot programs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A one-year postgraduate diploma at a college no longer qualifies. Couples planning to go together should choose the course with this rule in mind. The open work permit holder fee is CAD 100 (about ₹6,800)."
+      },
+      {
+        "type": "h2",
+        "text": "Canada student visa refusal: what we see, and what IRCC publishes"
+      },
+      {
+        "type": "p",
+        "text": "IRCC does not publish a current approval rate for Indian study permit applicants on its application pages, so be careful with any agent quoting one. The refusal letters we review usually point to the same few issues: the officer was not satisfied the student would leave at the end of the stay, the funds were not convincing, or the course did not fit the student's background."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Course mismatch:** a jump from engineering to a one-year business diploma with no explanation.",
+          "**Funds without a source:** fixed deposits opened just before applying, or a sponsor with no income proof.",
+          "**Gaps:** two or three years after graduation with nothing to show for them.",
+          "**Copy-paste letters:** a letter of explanation that reads like every other file from the same agent."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you have already been refused, do not reapply with the same file. Read our guide on what to do after a Canada visa refusal, request your officer's notes, and fix the specific reason first."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Canada study permit"
+      },
+      {
+        "type": "p",
+        "text": "We review your file the way an officer would: course choice against your background, the source of every rupee in your funds, your letter of explanation, and your PAL timing. If you were refused, we read the refusal and the officer's notes before anything else. Parents and students abroad can brief us on WhatsApp (+91 82009 18967). Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for students across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 20 November 2026. Before you apply, re-check IRCC's notices page for the 2027 provincial allocations, the PAL/TAL page for cap-year dates, the proof of funds page, the processing time tool for India, and the PGWP eligibility and language pages. These rules have changed more than once a year since 2024."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IRCC: Building a stronger Canada through a well-managed, predictable immigration system (2027-2029 levels plan backgrounder)",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/building-a-stronger-canada-through-a-well-managed-predictable-immigration-system.html"
+      },
+      {
+        "label": "IRCC: Supplementary Information for the 2027-2029 Immigration Levels Plan",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/immigration-system/levels/supplementary-immigration-levels-2027-2029.html"
+      },
+      {
+        "label": "IRCC: 2026 provincial and territorial allocations under the international student cap",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html"
+      },
+      {
+        "label": "IRCC: Provincial attestation letter (PAL) or territorial attestation letter (TAL)",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html"
+      },
+      {
+        "label": "IRCC: Study permit, proof of financial support",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html"
+      },
+      {
+        "label": "IRCC: Fee list",
+        "url": "https://ircc.canada.ca/english/information/fees/fees.asp"
+      },
+      {
+        "label": "IRCC: Check processing times",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+      },
+      {
+        "label": "IRCC: Post-graduation work permit, who can apply",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html"
+      },
+      {
+        "label": "IRCC: Open work permit for spouses or common-law partners of students",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html"
+      },
+      {
+        "label": "IRCC: Find out if you need a medical exam for your temporary resident application",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams/requirements-temporary-residents/country-requirements.html"
+      }
+    ]
+  },
+  {
+    "slug": "business-visa-from-india-2026-usa-uk-schengen-uae",
+    "title": "Business Visa from India 2026: USA B1, UK, Schengen, Dubai and China Fees, Documents and Letters",
+    "metaTitle": "Business Visa for USA from India 2026: UK, Schengen | Travlys",
+    "metaDescription": "Business visa for USA from India: the B1 costs USD 185 and needs no invitation letter. UK GBP 135, Schengen EUR 90, China from ₹2,900. Documents and letters.",
+    "excerpt": "What Indian business owners, exporters and employees can and cannot do on a US B1, UK Standard Visitor, Schengen, UAE and China M visa, with official fees, processing times, a sample covering letter and the refusal reasons we see.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 11,
+    "category": "Country guides",
+    "tags": [
+      "Business visa",
+      "US B1 visa",
+      "UK visitor visa",
+      "Schengen visa",
+      "Dubai visa",
+      "China M visa",
+      "Covering letter"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1600&h=900&fit=crop",
+    "related": [
+      "china-visa-for-indians-2026-new-process",
+      "schengen-visa-documents-checklist-2026",
+      "us-visa-interview-questions-answers-b1-b2-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get your business visa file prepared"
+    },
+    "faqs": [
+      {
+        "q": "Is invitation letter required for US business visa?",
+        "a": "No. The US State Department says a letter of invitation is not needed for a visitor visa and is not one of the factors used to decide it. The officer decides on the purpose of your trip, your ties to India and your ability to pay. A letter from the US company can still help you explain who you are meeting and why, so carry it if you have one. Your own company covering letter, ITRs and bank statements carry more weight."
+      },
+      {
+        "q": "What is the UK business visa fee from India?",
+        "a": "A UK Standard Visitor visa, which is the visa for business trips, costs GBP 135 (about ₹17,000) for up to 6 months. Frequent travellers can choose a long-term visa instead: GBP 506 for 2 years, GBP 903 for 5 years or GBP 1,128 for 10 years, with each visit still limited to 6 months. GOV.UK says you usually get a decision within 3 weeks, and you can apply up to 3 months before you travel."
+      },
+      {
+        "q": "How many days for Schengen business visa from India?",
+        "a": "The standard decision time is 15 days, and it can be extended to 45 days if the consulate needs more checks or documents. The German Missions in India say they process business applications within 15 working days from the day the file reaches the visa section. Apply at least 15 days before travel and no earlier than 6 months before. For a trade fair, apply as soon as you have the invitation and the stall or visitor registration."
+      },
+      {
+        "q": "Can I work in USA on B1 visa?",
+        "a": "No. A B1 visa covers business activity such as meetings, negotiating contracts, attending conferences and taking orders for goods made outside the US. It does not allow employment or a salary from a US source, though a US company may reimburse reasonable travel and living costs. Installing or repairing equipment is allowed only when the sale contract requires it and you are not paid from the US. For actual work you need a petition-based work visa."
+      },
+      {
+        "q": "Do Indians need visa for Dubai business trip?",
+        "a": "Yes, but there are quick routes. If you hold a valid US, UK or EU visa or residence permit, ICP lists a 14-day visa for Indian ordinary passport holders at AED 200 (about ₹4,800), extendable once. Otherwise GDRFA Dubai offers a visit visa for exploring business opportunities with no UAE sponsor, from AED 200 plus 5% VAT for 60 days, plus a refundable AED 1,000 deposit. GDRFA says it is processed in 48 hours."
+      },
+      {
+        "q": "What is China business visa fee in India?",
+        "a": "For Indian passport holders, the Chinese missions in India list ₹2,900 for a single-entry visa, ₹4,400 for double entry, ₹5,900 for six-month multiple entry and ₹8,800 for 12 months or more. Regular processing takes 7 working days, and express processing in 4 working days costs ₹1,800 extra. You fill in the form online first and pay by a bank-printed demand draft when you collect the visa. Gujarat residents apply at the Embassy in New Delhi."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Your client meeting or trade fair is booked, and the worry is a refusal that costs you the trip. The short answer: a US B1 costs **USD 185**, a UK Standard Visitor visa **GBP 135**, a Schengen visa **EUR 90** and a China M visa from **₹2,900**. None of them allows paid work. Approval comes from a specific purpose, a strong company covering letter and clear proof you will return."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**US B1:** USD 185 (about ₹18,000), invitation letter optional. **UK Standard Visitor:** GBP 135 (about ₹17,000), decision usually within 3 weeks. **Schengen:** EUR 90 (₹9,500 at the German Missions), decision in 15 days, insurance of at least EUR 30,000. **UAE:** 14-day visa for AED 200 if you hold a valid US, UK or EU visa. **China M visa:** ₹2,900 single entry, 7 working days, online form first. **Paid work:** not allowed on any of these."
+      },
+      {
+        "type": "h2",
+        "text": "Business visa for USA from India: what the B1 allows"
+      },
+      {
+        "type": "p",
+        "text": "The B1 is for business activity, not for employment. The State Department's B-1 fact sheet lists what qualifies:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Consulting with business associates and negotiating contracts.",
+          "Attending business, professional or scientific conventions, conferences or seminars.",
+          "Commercial transactions with no US employment, such as taking orders for goods made abroad.",
+          "Installing or repairing equipment bought from a company outside the US, only when the sale contract requires it and you are not paid from a US source. Construction work is excluded."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You cannot take up employment or receive a salary from a US source, though a US company may reimburse reasonable travel and living costs. For anything beyond this, the fact sheet points you to a petition-based work visa."
+      },
+      {
+        "type": "h3",
+        "text": "US B1 fee, validity and waiting time"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application fee:** USD 185 (about ₹18,000), non-refundable.",
+          "**Validity:** the reciprocity schedule for India allows B-1 visas of up to 120 months, multiple entry, with no issuance fee. The officer decides the actual validity.",
+          "**Processing:** the real wait is for the interview appointment, which varies by city. Check the State Department's wait-time tool before you promise a client a date.",
+          "**Visa integrity fee:** a separate fee under a 2025 US law has been reported, but the fee page we could access did not list it. Check the live fee page before paying."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Do you need an invitation letter for a US business visa?"
+      },
+      {
+        "type": "p",
+        "text": "No. The State Department says a letter of invitation is not needed and is not one of the factors used to decide the visa. Officers judge the purpose, your intent to leave and your ability to pay on your ties to India. Carry the US company's letter if you have one, as it helps you answer 'who are you meeting and why'. Your covering letter, GST certificate, ITRs and bank statements matter more."
+      },
+      {
+        "type": "h2",
+        "text": "Business visa for UK from India: what a Standard Visitor can do"
+      },
+      {
+        "type": "p",
+        "text": "Short business trips to the UK go on the Standard Visitor visa. GOV.UK lets you, as long as you are not paid by a UK organisation or client:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Attend interviews, meetings, conferences and seminars.",
+          "Negotiate and sign deals and contracts.",
+          "Attend trade fairs to promote your business, but not sell.",
+          "Carry out site visits and inspections.",
+          "Get work-related training if you are employed overseas.",
+          "Oversee delivery of goods or services from a UK company to your Indian company.",
+          "Deliver training or share knowledge on internal projects with UK employees of the company you work for."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You cannot do paid or unpaid work for a UK company or as a self-employed person. At a fair stand, promote and collect leads; do not sell."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fee:** GBP 135 (about ₹17,000) for up to 6 months.",
+          "**Long-term visas:** GBP 506 for 2 years, GBP 903 for 5 years, GBP 1,128 for 10 years. Each visit is still limited to 6 months.",
+          "**Decision:** usually within 3 weeks after you give biometrics at the visa centre.",
+          "**When to apply:** no earlier than 3 months before travel.",
+          "**Faster decision:** GOV.UK lists priority (GBP 500, usually 5 working days) and super priority (GBP 1,000, usually next working day). Check availability when you book."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "GOV.UK's documents guide suggests an employer letter on headed paper with your role, salary and length of service, bank statements showing where funds come from, and business registration or recent invoices if self-employed. Add the organiser's invitation for a conference. It says not to rely on hotel or flight bookings, insurance, business cards or statements older than a year."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen business visa from India: invitation, insurance and the cascade"
+      },
+      {
+        "type": "p",
+        "text": "Apply to the country where you will spend the most time, or the first country if stays are equal. The fee is **EUR 90**, which the German Missions in India list as ₹9,500 (subject to change). The normal decision time is **15 days**, extendable to 45. Apply no earlier than 6 months and at least 15 days before travel."
+      },
+      {
+        "type": "h3",
+        "text": "What the German Missions ask business applicants for"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A signed covering letter from your Indian company on letterhead: your name, passport number, purpose, duration and brief itinerary.",
+          "Certificate of Incorporation, GST registration and proof of company registration.",
+          "An invitation from the German partner, in German or English, setting out the planned activities and the business relationship.",
+          "Owners: ITR acknowledgements for 2 years or Form 16, and 3 months of bank statements.",
+          "Employees: 3 months of payslips, employment contract, leave sanction letter, 3 months of bank statements, and 2 years of ITRs or Form 16.",
+          "Travel medical insurance valid in all Schengen countries, with medical cover of at least EUR 30,000.",
+          "A meeting schedule only for stays over 30 days, and an invitation for each meeting in another Schengen country."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The German Missions process applications within 15 working days from arrival at the visa section."
+      },
+      {
+        "type": "h3",
+        "text": "The multiple-entry cascade for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Since April 2024, Indians living in India can get a **two-year multiple-entry** Schengen visa after obtaining and lawfully using two visas in the previous three years. The two-year visa is normally followed by a **five-year** visa if the passport has enough validity left. If you visit fairs every year, using each visa exactly as declared earns the next, longer one."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Exporters who attach last year's fair badge and this year's stall booking alongside the new invitation answer the 'why this trip' question before it is asked. Keep the main destination on the form matching where you actually spend most nights."
+      },
+      {
+        "type": "h2",
+        "text": "Business visa for Dubai and the UAE"
+      },
+      {
+        "type": "p",
+        "text": "There are three common routes."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Hold a US, UK or EU visa or residence permit:** ICP lists a 14-day visa for Indian ordinary passport holders with a valid US, EU or UK visa, residence permit or green card, or residence in Japan, South Korea, Australia, Canada, Singapore or New Zealand. It costs AED 200 (about ₹4,800), extendable once.",
+          "**Exploring business in Dubai:** GDRFA's business-opportunities visit visa needs no UAE sponsor. It costs AED 200, 300 or 400 plus 5% VAT for 60, 90 or 120 days, plus a refundable AED 1,000 deposit. It needs a photo, a passport valid for 6 months and proof of investment, and takes 48 hours.",
+          "**Attending an event:** since September 2025 ICP offers an events visit visa, sponsored by a public or private entity with a letter naming the event and its duration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These are visit visas for meetings, fairs and market research, not for a paid job. ICP's page does not say whether the 14-day visa covers business, so confirm with ICP on 600522222 if your trip involves more than meetings."
+      },
+      {
+        "type": "h2",
+        "text": "Business visa for China from India: the new online process"
+      },
+      {
+        "type": "p",
+        "text": "From 22 October 2026, the Chinese Embassy and the Consulate General in Mumbai accept visa applications directly. **Gujarat residents apply to the Chinese Embassy in New Delhi**, because the Mumbai consulate covers only Maharashtra and Karnataka."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Fill in the form at consular.mfa.gov.cn/VISA and upload documents. No fee at this step.",
+          "After approval by email, submit your passport and documents at the embassy within 30 days.",
+          "Collect the visa and pay by a bank-printed demand draft. Cash is not accepted.",
+          "**Processing:** 7 working days regular, or 4 working days express for ₹1,800 extra.",
+          "**Fees for Indian passports:** ₹2,900 single entry, ₹4,400 double entry, ₹5,900 six-month multiple entry, ₹8,800 for 12 months or more multiple entry."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We found no official statement calling these a time-limited reduced fee, so treat them as the current schedule."
+      },
+      {
+        "type": "h3",
+        "text": "What the M visa file needs from the Chinese company"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Copies of the inviting company's business licence (showing business scope) and its legal representative's or inviter's ID, each endorsed by hand in Chinese as only for your visa application, signed and dated.",
+          "An invitation stating the purpose, with a handwritten Chinese signature and the official company seal. Contract or personnel seals are not accepted.",
+          "Your cover letter with the company profile, the specific purpose and exact duration. General wording such as 'business meetings' might not be accepted."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Your passport must have more than 6 months' validity and 2 blank pages. Fingerprints are waived until 31 December 2026 for short-term visas of up to 180 days, but multiple-entry applicants should, in principle, expect to give them."
+      },
+      {
+        "type": "h3",
+        "text": "What about a Japan business visa?"
+      },
+      {
+        "type": "p",
+        "text": "Japan also needs documents from the Japanese host, but the Embassy of Japan pages returned errors each time we tried, so we have not listed a fee or checklist. Get the current list from the Japan visa centre first."
+      },
+      {
+        "type": "h2",
+        "text": "Documents every business visa file needs from India"
+      },
+      {
+        "type": "p",
+        "text": "The core file is the same for every country. Officers want to see a real business, a real reason for this trip and a reason to come back."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Company covering letter** on letterhead, signed by a director or HR: your role, purpose, dates and who pays.",
+          "**Invitation** from the host: required for Schengen and China, useful for the UK, optional for the US.",
+          "**Business proof:** GST certificate, incorporation certificate or partnership deed, and IEC if you import or export.",
+          "**Income proof:** ITRs, recent bank statements (company statements too for owners) and payslips for employees.",
+          "**Trade proof:** invoices, purchase orders or emails with the overseas buyer or supplier.",
+          "**Trip proof:** fair registration, meeting schedule and accommodation where asked."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Covering letter for business visa: sample wording"
+      },
+      {
+        "type": "p",
+        "text": "Use company letterhead, keep it to one page, replace the brackets and make the purpose specific."
+      },
+      {
+        "type": "callout",
+        "label": "Sample covering letter",
+        "text": "To, The Visa Officer, [Embassy or Consulate of country], [city]. Subject: Business visit of [full name], passport number [number]. We confirm that [full name] has worked with [Company Pvt Ltd], [city], as [designation] since [year] (or: is a director of the company). [Company] was established in [year], is registered under GSTIN [number] and IEC [number], and [manufactures or exports] [products]. [Name] will travel to [city, country] from [date] to [date] to [specific purpose, for example: meet [host company] to finalise our 2027 supply contract and visit [fair name], stall [number]]. The company will bear all costs of travel, accommodation and insurance. [Name] will return to resume duties on [date]. We request you to grant a [single or multiple]-entry business visa. [Signature, name, designation, company seal, phone, email]."
+      },
+      {
+        "type": "h2",
+        "text": "Invitation letter for business visa: what the host company should write"
+      },
+      {
+        "type": "p",
+        "text": "The overseas company writes it on letterhead, signed by an authorised person, with:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your full name, passport number, designation and company.",
+          "The specific purpose and the business relationship between the companies.",
+          "Exact dates, places, and who pays for travel and accommodation.",
+          "The host's address, registration details and a contact person."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Germany wants it in German or English. China wants a handwritten Chinese signature and the official company seal. The US does not require one."
+      },
+      {
+        "type": "h2",
+        "text": "Business visa refusal reasons we see most"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A vague purpose: 'business meetings' with no company names, dates or agenda.",
+          "A covering letter and invitation that disagree on dates, purpose or who pays.",
+          "A new company with no ITR, GST returns or trade history.",
+          "A large unexplained deposit just before applying.",
+          "Activities that sound like work, such as installing a machine without a contract that requires it, or selling at a UK fair stand.",
+          "For the US, weak ties to India. A US invitation does not replace them.",
+          "For Schengen, applying to a country other than the one where you spend most nights."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "When the owner can name the overseas buyer, describe last year's orders and say what this trip will close, the interview tends to stay short. Practise saying that in one sentence before the appointment."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with business visas"
+      },
+      {
+        "type": "p",
+        "text": "Our team drafts your covering letter, tells your overseas host what the invitation must say for each country, checks GST, IEC, ITR and bank documents for gaps, and prepares the DS-160 and interview practice for US trips. If you were refused before, we review that refusal first. Overseas hosts or family abroad can brief us on WhatsApp at +91 82009 18967. Our office is in Vastrapur, Ahmedabad, and we file for business travellers across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked GOV.UK, the European Commission, the EU Delegation to India, the German Missions in India, ICP, GDRFA Dubai and the Chinese Consulate General in Mumbai. The State Department site blocked us, so we read archived July 2026 copies of its visitor visa, B-1, fee and India reciprocity pages. Before paying, re-check the US fee page (including any visa integrity fee), GOV.UK, your Schengen country's mission, icp.gov.ae and the Chinese Embassy's notices."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Department of State: Visitor Visa",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html"
+      },
+      {
+        "label": "U.S. Department of State: FACT SHEET: U.S. Business Visas (B-1) and Allowable Uses",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/business/b-1-fact-sheet.html"
+      },
+      {
+        "label": "GOV.UK: Visit the UK as a Standard Visitor",
+        "url": "https://www.gov.uk/standard-visitor"
+      },
+      {
+        "label": "GOV.UK: Standard Visitor, visit on business",
+        "url": "https://www.gov.uk/standard-visitor/visit-on-business"
+      },
+      {
+        "label": "European Commission: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "EU Delegation to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "German Missions in India: Business visa checklist",
+        "url": "https://india.diplo.de/in-en/2674024-2674024"
+      },
+      {
+        "label": "ICP: Issuance of a 14-day visa for nationals of certain countries residing abroad",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68e3532c5ae59b0011738404"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a visit visa for the purpose of exploring business opportunities",
+        "url": "https://gdrfad.gov.ae/en/node/13888"
+      },
+      {
+        "label": "Consulate General of China in Mumbai: Notice on Chinese Visa Application (2026.10.22)",
+        "url": "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/"
+      }
+    ]
+  },
+  {
+    "slug": "urgent-visa-from-india-fastest-options-2026",
+    "title": "Urgent Visa from India in 2026: The Fastest Official Route for Each Country",
+    "metaTitle": "Urgent Visa from India: Fastest Options 2026 | Travlys",
+    "metaDescription": "Need to fly in days? Thailand, Nepal and the Maldives need no visa ahead, Dubai takes 48 hours, UK Super Priority decides next working day for £1,000.",
+    "excerpt": "Travelling in a few days? Here is the fastest official route for Dubai, the UK, Schengen, the US, Canada, Vietnam and Southeast Asia, plus how a Tatkaal passport works.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "readMinutes": 9,
+    "category": "Travel planning",
+    "tags": [
+      "Urgent visa",
+      "UK Super Priority",
+      "Dubai visa",
+      "Schengen",
+      "Tatkaal passport",
+      "Visa-free"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-expedited-emergency-appointment-india-2026",
+      "uk-visa-for-indians-2026-fees-processing-time",
+      "visa-free-countries-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Need it urgently? Message us now"
+    },
+    "faqs": [
+      {
+        "q": "Which country gives visa fastest for Indians?",
+        "a": "Countries that need no visa in advance are the fastest: Nepal, Bhutan, the Maldives, Mauritius, Thailand (30 days for tourism) and Malaysia (until 31 December 2026). Sri Lanka gives a free 30-day ETA online. Among visas you apply for, Dubai's tourist visa is expected in 48 hours through an accredited agency, and the UK's Super Priority service usually gives a decision by the end of the next working day after biometrics."
+      },
+      {
+        "q": "Can I get a UK visa in 24 hours from India?",
+        "a": "Usually yes, with Super Priority. It costs £1,000 (about ₹1,26,000) on top of the £135 visa fee and gives a decision usually by the end of the next working day after your biometrics appointment, or 2 working days after a weekend appointment. Check your visa centre offers it. Priority costs £500 for about 5 working days. Paying more does not change the decision, only the speed."
+      },
+      {
+        "q": "How can I get an urgent US visa appointment in India?",
+        "a": "You request an expedited appointment through the online appointment system, but only after you already hold a confirmed interview date. Attach proof of a real emergency, such as a hospital letter or a death certificate. The US Mission says expedited slots are very limited. Keep your existing appointment until you receive an approval email, and do not cancel it while the request is pending."
+      },
+      {
+        "q": "Is there express processing for a Schengen visa?",
+        "a": "No. No Schengen country sells a paid express visa in India. Under the EU Visa Code, in justified cases of urgency the consulate may accept your application without an appointment or give you one immediately, and must decide urgent cases without delay. Write to the consulate of your main destination with proof of the emergency. A holiday booked late does not count as urgency."
+      },
+      {
+        "q": "How many days does a Vietnam e-visa take for Indians?",
+        "a": "The official portal does not publish a fixed time for individual applications, and there is no official express service. Vietnam's Ministry of Public Security sets the e-visa procedure at 3 working days after a complete application and payment. The fee is USD 25 for single entry or USD 50 for multiple entry. Apply only on evisa.gov.vn or thithucdientu.gov.vn, because the portal warns that other sites may charge unauthorised fees."
+      },
+      {
+        "q": "How many days does a tatkal passport take?",
+        "a": "Passport Seva says a Tatkaal passport is dispatched on the third working day after the application is granted, excluding the day you submitted it, without waiting for the police report. Police verification happens afterwards. The fee is ₹5,000 for 36 pages and ₹6,000 for 60 pages from 1 July 2026. Carry all required documents in original, or the file goes on hold."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A parent is in hospital abroad, or a meeting moved up. Here is the honest answer. With a passport in hand, **Nepal, Bhutan, the Maldives, Mauritius, Thailand (30 days) and Malaysia (until 31 December 2026)** need no visa in advance. **Dubai** issues a tourist visa in about **48 hours**. The **UK** offers a decision by the **next working day** for **£1,000**. Schengen, the US and Canada have no paid express."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**No visa needed in advance:** Nepal, Bhutan (entry permit at the border or Paro), Mauritius, Maldives (visa on arrival), Thailand (30 days, tourism), Malaysia (until 31 December 2026). **Sri Lanka:** free 30-day ETA online at eta.gov.lk. **Dubai:** single-entry tourist visa, AED 200 for 30 days plus 5% VAT (about ₹4,800), expected in 48 hours. **UK:** Priority £500 (about ₹63,000), usually 5 working days; Super Priority £1,000 (about ₹1,26,000), usually next working day. **Schengen:** no paid express; urgent cases can ask for an early appointment and a decision \"without delay\". **USA:** free expedite request, only after you hold a confirmed appointment. **Canada:** no paid express; compassionate route for funerals and critical illness. **Tatkaal passport:** ₹5,000 (36 pages), dispatched on the third working day after the grant."
+      },
+      {
+        "type": "h2",
+        "text": "Fastest visa for Indians: visa in 2 days or less"
+      },
+      {
+        "type": "p",
+        "text": "If you must fly within 48 hours, pick a country where you need nothing before you land, or a free online permit. These are the options we checked on official pages:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Nepal:** no passport or visa needed for an Indian citizen by land or air. If you fly, carry a valid passport or your Election Commission voter ID (other accepted IDs are listed by the Bureau of Immigration).",
+          "**Bhutan:** no visa. Carry a passport valid for 6 months or your original voter ID, and get an entry permit at Phuentsholing, Gelephu, Samdrup Jongkhar, Samtse or Paro airport. Indians pay a Sustainable Development Fee of **₹1,200 per day**.",
+          "**Maldives:** tourist visa on arrival, no pre-approval. You need a passport valid for at least 1 month, a confirmed return ticket, a prepaid confirmed booking at a registered property and enough funds. Submit the free IMUGA Traveller Declaration within **96 hours** before arrival.",
+          "**Mauritius:** the Passport and Immigration Office lists India as \"No visa required\". The officer at the airport decides how long you can stay.",
+          "**Thailand:** **30-day visa exemption** for tourism since 15 September 2026.",
+          "**Malaysia:** Indians are visa-exempt for social visits until **31 December 2026**.",
+          "**Sri Lanka:** a free 30-day tourist ETA since 25 May 2026. Apply only on eta.gov.lk, the official site."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The visa-free list solves most \"I need to travel this weekend\" calls for holidays. Where people get stuck is the paperwork at the airport: no return ticket for the Maldives, or a passport with too little validity. Check those two things before you book."
+      },
+      {
+        "type": "h2",
+        "text": "Urgent visa for Dubai: how fast can you get it?"
+      },
+      {
+        "type": "p",
+        "text": "For Dubai, the official single-entry tourist visa is expected in **48 hours**. Dubai's GDRFA lists it at **AED 200 for 30 days** (about ₹4,800) or **AED 300 for 60 days** (about ₹7,200), plus 5% VAT. Only accredited tourism offices in Dubai can issue it, so in practice you apply through a licensed travel agency or your hotel's partner. You need:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "a passport valid for at least 6 months, a copy of it and a photo;",
+          "a return or onward ticket;",
+          "UAE-valid medical insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Indians holding a US green card or a UK or EU residence visa, valid for 6 months, can instead apply on the GDRFA website for a pre-approved **14-day visa on arrival**, also expected in 48 hours and extendable once. The GDRFA page shows the fee as 253 without naming the currency, so confirm the total when you pay. Some UAE pages also mention a US visit visa as qualifying; GDRFA does not, so check before relying on it."
+      },
+      {
+        "type": "p",
+        "text": "GDRFA lists no separate paid \"express\" fee. The \"visa in 4 hours\" offers you see are agency products. They may work, but no official page promises that speed."
+      },
+      {
+        "type": "h2",
+        "text": "Urgent visa for UK from India: Priority and Super Priority"
+      },
+      {
+        "type": "p",
+        "text": "Yes, the UK sells speed. On top of the £135 Standard Visitor fee (about ₹17,100), you can pay:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Priority: £500** (about ₹63,000). Decision usually within **5 working days**.",
+          "**Super Priority: £1,000** (about ₹1,26,000). Decision usually by the **end of the next working day**, or 2 working days if your appointment is on a weekend or bank holiday."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The clock starts on the day of your biometrics appointment at the visa application centre, not the day you pay. GOV.UK says to check that your centre offers the service for your visa, and you usually do not get the fee back if the decision takes longer. Without either service, visitor visas take about **3 weeks**. Super Priority buys a faster decision, not a softer one: a weak file is refused just as quickly."
+      },
+      {
+        "type": "h2",
+        "text": "Urgent visa for USA: the emergency appointment request"
+      },
+      {
+        "type": "p",
+        "text": "There is no paid express for a US visa in India. The only official route is a free expedited appointment request, and you can make it only after you hold a confirmed interview date. The US Mission says expedited slots are \"very limited\" and that it cannot accommodate every traveller before their planned date, even when the purpose is time sensitive."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Fill the DS-160 correctly and book the earliest regular appointment.",
+          "Submit the expedite request through the online appointment system, with proof of the emergency.",
+          "Do not cancel your existing appointment unless you get an approval email."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Requests that succeed are real, unforeseen emergencies, such as urgent medical treatment or a death in the family, backed by letters. A wedding you knew about months ago is not an emergency. Our separate guide lists the categories, documents and sample request wording."
+      },
+      {
+        "type": "h2",
+        "text": "Is there an urgent Schengen visa?"
+      },
+      {
+        "type": "p",
+        "text": "No. No Schengen country sells a paid express visa in India. The bottleneck is the appointment, not the decision. The EU Visa Code still gives you three tools for a genuine emergency:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Late filing:** you should normally apply at least 15 calendar days before travel, but in justified individual cases of urgency the consulate may accept a later application.",
+          "**Appointment:** an appointment should, as a rule, come within two weeks of your request. In justified urgency, the consulate may accept you without an appointment or give one immediately.",
+          "**Decision:** the normal limit is 15 calendar days, extendable to 45. In justified urgent cases, applications \"shall be decided on without delay\"."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So write to the embassy or consulate of your main destination, with proof, and ask for an urgent appointment. Keep it short and factual:"
+      },
+      {
+        "type": "callout",
+        "label": "Sample urgency request",
+        "text": "Subject: Request for urgent short-stay visa appointment, [your name], passport [number]. My father, [name], was admitted to [hospital], [city], on [date] and doctors advise family presence. I need to travel by [date]. The earliest VFS slot in Ahmedabad is [date]. I request an urgent appointment under Article 9(3) of the Visa Code. Attached: hospital letter, proof of relationship, passport copy, flight reservation. Phone: [number]."
+      },
+      {
+        "type": "p",
+        "text": "A holiday booked late does not count as urgency. The fee stays EUR 90 for adults (about ₹9,900), with no extra charge for an urgent request."
+      },
+      {
+        "type": "h2",
+        "text": "Canada urgent visa: can IRCC process it faster?"
+      },
+      {
+        "type": "p",
+        "text": "Canada has no paid express for visitor visas. The IRCC Portal has a separate purpose, \"visit for compassionate reasons\", for people attending a funeral or supporting a critically ill person. Choose it when you apply, and attach the death certificate or a doctor's letter, proof of relationship and your travel dates."
+      },
+      {
+        "type": "p",
+        "text": "Be realistic. IRCC's web form page says it cannot speed up an application unless you are \"already eligible for urgent processing\". The IRCC pages we checked do not publish a full list of who qualifies for visitor visas from India, so the decision rests with the visa office. Give biometrics the moment you get the instruction letter, because nothing moves without them."
+      },
+      {
+        "type": "h2",
+        "text": "Urgent visa Vietnam: is there an express e-visa?"
+      },
+      {
+        "type": "p",
+        "text": "No official express exists. Vietnam's e-visa costs **USD 25 single entry or USD 50 multiple entry** (about ₹2,450 or ₹4,900), is valid for up to 90 days, and is applied for only on **evisa.gov.vn** or **thithucdientu.gov.vn**. The official portal warns that unofficial sites \"may result in unauthorized fees\"."
+      },
+      {
+        "type": "p",
+        "text": "Vietnam's Ministry of Public Security sets the e-visa procedure at 3 working days after a complete application and payment, but busy periods can take longer, so apply at least a week ahead. Any agent promising a Vietnam visa \"in 2 hours\" is selling something the government does not advertise. Also, your e-visa validity must end at least 30 days before your passport expires."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "When a client must leave in a few days, we look at the map before the visa. A Vietnam trip that cannot wait for the e-visa can often become a Thailand or Malaysia trip at the same budget, with no visa at all."
+      },
+      {
+        "type": "h2",
+        "text": "Singapore, Thailand and Malaysia: how fast is the visa?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Singapore:** apply through an authorised visa agent appointed by the High Commission. Processing generally takes **3 to 5 working days**, excluding the submission day, weekends and public holidays, and some applications take longer. Fee: **₹2,100**, plus an agent service fee of up to **₹1,300**.",
+          "**Thailand:** no visa needed for tourist stays up to 30 days. For longer stays, the e-visa is applied for only at thaievisa.go.th, and the Thai Consulate-General in Mumbai (which covers Gujarat) says processing takes up to **14 working days** after the fee is paid.",
+          "**Malaysia:** visa-free until 31 December 2026. After that, plan for the eVISA on malaysiavisa.imi.gov.my, which takes **2 to 7 working days** after payment; the portal tells applicants to apply 14 days before travel."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Tatkal passport: when your passport is the problem"
+      },
+      {
+        "type": "p",
+        "text": "If your passport has expired or is full, no visa can be urgent until that is fixed. Under the Tatkaal scheme, once the application status is \"Granted\", Passport Seva says the passport is dispatched on the **third working day**, excluding the day you submitted, without waiting for the police report. Police verification is done afterwards."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**36 pages:** ₹5,000 (adults, and minors aged 15 to 18).",
+          "**60 pages:** ₹6,000.",
+          "**Minors under 15, 36 pages:** ₹4,250.",
+          "**Lost or damaged, 36 pages:** ₹7,500."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These fees apply from **1 July 2026**. Adults show any three documents from the Tatkaal list, minors any two, all in original. Missing papers put the file on hold and it loses pre-verification treatment. You cannot use Tatkaal if your passport is damaged beyond recognition. If you book a Normal-quota slot because Tatkaal slots are full, you still pay the Tatkaal fee and keep the faster processing."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps when time is short"
+      },
+      {
+        "type": "p",
+        "text": "We tell you on day one which route is realistic for your date, and which is not. Then we prepare the file: a Super Priority UK file ready for the biometrics slot, a Schengen urgency request with the right proof, a US expedite request worded to match your documents, or a Dubai visa through accredited channels. NRI children abroad can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 20 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 20 November 2026. Fees and timelines change without notice. Before you pay, re-check GOV.UK's faster decision page, the GDRFA Dubai service pages, the US Mission India visa page, the embassy of your Schengen destination, the evisa.gov.vn portal, the Singapore High Commission's visa page, the MyVISA portal for Malaysia's 2027 rules, and Passport Seva for Tatkaal fees."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GOV.UK: Get a faster decision on your visa or settlement application",
+        "url": "https://www.gov.uk/faster-decision-visa-settlement"
+      },
+      {
+        "label": "GDRFA Dubai: Issuance of a single-entry tourist visa",
+        "url": "https://gdrfad.gov.ae/en/node/13896"
+      },
+      {
+        "label": "GDRFA Dubai: Visa on arrival for citizens of the Republic of India residing in America, Britain, European Union countries",
+        "url": "https://gdrfad.gov.ae/en/node/13973"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Visas (Expedited Appointment Requests)",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009 establishing a Community Code on Visas (consolidated text)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20200202"
+      },
+      {
+        "label": "Vietnam Immigration Department: E-visa portal FAQs",
+        "url": "https://evisa.gov.vn/faq"
+      },
+      {
+        "label": "High Commission of Singapore in New Delhi: Visa information",
+        "url": "https://new-delhi.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "Immigration Department of Malaysia (MyVISA): Official Malaysia visa portal",
+        "url": "https://malaysiavisa.imi.gov.my/"
+      },
+      {
+        "label": "Passport Seva, Ministry of External Affairs: FAQs on Tatkaal Passports",
+        "url": "https://www.passportindia.gov.in/psp/FaqTatkaalPassports"
+      },
+      {
+        "label": "Ministry of External Affairs: Annexure-II, category-wise increase over the earlier passport fees",
+        "url": "https://www.mea.gov.in/doc/da305868-a38f-4afd-8c1e-4ab3ff5f13ed"
+      },
+      {
+        "label": "Ministry of Public Security of Vietnam: E-visa issuance procedure",
+        "url": "https://e-services.mps.gov.vn/bocongan/bothutuc/tthc?matt=26277"
+      }
+    ]
+  },
+  {
     "slug": "malaysia-visa-for-indians-2027-evisa",
     "title": "Malaysia Visa for Indians 2027: Visa-Free Ends 31 December, How to Get the eVISA",
     "metaTitle": "Malaysia Visa for Indians 2027: eVISA Fees, Dates | Travlys",
@@ -3137,9 +4529,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1600&h=900&fit=crop",
     "related": [
+      "urgent-visa-from-india-fastest-options-2026",
       "us-visa-appointment-wait-time-india-2026",
-      "us-visa-from-india-2026-complete-guide",
-      "us-visa-interview-questions-answers-b1-b2-india-2026"
+      "us-visa-from-india-2026-complete-guide"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -3728,9 +5120,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-visa-appointment-india-how-to-get-slot-2026",
       "visa-photo-size-by-country-for-indians-2026",
-      "schengen-visa-documents-checklist-2026",
-      "us-visa-renewal-dropbox-india-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -6252,9 +7644,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=1600&h=900&fit=crop",
     "related": [
+      "urgent-visa-from-india-fastest-options-2026",
       "visa-free-countries-for-indians-2026",
-      "schengen-visa-documents-checklist-2026",
-      "sri-lanka-eta-for-indians-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -7344,9 +8736,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-visa-appointment-india-how-to-get-slot-2026",
       "schengen-visa-for-parents-from-india-2026",
-      "schengen-visa-refused-appeal-reapply-2026",
-      "schengen-visa-documents-checklist-2026"
+      "schengen-visa-refused-appeal-reapply-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -13016,7 +14408,7 @@ export const BLOG_POSTS = [
   {
     "slug": "australia-visa-biometrics-india-2026",
     "title": "Australia Visa Biometrics in India from 26 October 2026",
-    "metaTitle": "Australia Visa Biometrics India 2026: Fees, Centres | Travlys",
+    "metaTitle": "Australia Visa Biometrics in India 2026: ₹1,425 Fee, 16 Centres | Travlys",
     "metaDescription": "Australian visa applications lodged in India from 26 Oct 2026 may need fingerprints and a photo. Who is asked, 16 VFS centres, ₹1,425 fee and Immi App option.",
     "excerpt": "Australia now collects fingerprints and a facial image from visa applicants in India. Here is who gets asked, where to go, what it costs and how it affects your timeline.",
     "date": "2026-10-27",
@@ -15892,9 +17284,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503221043305-f7498f8b7888?w=1600&h=900&fit=crop",
     "related": [
+      "canada-study-permit-for-indians-2027",
       "f1-visa-interview-questions-answers-india-2026",
-      "australia-student-visa-new-rules-2026-indian-students",
-      "us-visa-changes-2026-indian-applicants"
+      "australia-student-visa-new-rules-2026-indian-students"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -16575,9 +17967,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1600&h=900&fit=crop",
     "related": [
+      "canada-study-permit-for-indians-2027",
       "canada-visa-refused-what-to-do-2026",
-      "visa-application-centres-ahmedabad-addresses-2026",
-      "canada-visitor-visa-for-parents-from-india-2026"
+      "visa-application-centres-ahmedabad-addresses-2026"
     ],
     "cta": {
       "slug": "canada-visa",
@@ -20694,9 +22086,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1600&h=900&fit=crop",
     "related": [
+      "business-visa-from-india-2026-usa-uk-schengen-uae",
       "visa-free-countries-for-indians-2026",
-      "us-visa-changes-2026-indian-applicants",
-      "visa-consultant-vs-diy"
+      "us-visa-changes-2026-indian-applicants"
     ],
     "faqs": [
       {
@@ -20942,7 +22334,7 @@ export const BLOG_POSTS = [
     category: 'Country guides',
     tags: ['USA', 'Embassy visa', 'B1/B2', 'F-1', 'H-1B', 'DS-160'],
     heroImage: 'https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=1600&h=900&fit=crop',
-    related: ['us-visa-renewal-dropbox-india-2026', 'us-visa-for-parents-from-india-2026', 'us-visa-interview-questions-answers-b1-b2-india-2026'],
+    related: ['business-visa-from-india-2026-usa-uk-schengen-uae', 'us-visa-renewal-dropbox-india-2026', 'us-visa-for-parents-from-india-2026'],
     cta: { slug: 'usa-visa', label: 'See full US visa pricing' },
     faqs: [
       {
@@ -21112,7 +22504,7 @@ export const BLOG_POSTS = [
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['schengen-visa-for-parents-from-india-2026', 'schengen-visa-refused-appeal-reapply-2026', 'visa-application-centres-ahmedabad-addresses-2026'],
+    related: ['schengen-visa-appointment-india-how-to-get-slot-2026', 'business-visa-from-india-2026-usa-uk-schengen-uae', 'schengen-visa-for-parents-from-india-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
@@ -21246,7 +22638,7 @@ export const BLOG_POSTS = [
     category: 'Cost guides',
     tags: ['UAE', 'Dubai', 'e-Visa', 'Cost'],
     heroImage: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&h=900&fit=crop',
-    related: ['uae-visa-for-parents-from-india-2026', 'us-visa-from-india-2026-complete-guide', 'schengen-visa-documents-checklist-2026'],
+    related: ['urgent-visa-from-india-fastest-options-2026', 'uae-visa-for-parents-from-india-2026', 'us-visa-from-india-2026-complete-guide'],
     cta: { slug: 'uae-visa', label: 'See Dubai visa pricing' },
     faqs: [
       {
