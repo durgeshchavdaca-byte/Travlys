@@ -755,6 +755,11 @@ export default function VisaPage() {
                 </Link>
               ))}
             </div>
+            {dest.slug === 'netherlands-visa' && (
+              <Link to="/blog/category/schengen-visas/" className="text-sm font-semibold text-coral-500 mt-6 inline-flex items-center gap-1 no-underline">
+                All Schengen visa guides by country: Switzerland, France, Italy, Spain, Greece <ArrowUpRight className="w-4 h-4" />
+              </Link>
+            )}
           </div>
         </section>
       )}

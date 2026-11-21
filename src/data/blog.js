@@ -16,7 +16,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-21",
     "updated": "2026-11-21",
     "readMinutes": 11,
-    "category": "Country guides",
+    "category": "Schengen visas",
     "tags": [
       "Italy",
       "Schengen visa",
@@ -384,7 +384,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-21",
     "updated": "2026-11-21",
     "readMinutes": 13,
-    "category": "Country guides",
+    "category": "Schengen visas",
     "tags": [
       "Spain",
       "Schengen visa",
@@ -743,7 +743,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-21",
     "updated": "2026-11-21",
     "readMinutes": 14,
-    "category": "Country guides",
+    "category": "Schengen visas",
     "tags": [
       "Greece",
       "Schengen visa",
@@ -1109,7 +1109,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-21",
     "updated": "2026-11-21",
     "readMinutes": 12,
-    "category": "Country guides",
+    "category": "Schengen visas",
     "tags": [
       "Switzerland",
       "Schengen visa",
@@ -1453,7 +1453,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-21",
     "updated": "2026-11-21",
     "readMinutes": 12,
-    "category": "Country guides",
+    "category": "Schengen visas",
     "tags": [
       "France",
       "Schengen visa",
@@ -4121,7 +4121,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 9,
-    "category": "How-to",
+    "category": "Schengen visas",
     "tags": [
       "Schengen",
       "5-year visa",
@@ -6349,7 +6349,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-20",
     "updated": "2026-11-20",
     "readMinutes": 9,
-    "category": "How-to",
+    "category": "Schengen visas",
     "tags": [
       "Schengen visa",
       "Visa appointment",
@@ -15068,7 +15068,7 @@ export const BLOG_POSTS = [
     "date": "2026-11-04",
     "updated": "2026-11-14",
     "readMinutes": 6,
-    "category": "Country guides",
+    "category": "Schengen visas",
     "tags": [
       "Schengen",
       "Fees",
@@ -19345,7 +19345,7 @@ export const BLOG_POSTS = [
     "date": "2026-10-28",
     "updated": "2026-10-28",
     "readMinutes": 8,
-    "category": "Visa rule updates",
+    "category": "Schengen visas",
     "tags": [
       "Airport transit visa",
       "Schengen",
@@ -21302,7 +21302,7 @@ export const BLOG_POSTS = [
     "date": "2026-10-27",
     "updated": "2026-11-21",
     "readMinutes": 8,
-    "category": "Visa rule updates",
+    "category": "Schengen visas",
     "tags": [
       "Schengen visa",
       "Christmas holidays",
@@ -26997,7 +26997,7 @@ export const BLOG_POSTS = [
     "date": "2026-10-24",
     "updated": "2026-10-24",
     "readMinutes": 8,
-    "category": "Visa rule updates",
+    "category": "Schengen visas",
     "tags": [
       "Schengen",
       "EES",
@@ -28862,7 +28862,7 @@ export const BLOG_POSTS = [
     date: '2026-06-19',
     updated: '2026-10-25',
     readMinutes: 6,
-    category: 'Checklists',
+    category: 'Schengen visas',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
     related: ['italy-visa-for-indians-2026', 'switzerland-visa-for-indians-2026', 'schengen-5-year-multiple-entry-visa-for-indians-2026'],

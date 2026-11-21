@@ -999,6 +999,7 @@ function buildLlmsTxt() {
     `- [Visa for parents from India](${pageUrl('/blog/category/visas-for-parents')}): every guide to visit visas for Indian parents going to see children in the US, UK, Canada, Australia, New Zealand, the UAE and Schengen countries.`,
     `- [Student visas for Indian students](${pageUrl('/blog/category/study-abroad')}): US F-1 interview questions, Canada study permits, Germany student visas and APS, UK and Australia rule changes.`,
     `- [Work visas for Indians](${pageUrl('/blog/category/work-visas')}): Germany Opportunity Card, UAE job seeker visa and Japan Specified Skilled Worker, with official eligibility rules and recruiter-fraud warnings.`,
+    `- [Schengen visa guides by country](${pageUrl('/blog/category/schengen-visas')}): Switzerland, France, Italy, Spain and Greece visas for Indians, with fees in rupees, which consulate decides for Gujarat, document checklists, appointments and refusal routes.`,
     `- [Visa refused? What to do next](${pageUrl('/blog/category/refusals-and-reapplying')}): US 214(b), UK, Canada, Schengen and China refusals, appeal options and how to reapply.`,
     '',
     '## Data you can cite',
