@@ -64,7 +64,7 @@ export const HOME_FAQS = [
   },
   {
     q: 'How much does Travlys charge for visa assistance?',
-    a: 'Service fees start at ₹999 for Malaysia eNTRI and ₹1,950 for Thailand, going up to ₹19,940 for the US embassy visa. Government / embassy fees are paid separately. Full pricing is on the homepage.',
+    a: 'Service fees start at ₹999 for a Malaysia visa and ₹1,950 for Thailand, going up to ₹19,940 for the US embassy visa. Government / embassy fees are paid separately. Full pricing is on the homepage.',
   },
   {
     q: 'Do you guarantee visa approval?',
@@ -597,7 +597,7 @@ function missionFaq(dest, city) {
   const kinds = m.posts.length > 1 ? PLURAL[m.kind] : m.kind
   const list = `${m.head}${m.posts.length ? `, with ${kinds} in ${m.posts.join(', ').replace(/, ([^,]*)$/, ' and $1')}` : ''}`
   let where
-  if (dest.slug === 'malaysia-visa') where = 'Indians do not need a Malaysia visa for trips of up to 30 days until 31 December 2026; only the free MDAC arrival card.'
+  if (dest.slug === 'malaysia-visa') where = 'Indians arriving in Malaysia up to 31 December 2026 need no visa for up to 30 days, only the free MDAC arrival card. Malaysia has confirmed that visa-free entry ends then, so arrivals from 1 January 2027 need a Malaysia eVISA, filed online.'
   else if (route.inPerson) where = `Visa applications are not taken at the embassy counter: ${city.name} applicants apply online, and the only in-person step is ${route.inPerson}.`
   else where = `${city.name} applicants do not need to visit any mission: the visa is filed online.`
   if (city.name === 'Delhi' || city.name === 'New Delhi') {
@@ -816,7 +816,7 @@ export function getCityHubFaqs(city) {
     },
     {
       q: `How much do visa agents in ${city.name} charge?`,
-      a: `Travlys charges the same flat service fee in ${city.name} as everywhere in India: from ₹999 for a Malaysia eNTRI to ₹19,940 for a US embassy visa. Embassy and VFS fees are paid separately at actuals, and every fee is listed on the Travlys pricing page before you start.`,
+      a: `Travlys charges the same flat service fee in ${city.name} as everywhere in India: from ₹999 for a Malaysia visa to ₹19,940 for a US embassy visa. Embassy and VFS fees are paid separately at actuals, and every fee is listed on the Travlys pricing page before you start.`,
     },
     {
       q: `Where is the VFS centre for ${city.name} applicants?`,

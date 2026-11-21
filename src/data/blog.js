@@ -4630,7 +4630,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Need to fly in days? Thailand, Nepal and the Maldives need no visa ahead, Dubai takes 48 hours, UK Super Priority decides next working day for £1,000.",
     "excerpt": "Travelling in a few days? Here is the fastest official route for Dubai, the UK, Schengen, the US, Canada, Vietnam and Southeast Asia, plus how a Tatkaal passport works.",
     "date": "2026-11-20",
-    "updated": "2026-11-20",
+    "updated": "2026-11-21",
     "readMinutes": 9,
     "category": "Travel planning",
     "tags": [
@@ -4643,9 +4643,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "us-visa-expedited-emergency-appointment-india-2026",
-      "uk-visa-for-indians-2026-fees-processing-time",
-      "visa-free-countries-for-indians-2026"
+      "uk-visa-for-indians-2026-fees-processing-time"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -4654,7 +4654,7 @@ export const BLOG_POSTS = [
     "faqs": [
       {
         "q": "Which country gives visa fastest for Indians?",
-        "a": "Countries that need no visa in advance are the fastest: Nepal, Bhutan, the Maldives, Mauritius, Thailand (30 days for tourism) and Malaysia (until 31 December 2026). Sri Lanka gives a free 30-day ETA online. Among visas you apply for, Dubai's tourist visa is expected in 48 hours through an accredited agency, and the UK's Super Priority service usually gives a decision by the end of the next working day after biometrics."
+        "a": "Countries that need no visa in advance are the fastest: Nepal, Bhutan, the Maldives, Mauritius, Thailand (30 days for tourism) and Malaysia (for arrivals up to 31 December 2026; an eVISA after that). Sri Lanka gives a free 30-day ETA online. Among visas you apply for, Dubai's tourist visa is expected in 48 hours through an accredited agency, and the UK's Super Priority service usually gives a decision by the end of the next working day after biometrics."
       },
       {
         "q": "Can I get a UK visa in 24 hours from India?",
@@ -4680,12 +4680,12 @@ export const BLOG_POSTS = [
     "body": [
       {
         "type": "p",
-        "text": "A parent is in hospital abroad, or a meeting moved up. Here is the honest answer. With a passport in hand, **Nepal, Bhutan, the Maldives, Mauritius, Thailand (30 days) and Malaysia (until 31 December 2026)** need no visa in advance. **Dubai** issues a tourist visa in about **48 hours**. The **UK** offers a decision by the **next working day** for **£1,000**. Schengen, the US and Canada have no paid express."
+        "text": "A parent is in hospital abroad, or a meeting moved up. Here is the honest answer. With a passport in hand, **Nepal, Bhutan, the Maldives, Mauritius, Thailand (30 days) and Malaysia (arrivals up to 31 December 2026)** need no visa in advance. **Dubai** issues a tourist visa in about **48 hours**. The **UK** offers a decision by the **next working day** for **£1,000**. Schengen, the US and Canada have no paid express."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**No visa needed in advance:** Nepal, Bhutan (entry permit at the border or Paro), Mauritius, Maldives (visa on arrival), Thailand (30 days, tourism), Malaysia (until 31 December 2026). **Sri Lanka:** free 30-day ETA online at eta.gov.lk. **Dubai:** single-entry tourist visa, AED 200 for 30 days plus 5% VAT (about ₹4,800), expected in 48 hours. **UK:** Priority £500 (about ₹63,000), usually 5 working days; Super Priority £1,000 (about ₹1,26,000), usually next working day. **Schengen:** no paid express; urgent cases can ask for an early appointment and a decision \"without delay\". **USA:** free expedite request, only after you hold a confirmed appointment. **Canada:** no paid express; compassionate route for funerals and critical illness. **Tatkaal passport:** ₹5,000 (36 pages), dispatched on the third working day after the grant."
+        "text": "**No visa needed in advance:** Nepal, Bhutan (entry permit at the border or Paro), Mauritius, Maldives (visa on arrival), Thailand (30 days, tourism), Malaysia (arrivals up to 31 December 2026; eVISA from 1 January 2027). **Sri Lanka:** free 30-day ETA online at eta.gov.lk. **Dubai:** single-entry tourist visa, AED 200 for 30 days plus 5% VAT (about ₹4,800), expected in 48 hours. **UK:** Priority £500 (about ₹63,000), usually 5 working days; Super Priority £1,000 (about ₹1,26,000), usually next working day. **Schengen:** no paid express; urgent cases can ask for an early appointment and a decision \"without delay\". **USA:** free expedite request, only after you hold a confirmed appointment. **Canada:** no paid express; compassionate route for funerals and critical illness. **Tatkaal passport:** ₹5,000 (36 pages), dispatched on the third working day after the grant."
       },
       {
         "type": "h2",
@@ -4703,7 +4703,7 @@ export const BLOG_POSTS = [
           "**Maldives:** tourist visa on arrival, no pre-approval. You need a passport valid for at least 1 month, a confirmed return ticket, a prepaid confirmed booking at a registered property and enough funds. Submit the free IMUGA Traveller Declaration within **96 hours** before arrival.",
           "**Mauritius:** the Passport and Immigration Office lists India as \"No visa required\". The officer at the airport decides how long you can stay.",
           "**Thailand:** **30-day visa exemption** for tourism since 15 September 2026.",
-          "**Malaysia:** Indians are visa-exempt for social visits until **31 December 2026**.",
+          "**Malaysia:** Indians are visa-exempt for social visits only for arrivals up to **31 December 2026**; Malaysia said on 17 November 2026 that this will not be extended.",
           "**Sri Lanka:** a free 30-day tourist ETA since 25 May 2026. Apply only on eta.gov.lk, the official site."
         ]
       },
@@ -4842,7 +4842,7 @@ export const BLOG_POSTS = [
         "items": [
           "**Singapore:** apply through an authorised visa agent appointed by the High Commission. Processing generally takes **3 to 5 working days**, excluding the submission day, weekends and public holidays, and some applications take longer. Fee: **₹2,100**, plus an agent service fee of up to **₹1,300**.",
           "**Thailand:** no visa needed for tourist stays up to 30 days. For longer stays, the e-visa is applied for only at thaievisa.go.th, and the Thai Consulate-General in Mumbai (which covers Gujarat) says processing takes up to **14 working days** after the fee is paid.",
-          "**Malaysia:** visa-free until 31 December 2026. After that, plan for the eVISA on malaysiavisa.imi.gov.my, which takes **2 to 7 working days** after payment; the portal tells applicants to apply 14 days before travel."
+          "**Malaysia:** visa-free for arrivals up to 31 December 2026, and confirmed not to be extended. After that, plan for the eVISA on malaysiavisa.imi.gov.my, which takes **2 to 7 working days** after payment; the portal tells applicants to apply 14 days before travel."
         ]
       },
       {
@@ -4927,6 +4927,10 @@ export const BLOG_POSTS = [
       {
         "label": "Ministry of Public Security of Vietnam: E-visa issuance procedure",
         "url": "https://e-services.mps.gov.vn/bocongan/bothutuc/tthc?matt=26277"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
       }
     ]
   },
@@ -13444,10 +13448,10 @@ export const BLOG_POSTS = [
     "slug": "countries-ended-visa-free-entry-for-indians-2026",
     "title": "Which countries ended visa-free entry for Indians in 2026?",
     "metaTitle": "Countries that ended visa-free entry for Indians 2026 | Travlys",
-    "metaDescription": "Iran and Nicaragua now need a visa in advance and Thailand cut visa-free stays to 30 days. See what got easier in 2026 and which reports are unconfirmed.",
-    "excerpt": "Iran and Nicaragua took away easy entry for Indians, and Thailand halved its visa-free stay. Here is what changed, what got easier in 2026, and which reported changes are not confirmed.",
+    "metaDescription": "Malaysia ends visa-free entry for Indians on 31 Dec 2026, Iran and Nicaragua need a visa in advance, and Thailand cut stays to 30 days. What changed and what got easier.",
+    "excerpt": "Malaysia is ending visa-free entry for Indians from 1 January 2027, Iran and Nicaragua took away easy entry, and Thailand halved its visa-free stay. Here is what changed, what got easier in 2026, and which reported changes are not confirmed.",
     "date": "2026-10-30",
-    "updated": "2026-10-30",
+    "updated": "2026-11-21",
     "readMinutes": 7,
     "category": "Visa rule updates",
     "tags": [
@@ -13462,14 +13466,18 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "visa-rule-changes-for-indians-2026-tracker",
-      "visa-free-countries-for-indians-2026",
-      "thailand-visa-free-for-indians-2026"
+      "visa-free-countries-for-indians-2026"
     ],
     "faqs": [
       {
         "q": "Which countries removed visa-free entry for Indians in 2026?",
-        "a": "Iran and Nicaragua are the confirmed cases. Iran suspended its visa waiver for ordinary Indian passport holders from 22 November 2025, and it still applies in 2026. Nicaragua ended visa on arrival from 16 February 2026, and Indians now need a pre-approved Category C consulted visa. Thailand still lets Indians in visa-free, but only for 30 days since 15 September 2026. Reports about Cape Verde, Bolivia and Laos are not confirmed."
+        "a": "Iran and Nicaragua are the confirmed cases so far, and Malaysia joins them from 1 January 2027: Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended. Iran suspended its visa waiver for ordinary Indian passport holders from 22 November 2025, and it still applies in 2026. Nicaragua ended visa on arrival from 16 February 2026, and Indians now need a pre-approved Category C consulted visa. Thailand still lets Indians in visa-free, but only for 30 days since 15 September 2026. Reports about Cape Verde, Bolivia and Laos are not confirmed."
+      },
+      {
+        "q": "Is Malaysia ending visa-free entry for Indians?",
+        "a": "Yes. Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended. If you land in Malaysia on or before 31 December 2026, the 30-day exemption still covers that visit. From 1 January 2027 you need a Malaysia eVISA, applied for online on the MyVISA portal, which opens on 1 December 2026."
       },
       {
         "q": "Do Indians need a visa for Iran now?",
@@ -13495,12 +13503,12 @@ export const BLOG_POSTS = [
     "body": [
       {
         "type": "p",
-        "text": "Two countries took away easy entry for ordinary Indian passport holders and still require a visa in advance: **Iran**, which suspended its visa waiver from 22 November 2025, and **Nicaragua**, which ended visa on arrival from 16 February 2026 and now asks Indians for a pre-approved \"consulted\" visa. **Thailand** kept visa-free entry but cut it from 60 to 30 days on 15 September 2026. Reports about Cape Verde, Bolivia and Laos are contradictory, so treat them as unconfirmed and check before you book."
+        "text": "**Malaysia** is the newest: Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended, so Indians arriving from 1 January 2027 need an eVISA. Before that, two countries took away easy entry for ordinary Indian passport holders and still require a visa in advance: **Iran**, which suspended its visa waiver from 22 November 2025, and **Nicaragua**, which ended visa on arrival from 16 February 2026 and now asks Indians for a pre-approved \"consulted\" visa. **Thailand** kept visa-free entry but cut it from 60 to 30 days on 15 September 2026. Reports about Cape Verde, Bolivia and Laos are contradictory, so treat them as unconfirmed and check before you book."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Visa needed again:** Iran (since 22 Nov 2025), Nicaragua (since 16 Feb 2026). **Shorter stay:** Thailand, 30 days visa-free since 15 Sep 2026. **Easier in 2026:** free Sri Lanka ETA, wider UAE visa on arrival, Saudi Package Visa, Uzbekistan visa-free for some visa holders, no airport transit visa in Spain, France and Germany. **Unconfirmed:** Cape Verde, Bolivia, Laos. **Watch:** Malaysia's visa-free entry runs only until 31 Dec 2026."
+        "text": "**Visa needed again:** Iran (since 22 Nov 2025), Nicaragua (since 16 Feb 2026), Malaysia (from 1 Jan 2027, eVISA). **Shorter stay:** Thailand, 30 days visa-free since 15 Sep 2026. **Easier in 2026:** free Sri Lanka ETA, wider UAE visa on arrival, Saudi Package Visa, Uzbekistan visa-free for some visa holders, no airport transit visa in Spain, France and Germany. **Unconfirmed:** Cape Verde, Bolivia, Laos."
       },
       {
         "type": "h2",
@@ -13524,7 +13532,7 @@ export const BLOG_POSTS = [
           "**Iran (from 22 November 2025):** Iran suspended visa-free entry for ordinary Indian passport holders. It used to allow up to 15 days for tourism. You now need a visa to enter or even transit through Iran. India's Ministry of External Affairs (MEA) warned that Indians had been lured to Iran with fake job offers and kidnapped for ransom. **What to do:** apply for an Iranian visa through the embassy or its official e-visa route, and ignore any agent who offers visa-free travel or onward transit via Iran. Diplomatic and official passports are not covered here.",
           "**Nicaragua (from 16 February 2026):** Nicaragua's immigration authority issued Disposición No. 002-2026, which changed its visa categories. The Embassy of India in Panama says Indian ordinary passport holders are now in **Category C, the \"consulted visa\"**. Immigration in Managua must approve that visa before you travel. The visa is for 30 days and can be extended to a total of 90 days. **What to do:** apply online on the Nicaraguan Interior Ministry portal (tramitesconsulares.mint.gob.ni) or by email using the Category C form, well before your flight. The embassy advisory lists no exemption for holders of US, Canadian or Schengen visas, so do not rely on one.",
           "**Thailand (from 15 September 2026):** Thailand ended its 60-day visa exemption. Indian tourists now get **30 days visa-free**. You must also fill the free Thailand Digital Arrival Card online within three days before you land. **What to do:** if your trip is longer than 30 days, apply for a Thai tourist visa or e-visa. Note that the MEA's country list still showed 60 days when we checked, because its data is dated February 2026.",
-          "**Malaysia (deadline, not yet a change):** Malaysia's 30-day visa waiver for Indians runs until **31 December 2026**. No extension had been announced when we checked. **What to do:** for trips in 2027, avoid non-refundable bookings until Malaysia confirms the rule, and keep filling the MDAC arrival card."
+          "**Malaysia (from 1 January 2027):** Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended. Arrivals up to 31 December 2026 still get 30 days visa-free. **What to do:** for trips landing on or after 1 January 2027, apply for a Malaysia eVISA on the MyVISA portal (applications open 1 December 2026; RM 50 visa fee plus RM 105 processing, usually 2 to 7 working days), and keep filling the MDAC arrival card."
         ]
       },
       {
@@ -13705,6 +13713,10 @@ export const BLOG_POSTS = [
       {
         "label": "ATTA: Mauritius plans e-visa and ETA system in 2026-2027 budget",
         "url": "https://atta.travel/resource/mauritius-plans-e-visa-eta-system-as-part-of-2026-2027-budget.html"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
       }
     ]
   },
@@ -14427,7 +14439,7 @@ export const BLOG_POSTS = [
     "metaDescription": "How early to apply for a visa from India: Schengen up to 6 months ahead, UK 3 months, USA as early as possible. Timings for 9 countries, checked October 2026.",
     "excerpt": "How early you should apply for a visa depends on the country: six months ahead for Schengen, three for the UK, and as soon as possible for the USA. Here are the earliest dates, sensible deadlines and current processing times for nine popular destinations.",
     "date": "2026-10-29",
-    "updated": "2026-10-29",
+    "updated": "2026-11-21",
     "readMinutes": 8,
     "category": "Country guides",
     "tags": [
@@ -14440,9 +14452,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "schengen-visa-documents-checklist-2026",
-      "uk-visa-for-indians-2026-fees-processing-time",
-      "us-visa-appointment-wait-time-india-2026"
+      "uk-visa-for-indians-2026-fees-processing-time"
     ],
     "faqs": [
       {
@@ -14520,7 +14532,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "Diwali falls in early November this year. If you are reading this with no visa yet, a Schengen, UK or US trip for Diwali is unrealistic. Look at options that need little or no paperwork: Thailand's 30-day visa-free entry, Malaysia's visa-free entry until 31 December 2026, Sri Lanka's free ETA and the Phu Quoc exemption. For Diwali 2027, start Schengen and UK applications by August and US interviews now."
+        "text": "Diwali falls in early November this year. If you are reading this with no visa yet, a Schengen, UK or US trip for Diwali is unrealistic. Look at options that need little or no paperwork: Thailand's 30-day visa-free entry, Malaysia's visa-free entry (only for arrivals up to 31 December 2026), Sri Lanka's free ETA and the Phu Quoc exemption. For Diwali 2027, start Schengen and UK applications by August and US interviews now."
       },
       {
         "type": "h3",
@@ -14633,6 +14645,10 @@ export const BLOG_POSTS = [
       {
         "label": "UAE Federal Authority for Identity, Citizenship, Customs and Port Security: Smart services portal",
         "url": "https://icp.gov.ae/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
       }
     ]
   },
@@ -15203,7 +15219,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Indians need no visa for Bhutan, only an entry permit with a passport or voter ID. SDF is Rs 1,200 a night, Rs 600 for kids 6-11, free under 6. 2026 rules.",
     "excerpt": "Indians do not need a visa for Bhutan, but you do need an entry permit, a valid passport or voter ID, and a Sustainable Development Fee of Rs 1,200 per night. Here is how the permit, the fee, guides and the border-town waiver work in 2026.",
     "date": "2026-10-28",
-    "updated": "2026-10-28",
+    "updated": "2026-11-21",
     "readMinutes": 7,
     "category": "Country guides",
     "tags": [
@@ -15217,9 +15233,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1578556881786-851d4b79cb73?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "nepal-bhutan-passport-rule-indians-third-country-2026",
-      "visa-free-countries-for-indians-2026",
-      "sri-lanka-eta-for-indians-2026"
+      "visa-free-countries-for-indians-2026"
     ],
     "faqs": [
       {
@@ -15394,7 +15410,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "Planning more of Asia this winter? Thailand's visa-free stay is now 30 days, Malaysia is visa-free until 31 December 2026 with an MDAC, and Sri Lanka's ETA has been free since 25 May 2026. Our visa-free countries list for Indians covers the rest."
+        "text": "Planning more of Asia this winter? Thailand's visa-free stay is now 30 days, Malaysia is visa-free only for arrivals up to 31 December 2026 (an eVISA after that), and Sri Lanka's ETA has been free since 25 May 2026. Our visa-free countries list for Indians covers the rest."
       },
       {
         "type": "h2",
@@ -15442,6 +15458,10 @@ export const BLOG_POSTS = [
       {
         "label": "Daily Bhutan: Gelephu International Airport welcomes its first international flight",
         "url": "https://www.dailybhutan.com/article/gelephu-international-airport-welcomes-its-first-international-flight"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
       }
     ]
   },
@@ -18478,7 +18498,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Yes, Indians can still get a Schengen visa for Christmas 2026 if they apply by mid-November. The rule is 15 days before travel; decisions take up to 45 days.",
     "excerpt": "A late-October or November application can still work for a December Europe trip. Here are the real timelines, the main-destination rule, the documents that matter and your backup options.",
     "date": "2026-10-27",
-    "updated": "2026-10-27",
+    "updated": "2026-11-21",
     "readMinutes": 8,
     "category": "Visa rule updates",
     "tags": [
@@ -18492,9 +18512,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1480413258216-ff003d179d65?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "schengen-visa-documents-checklist-2026",
-      "schengen-ees-explained-for-indian-travellers",
-      "northern-lights-trip-from-india-visa-guide"
+      "schengen-ees-explained-for-indian-travellers"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -18523,7 +18543,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "What can I do if I cannot get a Schengen appointment in time?",
-        "a": "Use a valid multiple-entry Schengen visa if you already hold one, move the trip to January or February, or pick an easier-visa destination for December. Thailand gives Indians 30 days visa-free, Malaysia is visa-free until 31 December 2026, Vietnam has a USD 25 e-visa, Georgia has an e-visa, and Sri Lanka's tourist ETA is free."
+        "a": "Use a valid multiple-entry Schengen visa if you already hold one, move the trip to January or February, or pick an easier-visa destination for December. Thailand gives Indians 30 days visa-free, Malaysia is visa-free if you land by 31 December 2026, Vietnam has a USD 25 e-visa, Georgia has an e-visa, and Sri Lanka's tourist ETA is free."
       }
     ],
     "body": [
@@ -18687,7 +18707,7 @@ export const BLOG_POSTS = [
         "type": "ul",
         "items": [
           "**Thailand:** 30 days visa-free for Indian tourists since 15 September 2026, with the free online TDAC arrival card.",
-          "**Malaysia:** 30 days visa-free until 31 December 2026 unless extended, with the MDAC arrival card. Check before you book if you land close to that date.",
+          "**Malaysia:** 30 days visa-free only if you land by 31 December 2026, with the MDAC arrival card. Malaysia confirmed on 17 November 2026 that it will not be extended, so a January arrival needs an eVISA.",
           "**Vietnam:** e-visa at USD 25 for single entry, processed within three working days of a complete application.",
           "**Georgia:** e-visa at USD 20 plus a 2% service fee, at least five working days. If you hold a valid US, UK or Schengen visa, you may enter visa-free. Insurance is compulsory.",
           "**Sri Lanka:** free online ETA for 30 days."
@@ -19818,7 +19838,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Every 2026 visa rule change for Indian passport holders, newest first: Australia biometrics, China direct filing, Australia student rules, Thailand 30 days.",
     "excerpt": "A dated, monthly-updated list of every significant visa and entry rule change for Indian passport holders in 2026, with what changed, who it affects and what to do.",
     "date": "2026-10-25",
-    "updated": "2026-11-05",
+    "updated": "2026-11-21",
     "readMinutes": 10,
     "category": "Visa rule updates",
     "tags": [
@@ -19832,9 +19852,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "china-visa-for-indians-2026-new-process",
-      "thailand-visa-free-for-indians-2026",
-      "visa-free-countries-for-indians-2026"
+      "thailand-visa-free-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -19851,7 +19871,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "Is Malaysia visa-free for Indians after December 2026?",
-        "a": "Not confirmed. Malaysia's visa waiver for Indians runs until 31 December 2026, for stays of up to 30 days, and no extension had been announced as of 25 October 2026. If you are travelling in 2027, check the Immigration Department of Malaysia website before booking. You still need the free Malaysia Digital Arrival Card."
+        "a": "No. Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended. Arrivals up to 31 December 2026 still get up to 30 days. From 1 January 2027 Indians need a Malaysia eVISA, applied for on the MyVISA portal, which opens on 1 December 2026. You still need the free Malaysia Digital Arrival Card."
       },
       {
         "q": "How do Indians apply for a China visa from 26 October 2026?",
@@ -19874,7 +19894,7 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Newest changes:** Australia biometrics for visa applicants in India and China direct visa filing, both from 26 October 2026. **Easier in 2026:** Sri Lanka (free ETA), Uzbekistan (visa-free for holders of certain foreign visas), UAE (visa on arrival scheme widened). **Harder in 2026:** Thailand (60 days cut to 30), Australia student visas, higher UK and Australian visa fees. **Unchanged but time-limited:** Malaysia visa-free entry ends 31 December 2026 unless extended. **Still suspended:** Iran visa-free entry, since 22 November 2025. **Passport ranking:** India 84th, 55 destinations (October 2026, as reported). **Coming up:** UK student funds rise on 30 November 2026; UK Graduate visas drop to 18 months from 1 January 2027."
+        "text": "**Newest changes:** Australia biometrics for visa applicants in India and China direct visa filing, both from 26 October 2026. **Easier in 2026:** Sri Lanka (free ETA), Uzbekistan (visa-free for holders of certain foreign visas), UAE (visa on arrival scheme widened). **Harder in 2026:** Thailand (60 days cut to 30), Australia student visas, higher UK and Australian visa fees. **Ending:** Malaysia visa-free entry ends 31 December 2026 (confirmed 17 November 2026); eVISA from 1 January 2027. **Still suspended:** Iran visa-free entry, since 22 November 2025. **Passport ranking:** India 84th, 55 destinations (October 2026, as reported). **Coming up:** UK student funds rise on 30 November 2026; UK Graduate visas drop to 18 months from 1 January 2027."
       },
       {
         "type": "h2",
@@ -20166,7 +20186,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "Malaysia's visa waiver lets Indians stay up to **30 days** for tourism, business or transit, but not work, until 31 December 2026. You must submit the free Malaysia Digital Arrival Card within three days before arrival and carry a return ticket and hotel booking. No extension beyond 2026 had been announced when we checked."
+        "text": "Malaysia's visa waiver lets Indians stay up to **30 days** for tourism, business or transit, but not work, for arrivals up to 31 December 2026. You must submit the free Malaysia Digital Arrival Card within three days before arrival and carry a return ticket and hotel booking. Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended, so 2027 arrivals need an eVISA."
       },
       {
         "type": "h3",
@@ -20184,7 +20204,7 @@ export const BLOG_POSTS = [
         "type": "ul",
         "items": [
           "**30 November 2026:** UK Student visa funds rise to **£1,570** a month in London and **£1,203** a month elsewhere, for up to nine months. Applications made before that date use the old amounts.",
-          "**31 December 2026:** Malaysia's visa waiver for Indians expires unless Malaysia extends it.",
+          "**31 December 2026:** Malaysia's visa waiver for Indians ends (confirmed, no extension); eVISA needed from 1 January 2027.",
           "**1 January 2027:** UK Graduate visas for bachelor's and master's graduates drop from 2 years to **18 months**. Apply by 31 December 2026 to get 2 years. PhD graduates keep 3 years.",
           "**1 July 2027:** Australia's new Student visa transfer stream starts for students changing provider.",
           "**Not yet dated:** the US $250 visa integrity fee and the EU's ETIAS. ETIAS is for visa-exempt nationals, so it will not apply to you on an Indian passport."
