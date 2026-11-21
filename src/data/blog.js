@@ -8,6 +8,651 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "easiest-schengen-visa-for-indians-2026",
+    "title": "Easiest Schengen Visa for Indians 2026: Refusal Rates by Country (2025 EU Data)",
+    "metaTitle": "Easiest Schengen Visa for Indians 2026: EU Data | Travlys",
+    "metaDescription": "Easiest Schengen visa for Indians? You must apply to your main destination. 2025 EU data: 15.8% not issued in India, Denmark lowest at 7.1%.",
+    "excerpt": "You cannot pick the easiest Schengen country: EU law makes you apply to your main destination. Here is how all 28 visa-issuing Schengen countries decided Indian applications in 2025, from 7.1% not issued at Denmark to 46.5% at Slovenia.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 12,
+    "category": "Schengen visas",
+    "tags": [
+      "Schengen visa",
+      "Visa refusal rate",
+      "Main destination rule",
+      "Multiple-entry visa",
+      "EU visa statistics",
+      "Europe travel"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "schengen-5-year-multiple-entry-visa-for-indians-2026",
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Schengen visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Which Schengen country is easiest to get visa for Indians in 2026?",
+        "a": "There is no country you can freely choose as the easiest. EU law makes you apply to your main destination, meaning the country where you spend the most days, or where you first enter Schengen if the days are equal. In the European Commission's 2025 data for India, Denmark (7.1%), Belgium (7.8%) and Germany (10.5%) had the lowest not-issued rates. Those figures reflect who applied there, not a softer standard for you."
+      },
+      {
+        "q": "Which Schengen visa has lowest rejection rate for Indians?",
+        "a": "Denmark had the lowest not-issued rate for Indians in 2025, at 7.1% of 17,038 applications, according to European Commission statistics. Belgium was next at 7.8%, then Germany at 10.5%. The highest were Slovenia (46.5%), Bulgaria (37.9%) and Lithuania (35.7%). Across India the rate was 15.8%. The Commission counts refusals and discontinued applications together, as a share of decisions, so this is close to but not exactly a refusal rate."
+      },
+      {
+        "q": "Can I apply to an easier Schengen country and travel elsewhere?",
+        "a": "No. You must apply to the country where you spend the most days, or where you first enter Schengen if the days are equal, under Article 5 of the EU Visa Code. A file whose bookings point elsewhere can be refused for not justifying the purpose and conditions of the stay. A visa issued when the conditions were not met must be annulled, and a visa gives no automatic right of entry, so you may be questioned at the border."
+      },
+      {
+        "q": "Which is the fastest Schengen visa from India?",
+        "a": "Every Schengen country has the same legal deadline: a decision within 15 calendar days, extendable to 45 days. Some missions state shorter averages. The Spanish consulate in Mumbai's tourist checklist gives an average of 1 to 2 working days at the consulate, and the Swiss embassy states 7 to 10 calendar days after submission at a VFS centre. Appointment availability often matters more. You still have to apply to your main destination, not the fastest country."
+      },
+      {
+        "q": "Is Schengen visa easy for Indians?",
+        "a": "For a well-prepared applicant, usually yes. In 2025, Schengen countries issued 966,529 visas in India and did not issue 181,111, a not-issued rate of 15.8% of decisions, according to the European Commission. Most problems come from weak files: bookings that do not match the stated trip, unexplained bank deposits or missing income tax returns. Since 2024, Indians with two lawfully used Schengen visas in three years can get a two-year multiple-entry visa."
+      },
+      {
+        "q": "Which Schengen country gives multiple entry visa easily?",
+        "a": "In the 2025 European Commission data for India, Germany issued the highest share of multiple-entry visas: 99.6% of its 136,674 visas issued. Belgium (89.6%), Italy (89.2%), Slovenia (84.5%) and Switzerland (80.6%) followed. Latvia (8.4%) and Bulgaria (10.6%) had the lowest. The data does not show how long these visas were valid, so a high share does not guarantee a long multi-year visa."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If you are searching for the easiest Schengen visa, you are probably worried about a refusal. The honest answer is that you cannot pick the country: EU law says you apply to your **main destination**. What the official data does show is how each country decided Indian files in 2025. Across India, **15.8%** of decisions ended in a visa not issued, from **7.1%** (Denmark) to **46.5%** (Slovenia)."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**The rule:** apply to the country where you spend the most days. If the days are equal, apply to the country where you first enter Schengen (Visa Code, Article 5). **India in 2025:** 1,153,748 applications, 966,529 visas issued, 181,111 not issued. **Not-issued rate, all India:** 15.8%. **Lowest rates:** Denmark 7.1%, Belgium 7.8%, Germany 10.5%. **Highest rates:** Slovenia 46.5%, Bulgaria 37.9%, Lithuania 35.7%. **Most applications:** Switzerland 226,044, France 204,184, Germany 153,179. **Multiple-entry share, all India:** 57.6% of visas issued. **Decision time by law:** 15 calendar days, up to 45. **Source:** European Commission, 2025 Schengen visa statistics by consulate."
+      },
+      {
+        "type": "h2",
+        "text": "Which Schengen country is easy to get visa from India in 2026?"
+      },
+      {
+        "type": "p",
+        "text": "None that you can choose freely. Article 5 of the EU Visa Code decides which country must examine your application, and it is not up to you. The competent country is:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**One destination:** the country you are visiting.",
+          "**Several destinations:** the country that is your **main destination**, measured by the length of stay counted in days, or by the purpose of the stay.",
+          "**No main destination** (for example, equal nights everywhere): the country whose external border you cross first to enter Schengen."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Some quick examples:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**5 nights Switzerland, 3 nights Paris:** apply to Switzerland.",
+          "**4 nights Paris, 4 nights Amsterdam, flying into Paris:** apply to France.",
+          "**Same trip, flying into Amsterdam:** apply to the Netherlands.",
+          "**A conference in Berlin plus a 2-night side trip to Prague:** Germany is the main destination by days and purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Filing with the wrong country causes real problems. Under Article 18, a consulate that is not competent must return your application and tell you which consulate is. If a file is examined but your bookings point to another country, it can be refused because you did not justify the **purpose and conditions of the intended stay** (Article 32). A visa issued when the conditions were not met must be **annulled** under Article 34. And a visa gives no automatic right of entry (Article 30), so expect questions at passport control if your trip does not match your visa."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa rejection rate for Indians by country: the 2025 data"
+      },
+      {
+        "type": "p",
+        "text": "Every year the European Commission publishes visa statistics for each Schengen consulate. We downloaded the 2025 file and added up every consulate each country runs in India. India was the **third-largest source** of Schengen visa applications in the world in 2025, after China and Türkiye."
+      },
+      {
+        "type": "p",
+        "text": "Two points about the numbers. First, the Commission's \"not issued\" rate is **visas not issued divided by decisions** (visas issued plus limited-validity visas plus visas not issued), not by applications. That is why the all-India figure is 15.8%. Second, \"not issued\" covers refusals **and** applications where the examination was discontinued, so it is close to, but not the same as, a refusal rate."
+      },
+      {
+        "type": "p",
+        "text": "All 28 Schengen countries that issue visas, ranked from the lowest to the highest not-issued rate in India in 2025:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**1. Denmark** (New Delhi): **7.1%** not issued. 17,038 applied, 15,451 issued, 1,178 not issued. Multiple-entry share 20.6%.",
+          "**2. Belgium** (Mumbai and New Delhi): **7.8%** not issued. 33,333 applied, 30,434 issued, 2,581 not issued. Multiple-entry share 89.6%.",
+          "**3. Germany** (Bengaluru, Chennai, Kolkata, Mumbai and New Delhi): **10.5%** not issued. 153,179 applied, 136,674 issued, 16,126 not issued. Multiple-entry share 99.6%.",
+          "**4. Sweden** (New Delhi): **11.5%** not issued. 32,536 applied, 28,564 issued, 3,723 not issued. Multiple-entry share 28.1%.",
+          "**5. Italy** (Bengaluru, Kolkata, Mumbai and New Delhi): **12.7%** not issued. 53,423 applied, 46,613 issued, 6,810 not issued. Multiple-entry share 89.2%.",
+          "**6. Hungary** (Mumbai and New Delhi): **13.1%** not issued. 16,251 applied, 14,024 issued, 2,106 not issued. Multiple-entry share 53.7%.",
+          "**7. Switzerland** (New Delhi): **13.6%** not issued. 226,044 applied, 195,369 issued, 30,630 not issued. Multiple-entry share 80.6%.",
+          "**8. Finland** (New Delhi): **13.9%** not issued. 17,564 applied, 15,132 issued, 2,450 not issued. Multiple-entry share 11.9%.",
+          "**9. Norway** (New Delhi): **14.7%** not issued. 29,104 applied, 24,840 issued, 4,264 not issued. Multiple-entry share 64.2%.",
+          "**10. France** (Bengaluru, Chennai, Kolkata, Mumbai and New Delhi): **15.3%** not issued. 204,184 applied, 172,072 issued, 31,058 not issued. Multiple-entry share 36.1%.",
+          "**11. Spain** (Mumbai and New Delhi): **15.4%** not issued. 90,720 applied, 75,906 issued, 13,825 not issued. Multiple-entry share 16.1%.",
+          "**12. Poland** (Mumbai and New Delhi): **17.0%** not issued. 9,673 applied, 8,022 issued, 1,640 not issued. Multiple-entry share 19.3%.",
+          "**13. Romania** (New Delhi): **18.2%** not issued. 1,931 applied, 1,574 issued, 350 not issued. Multiple-entry share 18.9%.",
+          "**14. Latvia** (New Delhi): **18.6%** not issued. 1,314 applied, 1,070 issued, 244 not issued. Multiple-entry share 8.4%.",
+          "**15. Czech Republic** (Mumbai and New Delhi): **20.1%** not issued. 27,388 applied, 21,885 issued, 5,501 not issued. Multiple-entry share 24.1%.",
+          "**16. Portugal** (Goa and New Delhi): **20.3%** not issued. 15,422 applied, 12,284 issued, 3,138 not issued. Multiple-entry share 31.5%.",
+          "**17. Netherlands** (Mumbai and New Delhi): **20.7%** not issued. 97,650 applied, 77,057 issued, 20,156 not issued. Multiple-entry share 55.1%.",
+          "**18. Austria** (New Delhi): **22.1%** not issued. 48,761 applied, 37,117 issued, 10,543 not issued. Multiple-entry share 28.4%.",
+          "**19. Luxembourg** (New Delhi): **23.0%** not issued. 3,684 applied, 2,727 issued, 814 not issued. Multiple-entry share 47.7%.",
+          "**20. Slovakia** (New Delhi): **23.5%** not issued. 1,437 applied, 988 issued, 303 not issued. Multiple-entry share 20.5%.",
+          "**21. Iceland** (New Delhi): **25.7%** not issued. 10,906 applied, 8,061 issued, 2,793 not issued. Multiple-entry share 24.2%.",
+          "**22. Croatia** (New Delhi): **29.2%** not issued. 2,615 applied, 1,721 issued, 709 not issued. Multiple-entry share 80.5%.",
+          "**23. Estonia** (New Delhi): **29.7%** not issued. 1,706 applied, 1,193 issued, 513 not issued. Multiple-entry share 25.6%.",
+          "**24. Malta** (New Delhi): **32.1%** not issued. 8,587 applied, 5,755 issued, 2,720 not issued. Multiple-entry share 23.3%.",
+          "**25. Greece** (New Delhi): **33.2%** not issued. 41,009 applied, 27,232 issued, 13,526 not issued. Multiple-entry share 40.7%.",
+          "**26. Lithuania** (New Delhi): **35.7%** not issued. 944 applied, 607 issued, 337 not issued. Multiple-entry share 25.0%.",
+          "**27. Bulgaria** (New Delhi): **37.9%** not issued. 3,435 applied, 2,082 issued, 1,270 not issued. Multiple-entry share 10.6%.",
+          "**28. Slovenia** (New Delhi): **46.5%** not issued. 3,910 applied, 2,075 issued, 1,803 not issued. Multiple-entry share 84.5%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**All India:** 1,153,748 applied for, 966,529 issued, 181,111 not issued. Not-issued rate **15.8%**. Multiple-entry visas were **57.6%** of all visas issued. Liechtenstein is in Schengen but does not issue visas. Switzerland handles its applications."
+      },
+      {
+        "type": "h3",
+        "text": "Mumbai consulates in 2025"
+      },
+      {
+        "type": "p",
+        "text": "For readers in western India, these are the figures for the Schengen consulates in Mumbai that handled more than 1,000 applications:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Belgium, Mumbai:** 22,109 applied, 4.6% not issued.",
+          "**Hungary, Mumbai:** 9,491 applied, 5.9% not issued.",
+          "**Italy, Mumbai:** 22,737 applied, 10.1% not issued.",
+          "**Germany, Mumbai:** 130,562 applied, 10.8% not issued.",
+          "**Spain, Mumbai:** 50,389 applied, 11.7% not issued.",
+          "**France, Mumbai:** 64,765 applied, 11.8% not issued.",
+          "**Poland, Mumbai:** 5,086 applied, 17.7% not issued."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Read the small numbers carefully",
+        "text": "Lithuania (944 applications), Latvia (1,314), Slovakia (1,437) and Romania (1,931) handle very few Indian files. A few hundred decisions either way move their rate by several points. Rates based on 100,000 or more applications, such as Switzerland, France and Germany, are far more stable."
+      },
+      {
+        "type": "h2",
+        "text": "Why do some countries refuse more Indian applicants?"
+      },
+      {
+        "type": "p",
+        "text": "The dataset counts decisions. It does not say who applied or why files failed, so treat the following as possible reasons, not proven causes."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Applicant mix.** A country popular with repeat business travellers or with families visiting relatives will see different files from a country chosen mainly by first-time tourists.",
+          "**Purpose of travel.** Business trips usually come with an invitation and an employer's letter. A tourist file stands or falls on bookings, money and ties to India.",
+          "**First-time applicants.** A passport with no earlier Schengen visas gives the officer less to go on. The data does not split first-time and repeat applicants, so we cannot measure this.",
+          "**Volume and staffing.** Small missions handling a few thousand files show sharper swings from year to year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A low rate does not mean that country is lenient with you. It mostly reflects who applied there."
+      },
+      {
+        "type": "h2",
+        "text": "Which Schengen country gives multiple-entry visas easily?"
+      },
+      {
+        "type": "p",
+        "text": "By the 2025 data, Germany issued the highest share of multiple-entry visas in India: **99.6%** of its visas issued. The top six:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Germany:** 99.6% of 136,674 visas issued.",
+          "**Belgium:** 89.6% of 30,434 visas issued.",
+          "**Italy:** 89.2% of 46,613 visas issued.",
+          "**Slovenia:** 84.5% of 2,075 visas issued.",
+          "**Switzerland:** 80.6% of 195,369 visas issued.",
+          "**Croatia:** 80.5% of 1,721 visas issued."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The lowest shares were Latvia (8.4%), Bulgaria (10.6%), Finland (11.9%) and Spain (16.1%)."
+      },
+      {
+        "type": "p",
+        "text": "One caution. A multiple-entry visa can be valid for only the length of your trip. The dataset does not show how long the visas were valid, so a high share does not prove that a country hands out long multi-year visas."
+      },
+      {
+        "type": "h2",
+        "text": "Can you plan your trip around an easier country?"
+      },
+      {
+        "type": "p",
+        "text": "Yes, but only by genuinely changing the trip. If you want to file with a country whose process suits you, for example a shorter processing time or a visa centre in your city, you must actually spend the most nights there. Your hotel bookings, cover letter and form must all tell the same story."
+      },
+      {
+        "type": "p",
+        "text": "The EU's list of documents for applicants in India asks for **proof of accommodation in each country** you visit. An officer can count your nights from the bookings in front of them."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Watch out for \"visa shopping\": booking two extra nights in one country on paper, or cancelling hotels after the visa is issued, just to file with a country you think is easier. Officers compare the form, the cover letter and the bookings, and passport stamps show where you actually went. It can count against you on your next application."
+      },
+      {
+        "type": "h2",
+        "text": "Which is the fastest Schengen visa from India?"
+      },
+      {
+        "type": "p",
+        "text": "By law, every Schengen country has the same deadline. A consulate must decide within **15 calendar days** of an admissible application, extendable up to **45 days** in individual cases. You can apply no more than **six months** before the trip and, as a rule, no later than **15 calendar days** before it. Some missions state shorter averages:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Spain:** the Consulate General of Spain in Mumbai's tourist checklist states an average processing time of **1 to 2 working days** at the consulate, and notes that time varies by case and by the applicant's location.",
+          "**Switzerland:** the Embassy of Switzerland in India states **7 to 10 calendar days** after submission at any VFS centre in India."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These are averages once your file reaches the mission. Getting an appointment is often the slower step. Speed is not a reason to pick a country. The main-destination rule still applies."
+      },
+      {
+        "type": "h2",
+        "text": "Is Schengen visa easy for Indians? What makes any application easier"
+      },
+      {
+        "type": "p",
+        "text": "For most well-prepared applicants, yes. In 2025, 966,529 Schengen visas were issued in India. Three things help more than the choice of country:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**The 2024 cascade for Indians.** Since April 2024, Indian nationals living in India who have obtained and lawfully used **two Schengen visas within the previous three years** can be issued a **two-year** multiple-entry visa. That is normally followed by a **five-year** visa if the passport has enough validity left, says the EU Delegation to India.",
+          "**A clean travel history.** Use each visa within its dates and conditions, because the cascade counts only visas that were lawfully used. Keep your old passports: the EU's India list asks for copies of Schengen entry and exit stamps from previous passports.",
+          "**A complete file.** The EU's India list covers every applicant: a cover letter with the purpose, dates, travel companions and accommodation, an itinerary, hotel bookings for each country, three months of stamped bank statements and income tax returns for the last two assessment years. Salaried applicants add three payslips, an employment contract and the employer's leave approval. Business owners add the company registration with its GST number."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team starts with your itinerary: we count the nights, confirm which country you must apply to, and build the file around that country's checklist and the EU's India list. If you have been refused before, we read the refusal form and fix the gap before you reapply. NRI children abroad can brief us on WhatsApp at +91 82009 18967 for their parents' trip. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "On 21 November 2026 we downloaded the European Commission's 2025 Schengen visa statistics by consulate and its metadata note, and checked the EU Visa Code, the Commission's list of supporting documents for India, the EU Delegation to India's cascade notice, the Swiss embassy's procedure page and the Spanish consulate's Mumbai tourist checklist. Before you apply, re-check your destination country's checklist and the VFS or BLS appointment calendar."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      },
+      {
+        "label": "European Commission: 2025 Schengen visa statistics by consulate (Excel)",
+        "url": "https://home-affairs.ec.europa.eu/document/download/56816949-e59f-442b-9091-5d03360bf860_en"
+      },
+      {
+        "label": "European Commission: Visa statistics, quality and metadata reporting (PDF)",
+        "url": "https://home-affairs.ec.europa.eu/document/download/b4626219-fa37-4650-8216-0c2bda466c74_en?filename=visa_statistics_-_quality_and_metadata_reporting.pdf"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated 28.06.2024)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240628"
+      },
+      {
+        "label": "European Commission: C(2025) 4379, list of supporting documents for short-stay visa applicants in India",
+        "url": "https://home-affairs.ec.europa.eu/document/download/e9890b44-c893-40f9-9a6e-161e86d20efc_en"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Application for Schengen visa and procedure",
+        "url": "https://www.schweiz-indien.eda.admin.ch/en/application-schengen-visa-procedure"
+      },
+      {
+        "label": "Consulate General of Spain in Mumbai: Tourism / private visit document checklist",
+        "url": "https://india.blsspainvisa.com/assets/pdf/english/Tourist-Visa.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "germany-tourist-visa-for-indians-2026",
+    "title": "Germany Tourist Visa for Indians 2026: Cost, Documents, Processing Time and Refusals",
+    "metaTitle": "Germany Tourist Visa for Indians 2026: Cost & Docs | Travlys",
+    "metaDescription": "Germany tourist visa for Indians: €90 fee (listed as ₹9,500) plus ₹1,933 VFS fee, 90 days in any 180, decided in Mumbai. Documents, timing and refusals.",
+    "excerpt": "Indians visiting Germany as tourists need a Schengen C visa: €90 plus a ₹1,933 VFS fee, decided by the Mumbai consulate. The official checklist, timing, the 2025 refusal numbers and what to do after a refusal now that remonstration is gone.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 11,
+    "category": "Schengen visas",
+    "tags": [
+      "Germany",
+      "Schengen visa",
+      "Germany visa fees",
+      "VFS Ahmedabad",
+      "Visa refusal",
+      "Multiple-entry visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1554072675-66db59dba46f?w=1600&h=900&fit=crop",
+    "related": [
+      "germany-visa-for-parents-from-india-2026",
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-refused-appeal-reapply-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Germany visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Germany tourist visa fees for Indians in rupees?",
+        "a": "The Germany tourist visa fee is €90 for adults, which the German missions list as ₹9,500, and €45 for minors aged 6 to 12, listed as ₹4,800. Children under 6 pay nothing. VFS adds a service fee of ₹1,933 per applicant, paid when you book the appointment. The VFS page shows the adult fee as ₹9,100, so pay the amount VFS asks on the day. None of these fees is refunded if the visa is refused."
+      },
+      {
+        "q": "Germany tourist visa documents for Indians?",
+        "a": "You need the VIDEX application form, two signed declarations, a passport issued within 10 years and valid 3 months after return, one 35x45 mm photo, a covering letter and itinerary, hotel bookings, a flight reservation and insurance with €30,000 cover from an approved insurer. Employees add three months' payslips, an employment contract, a leave letter, ITR for two years or Form 16, and 3 months of bank statements stamped by the bank. Passbook copies are not accepted."
+      },
+      {
+        "q": "How long does Germany tourist visa take in India?",
+        "a": "The German missions say a Schengen visa takes an average of 15 days after the application reaches the Mumbai consulate, and up to 45 days in individual cases. Delivery from a VFS centre can add up to 6 working days. The Mumbai consulate currently warns that high volumes may make processing slower than usual. Apply no earlier than six months before travel and at least three weeks ahead, as the missions recommend."
+      },
+      {
+        "q": "Can I apply for Germany visa from Ahmedabad?",
+        "a": "Yes. VFS Global runs a German visa application centre in Ahmedabad, along with Mumbai, Pune and Goa, for the area covered by the German Consulate General in Mumbai, which includes Gujarat. For Schengen visas you may also submit at any VFS centre in India, because every Schengen application for Germany is forwarded to the Mumbai consulate for a decision. This flexibility does not apply to national visas such as student or work visas."
+      },
+      {
+        "q": "Germany visa rejection rate for Indians 2025?",
+        "a": "German consulates in India did not issue about 10.5% of Schengen visa applications in 2025, according to the European Commission's statistics. They received 153,179 applications and issued 136,674 visas. The Mumbai consulate, which handles most files, had a rate of 10.8%. The average across all Schengen countries in India was 15.8%. These figures cover all short-stay purposes, not only tourism, so your own file matters more than the average."
+      },
+      {
+        "q": "Germany visa rejected, what to do now?",
+        "a": "After a German Schengen refusal you can apply again at any time or file a lawsuit at the Administrative Court of Berlin within one month of receiving the refusal. The free remonstration process was abolished in India from 1 January 2024. A lawsuit currently costs €483, paid upfront whatever the outcome. For most tourists, a new application that fixes the reason given in the refusal letter is quicker and cheaper."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Planning Munich, Berlin or the Rhine and worried about refusal? Indians visiting Germany as tourists need a **Schengen short-stay (C) visa**: a **€90** visa fee (listed by the German missions as **₹9,500**), a VFS service fee of **₹1,933**, and a stay of up to **90 days in any 180**. In 2025, German posts in India did not issue about **10.5%** of applications."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (C) visa, purpose tourism. **Stay:** up to 90 days in any 180-day period. **Visa fee:** €90 adult, listed as ₹9,500; €45 for minors aged 6 to 12, listed as ₹4,800; free under 6. **VFS service fee:** ₹1,933, paid when you book the appointment. **Who decides:** the German Consulate General in Mumbai, for Schengen applications filed anywhere in India. **VFS centres for Gujarat and Maharashtra:** Mumbai, Ahmedabad, Pune and Goa. **Decision time:** an average of 15 days after the file reaches the consulate, up to 45 days in some cases. **Apply:** no earlier than 6 months and at least 15 days before travel. **Insurance:** at least €30,000, from an approved insurer. **If refused:** a new application, or a lawsuit at the Administrative Court of Berlin within one month."
+      },
+      {
+        "type": "h2",
+        "text": "Germany tourist visa for Indians: which visa do you need?"
+      },
+      {
+        "type": "p",
+        "text": "For a holiday of up to 90 days you need a **Schengen visa**, which the German missions also call a short-term or C visa. It is valid across the Schengen area, and days in Austria, the Netherlands or Switzerland on the same trip count towards the 90."
+      },
+      {
+        "type": "p",
+        "text": "The missions say a Schengen visa is generally issued with the condition that employment is not permitted. Stays over 90 days need a national (D) visa. If you are inviting parents to Germany, our Germany visa for parents guide covers the invitation letter and the Verpflichtungserklärung."
+      },
+      {
+        "type": "h2",
+        "text": "Germany tourist visa fees for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The visa fee is set in euros and collected in rupees at the end of your VFS appointment. The German missions' fee table, dated 17 November 2026, lists:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults:** €90, listed as ₹9,500.",
+          "**Minors aged 6 to 12:** €45, listed as ₹4,800.",
+          "**Children under 6:** no fee.",
+          "**VFS service fee:** ₹1,933 per applicant. The Mumbai consulate requires it to be paid when you book the appointment.",
+          "**Optional VFS extras:** courier ₹686, SMS updates ₹147, premium lounge ₹3,088.",
+          "**Refunds:** none. The visa fee is not refunded if the visa is refused, and VFS says its charges are non-refundable once paid."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The rupee amounts do not match across official pages. The missions list ₹9,500 for an adult, while the VFS Germany page shows ₹9,100. At the European Central Bank rate of 20 November 2026, €90 is about ₹9,170. VFS says the rupee fee follows the Mumbai consulate's exchange rate, so pay what VFS asks on the day. For one adult, budget roughly ₹11,000 to ₹11,500 for the visa and service fee, before insurance and extras."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for a Germany visa from Gujarat and Maharashtra"
+      },
+      {
+        "type": "p",
+        "text": "The **German Consulate General in Mumbai** covers Maharashtra, Gujarat, Goa, Madhya Pradesh, Chhattisgarh, and Daman and Diu and Dadra and Nagar Haveli. VFS Global runs German application centres for this area in **Mumbai, Ahmedabad, Pune and Goa**. Families in Surat, Vadodara or Rajkot can use Ahmedabad."
+      },
+      {
+        "type": "p",
+        "text": "For Schengen visas, Germany has **centralised processing in Mumbai**. VFS states that all Schengen applications for Germany accepted at any centre in India are forwarded to the Mumbai consulate for a decision. The missions also say you can book and submit at any VFS centre in India, whatever your place of residence. If Ahmedabad has no slots before your trip, check Mumbai, Pune or another city. This relaxation does not apply to national (D) visas."
+      },
+      {
+        "type": "h2",
+        "text": "Germany tourist visa documents for Indians: the official checklist"
+      },
+      {
+        "type": "p",
+        "text": "The German missions publish a **Checklist for a Schengen visa for Tourism**. Copies are enough unless stated, and originals handed in without a copy are not returned. Documents for every applicant:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application form** filled online on the VIDEX website, printed in full with the barcodes, and signed.",
+          "**Two signed declarations:** true and complete information, and travel with valid medical insurance.",
+          "**Passport** issued within the last 10 years, valid at least 3 months after your return, with at least two empty pages. Passports with observations on the front data page are not accepted.",
+          "**Copy** of the passport's biometric and address pages.",
+          "**One photo**, 35x45 mm, white background, face covering 70% to 80%, not older than six months.",
+          "**Covering letter** with your means of transport and itinerary, or a travel agency's tour booking confirmation.",
+          "**Accommodation** for the whole trip, and proof for each country if you visit more than one.",
+          "**Proof of civil status** where relevant: marriage certificate, divorce decree, or children's birth certificates.",
+          "**Flight reservation.**",
+          "**Travel medical insurance** valid in all Schengen countries for the whole trip, with at least €30,000 (about ₹30.6 lakh) of medical cover, from a company on the missions' approved list of Indian insurers."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Proof of your finances, by applicant type"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Employed:** payslips for the last three months, employment contract, leave sanction letter, bank statements for the last 3 months stamped by the bank, and ITR acknowledgments for the last two assessment years or Form 16.",
+          "**Company owner or self-employed:** company registration certificate with the GST number, ITR acknowledgments for two assessment years or Form 16, and 3 months of stamped bank statements.",
+          "**Retired:** pension statements for three months and/or proof of income from property or business, plus 3 months of stamped bank statements.",
+          "**Students:** enrolment certificate, a no objection certificate from the school or university, and for university students, 3 months of bank statements.",
+          "**Sponsored by an Indian resident:** sponsor letter, the sponsor's passport copy and 3 months of stamped bank statements, plus a marriage or birth certificate if the sponsor is your spouse or parent. You still submit your own financial documents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Passbook copies are not accepted. Documents not in German or English need a proper translation, or they count as missing. If your fingerprints were taken for a Schengen visa in India in the last 59 months, someone else can submit your file with a signed authorisation letter."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Before the file goes in, check that your hotel bookings, flight reservation, insurance dates and covering letter describe the same trip. Officers read these side by side. A covering letter that says ten days in Germany next to bookings for six nights invites a question you cannot answer from the VFS counter."
+      },
+      {
+        "type": "h2",
+        "text": "Germany plus Austria or Netherlands: which country do you apply to?"
+      },
+      {
+        "type": "p",
+        "text": "Apply to Germany only if Germany is your **main destination**. The missions' FAQ follows the EU rule: the main destination is set by the length or purpose of stay, and if none can be found, you apply to the country whose border you cross first. On purpose, the missions add a caution of their own: it is better to apply to the country with the most days. Examples:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**6 nights in Munich and Bavaria, 3 nights in Salzburg and Vienna:** Germany has the most nights, so apply to Germany.",
+          "**3 nights in Munich, 5 nights in Austria:** apply to Austria.",
+          "**4 nights in Berlin, 4 nights in Amsterdam, flying into Frankfurt:** the nights are equal and you enter Schengen in Germany, so apply to Germany.",
+          "**Same split, flying into Amsterdam:** apply to the Netherlands."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you apply to the wrong country, the consulate returns the file, refunds the visa fee and tells you where to apply, and you lose time and the VFS fee. At the border, you may have to show the documents you used to get the visa. The missions call it **very important** that, for the first trip on a visa, it was issued by your main destination."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Do not shift nights to Germany only to file there. Some applicants book extra German hotel nights, then cancel them after the visa. If the travel history later shows a different trip, that can hurt your next application, and that is the one that leads to multi-year visas."
+      },
+      {
+        "type": "h2",
+        "text": "Germany visa processing time from India and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "The missions say it can take an **average of 15 days** to process a Schengen visa after the application reaches the consulate. The clock does not start at VFS. Delivery from a VFS centre to Mumbai can take up to 6 working days. EU rules allow up to **45 calendar days** in individual cases."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest:** six months before the trip.",
+          "**Latest:** the FAQ says at least 15 calendar days before travel and recommends three weeks. The tourism checklist says 15 working days. Go by the stricter reading.",
+          "**Too close to travel:** if you plan to travel within 15 calendar days of the file reaching the visa section, the missions say they will return it unprocessed and refund the visa fee, except in exceptional circumstances.",
+          "**Current waits:** the Mumbai consulate currently states that high volumes mean Schengen processing may take longer than usual. Around Easter, Diwali and Christmas, the FAQ warns of longer processing times.",
+          "**Appointments:** the missions say slots book out quickly and they keep opening more, so check the VFS system regularly. They publish no average wait for appointments."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Neither the mission nor VFS can expedite a Schengen visa, and a booked flight does not speed things up."
+      },
+      {
+        "type": "h2",
+        "text": "Germany visa rejection rate for Indians: the 2025 numbers"
+      },
+      {
+        "type": "p",
+        "text": "In 2025, German consulates in India received **153,179** Schengen visa applications, issued **136,674** visas and did not issue **16,126**, according to the European Commission's 2025 visa statistics by consulate. The Commission calculates the not-issued rate as visas not issued divided by all decisions (visas issued, including limited-validity visas, plus visas not issued). On that basis Germany's rate in India was **10.5%**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Mumbai consulate:** 130,562 applications, 116,183 visas issued, 14,055 not issued, a rate of **10.8%**. Mumbai handled about 85% of Germany's applications in India.",
+          "**All Schengen countries in India:** 1,153,748 applications and a not-issued rate of **15.8%**.",
+          "**Germany's rank:** third lowest of the 29 Schengen countries with consulates in India, after Denmark (7.1%) and Belgium (7.8%), and the lowest of the five busiest.",
+          "**For comparison:** the Netherlands' rate in India was 20.7% and Austria's 22.1%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Read these numbers with care. They cover every short-stay purpose, not only tourism, and the dataset does not say why visas were not issued. A country's rate also reflects who applies to it, such as first-time versus repeat travellers. Your own file decides your result."
+      },
+      {
+        "type": "h2",
+        "text": "Germany visa rejected: what to do now that remonstration is gone"
+      },
+      {
+        "type": "p",
+        "text": "You have two options: **apply again**, or **file a lawsuit at the Administrative Court of Berlin** within one month of receiving the refusal. The old remonstration, a free request to the mission to reconsider, no longer exists. The German missions say it was abolished in India from **1 January 2024**, after a pilot, and worldwide from 1 July 2025."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Reapply:** there is no cooling-off period. Read the reason in the refusal letter, which the visa section will not explain further, then fix the file against the checklist. The missions say most rejections come from incomplete or unverifiable documents.",
+          "**Lawsuit:** filed at the Verwaltungsgericht Berlin, in German, with the parties' addresses, the reasons and a copy of the decision. No lawyer is required. It cannot be filed by email: use post, fax or the court's electronic inbox (EGVP) with a digital signature.",
+          "**Cost of a lawsuit:** the missions state €483 at the moment (about ₹49,200), paid upfront by the plaintiff whatever the outcome."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For most tourists a fresh, complete application is faster and cheaper than court."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry Germany visas and the 2024 cascade"
+      },
+      {
+        "type": "p",
+        "text": "Indian nationals living in India can earn longer visas through the EU's 2024 cascade for India. The German missions say they will issue a **two-year visa (C2)** if you have **two lawfully used Schengen visas within the past three years**, and after that you can qualify for a **five-year visa (C5)**. For travellers it deems trustworthy, the visa section may even issue up to a C5 straight away."
+      },
+      {
+        "type": "p",
+        "text": "This is not an entitlement, and the missions say so plainly. If your passport is not valid long enough, you get the next lower category, because a visa must end three months before the passport expires. In practice, Germany issues mostly multiple-entry visas in India: in 2025, **99.6%** of the visas issued by German posts in India were multiple-entry, according to the Commission's data."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks the main-destination question first, then builds your Germany file against the missions' tourism checklist: a covering letter, bookings that match night for night, an approved insurer and the right financial documents. If you were refused, we review the refusal letter and advise whether to reapply. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 21 November 2026. We checked the German missions in India (Schengen visa, fees, tourism checklist, FAQ, refusal and legal action pages, and the remonstration notice), the Mumbai consulate page, the VFS Germany India page and the European Commission's 2025 Schengen visa statistics. Before you book, re-check the fee table on india.diplo.de, the VFS Germany India site for fees and slots, and the Mumbai consulate's processing notices."
+      }
+    ],
+    "sources": [
+      {
+        "label": "German Missions in India: Schengen Visa",
+        "url": "https://india.diplo.de/in-en/service/2633538-2633538"
+      },
+      {
+        "label": "German Missions in India: Visa fees for Schengen Visa",
+        "url": "https://india.diplo.de/in-en/service/1984596-1984596"
+      },
+      {
+        "label": "German Missions in India: Checklist for a Schengen visa for Tourism",
+        "url": "https://india.diplo.de/in-en/2674158-2674158"
+      },
+      {
+        "label": "German Missions in India: Visa FAQs",
+        "url": "https://india.diplo.de/in-en/service/schengen-visa-faq-2610538"
+      },
+      {
+        "label": "German Missions in India: My visa application got rejected. What can I do?",
+        "url": "https://india.diplo.de/in-en/service/2680032-2680032"
+      },
+      {
+        "label": "German Missions in India: Information on legal actions for visa",
+        "url": "https://india.diplo.de/in-en/service/2697638-2697638"
+      },
+      {
+        "label": "German Missions in India: Abolition of the Remonstration Procedure",
+        "url": "https://india.diplo.de/in-en/abolition-of-remonstration-procedure-2727202"
+      },
+      {
+        "label": "German Missions in India: German Consulate General Mumbai",
+        "url": "https://india.diplo.de/in-en/ueber-uns/mumbai"
+      },
+      {
+        "label": "VFS Global: Germany visa information, Consulate General Mumbai",
+        "url": "https://www.vfsglobal.com/one-pager/germany/india/mumbai/english/"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas (2025 consulates dataset)",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      }
+    ]
+  },
+  {
     "slug": "italy-visa-for-indians-2026",
     "title": "Italy Visa for Indians 2026: Fees in Rupees, Documents, Appointments and Processing Time",
     "metaTitle": "Italy Visa for Indians 2026: Fees, Slots & Documents | Travlys",
@@ -754,9 +1399,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=1600&h=900&fit=crop",
     "related": [
+      "easiest-schengen-visa-for-indians-2026",
       "italy-visa-for-indians-2026",
-      "schengen-visa-documents-checklist-2026",
-      "honeymoon-destinations-visa-free-for-indian-couples-2026-27"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -1808,9 +2453,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1623345805780-8f01f714e65f?w=1600&h=900&fit=crop",
     "related": [
+      "germany-tourist-visa-for-indians-2026",
       "schengen-visa-for-parents-from-india-2026",
-      "germany-opportunity-card-chancenkarte-for-indians-2026",
-      "schengen-visa-appointment-india-how-to-get-slot-2026"
+      "germany-opportunity-card-chancenkarte-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -4462,9 +5107,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&h=900&fit=crop",
     "related": [
+      "germany-tourist-visa-for-indians-2026",
       "germany-visa-for-parents-from-india-2026",
-      "japan-specified-skilled-worker-visa-for-indians-2026",
-      "germany-student-visa-for-indians-2027"
+      "japan-specified-skilled-worker-visa-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -13985,9 +14630,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=1600&h=900&fit=crop",
     "related": [
+      "easiest-schengen-visa-for-indians-2026",
       "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
-      "malaysia-visa-for-indians-2027-evisa",
-      "urgent-visa-from-india-fastest-options-2026"
+      "malaysia-visa-for-indians-2027-evisa"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -15077,9 +15722,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop",
     "related": [
+      "easiest-schengen-visa-for-indians-2026",
       "schengen-5-year-multiple-entry-visa-for-indians-2026",
-      "schengen-visa-appointment-india-how-to-get-slot-2026",
-      "schengen-visa-for-parents-from-india-2026"
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",

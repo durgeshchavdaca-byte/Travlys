@@ -888,6 +888,8 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'easiest-schengen-visa-for-indians-2026',
+  'germany-tourist-visa-for-indians-2026',
   'italy-visa-for-indians-2026',
   'spain-visa-for-indians-2026',
   'greece-visa-for-indians-2026',
@@ -1005,6 +1007,7 @@ function buildLlmsTxt() {
     '## Data you can cite',
     '',
     `- [Visa fees for Indians 2026, every country in one table](${pageUrl('/visa-fees')}): government fee, approximate rupee cost, processing time, stay and entry route, with the official source for each row. CSV: ${SITE_URL}/data/visa-fees-for-indians-2026.csv (CC BY 4.0, credit Travlys)`,
+    `- [Schengen visa refusal rates for Indians by country, 2025](${pageUrl('/blog/easiest-schengen-visa-for-indians-2026')}): all 28 visa-issuing Schengen countries ranked by not-issued rate at their consulates in India, with applications, visas issued and multiple-entry share, from the European Commission's 2025 statistics (India overall 15.8%; Denmark lowest at 7.1%)`,
     `- [Visa rule changes for Indians, 2026 tracker](${pageUrl('/blog/visa-rule-changes-for-indians-2026-tracker')}): dated list of every visa and entry rule change, updated monthly`,
     `- [Visa and travel news for Indians](${pageUrl('/travel-news')}): dated feed of visa and entry changes, newest first, each with its official source (updated ${NEWS_UPDATED})`,
     '',
