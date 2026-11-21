@@ -8,6 +8,689 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "netherlands-visa-for-indians-2026",
+    "title": "Netherlands Visa for Indians 2026: Cost, Processing Time, Documents and Tracking",
+    "metaTitle": "Netherlands Visa for Indians 2026: Cost, Time & Docs | Travlys",
+    "metaDescription": "Netherlands visa for Indians: €90 fee (about ₹9,170) plus VFS fee, 18 to 21 days processing, 90-day stay. Ahmedabad VFS, documents, tracking and refusals.",
+    "excerpt": "Indians visiting the Netherlands need a Schengen C visa: €90 plus a VFS fee, filed at VFS centres including Ahmedabad and decided in 18 to 21 days. The official checklist, tracking, 2025 refusal numbers and the objection route.",
+    "date": "2026-11-22",
+    "updated": "2026-11-22",
+    "readMinutes": 13,
+    "category": "Schengen visas",
+    "tags": [
+      "Netherlands",
+      "Schengen visa",
+      "Netherlands visa fees",
+      "VFS Ahmedabad",
+      "Visa tracking",
+      "Visa refusal"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?w=1600&h=900&fit=crop",
+    "related": [
+      "france-visa-for-indians-2026",
+      "easiest-schengen-visa-for-indians-2026",
+      "schengen-visa-refused-appeal-reapply-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Netherlands visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Netherlands visa fees for Indians in rupees?",
+        "a": "The Netherlands Schengen visa fee is €90 for adults, about ₹9,170 at the 20 November 2026 ECB rate, and €45 for children aged 6 to 11, about ₹4,580. Children under 6 pay nothing. VFS adds a service fee that varies by centre: ₹1,785 in Ahmedabad and ₹1,890 in Mumbai. You can pay in rupees by cash or card, and VFS also takes UPI. Nothing is refunded if the visa is refused."
+      },
+      {
+        "q": "How many days does Netherlands visa take for Indians?",
+        "a": "NetherlandsWorldwide currently gives 18 to 21 calendar days for a Schengen visa, and warns that peak season may make it longer. Some applications take up to 45 calendar days, for example when extra documents are needed. The clock starts when the ministry's Consular Service Organisation receives your file, not on your VFS appointment date. Apply up to 6 months and at least 15 calendar days before travel. Nobody can expedite a file."
+      },
+      {
+        "q": "Netherlands visa documents for Indians?",
+        "a": "You need the online application form with its unique code, a passport under 10 years old with 2 blank pages, a cover letter, hotel bookings for the whole trip, a flight reservation and insurance with €30,000 cover. Show funds with 3 months of stamped bank statements or 2 years of ITRs. Employees add a contract, leave letter and 3 payslips. Self-employed applicants add GST registration and business statements. VFS takes your photo."
+      },
+      {
+        "q": "How to track Netherlands visa application from India?",
+        "a": "Track it online on the VFS Global Netherlands India site under 'Track your application', using the reference number on your VFS invoice or receipt and your last name. NetherlandsWorldwide says this is the only way to track status, and that neither it nor the embassy can give updates. You get an email when the decision returns to the centre, but it does not say whether the visa was granted. Courier deliveries can be tracked on Blue Dart."
+      },
+      {
+        "q": "Can I visit other Schengen countries with a Netherlands visa?",
+        "a": "Yes. A Netherlands Schengen visa marked valid for the Schengen States lets you travel to the other Schengen countries, such as France, Belgium or Germany, within its validity dates. Your total stay cannot exceed 90 days in any 180-day period. But the Netherlands must be your main destination: the country where you spend the longest. If the stays are equal and the purpose is the same, apply to the country where you first enter Schengen."
+      },
+      {
+        "q": "Netherlands visa rejected, what to do?",
+        "a": "You can lodge a free objection (bezwaar) with the IND within 4 weeks, or submit a new application. The objection is written in English, Dutch, German or French, sent by post to IND Visadienst in Ter Apel or by secure email, with a copy of the decision and the missing documents. The IND has 6 weeks to decide, extendable by 6. For a trip soon, a corrected new application is usually faster."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Planning Amsterdam or the tulip fields and worried about refusal? Indians need a **Schengen short-stay (C) visa** for the Netherlands: a **€90** visa fee (about ₹9,170), a VFS service fee of **₹1,785** in Ahmedabad, a stay of up to **90 days in any 180**, and a current processing time of **18 to 21 calendar days**. In 2025, Dutch posts in India did not issue about **20.7%** of applications."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (C) visa. **Stay:** up to 90 days in any 180-day period. **Visa fee:** €90 adult (about ₹9,170); €45 for children aged 6 to 11 (about ₹4,580); free under 6. **VFS service fee:** ₹1,785 in Ahmedabad, ₹1,890 in Mumbai; it varies by centre. **Where to apply:** any of 12 VFS Global centres in India, including Ahmedabad, Mumbai and Pune. **Who decides:** the Dutch Ministry of Foreign Affairs' Consular Service Organisation (CSO). **Processing:** 18 to 21 calendar days now, up to 45 in some cases. **Apply:** up to 6 months and at least 15 calendar days before travel. **Insurance:** at least €30,000 medical cover. **If refused:** an objection (bezwaar) to the IND within 4 weeks, or a new application."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa for Indian passport holders: which visa do you need?"
+      },
+      {
+        "type": "p",
+        "text": "For a holiday, a family visit or a business trip of up to 90 days, you need a **Schengen visa** for the Netherlands. NetherlandsWorldwide, the Dutch government's official portal, says it lets you travel to the Netherlands or another Schengen country and stay up to 90 days in any 180-day period. The Dutch Ministry of Foreign Affairs decides the visa's validity and number of entries from your travel plans."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa for Indians cost in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The visa fee is set in euros. NetherlandsWorldwide's consular fees list for India (2026) shows:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults and children aged 12 and over:** €90, about ₹9,170.",
+          "**Children aged 6 to 11:** €45, about ₹4,580.",
+          "**Children under 6:** free.",
+          "**VFS service fee:** ₹1,785 at the Ahmedabad centre and ₹1,890 at Mumbai, per the VFS centre pages. The general VFS India page quotes ₹1,855 including GST. You pay it even when the visa fee is waived.",
+          "**Payment:** the visa fee can be paid in Indian rupees in cash or by card. VFS also accepts UPI.",
+          "**Refunds:** none. The visa fee and VFS charges are not refunded if the visa is refused."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Rupee figures use the European Central Bank rate of 20 November 2026 (€1 = ₹101.85), so the amount on the day may differ slightly. For one adult in Ahmedabad, budget roughly ₹11,000 before insurance and extras."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for a Netherlands visa from Gujarat and Maharashtra"
+      },
+      {
+        "type": "p",
+        "text": "You apply through **VFS Global**, not at the embassy. NetherlandsWorldwide lists 12 VFS centres in India: **Ahmedabad, Bangalore, Chandigarh, Chennai, Cochin, Hyderabad, Jalandhar, Kolkata, Lucknow, Mumbai, Pune and New Delhi**. Anyone living in India can submit at these centres. The Dutch pages set no state-wise jurisdiction for Schengen visas, so families in Surat or Rajkot can use Ahmedabad, or Mumbai and Pune if Ahmedabad has no slot."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**VFS Ahmedabad:** Ground Floor, Shree Balaji Agora Mall, between Tapovan and Bhat Circle, Sardar Patel Ring Road, Motera, Ahmedabad 382424. Submission Monday to Friday, 9:00 to 15:00.",
+          "**Who decides:** your file is processed by the Ministry of Foreign Affairs' Consular Service Organisation (CSO), not by the Mumbai consulate.",
+          "**Appointments:** book online at VFS, one appointment per person. The Dutch government asks applicants to book the slot themselves rather than through an intermediary."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you are 12 or older and gave fingerprints for a Schengen visa in the past 59 months, someone you authorise can submit your file."
+      },
+      {
+        "type": "h2",
+        "text": "Which Schengen country to apply to: Amsterdam with Paris or Brussels"
+      },
+      {
+        "type": "p",
+        "text": "Apply to the Netherlands only if it is your **main destination**. NetherlandsWorldwide sets the order: first, the country where you stay longest. If the time is equal, the country of your main purpose. If time and purpose are both equal, the country where you first enter Schengen. Examples for typical Indian itineraries:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**5 nights in Amsterdam, 3 nights in Paris:** apply to the Netherlands.",
+          "**3 nights in Amsterdam, 4 nights in Paris:** apply to France, even if you fly into Amsterdam.",
+          "**3 nights in Amsterdam, 3 nights in Brussels, both holiday, flying into Amsterdam:** apply to the Netherlands, your first point of entry.",
+          "**Tulip season trip:** Keukenhof, near Lisse, is open from 18 March to 9 May 2027. A week of Keukenhof and Amsterdam with a day in Brussels is a Netherlands application."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Count nights, not sightseeing days. Your hotel bookings should match your cover letter and itinerary night for night. A file that says '5 nights Amsterdam' but holds only three nights of Dutch hotels invites the 'purpose and conditions of stay not justified' ground."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa documents for Indians: the official tourism checklist"
+      },
+      {
+        "type": "p",
+        "text": "NetherlandsWorldwide publishes a **Checklist: Applying for a Schengen visa in India for tourism**. You sign a declaration at VFS that an incomplete application may be rejected without a refund. Documents for every applicant:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application form** filled online and printed with its unique code, signed. Handwritten forms are not accepted.",
+          "**Passport** not more than 10 years old, with at least 2 blank visa pages, valid 3 months after you leave Schengen, and signed. Add copies of the biometric page, last page and old Schengen stamps.",
+          "**Photo:** VFS takes a digital photo at the appointment, so you need not bring one.",
+          "**Cover letter** with the reason for the visit, the length of stay, fellow travellers, and your transport and accommodation.",
+          "**Accommodation** for the whole trip, and proof for each country if you visit more than one.",
+          "**Financial means:** your personal bank statements for the past 3 months, stamped and signed by the bank, or Indian income tax returns for the last 2 tax years.",
+          "**Travel reservation** to and from Schengen in your name, plus your travel plans. A paid ticket is not required. For an organised tour, the tour booking.",
+          "**Travel medical insurance** valid in all Schengen countries for the whole stay, with at least €30,000 (about ₹30.6 lakh) of medical cover, including repatriation. VFS links to an approved list of insurers in India."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Proof of ties to India, by applicant type"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Employed:** employment contract, a recent leave approval letter from your employer, and payslips for the past 3 months.",
+          "**Self-employed or company owner:** company registration certificate with the GST number, business bank statements, and your income tax return with a verified barcode.",
+          "**Retired:** pension statements for the past 3 months, plus proof of other money or property, such as business income, a house or land.",
+          "**Student:** a statement from your school, college or university.",
+          "**None of these:** proof that you are a caregiver, own property, or have children in school in India."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A minor travelling with one parent needs a birth certificate extract and notarised consent from the other parent. The ministry may ask for an interview or extra documents, so write your email and phone clearly on the form."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa processing time for Indians and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "NetherlandsWorldwide currently gives **18 to 21 calendar days** for a Schengen visa, with a warning that it is peak season and times may be longer. The clock starts when the CSO receives your documents, not on your VFS date. Some applications take **up to 45 calendar days**, for example when more review or documents are needed."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest:** 6 months before your trip.",
+          "**Latest:** at least 15 calendar days before travel, which is tight at current timings.",
+          "**Conflicting figures:** VFS still quotes an average of 15 days. Plan on the ministry's 18 to 21.",
+          "**Christmas and New Year trips:** if you have not applied yet, you are already inside the 45-day window. Apply now and avoid non-refundable bookings until the decision.",
+          "**Tulip season, March to May 2027:** apply in January or February, well before Keukenhof opens on 18 March."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa tracking: how to check your status"
+      },
+      {
+        "type": "p",
+        "text": "You track a Netherlands visa application **online through VFS Global**, using the reference number on the invoice or receipt from the centre. NetherlandsWorldwide calls this the only way to track your status, and says neither it nor the embassy can give more information or speed things up."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Step 1:** go to the VFS Global Netherlands India site and open 'Track your application'.",
+          "**Step 2:** enter your reference number and your last name.",
+          "**Step 3:** watch your email. It tells you the passport is back, not whether the visa was granted.",
+          "**Courier:** if you chose delivery, VFS says you can track it on the Blue Dart site with your VFS reference number, entered without slashes.",
+          "**No news after 45 days:** contact the VFS centre where you applied."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "When you collect the passport, check your name, dates and number of entries. Report errors to VFS at once, or to the Dutch embassy in New Delhi if you notice later."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa rejection rate for Indians: the 2025 numbers"
+      },
+      {
+        "type": "p",
+        "text": "Dutch posts in India received **97,650** Schengen visa applications in 2025, issued **77,057** visas and did not issue **20,156**, according to the European Commission's 2025 visa statistics by consulate. The not-issued rate is visas not issued divided by all decisions (visas issued, including limited-validity visas, plus visas not issued). On that basis the Netherlands' rate in India was **20.7%**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**All Schengen countries in India:** 1,153,748 applications and a not-issued rate of **15.8%**.",
+          "**Mumbai:** the Commission records almost all Dutch applications in India under New Delhi. Mumbai shows only 2 applications, both issued, so there is no meaningful Mumbai rate.",
+          "**For comparison:** Germany 10.5%, France 15.3%, Switzerland 13.6% and Austria 22.1% in India.",
+          "**Multiple-entry share:** 55.1% of the visas Dutch posts issued in India were multiple-entry."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These figures cover every short-stay purpose and give no reasons. Your own file matters more than the average."
+      },
+      {
+        "type": "h2",
+        "text": "Netherlands visa rejected: the objection (bezwaar) and other options"
+      },
+      {
+        "type": "p",
+        "text": "If you are refused, you can **lodge an objection with the Immigration and Naturalisation Service (IND) within 4 weeks**, or simply apply again. The refusal letter states the reasons. Common grounds on the EU standard refusal form (Annex VI of the Visa Code) include:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "the purpose and conditions of the stay were not justified;",
+          "no proof of sufficient means for the stay and the return;",
+          "reasonable doubts about the authenticity of documents or the truth of their contents;",
+          "reasonable doubts about your intention to leave Schengen before the visa expires;",
+          "no proof of adequate and valid travel medical insurance."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "How the objection works"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Deadline:** NetherlandsWorldwide counts 4 weeks from the date at the bottom of the decision. The IND says the period starts 1 day after the decision is announced. Use the earlier reading.",
+          "**How:** a written objection by post to IND Visadienst, Postbus 2, 9560 AA Ter Apel, or by the IND's secure email. Write in English, Dutch, German or French.",
+          "**Contents:** your name, date of birth, address, the date, why the decision is wrong, your signature, a copy of the decision and any missing documents.",
+          "**Family visits:** your sponsor in the Netherlands can object online for you.",
+          "**Cost and time:** objecting is free. The IND has 6 weeks to decide, which it can extend by 6 more.",
+          "**If it succeeds:** visit the VFS centre at least a week after the IND letter. You pay the VFS service charge again but not the visa fee, and must enter within 6 months.",
+          "**If it fails:** you can apply to court for judicial review, or file a new application."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a trip soon, NetherlandsWorldwide says a new application is the better route. You pay the fees again, so fix every reason in the letter first."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Read the ticked boxes on the refusal letter before deciding anything. If the ground was missing bank statements or a weak cover letter, a corrected new file is usually quicker than an objection. If you believe the ministry misread a strong file, the free objection is worth filing within the deadline."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry Netherlands visas and the 2024 cascade for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Since April 2024, the EU's visa 'cascade' for India gives Indian nationals living in India a route to longer visas. The EU Delegation to India says you can get a **two-year multiple-entry visa** after obtaining and lawfully using **two visas within the previous three years**, normally followed by a **five-year visa** if your passport has enough validity left."
+      },
+      {
+        "type": "p",
+        "text": "It depends on travel history and passport validity, so use each visa as planned and keep old passports with their Schengen stamps."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team settles the main-destination question first, then builds your Netherlands file against the official India tourism checklist: a cover letter, hotel bookings that match night for night, the right insurance and financial papers for your situation. If you were refused, we review the letter and advise on an objection or a fresh application. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 22 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 22 November 2026. We checked NetherlandsWorldwide's India visa pages, the IND objection page, VFS Global's Netherlands India pages, the EU Delegation to India's cascade notice and the European Commission's 2025 visa statistics. Before you book, re-check the processing-time warning on netherlandsworldwide.nl and the service fee on your VFS centre's page."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NetherlandsWorldwide: Applying for a Schengen visa for the Netherlands in India",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-india"
+      },
+      {
+        "label": "NetherlandsWorldwide: Consular fees in India",
+        "url": "https://www.netherlandsworldwide.nl/consular-fees/india"
+      },
+      {
+        "label": "NetherlandsWorldwide: Checklist: Applying for a Schengen visa in India for tourism",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/checklist-schengen-visa-tourism/india"
+      },
+      {
+        "label": "NetherlandsWorldwide: How long does it take to get a visa for the Netherlands?",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/waiting-time-after-visa-application"
+      },
+      {
+        "label": "NetherlandsWorldwide: How can I track the status of my visa application for the Netherlands?",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/visa-application-status"
+      },
+      {
+        "label": "NetherlandsWorldwide: I will be visiting multiple Schengen countries. For which country should I apply for a visa?",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/visiting-more-than-one-schengen-country"
+      },
+      {
+        "label": "NetherlandsWorldwide: I have not been granted a visa for the Netherlands. What should I do?",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/objecting-refuse-application"
+      },
+      {
+        "label": "IND: Object to decision on Schengen or transit visa",
+        "url": "https://ind.nl/en/short-stay/object-to-decision-on-schengen-or-transit-visa"
+      },
+      {
+        "label": "VFS Global: Attend a centre from India to The Netherlands",
+        "url": "https://visa.vfsglobal.com/ind/en/nld/attend-centre"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas (2025 consulates dataset)",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      }
+    ]
+  },
+  {
+    "slug": "austria-visa-for-indians-2026",
+    "title": "Austria Visa for Indians 2026: Cost, Documents, Processing Time and Refusals",
+    "metaTitle": "Austria Visa for Indians 2026: Cost, Documents | Travlys",
+    "metaDescription": "Austria visa for Indians: €90 fee (₹9,810 at VFS) plus ₹2,479 service charge, decided in New Delhi, VFS in Ahmedabad. Documents, processing time, refusals.",
+    "excerpt": "Indians visiting Austria need a Schengen C visa: €90 plus a ₹2,479 VFS charge, decided by the embassy in New Delhi. The official checklist, timing for winter trips, the 2025 refusal numbers and how to appeal.",
+    "date": "2026-11-22",
+    "updated": "2026-11-22",
+    "readMinutes": 12,
+    "category": "Schengen visas",
+    "tags": [
+      "Austria",
+      "Schengen visa",
+      "Austria visa fees",
+      "VFS Ahmedabad",
+      "Visa refusal",
+      "Multiple-entry visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=1600&h=900&fit=crop",
+    "related": [
+      "switzerland-visa-for-indians-2026",
+      "germany-tourist-visa-for-indians-2026",
+      "easiest-schengen-visa-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Austria visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Austria visa fees for Indians in rupees?",
+        "a": "The Austria tourist visa fee is €90 for adults, which VFS currently collects as ₹9,810, and €45 for children aged 6 to 11, collected as ₹4,905. Children under 6 pay no visa fee. VFS adds a service charge of ₹2,479 per applicant, including GST, so one adult pays about ₹12,289 at the centre. VFS says the rupee visa fee follows the exchange rate and can change at each month end. Neither fee is refunded if the visa is refused."
+      },
+      {
+        "q": "Austria visa for Indians how many days?",
+        "a": "An Austria Schengen visa allows a stay of up to 90 days in any 180-day period, and the embassy decides how many days to grant based on your trip. It is meant for tourism, business or family visits without work. Stays of 91 days to six months need a national D visa instead. Neither a C visa nor a D visa can be extended or renewed inside Austria, so plan the length of your trip before you apply."
+      },
+      {
+        "q": "Austria visa documents for Indians?",
+        "a": "The Austrian Embassy's tourism checklist asks for the signed application form, a passport issued within 10 years with two blank pages, one ICAO photo, a cover letter, return flight reservations, hotel bookings and insurance with €30,000 cover. Add three months' salary certificates, an employment contract and a company NOC for leave, original bank statements for three months and ITRs with barcode for two years. Self-employed and retired applicants add business or pension proof instead of salary papers."
+      },
+      {
+        "q": "Austria visa processing time in India?",
+        "a": "The Austrian Embassy's checklist says processing can take up to 15 working days after the embassy receives your application, and up to 45 calendar days when it needs more checks. Time for the passport to travel from a VFS centre to New Delhi comes on top. The embassy currently warns of longer waits for appointments and processing because of very high demand. It advises applying at least one month before travel, and up to six months ahead is allowed."
+      },
+      {
+        "q": "Can I visit other Schengen countries with Austria visa?",
+        "a": "Yes. An Austria Schengen visa lets you travel to the other Schengen states, such as Germany, Switzerland, Italy and France, as long as the visa has no territorial restriction and you meet the entry conditions. Your total stay across all of them must stay within the days and dates on the visa. You should still apply to Austria only if Austria is your main destination, meaning the country where you spend the most days."
+      },
+      {
+        "q": "Austria visa rejection rate for Indians?",
+        "a": "Austria did not issue about 22.1% of the Schengen visa applications it decided in India in 2025, according to the European Commission's statistics. The embassy in New Delhi received 48,761 applications and issued 37,117 visas, plus 69 visas with limited territorial validity, while 10,543 were not issued. The average across all Schengen countries in India was 15.8%. These figures cover every short-stay purpose, and the dataset does not record refusal reasons."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Planning Vienna, Salzburg or Hallstatt and worried about refusal? Indians need a **Schengen short-stay (C) visa** for Austria: a **€90** visa fee (₹9,810 at VFS), a VFS service charge of **₹2,479**, and a stay of up to **90 days in any 180**. The **Austrian Embassy in New Delhi** decides every application from India. In 2025 it did not issue about **22.1%** of them."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (C) visa, purpose tourism. **Stay:** up to 90 days in any 180-day period. **Visa fee:** €90 adult (₹9,810 at VFS); €45 for children aged 6 to 11 (₹4,905); free under 6. **VFS service charge:** ₹2,479 per applicant, including GST. **Who decides:** the Austrian Embassy in New Delhi, for all of India. **Where to submit:** VFS Global centres, including Ahmedabad, Mumbai, Pune and Goa. **Processing:** up to 15 working days after the file reaches the embassy, up to 45 calendar days in some cases. **Apply:** up to 6 months ahead; the embassy advises at least one month before travel. **Insurance:** at least €30,000 cover. **2025 not-issued rate in India:** 22.1%."
+      },
+      {
+        "type": "h2",
+        "text": "Austria visa for Indians: which visa do you need?"
+      },
+      {
+        "type": "p",
+        "text": "For a holiday or family visit of up to 90 days you need the **Schengen visa C**. The embassy describes it as a visa for tourism, business or visits without gainful employment, for a maximum stay of 90 days per 180 days. It also lets you travel in the other Schengen states, so days in Munich or Zurich on the same trip count towards your 90."
+      },
+      {
+        "type": "p",
+        "text": "Stays of 91 days to six months need a national **D visa**, which costs €195. The embassy's checklist is clear that neither visa can be extended or renewed in Austria. Choose the length of your stay before you apply."
+      },
+      {
+        "type": "h2",
+        "text": "Austria visa cost for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The visa fee is set in euros by EU law and collected in rupees by VFS. The VFS Austria page for India lists:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults:** €90, collected as ₹9,810.",
+          "**Children aged 6 to 11:** €45, collected as ₹4,905. VFS and the embassy write \"6 to 12\"; the EU Visa Code sets the band as from age six and below age 12.",
+          "**Children under 6:** no visa fee.",
+          "**VFS service charge:** ₹2,479 per applicant, including 18% GST.",
+          "**Optional:** VFS lists a hold-at-location facility at ₹807 per passport.",
+          "**Payment:** cash, demand draft in favour of VFS Global Services Pvt. Ltd., Visa, Mastercard, RuPay or UPI.",
+          "**Refunds:** VFS says the visa fee and its service fee are not refunded if the visa is refused."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For one adult, the fixed cost at the centre is about **₹12,289**, before insurance, photos and courier. A family of two adults and one child aged 8 pays about ₹31,962 in visa and service fees. VFS notes that the rupee visa fee follows the current exchange rate and can change at every month end, so pay what VFS asks on the day."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for an Austria visa from Gujarat and Maharashtra"
+      },
+      {
+        "type": "p",
+        "text": "The **Austrian Embassy in New Delhi** handles visas for India. It has outsourced the receipt of applications and the return of passports to **VFS Global**, and says that every application is still assessed by the embassy only. Austria has no visa-issuing consulate in Mumbai: the 2025 EU data lists New Delhi as Austria's only consulate in India."
+      },
+      {
+        "type": "p",
+        "text": "VFS lists 19 Austria visa application centres for India and Bhutan. For western India they are **Ahmedabad** (Monday to Friday, 09:00 to 17:00), **Mumbai**, **Pune** and **Goa**. Families in Surat, Vadodara or Rajkot can use Ahmedabad. You book the appointment on the VFS website, then submit at the centre in person, because your fingerprints are taken unless they were recorded for a Schengen visa in the last 59 months. Children under 12 do not give fingerprints."
+      },
+      {
+        "type": "h2",
+        "text": "Austria with Switzerland or Germany: which country do you apply to?"
+      },
+      {
+        "type": "p",
+        "text": "Apply to Austria only if Austria is your **main destination**. The EU Visa Code defines it by the length of stay, counted in days, or the purpose of stay. If no main destination can be found, you apply to the country whose external border you cross first. Examples for typical Indian itineraries:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**5 nights in Vienna and Salzburg, 3 nights in Lucerne:** Austria has the most nights, so apply to Austria.",
+          "**4 nights in Interlaken and Zurich, 3 nights in Innsbruck:** apply to Switzerland. Our Switzerland visa guide covers that file.",
+          "**3 nights in Munich, 4 nights across Salzburg, Hallstatt and Vienna:** apply to Austria.",
+          "**4 nights in Vienna, 4 nights in Munich, flying into Munich:** the nights are equal and you enter Schengen in Germany, so apply to Germany.",
+          "**Same split, flying into Vienna:** apply to Austria."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Day trips matter less than nights. A day from Salzburg to Hallstatt is still an Austria day. What the embassy checks is whether your cover letter, hotels and flights describe a trip in which Austria is the main destination."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Do not move nights into Austria on paper only to file there. If your hotel bookings show five nights in Vienna but you later spend most of the trip in Switzerland, that history follows you to your next Schengen application. Plan the route first, then pick the country."
+      },
+      {
+        "type": "h2",
+        "text": "Austria visa documents for Indians: the embassy's checklist"
+      },
+      {
+        "type": "p",
+        "text": "The embassy publishes a **Visa for Tourism checklist**, updated August 2026, and asks for the documents in the same order. English documents do not need a German translation. Every applicant needs:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application form** filled in English or German and signed by you.",
+          "**Passport** issued within the last 10 years, valid at least three months after you leave Schengen, with at least two blank pages and no handwritten changes on the data page.",
+          "**One photograph** meeting ICAO standards (colour, 35x45 mm).",
+          "**Cover letter** giving the purpose, duration, names of people travelling with you, transport and accommodation.",
+          "**Round-trip flight reservation**, plus proof of onward travel inside Austria or the EU.",
+          "**Hotel reservations** or a tour organiser's letter covering the whole trip.",
+          "**Travel medical insurance** valid in all Schengen states for the whole stay, with at least €30,000 cover (about ₹32.7 lakh at the VFS rate). VFS links a list of Schengen-approved insurers.",
+          "**Copies of your passport:** data pages, last page, and pages with earlier visas. Add Schengen visas and stamps from old passports.",
+          "**Contact details:** a working email address, mobile number and business card."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Proof of work and money, by applicant type"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Employed:** salary certificates for the last three months, employment contract and a company NOC for leave. Put your official email address, or HR's, on the application form, or attach a business card showing it.",
+          "**Self-employed:** GST certificate, Udyam (Udyog Aadhaar) memorandum, Import Export Code or Certificate of Incorporation.",
+          "**Retired:** pension statements for the last three months and/or proof of regular income from property or business.",
+          "**Students:** proof of enrolment at school, college or university.",
+          "**Everyone:** original bank statements for the last three months, which VFS says must be stamped and signed by the bank, and ITRs with barcode for the last two years.",
+          "**Minors:** a notarised NOC from the parent not travelling, or from both parents if the child travels alone, plus copies of the parents' passports."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If a relative in Austria is sponsoring you, the embassy has a separate visitor checklist. It adds an invitation, proof of the host's legal residence and, if applicable, an electronic declaration of sponsorship (EVE) that the host obtains from the aliens police in their district."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Use an email address and phone number you check daily. The embassy's checklist says it will communicate only through the contact details on your form. A travel agent's email, or a child's number abroad that nobody watches, can mean a request for extra documents goes unanswered."
+      },
+      {
+        "type": "h2",
+        "text": "Austria visa processing time and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "The checklist says processing can take **up to 15 working days** after the embassy receives the application, and up to **45 calendar days** where further scrutiny is needed. The time to move your passport from a VFS centre to New Delhi is extra. The embassy currently warns that, because of exceptionally high demand, both appointment waits and processing are longer than usual."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest:** six months before departure.",
+          "**Legal latest:** 15 calendar days before departure, under the EU Visa Code.",
+          "**Embassy cut-off:** if the embassy receives your file less than 15 working days before travel, it returns the application and passport to VFS.",
+          "**Embassy advice:** apply at least one month before travel, and as early as possible in peak season.",
+          "**Status queries:** only after 15 working days, through your VFS centre or by email to the embassy's visa section."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For December and January, work backwards. For a flight on 24 December, 15 working days before is 3 December, and that is when the file must already be in New Delhi, not at the Ahmedabad counter. If you are reading this in late November for a Christmas trip, check VFS slots today. For January to March ski or honeymoon trips, book now."
+      },
+      {
+        "type": "h2",
+        "text": "Austria visa rejection rate for Indians: the 2025 numbers"
+      },
+      {
+        "type": "p",
+        "text": "In 2025 the Austrian Embassy in New Delhi received **48,761** Schengen visa applications, issued **37,117** visas plus **69** visas with limited territorial validity, and did not issue **10,543**, according to the European Commission's 2025 statistics by consulate. The Commission's not-issued rate is visas not issued divided by all decisions (visas issued, limited-validity visas and visas not issued). On that basis Austria's rate in India was **22.1%**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Mumbai figures:** none. Austria has no consulate in Mumbai in the dataset; all of its India decisions are counted under New Delhi.",
+          "**All Schengen countries in India:** 1,153,748 applications and a not-issued rate of **15.8%**.",
+          "**Neighbours on a typical route:** Germany 10.5%, Switzerland 13.6%, the Netherlands 20.7%.",
+          "**Multiple-entry share:** 28.4% of the visas Austria issued in India were multiple-entry, against 57.6% for all Schengen countries in India."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These figures cover every short-stay purpose, not only tourism, and the dataset does not say why visas were not issued. A higher rate is a reason to prepare carefully, not a reason to route your trip through another country."
+      },
+      {
+        "type": "h2",
+        "text": "Austria visa rejected: reasons and how to appeal"
+      },
+      {
+        "type": "p",
+        "text": "A refusal comes on the EU's standard form, which ticks one or more set reasons. The ones that matter most for tourists from India are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Justification for the purpose and conditions of the stay was not provided.",
+          "No proof of sufficient means of subsistence for the stay and the return.",
+          "The information on the purpose and conditions of the stay was not reliable.",
+          "Reasonable doubts about the authenticity of supporting documents or the truth of their contents.",
+          "Reasonable doubts about your intention to leave Schengen before the visa expires.",
+          "No proof of adequate and valid travel medical insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The embassy says a refused applicant can file a **Vorstellung** (a remedy lodged with the embassy itself) or a **complaint (Beschwerde) to the Federal Administrative Court (BVwG)**, and tells you to read the appeal information on the refusal form. Follow that form exactly, because it states which remedy applies, the deadline and where to send it."
+      },
+      {
+        "type": "p",
+        "text": "The BVwG says the deadline for a complaint against a decision is **generally four weeks**, that the exact deadline is in the decision's notice of remedies, and that complaints are normally lodged with the authority that decided, here the embassy, not with the court. No lawyer is required, but court filings are generally subject to a fee."
+      },
+      {
+        "type": "p",
+        "text": "You can also simply apply again. For most tourists, a new file that answers the ticked reason is faster than an appeal."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry Austria visas and the 2024 cascade for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Since April 2024 the EU has a visa cascade for Indian nationals living in India who apply in India. After you have **obtained and lawfully used two visas within the previous three years**, you can receive a **two-year multiple-entry visa**. That is normally followed by a **five-year visa**, if your passport has enough validity left."
+      },
+      {
+        "type": "p",
+        "text": "The cascade is not an entitlement, and in 2025 fewer than three in ten visas Austria issued in India were multiple-entry. If you want a longer visa, request multiple entries on the form, list your earlier Schengen visas, and attach copies of them."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Austria visa"
+      },
+      {
+        "type": "p",
+        "text": "Our team settles the main-destination question first, then builds your file against the embassy's August 2026 checklist: a cover letter that matches your bookings, the right financial proof for employed, self-employed or retired applicants, and a refusal review if you were turned down before. We work from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file for clients across India. Children abroad arranging a trip for parents can brief us on WhatsApp at +91 82009 18967."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 22 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Fees, checklists and processing times change. Before you book, re-check the Austrian Embassy New Delhi's visa and how-to-apply pages, its tourism checklist PDF, the VFS Global Austria India pages for the rupee fee and centre list, and the refusal form you receive for the appeal deadline."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Austrian Embassy New Delhi: How to apply?",
+        "url": "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/how-to-apply"
+      },
+      {
+        "label": "Austrian Embassy New Delhi: Visa",
+        "url": "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/visa"
+      },
+      {
+        "label": "Austrian Embassy New Delhi: Visa for Tourism checklist, updated August 2026 (PDF)",
+        "url": "https://www.bmeia.gv.at/fileadmin/user_upload/Vertretungen/New_Delhi/ENG/Visa_for_Tourism_Checklist_updated_AUG_2026.pdf"
+      },
+      {
+        "label": "Austrian Embassy New Delhi: Visa for Visitors with a Sponsorship (EVE) checklist (PDF)",
+        "url": "https://www.bmeia.gv.at/fileadmin/user_upload/Vertretungen/New_Delhi/ENG/Visa_for_Visitors_with_a_Sponsorship_EVE_Checklist_updated_AUG_2026.pdf"
+      },
+      {
+        "label": "VFS Global: Austria visa information for India",
+        "url": "https://visa.vfsglobal.com/one-pager/austria/india/english/"
+      },
+      {
+        "label": "VFS Global: Austria Visa Application Centres in India",
+        "url": "https://visa.vfsglobal.com/ind/en/aut/attend-centre"
+      },
+      {
+        "label": "Bundesverwaltungsgericht (Federal Administrative Court): Verfahrensablauf",
+        "url": "https://www.bvwg.gv.at/verfahren/Verfahrensablauf.html"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated 28.06.2024)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240628"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas (2025 consulates dataset)",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      }
+    ]
+  },
+  {
     "slug": "us-visa-documents-checklist-b1-b2-india-2026",
     "title": "US Visa Documents Checklist for B1/B2 from India (2026): Biometrics, Interview and What to Leave at Home",
     "metaTitle": "US Visa Documents Checklist B1/B2 India 2026 | Travlys",
@@ -820,9 +1503,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=1600&h=900&fit=crop",
     "related": [
+      "netherlands-visa-for-indians-2026",
       "schengen-visa-documents-checklist-2026",
-      "schengen-5-year-multiple-entry-visa-for-indians-2026",
-      "schengen-visa-appointment-india-how-to-get-slot-2026"
+      "schengen-5-year-multiple-entry-visa-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -1147,9 +1830,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1554072675-66db59dba46f?w=1600&h=900&fit=crop",
     "related": [
+      "austria-visa-for-indians-2026",
       "germany-visa-for-parents-from-india-2026",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-visa-refused-appeal-reapply-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -2558,9 +3241,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1600&h=900&fit=crop",
     "related": [
+      "austria-visa-for-indians-2026",
       "italy-visa-for-indians-2026",
-      "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
-      "schengen-visa-documents-checklist-2026"
+      "honeymoon-destinations-visa-free-for-indian-couples-2026-27"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -7799,9 +8482,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600&h=900&fit=crop",
     "related": [
+      "netherlands-visa-for-indians-2026",
       "spain-visa-for-indians-2026",
-      "france-visa-for-indians-2026",
-      "schengen-5-year-multiple-entry-visa-for-indians-2026"
+      "france-visa-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -30303,7 +30986,7 @@ export const BLOG_POSTS = [
     category: 'Schengen visas',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['italy-visa-for-indians-2026', 'switzerland-visa-for-indians-2026', 'schengen-5-year-multiple-entry-visa-for-indians-2026'],
+    related: ['netherlands-visa-for-indians-2026', 'italy-visa-for-indians-2026', 'switzerland-visa-for-indians-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
