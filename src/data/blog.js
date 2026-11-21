@@ -8,6 +8,702 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "germany-visa-for-parents-from-india-2026",
+    "title": "Germany Visa for Parents from India 2026: Schengen Visit, Verpflichtungserklärung and Longer Stays",
+    "metaTitle": "Germany Visa for Parents from India 2026 | Travlys",
+    "metaDescription": "Germany visa for parents from India: a Schengen visa allows 90 days in any 180 for a €90 fee. Documents, Verpflichtungserklärung, VFS and longer stays.",
+    "excerpt": "Indian parents visiting a son or daughter in Germany need a Schengen visa: 90 days in any 180, €90 each and €30,000 insurance. The documents, the Verpflichtungserklärung, which VFS centre to use, and the narrow family reunion routes for longer stays.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 12,
+    "category": "Visas for parents",
+    "tags": [
+      "Germany",
+      "Parents visa",
+      "Schengen visa",
+      "Verpflichtungserklärung",
+      "Family reunion",
+      "VFS Ahmedabad"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1623345805780-8f01f714e65f?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-for-parents-from-india-2026",
+      "germany-opportunity-card-chancenkarte-for-indians-2026",
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your parents' Germany visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Can my parents stay in Germany for 6 months?",
+        "a": "No, not on a visitor visa. A Schengen visa allows a maximum of 90 days in any 180-day period, and the German missions in India list no long-stay visa for visiting parents. A stay over 90 days needs a residence permit through family reunion, which is possible only in exceptional hardship cases, or where the child's EU Blue Card or skilled-worker permit was first issued on or after 1 March 2024, with the parents' livelihood and insurance secured."
+      },
+      {
+        "q": "Is Verpflichtungserklärung mandatory for parents visa Germany?",
+        "a": "No, it is not mandatory in every case. The Auswärtiges Amt says it applies where the invited person cannot finance the stay from their own means, and the missions' checklist lists it as a sponsor document to include if provided. Parents who show their own pension, savings and bank statements can rely on their own funds. If the child signs one, it is done at the local Ausländerbehörde in Germany and costs €29."
+      },
+      {
+        "q": "Can parents get permanent visa in Germany?",
+        "a": "No, Germany has no permanent visa for parents of adult children. The only long-stay routes give a residence permit (Aufenthaltserlaubnis), not permanent settlement. Parents qualify only in exceptional hardship cases under Section 36(2) of the Residence Act, or under Section 36(3) if their child's EU Blue Card or qualifying skilled-worker title was first issued on or after 1 March 2024. Even then it is discretionary and needs secured livelihood with health and long-term care insurance."
+      },
+      {
+        "q": "How long does Germany visa for parents take from India?",
+        "a": "The German missions say a Schengen visa takes an average of 15 days after the application reaches the Consulate in Mumbai, not from the VFS appointment. Transit from VFS can add up to six working days, and the FAQ says individual cases can take up to 45 days. The Mumbai consulate currently warns that processing may take longer than usual because of high volumes, so apply well ahead, up to six months before travel."
+      },
+      {
+        "q": "What is the Germany visa fee for parents from India?",
+        "a": "The Schengen visa fee is €90 per adult parent, which the German missions list as about ₹9,500 and VFS currently shows as ₹9,100. VFS also charges a service fee of INR 1,933 per applicant. Courier, SMS and lounge services are optional extras. All fees are non-refundable, even if the visa is refused, so check the documents carefully before the appointment rather than after a refusal."
+      },
+      {
+        "q": "Which VFS centre for Germany visa from Gujarat, Ahmedabad or Mumbai?",
+        "a": "Parents in Gujarat can apply at the VFS Germany centre in Ahmedabad, because Gujarat falls under the German Consulate General in Mumbai, which VFS serves through Mumbai, Ahmedabad, Pune and Goa. For Schengen visas, the missions allow submission at any visa application centre in India if your nearest one is full. Every Schengen application for Germany is forwarded to the Mumbai consulate for the decision."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Two questions come up again and again from NRI children in Germany: can Mummy and Papa come for six months when the baby arrives, and do I have to sign the Verpflichtungserklärung? For a visit, parents need a **Schengen (C) visa**: up to **90 days in any 180**, a **€90** fee each, and travel medical insurance of at least **€30,000**. Six months on one visitor visa is not possible."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (C) visa, purpose visit to family. **Maximum stay:** 90 days in any 180-day period. **Visa fee:** €90 per adult (about ₹9,100 to ₹9,500), plus the VFS service fee of INR 1,933. **Insurance:** at least €30,000 medical cover, valid across Schengen for the whole stay, from an approved insurer. **When to apply:** no earlier than 6 months and no later than 15 days before travel. **Who decides for Gujarat and Maharashtra:** the German Consulate General in Mumbai. **Verpflichtungserklärung:** only needed when the parents cannot fund the trip themselves; the fee is €29 at the Ausländerbehörde. **Stays over 90 days:** only through family reunion, which for parents of adults is narrow."
+      },
+      {
+        "type": "h2",
+        "text": "Germany visa for parents from India: which visa do they need?"
+      },
+      {
+        "type": "p",
+        "text": "Parents visiting a son or daughter in Germany for up to 90 days apply for a **Schengen visa** under \"Visit / Family & Friends\". The 90 days are counted in any rolling 180-day period, and days in other Schengen countries count too."
+      },
+      {
+        "type": "p",
+        "text": "The German missions' India pages list no long-stay visitor visa for parents. Beyond 90 days, parents of an adult child need family reunion, covered below."
+      },
+      {
+        "type": "h2",
+        "text": "Tourist visa for parents in Germany: fees, insurance and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "Each parent pays **€90** as the Schengen visa fee, and VFS adds its own service charge. Both are non-refundable, even if the visa is refused."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa fee:** €90 per adult. The German missions list this as ₹9,500 (page dated 17 November 2026), while the VFS page shows ₹9,100 today. The rupee amount changes, so pay what VFS asks at booking.",
+          "**VFS service fee:** INR 1,933 per applicant for Schengen visas at the VFS Germany centres.",
+          "**Travel medical insurance:** minimum €30,000 (about ₹32 lakh), valid for the entire Schengen area and the whole stay. The missions accept Indian policies only from approved Indian travel insurers.",
+          "**Passport:** issued within the last 10 years, valid at least 3 months beyond the return date, with at least two blank pages."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Apply no more than six months before the trip. The missions' FAQ says at least 15 calendar days before it (three weeks recommended), while the checklist says 15 working days, so go by the stricter reading. Inside that window the consulate may return the passport unprocessed."
+      },
+      {
+        "type": "h2",
+        "text": "Documents for parents visiting family in Germany"
+      },
+      {
+        "type": "p",
+        "text": "The German missions publish a \"Visit / Family & Friends\" checklist. The file has two halves: what the child in Germany sends, and what the parents produce in India. Documents must be in German or English, or properly translated."
+      },
+      {
+        "type": "h3",
+        "text": "What the son or daughter in Germany sends"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Original invitation letter**, signed by the host, with the host's address and contact details, the parents' names and passport numbers, the dates and length of stay, the purpose and a short itinerary.",
+          "**Copy of the host's passport** (first and last pages for an Indian passport).",
+          "**Copy of the host's valid German residence permit** (residence title or Niederlassungserlaubnis). This proves the child lives in Germany legally.",
+          "**Proof of address and a signed accommodation confirmation** if the parents will stay at the child's home.",
+          "**Sponsor letter** if the child is paying, plus the Verpflichtungserklärung if one has been made."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "What the parents produce in India"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "VIDEX application form, printed and signed on every page, plus the two signed declarations (true information, and travel with medical insurance).",
+          "Passport, copies of the biometric and address pages (plus the last page), and one 35x45 mm photo on a white background, taken within six months.",
+          "A covering letter, itinerary and flight reservation.",
+          "**Proof of relationship:** the child's birth certificate, plus the marriage certificate where relevant.",
+          "**Retired parents:** pension statements for the last 3 months and/or proof of regular income from property or business, plus 3 months of bank statements.",
+          "**Working or self-employed parents:** 3 months of pay slips or business registration (with GST number), ITR acknowledgments for the last two years or Form 16, leave approval if employed, and 3 months of bank statements.",
+          "Bank statements must be stamped by the bank on each page. Passbook copies are not accepted, and VFS asks that the applicant's name and address appear on the statements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Many families miss this: the missions want the parents' own economic documents **even when the child is sponsoring**. They show a settled life in India to return to."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Match four dates before the file goes in: the invitation letter, the flight reservation, the insurance policy and the parents' covering letter. When each paper describes a slightly different trip, the officer has to guess which one is real. One set of dates, everywhere, removes that question."
+      },
+      {
+        "type": "h2",
+        "text": "Do you have to sign the Verpflichtungserklärung?"
+      },
+      {
+        "type": "p",
+        "text": "No, not in every case. The Verpflichtungserklärung (formal obligation letter) is needed where the invited person cannot finance the stay from their own means. The missions' checklist lists it as a sponsor document to include \"if provided\". Parents with their own pension, savings and insurance can show their own funds instead."
+      },
+      {
+        "type": "p",
+        "text": "If you do sign one, know what it means:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Where:** at the Ausländerbehörde (foreigners' authority) where you, the host, live in Germany, on a special form. Check your local office's document list.",
+          "**What the office does:** checks that you can afford it and certifies your signature. Send the original to your parents.",
+          "**What you promise:** to cover all costs that arise from your parents' stay, including living costs, medical treatment and their return to India.",
+          "**Fee:** €29 (about ₹3,000), set in Section 47 of the Residence Ordinance.",
+          "**Validity:** the time between signing and visa issue should generally not exceed six months. After that, a new declaration is usually required.",
+          "**Revoking it:** the law does not provide for withdrawing it, so sign only for a trip you are committed to."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Sample invitation letter for parents visiting Germany"
+      },
+      {
+        "type": "p",
+        "text": "A simple invitation needs no official form. Adapt this wording, sign it by hand and send the original:"
+      },
+      {
+        "type": "p",
+        "text": "\"To the Visa Section, Consulate General of the Federal Republic of Germany, Mumbai. I, [your full name], [Indian passport number], residing at [full address in Germany] on a [type of residence title, valid until date], invite my parents, [father's name, passport number] and [mother's name, passport number], of [city], India, to visit me from [date] to [date]. The purpose of the visit is [to spend time with our family / to help after the birth of our child, expected on date]. They will stay at my home at the address above. I will [cover their travel and living costs / they will fund their own trip]. They will return to India on [date]. Enclosed: copies of my passport, my residence permit and my address registration. Contact: [phone, email]. [Signature, date]\""
+      },
+      {
+        "type": "h2",
+        "text": "Which VFS centre for parents in Gujarat: Ahmedabad or Mumbai?"
+      },
+      {
+        "type": "p",
+        "text": "Parents living in Gujarat fall under the **German Consulate General in Mumbai**. Its jurisdiction covers Maharashtra, Gujarat, Goa, Madhya Pradesh, Chhattisgarh, and Daman and Diu and Dadra and Nagar Haveli. VFS runs German application centres in **Mumbai, Ahmedabad, Pune and Goa** for this area, so parents in Gujarat can use Ahmedabad."
+      },
+      {
+        "type": "p",
+        "text": "For Schengen visas the choice is wider. The missions say appointments can be booked and applications submitted at all visa application centres, including other cities if your nearest one is full. VFS adds that all Schengen applications for Germany accepted at any centre in India are forwarded to the Consulate in Mumbai for a decision."
+      },
+      {
+        "type": "p",
+        "text": "The Mumbai consulate states that using an agency will not get you an earlier appointment."
+      },
+      {
+        "type": "h3",
+        "text": "How to apply visa for parents in Germany if they don't speak English"
+      },
+      {
+        "type": "p",
+        "text": "The VFS appointment is for handing in documents, passports and biometrics (fingerprints and photo); it is not a visa interview. The missions note that the consulate may ask for more documents or call an applicant for an interview, so parents should understand what is in their own file."
+      },
+      {
+        "type": "p",
+        "text": "One rule helps families: if your parents gave fingerprints for a Schengen visa in India within the last 59 months, someone else can submit the application for them with a signed letter of authorisation and a copy of the representative's passport. First-time applicants attend in person, since fingerprints are taken at submission."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "We build the parents' file in English and then go through it with them in Gujarati or Hindi before the VFS visit. They should be able to say in one line whom they are visiting, in which city, and the date they fly back. That simple answer matters more than fluent English."
+      },
+      {
+        "type": "h2",
+        "text": "How long does a Germany visa for parents take from India?"
+      },
+      {
+        "type": "p",
+        "text": "The German missions say a Schengen visa takes an average of **15 days after the application reaches the Consulate**, and the clock does not start at VFS. Delivery from a VFS centre to the Consulate can take up to six working days."
+      },
+      {
+        "type": "p",
+        "text": "The official pages differ slightly. The FAQ says 15 calendar days, extendable to 45 in individual cases; the checklist says about 15 working days. The Mumbai consulate currently warns that high volumes mean processing may take longer than usual, and neither the mission nor VFS can expedite it. Slots book out fast, so book as soon as the trip is fixed."
+      },
+      {
+        "type": "h2",
+        "text": "Long term visa for parents in Germany: can they stay more than 90 days?"
+      },
+      {
+        "type": "p",
+        "text": "Not on a visitor visa. For a delivery or a long family stay, the practical options are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**One 90-day visit**, timed around the due date, with the parents leaving before day 90. Use the European Commission's Schengen calculator to check the days.",
+          "**Repeat visits.** Indian nationals who have lawfully used two Schengen visas in the past three years can be issued a two-year multiple-entry visa (C2), and then a five-year visa (C5) under the regular cascade. The missions stress this is not an entitlement.",
+          "**Family reunion**, which needs a national visa and is open to parents only in limited cases (below)."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Family reunion visa for parents in Germany: the Blue Card rule"
+      },
+      {
+        "type": "p",
+        "text": "Parents of adult children can get a residence permit through family reunion in only two situations."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Exceptional hardship (Section 36(2) Residence Act):** other family members may be granted a residence permit where it is needed to avoid exceptional hardship. BAMF says this is the only route in all other cases, and it is decided case by case.",
+          "**Parents of skilled workers since 1 March 2024 (Section 36(3)):** the parents of a foreigner who was issued, for the first time on or after 1 March 2024, an EU Blue Card, ICT Card, Mobile ICT Card, or certain other titles including the skilled-worker permits under Sections 18a and 18b, may be granted a residence permit. The same applies to the spouse's parents if the spouse lives permanently in Germany."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Read the Section 36(3) conditions closely. The law says \"may\", so it is a discretionary decision, not a right. The parents' livelihood must be secured, and BAMF adds that this includes sufficient health and long-term care insurance and must come from their own financial resources. The date that counts is when the qualifying title was first issued. If yours was first issued before 1 March 2024, this route does not apply, and the hardship rule is what remains."
+      },
+      {
+        "type": "p",
+        "text": "**Is there a permanent visa for parents in Germany?** No. Both routes lead to a residence permit (Aufenthaltserlaubnis), not a permanent settlement permit. A national visa for these cases is applied for at the mission covering the parents' home, which for Gujarat is Mumbai."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes that get parents' Germany visas refused or delayed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Insurance that stops short** of the whole stay, or comes from an insurer not on the approved list.",
+          "**Mismatched dates** across the invitation, flight reservation, insurance and covering letter.",
+          "**No copy of the child's German residence permit**, which the checklist requires.",
+          "**A Verpflichtungserklärung older than about six months.**",
+          "**Passbook copies or unstamped statements** instead of bank-stamped statements for the last 3 months.",
+          "**Untranslated regional documents.** Property or pension papers in Gujarati or Hindi need a proper translation."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your parents' Germany visa"
+      },
+      {
+        "type": "p",
+        "text": "We prepare the parents' Schengen file in English, draft the invitation and covering letters, check the insurance and dates line by line, and brief your parents in Gujarati or Hindi before their VFS visit. NRI children in Germany can brief us on WhatsApp at +91 82009 18967, and we coordinate with the parents in India. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for families across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 21 November 2026. Before booking, re-check the German missions' Schengen, fee and checklist pages, the VFS Germany India page, and for longer stays BAMF's family reunion page and Section 36 of the Residence Act."
+      }
+    ],
+    "sources": [
+      {
+        "label": "German Missions in India: Schengen visa",
+        "url": "https://india.diplo.de/in-en/service/2633538-2633538"
+      },
+      {
+        "label": "German Missions in India: Schengen visa FAQ",
+        "url": "https://india.diplo.de/in-en/service/schengen-visa-faq-2610538"
+      },
+      {
+        "label": "German Missions in India: Checklist for a Schengen visa for the purpose of Visit / Family & Friends",
+        "url": "https://india.diplo.de/in-en/2674162-2674162"
+      },
+      {
+        "label": "German Missions in India: Schengen visa fees",
+        "url": "https://india.diplo.de/in-en/service/1984596-1984596"
+      },
+      {
+        "label": "German Missions in India: Consulate General Mumbai",
+        "url": "https://india.diplo.de/in-en/ueber-uns/mumbai"
+      },
+      {
+        "label": "VFS Global: Germany visa information, Consulate General Mumbai jurisdiction",
+        "url": "https://www.vfsglobal.com/one-pager/germany/india/mumbai/english/"
+      },
+      {
+        "label": "Auswärtiges Amt: Where do I get the Verpflichtungserklärung and what obligations do I take on?",
+        "url": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/13-verpflichtungserklaerung-606492"
+      },
+      {
+        "label": "BAMF: Subsequent immigration to join third-country nationals",
+        "url": "https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Familie/NachzugZuDrittstaatlern/nachzug-zu-drittstaatlern-node.html"
+      },
+      {
+        "label": "Federal Ministry of Justice: Residence Act, Section 36 (subsequent immigration of parents and other family members)",
+        "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__36.html"
+      },
+      {
+        "label": "Federal Ministry of Justice: Residence Ordinance, Section 47 (fees)",
+        "url": "https://www.gesetze-im-internet.de/aufenthv/__47.html"
+      }
+    ]
+  },
+  {
+    "slug": "canada-visitor-visa-processing-time-after-biometrics-india-2026",
+    "title": "Canada Visitor Visa Processing Time After Biometrics from India (2026): Statuses, Passport Request and What You Can Do",
+    "metaTitle": "Canada Visitor Visa Processing After Biometrics | Travlys",
+    "metaDescription": "Canada visitor visa processing time from India was 31 days on 21 Nov 2026, counted from a complete application with biometrics included. Statuses and fees.",
+    "excerpt": "IRCC showed 31 days for a Canada visitor visa from India on 21 November 2026, counted from a complete application with biometrics included. What each status means, what a passport request signals and what you can actually do while you wait.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 12,
+    "category": "Country guides",
+    "tags": [
+      "Canada",
+      "Visitor visa",
+      "Processing time",
+      "Biometrics",
+      "IRCC status",
+      "Passport request"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1559511260-66a654ae982a?w=1600&h=900&fit=crop",
+    "related": [
+      "canada-visitor-visa-from-india-2026",
+      "canada-visitor-visa-for-parents-from-india-2026",
+      "canada-visa-refused-what-to-do-2026"
+    ],
+    "cta": {
+      "slug": "canada-visa",
+      "label": "Get your Canada visitor visa filed"
+    },
+    "faqs": [
+      {
+        "q": "How long does a Canada visitor visa take after biometrics from India?",
+        "a": "There is no separate clock after biometrics. On 21 November 2026, IRCC's tool showed 31 days for a visitor visa applied from India, counted from the day IRCC receives your complete application, with biometrics time already included. So if you gave biometrics two weeks after applying, those two weeks are part of the 31 days. IRCC says the figure is not a maximum or a guarantee, and files needing an interview or extra documents take longer."
+      },
+      {
+        "q": "What does background check in progress mean for Canada visa?",
+        "a": "It means IRCC is still checking that you are admissible to Canada. Background verification is one of the four sections IRCC reviews, alongside eligibility, medical exam and biometrics. \"In progress\" only means that review is not finished. IRCC does not publish a separate timeline for this step. If your overall file is still within the posted processing time, no action is needed. Past that time, you can ask about it through the IRCC web form."
+      },
+      {
+        "q": "Can I request urgent processing for Canada visitor visa?",
+        "a": "Only in a genuine emergency, and IRCC decides whether you qualify. IRCC's web form page says agents cannot speed up processing unless you are already eligible for urgent processing. IRCC does not list visitor visa urgent criteria on its public pages. If you face something like a death or serious illness of close family in Canada, explain it in the web form and attach proof."
+      },
+      {
+        "q": "Does passport request mean visa approved Canada?",
+        "a": "Yes, for online applications that is how IRCC describes it. IRCC's After you apply page places the passport letter under the heading \"If we approve your application\" and says you will get a letter in your IRCC account with instructions to submit your passport. You cannot travel until the visa is placed in that passport. The officer decides the visa's expiry date, so you only see the validity when the passport comes back. Submit within 30 days."
+      },
+      {
+        "q": "Can I apply again for Canada visitor visa if my application is pending?",
+        "a": "You can, but it cancels your current application. IRCC says that if you choose to apply again, the visitor visa application already in process will be withdrawn. There is no guarantee of a refund and you will not receive a letter confirming the withdrawal. Your new application starts its processing count from zero. It almost never makes sense to reapply simply because a file is taking longer than you hoped."
+      },
+      {
+        "q": "How much is Canada visitor visa fee from India 2026?",
+        "a": "The IRCC fees are CAD 100 for the visitor visa and CAD 85 for biometrics, a total of CAD 185 (about ₹12,000 at the Bank of Canada rate of 20 November 2026). A family of five or more applying together pays a maximum of CAD 500 for visas, and a family of two or more pays a maximum of CAD 170 for biometrics. VFS Global service charges, such as passport transmission, are extra."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Biometrics done weeks ago and still no update in your account? On its own, that is not a bad sign. On 21 November 2026, IRCC's own tool showed **31 days** for a visitor visa applied from India. That count starts when IRCC receives your complete application and **already includes the time you took to give biometrics**. It is an estimate, not a promise."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Processing time (India, visitor visa):** 31 days, checked on 21 November 2026 (IRCC data dated 18 November 2026). **Clock starts:** the day IRCC receives your complete application. Biometrics time is included, not added on top. **Guarantee:** none. IRCC says its times are not a maximum or a guarantee. **Fees:** CAD 100 visa (about ₹6,500) plus CAD 85 biometrics (about ₹5,500). **Passport request:** sent to your IRCC account if your application is approved. You then have 30 days to submit the passport. **Avoid:** filing a second application. It withdraws the one already in process."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa processing time after biometrics from India in 2026"
+      },
+      {
+        "type": "p",
+        "text": "IRCC's figure for a visitor visa applied from India was **31 days** when we checked on 21 November 2026. The underlying IRCC data was last updated on 18 November 2026, and IRCC refreshes these estimates regularly, so the number you see may differ."
+      },
+      {
+        "type": "p",
+        "text": "There is no separate clock that starts after biometrics. IRCC says processing time **starts the day it receives your complete application** and ends when it makes a decision, and that the figure **also includes the time it takes to give your biometrics**. So if you applied on 1 October and gave biometrics on 10 October, your count began on 1 October, not 10 October."
+      },
+      {
+        "type": "p",
+        "text": "Three things to keep in mind when you read the tool:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**It is forward-looking.** For temporary residence, IRCC describes the figure as how long it expects to take for an application received today. If you applied weeks ago, conditions may have been different then.",
+          "**It is not a deadline.** IRCC says its times are not a maximum or a guarantee, and that it is committed to processing most complete applications within that time. Most, not all.",
+          "**It depends on your file.** IRCC's After you apply page says processing times depend on the visa office and on any extra steps, such as an interview, a medical exam or a police certificate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "To check it yourself, open IRCC's Check processing times page, choose the visitor visa (outside Canada) option, select India as the country you are applying from and press the button. Do this on the day you need the figure."
+      },
+      {
+        "type": "h2",
+        "text": "What happens after biometrics: the steps in order"
+      },
+      {
+        "type": "p",
+        "text": "After biometrics, your file moves through eligibility review and background verification, and then to a decision. Not every file needs every step. This is the order as IRCC describes it:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application received.** IRCC confirms receipt (the acknowledgement of receipt, or AOR) and checks that the application is complete. IRCC says applications missing documents may be refused.",
+          "**Biometrics completed.** You give fingerprints and a photo at a VFS Global centre.",
+          "**Eligibility review.** An officer assesses your documents and whether you meet the requirements for a visitor.",
+          "**Background verification.** In IRCC's words: \"We check your background to make sure you're admissible to Canada.\"",
+          "**Extra steps, only if asked.** IRCC may ask you to attend an interview, get a medical exam, get a police certificate or send more documents. It says it will tell you what to do if any of these apply.",
+          "**Decision.** If approved, a letter arrives in your IRCC account asking for your passport. If refused, the decision appears in your account with the reasons."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The passport request is triggered by approval. IRCC's After you apply page lists it under the heading \"If we approve your application\"."
+      },
+      {
+        "type": "h2",
+        "text": "What do the statuses in my IRCC account mean?"
+      },
+      {
+        "type": "p",
+        "text": "IRCC publishes definitions for its Application status tracker, and they are the best guide to what your screen is telling you. The tracker covers visitor visas, but you can use it only after you have received your AOR. IRCC says the information there is updated daily."
+      },
+      {
+        "type": "p",
+        "text": "The overall status has three values:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Received:** IRCC has the application and is checking if it is complete.",
+          "**In progress:** IRCC is still reviewing it.",
+          "**Closed:** approved, refused, withdrawn or abandoned. Closed alone does not tell you which, so read the message in your account."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Each section of the application (eligibility, medical exam, background verification and biometrics) carries its own status:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Not started:** IRCC has not begun reviewing this section.",
+          "**In progress:** the section is being reviewed.",
+          "**Waiting on you:** IRCC needs information or documents from you. Act on this quickly.",
+          "**Completed:** IRCC has finished reviewing that section.",
+          "**Exempted:** this section does not apply to your application."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Your IRCC secure account and the IRCC portal show their own progress lines, and the wording can differ from the tracker. If a line confuses you, match it to the tracker definition above. The only status that needs action from you is a request for information or documents."
+      },
+      {
+        "type": "h2",
+        "text": "Background check in progress: should I worry?"
+      },
+      {
+        "type": "p",
+        "text": "No. Background verification is one of the four sections IRCC reviews, and \"In progress\" simply means the review is still under way. IRCC does not publish a separate timeline for this step, so there is no official number of days after which it becomes a concern."
+      },
+      {
+        "type": "p",
+        "text": "What matters is the overall time. If your file is still within IRCC's posted processing time, IRCC's web form page says not hearing back usually means the application is still being processed and no action is needed. Once you are past the posted time, you can ask about the file through the web form."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Give biometrics the same week you apply. Book the VFS slot as soon as the biometric instruction letter arrives. IRCC's published time includes biometrics, so every day you wait at the start is a day you add to your own wait."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa processing time and fees"
+      },
+      {
+        "type": "p",
+        "text": "The government fees for a Canada visitor visa from India are **CAD 100** for the visa and **CAD 85** for biometrics, as listed on IRCC's fee page (modified 10 November 2026). Rupee figures below use the Bank of Canada rate of 20 November 2026 and are rounded."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visitor visa, per person:** CAD 100 (about ₹6,500).",
+          "**Visitor visa, family of 5 or more applying together:** CAD 500 maximum (about ₹32,300).",
+          "**Biometrics, per person:** CAD 85 (about ₹5,500).",
+          "**Biometrics, family of 2 or more applying together:** CAD 170 maximum (about ₹11,000).",
+          "**VFS Global charges:** separate from IRCC fees. A passport transmission fee may apply when you submit your passport."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Passport request: what it means and how to submit it from India"
+      },
+      {
+        "type": "p",
+        "text": "A passport request means IRCC has approved your application and needs your passport to put the visa in it. IRCC is clear that you cannot travel to Canada until the visa is in the passport you submit. The visa's expiry date is decided by the officer, so you will only know the validity when the passport comes back."
+      },
+      {
+        "type": "p",
+        "text": "Once the request arrives, you have **30 days** to submit your passport. For India, IRCC directs applicants to VFS Global and warns that you may not be able to submit your passport in person, so check the VFS Global Canada India website for the current method before you go. Send:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The **passport request letter** from IRCC (a copy must go with the passport).",
+          "The **same passport** you used in the application. IRCC says a newer passport may delay processing and will not necessarily give you a longer visa.",
+          "Your contact details: email, phone and return address.",
+          "The VAC consent forms and any VFS fees, such as the passport transmission fee."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Do not send your passport before IRCC asks for it. IRCC says sending it without a copy of the request letter will delay processing."
+      },
+      {
+        "type": "h2",
+        "text": "Can I speed up my Canada visitor visa application?"
+      },
+      {
+        "type": "p",
+        "text": "In most cases, no. IRCC says calling will not get your application processed faster, and its web form page says agents cannot speed up processing unless you are already eligible for urgent processing. What you can do is keep the file clean and use the right channel at the right time."
+      },
+      {
+        "type": "h3",
+        "text": "Use the IRCC web form, at the right time"
+      },
+      {
+        "type": "p",
+        "text": "The web form has an option to ask about your application if it is over the normal processing time. Use it once you are past the posted time, and include your application number, UCI, the date IRCC received your application and your travel date. Do not send it again and again. IRCC states plainly that submitting another web form will not speed things up."
+      },
+      {
+        "type": "p",
+        "text": "If your reason for travel is a genuine emergency, such as the death or serious illness of a close family member in Canada, explain it in the web form and attach the proof. IRCC does not publish a list of urgent criteria for visitor visas on its public pages, and the officer decides whether your case qualifies."
+      },
+      {
+        "type": "h3",
+        "text": "Order your file, including officer notes, under the Privacy Act"
+      },
+      {
+        "type": "p",
+        "text": "You can ask IRCC for a copy of your own file. This is how people get what are commonly called GCMS notes, the officer's case notes. IRCC says foreign nationals can make a Privacy Act request for their personal information regardless of where they live, and that **there are no fees** for a Privacy Act request. Apply online through the Government of Canada ATIP portal. If someone else files it for you, include a signed IMM 5744 consent form for each person on the file aged 16 or over. IRCC warns that high volumes can slow its replies, so treat this as a way to understand a stuck file, not a quick fix."
+      },
+      {
+        "type": "h3",
+        "text": "When an MP enquiry helps"
+      },
+      {
+        "type": "p",
+        "text": "If your host in Canada, such as your son or daughter, lives there, they can ask their own Member of Parliament's office to enquire. IRCC runs a liaison service for MPs and their staff to ask about active applications involving their constituents. Its agents have no decision-making authority over individual cases, so an MP enquiry can get you information but cannot get you approved."
+      },
+      {
+        "type": "h3",
+        "text": "Do not reapply while your application is pending"
+      },
+      {
+        "type": "p",
+        "text": "IRCC says that if you choose to apply again, **the current visitor visa application will be withdrawn**. There is no guarantee of a refund and no letter confirming the withdrawal. Your new application starts its count from zero."
+      },
+      {
+        "type": "h2",
+        "text": "My trip date is close. What should I do?"
+      },
+      {
+        "type": "p",
+        "text": "Plan around the fact that you cannot fly until the visa is physically in your passport. That means approval, the passport request, submission at VFS and the return of your passport all have to happen before your travel date."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Do not buy non-refundable tickets until the visa is in your passport.",
+          "Check your IRCC account every day and answer any document request immediately.",
+          "If you are past the posted processing time, send one clear web form enquiry with your travel date.",
+          "If there is a real emergency, say so in the web form and attach documents that prove it.",
+          "If the date will not work, move the trip rather than filing a second application."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Why Canada visitor visa applications from India get delayed"
+      },
+      {
+        "type": "p",
+        "text": "IRCC does not publish delay statistics for individual files, but its own pages point to the usual causes:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Missing documents.** IRCC may ask for more, or refuse an incomplete application.",
+          "**Late biometrics.** IRCC asks applicants to book biometrics as soon as they can to avoid processing delays.",
+          "**Extra steps.** An interview, medical exam or police certificate adds time.",
+          "**The visa office.** IRCC says processing times depend on the office handling your file.",
+          "**Passport problems.** Submitting a different passport, or sending it without the request letter, delays things at the last stage."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Before you contact IRCC, write down four things: your application number, your UCI, the date IRCC received your application and your travel date. Add a screenshot of your account status. A short, factual enquiry with these details is easier for an agent to act on than a long letter asking IRCC to hurry."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team prepares Canada visitor visa files that are complete on day one, so they do not stall on document requests. If your file is already pending, we review the status, tell you whether you are actually past the posted time, draft the web form enquiry and handle the passport submission at VFS. NRI children in Canada can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. We work from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 21 November 2026. The 31-day figure came from IRCC's processing-time data on that day. Before you act, re-check IRCC's Check processing times page, the IRCC fee list and the Where to submit your passport page for India, as all three can change without notice."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IRCC: Check processing times",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+      },
+      {
+        "label": "IRCC: Processing times data (visitor visa, outside Canada)",
+        "url": "https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-en.json"
+      },
+      {
+        "label": "IRCC: Visitor visa, after you apply",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html"
+      },
+      {
+        "label": "IRCC Help Centre: What does my status mean in the application status tracker?",
+        "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1611&top=5"
+      },
+      {
+        "label": "IRCC: Where to submit your passport for your online temporary resident application",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account/where-submit-passport.html"
+      },
+      {
+        "label": "IRCC: Fee list",
+        "url": "https://ircc.canada.ca/english/information/fees/fees.asp"
+      },
+      {
+        "label": "IRCC: IRCC web form, contact us online",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html"
+      },
+      {
+        "label": "IRCC: How to make a request under the Privacy Act",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/request-privacy-act.html"
+      },
+      {
+        "label": "IRCC: If you already have an application in process",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/application-individual/yes-withdraw-application-message.html"
+      },
+      {
+        "label": "IRCC: Ministerial Centre for Members of Parliament and Senators, liaison services",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/transition-binders/minister-2025-05/ministerial-centre-members-parliament-senators-ministerial-inquiries-liaison.html"
+      }
+    ]
+  },
+  {
     "slug": "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
     "title": "Visa-Free Honeymoon Destinations for Indian Couples 2026-27, Plus the Newlywed Paperwork",
     "metaTitle": "Honeymoon destinations visa free for Indians 2026-27 | Travlys",
@@ -1985,9 +2681,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&h=900&fit=crop",
     "related": [
+      "germany-visa-for-parents-from-india-2026",
       "japan-specified-skilled-worker-visa-for-indians-2026",
-      "germany-student-visa-for-indians-2027",
-      "schengen-visa-appointment-india-how-to-get-slot-2026"
+      "germany-student-visa-for-indians-2027"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -2925,9 +3621,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=1600&h=900&fit=crop",
     "related": [
+      "germany-visa-for-parents-from-india-2026",
       "germany-opportunity-card-chancenkarte-for-indians-2026",
-      "study-abroad-visa-changes-2026-indian-students",
-      "schengen-visa-appointment-india-how-to-get-slot-2026"
+      "study-abroad-visa-changes-2026-indian-students"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -5969,9 +6665,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1600&h=900&fit=crop",
     "related": [
+      "germany-visa-for-parents-from-india-2026",
       "schengen-visa-documents-checklist-2026",
-      "schengen-visa-fees-for-indians-2026",
-      "schengen-visa-refused-appeal-reapply-2026"
+      "schengen-visa-fees-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -7454,9 +8150,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1600&h=900&fit=crop",
     "related": [
+      "canada-visitor-visa-processing-time-after-biometrics-india-2026",
       "canada-visitor-visa-from-india-2026",
-      "canada-visa-refused-what-to-do-2026",
-      "visa-rejection-reasons-india"
+      "canada-visa-refused-what-to-do-2026"
     ],
     "cta": {
       "slug": "canada-visa",
@@ -9322,9 +10018,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1551009175-15bdf9dcb580?w=1600&h=900&fit=crop",
     "related": [
+      "canada-visitor-visa-processing-time-after-biometrics-india-2026",
       "canada-visitor-visa-for-parents-from-india-2026",
-      "canada-visitor-visa-from-india-2026",
-      "visa-rejection-reasons-india"
+      "canada-visitor-visa-from-india-2026"
     ],
     "cta": {
       "slug": "canada-visa",
@@ -21847,9 +22543,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1600&h=900&fit=crop",
     "related": [
+      "canada-visitor-visa-processing-time-after-biometrics-india-2026",
       "canada-study-permit-for-indians-2027",
-      "canada-visa-refused-what-to-do-2026",
-      "visa-application-centres-ahmedabad-addresses-2026"
+      "canada-visa-refused-what-to-do-2026"
     ],
     "cta": {
       "slug": "canada-visa",
