@@ -888,6 +888,8 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'us-visa-documents-checklist-b1-b2-india-2026',
+  'uk-visitor-visa-documents-checklist-india-2026',
   'easiest-schengen-visa-for-indians-2026',
   'germany-tourist-visa-for-indians-2026',
   'italy-visa-for-indians-2026',

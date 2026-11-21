@@ -8,6 +8,799 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "us-visa-documents-checklist-b1-b2-india-2026",
+    "title": "US Visa Documents Checklist for B1/B2 from India (2026): Biometrics, Interview and What to Leave at Home",
+    "metaTitle": "US Visa Documents Checklist B1/B2 India 2026 | Travlys",
+    "metaDescription": "US visa documents for B1/B2 from India: passport, DS-160 page, appointment letter and $185 fee receipt. The rest is optional. What to carry on each day.",
+    "excerpt": "The official US B1/B2 checklist from India is four documents and a photo uploaded in the DS-160. Here is what to carry to biometrics and to the interview, optional papers by profile, what security will not let in, and the mistakes that cost visas.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 12,
+    "category": "Checklists",
+    "tags": [
+      "USA",
+      "B1/B2",
+      "US visa documents",
+      "Checklist",
+      "DS-160",
+      "Visa interview"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=1600&h=900&fit=crop",
+    "related": [
+      "us-visa-interview-questions-answers-b1-b2-india-2026",
+      "us-visa-for-parents-from-india-2026",
+      "us-visa-appointment-wait-time-india-2026"
+    ],
+    "cta": {
+      "slug": "usa-visa",
+      "label": "Get your US visa file checked"
+    },
+    "faqs": [
+      {
+        "q": "What documents are required for a US tourist visa from India?",
+        "a": "Four documents are required: a passport valid at least six months beyond your stay, the DS-160 confirmation page, the appointment confirmation and the receipt for the $185 visa fee. Your photo is uploaded in the DS-160. Everything else, such as salary slips, ITRs, bank statements and property papers, is optional supporting evidence. The officer may ask for it to check your purpose, ties to India and funds, so carry it in one slim folder."
+      },
+      {
+        "q": "Is there an official US visa documents checklist for B1/B2?",
+        "a": "Yes, but it is short. The ustraveldocs.com India pages list the passport, DS-160 confirmation page and appointment confirmation for the VAC, and the State Department adds the fee receipt and photo for the interview. There is no official list of financial documents for visitors. You may bring any supporting documents you think back up your application, and the officer decides what, if anything, to look at."
+      },
+      {
+        "q": "What documents are required for the US visa interview?",
+        "a": "Bring your passport, DS-160 confirmation page, interview appointment letter and visa fee receipt. If you corrected your DS-160 after booking, bring both the original and the corrected confirmation pages. Add your old passports and a slim folder of supporting papers, such as a job letter, ITRs and bank statements. If you need a medical device inside, carry an original doctor's letter. Phones, bags and electronics are not allowed."
+      },
+      {
+        "q": "What documents are needed for US visa biometrics?",
+        "a": "Only three: your passport, the printed DS-160 confirmation page and the appointment confirmation page. Fingerprints and a digital photo are taken at the VAC, and that slot must be at least 2 business days before your interview. Applicants under 14 or over 79 need not attend biometrics; a family member can submit their documents. For a child under 14, add one printed photo that meets US visa specifications."
+      },
+      {
+        "q": "Do I need bank statements and ITR for a US B1/B2 visa?",
+        "a": "They are not on the required list, but carry them. The State Department says officers may ask for evidence of your ability to pay for the trip and of your ties to home, and recent bank statements and income tax returns show both simply. Show your real finances. The US Mission India warns that applicants who used fake financial documents have been found permanently ineligible for a US visa."
+      },
+      {
+        "q": "Is an invitation letter required for a US tourist visa from India?",
+        "a": "No. The State Department says a letter of invitation or Affidavit of Support is not needed for a visitor visa, and is not one of the factors used to decide. You must qualify on your own ties to India. Parents visiting children can still carry a copy of the child's US visa or green card and their address, because the officer may ask who you are visiting."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "For a US B1/B2 visa from India, the official list is short: your **passport**, the **DS-160 confirmation page**, your **appointment confirmation** and the receipt for the **$185** fee (about ₹18,130). Your photo is uploaded inside the DS-160. Everything else, from bank statements to property papers, is optional. The officer decides mainly on your DS-160 and your answers, not on how thick your file is."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** B1/B2 visitor visa, for business, tourism, family visits and medical treatment. **Application fee:** $185 per person, children included, about ₹18,130 at the consular rate of ₹98 per dollar. **Biometrics (VAC) day:** passport, DS-160 confirmation page, appointment confirmation page. **Interview day:** passport, DS-160 confirmation page, appointment letter, fee receipt. **Photo:** uploaded in the DS-160, taken within the last six months, no eyeglasses. **Supporting documents:** optional; officers may ask for proof of purpose, ties to India and funds. **Invitation letter:** not needed, and not a deciding factor. **Phones and bags:** not allowed, and there is no storage at the VAC or consulate. **Dropbox renewal:** appointment letter, passport, DS-160 page, old passport with the US visa, one 5 x 5 cm photo."
+      },
+      {
+        "type": "h2",
+        "text": "US visa documents required for a tourist from India: the official list"
+      },
+      {
+        "type": "p",
+        "text": "The required list for a B1/B2 visa is four documents plus a photo. The official US visa information site for India (ustraveldocs.com) and the State Department's visitor visa page ask for:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport:** valid for travel to the US for at least six months beyond your intended stay, unless a country-specific agreement exempts you. Each traveller, children included, needs a separate application.",
+          "**DS-160 confirmation page:** the printed barcode page of your online application. The barcode number starts with AA and must match the one used to book your appointment.",
+          "**Appointment confirmation page:** printed from your profile once the VAC and interview slots are booked.",
+          "**Visa fee receipt:** proof that you paid the $185 application fee, also called the MRV fee, before booking.",
+          "**Photo:** uploaded while filling the DS-160. Bring one printed photo only if the upload failed, or for a child under 14 at the VAC."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The ustraveldocs B1/B2 page then says you \"may also bring whatever supporting documents you believe support the information\" given to the officer. In plain words, supporting papers are your choice. There is no official list of financial documents for visitors."
+      },
+      {
+        "type": "h2",
+        "text": "What the visa officer actually decides on"
+      },
+      {
+        "type": "p",
+        "text": "The decision rests on your DS-160 and the interview. Under section 214(b) of US immigration law, every B1/B2 applicant is presumed to be an intending immigrant until they show otherwise. The ustraveldocs India page says you overcome this by showing four things: a temporary purpose, a specific and limited stay, funds to cover your expenses, and a residence and other ties outside the US that will bring you back."
+      },
+      {
+        "type": "p",
+        "text": "The State Department says officers may ask for more documents to check the purpose of your trip, your intent to leave the US and your ability to pay. If someone else is paying, you can show evidence of that."
+      },
+      {
+        "type": "p",
+        "text": "One point many families get wrong: the State Department says a **letter of invitation or Affidavit of Support is not needed** for a visitor visa. If you bring one, it is not one of the factors used to decide. You qualify on your own ties to India, not on assurances from relatives in the US."
+      },
+      {
+        "type": "p",
+        "text": "That does not make papers useless. The ustraveldocs FAQ warns that a decision can be delayed if you arrive without recommended secondary documents. If you cannot produce what the officer needs, the case can be refused under section 221(g) and you get a letter listing what to submit."
+      },
+      {
+        "type": "h2",
+        "text": "US visa documents for biometrics vs the interview: what to carry each day"
+      },
+      {
+        "type": "p",
+        "text": "You attend two appointments: biometrics at a Visa Application Center (VAC), then the interview at the US Embassy or a Consulate. The VAC slot must be at least **2 business days** before the interview. There is no VAC in Gujarat; the five VACs are in New Delhi, Mumbai, Chennai, Hyderabad and Kolkata, and the nearest for Gujarat is Mumbai, at Bandra Kurla Complex."
+      },
+      {
+        "type": "h3",
+        "text": "Biometrics (VAC) day"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport.",
+          "DS-160 confirmation page.",
+          "Appointment confirmation page.",
+          "For a child under 14: one printed photo that meets US visa specifications.",
+          "If you corrected your DS-160 after booking (for appointments booked on or after 15 November 2023): both the original confirmation page used to book and the corrected one. Without both, you must cancel and rebook with the new number."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Fingerprints and a digital photo are taken at the VAC. Applicants under 14 or over 79 need not appear; a family member or representative can submit the documents listed in the appointment letter at the booked time. Arrive at your slot time, because you will not be let in earlier."
+      },
+      {
+        "type": "h3",
+        "text": "Interview day"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Passport.",
+          "DS-160 confirmation page (both pages if you corrected it).",
+          "Interview appointment letter.",
+          "Visa fee payment receipt.",
+          "A printed photo, only if your DS-160 photo upload failed.",
+          "An original doctor's letter if you need a medical device with you inside. The US Mission says applicants without one may be refused entry to the consular section and rescheduled.",
+          "Your old passports and a slim folder of supporting papers for your profile (see below)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Everyone must attend the interview in person, including applicants under 14 and over 79. Missing it marks you a no-show, and you pay a new fee and start again. Friends, relatives and agents are not allowed in with you."
+      },
+      {
+        "type": "p",
+        "text": "Old passports are not on the official required list for a first interview, but we advise carrying them. Your DS-160 travel history should match the stamps in them, and if the officer asks about an earlier trip, you can show it in seconds."
+      },
+      {
+        "type": "h2",
+        "text": "Supporting documents to carry, by profile"
+      },
+      {
+        "type": "p",
+        "text": "Everything in this section is optional. Officers may ask for some of it, or for none. The aim is to prove the three things the State Department names: why you are going, what brings you back to India, and how the trip is paid for. Keep originals in one folder, in this order, and hand over only what is asked for."
+      },
+      {
+        "type": "h3",
+        "text": "Salaried employees"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Employment letter with your designation, salary, joining date and approved leave dates.",
+          "Recent salary slips.",
+          "Income tax returns (ITR) and Form 16.",
+          "Bank statements showing salary credits."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Business owners and self-employed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Business registration, such as the GST certificate, shop and establishment licence or partnership deed.",
+          "ITRs for you and the business.",
+          "Business and personal bank statements.",
+          "For a B1 business trip: an invitation or meeting details from the US company and a letter from your own company on the purpose."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Retired parents visiting children"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pension papers or other income proof.",
+          "Bank and fixed deposit statements.",
+          "Property papers in India.",
+          "A copy of your child's US status document (visa, approval notice, green card or US passport) and their US address.",
+          "A simple plan of the visit: where you will stay and roughly how long."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Students"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Current enrolment letter or ID card from your Indian school or college.",
+          "Recent fee receipts.",
+          "Your parents' income and bank proof if they are paying.",
+          "A leave letter from the institution if travel falls during term."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Homemakers"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Marriage certificate.",
+          "Your spouse's employment or business proof and ITRs.",
+          "Joint or family bank statements.",
+          "If your spouse is not travelling, a short note of who stays home and why you are returning."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Answer each question in one line, then stop. If the officer wants a document, they will ask for it by name. Hand over that one paper, not the whole folder. Applicants who push a stack across the counter often lose the thread of the conversation while the officer waits."
+      },
+      {
+        "type": "h2",
+        "text": "US B1/B2 visa fee and the visa integrity fee"
+      },
+      {
+        "type": "p",
+        "text": "The B1/B2 application fee is **$185** per applicant, including children. It is not refundable, whether or not a visa is issued. You pay in rupees: the US Mission set the consular exchange rate at ₹98 per dollar from 25 May 2026, which makes the fee about ₹18,130."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Payment options:** NEFT, UPI, debit or credit card, or cash over the counter at listed banks. Personal cheques are not accepted.",
+          "**Validity:** the receipt is valid for 365 days. You must book your appointment within that period; the appointment itself can fall later.",
+          "**Failed payment:** do not pay a second time, because it will not be refunded. Email support-india@usvisascheduling.com instead."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You may have read about a separate US \"visa integrity fee\". As of 21 November 2026, the official India fee page lists only the $185 application fee for B1/B2. Our separate post on the visa integrity fee tracks its status for Indian applicants."
+      },
+      {
+        "type": "h2",
+        "text": "US visa dropbox (interview waiver) document list"
+      },
+      {
+        "type": "p",
+        "text": "If your B1/B2 visa is still valid or expired within the last 12 months, you may be able to renew without an interview. You must also have been at least 18 when that visa was issued, and never refused unless the refusal was overcome. Our dropbox guide covers the full rules. The official document list is:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Interview waiver appointment letter.",
+          "Current passport, valid for at least 15 days from the appointment.",
+          "DS-160 confirmation page.",
+          "Previous passport with the US visa: the original, not photocopies.",
+          "One colour photo, 5 x 5 cm, white background, taken within the last six months, no eyeglasses."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Submit only these. The official page says other documents will not be returned and will be destroyed. Drop-off is free at the five VACs. At the six other drop-off centres, including Ahmedabad (Motera), a fee of ₹1,500 per application is charged. A representative can drop off for you, but you must be in India during the process. Allow up to three weeks, and do not book tickets until the passport is back: the officer can still call you for an interview."
+      },
+      {
+        "type": "h2",
+        "text": "What you cannot carry into the VAC or US consulate"
+      },
+      {
+        "type": "p",
+        "text": "Leave your phone and bag behind. Security screens everyone, and there is no facility to store prohibited items at the VAC or the consulate. The official list includes:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Mobile phones, smart watches, smart rings, smart glasses, electronic car key fobs, Bluetooth devices, fitness bands, cameras, pen drives, laptops and tablets.",
+          "Large shoulder bags and purses, backpacks, briefcases, travel bags and suitcases.",
+          "Food and drink.",
+          "Cosmetics, including spray perfume and talcum powder.",
+          "Sealed envelopes or packages.",
+          "Cigarettes, lighters and matchboxes.",
+          "Scissors, pocket knives, nail files and other sharp objects.",
+          "Umbrellas longer than 40 cm when closed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The list is not exhaustive, and security staff can refuse other items. The official pages differ on small bags: the consulate security list allows unsealed plastic bags with application papers, small cloth bags and zip folders, while the VAC note says cloth bags and zip folders will be restricted. To be safe, carry your papers in an unsealed, clear plastic bag. Only applicants with appointments are admitted, so whoever drops you off must wait outside, with your phone."
+      },
+      {
+        "type": "h2",
+        "text": "Document mistakes that cause refusals and delays"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**DS-160 errors.** A submitted DS-160 cannot be edited. A wrong name, passport number, date of birth or visa class means a new form. If the barcode on the page you bring does not match your appointment profile, you cannot attend. Answers must be in English characters, and anyone refused before must fill a fresh DS-160.",
+          "**Travel history that does not match.** Your DS-160, your old passports and your answers should tell the same story. A trip left off the form looks like concealment, even when it was an honest slip.",
+          "**Fake bank balances.** The US Mission India warns that some consultants sell fake financial packages, and that applicants have been found permanently ineligible for giving false information. Money parked in your account by a relative just before the interview proves nothing and invites questions. Show your real finances.",
+          "**Lying about family.** The same Mission page says parents visiting children in the US have been coached to lie about the number or location of their other children, and were found permanently ineligible.",
+          "**Coached answers and too much paper.** The Mission says coached applicants all sound alike and lose credibility. Know your own facts and keep one slim folder.",
+          "**The wrong photo.** A photo with glasses, one older than six months, or the same photo as your old visa can be rejected even after the DS-160 accepted it."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The night before, read your own DS-160 once, slowly. Many interview questions are checks against it: who you are visiting, for how long, who is paying and where you work. When your answers match the form, the folder usually stays closed."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your US visa file"
+      },
+      {
+        "type": "p",
+        "text": "Travlys prepares B1/B2 files from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and files for clients across India. We draft your DS-160 and check it against your passports, build a slim document folder for your profile, and run interview practice in Gujarati, Hindi or English. NRI children in the US can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents in India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 21 November 2026. Before your appointment, re-check the ustraveldocs.com India pages on fees, scheduling and attending your interview, the US Mission India visas page for the consular exchange rate and service notices, and the State Department's visitor visa page."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Embassy & Consulates in India: Visas",
+        "url": "https://in.usembassy.gov/visas/"
+      },
+      {
+        "label": "U.S. Embassy & Consulates in India: Visa Consultants",
+        "url": "https://in.usembassy.gov/visa-consultants/"
+      },
+      {
+        "label": "USTravelDocs India: Complete your application",
+        "url": "https://www.ustraveldocs.com/in/en/step-2"
+      },
+      {
+        "label": "USTravelDocs India: Pay your visa fees",
+        "url": "https://www.ustraveldocs.com/in/en/step-3"
+      },
+      {
+        "label": "USTravelDocs India: Schedule your appointment",
+        "url": "https://www.ustraveldocs.com/in/en/step-4"
+      },
+      {
+        "label": "USTravelDocs India: Attend your interview",
+        "url": "https://www.ustraveldocs.com/in/en/step-5"
+      },
+      {
+        "label": "USTravelDocs India: Business/Tourist visa",
+        "url": "https://www.ustraveldocs.com/in/en/business-visa"
+      },
+      {
+        "label": "USTravelDocs India: Waive my interview and renew my visa",
+        "url": "https://www.ustraveldocs.com/in/en/renew-visa"
+      },
+      {
+        "label": "USTravelDocs India: Frequently Asked Questions",
+        "url": "https://www.ustraveldocs.com/in/en/general-information"
+      },
+      {
+        "label": "U.S. Department of State: Visitor Visa",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html"
+      }
+    ]
+  },
+  {
+    "slug": "uk-visitor-visa-documents-checklist-india-2026",
+    "title": "UK Visitor Visa Documents Checklist from India 2026: Funds, Sponsor, Upload and Translations",
+    "metaTitle": "UK Visitor Visa Documents Checklist India 2026 | Travlys",
+    "metaDescription": "UK visitor visa documents from India: only a passport is mandatory and there is no minimum balance. The £135 visa takes 3 weeks. Full checklist inside.",
+    "excerpt": "GOV.UK makes only your passport mandatory for a UK visitor visa. Here is the evidence that actually helps by profile, what a sponsor must show, how upload works at VFS in India, the translation rules and the documents officers ignore.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 12,
+    "category": "Checklists",
+    "tags": [
+      "UK",
+      "UK visitor visa",
+      "Document checklist",
+      "Sponsor letter",
+      "VFS Global",
+      "Standard Visitor"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1600&h=900&fit=crop",
+    "related": [
+      "uk-visa-for-indians-2026-fees-processing-time",
+      "uk-visa-refused-what-to-do-2026",
+      "uk-visa-for-parents-from-india-2026"
+    ],
+    "cta": {
+      "slug": "uk-visa",
+      "label": "Get your UK visa file checked"
+    },
+    "faqs": [
+      {
+        "q": "What documents are required for UK visitor visa from India?",
+        "a": "Only a valid passport is mandatory for a UK visitor visa from India. Everything else is supporting evidence that you are a genuine visitor: proof of your job, business or studies in India, bank statements showing where your money came from, old passports with past visas and, if someone else is paying, their sponsor evidence. GOV.UK says its list is not exhaustive, and the Home Office says missing one recommended document is not by itself a reason to refuse."
+      },
+      {
+        "q": "How much bank balance is required for UK visitor visa from India?",
+        "a": "There is no fixed bank balance for a UK visitor visa. The Home Office says there is no set level of funds. The officer compares the likely cost of your trip with your income and savings after your regular commitments in India, such as rent, loan EMIs and dependants. Funds that appeared in your account only recently may lead to checks on their origin, so show a steady history and explain any large deposit with proof."
+      },
+      {
+        "q": "What documents does sponsor need for UK visitor visa?",
+        "a": "A sponsor should show what support they are giving, how they are giving it, that they can afford it while supporting their own dependants, how they are related to you and, if they live in the UK, that they are there legally. In practice that means a signed letter, recent bank statements or payslips, a copy of their passport or proof of status, and proof of relationship such as a birth certificate."
+      },
+      {
+        "q": "How to upload documents for UK visa in India?",
+        "a": "In India you apply online on GOV.UK, book your appointment with VFS Global, and then either upload your documents on the VFS website or pay for an added value service to submit them at the appointment. GOV.UK asks for PDF, PNG, JPG or JPEG files showing the full document, taken from originals where possible. Check each file before you submit, because GOV.UK warns you cannot add evidence after submission."
+      },
+      {
+        "q": "Do I need to translate documents for UK visa from Gujarati?",
+        "a": "Yes. Any document not in English or Welsh must come with a full translation the Home Office can verify. Each translation must include the translator's confirmation that it is accurate, the date of translation, the translator's full name and signature, and their contact details. This often applies to Gujarati land records, property papers and older certificates. Upload the original document and its translation together so the officer can match them."
+      },
+      {
+        "q": "How long does UK visitor visa take from India in 2026?",
+        "a": "A UK Standard Visitor visa usually takes 3 weeks from your biometrics appointment in India. If your visa application centre offers it, the priority service costs £500 extra and usually gives a decision within 5 working days, while super priority costs £1,000 extra and usually gives a decision by the end of the next working day. You can apply up to 3 months before you travel, so start early in peak season."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried that a thin file means a refusal? It usually does not. For a UK visitor visa from India, the only document GOV.UK makes mandatory is a **valid passport**. Everything else is evidence you choose to prove four things, and there is **no minimum bank balance**. The Standard Visitor visa costs **£135** (about ₹16,400) for up to **6 months**, and the standard decision time is **3 weeks**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** Standard Visitor visa (Indians are on the UK visa national list, so you need it before you travel). **Fee:** £135 for up to 6 months; £506, £903 or £1,128 for 2, 5 or 10-year visas. **Mandatory document:** a passport valid for your whole stay. **Bank balance:** no fixed amount; funds must cover the trip after your commitments. **Where you give biometrics:** a visa application centre run by VFS Global. **Decision time:** 3 weeks standard; priority £500 (about 5 working days); super priority £1,000 (usually next working day). **Translations:** every document not in English or Welsh needs a full, verifiable translation."
+      },
+      {
+        "type": "h2",
+        "text": "UK visitor visa documents checklist India: what GOV.UK actually asks for"
+      },
+      {
+        "type": "p",
+        "text": "GOV.UK's guide to supporting documents says you must show you are a **genuine visitor**. That means proving four things:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "you are coming for a permitted activity, such as tourism or seeing family;",
+          "you will leave the UK at the end of your visit;",
+          "you can support yourself and any dependants for the whole trip;",
+          "you can pay for your return or onward journey and the other costs of the visit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The passport is the one document you must provide with every application. The rest of the guide is a list of documents you **might want** to provide, and GOV.UK says the list is not exhaustive. The Home Office caseworker guidance goes further: the recommended documents are not mandatory, and leaving one out is not, on its own, a ground for refusal."
+      },
+      {
+        "type": "p",
+        "text": "So the job is not to collect every paper you own. It is to make your form and your evidence tell the same story. Officers are told to look for a correlation between what you declare (income, large deposits, family support) and the documents you send."
+      },
+      {
+        "type": "h2",
+        "text": "UK visitor visa documents required from India, by profile"
+      },
+      {
+        "type": "p",
+        "text": "Pick the evidence that matches your situation. The items come from GOV.UK's guide; the grouping is ours."
+      },
+      {
+        "type": "h3",
+        "text": "Salaried employees"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Letter from your employer on company letterhead, giving your role, salary and length of employment.",
+          "Recent bank statements showing your salary credits and where your savings came from.",
+          "Old passports showing travel to other countries."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Business owners and self-employed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Business registration documents or recent invoices that show ongoing self-employment.",
+          "Business and personal bank statements that detail the origin of the funds.",
+          "Old passports with previous visas and stamps."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Students"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Letter from your college or university on letterhead confirming enrolment and your leave of absence.",
+          "Bank statements of whoever is paying, plus that person's sponsor evidence (see the sponsor section below)."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Retired parents and homemakers"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your own bank statements, pension credits or other income, if you are paying for yourself.",
+          "If a child or spouse is paying, their sponsor evidence and proof of your relationship.",
+          "Old passports, especially earlier UK, US, Canada, Australia or Schengen visas."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Travel history matters. The caseworker guidance says past UK compliance, and travel to countries such as the USA, Canada, Australia, Ireland or Schengen states, may indicate a genuine visitor. First-time travellers are judged on their other evidence."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Write a short cover note in plain English: who is travelling, the dates, where you will stay, who pays and why you will come back. Then make sure every line of it is backed by a document in the file. Officers read the form first, so the note and the form must match word for word on dates and amounts."
+      },
+      {
+        "type": "h2",
+        "text": "How much bank balance is needed for a UK visitor visa?"
+      },
+      {
+        "type": "p",
+        "text": "There is **no set level of funds**. The Home Office caseworker guidance says this directly. The officer looks at the likely cost of your trip and your income or savings, minus your ongoing commitments in India, such as rent, EMIs and family members you support. What is left must cover the UK costs and be reasonable spending for someone in your financial position."
+      },
+      {
+        "type": "p",
+        "text": "On recent deposits, the guidance is specific. If your statements show enough money but all or most of it has not been held in the account for long, the officer may make further checks on where it came from. GOV.UK asks for bank statements that **detail the origin of the funds held**, and lists bank statements issued more than 1 year before the application among the less useful documents."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Show a steady pattern, not a single balance on one day.",
+          "If a large amount came in recently, explain it (sale of property, maturity of an FD, a gift from a parent) and attach the proof.",
+          "If a third party's money is in your account, declare that support on the form. Undeclared third-party funds that you cannot show are genuinely yours are not counted."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "UK visitor visa documents for sponsor"
+      },
+      {
+        "type": "p",
+        "text": "If someone else is paying for your travel, stay or accommodation, GOV.UK says you should provide evidence showing:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "what support is being provided, and whether it extends to dependants;",
+          "how that support is being provided;",
+          "that the sponsor has enough funds to support themselves and their own dependants as well;",
+          "your relationship with the sponsor, for example family member or employer;",
+          "that the sponsor is legally in the UK, if they live there, for example a British passport or residence document."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In practice, a sponsor in the UK usually sends a signed letter, recent bank statements or payslips, a copy of their passport or proof of immigration status, and proof of the relationship (a birth certificate for a parent-child link, for example). The caseworker guidance says a UK sponsor must not be in breach of immigration law, and officers may ask how you know each other and how often you communicate."
+      },
+      {
+        "type": "callout",
+        "label": "Sample sponsor letter wording",
+        "text": "\"I, [full name], [British citizen / holder of (status)], living at [UK address], invite my [father / mother], [name], passport number [number], to stay with me from [date] to [date]. They will live at my home at the above address. I will pay for [flights / living costs / all costs] during the visit. My [payslips / bank statements] and a copy of my [passport / eVisa share code details] are attached. [Signature, date, phone, email]\""
+      },
+      {
+        "type": "h3",
+        "text": "Invitation letter for a family visit to the UK"
+      },
+      {
+        "type": "p",
+        "text": "A family invitation is not a separate mandatory form. It is part of the sponsor evidence above. Depending on your circumstances, the online application itself asks for the name, address and passport number of any family members you have in the UK, and the name and address of anyone paying for your trip."
+      },
+      {
+        "type": "p",
+        "text": "The caseworker guidance lists discrepancies between what the applicant says and what the sponsor says as a reason to doubt a visit, particularly on facts the sponsor should know. Agree the dates, address and who pays before either of you writes anything."
+      },
+      {
+        "type": "p",
+        "text": "Parents visiting a son or daughter in the UK are the most common case we file. We cover their full file, the sponsor's side and long-term visa options in our separate guide on UK visas for parents from India."
+      },
+      {
+        "type": "h2",
+        "text": "Accommodation and travel bookings: what to show"
+      },
+      {
+        "type": "p",
+        "text": "You do not need a paid hotel booking. GOV.UK lists **hotel bookings** and **flight bookings** (unless you are transiting) among the documents that are less useful as evidence. The application form asks where you will stay and how much you think the trip will cost, so give a real address and a realistic budget."
+      },
+      {
+        "type": "p",
+        "text": "If you stay with family, the sponsor's letter and proof of their address cover accommodation."
+      },
+      {
+        "type": "h2",
+        "text": "UK visitor visa documents upload: VFS Global in India"
+      },
+      {
+        "type": "p",
+        "text": "In November 2026, GOV.UK's list of visa application centres sends applicants in India to **VFS Global**, not TLScontact. The process runs like this:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Apply online on GOV.UK and pay the visa fee. The earliest you can apply is 3 months before you travel.",
+          "Book your appointment at a visa application centre as part of the online application.",
+          "Provide your documents. GOV.UK says applicants who give fingerprints at a centre can upload documents on the commercial partner's website, or pay for an added value service to submit them at the appointment.",
+          "Attend the appointment with your passport. Your fingerprints and photo are taken there.",
+          "Your passport is returned the same day. If approved, you get an eVisa, which you access through a UKVI account."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "GOV.UK's upload guidance asks for PDF, PNG, JPG or JPEG files, with the full document visible and a descriptive file name such as 'bank statement 2026'. The supporting documents guide says digital images should be taken of **original documents**, not photocopies, wherever possible. Check every file before you submit, because GOV.UK warns that you cannot add more evidence after you submit."
+      },
+      {
+        "type": "p",
+        "text": "GOV.UK also says most centres offer free appointments within 5 working days, while some locations charge £76.50 for a standard appointment. Check the price on the VFS Global UK site for India before you pick a slot."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Name each file by what it proves, not by what your scanner calls it. 'Father pension statement Apr-Oct 2026' tells the officer more in one line than 'scan0042'."
+      },
+      {
+        "type": "h2",
+        "text": "Do UK visa documents need translation?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. Any document that is not in English or Welsh must come with a **full translation** that the Home Office can independently verify. Each translation must contain:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "the translator's confirmation that it is an accurate translation of the original;",
+          "the date of translation;",
+          "the translator's full name and signature;",
+          "the translator's contact details."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For Gujarat applicants this often means land records, some property papers and older certificates issued in Gujarati. Upload the original and the translation together."
+      },
+      {
+        "type": "h2",
+        "text": "Documents you should not send with a UK visitor visa"
+      },
+      {
+        "type": "p",
+        "text": "GOV.UK lists documents that are less useful as evidence, and the caseworker guidance tells officers not to consider them if sent:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "bank statements or letters issued more than 1 year before you apply;",
+          "credit card statements and photocopies of bank cards;",
+          "driving licence, car ownership papers and business cards;",
+          "educational certificates not required for your visa;",
+          "personal photographs and leisure certificates, such as sports trophies;",
+          "notarial certificates;",
+          "hotel bookings, flight bookings (unless transiting) and travel insurance;",
+          "the sponsor's utility bills and council tax bills."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "UK visitor visa processing time and fees in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The standard processing time for a Standard Visitor visa is **3 weeks**, counted from your appointment at the visa application centre. You can pay for a faster decision if your centre offers it:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Priority service: £500 (about ₹60,800) on top of the visa fee, usually a decision within 5 working days.",
+          "Super priority service: £1,000 (about ₹1,21,600), usually a decision by the end of the next working day after a weekday appointment, or 2 working days after a weekend or bank holiday appointment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Visa fees from the Home Office table effective 8 October 2026:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Standard Visitor visa, up to 6 months: £135 (about ₹16,400).",
+          "2-year long-term visa: £506 (about ₹61,500).",
+          "5-year long-term visa: £903 (about ₹1,09,800).",
+          "10-year long-term visa: £1,128 (about ₹1,37,200)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Long-term visas still allow a maximum of 6 months per visit, and you may be given a shorter visa than you asked for without a refund. A refusal means no refund of the visa fee or the priority fee. Each family member needs their own application, fee and appointment. Rupee figures use the ECB rate of 20 November 2026 (£1 = about ₹121.6)."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes we see in UK visitor visa files"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Large unexplained deposits.** Money that has not been held for long invites checks on its origin. Explain and document every big credit.",
+          "**Dates and facts that do not match.** Travel dates, the address and who pays must be the same on the form, the cover note and the sponsor's letter.",
+          "**Documents not in English without a translation.** A Gujarati document with no proper translation cannot help you.",
+          "**Padding the file.** Old statements, credit card bills and hotel bookings add pages, not weight.",
+          "**Booking non-refundable flights before the decision.** GOV.UK says to wait."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Already refused? Read the refusal letter line by line before you reapply; our UK refusal guide covers the next steps."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your UK visitor visa file"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks your UK visitor file against the GOV.UK guidance before you submit: the form, the cover note, the funds story, the sponsor's evidence and the translations. For parents, we prepare the file in English and brief them in Gujarati or Hindi. NRI children in the UK can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "When this post was last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 21 November 2026. Fees, processing times and the visa application centre provider can change. Before you apply, re-check the GOV.UK Standard Visitor pages, the guide to supporting documents, the Home Office fees table, the faster decision page and the VFS Global UK site for India."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GOV.UK: Visiting the UK: guide to supporting documents",
+        "url": "https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk"
+      },
+      {
+        "label": "GOV.UK: Visit the UK as a Standard Visitor",
+        "url": "https://www.gov.uk/standard-visitor"
+      },
+      {
+        "label": "GOV.UK: Apply for a Standard Visitor visa",
+        "url": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa"
+      },
+      {
+        "label": "GOV.UK: Home Office immigration and nationality fees, 8 October 2026",
+        "url": "https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-october-2026"
+      },
+      {
+        "label": "GOV.UK: Get a faster decision on your visa, settlement or citizenship application",
+        "url": "https://www.gov.uk/faster-decision-visa-settlement"
+      },
+      {
+        "label": "GOV.UK: Visa processing times: applications outside the UK",
+        "url": "https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk"
+      },
+      {
+        "label": "GOV.UK: Uploading evidence as part of your visa application",
+        "url": "https://www.gov.uk/guidance/uploading-evidence-as-part-of-your-visa-application"
+      },
+      {
+        "label": "GOV.UK: Find a visa application centre",
+        "url": "https://www.gov.uk/find-a-visa-application-centre"
+      },
+      {
+        "label": "GOV.UK: Visit caseworker guidance",
+        "url": "https://www.gov.uk/government/publications/visit-guidance/visit-caseworker-guidance-accessible--2"
+      },
+      {
+        "label": "GOV.UK: Immigration Rules Appendix Visitor: Visa national list",
+        "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+      }
+    ]
+  },
+  {
     "slug": "easiest-schengen-visa-for-indians-2026",
     "title": "Easiest Schengen Visa for Indians 2026: Refusal Rates by Country (2025 EU Data)",
     "metaTitle": "Easiest Schengen Visa for Indians 2026: EU Data | Travlys",
@@ -10246,9 +11039,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&h=900&fit=crop",
     "related": [
+      "us-visa-documents-checklist-b1-b2-india-2026",
       "us-visa-interview-questions-answers-b1-b2-india-2026",
-      "us-visa-rejected-214b-what-to-do-2026",
-      "us-visa-renewal-dropbox-india-2026"
+      "us-visa-rejected-214b-what-to-do-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -10896,9 +11689,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=1600&h=900&fit=crop",
     "related": [
+      "uk-visitor-visa-documents-checklist-india-2026",
       "uk-visa-for-indians-2026-fees-processing-time",
-      "uk-visa-refused-what-to-do-2026",
-      "visa-application-centres-ahmedabad-addresses-2026"
+      "uk-visa-refused-what-to-do-2026"
     ],
     "cta": {
       "slug": "uk-visa",
@@ -11184,9 +11977,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&h=900&fit=crop",
     "related": [
+      "us-visa-documents-checklist-b1-b2-india-2026",
       "visa-rejection-reasons-india",
-      "us-visa-interview-questions-answers-b1-b2-india-2026",
-      "ds-160-form-mistakes"
+      "us-visa-interview-questions-answers-b1-b2-india-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -12706,9 +13499,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1600&h=900&fit=crop",
     "related": [
+      "uk-visitor-visa-documents-checklist-india-2026",
       "uk-visa-for-parents-from-india-2026",
-      "uk-visa-for-indians-2026-fees-processing-time",
-      "visa-rejection-reasons-india"
+      "uk-visa-for-indians-2026-fees-processing-time"
     ],
     "cta": {
       "slug": "uk-visa",
@@ -13565,9 +14358,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1600&h=900&fit=crop",
     "related": [
+      "us-visa-documents-checklist-b1-b2-india-2026",
       "f1-visa-interview-questions-answers-india-2026",
-      "us-visa-rejected-214b-what-to-do-2026",
-      "us-visa-for-parents-from-india-2026"
+      "us-visa-rejected-214b-what-to-do-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -24633,9 +25426,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=1600&h=900&fit=crop",
     "related": [
+      "uk-visitor-visa-documents-checklist-india-2026",
       "uk-visa-refused-what-to-do-2026",
-      "uk-visa-for-parents-from-india-2026",
-      "visa-rejection-reasons-india"
+      "uk-visa-for-parents-from-india-2026"
     ],
     "cta": {
       "slug": "uk-visa",
