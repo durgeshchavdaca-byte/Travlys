@@ -8,6 +8,331 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
+    "title": "Visa-Free Honeymoon Destinations for Indian Couples 2026-27, Plus the Newlywed Paperwork",
+    "metaTitle": "Honeymoon destinations visa free for Indians 2026-27 | Travlys",
+    "metaDescription": "Maldives (free 30-day visa on arrival), Thailand, Mauritius, Nepal, Bhutan and Seychelles need no advance visa for Indian couples. Plus maiden-name rules.",
+    "excerpt": "Which honeymoon destinations Indian couples can visit without an advance visa, which need a quick online step, and how to handle a maiden-name passport, a pending marriage certificate and a spouse with no income.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 11,
+    "category": "Travel planning",
+    "tags": [
+      "honeymoon",
+      "visa-free countries",
+      "Schengen visa",
+      "marriage certificate",
+      "passport name change",
+      "Maldives",
+      "Thailand"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=1600&h=900&fit=crop",
+    "related": [
+      "visa-free-countries-for-indians-2026",
+      "new-year-international-trips-from-india-easy-visa",
+      "malaysia-visa-for-indians-2027-evisa"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Plan our honeymoon with the visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Which honeymoon destinations are visa-free for Indians?",
+        "a": "The Maldives, Mauritius, Thailand, Nepal, Bhutan and Seychelles let Indian couples travel without applying for a visa first. The Maldives gives a free 30-day visa on arrival, and Thailand allows 30 days visa-free. Seychelles needs an online Travel Authorisation from €10, and Bhutan charges ₹1,200 per person per day as a Sustainable Development Fee. Malaysia is visa-free only until 31 December 2026. From 1 January 2027, Indians need an eVISA."
+      },
+      {
+        "q": "Can I travel on my honeymoon if my passport has my maiden name?",
+        "a": "Yes. You don't have to change your passport after marriage. Your visa is issued in the name on the passport, so book flights and hotels in exactly that name. If you later want your husband's name added or your surname changed, Passport Seva accepts a marriage certificate or Annexure J, a joint photograph declaration. Don't start a re-issue just before the trip, because visas are applied for against your current passport number."
+      },
+      {
+        "q": "Do we need a marriage certificate for a honeymoon visa?",
+        "a": "Not for visa-free or e-visa destinations like the Maldives, Thailand, Sri Lanka or Bali. For Schengen and UK visas it matters when one spouse pays for the other, because the consulate needs proof of the relationship. If your certificate isn't registered yet, either wait for it or apply with the wedding card, photos and a cover letter saying registration is pending. The consulate decides each case, so waiting is the safer option."
+      },
+      {
+        "q": "Which is the cheapest international honeymoon from India?",
+        "a": "Sri Lanka, Nepal and Thailand are usually the cheapest. Indians pay nothing for the visa or entry in all three (Sri Lanka's ETA is free), and flights from most Indian cities are short. Bhutan adds ₹1,200 per person per day in fees. Bali and Vietnam cost IDR 500,000 and USD 25 per person in visa fees. The Maldives has no visa fee, but resort prices make it a premium choice."
+      },
+      {
+        "q": "Is Switzerland honeymoon visa hard for Indians?",
+        "a": "It isn't hard if the file is complete, but it needs planning. Apply for the Schengen visa at least 15 days before travel and no earlier than six months ahead. The fee is €90 per adult. December appointments in Ahmedabad and Mumbai go fast. If one spouse has no income, file as a sponsored applicant with the earning spouse's bank statements, ITRs, a sponsor letter and proof of marriage."
+      },
+      {
+        "q": "Can a housewife get a Schengen visa on her husband's income?",
+        "a": "Yes. The EU's document list for Indian applicants covers sponsored applicants. The wife submits a sponsor letter from her husband, his stamped bank statements for the last three months, his ITR acknowledgments for two assessment years, proof of marriage and any sponsorship form the destination country uses. A joint cover letter with both names, dates and hotels ties the two files together. You don't need a joint bank account."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Wedding in December, and the wife's passport still shows her maiden name? You can still fly. Indian couples need no advance visa for the **Maldives** (free **30-day** visa on arrival), **Mauritius**, **Thailand** (**30 days** visa-free), **Nepal**, **Bhutan** or **Seychelles**. **Malaysia** stays visa-free only until **31 December 2026**. Book every ticket and hotel in the exact name printed on each passport."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**No advance visa:** Maldives, Mauritius, Thailand, Nepal, Bhutan, Seychelles (online Travel Authorisation needed). **Malaysia:** visa-free until 31 December 2026, eVISA needed from 1 January 2027. **Quick online step:** Sri Lanka (free ETA), Bali (IDR 500,000), Vietnam (USD 25). **Visa needed, usually quick:** Dubai, Singapore, Japan, Türkiye. **Plan early:** Schengen, UK, Australia, New Zealand. **Passport name:** no need to change it after marriage. **Adding a spouse's name:** marriage certificate or Annexure J."
+      },
+      {
+        "type": "h2",
+        "text": "Honeymoon destinations visa free for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Six honeymoon favourites let an Indian couple land without applying for a visa first. \"No visa\" still means checks at the airport: a return ticket, a hotel booking and enough money. The officer decides how long you stay."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Maldives:** **free** tourist visa on arrival for up to **30 days**. You need a passport valid for at least one month, a return ticket, a prepaid resort or hotel booking, and the free IMUGA Traveller Declaration within **96 hours** before arrival. India's MEA list says 90 days; Maldivian missions say 30 on arrival, extendable to 90.",
+          "**Mauritius:** the Passport and Immigration Office lists India as \"No visa required\". Carry a passport valid beyond your stay, a return ticket, a hotel booking and enough funds.",
+          "**Thailand:** **30 days** visa-free for tourism since **15 September 2026**, says the Royal Thai Embassy in New Delhi. For a longer stay, apply for a Thai e-visa at thaievisa.go.th.",
+          "**Nepal:** no visa. For flights, carry a valid Indian passport or your original voter ID with photo from the Election Commission. A downloaded voter ID, Aadhaar, PAN or driving licence is not accepted.",
+          "**Bhutan:** no visa. You get an entry permit at Paro airport or at the road border offices, and pay a Sustainable Development Fee of **₹1,200 per person per day**. Carry a passport valid for six months or your original voter ID.",
+          "**Seychelles:** no visa. A free visitor's permit for up to **3 months** is issued on arrival. Before you fly, get a Travel Authorisation at seychelles.govtas.com: **€10** (about ₹1,100) for 24-hour processing, €30 for 6 hours, €70 for 60 minutes. Carry a return ticket, confirmed accommodation and funds of at least US$150 (about ₹14,700) a day.",
+          "**Malaysia, including Langkawi:** visa-free only for arrivals up to **31 December 2026**, per the Immigration Department's notice of 17 November 2026. From **1 January 2027** you need an eVISA before arrival; MyVISA (malaysiavisa.imi.gov.my) takes applications from **1 December 2026**, and fees are non-refundable."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Honeymoon destinations for Indians without visa hassle: Sri Lanka, Bali, Vietnam"
+      },
+      {
+        "type": "p",
+        "text": "These three need a short online form before you fly. Use the official sites only."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Sri Lanka:** free tourist ETA for **30 days** for Indians since 25 May 2026. Apply at eta.gov.lk only; India's High Commission in Colombo lists unauthorised look-alike sites.",
+          "**Bali (Indonesia):** visa on arrival or e-VoA, **IDR 500,000** (about ₹2,900) per person for **30 days**, extendable once for another 30. The e-VoA from evisa.imigrasi.go.id arrives within 24 hours. Your passport needs **6 months'** validity, and you need a return or onward ticket.",
+          "**Vietnam:** e-visa at evisa.gov.vn, **USD 25** (about ₹2,500) single entry or USD 50 (about ₹4,900) multiple entry, valid for up to 90 days. The fee is not refunded if refused; apply at least a week ahead."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Honeymoon visa for Dubai, Singapore, Japan and Türkiye"
+      },
+      {
+        "type": "p",
+        "text": "These need a visa, but far less paperwork than Europe. Start three to four weeks ahead so there is time to answer a query."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Dubai and the UAE:** most Indian couples need a tourist visa before flying, through ICP or GDRFA Dubai online, a UAE airline, a licensed travel agent or your hotel. Indians with a US visa or green card, or a UK or EU residence visa, valid for six months, get a 14-day visa on arrival in Dubai.",
+          "**Singapore:** apply through an authorised visa agent, not the High Commission. The visa processing fee is **₹2,100** (non-refundable), and agents may add up to ₹1,300. Processing is generally **3 to 5 working days**. Your passport must be valid for six months from the date you enter.",
+          "**Japan:** residents of India apply for a single-entry tourist eVISA (up to 90 days) through an accredited agency, and may be called for interview. At the airport you show the visa issuance notice online; screenshots and printouts are not accepted.",
+          "**Türkiye:** if you hold a valid US, UK, Ireland or Schengen visa or residence permit, you can get a single-entry e-Visa valid for one month at evisa.gov.tr, if you meet its conditions. Without one, you need a regular visa from a Turkish mission before travel."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Honeymoon visa for Switzerland from India, and the rest of Europe"
+      },
+      {
+        "type": "p",
+        "text": "Switzerland, Paris and Italy all come under the Schengen visa, and December is the hardest month to get an appointment. Apply at least **15 days** before travel and no earlier than **6 months** before. The fee is **€90** (about ₹9,600) per adult. A decision normally takes 15 days and can stretch to 45."
+      },
+      {
+        "type": "p",
+        "text": "Your passport must be valid for at least 3 months after you leave the Schengen area. The documents a couple needs are in the no-income section below."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**UK:** Standard Visitor visa, **£135** (about ₹17,000) each. Apply up to 3 months ahead; decisions usually take 3 weeks.",
+          "**Australia:** Visitor visa (subclass 600), applied for online. Check Home Affairs' processing time guide before booking flights.",
+          "**New Zealand:** Visitor Visa from **NZD 441** (about ₹23,000), online; 80% are decided within 2 weeks."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Schengen VFS slots in Ahmedabad and Mumbai fill quickly when wedding season meets Christmas travel. Book the visa appointment first and non-refundable flights second."
+      },
+      {
+        "type": "h2",
+        "text": "Passport in maiden name after marriage: can you still travel?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. Under Passport Seva rules, changing your surname after marriage is a re-issue you choose to apply for, not an automatic requirement. A visa, ETA or e-visa is issued in the name printed on the passport, and the air ticket and hotel booking must match that name letter for letter."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**To add your husband's name or change your surname:** apply for a re-issue on Passport Seva. MEA accepts the marriage certificate or, if you don't have one, Annexure J, a joint photograph declaration signed by both husband and wife.",
+          "**A full change of name** (more than the surname) follows the standard name-change procedure, which needs more documents.",
+          "**Timing:** a re-issued passport has a new number, and every visa here is applied for against a passport number. If your passport is valid, don't start a re-issue in the weeks before the trip. Travel first, update later."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "A mix-up we see in wedding season: a ticket booked under the husband's surname while the bride's passport shows her maiden name. Correct it with the airline before you fly, not at check-in."
+      },
+      {
+        "type": "h2",
+        "text": "Do we need a marriage certificate for a honeymoon visa?"
+      },
+      {
+        "type": "p",
+        "text": "For visa-free and e-visa destinations, no. For Schengen and the UK, it matters when one spouse pays for the other."
+      },
+      {
+        "type": "p",
+        "text": "The EU's 2025 list for Indian applicants does not name a marriage certificate for tourism, but it asks sponsored applicants for proof of sponsorship and every applicant for a cover letter naming who travels with them. The UK asks for evidence of your relationship with the person paying. A registered marriage certificate proves both. If yours is in Gujarati, the UK needs a full English translation with the translator's details."
+      },
+      {
+        "type": "p",
+        "text": "If the certificate isn't registered yet, you have honest options:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Wait** for the registered certificate, then apply. Safer if the trip is in February or later.",
+          "**Apply with what you have:** the wedding card, photos, and a cover letter saying registration is pending (attach any receipt) and you will produce the certificate on request. The consulate decides each file, so this carries more risk.",
+          "**File on your own incomes** if both of you earn. Each file then stands on its own funds, and the relationship proof matters less."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Wife has no income: will the Schengen or Swiss visa be refused?"
+      },
+      {
+        "type": "p",
+        "text": "Not for that reason alone. The EU's list for India has a category for sponsored applicants. The consulate wants proof that the earning spouse can pay for both of you and that you are married."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Sponsor letter from the earning spouse.",
+          "The sponsor's original bank statements for the last three months, stamped and signed by the bank.",
+          "The sponsor's ITR acknowledgments for the last two assessment years, plus payslips, or the company registration with its GST number.",
+          "The marriage certificate, or the wedding card and photos if it isn't registered yet.",
+          "The destination country's national sponsorship form, if it uses one.",
+          "A joint cover letter with both names, the dates, the hotels and a day-by-day plan."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Sample sponsor letter wording: \"I, [name], passport number [number], am the husband of [name], passport number [number]. We were married on [date] at [place]. I will pay for our honeymoon in Switzerland from [date] to [date], including flights, hotels, insurance and daily expenses. My bank statements and income tax returns are attached. We will both return to India on [date], and I will resume work at [employer].\""
+      },
+      {
+        "type": "p",
+        "text": "**No joint bank account yet?** You don't need one. Use the earning spouse's account as the funding account. The sponsor letter and marriage proof link the two files."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "A steady three-month account history reads better than a balance that jumped the week before the appointment. If wedding gift money went in recently, explain it in the cover letter."
+      },
+      {
+        "type": "h2",
+        "text": "Cheapest international honeymoon destinations from India: comparison"
+      },
+      {
+        "type": "p",
+        "text": "Destination | visa | visa cost per person | best months | flight time. Costs are official fees. Flight times are typical non-stop times from Mumbai or Delhi; best months are a general guide."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Maldives** | free on arrival | nil | Nov to Apr | 3 to 4 hours",
+          "**Thailand** | visa-free, 30 days | nil | Nov to Feb | 4 to 5 hours",
+          "**Sri Lanka** | free ETA | nil | Dec to Mar | 1.5 to 3 hours",
+          "**Nepal** | no visa | nil | Oct to Nov, Mar to Apr | under 2 hours from Delhi",
+          "**Bhutan** | entry permit | ₹1,200 a day (SDF) | Mar to May, Sep to Nov | 2 to 3 hours",
+          "**Malaysia (Langkawi)** | visa-free to 31 Dec 2026, then eVISA | nil until 31 Dec | Dec to Mar | about 5 hours",
+          "**Mauritius** | no visa | nil | May to Dec | about 6 hours",
+          "**Seychelles** | Travel Authorisation | from €10 | Apr to May, Oct to Nov | about 5 hours",
+          "**Bali** | VoA or e-VoA | IDR 500,000 | Apr to Oct | 7 to 9 hours, often one stop",
+          "**Vietnam** | e-visa | USD 25 | varies by region | 5 to 6 hours",
+          "**Dubai** | visa needed | set by ICP or GDRFA | Nov to Mar | about 3 hours",
+          "**Singapore** | visa through an agent | ₹2,100 plus agent fee | year-round | 5 to 6 hours",
+          "**Japan** | eVISA through an agency | ask the agency | Mar to May, Oct to Nov | 8 to 10 hours",
+          "**Türkiye** | e-Visa or visa | see evisa.gov.tr | Apr to Jun, Sep to Oct | 7 to 8 hours",
+          "**Switzerland and Europe** | Schengen visa | €90 | Dec to Mar, Jun to Sep | 9 to 10 hours"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Sri Lanka, Nepal and Thailand are usually the cheapest: no visa fees and short flights, so the budget goes on the hotel. The Maldives has no visa fee either, but resort prices make it a premium trip."
+      },
+      {
+        "type": "h2",
+        "text": "Honeymoon in December outside India: visa timeline by wedding date"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Within 2 weeks:** Maldives, Thailand, Mauritius, Nepal, Bhutan, Sri Lanka, Bali, Seychelles, or Malaysia before 31 December.",
+          "**In 2 to 4 weeks:** add Vietnam, Dubai and Singapore.",
+          "**In 4 to 8 weeks:** Japan and Türkiye. Schengen and the UK depend on appointment slots, so check them before booking.",
+          "**February 2027 or later:** Europe, the UK, Australia and New Zealand, if you apply once dates are fixed. Malaysia will need an eVISA."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with honeymoon visas and packages"
+      },
+      {
+        "type": "p",
+        "text": "Travlys builds honeymoon packages for the Maldives, Bali, Thailand, Sri Lanka, Dubai, Singapore and Europe, with hotels and private transfers, and files the visa for you. For Schengen and UK files we draft the sponsor and cover letters and check every ticket against the passport name. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for couples across India. WhatsApp +91 82009 18967 with your wedding date and destination."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every rule here on official sources on 21 November 2026. Rules change at short notice, especially Malaysia's eVISA and Thailand's visa-free stay. Before paying for flights, re-check MyVISA (Malaysia), the Royal Thai Embassy in New Delhi, eta.gov.lk, Indonesia's immigration site, evisa.gov.vn, seychelles.govtas.com, the EU's Schengen visa page and Passport Seva."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Royal Thai Embassy, New Delhi: The revision of Thailand's visa exemption and VoA schemes, 2026 (effective 15 September 2026)",
+        "url": "https://newdelhi.thaiembassy.org/en/content/the-revision-of-thailand-s-visa-exemption-and-voa?cate=614489aad04d1e09fa498c92"
+      },
+      {
+        "label": "Immigration Department of Malaysia (MyVISA): Notice on Visa Facility for Indian Nationals, 17 November 2026",
+        "url": "https://malaysiavisa.imi.gov.my/"
+      },
+      {
+        "label": "Embassy of the Maldives, Abu Dhabi: Tourist Visa",
+        "url": "https://mdvmission.gov.mv/ae/articles/tourist-visa-16"
+      },
+      {
+        "label": "Passport and Immigration Office, Mauritius: Visa Requirements",
+        "url": "https://passport.govmu.org/passport/?page_id=605"
+      },
+      {
+        "label": "Immigration and Civil Status, Seychelles: Visitor's Permit",
+        "url": "https://www.ics.gov.sc/permits/visitors-permit"
+      },
+      {
+        "label": "Sri Lanka Department of Immigration and Emigration: ETA fees",
+        "url": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US"
+      },
+      {
+        "label": "Directorate General of Immigration, Indonesia: B1 Tourism Visitor Visa",
+        "url": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/B1?lang=en-US"
+      },
+      {
+        "label": "European Commission: Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "label": "European Commission (hosted by the Czech MFA): C(2025) 4379, list of supporting documents for visa applicants in India",
+        "url": "https://mzv.gov.cz/public/65/fc/25/5898531_3416466_India_and_Morocco.pdf"
+      },
+      {
+        "label": "Passport Seva, Ministry of External Affairs: Document Advisor (marriage, divorce and separated cases)",
+        "url": "https://www.passportindia.gov.in/psp/documentAdvisor"
+      }
+    ]
+  },
+  {
     "slug": "visa-free-countries-for-indians-with-uae-residence-2026",
     "title": "Visa-Free Countries for Indians with UAE Residence (and Other GCC Permits) in 2026",
     "metaTitle": "Visa Free Countries for Indians with UAE Residence | Travlys",
@@ -11183,9 +11508,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=1600&h=900&fit=crop",
     "related": [
+      "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
       "malaysia-visa-for-indians-2027-evisa",
-      "urgent-visa-from-india-fastest-options-2026",
-      "visa-free-countries-for-indians-2026"
+      "urgent-visa-from-india-fastest-options-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -24455,9 +24780,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=1600&h=900&fit=crop",
     "related": [
+      "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
       "malaysia-visa-for-indians-2027-evisa",
-      "nepal-bhutan-passport-rule-indians-third-country-2026",
-      "easiest-visa-to-get-for-indians-2026"
+      "nepal-bhutan-passport-rule-indians-third-country-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -24800,9 +25125,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=1600&h=900&fit=crop",
     "related": [
+      "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
       "malaysia-visa-for-indians-2027-evisa",
-      "easiest-visa-to-get-for-indians-2026",
-      "visa-free-countries-for-indians-2026"
+      "easiest-visa-to-get-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
