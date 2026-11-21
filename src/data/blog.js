@@ -8,6 +8,694 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "switzerland-visa-for-indians-2026",
+    "title": "Switzerland Visa for Indians 2026: Fees, Documents, VFS Ahmedabad and Processing Time",
+    "metaTitle": "Switzerland Visa for Indians 2026: Fees, Documents | Travlys",
+    "metaDescription": "Switzerland visa for Indians: a Schengen visa for €90 (₹9,400) plus ₹3,100 VFS fee, up to 90 days. Documents, Ahmedabad VFS, processing time, refusals.",
+    "excerpt": "A Swiss visa is a Schengen visa: €90 for adults, ₹3,100 VFS fee and up to 90 days in any 180. The Embassy's own checklist, the 15 VFS centres including Ahmedabad, the main destination rule and the 30-day objection if you are refused.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 12,
+    "category": "Country guides",
+    "tags": [
+      "Switzerland",
+      "Schengen visa",
+      "Tourist visa",
+      "VFS Ahmedabad",
+      "Honeymoon",
+      "Visa refusal"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1600&h=900&fit=crop",
+    "related": [
+      "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Switzerland visa filed"
+    },
+    "faqs": [
+      {
+        "q": "What is the Switzerland visa fee for Indians in rupees?",
+        "a": "The Switzerland visa fee is €90 for adults and €45 for children aged 6 to 11, and children under 6 pay nothing. VFS Global's fee table for India shows ₹9,400 for adults and ₹4,700 for children, and the rupee amount follows the exchange rate. On top of that, VFS charges a service fee of ₹3,100, in force since 27 April 2026. Courier and SMS updates are optional extras."
+      },
+      {
+        "q": "How many days Switzerland visa is given for Indians?",
+        "a": "A Switzerland visa allows a maximum of 90 days in any 180-day period, but the Embassy usually matches the visa to the trip you show in your bookings. First-time applicants often get a visa that covers the trip dates. Applicants who have obtained and lawfully used two Schengen visas in the last three years can get a two-year multiple-entry visa under the 2024 EU rules for Indians, normally followed by a five-year visa."
+      },
+      {
+        "q": "What documents are required for Switzerland tourist visa from India?",
+        "a": "The Swiss Embassy's tourist checklist asks for a passport issued within 10 years and valid for 3 months after return, one photo, the signed form, and an employer letter with a no-objection statement. You also need approved travel insurance of at least €30,000, flight and hotel bookings, 3 months of salary slips and bank statements, and ITR-V for 2 assessment years. Self-employed applicants add GST or business registration, and retired applicants add pension statements."
+      },
+      {
+        "q": "How long does Switzerland visa take for Indian citizens?",
+        "a": "The Swiss Embassy's procedure page says a decision usually comes 7 to 10 calendar days after you submit at VFS, and as a general rule within 15 days. VFS says usually 15 calendar days from the Embassy's receipt of the file. EU rules allow up to 45 days if a file needs more checks. Apply at least 15 days before travel, and much earlier for December and January trips."
+      },
+      {
+        "q": "Can I visit other Schengen countries with a Switzerland visa?",
+        "a": "Yes, a Swiss visa is a Schengen visa, valid across all 29 Schengen countries, including France, Italy, Germany, Austria and Liechtenstein, within your permitted days. The condition is that Switzerland must be your main destination, meaning the country where you spend the most days. If you will spend longer in another Schengen country, you must apply to that country instead."
+      },
+      {
+        "q": "What to do if Switzerland visa is rejected?",
+        "a": "If your Switzerland visa is refused, you can file a written objection to SEM within 30 days of receiving the refusal, in German, French or Italian, signed and dated. The Embassy's note lists an advance fee of CHF 200 per person or family, refunded if you win, and a decision in about 8 to 12 weeks. You can also reapply with a fresh application once you have fixed the ground ticked on the refusal form."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A Switzerland visa for Indians is a Schengen short-stay (type C) visa. It costs **€90 for adults** and **€45 for children aged 6 to 11** (under 6 is free), plus a **VFS service fee of ₹3,100**. It allows up to **90 days in any 180-day period**, and the Swiss Embassy says it usually decides a file within **15 days** of receiving it."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay visa (type C). **Visa fee:** €90 adult (₹9,400 on the VFS fee table), €45 child aged 6 to 11, free under 6. **VFS service fee:** ₹3,100 per application since 27 April 2026. **Stay:** up to 90 days in any 180 days, valid across all 29 Schengen countries, Liechtenstein included. **Processing:** 7 to 10 calendar days after VFS submission per the Embassy, 15 days as a general rule, longer in some cases. **Where to apply:** any of 15 VFS Global centres in India, including Ahmedabad, Mumbai and Pune. **Decided by:** Embassy of Switzerland, New Delhi. **When:** no earlier than 6 months and no later than 15 calendar days before travel."
+      },
+      {
+        "type": "h2",
+        "text": "Switzerland visa for Indians: fees and price in rupees"
+      },
+      {
+        "type": "p",
+        "text": "The visa fee is fixed in euros and you pay the rupee equivalent at VFS. VFS Global's Switzerland fee table for India lists **₹9,400 for an adult** and **₹4,700 for a child aged 6 to 11**, and says the rupee amount follows the current exchange rate, so expect small changes."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adult (12 and above):** €90 (₹9,400 on the VFS table).",
+          "**Child aged 6 to 11:** €45 (₹4,700 on the VFS table).",
+          "**Child under 6:** no visa fee.",
+          "**VFS service fee:** ₹3,100, including GST, payable by cash, card or online."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "VFS raised its service fee to ₹3,100 from 27 April 2026 because of exchange-rate changes. Its notice says anyone who booked before that date pays the difference at the centre. Some older VFS pages still show ₹2,690, so go by the centre page when you book."
+      },
+      {
+        "type": "h2",
+        "text": "Is Switzerland in Schengen? Yes, but it is not in the EU"
+      },
+      {
+        "type": "p",
+        "text": "Switzerland is not an EU member, but it is a full Schengen country, so a Swiss visa is an ordinary Schengen visa. The EU Delegation to India counts 29 Schengen countries: 25 EU states plus Iceland, Liechtenstein, Norway and Switzerland. A Swiss visa lets you travel through all of them within your permitted days."
+      },
+      {
+        "type": "p",
+        "text": "**Liechtenstein** has no embassy in India. Its Schengen visa applications are handled by the Embassy of Switzerland in New Delhi, and a Swiss visa already covers a day trip to Vaduz."
+      },
+      {
+        "type": "p",
+        "text": "**There is no Swiss eVisa for Indians.** The Embassy's procedure page and checklists tell you to download the Schengen visa application form from the website of Switzerland's State Secretariat for Migration (SEM). You print it, sign it, paste your photo on it and hand it in at VFS. Neither the Embassy nor SEM mentions an online application for India."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for a Switzerland visa in India (Ahmedabad, Mumbai and other VFS centres)"
+      },
+      {
+        "type": "p",
+        "text": "You apply through VFS Global, and the **Embassy of Switzerland in New Delhi decides every application from India**. There is no separate consulate jurisdiction for Gujarat or Maharashtra. The Embassy says you can submit at any VFS application centre in India, and VFS lists 15 Swiss centres:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ahmedabad",
+          "Bengaluru",
+          "Bhubaneswar",
+          "Chandigarh",
+          "Chennai",
+          "Cochin",
+          "Guwahati",
+          "Hyderabad",
+          "Jaipur",
+          "Jalandhar",
+          "Kolkata",
+          "Lucknow",
+          "Mumbai",
+          "New Delhi",
+          "Pune"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Ahmedabad:** Ground Floor, Shree Balaji Agora Mall, between Tapovan and Bhat Circle, 200 Ft Sardar Patel Ring Road, Motera, Ahmedabad 382424. Submissions are taken Monday to Friday, 09:00 to 15:00, and passports are returned from 14:00 to 16:00."
+      },
+      {
+        "type": "p",
+        "text": "**Mumbai:** Urmi Axis Building, 2nd Floor, near MMRC Science Centre Exit A4, opposite E Moses Road, Mahalaxmi (West), Mumbai 400011. Open Monday to Friday, 08:00 to 16:00."
+      },
+      {
+        "type": "p",
+        "text": "Only family members of Swiss, EU or EFTA citizens may apply directly at the Swiss Embassy, and they must book an appointment in advance. Everyone else goes through VFS."
+      },
+      {
+        "type": "h2",
+        "text": "Which country to apply to: the main destination rule"
+      },
+      {
+        "type": "p",
+        "text": "Apply for a Swiss visa only if Switzerland is your main destination. Under Article 5 of the EU Visa Code, the right country is the one where you will spend the most days (or, in some cases, the one that is the main purpose of the trip). If no main destination can be found, you apply to the country whose external border you cross first. In practice, count the nights in each hotel."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Paris 3 nights, then Lucerne and Interlaken 5 nights:** apply to Switzerland.",
+          "**Paris 5 nights, then Switzerland 3 nights:** apply to France, even if Switzerland is the highlight.",
+          "**Paris 4 nights and Switzerland 4 nights, flying Mumbai to Zurich:** apply to Switzerland, because you enter there first.",
+          "**Same 4 and 4 split, flying into Paris:** apply to France."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you apply to a country that is not competent for your trip, the Schengen rules say the consulate returns your documents and refunds the visa fee. Pick the country before you book hotels, not after."
+      },
+      {
+        "type": "h2",
+        "text": "Switzerland visa documents for Indians: the Embassy's tourist checklist"
+      },
+      {
+        "type": "p",
+        "text": "The Embassy publishes separate checklists for tourists, family or friend visits, business and short study stays. The tourist checklist asks for documents in a fixed order, unstapled. It also says the Embassy accepts only the documents on the list and may ask for more or call you for an interview."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport:** issued within the last 10 years, valid for at least 3 months after you return, with two blank pages. Handwritten passports, and passports with observations about the bio-data page, are not accepted.",
+          "**Photo:** one recent photo, not older than 6 months, white background, 35 to 40 mm wide, pasted (not stapled) on the form.",
+          "**Application form:** completed and signed. Parents or guardians sign for a minor.",
+          "**Introduction letter from your employer:** original, on letterhead, signed and stamped by HR or management, stating your position, length of service, travel dates and purpose, with a no-objection statement. This doubles as your leave letter.",
+          "**Travel insurance:** from a company on the Embassy's approved list of Indian insurers, at least €30,000 (about ₹30.5 lakh) per person, covering medical repatriation, urgent treatment and hospital care for the whole Schengen stay.",
+          "**Flights:** a reservation showing every traveller's name, plus proof of any flights, trains or car hire inside Schengen.",
+          "**Hotels:** confirmations, a package-tour booking or proof of advance payment."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Money documents by profile"
+      },
+      {
+        "type": "p",
+        "text": "Bank statements must be originals on A4 paper, stamped and signed by the bank. The Swiss checklist asks for **3 months**, not 6."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Employed:** last 3 months' salary slips, last 3 months' personal bank statements showing the salary credit, and ITR-V or the ITR acknowledgement for the last 2 assessment years.",
+          "**Self-employed or company owner:** business registration, GST registration with annexures A and B, partnership deed or proof of proprietorship, last 3 months' personal bank statements, and ITR-V for the last 2 assessment years.",
+          "**Retired:** pension bank statement for the last 3 months, plus proof of regular income from property or a business."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Families** apply together. Only the head of the family attaches bank statements and ITR, as long as the insurance and flight bookings name every family member and the hotel rooms sit under one booking in the head's name. Students over 16 add a college ID and a letter from the college. A child under 18 travelling without both parents needs the absent parent's notarised consent letter."
+      },
+      {
+        "type": "p",
+        "text": "**A note on cover letters and itineraries:** the Swiss tourist checklist does not list a separate cover letter or day-by-day itinerary. Your flight, train and hotel bookings have to show the plan by themselves, so they must agree with each other and with the form."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Match the hotel nights to the main destination. If the form names Switzerland as the main destination, the hotel confirmations must show more nights in Switzerland than anywhere else, and every night from landing to take-off should be covered by a booking whose dates line up with the flights and trains. A missing night, or a Paris booking that runs longer than the Swiss one, is the first thing we fix before a file goes to VFS."
+      },
+      {
+        "type": "h2",
+        "text": "Switzerland visa processing time and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "The Embassy's procedure page gives **7 to 10 calendar days** after you submit at VFS. It adds that, as a general rule, the Embassy decides within 15 days, and that this can be extended in individual cases. Its visa overview page says 10 to 15 days, and VFS says usually 15 calendar days. The EU rules allow up to 45 days where a file needs more scrutiny. Plan on two to three weeks."
+      },
+      {
+        "type": "p",
+        "text": "Under Article 9 of the Visa Code you can apply **no earlier than 6 months** and, as a rule, **no later than 15 calendar days** before you travel. You must give fingerprints in person, unless they were taken within the last 59 months and you were granted a visa. Children under 12 are exempt from fingerprinting."
+      },
+      {
+        "type": "h3",
+        "text": "Booking for December and January trips"
+      },
+      {
+        "type": "p",
+        "text": "VFS itself advises applying earlier ahead of holiday periods. December to March is the busiest stretch for Indian families and honeymoon couples, so do not aim for the 15-day minimum. For a trip in the last week of December, submit as soon as your bookings are confirmed, and do not leave it later than early December. For January and February snow trips, apply in November or early December."
+      },
+      {
+        "type": "h2",
+        "text": "Switzerland visa refusal: reasons and the 30-day objection to SEM"
+      },
+      {
+        "type": "p",
+        "text": "If you are refused, the Embassy gives you the standard EU refusal form (Annex VI of the Visa Code), which ticks one or more of 17 grounds. The ones that matter most for a tourist file are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Ground 2:** justification for the purpose and conditions of the stay was not provided.",
+          "**Ground 3:** no proof of sufficient means for the stay and the return.",
+          "**Ground 10:** the information about the purpose and conditions of the stay was not reliable.",
+          "**Ground 12:** reasonable doubts about the reliability or authenticity of the documents.",
+          "**Ground 13:** reasonable doubts about your intention to leave before the visa expires.",
+          "**Ground 16:** no adequate and valid travel medical insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Switzerland's remedy is a **written objection to the State Secretariat for Migration (SEM) within 30 days** of receiving the refusal. The Embassy's note on objections sets these requirements:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A signed and dated letter in German, French or Italian, not English.",
+          "Filed by you or an authorised representative, such as your host or the inviting company in Switzerland.",
+          "Sent to the Swiss Embassy or to SEM, Quellenweg 6, CH-3003 Bern-Wabern.",
+          "An advance administrative fee of CHF 200 (about ₹22,000) per person or family, refunded if SEM decides in your favour.",
+          "SEM takes about 8 to 12 weeks. If it confirms the refusal, a further appeal to the Federal Administrative Court must be filed within 30 days, and only through a representative in Switzerland or your Swiss host."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "That Embassy note is dated February 2020, so follow the fee and address printed on your own refusal form if they differ. The other option is a fresh application with a new fee. When the ticked ground is a fixable gap, such as insurance or bookings, reapplying with the gap closed is usually quicker than an objection that takes two to three months."
+      },
+      {
+        "type": "p",
+        "text": "For context, the European Commission's 2025 visa statistics show the Swiss Embassy in New Delhi received **226,044** short-stay applications and did not issue **30,630**, a not-issued rate of about **13.6%**."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry Switzerland visas: the 2024 cascade for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Since 18 April 2024, EU rules let Indians living in India get longer multiple-entry Schengen visas. If you have obtained and lawfully used **two Schengen visas in the previous three years**, you can get a **two-year multiple-entry visa**. That is normally followed by a **five-year** visa if your passport has enough validity left. The EU Delegation to India says holders travel with rights similar to visa-free visitors, still within 90 days in any 180."
+      },
+      {
+        "type": "p",
+        "text": "Multiple-entry visas are common at the Swiss Embassy. In 2025, 157,454 of the 195,369 visas it issued in New Delhi were multiple-entry, about 81%. For a multiple-entry visa, the Swiss checklist says insurance covering your first trip is enough. Once you hold a multiple-entry visa valid for at least six months, you can apply for the next one before it expires."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Switzerland visa"
+      },
+      {
+        "type": "p",
+        "text": "Our team at 605 Shivalik Shilp II, Vastrapur, Ahmedabad prepares Swiss tourist, honeymoon and family files for clients across India. We check that your bookings meet the main destination rule, build the file in the Embassy's checklist order, plan the VFS slot in Ahmedabad, Mumbai or your nearest city, and review refusals before you choose between an objection and a fresh application. NRI children abroad can brief us on WhatsApp (+91 82009 18967), and we coordinate with their parents in India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked this guide against the Embassy of Switzerland in India, VFS Global, SEM, the EU Visa Code and the European Commission's 2025 visa statistics on 21 November 2026. Before you apply, re-check the VFS centre page for the service fee, the Embassy's tourist checklist for any new version, and the instructions on your refusal form if you are objecting."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of Switzerland in India: Application for Schengen visa and procedure",
+        "url": "https://www.schweiz-indien.eda.admin.ch/en/application-schengen-visa-procedure"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Visa, entry to and residence in Switzerland",
+        "url": "https://www.schweiz-indien.eda.admin.ch/en/visa-entry-to-and-residence-in-switzerland"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Checklist for Schengen visa, Tourist (PDF)",
+        "url": "https://www.schweiz-indien.eda.admin.ch/dam/en/eda-cms/Ge-fqqWRnxrs/Checklist_Tourist-EN.pdf"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Appeal, requirements for a written objection (PDF)",
+        "url": "https://www.schweiz-indien.eda.admin.ch/dam/en/eda-cms/kmAUNeqzyIjB/Statutory-Rights-Requirements-Written-Objection_EN.pdf"
+      },
+      {
+        "label": "VFS Global: Switzerland visa information for India",
+        "url": "https://visa.vfsglobal.com/one-pager/switzerland/india/english/"
+      },
+      {
+        "label": "VFS Global: Switzerland Visa Application Centres in India",
+        "url": "https://visa.vfsglobal.com/ind/en/che/attend-centre"
+      },
+      {
+        "label": "State Secretariat for Migration (SEM): Visa application form",
+        "url": "https://www.sem.admin.ch/en/visa-application-form"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0810-20200202"
+      },
+      {
+        "label": "Delegation of the European Union to India: EU adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Short-stay visas issued by Schengen countries",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/short-stay-visas-issued-schengen-countries_en"
+      }
+    ]
+  },
+  {
+    "slug": "france-visa-for-indians-2026",
+    "title": "France Visa for Indians 2026: Fees, Documents, Processing Time and Where to Apply",
+    "metaTitle": "France Visa for Indians 2026: Fees & Documents | Travlys",
+    "metaDescription": "France visa for Indians: a Schengen C visa costs €90 (about ₹9,200), allows 90 days in any 180 and is filed at VFS. Documents, timing, refusals and appeals.",
+    "excerpt": "Indians visiting France need a Schengen C visa: €90 per adult, up to 90 days in any 180, filed through France-Visas and VFS Global. Fees in rupees, the Ahmedabad centre, the official checklist, timing, refusals and multiple-entry visas.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 12,
+    "category": "Country guides",
+    "tags": [
+      "France",
+      "Schengen visa",
+      "France visa fees",
+      "VFS Ahmedabad",
+      "Visa refusal",
+      "Multiple-entry visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-for-christmas-new-year-trips-2026",
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your France visa filed"
+    },
+    "faqs": [
+      {
+        "q": "France visa fees for Indians in rupees?",
+        "a": "The France Schengen visa fee is €90 for adults, about ₹9,200, and €45 for children aged 6 to 11, about ₹4,600. Children under 6 pay nothing. France-Visas says the fee is collected only in rupees, converted at the French chancery rate, so the exact rupee amount moves with the exchange rate. VFS Global adds its own service fee, which is set in euros and paid in rupees. The visa fee is kept even if the visa is refused."
+      },
+      {
+        "q": "France visa for Indians how many days stay?",
+        "a": "A French Schengen visa lets you stay up to 90 days in any 180-day period. The dates printed on the sticker show the window in which you may travel, and the duration box shows how many days you may actually spend inside Schengen. A multiple-entry visa valid for a year or more is marked 90 days, which you can use across several trips. For a stay over 90 days you need a separate long-stay visa."
+      },
+      {
+        "q": "France tourist visa documents for Indians?",
+        "a": "Indian applicants need a cover letter, itinerary and flight bookings, hotel bookings for every night, original bank statements for the last three months stamped and signed by the bank, and income tax return acknowledgments for the last two assessment years. Employees add three months' payslips, an employment contract and a leave approval letter. You also need travel medical insurance of at least €30,000 and a passport valid three months beyond your return, issued within the last 10 years."
+      },
+      {
+        "q": "France visa processing time in India?",
+        "a": "Under EU rules, the French consulate must decide within 15 calendar days of a complete application, and this can stretch to 45 days when a file needs more checks. France-Visas notes that appointment and processing waits vary by country and season. You can apply up to six months before travel. For December and January trips, submit as early as the window allows and do not count on the minimum deadline."
+      },
+      {
+        "q": "Can I visit other Schengen countries with a France visa?",
+        "a": "Yes. A uniform Schengen visa marked ETATS SCHENGEN is valid in all Schengen countries, including Switzerland, Italy, Germany and Spain, within the 90-day limit. The rule is about where you apply: France must be your main destination by number of days or purpose, or your first entry point if no country is the main destination. If France is not your main destination, apply to the country that is."
+      },
+      {
+        "q": "France visa rejected, what to do?",
+        "a": "Read the reasons ticked on the refusal form first, then decide between appealing and reapplying. For a short-stay visa, a written appeal must go to the sous-directeur des visas at the French Ministry of the Interior within 30 days of being notified. This appeal is compulsory before you can go to the administrative court. If you can fix the weakness with better documents, a fresh application with a new fee is often faster."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Planning Paris for a honeymoon, a family trip or a New Year break? Indians need a **Schengen short-stay (C) visa** for France: **€90** per adult (about ₹9,200), **€45** for children aged 6 to 11, a stay of up to **90 days in any 180**, and a decision within **15 calendar days** under EU rules. Refusal risk depends mostly on how well your file matches your trip."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (C) visa. **Stay:** up to 90 days in any 180-day period. **Visa fee:** €90 adult (about ₹9,200), €45 child aged 6 to 11 (about ₹4,600), free under 6. **Service provider:** VFS Global. **Online form:** France-Visas portal, with a free Visa wizard. **Gujarat and Maharashtra:** handled by the Consulate General of France in Mumbai. **Ahmedabad centre:** yes, VFS Global at Shree Balaji Agora Mall, Motera. **Decision time:** 15 calendar days, up to 45 in some cases. **Apply:** no earlier than 6 months before travel. **Insurance:** at least €30,000 medical cover."
+      },
+      {
+        "type": "h2",
+        "text": "France visa for Indians: which visa do you need?"
+      },
+      {
+        "type": "p",
+        "text": "For tourism, a family visit or a business trip of up to 90 days, you need a **uniform Schengen short-stay visa**, marked type \"C\" on the sticker. France-Visas, the French government's official visa portal, says this visa covers tourism, business trips, family visits, short training, conferences and meetings."
+      },
+      {
+        "type": "p",
+        "text": "The first step is the **France-Visas Visa wizard** (france-visas.gouv.fr/en/assistant-visa). The Embassy of France in India tells applicants to start there: it shows the visa type, the documents to attach and the fee for your situation. You then complete the application on France-Visas, book a VFS Global slot and submit your file and biometrics at the centre."
+      },
+      {
+        "type": "p",
+        "text": "A visa can be single entry, double entry or multiple entry (marked \"MULT\"). If you plan to stay in France for more than three months, this is the wrong visa. You need a long-stay (D) visa, which has different rules and a fee of €99."
+      },
+      {
+        "type": "h2",
+        "text": "France visa fees for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Schengen visa fee is fixed in euros by EU law and paid in rupees at the VFS centre."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults (12 and above):** €90, about ₹9,200.",
+          "**Children aged 6 to 11:** €45, about ₹4,600.",
+          "**Children under 6:** no visa fee.",
+          "**VFS Global service fee:** charged on top of the visa fee. France-Visas says it is fixed in euros and collected in rupees, and optional extras such as courier and SMS updates cost more. Check the current amount on the VFS France India fees page before you pay.",
+          "**Refunds:** none. France-Visas states the visa fee is kept by the French administration even if the visa is refused."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The rupee figures above use the European Central Bank rate of 20 November 2026. France-Visas converts the euro fee at the French chancery rate, so the amount on your VFS receipt can differ by a few rupees."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for a France visa from Gujarat and Maharashtra"
+      },
+      {
+        "type": "p",
+        "text": "If you live in Gujarat or Maharashtra, your application is decided by the **Consulate General of France in Mumbai**. The French embassy lists the Mumbai consulate's jurisdiction as Chhattisgarh, Goa, Gujarat, Madhya Pradesh and Maharashtra, plus Dadra and Nagar Haveli and Daman and Diu. Other files go to the consulates in Puducherry, Kolkata and Bengaluru, or the embassy's visa section in New Delhi. Only these offices can decide a visa. VFS Global only collects files."
+      },
+      {
+        "type": "p",
+        "text": "France-Visas lists VFS Global centres for France in India in these cities:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**West:** Ahmedabad, Mumbai, Pune, Goa.",
+          "**North:** Delhi, Chandigarh, Jalandhar, Jaipur.",
+          "**South:** Bengaluru, Chennai, Hyderabad, Kochi, Puducherry.",
+          "**East:** Kolkata."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Ahmedabad has a France centre.** It is on the ground floor of Shree Balaji Agora Mall, between Tapovan and Bhat Circle, 200 Ft Sardar Patel Ring Road, Motera, Ahmedabad 382424. France-Visas lists file submission there from 9:00 to 16:00, Monday to Friday, by appointment only. Families in Surat, Vadodara, Rajkot or Bhavnagar do not need to travel to Mumbai. France-Visas also says applicants living in India may use **any VFS centre in India**, which helps when Ahmedabad has no slots before your trip. Print the appointment letter and carry it with your documents."
+      },
+      {
+        "type": "h2",
+        "text": "Should you apply to France or another Schengen country?"
+      },
+      {
+        "type": "p",
+        "text": "Apply to France only if France is your **main destination**. Under the EU Visa Code and France-Visas' own rules, the main destination is the country where you spend the most days, or the main purpose of the trip. If no country is the main destination, you apply to the country where you first enter Schengen."
+      },
+      {
+        "type": "p",
+        "text": "Take a typical Paris and Switzerland honeymoon:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**6 nights Paris, 3 nights Interlaken:** France has the most nights, so apply to France.",
+          "**3 nights Paris, 6 nights Switzerland:** apply to Switzerland, not France.",
+          "**4 nights Paris, 4 nights Lucerne, flying into Paris:** the nights are equal and you enter Schengen in France, so apply to France.",
+          "**Same split, but flying into Zurich:** apply to Switzerland."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "One visa covers both countries. Switzerland is part of Schengen even though it is not in the EU, so a French visa marked ETATS SCHENGEN lets you take the train to Geneva or Zurich."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Count nights from your hotel bookings, not from the itinerary you want to show. If your bookings say four nights in Paris and five in Rome, the officer reads that as an Italy trip, whatever your cover letter says. Fix the bookings or the country before you pay the fee."
+      },
+      {
+        "type": "h2",
+        "text": "France visa documents for Indians: the official checklist"
+      },
+      {
+        "type": "p",
+        "text": "France applies the **EU's list of supporting documents for India**, last updated by the European Commission in July 2025. Every Schengen consulate in India works from it, and the France-Visas Visa wizard adds anything specific to your case. Documents for all applicants:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Cover letter** giving the purpose of travel, dates, names of the people travelling with you, and transport and accommodation details.",
+          "**Itinerary and transport**, usually return flight bookings.",
+          "**Accommodation** for every night: hotel bookings, or an invitation and proof of residence from family or friends you stay with. If you visit several Schengen countries, show accommodation in each one.",
+          "**Bank statements:** original personal statements for the last three months, stamped and signed by the bank.",
+          "**Income tax:** ITR acknowledgments for the last two assessment years.",
+          "**Passport copies:** biodata page, last page, and any Schengen stamps in old passports.",
+          "**Travel medical insurance** covering emergency treatment, hospital stays and repatriation, valid across Schengen for the whole trip, with at least €30,000 of cover.",
+          "**Passport** valid at least three months after you leave Schengen, issued within the last 10 years, with at least two blank pages."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Extra documents by type of applicant"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Salaried:** payslips for the last three months, employment contract and the employer's letter approving your leave.",
+          "**Self-employed or business owners:** the company's registration certificate with its GST number, business bank statements and barcode-verifiable ITR.",
+          "**Retired:** pension statements for the last three months and/or proof of regular income from property or a business.",
+          "**Sponsored:** proof of sponsorship and/or private accommodation, on the French national form where one applies.",
+          "**Students:** a certificate from your school or college.",
+          "**Minors:** if a child travels with one parent, the other parent's consent certified by a notary, plus ID copies of both parents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a family visit, add the host's invitation with address, contact details and dates, and a copy of their passport or residence permit. For an organised tour, add the travel agency's booking confirmation."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Three months of statements is the official minimum. If your balance jumped in the last few weeks because you moved money in for the trip, give six months and explain the deposit in your cover letter. A sudden credit with no explanation raises more doubt than a modest, steady balance."
+      },
+      {
+        "type": "h2",
+        "text": "France visa processing time and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "You can apply **up to six months before travel**. Under the Visa Code you should, as a rule, apply **no later than 15 calendar days** before the trip. The consulate then has **15 calendar days** to decide a complete file, and up to **45 days** if it needs more checks."
+      },
+      {
+        "type": "p",
+        "text": "France-Visas' India page sets an even tighter floor: Indian-born holders of Indian passports must submit a short-stay application at least **five days** before departure. Treat that as an absolute last date, not a plan. France-Visas also warns that appointment and processing waits vary by country and time of year."
+      },
+      {
+        "type": "p",
+        "text": "For the December and January peak:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Christmas and New Year trips:** apply as soon as your dates are fixed. If you are reading this in late November without an appointment, check slots daily on the VFS site, look at Mumbai and Pune as well as Ahmedabad, and keep your bookings refundable.",
+          "**January and February trips:** book your VFS appointment in November or early December, before the holiday rush for slots."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "France visa refusal: reasons and how to appeal"
+      },
+      {
+        "type": "p",
+        "text": "Every refusal comes on the **standard EU refusal form** (Annex VI of the Visa Code), with the reasons ticked. Common grounds on the form include:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The purpose and conditions of the stay were not justified.",
+          "No proof of sufficient means for the stay and the return journey.",
+          "The information about the purpose and conditions of the stay was not reliable.",
+          "Reasonable doubts about the authenticity of supporting documents.",
+          "Reasonable doubts about your intention to leave Schengen before the visa expires.",
+          "No valid travel medical insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**How to appeal in France:** for a short-stay visa, send a written appeal to the **sous-directeur des visas** at the French Ministry of the Interior **within 30 days** of being notified of the refusal. This administrative appeal is compulsory: you cannot go to court without it. The Commission de recours (CRRV) that many guides mention now handles only long-stay visa refusals. If the appeal fails, you can take the case to the administrative court in Nantes. Your refusal letter lists the address and procedure."
+      },
+      {
+        "type": "p",
+        "text": "**Or reapply.** If the refusal came from a fixable gap, such as unexplained deposits, hotel nights that do not match the trip or a missing leave letter, a fresh application with the gap closed is often quicker than an appeal. It is a new file with a new fee."
+      },
+      {
+        "type": "p",
+        "text": "**What the official numbers say:** in 2025 the French consulate in Mumbai received 64,765 Schengen visa applications, issued 56,877 and did not issue 7,613, a not-issued rate of about **11.8%**. Across France's five consular posts in India the rate was about **15.2%**, according to the European Commission's Schengen visa statistics."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry France visas for repeat travellers"
+      },
+      {
+        "type": "p",
+        "text": "Since April 2024, a special EU rule for India (the visa \"cascade\") has rewarded clean travel history. If you have obtained and lawfully used **two Schengen visas in the previous three years**, a consulate in India should issue a **two-year multiple-entry visa**, as long as you meet the entry conditions. The EU delegation to India says this is normally followed by a **five-year** visa if your passport is valid long enough. Either visa ends three months before your passport expires."
+      },
+      {
+        "type": "p",
+        "text": "France also issues its own **circulation visa** to frequent travellers. France-Visas says it can be valid from six months to five years if you can show a need to travel often and a good record with previous visas. France decides whether to grant it and for how long. Multiple-entry visas are common: in 2025 they were about 41% of the visas issued by the Mumbai consulate."
+      },
+      {
+        "type": "h2",
+        "text": "5-year France visa for Indian alumni of French universities"
+      },
+      {
+        "type": "p",
+        "text": "France offers a **multiple-entry short-stay visa valid for up to five years** to Indian alumni. According to Campus France India, you qualify if you hold a **Master's degree or higher**, from any country and in any year, and studied for **at least one semester in France**. Only Indian nationals can apply, through a VFS centre."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Documents:** the standard short-stay file, plus a copy of your Master's degree and proof of your semester in France, such as a certificate from the French institution.",
+          "**Validity:** up to five years, ending at least three months before your passport expires.",
+          "**Limits:** it does not allow work or job-seeking in France, and it is issued only to alumni, not to their spouses or children."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team builds your France file in the right order: the main-destination check, a cover letter that matches your bookings night for night, and a document set for salaried, business or retired applicants. If you were refused, we review the refusal form and advise whether to appeal or reapply. NRI children abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate with parents in India. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked France-Visas (the India page, the short-stay visa page and the fee table), the Embassy of France in India, the EU Visa Code, the Commission's India document list and cascade decision, French visa appeal law (CESEDA) and the Commission's 2025 Schengen visa statistics on 21 November 2026. Before you book, re-check france-visas.gouv.fr, in.diplomatie.gouv.fr and the VFS Global France India site for fees, centre timings and slots."
+      }
+    ],
+    "sources": [
+      {
+        "label": "France-Visas: Apply for a visa in India to visit France",
+        "url": "https://france-visas.gouv.fr/en/web/france-visas/inde"
+      },
+      {
+        "label": "France-Visas: Short-stay visa",
+        "url": "https://france-visas.gouv.fr/en/short-stay-visa"
+      },
+      {
+        "label": "Embassy of France in India: Applying for a visa",
+        "url": "https://in.diplomatie.gouv.fr/en/applying-for-a-visa"
+      },
+      {
+        "label": "Embassy of France in India: Consulate General of France in Mumbai",
+        "url": "https://in.diplomatie.gouv.fr/en/consulate-general-france-mumbai"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240628"
+      },
+      {
+        "label": "European Commission: C(2025) 4379, list of supporting documents for short-stay visa applicants in India",
+        "url": "https://home-affairs.ec.europa.eu/document/download/e9890b44-c893-40f9-9a6e-161e86d20efc_en"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "Légifrance: CESEDA, Recours contre les refus de visas (Articles D312-3 to R312-6)",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000045998044/"
+      },
+      {
+        "label": "Campus France India: 5-year validity short-stay visa",
+        "url": "https://www.inde.campusfrance.org/node/395"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      }
+    ]
+  },
+  {
     "slug": "germany-visa-for-parents-from-india-2026",
     "title": "Germany Visa for Parents from India 2026: Schengen Visit, Verpflichtungserklärung and Longer Stays",
     "metaTitle": "Germany Visa for Parents from India 2026 | Travlys",
@@ -96,7 +784,7 @@ export const BLOG_POSTS = [
         "items": [
           "**Visa fee:** €90 per adult. The German missions list this as ₹9,500 (page dated 17 November 2026), while the VFS page shows ₹9,100 today. The rupee amount changes, so pay what VFS asks at booking.",
           "**VFS service fee:** INR 1,933 per applicant for Schengen visas at the VFS Germany centres.",
-          "**Travel medical insurance:** minimum €30,000 (about ₹32 lakh), valid for the entire Schengen area and the whole stay. The missions accept Indian policies only from approved Indian travel insurers.",
+          "**Travel medical insurance:** minimum €30,000 (about ₹31 lakh), valid for the entire Schengen area and the whole stay. The missions accept Indian policies only from approved Indian travel insurers.",
           "**Passport:** issued within the last 10 years, valid at least 3 months beyond the return date, with at least two blank pages."
         ]
       },
@@ -724,9 +1412,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=1600&h=900&fit=crop",
     "related": [
+      "switzerland-visa-for-indians-2026",
       "visa-free-countries-for-indians-2026",
-      "new-year-international-trips-from-india-easy-visa",
-      "malaysia-visa-for-indians-2027-evisa"
+      "new-year-international-trips-from-india-easy-visa"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -4580,9 +5268,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600&h=900&fit=crop",
     "related": [
+      "france-visa-for-indians-2026",
       "schengen-5-year-multiple-entry-visa-for-indians-2026",
-      "visa-application-centres-ahmedabad-addresses-2026",
-      "schengen-visa-documents-checklist-2026"
+      "visa-application-centres-ahmedabad-addresses-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -6665,9 +7353,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1600&h=900&fit=crop",
     "related": [
+      "france-visa-for-indians-2026",
       "germany-visa-for-parents-from-india-2026",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-visa-fees-for-indians-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -17576,9 +18264,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=1600&h=900&fit=crop",
     "related": [
+      "france-visa-for-indians-2026",
       "schengen-visa-documents-checklist-2026",
-      "us-visa-from-india-2026-complete-guide",
-      "canada-visitor-visa-from-india-2026"
+      "us-visa-from-india-2026-complete-guide"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -19533,9 +20221,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1480413258216-ff003d179d65?w=1600&h=900&fit=crop",
     "related": [
+      "switzerland-visa-for-indians-2026",
       "malaysia-visa-for-indians-2027-evisa",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-ees-explained-for-indian-travellers"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -27084,7 +27772,7 @@ export const BLOG_POSTS = [
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['schengen-5-year-multiple-entry-visa-for-indians-2026', 'schengen-visa-appointment-india-how-to-get-slot-2026', 'business-visa-from-india-2026-usa-uk-schengen-uae'],
+    related: ['switzerland-visa-for-indians-2026', 'schengen-5-year-multiple-entry-visa-for-indians-2026', 'schengen-visa-appointment-india-how-to-get-slot-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
