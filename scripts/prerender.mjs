@@ -888,6 +888,9 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'italy-visa-for-indians-2026',
+  'spain-visa-for-indians-2026',
+  'greece-visa-for-indians-2026',
   'switzerland-visa-for-indians-2026',
   'france-visa-for-indians-2026',
   'germany-visa-for-parents-from-india-2026',

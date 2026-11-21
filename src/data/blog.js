@@ -8,6 +8,1099 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "italy-visa-for-indians-2026",
+    "title": "Italy Visa for Indians 2026: Fees in Rupees, Documents, Appointments and Processing Time",
+    "metaTitle": "Italy Visa for Indians 2026: Fees, Slots & Documents | Travlys",
+    "metaDescription": "Italy visa for Indians: a Schengen C visa costs €90 (INR 9,630) plus INR 631 VFS charge. Gujarat files go to Mumbai via VFS Ahmedabad. Documents and refusals.",
+    "excerpt": "Italy visa for Indians in 2026: fees in rupees, the Mumbai consulate's own checklist, VFS centres including Ahmedabad, how to book a slot, and what to do after a refusal.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 11,
+    "category": "Country guides",
+    "tags": [
+      "Italy",
+      "Schengen visa",
+      "Italy visa fees",
+      "VFS Ahmedabad",
+      "Italy visa appointment",
+      "Europe trip"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1600&h=900&fit=crop",
+    "related": [
+      "france-visa-for-indians-2026",
+      "switzerland-visa-for-indians-2026",
+      "schengen-visa-appointment-india-how-to-get-slot-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Italy visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Italy visa cost for Indians in rupees?",
+        "a": "An Italy Schengen visa costs INR 9,630 (€90) for an adult and INR 4,820 (€45) for a child aged 6 to 11, as listed by VFS Global for the Mumbai consulate's area. Children under 6 pay nothing. VFS adds a service charge of INR 631 per applicant, taxes included. Optional VFS services cost extra. Neither the visa fee nor the service charge is refunded if the visa is refused."
+      },
+      {
+        "q": "How many days can I stay in Italy with a Schengen visa?",
+        "a": "An Italy Schengen visa allows up to 90 days in any 180-day period, counted across the whole Schengen area and not per country. The visa sticker shows the exact validity and the number of days allowed. Days in France, Switzerland or any other Schengen country count toward the same total. Check the sticker before you fly."
+      },
+      {
+        "q": "Italy visa documents required for Indian citizens?",
+        "a": "For an Italy tourist visa, the Mumbai consulate asks for a passport issued within 10 years with 3 months' validity after the trip, a signed form, two photos and an original cover letter. You also need hotel bookings for every night, return flights, €30,000 travel insurance, 3 months of salary slips and an original bank statement. Add ITRs, a leave letter if employed, and company registration and bank statements if self-employed."
+      },
+      {
+        "q": "Italy visa processing time in India?",
+        "a": "An Italy Schengen visa is decided within 15 calendar days under EU law, extendable up to 45 days in individual cases. VFS's page for the Mumbai consulate says to expect a minimum of 15 working days, which is about three weeks. In December and January allow longer, and book your VFS appointment early. You can apply up to 6 months before travel, and as a rule no later than 15 days before."
+      },
+      {
+        "q": "Can I visit other Schengen countries with an Italy visa?",
+        "a": "Yes. An Italy-issued Schengen visa lets you visit the other Schengen countries, such as France, Switzerland, Austria and Spain, within the validity and days shown on the sticker. You should apply to Italy only if it is your main destination, usually the country with the most nights. If France or Switzerland has more nights, apply to that country instead. Keep your actual trip close to the itinerary you submitted."
+      },
+      {
+        "q": "Italy visa rejected: what to do?",
+        "a": "If your Italy visa is refused, read the reasons ticked on the refusal form first. Italy's Foreign Ministry says you can appeal to the Regional Administrative Court (TAR) of Lazio within 60 days of notification. That is a court case and needs an Italian lawyer. For most holidays, reapplying with a file that fixes the stated reasons, such as weak funds, unclear itinerary or missing insurance, is faster. Pay the fee again when you reapply."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Planning Rome or Venice this winter? Indians need a **Schengen short-stay (C) visa** for Italy: **€90** (INR 9,630 at VFS) per adult, **€45** (INR 4,820) for children aged 6 to 11, plus an **INR 631** VFS charge, for up to **90 days in any 180**. Gujarat and Maharashtra residents apply to the Mumbai consulate through VFS Global, which has an Ahmedabad centre."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (C) visa. **Stay:** up to 90 days in any 180-day period. **Visa fee:** €90 adult (INR 9,630), €45 child aged 6 to 11 (INR 4,820), free under 6. **VFS service charge:** INR 631 per applicant, taxes included. **Gujarat and Maharashtra:** Consulate General of Italy in Mumbai. **Provider:** VFS Global. **Centres for Mumbai's area:** Mumbai, Ahmedabad, Pune and Kochi. **Decision time:** 15 calendar days under EU law, up to 45 in some cases. VFS Mumbai says to plan for at least 15 working days. **Apply:** up to 6 months before travel. **Insurance:** at least €30,000 including repatriation."
+      },
+      {
+        "type": "h2",
+        "text": "Italy visa for Indians: which visa do you need and what does it cost?"
+      },
+      {
+        "type": "p",
+        "text": "For a holiday, a family visit or a business trip of up to 90 days, you need a **uniform Schengen visa**, type C. One visa covers Italy and the other Schengen countries, so a Rome, Paris and Lucerne trip needs only one sticker. The 90 days are counted across the whole Schengen area, not per country."
+      },
+      {
+        "type": "p",
+        "text": "VFS Global publishes the fees for the Mumbai consulate's area in both euros and rupees. The rupee figures took effect on 27 March 2026 at the Ahmedabad, Kochi and Pune centres and on 30 March 2026 at Mumbai."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adult (12 and above):** €90, INR 9,630.",
+          "**Child aged 6 to 11:** €45, INR 4,820.",
+          "**Child under 6:** free.",
+          "**VFS Global service charge:** INR 631 per applicant, taxes included.",
+          "**Optional VFS services:** charged extra. VFS states that buying them does not improve your chance of a visa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So a family of two adults and one 8-year-old pays INR 24,080 in visa fees plus INR 1,893 in VFS charges, before any optional services. VFS says neither the visa fee nor the service charge is refunded if the consulate refuses the visa or you withdraw the application."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for an Italy visa from Gujarat and Maharashtra"
+      },
+      {
+        "type": "p",
+        "text": "If you live in **Gujarat or Maharashtra**, your application is decided by the **Consulate General of Italy in Mumbai**. The consulate lists its area as Gujarat, Maharashtra, Madhya Pradesh, Chhattisgarh, Goa, Kerala, Daman and Diu, and Dadra and Nagar Haveli. Karnataka, Tamil Nadu, Andhra Pradesh, Telangana and Puducherry are no longer in the Mumbai area, according to VFS. Italy also issues visas from New Delhi, Kolkata and Bengaluru."
+      },
+      {
+        "type": "p",
+        "text": "You do not submit at the consulate itself. The consulate uses **VFS Global** as its outsourcing partner and names four VFS centres in its area:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Mumbai:** Urmi Axis Building, Mahalaxmi (W).",
+          "**Ahmedabad:** yes, there is an Italy visa centre. Check the exact address on the VFS booking page when you book.",
+          "**Pune.**",
+          "**Kochi (Cochin).**"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a tourist or family visit, anyone in Gujarat can book at the Ahmedabad centre, so there is no need to travel to Mumbai. Italy's study visas are different: students in the Mumbai area can apply only at the Mumbai or Kochi centres."
+      },
+      {
+        "type": "h2",
+        "text": "Italy, France or Switzerland: which embassy do you apply to?"
+      },
+      {
+        "type": "p",
+        "text": "Apply to Italy only if **Italy is your main destination**. That usually means the country where you spend the most nights. The Visa Code also allows main purpose to decide. If no main destination can be identified, for example when nights are equal, you apply to the country where you first enter the Schengen area."
+      },
+      {
+        "type": "p",
+        "text": "Here is how it plays out on a typical 10-night Europe trip from Ahmedabad:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Rome 3 nights, Florence 2, Venice 1, Paris 2, Lucerne 2:** 6 nights in Italy. Apply to Italy.",
+          "**Paris 4 nights, Swiss Alps 3, Rome 3:** France has the most nights. Apply to France, even if Rome is the highlight.",
+          "**Paris 4 nights, Rome 4 nights, flying into Paris:** nights are equal, so the country of first entry, France, is competent.",
+          "**Interlaken 5 nights, Milan 2, Venice 2:** Switzerland has the most nights. Apply to Switzerland."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If your plan changes after you get the visa, keep it close to the itinerary you submitted, because border officers can ask about it."
+      },
+      {
+        "type": "h2",
+        "text": "Italy visa documents for Indians: the Mumbai checklist"
+      },
+      {
+        "type": "p",
+        "text": "The Consulate General of Italy in Mumbai publishes its own tourist visa checklist (revised March 2024), and VFS links to the same file. It asks for the following:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport** issued within the last 10 years, valid at least 3 months after your trip, with at least 2 blank pages. Handwritten passports, or passports with manual observations, are not accepted.",
+          "**Application form** signed by the applicant, with travel dates, length of stay and contact details. A minor's form must be signed by both parents.",
+          "**Two photographs**, 35 x 45 mm, white background, no more than 6 months old.",
+          "**Cover letter in original** naming everyone travelling, travel dates, itinerary, length of stay, purpose and who pays.",
+          "**Confirmed hotel bookings** covering all travel dates, including bookings for any other Schengen country on the trip.",
+          "**Return flight booking** and proof of all travel inside Schengen, such as train bookings or car rentals.",
+          "**Travel medical insurance** with at least €30,000 cover, including repatriation. VFS publishes a list of approved insurers.",
+          "**Copies** of the passport's front and last pages, every previous Schengen visa, and any valid US or UK visa.",
+          "**Funds**, following the means-of-support table in the next section."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "If you are employed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Leave sanction letter in original on company letterhead, with the leave dates and the name, designation and signature of the signatory.",
+          "Salary slips for the last 3 months.",
+          "Personal bank statement for the last 3 months, in original, stamped and signed by the bank.",
+          "ITR acknowledgements. The Mumbai checklist asks for the last three assessment years. The EU's 2025 list of documents for India asks for two. Carry three."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "If you are self-employed or a business owner"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Cover letter in original on your company letterhead.",
+          "Company bank statement for the last 3 months, in original.",
+          "Company registration certificate. The EU list for India adds the GST registration number for companies based in India.",
+          "Personal bank statement and ITRs, as above."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "If you are retired"
+      },
+      {
+        "type": "p",
+        "text": "The Mumbai checklist has no separate retired section. The EU's 2025 list for India asks retired applicants for pension statements for the last 3 months and/or proof of regular income from property or a business. Add these to the personal bank statement and ITRs."
+      },
+      {
+        "type": "h3",
+        "text": "Children travelling with one parent"
+      },
+      {
+        "type": "p",
+        "text": "The parent who is not travelling signs a consent form at the consulate in Mumbai, by appointment through consolare.mumbai@esteri.it. The alternative is a notarised affidavit from the parents, legalised by the state Home Department and apostilled by the MEA. Start this early, because the apostille step takes time."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Italy's checklist asks for hotels and internal transport across every Schengen country on your route, not just Italy. Before filing, we lay the itinerary, hotel bookings and train tickets side by side and check that every night is covered and every date matches. If your Venice hotel starts a night after your Florence hotel ends, fix it before you submit."
+      },
+      {
+        "type": "h2",
+        "text": "How much money do you need to show for an Italy visa?"
+      },
+      {
+        "type": "p",
+        "text": "Italy publishes a fixed table of minimum funds for tourists, set by an Interior Ministry directive of 1 March 2000. The Mumbai checklist refers to it as the \"Requisite Funds Matrix\". Per person, the minimums are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**1 to 5 days:** €269.60 in total for one traveller, or €212.81 each for two or more.",
+          "**6 to 10 days:** €44.93 per day for one traveller, or €26.33 per person per day for two or more.",
+          "**11 to 20 days:** a fixed €51.64 plus €36.67 per day for one traveller, or €25.82 plus €22.21 per day each for two or more.",
+          "**Over 20 days:** a fixed €206.58 plus €27.89 per day for one traveller."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A solo 10-day trip therefore needs at least €449.30 (about ₹48,000). A couple on the same trip needs €526.60 between them (about ₹56,000). These are floors, not targets. Officers also look at whether the balance fits your income and the cost of the trip you have booked."
+      },
+      {
+        "type": "h2",
+        "text": "Italy visa appointment in India: how to book a slot"
+      },
+      {
+        "type": "p",
+        "text": "Italy appointments are booked only through VFS Global's official Italy India site, at visa.vfsglobal.com/ind/en/ita, under \"Book an appointment\". The consulate's own visa section in Mumbai also works by appointment only. Pick the centre (Ahmedabad, Mumbai, Pune or Kochi), create the account, and book a slot for each applicant."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest:** 6 months before your trip (EU Visa Code, Article 9).",
+          "**Latest:** as a rule, 15 calendar days before you travel.",
+          "**VFS Mumbai's guidance:** apply \"between 15 and 180 working days\" before departure. This wording is stricter than the EU rule, so leave yourself a buffer."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Slots for Italy can be tight in India before the December to March peak. For a Christmas, New Year or honeymoon trip, check for slots as soon as your dates are firm, ideally 8 to 12 weeks ahead. Booking flights and hotels on free-cancellation terms lets you apply early without losing money."
+      },
+      {
+        "type": "p",
+        "text": "Book only on the VFS site, in each applicant's own name. Agents who sell \"guaranteed\" Italy slots are not part of the official process."
+      },
+      {
+        "type": "h2",
+        "text": "Italy visa processing time"
+      },
+      {
+        "type": "p",
+        "text": "Under the EU Visa Code, a Schengen visa application must be decided within **15 calendar days**. This can be extended up to **45 calendar days** in individual cases."
+      },
+      {
+        "type": "p",
+        "text": "VFS's page for the Mumbai consulate says processing takes a **minimum of 15 working days**, which is about three weeks. Treat three weeks as the normal case and plan for longer in December and January. You collect your passport, or have it couriered, through VFS. The consulate tells applicants to ask VFS or write to visamumbai@esteri.it for status updates."
+      },
+      {
+        "type": "h2",
+        "text": "Italy visa refusal: reasons, rate and what to do"
+      },
+      {
+        "type": "p",
+        "text": "If you are refused, the consulate gives you the standard EU refusal form, which ticks one or more reasons. The reasons on that form include:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The purpose and conditions of the stay were not justified.",
+          "Sufficient means of subsistence were not proven.",
+          "Reasonable doubts about your intention to leave the Schengen area before the visa expires.",
+          "Doubts about the reliability of statements or supporting documents.",
+          "No adequate travel medical insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Refusal rate:** the EU's 2025 consulate statistics show that Italy's Mumbai consulate received 22,737 short-stay applications and did not issue 2,286, a rate of about **10.1%**. Across Italy's four offices in India (Mumbai, New Delhi, Bengaluru and Kolkata), 6,810 of 53,423 applications were not issued, about **12.7%**."
+      },
+      {
+        "type": "p",
+        "text": "**Appeal:** Italy's Foreign Ministry says a visa refusal can be appealed to the **Regional Administrative Court (TAR) of Lazio within 60 days** of notification. The appeal must also be served on the Avvocatura dello Stato, the State Legal Service. This is a court case, so you need an Italian lawyer. The Ministry's page does not describe a separate reconsideration (riesame) request to the consulate for Schengen visas, so do not rely on one."
+      },
+      {
+        "type": "p",
+        "text": "**Reapply:** for most holiday trips, a fresh application that fixes the reasons ticked on the form is faster than a court appeal. Fix the itinerary, the funds or the employment proof first, then reapply with a new fee."
+      },
+      {
+        "type": "h2",
+        "text": "Will I get a multiple-entry Italy visa?"
+      },
+      {
+        "type": "p",
+        "text": "Often, yes. Since April 2024, the EU's visa cascade for India lets Indians who have obtained and lawfully used **two Schengen visas within the previous three years** get a **two-year multiple-entry visa**. That is normally followed by a **five-year visa** if the passport has enough validity left."
+      },
+      {
+        "type": "p",
+        "text": "Italy's Mumbai consulate already issues mostly multiple-entry visas. In 2025, 19,915 of the 20,451 short-stay visas it issued were multiple entry, about 97%. Your visa length still depends on your travel history and passport validity, so a first-time applicant should not count on a long visa. The 90-in-180-day limit applies whatever the visa's validity."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Italy visa"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks which country you should apply to, prepares the cover letter and itinerary, and matches every hotel, train and flight to the nights in your plan. We also review files that were refused before. We work from our office in Vastrapur, Ahmedabad, and file for clients across India. NRI children abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents here."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked this guide against the Consulate General of Italy in Mumbai, VFS Global's Italy pages for the Mumbai area, Italy's Foreign Ministry, the EU Visa Code and the EU's 2025 visa statistics. Fees in rupees, the VFS service charge and centre addresses can change at short notice. Re-check the VFS Italy India site and the consulate's checklist page before you book."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consulate General of Italy in Mumbai: Tourist Visa Application Checklist",
+        "url": "https://consmumbai.esteri.it/wp-content/uploads/2024/07/requisite_documents_for_tourist_visa.pdf"
+      },
+      {
+        "label": "Consulate General of Italy in Mumbai: Notice, operational downtime of the VIS system (VFS centres in Mumbai, Pune, Ahmedabad and Cochin)",
+        "url": "https://consmumbai.esteri.it/en/news/dal_consolato/2026/02/notice-operational-downtime-of-the-vis-computer-system-for-the-processing-and-issuance-of-entry-visas/"
+      },
+      {
+        "label": "Consulate General of Italy in Mumbai: Study in Italy (consular jurisdiction)",
+        "url": "https://consmumbai.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/study-in-italy/"
+      },
+      {
+        "label": "VFS Global: Italy visa information, Mumbai jurisdiction",
+        "url": "https://visa.vfsglobal.com/one-pager/italy/india/mumbai/english/index.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Italy: Visa refusal",
+        "url": "https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/visto_ingresso/diniego_visto/"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Italy: Table for determining the means of support required for entry",
+        "url": "https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/mezzi_finanziari/tabella_mezzi_sussistenza/"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240628"
+      },
+      {
+        "label": "European Commission: C(2025) 4379, list of supporting documents for short-stay visa applicants in India",
+        "url": "https://home-affairs.ec.europa.eu/document/download/e9890b44-c893-40f9-9a6e-161e86d20efc_en"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas (2025 consulate data)",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      }
+    ]
+  },
+  {
+    "slug": "spain-visa-for-indians-2026",
+    "title": "Spain Visa for Indians 2026: Fees, BLS Centres, Documents and Processing Time",
+    "metaTitle": "Spain Visa for Indians 2026: Fees, BLS & Documents | Travlys",
+    "metaDescription": "Spain visa for Indians: a Schengen C visa costs €90 (BLS charges ₹9,599 plus ₹1,802 service fee) for 90 days. BLS Ahmedabad, documents, timing and refusals.",
+    "excerpt": "Indians visiting Spain need a Schengen C visa: €90 per adult, up to 90 days in any 180, filed through BLS International, not VFS. Fees in rupees, the Ahmedabad centre, the Mumbai consulate's checklist, 2025 refusal figures and how to appeal.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 13,
+    "category": "Country guides",
+    "tags": [
+      "Spain",
+      "Schengen visa",
+      "Spain visa fees",
+      "BLS Ahmedabad",
+      "Visa refusal",
+      "Multiple-entry visa"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=1600&h=900&fit=crop",
+    "related": [
+      "france-visa-for-indians-2026",
+      "airport-transit-visa-for-indians-europe-2026",
+      "schengen-visa-documents-checklist-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Spain visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Spain visa fees for Indians in rupees?",
+        "a": "The Spain Schengen visa fee is €90 for adults and €45 for children aged 6 to 11, and children under 6 pay nothing. BLS International, which runs Spain's visa centres in India, currently lists ₹9,599 for adults and ₹4,799 for children, plus a BLS service charge of ₹1,802 including 18% GST. That makes about ₹11,401 per adult. The rupee amount follows the exchange rate and can change without notice, and the fee is not refunded if the visa is refused."
+      },
+      {
+        "q": "Spain visa for Indians how many days stay?",
+        "a": "A Spanish Schengen visa allows a stay of up to 90 days in any 180-day period. The visa sticker shows the dates between which you may travel and the number of days you may spend inside Schengen. A single-entry visa lets you move freely between Schengen countries, but once you leave Schengen you cannot come back on it. For more than 90 days you need a Spanish national (long-stay) visa, which has separate rules."
+      },
+      {
+        "q": "Spain tourist visa documents for Indians?",
+        "a": "Indians need a typed and signed application form, a photo, a passport issued within 10 years with two blank pages, travel insurance of at least €30,000, a cover letter, return flight bookings and hotels for the whole stay. For money, the Mumbai consulate's tourist checklist asks for six months of stamped bank statements, ITR-V or Form 16 for two years, a PAN copy and three months' payslips. Gujarat and Maharashtra residents also need proof of residence in the consular district."
+      },
+      {
+        "q": "Spain visa processing time in India?",
+        "a": "The legal decision period is 15 calendar days from the day after you submit, extended to 45 days if the consulate asks for an interview or more documents. The Mumbai consulate's checklist gives an average processing time of 1 to 2 working days once a file reaches it, but BLS says files from centres outside Mumbai and Delhi take 2 to 4 days to arrive. Apply up to six months ahead, and at least 15 days before travel."
+      },
+      {
+        "q": "Can I visit other Schengen countries with a Spain visa?",
+        "a": "Yes. A Schengen visa issued by Spain is valid for travel across the Schengen area, including France, Italy, Portugal and Switzerland, within the 90-day limit. What matters is where you apply. Spain must be your main destination by length of stay or purpose. If no country is the main destination, you apply to the country where you first enter Schengen. If France is your main stop, apply to France, not Spain."
+      },
+      {
+        "q": "Spain visa rejection rate for Indians and what to do if refused?",
+        "a": "In 2025 the Spanish consulate in Mumbai did not issue 11.7% of the Schengen visas applied for, and the embassy in New Delhi 20.0%, according to European Commission statistics. If you are refused, you can ask the consulate to reconsider (recurso de reposición) within one month of notification, or go to the High Court of Justice of Madrid within two months. If the gap is easy to fix, a fresh application is often quicker."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Planning Barcelona, Madrid or a Spain and Paris trip? Indians need a **Schengen short-stay (C) visa** for Spain. The visa fee is **€90** per adult, which BLS currently collects as **₹9,599**, and **€45** for children aged 6 to 11, plus a **₹1,802** BLS service charge. You can stay up to **90 days in any 180**, and the consulate must decide within **15 calendar days**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay (C) visa. **Stay:** up to 90 days in any 180-day period. **Visa fee:** €90 adult (BLS lists ₹9,599), €45 child aged 6 to 11 (₹4,799), free under 6. **BLS service charge:** ₹1,802 including GST. **Gujarat and Maharashtra:** Consulate General of Spain in Mumbai. **Service provider:** BLS International, not VFS Global. **Ahmedabad centre:** yes, BLS in Navrangpura. **Decision time:** 15 calendar days, up to 45. **Apply:** between 6 months and 15 days before travel. **Insurance:** at least €30,000. **2025 not-issued rate:** 11.7% at the Mumbai consulate."
+      },
+      {
+        "type": "h2",
+        "text": "Spain visa for Indians: which visa do you need?"
+      },
+      {
+        "type": "p",
+        "text": "For a holiday, a family visit or a business trip of up to 90 days, you need a **uniform Schengen visa**, type \"C\". The Consulate General of Spain in Mumbai says it covers tourism, business, family visits, medical treatment and short courses under three months, and lets you travel across all 29 Schengen countries."
+      },
+      {
+        "type": "p",
+        "text": "Most families and couples apply under the **Tourism / private visit** checklist. If you plan to live, work or study in Spain for longer than 90 days, you need a Spanish national (D) visa instead."
+      },
+      {
+        "type": "p",
+        "text": "One change helps travellers who only change planes. From **4 March 2026**, Spain dropped the **airport transit visa** for Indians with ordinary passports transiting through the international zone of a Spanish airport, according to the Embassy of Spain in New Delhi. If you are leaving the airport in Spain, you still need the full Schengen visa."
+      },
+      {
+        "type": "h2",
+        "text": "Spain visa fees for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Schengen fee is fixed in euros by EU law. BLS collects it in rupees at the current exchange rate, together with its own service charge."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults (12 and above):** €90. BLS lists ₹9,599.",
+          "**Children aged 6 to 11:** €45. BLS lists ₹4,799.",
+          "**Children under 6:** no visa fee and no BLS service charge.",
+          "**BLS service charge:** ₹1,802 per applicant, including 18% GST.",
+          "**Total for one adult:** about ₹11,401, before optional extras such as courier or SMS updates.",
+          "**Refunds:** none. BLS states the fee is non-refundable."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Official figures differ slightly. The Mumbai consulate's fee sheet from 1 July 2025 shows ₹8,920 for adults, and €90 is about ₹9,200 at the European Central Bank rate of 20 November 2026. BLS says its rupee amount follows the current rate and can change without notice, so check its fee table on the day you pay."
+      },
+      {
+        "type": "h2",
+        "text": "Spain visa VFS or BLS? Where to apply from Gujarat and Maharashtra"
+      },
+      {
+        "type": "p",
+        "text": "Spain does not use VFS Global in India. All Spanish visa centres are run by **BLS International**, and the Mumbai consulate states that applications must be submitted through BLS."
+      },
+      {
+        "type": "p",
+        "text": "If you live in Gujarat or Maharashtra, your file is decided by the **Consulate General of Spain in Mumbai**. The Embassy of Spain lists the Mumbai consulate's jurisdiction as Andhra Pradesh, Chhattisgarh, Goa, Gujarat, Karnataka, Kerala, Maharashtra, Tamil Nadu and Telangana, plus Dadra and Nagar Haveli, Daman and Diu and Puducherry. Northern and eastern states, including Delhi NCR, Rajasthan, Punjab, Madhya Pradesh and West Bengal, belong to the embassy in New Delhi."
+      },
+      {
+        "type": "p",
+        "text": "BLS says jurisdiction depends on **where you have lived for the past six months**, not the address in your passport. A centre will not accept a file from the wrong jurisdiction. A Royal Decree of December 2025 creates a new Spanish Consulate General in Bangalore for the southern states. Gujarat and Maharashtra stay with Mumbai."
+      },
+      {
+        "type": "p",
+        "text": "BLS lists Spain visa centres in these Indian cities:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**West:** Ahmedabad, Mumbai.",
+          "**North:** New Delhi, Chandigarh, Jalandhar.",
+          "**South:** Bengaluru, Chennai, Hyderabad, Kochi, Puducherry.",
+          "**East:** Kolkata."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Ahmedabad has a Spain centre.** BLS lists it at Flexi Business Hub, 2nd Floor, Madhur Complex, opposite Gwalia Sweets, near Stadium Cross Road, Navrangpura, Ahmedabad 380009. Submissions run from 08:00 to 13:00 and passport collection from 16:00 to 17:00, Monday to Friday. Spain also opened an honorary consulate in Ahmedabad in 2024, but it serves Spanish citizens. Your visa file still goes through BLS."
+      },
+      {
+        "type": "p",
+        "text": "Book appointments only on the BLS website. BLS warns that it never charges for appointments and asks applicants not to buy slots from intermediaries."
+      },
+      {
+        "type": "h2",
+        "text": "Should you apply to Spain or another Schengen country?"
+      },
+      {
+        "type": "p",
+        "text": "Apply to Spain only if Spain is your **main destination**. Under the EU Visa Code, that is the country where you spend the most days, or the main purpose of your trip. If no country stands out, apply to the country where you first enter Schengen. BLS says the same in its FAQs and will ask for proof."
+      },
+      {
+        "type": "p",
+        "text": "Take a common Spain and France holiday:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**4 nights Barcelona, 2 nights Madrid, 3 nights Paris:** 6 nights in Spain, so apply to Spain.",
+          "**3 nights Barcelona, 5 nights Paris:** France is the main destination, so apply to France.",
+          "**4 nights Paris, 4 nights Barcelona, flying into Barcelona:** nights are equal and you enter Schengen in Spain, so apply to Spain.",
+          "**Same split, flying into Paris:** apply to France."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Recount the nights every time the plan changes. If you add Lisbon or the Swiss Alps after booking, your hotels may no longer show Spain as the main destination, and a form that says Spain against bookings that say otherwise invites a refusal for \"purpose and conditions not justified\"."
+      },
+      {
+        "type": "h2",
+        "text": "Spain tourist visa documents for Indians: the official checklist"
+      },
+      {
+        "type": "p",
+        "text": "The Consulate General of Spain in Mumbai publishes a **Tourism / private visit checklist**, which BLS hosts for applicants in the Mumbai jurisdiction. It follows the EU's list of supporting documents for India. Basic documents:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application form**, filled online, printed and signed in blue ink. BLS has not accepted handwritten forms since 4 November 2024.",
+          "**Photo:** one colour photo, 35 to 45 mm, white background, not older than six months, stuck on the form.",
+          "**Passport** issued within the last 10 years, valid at least three months after your stay, with two blank pages. Include old passports.",
+          "**Passport copies:** the biodata pages (first and last page of an Indian passport) and every page with a stamp or visa.",
+          "**Previous refusals:** if you were refused a visa in the last two years, attach the refusal notice or a written explanation.",
+          "**Proof of residence** in the consular district, such as a utility bill under six months old, a lease or a house deed.",
+          "**Travel medical insurance** of at least €30,000, valid across Schengen for the whole stay. The consulate links a list of approved Indian insurers.",
+          "**Cover letter** explaining the purpose of the trip.",
+          "**Return flight bookings**, plus internal travel bookings. The consulate advises not to buy tickets before the visa is granted.",
+          "**Hotel bookings** for the whole stay, or, if you stay with family or friends in Spain, an invitation letter issued by the Spanish national police."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Financial documents"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Bank statements:** original, stamped and signed. The Mumbai tourist checklist asks for **six months**. The consulate's web page says three months. Give six to be safe.",
+          "**Income tax:** ITR-V or Form 16 for the last two years, and a PAN card copy.",
+          "**Salaried:** payslips for the last three months. The EU list for India also asks for your employment contract and your employer's leave approval.",
+          "**Self-employed or business owners:** company registration certificate with the GST number, business bank statements and barcode-verifiable ITR, as the EU list for India sets out.",
+          "**Retired:** pension slips, and proof of income from property or deposits where relevant.",
+          "**Sponsored:** a signed letter from the sponsor stating what they will pay, proof of the relationship, and the sponsor's own bank statements and ITR."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a child travelling without both parents, add a notarised authorisation letter signed by both, with copies of their IDs."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Proof of residence is easy to overlook. If you moved to Ahmedabad or Surat recently, or your Aadhaar shows an address in another state, carry a recent electricity bill, rent agreement or property papers in your own name showing at least six months in the Mumbai jurisdiction."
+      },
+      {
+        "type": "h2",
+        "text": "Spain visa processing time and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "You can apply **up to six months before travel** and must apply **at least 15 days before**. The legal decision period is **15 calendar days** from the day after you submit, extended to **45 days** if the consulate asks for an interview or more documents."
+      },
+      {
+        "type": "p",
+        "text": "In practice, the Mumbai consulate's checklist gives an average processing time of **1 to 2 working days** once your file reaches it. BLS says files from centres outside Mumbai and Delhi take **2 to 4 days** to get there, so allow for that from Ahmedabad. Centres under the Mumbai jurisdiction accept a file only if your travel date is more than 15 calendar days after submission, unless the consulate has approved an exception by email in advance."
+      },
+      {
+        "type": "p",
+        "text": "For the December and January peak:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Christmas and New Year trips:** a 1 January departure means submitting by mid-December at the latest. If you have no appointment yet, check the BLS site daily and keep hotel bookings refundable.",
+          "**Late January to March trips:** book your BLS slot in November or early December."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Spain visa rejection rate for Indians: the 2025 numbers"
+      },
+      {
+        "type": "p",
+        "text": "The European Commission publishes visa statistics for every Schengen consulate. For Spain in India in 2025:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Consulate General in Mumbai:** 50,389 Schengen visas applied for, 43,953 issued, 5,830 not issued. Not-issued rate **11.7%**.",
+          "**Embassy in New Delhi:** 40,331 applied for, 31,953 issued, 7,995 not issued. Not-issued rate **20.0%**.",
+          "**Both posts together:** about **15.4%** not issued."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Gujarat and Maharashtra applicants go to Mumbai, which had the lower rate. Your own result depends on whether your documents support the trip you describe."
+      },
+      {
+        "type": "h2",
+        "text": "Spain visa refused: reasons and how to appeal"
+      },
+      {
+        "type": "p",
+        "text": "Spain must give refusals in writing, with the reasons ticked on the **standard EU refusal form** (Annex VI of the Visa Code). Common grounds include:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The purpose and conditions of the stay were not justified.",
+          "No proof of sufficient means for the stay and the return.",
+          "The information about the purpose and conditions of the stay was not reliable.",
+          "Reasonable doubts about the authenticity of documents or the truth of their contents.",
+          "Reasonable doubts about your intention to leave Schengen before the visa expires.",
+          "You have already used 90 days in the current 180-day period."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Option 1: ask the consulate to reconsider (recurso de reposición).** For Mumbai-jurisdiction refusals, submit the appeal with all supporting documents at any BLS centre, without an appointment, **within one month** of the day after you receive the refusal. Spanish administrative law (Law 39/2015) gives the consulate a maximum of one month to decide. The New Delhi embassy asks for an appeal letter in Spanish, or Spanish and English, handed in at its consular section."
+      },
+      {
+        "type": "p",
+        "text": "**Option 2: go to court (recurso contencioso-administrativo).** You can apply for judicial review to the **High Court of Justice of Madrid** within **two months** of the refusal, or of the decision rejecting your reconsideration request."
+      },
+      {
+        "type": "p",
+        "text": "**Option 3: reapply.** If the refusal came from a gap you can close, such as unexplained deposits, nights that point to another country or a missing leave letter, a fresh application is often faster. It is a new file with new fees, and the Mumbai checklist asks you to attach the earlier refusal notice."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry Spain visas under the India cascade"
+      },
+      {
+        "type": "p",
+        "text": "Since April 2024, the EU has applied a special \"cascade\" for Indians living in India. According to the EU Delegation to India, if you have **obtained and lawfully used two Schengen visas in the previous three years**, you can get a **two-year multiple-entry visa**. That is normally followed by a **five-year visa** if your passport has enough validity left."
+      },
+      {
+        "type": "p",
+        "text": "You still need a complete file. In 2025, multiple-entry visas were about 13.5% of the visas issued by Spain's Mumbai consulate. Keep old passports with your Schengen stickers, because they are your proof."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team prepares Spain files around the points the Mumbai consulate checks: the main-destination count, proof of residence, a cover letter that matches your bookings night for night, and the right financial documents for salaried, business or retired applicants. If you were refused, we read the refusal form and advise whether to ask for reconsideration or reapply. NRI children abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate with parents in India. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "On 21 November 2026 we checked the Consulate General of Spain in Mumbai's Schengen visa page and fee sheet, the Embassy of Spain in New Delhi's jurisdiction page and transit visa notice, the BLS International Spain fee table, centre list and Mumbai tourist checklist, the EU Visa Code, the Commission's India document list and 2025 visa statistics, and Spanish Law 39/2015. Before you apply, re-check the BLS fee table, the Mumbai consulate's Schengen visa page and the BLS appointment calendar."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consulate General of Spain in Mumbai: Schengen visas",
+        "url": "https://www.exteriores.gob.es/Consulados/mumbai/en/ServiciosConsulares/Paginas/Consular/Visados-Schengen.aspx"
+      },
+      {
+        "label": "Embassy of Spain in India: Consulates and consular jurisdictions",
+        "url": "https://exteriores.gob.es/Embajadas/nuevadelhi/en/Embajada/Paginas/Consulados.aspx"
+      },
+      {
+        "label": "Embassy of Spain in India: Elimination of the airport transit visa for Indian nationals from 4 March 2026",
+        "url": "https://www.exteriores.gob.es/Embajadas/nuevadelhi/es/Comunicacion/Noticias/Paginas/Articulos/19022026_NOT.aspx"
+      },
+      {
+        "label": "BLS International (official Spain visa partner in India): Short Term Visa, fees and checklists",
+        "url": "https://india.blsspainvisa.com/short_term_visa.php"
+      },
+      {
+        "label": "BLS International: Spain visa application centres in India",
+        "url": "https://india.blsspainvisa.com/contact.php"
+      },
+      {
+        "label": "Consulate General of Spain in Mumbai: Tourism / private visit document checklist",
+        "url": "https://india.blsspainvisa.com/assets/pdf/english/Tourist-Visa.pdf"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240628"
+      },
+      {
+        "label": "European Commission: C(2025) 4379, list of supporting documents for short-stay visa applicants in India",
+        "url": "https://home-affairs.ec.europa.eu/document/download/e9890b44-c893-40f9-9a6e-161e86d20efc_en"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      }
+    ]
+  },
+  {
+    "slug": "greece-visa-for-indians-2026",
+    "title": "Greece Visa for Indians 2026: Price, Documents, Processing Time and Where to Apply",
+    "metaTitle": "Greece Visa for Indians 2026: Price & Processing | Travlys",
+    "metaDescription": "Greece visa for Indians: a Schengen visa at €90 (₹9,540) plus €30 GVCW fee, decided in Delhi. Ahmedabad centre, documents, timing, US visa myth, refusals.",
+    "excerpt": "A Greek visa is a Schengen visa: €90 plus a €30 GVCW fee, decided by the Embassy in New Delhi. The October 2026 checklist, the Ahmedabad and Mumbai centres, island-hopping and the main destination rule, the 15-working-day cut-off and what to do after a refusal.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "readMinutes": 14,
+    "category": "Country guides",
+    "tags": [
+      "Greece",
+      "Schengen visa",
+      "Tourist visa",
+      "Santorini",
+      "Honeymoon",
+      "Visa refusal"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=1600&h=900&fit=crop",
+    "related": [
+      "italy-visa-for-indians-2026",
+      "schengen-visa-documents-checklist-2026",
+      "honeymoon-destinations-visa-free-for-indian-couples-2026-27"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Greece visa filed"
+    },
+    "faqs": [
+      {
+        "q": "What is the Greece visa price for Indians in rupees?",
+        "a": "A Greece visa costs €90 for an adult, which the official GVCW fee table shows as ₹9,540, plus a €30 service fee per application, about ₹3,200. Children under 12 pay no visa fee under Greece's fee table. You pay in rupees, in cash or by UPI, at the Greece visa centre, and the rupee amounts follow the euro exchange rate. Courier, SMS and lounge services cost extra, and the visa fee is not refunded if you are refused."
+      },
+      {
+        "q": "How many days Greece visa is given for Indians?",
+        "a": "A Greece visa allows at most 90 days in any 180-day period, but most tourists get a visa that matches the trip dates in their bookings. The number of days you may stay is printed in the \"duration of stay\" box on the sticker, and you must leave by the \"until\" date. Indians who have obtained and lawfully used two Schengen visas in the last three years can qualify for a two-year multiple-entry visa under the 2024 EU cascade."
+      },
+      {
+        "q": "What documents are required for a Greece tourist visa from India?",
+        "a": "You need the signed application form, two 3.5 x 4 cm photos, a passport issued within 10 years and valid 3 months beyond the visa, and a cover letter. Add €30,000 travel insurance from an approved Indian insurer, return flights and hotels for every night, and 3 months of stamped bank statements. Include ITR acknowledgements for two years, plus pay slips, an employment contract and a leave letter if employed. Couples need a spouse endorsement in their passports or an MEA-apostilled marriage certificate."
+      },
+      {
+        "q": "What is the Greece visa processing time in India?",
+        "a": "Plan on about three to four weeks. GVCW says Greek visas can take up to 15 working days, and applications lodged outside New Delhi, such as in Ahmedabad or Mumbai, need 5 extra days because they are first sent to Delhi. Some files take up to 45 days when the Embassy asks for more documents or an interview. Centres will not accept a file lodged later than 15 working days before departure, so apply early, especially for December and summer trips."
+      },
+      {
+        "q": "Can I get a Greece visa with a US visa?",
+        "a": "No, a US visa does not give Indians visa-free entry to Greece or any other Schengen country. India is on the EU list of countries whose nationals need a Schengen visa, and there is no exception for US, UK or Canada visa holders. A used US visa still helps as travel history, because the Greek checklist asks for copies of all visas and stamps in your passport and your old passports. You still need a complete Schengen file."
+      },
+      {
+        "q": "What is the Greece visa success rate for Indians?",
+        "a": "In 2025 the Greek Embassy in New Delhi issued 27,232 visas from 41,009 applications, according to European Commission statistics. Its not-issued rate was about 33.2%, against about 15.8% for all Schengen consulates in India together. If you are refused, the standard EU form lists the grounds, and Greece's form explains how to appeal and the deadline. Many applicants simply reapply with the gaps fixed, which needs a new fee."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried about a Greek refusal or a missing slot before your Santorini trip? A Greece visa for Indians is a Schengen short-stay (type C) visa costing **€90 (₹9,540 on the official fee table)** plus a **€30 service fee**, and children under 12 pay no visa fee. It allows up to **90 days in any 180**. Plan on **15 working days**, plus **5 days** if you apply outside Delhi."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay visa (type C), valid across the 29 Schengen countries. **Visa fee:** €90 (₹9,540 on the GVCW fee table), free for children under 12. **Service fee:** €30 per application, paid in rupees (about ₹3,200). **Who decides:** the Consular Office of the Embassy of Greece in New Delhi. **Where to apply:** 15 GVCW centres, including Ahmedabad and Mumbai. **Processing:** up to 15 working days, plus 5 days from centres outside New Delhi. **Apply:** up to 6 months ahead, and not later than 15 working days before departure. **2025 not-issued rate in India:** about 33.2%."
+      },
+      {
+        "type": "h2",
+        "text": "Greece visa for Indians price: fees in rupees"
+      },
+      {
+        "type": "p",
+        "text": "The visa fee is set in euros and you pay the rupee equivalent at the visa centre. Global Visa Center World (GVCW), the Embassy's only external service provider in India, publishes this table:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adult:** €90, shown as ₹9,540.",
+          "**Child under 12:** no visa fee. The EU standard is €45 for ages 6 to 11, but the Visa Code allows waivers and Greece lists under-12s as free.",
+          "**GVCW service fee:** €30 per application, including taxes, calculated daily on the European Central Bank's euro rate (about ₹3,200).",
+          "**Optional extras:** courier, SMS updates, lounge and form-filling help, priced separately."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You pay in cash or by UPI at the centre (the New Delhi centre is cash only for now, per GVCW's May 2026 notice). The visa fee is not refunded if you are refused."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for a Greece visa in India: Ahmedabad, Mumbai and 13 other cities"
+      },
+      {
+        "type": "p",
+        "text": "**Every Greek Schengen visa from India is decided by the Consular Office of the Embassy of Greece in New Delhi.** Greece has no career consulate in Mumbai that decides visas. The Embassy's contact page lists honorary consulates in Mumbai, Chennai and Kolkata, but tourist files go through GVCW and then to Delhi. GVCW runs Greece visa centres in:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ahmedabad",
+          "Bangalore",
+          "Chandigarh",
+          "Chennai",
+          "Cochin",
+          "Goa",
+          "Gurgaon",
+          "Hyderabad",
+          "Jaipur",
+          "Jalandhar",
+          "Kolkata",
+          "Mumbai",
+          "New Delhi",
+          "Puducherry",
+          "Pune"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "**Ahmedabad:** Ground Floor, Shree Balaji Agora Mall, between Tapovan and Bhat Circle, 200 Ft Sardar Patel Ring Road, Motera, Gujarat 382424. Submissions are taken Monday to Friday, 09:00 to 14:00, and passports are returned from 14:00 to 16:00."
+      },
+      {
+        "type": "p",
+        "text": "**Mumbai:** 4th Floor, Urmi Axis Building, behind Famous Studio, opposite E. Moses Road, Mahalaxmi (West), Mumbai 400011. Submissions are taken Monday to Friday, 08:00 to 15:00, and passports are returned from 15:00 to 17:00."
+      },
+      {
+        "type": "p",
+        "text": "Files from every city outside Delhi go first to the GVCW New Delhi centre and then to the Embassy, which is where the 5 extra days come from. The Embassy can also call you to New Delhi for an interview before deciding."
+      },
+      {
+        "type": "h2",
+        "text": "How to book a Greece visa appointment (the official route)"
+      },
+      {
+        "type": "p",
+        "text": "Book only on the GVCW India website (in-gr.gvcworld.eu) or through its call centre on +91 22 6786 6011, where booking is free. The steps are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Create an account and choose the centre nearest your residence address.",
+          "Fill in the application form online on the GVCW site, then print and sign it.",
+          "Book a slot and bring the printed appointment letter.",
+          "Print the \"Data Protection Information\" sheet and add it to your file."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Walk-ins are at the centre manager's discretion, so do not count on one. GVCW warns that anyone selling appointments is not authorised. Every applicant must appear in person for biometrics, whatever their age, so book a slot for each family member."
+      },
+      {
+        "type": "h2",
+        "text": "Santorini, Mykonos and Athens, or Greece plus Italy: which country to apply to"
+      },
+      {
+        "type": "p",
+        "text": "Apply to Greece only if Greece is your main destination. Under Article 5 of the EU Visa Code, that is the country where you spend the most days (or the main purpose of the trip). If no main destination can be found, you apply to the country you enter first. In practice:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Athens 2 nights, Santorini 3, Mykonos 2:** all seven nights are in Greece, so apply to Greece. Island ferries and domestic flights stay inside one country.",
+          "**Athens 2, Santorini 3, then Rome and Venice 5:** Italy has more nights, so apply to Italy.",
+          "**Santorini and Mykonos 4 nights, Rome 4 nights, flying Mumbai to Athens:** the nights are equal, so apply to Greece because you enter there first.",
+          "**Same 4 and 4 split, flying into Rome first:** apply to Italy."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Fix the split of nights before you pay for hotels. A Greek visa still lets you visit every Schengen country within the days granted."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "For island trips, put the Athens to Santorini and Santorini to Mykonos ferry or flight bookings in the file, and check that each date matches a hotel check-out and the next check-in. A ferry day with no hotel, or a hotel that starts a day late, is exactly the kind of gap an officer queries."
+      },
+      {
+        "type": "h2",
+        "text": "Greece visa documents for Indians: the Embassy's checklist"
+      },
+      {
+        "type": "p",
+        "text": "The Consular Section in New Delhi issued a fresh checklist in October 2026, based on the EU list for India. Every applicant needs:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application form:** completed and signed (filled online at GVCW, then printed).",
+          "**Two photos:** recent, colour, 3.5 x 4 cm, white background, to ICAO specifications.",
+          "**Passport:** valid for at least 3 months after the visa ends, with at least two blank pages, issued within the last 10 years. Add copies of the first and last pages and of all visas and stamps, plus any previous passport.",
+          "**Cover letter:** explaining the details of the visit.",
+          "**Travel medical insurance:** at least €30,000, covering all Schengen countries for the whole stay, including medical repatriation. The checklist says that in India, policies are accepted only from specific Indian insurance companies, and GVCW publishes the approved list.",
+          "**Flights:** a return or round-trip reservation, plus any intra-Schengen flight, train or car hire.",
+          "**Hotels:** reservations for every place you stay, or the host's sponsorship and accommodation proof.",
+          "**For tourism:** a travel agency certificate confirming an organised trip, or any other document showing your travel plans."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "GVCW wants a separate A4 pack for each applicant, each with its own accommodation proof, even for a family. Originals must come with a photocopy."
+      },
+      {
+        "type": "h3",
+        "text": "Money documents by profile"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Everyone:** original bank statement for the last **3 months**, stamped and signed by the bank, and attested ITR acknowledgements for the last **two assessment years**.",
+          "**Employed:** last 3 months' pay slips, employment contract and the employer's letter approving your leave.",
+          "**Company owner or self-employed:** the company's certificate of registration, in addition to the bank statement and ITRs.",
+          "**Retired:** pension statements for the last 3 months and proof of regular income from property or a business.",
+          "**Sponsored:** the sponsor fills in the Greek official sponsorship form and attaches their own financial documents as a separate set in each application."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Couples, honeymooners and children"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Married couples:** the spouse's name should be endorsed in both passports. If it is not, bring the original marriage certificate apostilled by the MEA. If neither is possible, the checklist accepts an affidavit.",
+          "**Engaged couples:** an affidavit as proof of the relationship.",
+          "**Children:** copies of the parents' passports, a school ID for students, and notarised parental consent letters. Both parents sign if the child travels alone, with one parent, or if the parents travel on different dates (unless one parent has sole custody)."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "A cover letter that works"
+      },
+      {
+        "type": "p",
+        "text": "Keep it to one page, addressed to the Consular Office, Embassy of Greece, New Delhi. Sample wording: \"I, [name], passport [number], working as [role] at [company], Ahmedabad, request a Schengen tourist visa for my wife [name] and me from [date] to [date]. We will spend 2 nights in Athens, 3 in Santorini and 2 in Mykonos. My employer has approved our leave, we return on [date], and I will pay for the trip from the savings shown in the attached statements.\" Every date in the letter must match the form, hotels and flights."
+      },
+      {
+        "type": "h2",
+        "text": "Greece visa processing time and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "**Plan on about three to four weeks from submission.** The Visa Code gives consulates 15 calendar days to decide, extendable to 45 days when a file needs more scrutiny. GVCW's March 2025 notice says up to 15 working days, plus 5 days for files lodged outside New Delhi."
+      },
+      {
+        "type": "p",
+        "text": "You can apply up to **6 months** before travel. The key Greek rule is the cut-off: on the Embassy's instructions, centres in India will not accept an application lodged later than **15 working days** before departure. The Embassy also says applications peak from April to July, so book summer honeymoon slots early."
+      },
+      {
+        "type": "h3",
+        "text": "Booking for December and January trips"
+      },
+      {
+        "type": "p",
+        "text": "For a 26 December 2026 departure, 15 working days before falls on about 4 December, once weekends and Christmas Day are taken out. That is the last day a centre will take your file, not a target. Apply as soon as hotels and flights are confirmed, ideally in November, and for January or February trips apply by early December."
+      },
+      {
+        "type": "h2",
+        "text": "Greece visa with US visa: does it help?"
+      },
+      {
+        "type": "p",
+        "text": "**No, a US visa does not let an Indian enter Greece without a Schengen visa.** India is on Annex I of EU Regulation 2018/1806, the list of countries whose nationals need a visa for the Schengen area. There is no exception for holders of US, UK or Canadian visas, in Greece or anywhere else in Schengen."
+      },
+      {
+        "type": "p",
+        "text": "What a US visa can do is show travel history. The Greek checklist asks for copies of all visas and stamps and your previous passports, so a used US visa shows you have travelled and come back on time. It is one piece of evidence, not a shortcut."
+      },
+      {
+        "type": "h2",
+        "text": "Greece visa success rate and what to do if you are refused"
+      },
+      {
+        "type": "p",
+        "text": "The European Commission's 2025 consulate statistics show that the Greek Embassy in New Delhi received **41,009** short-stay applications and issued **27,232** visas, and did not issue **13,526**. That is a not-issued rate of about **33.2%**, roughly one file in three, against about **15.8%** for all Schengen consulates in India combined. Treat Greece as a country where a weak file is likely to be refused."
+      },
+      {
+        "type": "p",
+        "text": "If you are refused, you get the EU standard refusal form (Annex VI of the Visa Code), with one or more of 17 grounds ticked. The common ones on tourist files are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Ground 2:** justification for the purpose and conditions of the stay was not provided.",
+          "**Ground 3:** no proof of sufficient means for the stay and the return.",
+          "**Ground 10:** the information about the purpose and conditions of the stay was not reliable.",
+          "**Ground 12:** reasonable doubts about the reliability or authenticity of the documents.",
+          "**Ground 13:** reasonable doubts about your intention to leave before the visa expires.",
+          "**Ground 16:** no proof of adequate and valid travel medical insurance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "When you collect a refused passport, GVCW asks you to sign the refusal letter and hand it back for the Embassy, and you keep a copy. With courier return, you must send the signed letter to the Embassy yourself."
+      },
+      {
+        "type": "p",
+        "text": "**Appeal or reapply?** Article 32 of the Visa Code gives you the right to appeal under Greek law, and the refusal form must state the procedure and deadline. Read the authority and deadline printed on your own form and act within it. You can also reapply at any time with a new fee. When the ticked ground is a fixable gap (bank statement, insurance, bookings, cover letter), a corrected fresh file is usually faster."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry Greece visas: the 2024 cascade for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Since 18 April 2024, Indians living in India who have obtained and lawfully used **two Schengen visas in the previous three years** can get a **two-year multiple-entry visa**. That is normally followed by a **five-year** visa if the passport has enough validity left. The EU Delegation to India says that during these visas, holders have travel rights equivalent to visa-free nationals."
+      },
+      {
+        "type": "p",
+        "text": "In 2025, 11,091 of the 27,232 visas the Greek Embassy issued in New Delhi were multiple-entry, about 41%. First-time applicants should expect a visa matched to their trip dates."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Greece visa"
+      },
+      {
+        "type": "p",
+        "text": "Our team at 605 Shivalik Shilp II, Vastrapur, Ahmedabad prepares Greek tourist, honeymoon and family files for clients across India. We check the main destination rule, build each pack to the Embassy's October 2026 checklist, draft the cover letter, book the GVCW slot before the cut-off, and review refusal forms before you appeal or refile. NRI children abroad can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 21 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked this guide against the GVCW India website, the Embassy of Greece's October 2026 checklist, the Embassy's visa pages, the EU Visa Code, EU Regulation 2018/1806, the EU Delegation to India and the European Commission's 2025 visa statistics. Before you apply, re-check the GVCW fee table and centre timings, the latest checklist PDF on the GVCW site, and the appeal instructions on your refusal form if you are refused."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Global Visa Center World (GVCW) India: Visa info, Tourism (fees, service fee, processing, requirements)",
+        "url": "https://in-gr.gvcworld.eu/en/visa-info-tourism"
+      },
+      {
+        "label": "Embassy of Greece in New Delhi, Consular Section: Schengen visa documents to be submitted (PDF, October 2026)",
+        "url": "https://in-gr.gvcworld.eu/sites/default/files/paragraph/files/notice_from_the_embassy_of_greece_29102026.pdf"
+      },
+      {
+        "label": "GVCW India: Choose your Visa Application Center",
+        "url": "https://in-gr.gvcworld.eu/en/choose-your-vac"
+      },
+      {
+        "label": "GVCW India: Processing time of applications for Schengen visa",
+        "url": "https://in-gr.gvcworld.eu/en/news/processing-time-of-applications-for-schengen-visa"
+      },
+      {
+        "label": "Greece in India (Hellenic Ministry of Foreign Affairs): Visas",
+        "url": "https://www.mfa.gr/missionsabroad/en/india-en/visas"
+      },
+      {
+        "label": "Greece in India: Processing time of applications for Schengen Visa",
+        "url": "https://www.mfa.gr/missionsabroad/en/india-en/visas/processing-time-of-applications-for-schengen-visa.html"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240628"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EU) 2018/1806, list of third countries whose nationals must hold visas",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32018R1806"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      }
+    ]
+  },
+  {
     "slug": "switzerland-visa-for-indians-2026",
     "title": "Switzerland Visa for Indians 2026: Fees, Documents, VFS Ahmedabad and Processing Time",
     "metaTitle": "Switzerland Visa for Indians 2026: Fees, Documents | Travlys",
@@ -27,9 +1120,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1600&h=900&fit=crop",
     "related": [
+      "italy-visa-for-indians-2026",
       "honeymoon-destinations-visa-free-for-indian-couples-2026-27",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-visa-appointment-india-how-to-get-slot-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -371,9 +1464,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1600&h=900&fit=crop",
     "related": [
+      "italy-visa-for-indians-2026",
       "schengen-visa-documents-checklist-2026",
-      "schengen-visa-for-christmas-new-year-trips-2026",
-      "schengen-visa-appointment-india-how-to-get-slot-2026"
+      "schengen-visa-for-christmas-new-year-trips-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -1412,9 +2505,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=1600&h=900&fit=crop",
     "related": [
+      "greece-visa-for-indians-2026",
       "switzerland-visa-for-indians-2026",
-      "visa-free-countries-for-indians-2026",
-      "new-year-international-trips-from-india-easy-visa"
+      "visa-free-countries-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -5268,9 +6361,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600&h=900&fit=crop",
     "related": [
+      "spain-visa-for-indians-2026",
       "france-visa-for-indians-2026",
-      "schengen-5-year-multiple-entry-visa-for-indians-2026",
-      "visa-application-centres-ahmedabad-addresses-2026"
+      "schengen-5-year-multiple-entry-visa-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -18264,9 +19357,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=1600&h=900&fit=crop",
     "related": [
+      "spain-visa-for-indians-2026",
       "france-visa-for-indians-2026",
-      "schengen-visa-documents-checklist-2026",
-      "us-visa-from-india-2026-complete-guide"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -20221,9 +21314,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1480413258216-ff003d179d65?w=1600&h=900&fit=crop",
     "related": [
+      "greece-visa-for-indians-2026",
       "switzerland-visa-for-indians-2026",
-      "malaysia-visa-for-indians-2027-evisa",
-      "schengen-visa-documents-checklist-2026"
+      "malaysia-visa-for-indians-2027-evisa"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -27772,7 +28865,7 @@ export const BLOG_POSTS = [
     category: 'Checklists',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['switzerland-visa-for-indians-2026', 'schengen-5-year-multiple-entry-visa-for-indians-2026', 'schengen-visa-appointment-india-how-to-get-slot-2026'],
+    related: ['italy-visa-for-indians-2026', 'switzerland-visa-for-indians-2026', 'schengen-5-year-multiple-entry-visa-for-indians-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
