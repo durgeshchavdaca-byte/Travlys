@@ -11166,7 +11166,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Nepal, Bhutan, Thailand (30 days) and Sri Lanka's free ETA are the easiest for Indians in 2026. Then e-visas from USD 20, then Schengen, UK and US.",
     "excerpt": "Every easy visa option for Indian passport holders in 2026, ranked in three tiers by effort, time and cost, plus what the official 2025 Schengen data says about the easiest Schengen country.",
     "date": "2026-11-14",
-    "updated": "2026-11-14",
+    "updated": "2026-11-21",
     "readMinutes": 10,
     "category": "Honest takes",
     "tags": [
@@ -11179,9 +11179,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "urgent-visa-from-india-fastest-options-2026",
-      "visa-free-countries-for-indians-2026",
-      "schengen-visa-documents-checklist-2026"
+      "visa-free-countries-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -11190,7 +11190,7 @@ export const BLOG_POSTS = [
     "faqs": [
       {
         "q": "Which visa is easiest to get for Indians?",
-        "a": "The easiest are the ones with nothing to apply for. Nepal and Bhutan need no visa for Indians, Thailand gives 30 days visa-free for tourism, and Malaysia gives 30 days visa-free until 31 December 2026. Sri Lanka needs an ETA, but it is free for Indians and valid for 30 days. After these come online e-visas such as Vietnam, Georgia and Azerbaijan, which are decided in days without any appointment."
+        "a": "The easiest are the ones with nothing to apply for. Nepal and Bhutan need no visa for Indians, Thailand gives 30 days visa-free for tourism, and Malaysia gives 30 days visa-free for arrivals up to 31 December 2026 (an eVISA is needed from 1 January 2027). Sri Lanka needs an ETA, but it is free for Indians and valid for 30 days. After these come online e-visas such as Vietnam, Georgia and Azerbaijan, which are decided in days without any appointment."
       },
       {
         "q": "Which Schengen visa is easiest to get for Indians?",
@@ -11202,7 +11202,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "Which is the easiest visa for Indians with a low budget?",
-        "a": "Sri Lanka, Thailand, Malaysia, Kazakhstan and Nepal cost nothing in visa fees for Indians right now. Hong Kong's pre-arrival registration is also free. If you want a paid e-visa, Azerbaijan's standard e-visa is USD 20, about ₹2,000, and Georgia's is USD 20 plus a 2% service fee and a USD 15 identity check. Bhutan needs no visa but charges Indians a Sustainable Development Fee of ₹1,200 per day."
+        "a": "Sri Lanka, Thailand, Kazakhstan and Nepal cost nothing in visa fees for Indians right now, and so does Malaysia until 31 December 2026. Hong Kong's pre-arrival registration is also free. If you want a paid e-visa, Azerbaijan's standard e-visa is USD 20, about ₹2,000, and Georgia's is USD 20 plus a 2% service fee and a USD 15 identity check. Bhutan needs no visa but charges Indians a Sustainable Development Fee of ₹1,200 per day."
       },
       {
         "q": "Is Thailand visa free for Indians now?",
@@ -11216,12 +11216,12 @@ export const BLOG_POSTS = [
     "body": [
       {
         "type": "p",
-        "text": "The easiest visas for Indians in 2026 are the ones you never apply for: **Nepal** and **Bhutan** (no visa), **Thailand** (**30 days** visa-free), **Malaysia** (**30 days**, until **31 December 2026**) and **Sri Lanka** (a **free 30-day ETA**). Next come online e-visas such as **Vietnam**, **Georgia** and **Azerbaijan**, decided in days. Schengen, UK, US, Canada, Australia and Japan remain the hardest."
+        "text": "The easiest visas for Indians in 2026 are the ones you never apply for: **Nepal** and **Bhutan** (no visa), **Thailand** (**30 days** visa-free), **Malaysia** (**30 days**, only until **31 December 2026**) and **Sri Lanka** (a **free 30-day ETA**). Next come online e-visas such as **Vietnam**, **Georgia** and **Azerbaijan**, decided in days. Schengen, UK, US, Canada, Australia and Japan remain the hardest."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Easiest overall:** Nepal, Bhutan, Thailand, Malaysia, Sri Lanka. **Free online step:** Sri Lanka ETA, Hong Kong pre-arrival registration. **Cheapest e-visas:** Azerbaijan USD 20, Georgia USD 20 plus fees. **Easiest if you already hold a US, UK or Schengen visa:** UAE visa on arrival, Turkey e-visa, Philippines 30 days. **Schengen not-issued rate at consulates in India (2025):** 15.8%. **Rule to remember:** you apply to your main Schengen destination, not the easiest one."
+        "text": "**Easiest overall:** Nepal, Bhutan, Thailand, Sri Lanka, and Malaysia until 31 December 2026 (eVISA from 1 January 2027). **Free online step:** Sri Lanka ETA, Hong Kong pre-arrival registration. **Cheapest e-visas:** Azerbaijan USD 20, Georgia USD 20 plus fees. **Easiest if you already hold a US, UK or Schengen visa:** UAE visa on arrival, Turkey e-visa, Philippines 30 days. **Schengen not-issued rate at consulates in India (2025):** 15.8%. **Rule to remember:** you apply to your main Schengen destination, not the easiest one."
       },
       {
         "type": "h2",
@@ -11261,7 +11261,7 @@ export const BLOG_POSTS = [
           "**Nepal:** visa-free, no fixed limit listed by the Ministry of External Affairs. Cost: nothing. Catch: none on the visa side, but carry valid ID that your airline accepts.",
           "**Bhutan:** no visa, but you need an entry permit at Phuentsholing, Gelephu, Samdrup Jongkhar, Samtse or Paro airport. Use a passport with six months' validity or your original Voter ID. Cost: **₹1,200 per day** Sustainable Development Fee. Catch: the daily fee adds up on a long trip.",
           "**Thailand:** **30 days** visa-free for tourism since **15 September 2026** (it was 60 days before). Cost: nothing. Catch: file the Thailand Digital Arrival Card within 72 hours before arrival, and carry a return ticket and hotel booking.",
-          "**Malaysia:** **30 days** visa-free, valid **until 31 December 2026**. Cost: nothing. Catch: no extension had been announced when we checked, so confirm before booking a 2027 trip. Register on the official Malaysia Digital Arrival Card portal.",
+          "**Malaysia:** **30 days** visa-free, but only for arrivals up to **31 December 2026**. Cost: nothing. Catch: Malaysia said on 17 November 2026 that the exemption will not be extended, so a 2027 trip needs an eVISA (about ₹3,600 in fees, 2 to 7 working days). Register on the official Malaysia Digital Arrival Card portal.",
           "**Kazakhstan:** **14 days** visa-free per visit, with a cap of **42 days in any 180**. Cost: nothing. Catch: the 14 days cannot be stretched; longer stays need a visa.",
           "**Philippines:** **14 days** visa-free for tourism, not extendable. **30 days** if you hold a valid US, UK, Schengen, Japan, Australia, Canada or Singapore visa or residence permit. Cost: nothing. Catch: passport valid six months beyond your stay, plus proof of funds, hotel and onward ticket.",
           "**Rwanda:** **30 days** visa-free, as listed by the Ministry of External Affairs. Cost: nothing."
@@ -11313,7 +11313,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "On visa fees alone, the cheapest trips are Sri Lanka, Thailand, Malaysia, Kazakhstan, Nepal and the Philippines, all free for Indians right now, plus Hong Kong's free registration. From Gujarat, Nepal and Bhutan also work overland, and Bhutan's only charge is the ₹1,200 daily fee."
+        "text": "On visa fees alone, the cheapest trips are Sri Lanka, Thailand, Kazakhstan, Nepal and the Philippines, all free for Indians right now (Malaysia too, until 31 December 2026), plus Hong Kong's free registration. From Gujarat, Nepal and Bhutan also work overland, and Bhutan's only charge is the ₹1,200 daily fee."
       },
       {
         "type": "p",
@@ -11400,7 +11400,7 @@ export const BLOG_POSTS = [
           "**Short passport validity:** Thailand, the Philippines, Hong Kong and the UAE route all ask for about six months.",
           "**No return ticket or hotel booking:** most Tier 1 countries can ask for both at the counter.",
           "**Assuming Turkey is an e-visa for everyone:** it is only for holders of the supporting visas listed above.",
-          "**Booking Malaysia for January 2027 without checking:** the current exemption ends on 31 December 2026."
+          "**Booking Malaysia for January 2027 without a visa:** the exemption ends on 31 December 2026 and Malaysia has said it will not be extended, so 2027 arrivals need an eVISA."
         ]
       },
       {
@@ -13222,10 +13222,10 @@ export const BLOG_POSTS = [
     "slug": "christmas-new-year-2026-visa-deadlines-by-country",
     "title": "Is It Too Late for a Christmas or New Year 2026 Visa?",
     "metaTitle": "Christmas & New Year 2026 Visa Deadlines by Country | Travlys",
-    "metaDescription": "Flying 20-27 Dec 2026? Schengen, UK, Canada and Australia need applying in November. US is out of reach. Thailand, Malaysia, Maldives and Sri Lanka still work.",
+    "metaDescription": "Flying 20-27 Dec 2026? Schengen, UK, Canada and Australia need applying in November. US is out of reach. Thailand, Maldives, Sri Lanka and Malaysia (land by 31 Dec) still work.",
     "excerpt": "For a departure around 20-27 December 2026, the window for Schengen, UK, Canada and Australia visas closes in November. Here are our apply-by dates for 17 destinations, and the visa-free options if you have left it late.",
     "date": "2026-10-30",
-    "updated": "2026-10-30",
+    "updated": "2026-11-21",
     "readMinutes": 8,
     "category": "Travel planning",
     "tags": [
@@ -13239,9 +13239,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "when-to-apply-for-visa-from-india-by-country",
-      "schengen-visa-for-christmas-new-year-trips-2026",
-      "new-year-international-trips-from-india-easy-visa"
+      "schengen-visa-for-christmas-new-year-trips-2026"
     ],
     "faqs": [
       {
@@ -13258,7 +13258,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "Which countries can Indians visit at the last minute for New Year?",
-        "a": "Thailand (30 days visa-free), Malaysia (visa-free until 31 December 2026), the Maldives (visa on arrival with no pre-approval) and Sri Lanka (free ETA) need only online forms. Bali works with a visa on arrival or e-VoA. Vietnam, Georgia and the UAE e-visas take a few working days, so they still work if you apply in early December."
+        "a": "Thailand (30 days visa-free), Malaysia (visa-free only if you arrive by 31 December 2026; an eVISA after that), the Maldives (visa on arrival with no pre-approval) and Sri Lanka (free ETA) need only online forms. Bali works with a visa on arrival or e-VoA. Vietnam, Georgia and the UAE e-visas take a few working days, so they still work if you apply in early December."
       },
       {
         "q": "Are these apply-by dates official deadlines?",
@@ -13272,12 +13272,12 @@ export const BLOG_POSTS = [
     "body": [
       {
         "type": "p",
-        "text": "It is not too late for most destinations, but the long-haul visas need action in November. For a departure around 20-27 December 2026, submit Schengen, UK, Canada and Australia applications by mid-to-late November at the latest, while a first-time US visa is out of reach unless you already have an interview date. Thailand, Malaysia, the Maldives and Sri Lanka still work at short notice."
+        "text": "It is not too late for most destinations, but the long-haul visas need action in November. For a departure around 20-27 December 2026, submit Schengen, UK, Canada and Australia applications by mid-to-late November at the latest, while a first-time US visa is out of reach unless you already have an interview date. Thailand, the Maldives and Sri Lanka still work at short notice, and so does Malaysia if you land by 31 December."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Apply now:** Canada and Australia (processing runs into weeks). **Apply by about 20 November:** Schengen, UK (standard), New Zealand. **Apply by early December:** Japan, Singapore, Georgia, Vietnam, UK priority. **Online form only:** Thailand, Malaysia, Maldives, Sri Lanka. **Not realistic:** first-time US visa. **Dates below:** Travlys estimates for a 20 December departure, not official deadlines."
+        "text": "**Apply now:** Canada and Australia (processing runs into weeks). **Apply by about 20 November:** Schengen, UK (standard), New Zealand. **Apply by early December:** Japan, Singapore, Georgia, Vietnam, UK priority. **Online form only:** Thailand, Maldives, Sri Lanka, and Malaysia if you land by 31 December (eVISA from 1 January 2027). **Not realistic:** first-time US visa. **Dates below:** Travlys estimates for a 20 December departure, not official deadlines."
       },
       {
         "type": "h2",
@@ -13314,7 +13314,7 @@ export const BLOG_POSTS = [
           "**Vietnam e-visa: apply by about 4 December.** Widely reported terms are about 3 working days, USD 25 single entry and USD 50 multiple entry, valid up to 90 days. We could not read evisa.gov.vn today, so confirm there. Phu Quoc island has its own visa-free rule.",
           "**Sri Lanka ETA: apply by about 10 December.** The ETA is free for Indians from 25 May 2026, valid 30 days with double entry, but it is still compulsory before arrival. Check: eta.gov.lk.",
           "**Thailand: no visa needed.** Indians get 30 days visa-free from 15 September 2026. Fill in the Thailand Digital Arrival Card within 3 days before arrival. Check: tdac.immigration.go.th.",
-          "**Malaysia: no visa if you leave by 31 December.** The exemption runs until 31 December 2026. If your trip runs into January 2027, apply for a Malaysian visa by about 27 November. Submit the MDAC within 3 days before arrival. Check: imi.gov.my.",
+          "**Malaysia: no visa if you land by 31 December.** Malaysia confirmed on 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended; a visit that starts by then is covered for up to 30 days. If you land on or after 1 January 2027, apply for a Malaysia eVISA on MyVISA (applications open 1 December 2026; allow 2 to 7 working days). Submit the MDAC within 3 days before arrival. Check: imi.gov.my.",
           "**Bali (Indonesia): e-VoA by about 13 December, or visa on arrival.** Indians are eligible for visa on arrival, widely reported at IDR 500,000 for 30 days. Bali also charges a separate tourist levy of IDR 150,000. Check: evisa.imigrasi.go.id and lovebali.baliprov.go.id.",
           "**Maldives: no pre-approval.** Maldives Immigration grants the tourist visa on arrival with no advance approval. Submit the free IMUGA traveller declaration up to 96 hours before arrival. Check: immigration.gov.mv.",
           "**Georgia e-visa: apply by about 27 November.** The official FAQ lists USD 20 plus a 2% service fee and says a decision takes not less than 5 working days. Holders of some Western visas may not need one; confirm before applying. Check: evisa.gov.ge.",
@@ -13341,7 +13341,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "If your Schengen or UK appointment is not coming through, switch destinations rather than gamble. **Thailand** (30 days visa-free) and **Malaysia** (visa-free if you leave by 31 December) need only an arrival card. The **Maldives** grants the visa at the airport, and **Sri Lanka** needs only the free ETA. **Bali**, **Vietnam** and **Georgia** need a quick online visa. If you hold a valid US, UK or Schengen visa, the UAE visa on arrival and Türkiye e-visa also open up."
+        "text": "If your Schengen or UK appointment is not coming through, switch destinations rather than gamble. **Thailand** (30 days visa-free) and **Malaysia** (visa-free if you land by 31 December) need only an arrival card. The **Maldives** grants the visa at the airport, and **Sri Lanka** needs only the free ETA. **Bali**, **Vietnam** and **Georgia** need a quick online visa. If you hold a valid US, UK or Schengen visa, the UAE visa on arrival and Türkiye e-visa also open up."
       },
       {
         "type": "p",
@@ -24419,7 +24419,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Indian passport holders can enter about 55 destinations without a prior visa in 2026. Full list of visa-free, visa on arrival, ETA and e-visa countries.",
     "excerpt": "The full late-2026 list of visa-free, visa on arrival, ETA and e-visa destinations for Indian passport holders, India's Henley Passport Index rank, and every rule change this year.",
     "date": "2026-10-24",
-    "updated": "2026-10-24",
+    "updated": "2026-11-21",
     "readMinutes": 9,
     "category": "Travel planning",
     "tags": [
@@ -24458,7 +24458,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "Is Malaysia still visa-free for Indians?",
-        "a": "Yes, until 31 December 2026. Malaysia lets Indian citizens enter without a visa for up to 30 days for purposes other than work or study. You must submit the Malaysia Digital Arrival Card before arrival and may be asked for a return ticket and hotel booking. We found no announcement yet on what happens after 31 December, so check before booking a 2027 trip."
+        "a": "Only until 31 December 2026. Malaysia lets Indian citizens enter without a visa for up to 30 days for purposes other than work or study, but its Immigration Department said in a notice dated 17 November 2026 that this ends on 31 December 2026 and will not be extended. From 1 January 2027 Indians need a Malaysia eVISA, applied for on the MyVISA portal. You must submit the Malaysia Digital Arrival Card before arrival either way."
       },
       {
         "q": "Do Indians need a visa for Sri Lanka in 2026?",
@@ -24472,12 +24472,12 @@ export const BLOG_POSTS = [
     "body": [
       {
         "type": "p",
-        "text": "In late 2026, Indian passport holders can enter about **55 destinations** without arranging a visa in advance, counting visa-free, visa on arrival and ETA entries. India sits **84th** in the October 2026 Henley Passport Index. Popular visa-free options include **Nepal, Bhutan, Thailand (30 days), Malaysia (30 days, until 31 December 2026), Mauritius, Fiji and Kazakhstan (14 days)**, and dozens more countries offer an online e-visa."
+        "text": "In late 2026, Indian passport holders can enter about **55 destinations** without arranging a visa in advance, counting visa-free, visa on arrival and ETA entries. India sits **84th** in the October 2026 Henley Passport Index. Popular visa-free options include **Nepal, Bhutan, Thailand (30 days), Malaysia (30 days, ending 31 December 2026), Mauritius, Fiji and Kazakhstan (14 days)**, and dozens more countries offer an online e-visa."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Henley rank:** 84th, 55 destinations (October 2026 edition, dated 9 October 2026). **Biggest 2026 changes:** Thailand cut to 30 days visa-free from 15 September; Malaysia visa-free until 31 December 2026; Sri Lanka ETA free from 25 May; Iran visa waiver suspended since 22 November 2025. **Still need a visa in advance:** US, UK, Canada, Schengen, Australia, New Zealand, Singapore, and the UAE unless you qualify for its visa on arrival."
+        "text": "**Henley rank:** 84th, 55 destinations (October 2026 edition, dated 9 October 2026). **Biggest 2026 changes:** Thailand cut to 30 days visa-free from 15 September; Malaysia visa-free entry ends 31 December 2026 (eVISA from 1 January 2027); Sri Lanka ETA free from 25 May; Iran visa waiver suspended since 22 November 2025. **Still need a visa in advance:** US, UK, Canada, Schengen, Australia, New Zealand, Singapore, and the UAE unless you qualify for its visa on arrival."
       },
       {
         "type": "h2",
@@ -24526,7 +24526,7 @@ export const BLOG_POSTS = [
           "**Nepal:** visa-free, no fixed limit for Indian citizens.",
           "**Bhutan:** no visa, but you need a free entry permit and pay a Sustainable Development Fee, reported at ₹1,200 per person per night.",
           "**Thailand:** visa-free for **30 days** for tourism from 15 September 2026. Fill the Thailand Digital Arrival Card before landing.",
-          "**Malaysia:** visa-free for **30 days**, valid until **31 December 2026**. Submit the Malaysia Digital Arrival Card before arrival.",
+          "**Malaysia:** visa-free for **30 days**, but only for arrivals up to **31 December 2026**; from 1 January 2027 you need an eVISA. Submit the Malaysia Digital Arrival Card before arrival.",
           "**Kazakhstan:** visa-free for **14 days** per visit, with a reported cap of 42 days in any 180 days.",
           "**Philippines:** visa-free for **14 days**, tourism only, not extendable. Holders of a valid US, UK, Schengen, Japan, Australia, Canada or Singapore visa or residence permit get **30 days**.",
           "**Macao:** visa-free."
@@ -24638,7 +24638,7 @@ export const BLOG_POSTS = [
         "type": "ul",
         "items": [
           "**Thailand:** visa-free stay cut from 60 to **30 days** from **15 September 2026**. Anyone needing longer must get a visa.",
-          "**Malaysia:** 30-day visa-free entry runs until **31 December 2026**. No extension beyond that had been announced when we checked.",
+          "**Malaysia:** 30-day visa-free entry ends on **31 December 2026**. Malaysia's Immigration Department said on 17 November 2026 that it will not be extended. Our Malaysia eVISA guide for 2027, linked below, covers the fee and documents.",
           "**Sri Lanka:** tourist ETA became **free** for Indians on **25 May 2026**. The ETA itself is still compulsory.",
           "**Iran:** visa-free entry for Indians was **suspended from 22 November 2025**, according to India's Ministry of External Affairs. In July 2026 the Embassy of India in Tehran also advised Indians to postpone travel to Iran.",
           "**Uzbekistan:** President Mirziyoyev announced a 30-day visa-free regime for Indians on 30 August 2026. The official notice we found covers only holders of qualifying foreign visas, from 1 September 2026. Others should keep using the e-visa.",
@@ -24751,6 +24751,10 @@ export const BLOG_POSTS = [
       {
         "label": "Vietnam e-visa portal",
         "url": "https://evisa.gov.vn/"
+      },
+      {
+        "label": "Immigration Department of Malaysia: Visa requirement by country",
+        "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
       }
     ]
   },
@@ -24758,10 +24762,10 @@ export const BLOG_POSTS = [
     "slug": "new-year-international-trips-from-india-easy-visa",
     "title": "Christmas and New Year 2026-27: Easy-Visa Trips from India",
     "metaTitle": "Easy-Visa New Year Trips from India 2026-27 | Travlys",
-    "metaDescription": "Thailand, Malaysia, Maldives and Mauritius need no advance visa for Indians, and Sri Lanka's ETA is free. Compare 9 easy-visa trips for New Year 2026-27.",
+    "metaDescription": "Thailand, Maldives and Mauritius need no advance visa, Sri Lanka's ETA is free, and Malaysia is visa-free only if you land by 31 Dec. 9 easy-visa New Year trips.",
     "excerpt": "Nine international trips you can still plan from India for Christmas and New Year 2026-27 without a long visa wait, with the current entry rule, flight time and December weather for each.",
     "date": "2026-10-24",
-    "updated": "2026-10-24",
+    "updated": "2026-11-21",
     "readMinutes": 9,
     "category": "Travel planning",
     "tags": [
@@ -24776,9 +24780,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=1600&h=900&fit=crop",
     "related": [
+      "malaysia-visa-for-indians-2027-evisa",
       "easiest-visa-to-get-for-indians-2026",
-      "visa-free-countries-for-indians-2026",
-      "bali-visa-on-arrival-for-indians-2026"
+      "visa-free-countries-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -24787,7 +24791,7 @@ export const BLOG_POSTS = [
     "faqs": [
       {
         "q": "Which countries can Indians visit without a visa for New Year 2026?",
-        "a": "Thailand, Malaysia, the Maldives and Mauritius do not need a visa arranged in advance for Indian tourists. Thailand gives 30 days visa-free for tourism, Malaysia gives 30 days visa-free until 31 December 2026, the Maldives issues a free tourist visa on arrival, and Mauritius grants a visit permit on arrival. You still need arrival cards, a return ticket, hotel bookings and a passport valid for at least six months."
+        "a": "Thailand, Malaysia, the Maldives and Mauritius do not need a visa arranged in advance for Indian tourists. Thailand gives 30 days visa-free for tourism, Malaysia gives 30 days visa-free to Indians who arrive by 31 December 2026 (from 1 January 2027 an eVISA is needed), the Maldives issues a free tourist visa on arrival, and Mauritius grants a visit permit on arrival. You still need arrival cards, a return ticket, hotel bookings and a passport valid for at least six months."
       },
       {
         "q": "Is Thailand still visa-free for Indians in December 2026?",
@@ -24795,7 +24799,7 @@ export const BLOG_POSTS = [
       },
       {
         "q": "Can I visit Malaysia visa-free over New Year 2026-27?",
-        "a": "Yes, if you enter Malaysia on or before 31 December 2026. Malaysia's visa exemption for Indians currently runs until that date, and no extension had been announced as of 24 October 2026. Malaysia has not said how a stay that runs past 31 December will be treated, so finish your trip by then or check the latest position before booking. Submit the Malaysia Digital Arrival Card within three days before arrival."
+        "a": "Only if you enter Malaysia on or before 31 December 2026. Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended; a visit that starts by then is still covered for up to 30 days. If you arrive on or after 1 January 2027, you need a Malaysia eVISA (RM 50 visa fee plus RM 105 processing, about ₹3,600, usually 2 to 7 working days). Either way, submit the Malaysia Digital Arrival Card within three days before arrival."
       },
       {
         "q": "How early should I apply for a visa for a Christmas trip?",
@@ -24814,7 +24818,7 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "No advance visa: Thailand (30 days), Malaysia (30 days, scheme runs to 31 December 2026), Maldives (free visa on arrival), Mauritius (visit permit on arrival). Free online ETA: Sri Lanka (30 days). Visa on arrival or e-VOA: Bali, IDR 500,000. E-visa: Vietnam, USD 25 single entry. Visa before travel: Dubai and Singapore. Almost every country here also wants an online arrival card in the last few days before you land."
+        "text": "No advance visa: Thailand (30 days), Malaysia (30 days, only if you arrive by 31 December 2026; eVISA from 1 January 2027), Maldives (free visa on arrival), Mauritius (visit permit on arrival). Free online ETA: Sri Lanka (30 days). Visa on arrival or e-VOA: Bali, IDR 500,000. E-visa: Vietnam, USD 25 single entry. Visa before travel: Dubai and Singapore. Almost every country here also wants an online arrival card in the last few days before you land."
       },
       {
         "type": "h2",
@@ -24838,16 +24842,16 @@ export const BLOG_POSTS = [
       },
       {
         "type": "h3",
-        "text": "2. Malaysia: visa-free until 31 December 2026"
+        "text": "2. Malaysia: visa-free only if you land by 31 December 2026"
       },
       {
         "type": "p",
-        "text": "**Entry:** Indians can enter Malaysia visa-free for up to **30 days**. Malaysia's immigration department lists this exemption as valid until **31 December 2026**. You need a passport valid for six months, a confirmed return ticket and a hotel booking, and you must submit the Malaysia Digital Arrival Card within three days before arrival. Indian travellers have been refused entry at Kuala Lumpur airport for weak proof of funds, accommodation or return travel, so carry all three. The Indian High Commission also warned on 22 September 2026 against using visa-free entry to look for work."
+        "text": "**Entry:** Indians can enter Malaysia visa-free for up to **30 days**. Malaysia's Immigration Department confirmed on 17 November 2026 that this exemption ends on **31 December 2026** and will not be extended. You need a passport valid for six months, a confirmed return ticket and a hotel booking, and you must submit the Malaysia Digital Arrival Card within three days before arrival. Indian travellers have been refused entry at Kuala Lumpur airport for weak proof of funds, accommodation or return travel, so carry all three. The Indian High Commission also warned on 22 September 2026 against using visa-free entry to look for work."
       },
       {
         "type": "callout",
         "label": "Malaysia and the 31 December date",
-        "text": "As of 24 October 2026, no extension beyond 31 December 2026 has been announced. Malaysia has not said how a stay that starts in December and runs into January will be treated. The safest plan is to enter and leave by 31 December, or check the position before you book. If the exemption lapses, you will need a Malaysia eVISA for 2027 trips."
+        "text": "**Update, 21 November 2026:** Malaysia's Immigration Department said in a notice dated 17 November 2026 that visa-free entry for Indians ends on 31 December 2026 and will not be extended. If you land on or before 31 December, the 30-day exemption covers that visit. If you land on or after 1 January 2027, apply for a Malaysia eVISA on the official MyVISA portal, which opens for applications on 1 December 2026. Our Malaysia eVISA guide for 2027, linked at the end of this post, covers the fee, documents and photo rules."
       },
       {
         "type": "p",
@@ -24959,7 +24963,7 @@ export const BLOG_POSTS = [
         "type": "ul",
         "items": [
           "**Thailand:** visa-free 30 days | about 4 to 4.5 hours | cool and dry | TDAC and THB 20,000 cash per person.",
-          "**Malaysia:** visa-free 30 days until 31 December 2026 | about 5 to 5.5 hours | showers on the west coast | MDAC, return ticket and hotel booking.",
+          "**Malaysia:** visa-free 30 days if you land by 31 December 2026, eVISA after that | about 5 to 5.5 hours | showers on the west coast | MDAC, return ticket and hotel booking.",
           "**Sri Lanka:** free ETA, 30 days | about 2 to 3.5 hours | dry on the west and south coasts | apply on eta.gov.lk.",
           "**Bali:** visa on arrival, IDR 500,000 | about 7 to 8 hours from Delhi | wet season | IDR 150,000 levy and All Indonesia card.",
           "**Vietnam:** e-visa from USD 25 | about 4.5 to 5.5 hours | cool north, dry south | apply two to three weeks ahead.",
@@ -24980,7 +24984,7 @@ export const BLOG_POSTS = [
       {
         "type": "callout",
         "label": "Last checked",
-        "text": "We checked these rules on 24 October 2026 against the sources listed below. Entry rules can change at short notice, especially Malaysia's after 31 December 2026, so confirm with the official site before you travel."
+        "text": "We checked these rules on 24 October 2026 against the sources listed below. Entry rules can change at short notice (Malaysia's visa-free entry for Indians ends on 31 December 2026), so confirm with the official site before you travel."
       }
     ],
     "sources": [
