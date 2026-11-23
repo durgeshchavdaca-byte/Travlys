@@ -296,6 +296,7 @@ const CATEGORY_BLURBS = {
   'Study abroad': 'Student visa guides for Indian students: US F-1 interview questions, Canada study permits, Germany student visas and APS, UK and Australia rule changes, with fees, funds and timelines checked on official sources.',
   'Visas for parents': 'Every guide to getting Indian parents a visa to visit their children abroad: the US, UK, Canada, Australia, New Zealand, the UAE and Schengen countries. Documents, invitation letters, interview questions, fees and refusal reasons, checked on official sources.',
   'Work visas': 'Work and job-search visas for Indian professionals: the Germany Opportunity Card, the UAE job seeker visa and Japan’s Specified Skilled Worker route, with official eligibility rules, fees and warnings about fake recruiters.',
+  'Checklists': 'Visa document checklists for Indian applicants, country by country: the USA (B1/B2), UK visitor, Canada visitor, Australia visitor, Dubai, Singapore, Japan and Schengen. What is required, what is optional, how much bank balance to show, photo sizes and the mistakes that cause refusals, checked on official sources.',
   'Schengen visas': 'Schengen visa guides for Indians, country by country: Switzerland, France, Italy, Spain and Greece, plus the document checklist, fees, appointments, the 2024 multiple-entry cascade and the EES border system. Which consulate decides for Gujarat, which centre to use and how to handle a refusal, checked on official sources.',
   'Refusals and reapplying': 'Visa refused? What the refusal letter means and what to do next for US 214(b), UK, Canada, Schengen and China refusals: appeal options, deadlines, and how to fix the file before you reapply.',
 }
@@ -306,6 +307,7 @@ const CATEGORY_TITLES = {
   'Refusals and reapplying': 'Visa Rejected? What to Do Next: US, UK, Canada, Schengen (2026)',
   'Study abroad': 'Student Visa for Indian Students 2026-27: US F-1, Canada, Germany, UK, Australia',
   'Work visas': 'Work Visa for Indians 2026: Germany Opportunity Card, UAE Job Seeker, Japan SSW',
+  'Checklists': 'Visa Documents Checklist for Indians 2026: US, UK, Canada, Australia, Dubai, Schengen',
   'Schengen visas': 'Schengen Visa for Indians 2026: Switzerland, France, Italy, Spain, Greece',
 }
 
