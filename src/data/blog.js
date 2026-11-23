@@ -20179,7 +20179,7 @@ export const BLOG_POSTS = [
   {
     "slug": "schengen-visa-fees-for-indians-2026",
     "title": "Schengen Visa Fees for Indians 2026: €90, VFS Charges and Total Cost",
-    "metaTitle": "Schengen Visa Fees for Indians 2026: €90 (₹9,900) + VFS, Kids | Travlys",
+    "metaTitle": "Schengen Visa Fees for Indians 2026: €90 + VFS, Kids | Travlys",
     "metaDescription": "The Schengen visa fee for Indians is €90 for adults and €45 for children aged 6 to 11; under 6 is free. Add the VFS service charge and insurance: the full 2026 cost.",
     "excerpt": "The Schengen visa fee is the same in every Schengen country: €90 for adults. What changes is the service charge, insurance and extras. Here is what an Indian applicant really pays in 2026.",
     "date": "2026-11-04",
@@ -20895,7 +20895,7 @@ export const BLOG_POSTS = [
   {
     "slug": "malaysia-new-year-trip-2026-27-visa-free-end-date",
     "title": "Malaysia Visa-Free Ends 31 Dec 2026: What If Your Trip Crosses It?",
-    "metaTitle": "Malaysia Visa-Free Ends 31 Dec 2026: New Year Trips, eVISA | Travlys",
+    "metaTitle": "Malaysia Visa-Free Ends 31 Dec: New Year Trips, eVISA | Travlys",
     "metaDescription": "Malaysia confirmed visa-free entry for Indians ends 31 December 2026. Land by 31 Dec and the 30-day exemption covers you; re-entering in January needs an eVISA.",
     "excerpt": "Malaysia's visa-free entry for Indians ends on 31 December 2026, and no official source says what happens to a trip that runs into January 2027. Here is the safe way to plan a New Year trip.",
     "date": "2026-10-30",
@@ -25275,7 +25275,7 @@ export const BLOG_POSTS = [
   {
     "slug": "singapore-visa-for-indians-2026",
     "title": "Singapore Visa for Indians 2026: Fees, Documents, Transit Rules",
-    "metaTitle": "Singapore Visa for Indians 2026: Price, Processing Time, Agents | Travlys",
+    "metaTitle": "Singapore Visa for Indians 2026: Price, Time, Agents | Travlys",
     "metaDescription": "Indians need a Singapore visa in 2026, filed through an authorised visa agent. Fee ₹2,100 plus agent charge, 3 to 5 working days. Documents and transit rules.",
     "excerpt": "Indian passport holders still need a visa for Singapore, filed through an authorised visa agent. Here is the 2026 fee, the documents, the timeline for a December–January trip and the 96-hour transit option.",
     "date": "2026-10-28",
@@ -27438,7 +27438,7 @@ export const BLOG_POSTS = [
   {
     "slug": "south-korea-visa-for-indians-2026",
     "title": "South Korea Visa for Indians 2026: Fees, Documents, Jeju Rule",
-    "metaTitle": "South Korea Visa for Indians 2026: Price ₹3,600, Documents | Travlys",
+    "metaTitle": "South Korea Visa for Indians 2026: ₹3,600, Documents | Travlys",
     "metaDescription": "Indians need a C-3-9 tourist visa for South Korea; K-ETA does not apply. Fee is ₹3,600 single entry, about 10 working days. Jeju is visa-free on direct entry.",
     "excerpt": "Indians need a C-3-9 tourist visa for South Korea, and K-ETA is not open to Indian passports. Since 1 October 2026, Mumbai-jurisdiction applicants, including Gujarat, must apply through a designated travel agency.",
     "date": "2026-10-27",
@@ -29086,7 +29086,7 @@ export const BLOG_POSTS = [
   {
     "slug": "uk-visa-for-indians-2026-fees-processing-time",
     "title": "UK Visa for Indians 2026: Fees, Processing Time and Documents",
-    "metaTitle": "UK Visa for Indians 2026: £135 Fee, Processing Time, Documents | Travlys",
+    "metaTitle": "UK Visa for Indians 2026: £135 Fee, Time, Documents | Travlys",
     "metaDescription": "UK visitor visa for Indians in 2026 costs £135 for 6 months. Decisions take about 3 weeks, or 5 days with priority. Fees, VFS centres, documents and refusals.",
     "excerpt": "Indians need a UK Standard Visitor visa, not an ETA. Here are the 2026 fees, processing times in India, VFS centres, the documents that help, the common refusal reasons and what the India-UK trade deal changes.",
     "date": "2026-10-25",
@@ -30281,7 +30281,7 @@ export const BLOG_POSTS = [
   {
     "slug": "philippines-visa-free-for-indians-2026",
     "title": "Philippines Visa-Free for Indians 2026: 14 or 30 Days, Rules",
-    "metaTitle": "Is the Philippines Visa-Free for Indians? Yes, 14 or 30 Days (2026) | Travlys",
+    "metaTitle": "Philippines Visa-Free for Indians 2026: 14 or 30 Days | Travlys",
     "metaDescription": "Yes. Indians can visit the Philippines visa-free for 14 days, or 30 days with a valid US, UK, Schengen or similar visa. Neither can be extended. What to carry and the 2026 rules.",
     "excerpt": "Since 8 June 2025, Indian tourists can enter the Philippines without a visa for 14 days, or 30 days if they hold a valid US, Japan, Australia, Canada, Schengen, Singapore or UK visa. Here is what you need at the airport and how to plan the trip.",
     "date": "2026-10-25",
@@ -30571,7 +30571,7 @@ export const BLOG_POSTS = [
   {
     "slug": "georgia-visa-for-indians-2026",
     "title": "Georgia Visa for Indians 2026: e-Visa, Fees, Insurance Rule",
-    "metaTitle": "Georgia Visa for Indians with US Visa: 90 Days Free, e-Visa | Travlys",
+    "metaTitle": "Georgia Visa for Indians 2026: Free with US Visa, e-Visa | Travlys",
     "metaDescription": "Indians need a Georgia e-visa (USD 20 + 2%) unless they hold a valid US, UK, Schengen or similar visa. Insurance of 30,000 GEL is mandatory from 2026.",
     "excerpt": "Indians need a visa for Georgia, usually an e-visa from evisa.gov.ge. A valid US, UK, Schengen or similar visa lets you skip it for 90 days in 180. Since 1 January 2026, every tourist also needs health and accident insurance.",
     "date": "2026-10-25",
@@ -31092,8 +31092,8 @@ export const BLOG_POSTS = [
   {
     "slug": "thailand-visa-free-for-indians-2026",
     "title": "Thailand Visa-Free for Indians in 2026: The 30-Day Rule Explained",
-    "metaTitle": "Thailand Visa-Free for Indians: 30 Days, Not 60, from 15 Sep 2026 | Travlys",
-    "metaDescription": "Indians get 30 days visa-free in Thailand since 15 September 2026; the 60-day exemption has ended. TDAC, 20,000 baht funds rule, onward ticket, extensions, and when you need the e-Visa instead.",
+    "metaTitle": "Is Thailand Visa Free for Indians? Yes, 30 Days (2026) | Travlys",
+    "metaDescription": "Yes. Indians get 30 days visa-free in Thailand since 15 September 2026; the 60-day stay ended. TDAC, the 20,000 baht funds rule, and when you need an e-Visa.",
     "excerpt": "Since 15 September 2026, Indian passport holders can enter Thailand without a visa for up to 30 days for tourism. Here is what changed, what to carry and when you still need a visa.",
     "date": "2026-10-24",
     "updated": "2026-10-24",
@@ -31622,8 +31622,8 @@ export const BLOG_POSTS = [
   {
     "slug": "uae-visa-on-arrival-for-indians-2026",
     "title": "UAE Visa on Arrival for Indians 2026: Who Qualifies and Fees",
-    "metaTitle": "UAE Visa on Arrival for Indians with US/UK Visa: AED 100, 14 Days | Travlys",
-    "metaDescription": "Have a valid US visa or green card, or a UK or EU visa or residence permit? Indians get a 14-day UAE visa on arrival for AED 100. Who qualifies, the 6-month rule, extending, and the e-visa if you do not.",
+    "metaTitle": "UAE Visa on Arrival for Indians 2026: AED 100, 14 Days | Travlys",
+    "metaDescription": "Indians with a valid US visa or green card, or a UK or EU visa or residence permit, get a 14-day UAE visa on arrival for AED 100. Who qualifies and the rules.",
     "excerpt": "Holding a US, UK or EU visa, or a residence permit from six other countries, can get you a UAE visa on arrival. Here is who qualifies, what it costs in AED and what to do if you don't.",
     "date": "2026-10-24",
     "updated": "2026-10-24",
@@ -31861,7 +31861,7 @@ export const BLOG_POSTS = [
   {
     "slug": "malaysia-visa-free-for-indians-2026",
     "title": "Malaysia Visa-Free for Indians 2026: 30 Days, MDAC and End Date",
-    "metaTitle": "Malaysia Visa-Free for Indians Ends 31 Dec 2026: eVISA from 2027 | Travlys",
+    "metaTitle": "Malaysia Visa-Free for Indians Ends 31 Dec 2026 | Travlys",
     "metaDescription": "Malaysia visa-free entry for Indians ends on 31 December 2026 (JIM notice, 17 Nov). Until then: 30 days with the free MDAC. From 1 January 2027 you need an eVISA.",
     "excerpt": "Malaysia's visa waiver for Indian nationals allows stays of up to 30 days and runs until 31 December 2026. Here is what to carry, how the MDAC works and what happens after the deadline.",
     "date": "2026-10-24",
@@ -32354,7 +32354,7 @@ export const BLOG_POSTS = [
   {
     "slug": "visa-free-countries-for-indians-2026",
     "title": "Visa-Free Countries for Indians 2026: The Complete List",
-    "metaTitle": "Visa-Free Countries for Indian Passport 2026: All 55 (VOA, e-Visa) | Travlys",
+    "metaTitle": "Visa-Free Countries for Indians 2026: All 55 Listed | Travlys",
     "metaDescription": "Indian passport holders can enter about 55 destinations without a prior visa in 2026. Full list of visa-free, visa on arrival, ETA and e-visa countries.",
     "excerpt": "The full late-2026 list of visa-free, visa on arrival, ETA and e-visa destinations for Indian passport holders, India's Henley Passport Index rank, and every rule change this year.",
     "date": "2026-10-24",
@@ -33016,7 +33016,7 @@ export const BLOG_POSTS = [
   {
     "slug": "sri-lanka-eta-for-indians-2026",
     "title": "Sri Lanka ETA for Indians 2026: Free Visa, Rules and How to Apply",
-    "metaTitle": "Sri Lanka ETA for Indians 2026: Free, Official Site, Status | Travlys",
+    "metaTitle": "Sri Lanka ETA for Indians 2026: Free, Official Site | Travlys",
     "metaDescription": "Indians get a free 30-day Sri Lanka tourist ETA in 2026 but must still apply on eta.gov.lk before flying. Stay rules, extensions, entry checks, 7-night route.",
     "excerpt": "The Sri Lanka tourist ETA is free for Indians in 2026, but you still have to apply online before you fly. Here is how to apply on the official site, what to carry, and a classic 7-night route.",
     "date": "2026-10-24",
@@ -33303,7 +33303,7 @@ export const BLOG_POSTS = [
   {
     "slug": "bali-visa-on-arrival-for-indians-2026",
     "title": "Bali Visa on Arrival for Indians 2026: Cost, Levy and Rules",
-    "metaTitle": "Bali Visa on Arrival for Indians 2026: Fee ~₹2,700, e-VOA, Levy | Travlys",
+    "metaTitle": "Bali Visa on Arrival for Indians 2026: Fee, e-VOA, Levy | Travlys",
     "metaDescription": "Indians get a 30-day Bali visa on arrival or e-VOA for IDR 500,000 (about ₹2,700), extendable once. Add the IDR 150,000 (about ₹800) Bali levy and the free All Indonesia card.",
     "excerpt": "Indian passport holders can get a 30-day visa on arrival or e-VOA for Bali at IDR 500,000. Here is how it works with the Bali tourist levy, the All Indonesia arrival card and the other entry rules for 2026.",
     "date": "2026-10-24",
@@ -33547,7 +33547,7 @@ export const BLOG_POSTS = [
   {
     "slug": "china-visa-for-indians-2026-new-process",
     "title": "China Visa for Indians 2026: The New Embassy Filing Process",
-    "metaTitle": "China Visa for Indians 2026: Fees from ₹2,900, Where to Apply | Travlys",
+    "metaTitle": "China Visa for Indians 2026: Fees, How to Apply | Travlys",
     "metaDescription": "Since 26 October 2026, Indians apply for China visas at the Embassy in New Delhi or the Consulate in Mumbai, not the old centres. Fees from ₹2,900, paid by demand draft. Who files where, documents, timing.",
     "excerpt": "Chinese visa applications in India moved from the service centres to the Embassy in New Delhi and the Consulate in Mumbai on 26 October 2026. Here is who files where, what it costs, and how to pay.",
     "date": "2026-10-24",
@@ -33801,7 +33801,7 @@ export const BLOG_POSTS = [
   {
     slug: 'us-visa-from-india-2026-complete-guide',
     title: 'US visa from India in 2026: a complete, no-nonsense guide',
-    metaTitle: 'US Visa from India 2026: Complete Guide (Cost, DS-160, Interview) | Travlys',
+    metaTitle: 'US Visa from India 2026: Cost, DS-160, Interview Guide | Travlys',
     metaDescription:
       'Everything Indian applicants need for a US visa in 2026: B1/B2, F-1, H-1B categories, DS-160 walkthrough, document checklist, interview prep, embassy + consulate map, and what Travlys handles end-to-end.',
     excerpt:
@@ -33971,7 +33971,7 @@ export const BLOG_POSTS = [
   {
     slug: 'schengen-visa-documents-checklist-2026',
     title: 'Schengen visa documents checklist for Indians (2026)',
-    metaTitle: 'Schengen Visa Documents from India 2026: Complete Checklist | Travlys',
+    metaTitle: 'Schengen Visa Documents Checklist from India 2026 | Travlys',
     metaDescription:
       'Every document you need for a Schengen short-stay visa from India in 2026. Cover letter template, insurance specs, accommodation proof, financial sufficiency — and the 4 documents most applicants forget.',
     excerpt:
@@ -34105,7 +34105,7 @@ export const BLOG_POSTS = [
   {
     slug: 'dubai-visa-cost-from-india-2026',
     title: 'Dubai visa cost from India in 2026: 14, 30 or 60-day?',
-    metaTitle: 'Dubai Visa Cost from India 2026: 14, 30, 60-day (Compared) | Travlys',
+    metaTitle: 'Dubai Visa Cost from India 2026: 14, 30, 60 Days | Travlys',
     metaDescription:
       'Full Dubai / UAE visa cost breakdown from India in 2026. 14-day, 30-day and 60-day options compared; single-entry vs multiple-entry; what GDRFA charges and what Travlys charges.',
     excerpt:
