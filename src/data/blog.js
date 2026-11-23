@@ -20180,10 +20180,10 @@ export const BLOG_POSTS = [
     "slug": "schengen-visa-fees-for-indians-2026",
     "title": "Schengen Visa Fees for Indians 2026: €90, VFS Charges and Total Cost",
     "metaTitle": "Schengen Visa Fees for Indians 2026: €90 + VFS, Kids | Travlys",
-    "metaDescription": "The Schengen visa fee for Indians is €90 for adults and €45 for children aged 6 to 11; under 6 is free. Add the VFS service charge and insurance: the full 2026 cost.",
+    "metaDescription": "Schengen visa fee for Indians: €90 (about ₹9,400 to ₹9,800) per adult, €45 for children 6 to 11, plus a visa centre charge of ₹631 to ₹3,384 by country.",
     "excerpt": "The Schengen visa fee is the same in every Schengen country: €90 for adults. What changes is the service charge, insurance and extras. Here is what an Indian applicant really pays in 2026.",
     "date": "2026-11-04",
-    "updated": "2026-11-14",
+    "updated": "2026-11-23",
     "readMinutes": 6,
     "category": "Schengen visas",
     "tags": [
@@ -20205,11 +20205,11 @@ export const BLOG_POSTS = [
     "faqs": [
       {
         "q": "How much is the Schengen visa fee for Indians in 2026?",
-        "a": "The Schengen visa fee is €90 for an adult, about ₹9,900 at recent exchange rates, and it is the same for every Schengen country. Children aged 6 to 11 pay €45 and children under 6 pay nothing. The visa centre's service charge is added on top."
+        "a": "The Schengen visa fee is €90 for an adult, about ₹9,400 to ₹9,800 at the visa centres' current rates, and it is the same for every Schengen country. Children aged 6 to 11 pay €45 and children under 6 pay nothing. The visa centre's service charge is added on top."
       },
       {
         "q": "What is the total cost of a Schengen visa from India?",
-        "a": "For one adult, budget roughly ₹12,000 to ₹14,000: the €90 visa fee, a service charge of about ₹2,000 to ₹3,000 at the visa centre, and travel insurance with €30,000 cover. A consultant's fee, if you use one, is extra; Travlys starts at ₹2,950."
+        "a": "For one adult, budget roughly ₹11,000 to ₹14,000: the €90 visa fee, a service charge of about ₹600 to ₹3,400 at the visa centre, and travel insurance with €30,000 cover. A consultant's fee, if you use one, is extra; Travlys starts at ₹2,950."
       },
       {
         "q": "Is the Schengen visa fee refunded if my visa is refused?",
@@ -20229,18 +20229,18 @@ export const BLOG_POSTS = [
       },
       {
         "q": "What is the Schengen visa fee in Indian rupees?",
-        "a": "€90 for an adult, which German missions in India list as ₹9,900 (October 2026, subject to change). Children aged 6 to 11 pay €45, listed as ₹5,000, and children under 6 pay nothing. Each country converts at its own rate, so the rupee figure can differ slightly between France, Italy or the Netherlands. The visa centre service charge and travel insurance are extra."
+        "a": "€90 for an adult, which German missions in India list as ₹9,500 (fee table of 17 November 2026, subject to change). Children aged 6 to 11 pay €45, listed as ₹4,800, and children under 6 pay nothing. Each country converts at its own rate, so the rupee figure can differ slightly between France, Italy or the Netherlands. The visa centre service charge and travel insurance are extra."
       }
     ],
     "body": [
       {
         "type": "p",
-        "text": "The Schengen visa fee for Indian passport holders in 2026 is **€90 for adults**, about ₹9,900, and it is the same whichever Schengen country you apply to. Children aged 6 to 11 pay **€45**, and children under 6 pay **nothing**. On top of the visa fee you pay the visa centre's service charge, usually about ₹2,000 to ₹3,000, and you need travel insurance, so a typical adult application costs roughly ₹12,000 to ₹14,000 before any consultant fee."
+        "text": "The Schengen visa fee for Indian passport holders in 2026 is **€90 for adults**, about ₹9,400 to ₹9,800, and it is the same whichever Schengen country you apply to. Children aged 6 to 11 pay **€45**, and children under 6 pay **nothing**. On top of the visa fee you pay the visa centre's service charge, usually about ₹600 to ₹3,400, and you need travel insurance, so a typical adult application costs roughly ₹11,000 to ₹14,000 before any consultant fee."
       },
       {
         "type": "callout",
         "label": "At a glance",
-        "text": "**Adult visa fee:** €90 (about ₹9,900). **Child 6 to 11:** €45. **Under 6:** free. **Service charge:** about ₹2,000 to ₹3,000, set by each country's visa centre. **Insurance:** mandatory, minimum €30,000 medical cover. **Refund if refused:** no. **Decision time:** usually 15 calendar days, up to 45."
+        "text": "**Adult visa fee:** €90 (about ₹9,400 to ₹9,800). **Child 6 to 11:** €45. **Under 6:** free. **Service charge:** about ₹600 to ₹3,400, set by each country's visa centre. **Insurance:** mandatory, minimum €30,000 medical cover. **Refund if refused:** no. **Decision time:** usually 15 calendar days, up to 45."
       },
       {
         "type": "h2",
@@ -20269,7 +20269,23 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "Schengen consulates in India take applications through outsourced visa centres run by companies such as VFS Global, BLS International or TLScontact, depending on the country. Each charges its own service fee, typically about ₹2,000 to ₹3,000 per applicant, published on the country's visa centre website. This is the part of the bill that genuinely varies between, say, a Netherlands and a Spain application."
+        "text": "Schengen consulates in India take applications through outsourced visa centres run by companies such as VFS Global, BLS International or TLScontact, depending on the country. Each charges its own service fee, from about ₹631 to ₹3,384 per applicant in November 2026, published on the country's visa centre website. This is the part of the bill that genuinely varies between, say, a Netherlands and a Spain application."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Italy (VFS, Mumbai area):** ₹631 per applicant, taxes included.",
+          "**Netherlands (VFS Ahmedabad):** ₹1,785; other VFS centres show ₹1,855 to ₹1,890.",
+          "**Spain (BLS International):** ₹1,802 including GST.",
+          "**Germany (VFS):** ₹1,933.",
+          "**Austria (VFS):** ₹2,479 including GST.",
+          "**Switzerland (VFS):** ₹3,100 including GST, since 27 April 2026.",
+          "**Portugal (VFS):** ₹3,384 including GST."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These are the service charges shown on each provider's India pages when we checked them between 21 and 23 November 2026, and each country guide on our site links the page it came from. Providers revise them without notice, so pay what the booking page shows on the day."
       },
       {
         "type": "h3",
@@ -20303,10 +20319,10 @@ export const BLOG_POSTS = [
       {
         "type": "ul",
         "items": [
-          "**Visa fee:** €90, about ₹9,900",
-          "**Visa centre service charge:** about ₹2,000 to ₹3,000",
+          "**Visa fee:** €90, about ₹9,400 to ₹9,800",
+          "**Visa centre service charge:** about ₹600 to ₹3,400",
           "**Travel insurance:** varies by age and days",
-          "**Estimated total before consultant fee:** roughly ₹12,000 to ₹14,000",
+          "**Estimated total before consultant fee:** roughly ₹11,000 to ₹14,000",
           "**Travlys service fee (optional):** from ₹2,950, covering the document check, cover letter, application form, appointment booking and a final file review"
         ]
       },
@@ -31861,8 +31877,8 @@ export const BLOG_POSTS = [
   {
     "slug": "malaysia-visa-free-for-indians-2026",
     "title": "Malaysia Visa-Free for Indians 2026: 30 Days, MDAC and End Date",
-    "metaTitle": "Malaysia Visa-Free for Indians Ends 31 Dec 2026 | Travlys",
-    "metaDescription": "Malaysia visa-free entry for Indians ends on 31 December 2026 (JIM notice, 17 Nov). Until then: 30 days with the free MDAC. From 1 January 2027 you need an eVISA.",
+    "metaTitle": "Is Malaysia Visa Free for Indians? Until 31 Dec 2026 | Travlys",
+    "metaDescription": "Only until 31 December 2026: Malaysia said on 17 November it will not extend visa-free entry for Indians. From 1 January 2027 you need an eVISA.",
     "excerpt": "Malaysia's visa waiver for Indian nationals allows stays of up to 30 days and runs until 31 December 2026. Here is what to carry, how the MDAC works and what happens after the deadline.",
     "date": "2026-10-24",
     "updated": "2026-11-19",

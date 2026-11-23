@@ -606,9 +606,9 @@ export function buildSchengenCalcSchemas() {
 }
 
 export const VISA_COST_META = {
-  title: 'Visa cost calculator: total visa fees from India for your family',
+  title: 'Visa Fee Calculator India 2026: Visa Price in Rupees by Country',
   description:
-    'Free visa cost calculator for Indians. See the 2026 government visa fee in rupees for the US, UK, Canada, Schengen, Australia, Dubai, Singapore and more, plus the Travlys fee, for any number of travellers.',
+    'How much does a visa cost from India? Free visa fee calculator with 2026 government fees in rupees for the US, UK, Canada, Schengen, Dubai and more.',
   path: '/visa-cost-calculator',
   keywords:
     'visa cost calculator, visa fee calculator india, us visa cost from india, uk visa cost india, schengen visa cost india, canada visa cost india, dubai visa cost india, visa fees for family',
