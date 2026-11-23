@@ -8,6 +8,1014 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "canada-visitor-visa-documents-checklist-india-2026",
+    "title": "Canada Visitor Visa Documents Checklist from India 2026: New Delhi List, Funds, Invitation and Uploads",
+    "metaTitle": "Canada Visitor Visa Documents Checklist from India | Travlys",
+    "metaDescription": "Canada visitor visa documents from India: passport valid 6 months, 6 months of bank statements, 2 years of ITRs, family form. No fixed balance. Full list.",
+    "excerpt": "The IRCC portal gives you a personalised list, and the New Delhi visa office adds its own. Here is every document an Indian visitor needs, what the inviter in Canada provides, and the translation and upload rules.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 13,
+    "category": "Checklists",
+    "tags": [
+      "Canada",
+      "Canada visitor visa",
+      "Document checklist",
+      "Invitation letter",
+      "IMM 5881",
+      "Biometrics"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1560813962-ff3d8fcf59ba?w=1600&h=900&fit=crop",
+    "related": [
+      "canada-visitor-visa-from-india-2026",
+      "canada-visitor-visa-processing-time-after-biometrics-india-2026",
+      "canada-visa-refused-what-to-do-2026"
+    ],
+    "cta": {
+      "slug": "canada-visa",
+      "label": "Get your Canada visa file checked"
+    },
+    "faqs": [
+      {
+        "q": "What documents are required for Canada visitor visa from India?",
+        "a": "You need a passport valid at least 6 months from your travel date, the online forms, a family information form and the documents in your personalised portal checklist. The New Delhi visa office checklist also asks for two years of income tax returns, six months of bank statements, an employer leave letter or retirement certificate, all old passports and, for tourists, an itinerary with flight and hotel bookings. Family visits add the inviter's letter, status, income proof and relationship proof."
+      },
+      {
+        "q": "How much bank balance is required for Canada visitor visa from India?",
+        "a": "IRCC does not publish a fixed bank balance for a Canada visitor visa. It says you need enough money for your stay, and the amount depends on how long you stay and whether you use a hotel or stay with family. Show at least six months of statements with your name, address and balances, plus two years of income tax returns. If someone else pays, add their signed letter, ID and bank certificate, dated within three months."
+      },
+      {
+        "q": "Is invitation letter mandatory for Canada visitor visa?",
+        "a": "An invitation letter is not required for every visitor, but if you are visiting family or friends, the New Delhi checklist asks for inviter information, starting with a letter stating the purpose and length of the visit. The inviter also gives a household list, proof of their Canadian status, income proof such as Notices of Assessment and proof of relationship. IRCC states that an invitation letter does not guarantee a visa, so your own funds and ties still matter."
+      },
+      {
+        "q": "What documents are required for Canada visitor visa for parents?",
+        "a": "Parents need the same core file as any visitor: passports with old passports, a family information form, two years of tax returns and six months of bank statements. Retired parents add a retirement certificate showing their pension. The child in Canada provides an invitation letter, a household list, proof of status, income proof and a birth certificate showing the relationship. Gujarati or other non-English documents need a certified translation, not one made by a family member."
+      },
+      {
+        "q": "Is there a Canada visitor visa documents checklist PDF for India?",
+        "a": "Yes. The India-specific PDF is the New Delhi Visa Additional Document Checklist for Temporary Resident Visas, IMM 5881, dated May 2026. It lists documents by purpose: family visits, tourism, business, students, workers and transit. If you apply online, the IRCC portal also creates a personalised list after you answer its questions. Use both: upload everything the portal asks for, and cover the New Delhi items for your purpose of travel."
+      },
+      {
+        "q": "Do I need to translate documents for Canada visitor visa?",
+        "a": "Yes, any document not in English or French needs a certified translation, including Gujarati or Hindi records. The translation must be of the original or a certified copy, and the translator stamps both. You or your relatives cannot translate it, even if a relative is a translator or notary. If no certified translator is available, attach an affidavit swearing to the translation's accuracy. Stamps and seals in other languages must be translated too."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "For a Canada visitor visa from India, the IRCC portal gives you a personalised document list, and the New Delhi visa office adds its own checklist (IMM 5881, May 2026). Expect to upload a passport valid **at least 6 months** from your travel date, **6 months** of bank statements, **2 years** of income tax returns, a job or business letter and a family information form. No minimum balance is published."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Government fees:** CAD 100 visa plus CAD 85 biometrics (about ₹6,500 and ₹5,500). **Minimum bank balance:** none published. **Bank statements:** at least 6 months. **Income tax returns:** past 2 years (New Delhi checklist). **Passport:** valid at least 6 months from your travel date, plus all old passports. **Family form:** IMM 5707 on the New Delhi checklist, IMM 5645 on canada.ca. **Biometrics:** valid 10 years, given at one of 10 VACs in India, Ahmedabad included. **Upload limit:** 5 MB per file on the IRCC Portal. **Translations:** certified, for anything not in English or French."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa documents checklist from India: required vs supporting"
+      },
+      {
+        "type": "p",
+        "text": "Only a few documents are required for every applicant; the rest is evidence that you are a genuine visitor who will go home. The usual worry is a refusal over a missing paper, so know which list you are working from."
+      },
+      {
+        "type": "p",
+        "text": "IRCC's visitor visa page names these as required for all applicants:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport:** a digital copy, valid for at least 6 months from the date you plan to travel. Upload the page with your birth date and place of origin, and every page with stamps, visas or markings.",
+          "**Letter for a minor child**, if a child is travelling, with extra documents depending on whether the child travels alone.",
+          "**Your personalised checklist:** once you answer the portal questions, IRCC generates the list of documents you must upload. Follow it exactly.",
+          "**Visa office documents:** IRCC says your local visa office may ask for more. For India, that is the New Delhi additional document checklist, IMM 5881."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We found no India-specific version of IRCC's general IMM 5484 checklist; the India-specific list is IMM 5881. It warns that missing items could delay processing and that a spouse and children of any age each submit their own forms. Where canada.ca calls bank statements or an employer letter \"recommended\", the New Delhi list says \"you must provide\". Treat them as required."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa documents required from India: the New Delhi list"
+      },
+      {
+        "type": "p",
+        "text": "For a tourist or family visit, the New Delhi checklist lists:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport and all cancelled or expired passports.** The passport must cover your whole trip, because a visa cannot be valid longer than the passport.",
+          "**Schedule 1 (IMM 5257 SCH1),** only if you answered \"yes\" to any background question on the form.",
+          "**Family Information Form,** fully completed, dated and signed (see the IMM 5707 vs IMM 5645 section below).",
+          "**Proof of funds:** income tax returns for the past two years, bank statements or a bank book for the past six months, and any extra proof such as payslips, pension proof, business registration or investments.",
+          "**If employed:** a signed original letter on company letterhead granting leave, with your name, position, current salary, date of hire and the employer's name, address and phone number.",
+          "**If retired:** a retirement certificate showing your pension amount.",
+          "**If a student travelling outside school holidays:** an original letter from the school confirming enrolment, good standing and approval of your absence.",
+          "**Tourists:** a detailed itinerary with proof of air ticket and hotel booking.",
+          "**Proof of previous travel:** your previous passports."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The New Delhi list asks tourists for an air ticket and hotel booking, but nothing on it says you must pay for a trip before the visa is decided. We suggest bookings you can change or cancel, with dates that match the form exactly."
+      },
+      {
+        "type": "h2",
+        "text": "How much bank balance is required for Canada visitor visa?"
+      },
+      {
+        "type": "p",
+        "text": "IRCC does not publish a fixed bank balance for a visitor visa. Its eligibility page says you need enough money for your stay, and that the amount depends on how long you will stay and whether you stay in a hotel or with friends or relatives."
+      },
+      {
+        "type": "p",
+        "text": "What IRCC does say is how to show the money. A bank statement should carry the bank's name and contact details, prove the account is yours with your name and address, and cover at least 6 months with balances. The New Delhi list adds two years of income tax returns, so your ITR income and your bank credits should tell the same story."
+      },
+      {
+        "type": "h3",
+        "text": "If someone else is paying"
+      },
+      {
+        "type": "p",
+        "text": "If you are not paying for your own trip, the New Delhi checklist asks for a letter signed by the person paying, a copy of their passport or photo ID, and a bank certificate showing they have enough funds. You must describe how this person is related to you. These documents must be dated within three months of the date you apply."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Show a steady balance over six months, and attach proof for any large credit, such as a property sale or FD maturity.",
+          "Keep salary credits, Form 16 and ITR figures consistent with the employer letter."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Invitation letter for Canada visitor visa and what the inviter in Canada provides"
+      },
+      {
+        "type": "p",
+        "text": "An invitation letter is not on IRCC's required list for every applicant, but for a family visit the New Delhi checklist asks for inviter information, and the letter is the core of it. IRCC says plainly that a letter of invitation does not guarantee a visa."
+      },
+      {
+        "type": "p",
+        "text": "According to IRCC, the letter should cover two people:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**About you:** full name, date of birth, address and phone number, relationship to the inviter, purpose of the trip, length of stay, where you will stay and how you will pay, and when you plan to leave Canada.",
+          "**About the inviter:** full name, date of birth, Canadian address and phone number, job title, whether they are a Canadian citizen or permanent resident, a copy of their status document, and the names and dates of birth of their spouse and dependants."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For visitors coming to family or friends, the New Delhi checklist also asks the inviter for:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A list showing the number of people in the inviter's household.",
+          "A copy of the inviter's immigration status or citizenship documents.",
+          "Proof of income and finances, such as Notices of Assessment, employment letters, pay stubs and bank statements showing savings and salary deposits.",
+          "A letter of acceptance or good standing from the school, if the inviter is a student.",
+          "Proof of relationship, such as a birth or marriage certificate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A simple structure works: \"I, [full name], born [date], of [Canadian address], am a [citizen / permanent resident] of Canada working as [job title]. I invite my [relationship], [full name], born [date], of [Indian address], to visit from [date] to [date] for [purpose]. They will stay with me and [I / they] will cover the costs. They return to India on [date] for [their job, business or family].\" List household members with dates of birth, then sign."
+      },
+      {
+        "type": "h2",
+        "text": "Proof of ties to India and travel history"
+      },
+      {
+        "type": "p",
+        "text": "Ties are the evidence that you will leave Canada at the end of your visit. IRCC's eligibility page lists a job, home, financial assets or family as examples."
+      },
+      {
+        "type": "p",
+        "text": "For salaried applicants, IRCC wants the employer letter on official letterhead, dated no more than 3 months before you apply. It should confirm your full name and date of birth, start date, job description and current salary, and give your manager's phone, email and company address. Your manager or HR contact signs it and prints their name. For a business owner, the New Delhi list names business registration as supporting proof alongside tax returns."
+      },
+      {
+        "type": "p",
+        "text": "For travel history, IRCC recommends copies of previous passports or visas used in the last 10 years, entry and exit stamps, or permits showing time abroad. Upload used US, UK or Schengen visas with their stamps."
+      },
+      {
+        "type": "h2",
+        "text": "Canada visitor visa documents for parents"
+      },
+      {
+        "type": "p",
+        "text": "Parents follow the same New Delhi list: a retirement certificate showing pension if retired, and the child in Canada supplies the inviter documents above, with the child's birth certificate as proof of relationship. Our separate guide on the Canada visitor visa for parents from India covers the rest, including the super visa for stays over six months."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Gujarati land records, school certificates and pension papers all need a certified translation. A son or daughter translating them does not count, because IRCC bars translations by family members."
+      },
+      {
+        "type": "h2",
+        "text": "Family information form: IMM 5707 or IMM 5645?"
+      },
+      {
+        "type": "p",
+        "text": "The official sources do not agree on the form number, so check your own checklist. The New Delhi checklist dated May 2026 says you must provide the Family Information Form (IMM 5707), fully completed, dated and signed. IRCC's visitor visa page lists the Family Information (IMM 5645) form."
+      },
+      {
+        "type": "p",
+        "text": "Upload the form your personalised portal checklist names. If it names IMM 5645, completing IMM 5707 as well covers the New Delhi list. Fill in every family member it asks about, the same way in each family member's application."
+      },
+      {
+        "type": "h2",
+        "text": "Photo, passport and biometrics rules"
+      },
+      {
+        "type": "p",
+        "text": "Your passport should be valid at least 6 months from your travel date. A visa lasts up to 10 years or until your passport or biometrics expire, whichever comes first, so renew a passport that is close to expiry."
+      },
+      {
+        "type": "p",
+        "text": "IRCC's photo specifications for a temporary resident visa:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Frame at least 35 mm x 45 mm, with the head 31 mm to 36 mm from chin to crown.",
+          "Plain white or light-coloured background, taken within the last six months.",
+          "Neutral expression, mouth closed. Clear prescription glasses are fine if your eyes are visible; no sunglasses.",
+          "Digital photos must not be altered in any way."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Biometrics cost CAD 85 per person, or CAD 170 at most for a family applying together, and are valid for 10 years. If you gave them in the last 10 years, you do not have to give them again, though you can choose to so that your visa runs longer. You need an appointment, booking is free, and IRCC says not to pay anyone to arrange one. In India you can give biometrics at VACs in:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ahmedabad, Mumbai and Pune",
+          "New Delhi, Chandigarh and Jalandhar",
+          "Bengaluru, Chennai and Hyderabad",
+          "Kolkata"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Translations, upload limits and file formats"
+      },
+      {
+        "type": "p",
+        "text": "Any document not in English or French needs a certified translation. The New Delhi checklist says so, and IRCC's translation rules add the detail:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The translation must be of the original document or a certified copy, and the translator stamps both the copy and the translation.",
+          "The translation cannot be done by you or a member of your family, even if they are a lawyer, notary or translator.",
+          "If no certified translator is available, attach an affidavit swearing to the accuracy of the translation.",
+          "Stamps and seals that are not in English or French must also be translated."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "On uploads, the IRCC Help Centre lists a limit of **5 MB per file** for the IRCC Portal and its new version, and 4 MB for the IRCC secure account. The portal accepts .jpg, .png, .doc, .docx, .tiff and .pdf files. IRCC explains how to combine several pages into one document. Extra papers go under \"Additional documents\" in the older portal, or the \"Letter of Explanation\" field on the \"Optional documents\" page in the new one."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes to avoid in a Canada visitor visa file"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Uploading only what canada.ca calls required.** For India, the New Delhi list makes tax returns, bank statements and the employer letter part of the file.",
+          "**A sudden deposit with no explanation.** One large recent credit raises more questions than a smaller steady balance.",
+          "**A sponsor letter older than three months.** The New Delhi list wants the payer's documents dated within three months of applying.",
+          "**Missing old passports.** The checklist asks for all cancelled and expired passports.",
+          "**Family-made translations.** IRCC does not accept translations by the applicant or relatives.",
+          "**Different family details on different forms.** Parents, spouse and children must match across every application and family information form.",
+          "**Bookings that contradict the form.** Dates, the inviter's address and stay length must match everywhere."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Already refused? Read the refusal reasons first; our Canada refusal guide covers the next steps."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Canada visitor visa file"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks your file against the IRCC checklist and the New Delhi list before you submit: forms, funds, tax returns, job or pension letters, invitation documents and translations. For parents, we prepare the file in English and brief them in Gujarati or Hindi. NRI children in Canada can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. We work from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "When this post was last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 23 November 2026. IRCC updates checklists and forms without notice. Before you apply, re-check IRCC's visitor visa application page, the New Delhi additional document checklist (IMM 5881), the photo and biometrics pages, the translation rules and the Help Centre's file size page. Rupee figures use the Bank of Canada rate of 20 November 2026 and are approximate."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IRCC: Apply for a visitor visa",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html"
+      },
+      {
+        "label": "IRCC: New Delhi Visa Additional Document Checklist, Temporary Resident Visa (IMM 5881, 05-2026)",
+        "url": "https://ircc.canada.ca/english/pdf/kits/forms/IMM5881E.pdf"
+      },
+      {
+        "label": "IRCC: Eligibility to apply as a visitor",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html"
+      },
+      {
+        "label": "IRCC: Letter of invitation",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html"
+      },
+      {
+        "label": "IRCC: Translation of supporting documents for applications",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/translation.html"
+      },
+      {
+        "label": "IRCC: Temporary Resident Visa application photograph specifications",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/temporary-resident-visa-application-photograph-specifications.html"
+      },
+      {
+        "label": "IRCC: When to give your biometrics, temporary resident applicants",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/when-to-give-temporary-residence.html"
+      },
+      {
+        "label": "IRCC: Where to give your fingerprints and photo",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/where-to-give.html"
+      },
+      {
+        "label": "IRCC Help Centre: Is there a file size limit for documents I upload to my account?",
+        "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1123"
+      },
+      {
+        "label": "IRCC Help Centre: What file formats can I upload to my account?",
+        "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1124"
+      }
+    ]
+  },
+  {
+    "slug": "australia-visitor-visa-documents-checklist-india-2026",
+    "title": "Australia Visitor Visa Documents Checklist for Indians 2026: Funds, Invitation, Medicals and Uploads",
+    "metaTitle": "Australia Visitor Visa Documents for Indians 2026 | Travlys",
+    "metaDescription": "Australia visitor visa documents for Indians: passport, 3 months of bank statements, ties to India and an invitation letter. AUD 250 fee. Full checklist.",
+    "excerpt": "Home Affairs sets no minimum bank balance for the Australia Tourist stream. Here is the full document list for Indian applicants, a sample invitation letter, the medical and translation rules, ImmiAccount upload limits and the new condition 8503.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 12,
+    "category": "Checklists",
+    "tags": [
+      "Australia",
+      "Australia visitor visa",
+      "Subclass 600",
+      "Document checklist",
+      "Invitation letter",
+      "ImmiAccount"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=1600&h=900&fit=crop",
+    "related": [
+      "australia-visitor-visa-subclass-600-from-india-2026",
+      "australia-visa-for-parents-from-india-2026",
+      "australia-visa-biometrics-india-2026"
+    ],
+    "cta": {
+      "slug": "australia-visa",
+      "label": "Get your Australia visa file checked"
+    },
+    "faqs": [
+      {
+        "q": "What documents are required for Australia visitor visa from India?",
+        "a": "You need your passport pages, proof of funds and proof you will return to India. Home Affairs lists itemised bank statements for a 3 month period, pay slips, tax records or term deposits as financial evidence, plus an employer letter, study proof, family or property in India as reasons to return. Add an invitation letter if visiting family, a jpg photo, and translations of any non-English documents. Children under 18 also need a birth certificate and parental consent."
+      },
+      {
+        "q": "How much bank balance is required for Australia tourist visa from India?",
+        "a": "There is no fixed minimum bank balance for the Australia Tourist stream. Home Affairs only requires that you have, or have access to, enough money to support yourself in Australia and to leave. The officer weighs your funds against your trip length and plans. Itemised statements for 3 months showing steady income count for more than one large balance. If a relative in Australia is paying, upload proof of their funds too."
+      },
+      {
+        "q": "Is invitation letter mandatory for Australia visitor visa?",
+        "a": "No, an invitation letter is not mandatory, but Home Affairs lists it as useful evidence when you visit a relative or friend in Australia. The letter could state their relationship to you, the purpose and length of your visit, and whether you will stay with them. If the host is paying for your trip, add proof of their funds, such as recent bank statements and pay slips, and a copy of their visa or citizenship proof."
+      },
+      {
+        "q": "Is medical test required for Australia visitor visa from India?",
+        "a": "Usually not for a short trip. Because India is not on the Home Affairs low TB risk list, Indian visitors staying under 6 months generally need no health examinations unless special circumstances apply. A stay of 6 months or more generally needs a medical, a chest x-ray from age 11 and a serum creatinine/eGFR test from age 15. Applicants aged 75 or older need a medical and the serum creatinine/eGFR test whatever their length of stay."
+      },
+      {
+        "q": "What is the fee for Australia visitor visa from India in 2026?",
+        "a": "The Visitor visa (subclass 600) Tourist stream costs AUD 250 (about ₹16,000) per applicant when you apply from outside Australia, according to the Home Affairs visa pricing table checked on 23 November 2026. Each family member, including children, pays for a separate application. Biometrics at a VFS centre, health checks and police certificates, if needed, cost extra. Home Affairs does not process an application until the fee is paid."
+      },
+      {
+        "q": "Do documents need to be notarised or certified for Australia visitor visa?",
+        "a": "No. For an online Tourist stream application, Home Affairs says you do not need any documents certified unless it asks you to. Upload clear colour scans or photos of the originals instead. Non-English documents must be translated into English and uploaded with the original. Translators in India need not be NAATI accredited, but each translation must show their full name, address, phone number and language qualifications in English."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried your own or your parents' Australia file looks thin? Home Affairs publishes no fixed bank balance and no single compulsory form for the Tourist stream. You need your **passport pages**, proof of funds such as **3 months** of itemised bank statements, proof you will return to India and, for a family visit, an invitation letter. The fee is **AUD 250** (about ₹16,000)."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa:** Visitor visa (subclass 600), Tourist stream, applied from outside Australia. **Fee:** AUD 250 (about ₹16,000) per person. **Minimum bank balance:** none published. **Bank statements:** itemised, covering a 3 month period. **Where you apply:** online in ImmiAccount. **Upload limits:** up to 60 documents per person, 5MB each. **Translations:** every non-English document, uploaded with the original. **Certified copies:** not needed unless Home Affairs asks. **Medicals:** generally needed for Indian applicants staying 6 months or more, or aged 75 or older. **New from 28 November 2026:** condition 8503 (No Further Stay) is mandatory on Tourist stream visas applied for from that date."
+      },
+      {
+        "type": "h2",
+        "text": "Australia visitor visa documents checklist for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs sorts the Tourist stream documents into identity, genuine visitor and character documents, with extra papers for children and longer stays. This is the full list in one place, in the order our team builds a file."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport:** the pages showing your photo, personal details, and issue and expiry dates.",
+          "**National identity card,** if you have one (Indian applicants usually upload Aadhaar).",
+          "**Proof of a name change,** such as a marriage certificate, if your name differs between documents.",
+          "**Proof of funds:** itemised personal bank statements for a 3 month period, pay slips, audited accounts, tax records, term deposits or credit card statements.",
+          "**Invitation letter** from a relative or friend in Australia, if you are visiting them, plus proof of their funds if they are paying.",
+          "**Your plans in Australia:** a simple day-by-day itinerary is enough.",
+          "**Proof you will return to India:** an employer letter, college enrolment, immediate family in India, or property and other major assets.",
+          "**Character documents:** military service or discharge papers, if they apply to you. Home Affairs may ask for a police certificate.",
+          "**Facial image:** a jpg photo for every applicant, including children.",
+          "**Form 956 or 956A,** only if someone is giving you immigration assistance or receiving letters for you.",
+          "**Children under 18:** a birth certificate and parental consent, explained below."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Identity documents for an Australia visitor visa"
+      },
+      {
+        "type": "p",
+        "text": "The visa is digitally linked to your passport, with no label. Home Affairs says to get any new passport before you apply, so renew first if yours is close to expiry."
+      },
+      {
+        "type": "p",
+        "text": "If your name differs across documents, for example a married name on the passport and a maiden name on property papers, add the marriage certificate or other change of name documents that link the two."
+      },
+      {
+        "type": "h3",
+        "text": "Extra documents for applicants under 18"
+      },
+      {
+        "type": "p",
+        "text": "Children need a birth certificate showing the names of both parents. If a parent with a legal right to decide where the child lives is not travelling, that parent completes **Form 1229** or a statutory declaration giving consent, with a copy of an ID showing their photo and signature, such as a passport or driving licence. If the child will not stay with a relative or legal guardian in Australia, the host signs **Form 1257** (Undertaking declaration)."
+      },
+      {
+        "type": "h2",
+        "text": "How much bank balance is required for an Australia visitor visa?"
+      },
+      {
+        "type": "p",
+        "text": "There is no fixed amount. Home Affairs only says you must have, or have access to, **enough money to support yourself** while you are in Australia, and proof you can pay for your stay and to leave. The officer judges this against your plan: how long you are staying, where, and who is paying."
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs lists these as examples of financial evidence:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Itemised personal bank statements for a 3 month period.",
+          "Pay slips.",
+          "Audited accounts (useful for business owners).",
+          "Tax records (for Indian applicants, income tax return acknowledgements are the usual choice).",
+          "Term deposits, such as fixed deposit receipts.",
+          "Credit card statements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If a son, daughter or friend in Australia is paying, the official list says to provide proof of their funds too. Their recent bank statements and pay slips do that job."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "A large cash deposit a few days before applying raises more questions than it answers. Statements that show salary or pension credits arriving month after month, and spending that matches your income, tell a much cleaner story than a high closing balance alone."
+      },
+      {
+        "type": "h2",
+        "text": "Documents that show you will return to India"
+      },
+      {
+        "type": "p",
+        "text": "Home Affairs calls this being a genuine visitor: you must intend only to stay temporarily and obey your visa conditions. Its examples are an employer letter saying you will return to your job, proof of study, immediate family in India, and a house or other major assets."
+      },
+      {
+        "type": "p",
+        "text": "How this looks for common Indian profiles (our advice, not an official list):"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Salaried:** an employer letter with your role, joining date and approved leave dates, plus recent pay slips.",
+          "**Business owner:** business registration documents, audited accounts and the business bank statements.",
+          "**Student:** a bonafide or enrolment letter from your college or school.",
+          "**Retired parents:** pension statements, property papers and a note of who in India depends on them or whom they live with."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Invitation letter for a family visit to Australia"
+      },
+      {
+        "type": "p",
+        "text": "An invitation letter is not compulsory, but Home Affairs lists it as supporting evidence when you visit a relative or friend. It says the letter could state the host's **relationship to you**, the **purpose of your visit and length of stay**, and **whether you will stay with them**. If the host is paying, add proof of their funds."
+      },
+      {
+        "type": "callout",
+        "label": "Sample wording",
+        "text": "I, [full name], of [full address in Australia], invite my [mother/father/friend], [full name], passport number [number], to visit me in Australia from [date] to [date]. I am an [Australian citizen / permanent resident / holder of a subclass ___ visa], and a copy of my [passport / visa grant] is attached. [He/She] will stay with me at the address above. The purpose of the visit is [to spend time with family / attend my graduation / help after the birth of our child]. I will [pay for / share] the cost of the trip, and my bank statements are attached. [He/She] will return to India before [date]. Phone: [number]. Email: [address]. Signed: [signature], [date]."
+      },
+      {
+        "type": "p",
+        "text": "Parents of Australian citizens or permanent residents can ask for a longer visa, with proof of the child's status. Home Affairs may grant one valid for more than 12 months, but the stay cannot exceed **12 months in total in any 18 month period**, and adequate health insurance is required. Our parents' guide covers this and the separate Sponsored Family stream."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "For parents visiting a son or daughter, we put the invitation letter, the child's visa or citizenship proof and their Australian address at the top of the upload list. The officer then sees who the parents are visiting, and why, before reaching the bank papers."
+      },
+      {
+        "type": "h2",
+        "text": "Health requirements and insurance for Australia visitor visa"
+      },
+      {
+        "type": "p",
+        "text": "Most applicants must meet the Australian health requirement, but most short-stay Indian visitors will not need a medical. India is not on the Home Affairs list of low TB risk countries, so the higher risk rules apply:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Stay under 6 months:** no health examinations unless special circumstances apply.",
+          "**Stay of 6 months or more:** a medical examination, a chest x-ray (age 11 and over) and a serum creatinine/eGFR test (age 15 and over).",
+          "**Aged 75 or older and applying for subclass 600:** a medical examination and a serum creatinine/eGFR test.",
+          "**Pregnant and planning to give birth in Australia:** a hepatitis B test."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You can do the examinations before you apply or wait to be told. After you lodge, open your application in ImmiAccount and click 'View health assessment'. If exams are needed you will see an 'Organise health examinations' link, which gives you the HAP ID that panel clinics need."
+      },
+      {
+        "type": "p",
+        "text": "On insurance, Home Affairs says you are **liable for all your healthcare costs** in Australia and strongly recommends adequate health insurance. It may grant the visa with condition 8501 (maintain adequate health insurance). For older parents, upload the policy with the application even when it is not demanded."
+      },
+      {
+        "type": "h2",
+        "text": "Biometrics and condition 8503: two things to plan for"
+      },
+      {
+        "type": "p",
+        "text": "**Biometrics:** Home Affairs tells you if you must give fingerprints and a facial image, at a VFS Global collection centre or through the Australian Immi App if you are eligible. Centres in India include Ahmedabad, Mumbai, New Delhi, Bengaluru, Chennai, Hyderabad, Kolkata and Pune, and they charge a service fee. Our biometrics guide covers the appointment."
+      },
+      {
+        "type": "p",
+        "text": "**Condition 8503 (No Further Stay):** under the Migration Amendment (Preventing Further Stay for Visitor Visas) Regulations 2026, condition 8503 must be imposed on Tourist stream visas applied for on or after **28 November 2026**. Visitor visas cannot be extended, and 8503 also stops you applying for most other visas inside Australia unless Home Affairs waives it in limited circumstances. Home Affairs generally grants 3 months, so ask for the full stay you need, with the reason. Our subclass 600 guide explains the change."
+      },
+      {
+        "type": "h2",
+        "text": "Do documents need to be certified or translated for an Australia visa?"
+      },
+      {
+        "type": "p",
+        "text": "For an online Tourist stream application, **you do not need certified copies unless Home Affairs asks**. Clear colour scans or photos of the originals are enough. Certified copies, made by an unrelated person in an approved occupation, are a paper application rule."
+      },
+      {
+        "type": "p",
+        "text": "Translation is not optional. Every non-English document must be translated into English, and you upload **both the original and the translation**. Translators outside Australia do not need NAATI accreditation, but each translation must include, in English, the translator's:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "full name;",
+          "address and telephone number;",
+          "qualifications and experience in the language they are translating."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In Gujarat this usually means property papers such as a 7/12 extract, or older birth certificates in Gujarati. Get them translated before you start."
+      },
+      {
+        "type": "h2",
+        "text": "How to upload documents in ImmiAccount and pay the fee"
+      },
+      {
+        "type": "p",
+        "text": "You apply and upload everything in ImmiAccount. Home Affairs sets these rules for attachments:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Scan or photograph every document **in colour**, clear and legible.",
+          "Save a multi-page document, such as a 6 page bank statement, as **one file**.",
+          "Documents can be up to **5MB each**. Photos should be between **70KB and 3.5MB**, and the facial image must be a jpg.",
+          "You can attach up to **60 documents per person** on most visa applications.",
+          "Accepted formats include pdf, jpg, png, doc, docx, xls and xlsx.",
+          "ImmiAccount does not accept **encrypted or secured PDFs**. Bank statements downloaded from net banking are often protected. Print and scan them if the upload fails.",
+          "Documents attached to an unsubmitted application are kept for **30 days**, then deleted.",
+          "You cannot remove a document after you submit. A wrong upload needs a Notification of incorrect answers form."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Tourist stream fee from outside Australia is **AUD 250** (about ₹16,000) per applicant. Each family member, including a child, lodges a separate application, and the family's applications should be submitted together. Nothing is processed until the fee is paid. Health checks, police certificates and biometrics can cost extra."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes to avoid on an Australia visit visa file"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Uploading the bare minimum.** Home Affairs may decide without asking for more, so a thin file can be refused rather than queried.",
+          "**Encrypted bank PDFs.** They fail to upload. Print and scan them instead.",
+          "**Untranslated Gujarati or Hindi papers,** or translations without the translator's name, contact details and qualifications.",
+          "**Name mismatches without proof.** Link different spellings or married names with a certificate.",
+          "**A new passport after applying.** Renew before you apply, or tell Home Affairs straight away if your passport changes.",
+          "**Asking for a short stay and planning to extend.** Visitor visas cannot be extended, and condition 8503 now blocks most onshore applications.",
+          "**Booking non-refundable travel before the grant.** Home Affairs says not to arrange travel until it confirms the grant in writing.",
+          "**Parents aged 75 or older not planning for medicals.** Build time into the plan for the examination and test."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Australia visitor visa documents"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks your Australia file before you pay the fee: the document list for your profile, bank statements, the invitation letter, translations and the ImmiAccount uploads, then tracks any request for biometrics or medicals. For parents, we prepare the file in English and explain every document to them in Gujarati or Hindi. NRI children in Australia can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India."
+      },
+      {
+        "type": "p",
+        "text": "We work from 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file Australia visitor visas for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 23 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "We checked every rule, fee and limit here on Home Affairs pages and the Federal Register of Legislation on 23 November 2026. Before you apply, re-check the Tourist stream page, the current visa pricing table, the ImmiAccount attachment rules and the health examination page, and look for updated condition 8503 wording after 28 November 2026."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Tourist stream (apply outside Australia)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas"
+      },
+      {
+        "label": "Department of Home Affairs: Current visa pricing",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing"
+      },
+      {
+        "label": "Department of Home Affairs: Attach documents to your application",
+        "url": "https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online/attach-documents-to-your-application"
+      },
+      {
+        "label": "Department of Home Affairs: Certified copy",
+        "url": "https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/on-paper/certified-copy"
+      },
+      {
+        "label": "Department of Home Affairs: What health examinations you need",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/what-health-examinations-you-need"
+      },
+      {
+        "label": "Department of Home Affairs: Who needs health examinations",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/who-needs-health-examinations"
+      },
+      {
+        "label": "Department of Home Affairs: Biometrics",
+        "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+      },
+      {
+        "label": "Federal Register of Legislation: Migration Amendment (Preventing Further Stay for Visitor Visas) Regulations 2026 (F2026L01503)",
+        "url": "https://www.legislation.gov.au/F2026L01503/asmade/text"
+      },
+      {
+        "label": "Department of Home Affairs: ImmiAccount login",
+        "url": "https://online.immi.gov.au/lusc/login"
+      }
+    ]
+  },
+  {
+    "slug": "schengen-visa-cover-letter-sample-india-2026",
+    "title": "Schengen Visa Cover Letter Sample 2026: Format and 6 Ready-to-Adapt Letters for Indians",
+    "metaTitle": "Schengen Visa Cover Letter Sample: 6 Formats | Travlys",
+    "metaDescription": "Schengen visa cover letter samples for Indians: the 5 points the EU list requires, the format, and 6 letters: solo, couple, family, minor and multiple entry.",
+    "excerpt": "The EU's list for India makes a cover letter compulsory for every Schengen applicant. Here is what it must say, the format, and six samples you can adapt, including couples, minors and multiple entry.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 11,
+    "category": "Schengen visas",
+    "tags": [
+      "Schengen visa",
+      "Cover letter",
+      "Sample letters",
+      "Multiple entry",
+      "Couples",
+      "Minors"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "easiest-schengen-visa-for-indians-2026",
+      "honeymoon-destinations-visa-free-for-indian-couples-2026-27"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Schengen file prepared"
+    },
+    "faqs": [
+      {
+        "q": "Schengen visa cover letter sample for tourist from India?",
+        "a": "A tourist cover letter states who you are, why you are travelling, your exact dates, each city with its number of nights, who is travelling with you, your flights and hotels, who pays, and when you return to India. The EU list for India requires the purpose, duration, companions' names, transport and accommodation. Address it to the visa officer of the consulate you apply to, add an enclosure list, and sign it."
+      },
+      {
+        "q": "Schengen visa cover letter format?",
+        "a": "Use a simple business-letter format: \"To, The Visa Officer\" with the embassy or consulate and city, the date, a subject line with your name and passport number, then four or five short paragraphs on purpose, itinerary and companions, transport and hotels, finances, and your return. End with an enclosure list and your signature. Proprietors applying to Italy should print it on company letterhead. No official template exists, so clarity matters more than layout."
+      },
+      {
+        "q": "Schengen visa cover letter for couple: one letter or two?",
+        "a": "Write two letters, one in each spouse's application, with identical dates and itinerary. Each letter names the other spouse and their passport number, since the EU list asks for the names of accompanying persons. If one spouse pays for both, the sponsored spouse's letter says so, and the file carries the sponsor's letter, income proof and marriage certificate. Germany's checklist specifically asks for the marriage certificate when the sponsor is the spouse."
+      },
+      {
+        "q": "Schengen visa cover letter for multiple entry: what to write?",
+        "a": "List the Schengen visas you obtained and used lawfully in the last three years, with countries and dates, explain why you will travel again during the visa's validity, and give your passport expiry date. Under the EU cascade for Indians living in India, two lawfully used visas in three years can lead to a two-year visa, normally followed by a five-year visa. Germany's missions note it is not an entitlement, so request it rather than claim it."
+      },
+      {
+        "q": "Schengen visa cover letter for minor travelling with one parent?",
+        "a": "The travelling parent writes the letter, naming the child, date of birth, passport number, dates and itinerary, and states that the other parent is not travelling. The EU list then requires the other parent's written consent certified by a notary, or proof of sole custody, plus copies of both parents' ID. Italy's Bengaluru consulate wants the affidavit legalised by the state Home Department as well, so check your mission's checklist before you book appointments."
+      },
+      {
+        "q": "How many pages should a Schengen visa cover letter be?",
+        "a": "One page is usually enough. That is our advice, not an official rule; none of the mission checklists we read sets a length. A page fits your details, purpose, dates, nights per city, companions, flights, hotels, finances and return date. If you have a past refusal or a complex itinerary, a second page is fine. Use short paragraphs and leave out sightseeing lists and general praise of Europe, which add length without helping the officer."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried that a weak letter will sink your Schengen file? Every applicant in India now needs one. The EU's list for India (decision C(2025) 4379, July 2025) says the cover letter must state **5 things**: the purpose of travel, the duration, the names of the people travelling with you, and your transport and accommodation details. Below are **6 samples** you can adapt, plus the checks your letter has to pass."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Required by:** the EU list of supporting documents for India (Commission decision C(2025) 4379 of 4 July 2025), for all applicants. **Must state:** purpose, duration, names of accompanying persons, transport and accommodation. **Mission checklists that list it:** Netherlands, Germany, Italy and Spain. **Switzerland:** the tourist checklist asks for an employer introduction letter instead and accepts only listed documents. **Official length:** none set; one page is usually enough (our advice, not a rule). **Proprietors:** Italy wants the letter on company letterhead. **Multiple entry:** a two-year visa is possible after two lawfully used visas in the previous three years."
+      },
+      {
+        "type": "h2",
+        "text": "What must a Schengen visa cover letter include?"
+      },
+      {
+        "type": "p",
+        "text": "The letter must cover the purpose of travel, the duration, the names of accompanying persons, and transport and accommodation details. That is the wording of the EU's list for India, under documents to be submitted by all applicants."
+      },
+      {
+        "type": "p",
+        "text": "A complete letter has these parts:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Who you are:** name, date of birth, passport number, address.",
+          "**Purpose and dates:** one line of purpose, entry and exit dates, total nights.",
+          "**Itinerary:** each city with its nights, so the main destination is obvious.",
+          "**Companions:** name, relationship and passport number of each.",
+          "**Transport and stay:** flights, internal travel, and each hotel or host with dates.",
+          "**Who pays and your ties:** the payer, your job, business or pension, and your return date.",
+          "**Close:** an enclosure list, signature and date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you were refused before, say so plainly. Spain's Mumbai checklist asks applicants with a visa refusal in the last 2 years for the refusal notice or a written explanation of the reasons, and the cover letter is the natural place for that explanation."
+      },
+      {
+        "type": "h2",
+        "text": "Which Schengen countries ask for a cover letter in India?"
+      },
+      {
+        "type": "p",
+        "text": "The Netherlands, Germany, Italy and Spain list a cover letter on their India checklists. Switzerland's tourist checklist does not. What they say:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Netherlands:** \"You must bring a cover letter\" with the reason, duration, fellow travellers, transport and accommodation.",
+          "**Germany:** the tourism checklist asks for a \"personal covering letter\" together with proof of transport and your itinerary.",
+          "**Italy:** the Bengaluru checklist (2025) wants the names of everyone travelling, dates, itinerary and duration, who pays, the purpose and occupations. The Mumbai checklist asks for the covering letter in original, on company letterhead if you are a proprietor.",
+          "**Spain:** the Mumbai consulate lists a \"cover letter (account of the purpose of the visit)\".",
+          "**Switzerland:** the tourist checklist asks instead for an employer introduction letter with your travel dates and purpose, and accepts only listed documents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The EU list says all applicants in India submit a cover letter, but the Swiss checklist does not mention one. Where they differ, follow the checklist of the country you are applying to, and ask that embassy or its VFS centre if you are unsure. For France and others, use the checklist your mission or visa centre gives you."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa cover letter format, and how many pages?"
+      },
+      {
+        "type": "p",
+        "text": "Use a plain business-letter format. None of the official checklists we read sets a length. In our experience **one page is usually enough**; that is our advice, not a rule."
+      },
+      {
+        "type": "p",
+        "text": "Address it \"To, The Visa Officer\" at the embassy or consulate you apply to. The subject line carries your name, passport number and purpose. Then cover, in order: who you are and why you travel; dates, nights per city and companions; flights and hotels; who pays; your job or pension and return date."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Write the letter last, after flights, hotels and insurance are final. Then check every date in it against the form and bookings. That one pass catches the mismatches we see most often."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa cover letter sample for a salaried tourist"
+      },
+      {
+        "type": "callout",
+        "label": "Sample: salaried solo tourist",
+        "text": "To, The Visa Officer, Consulate General of [country], [city]. Date: [date]. Subject: Application for a Schengen short-stay visa (tourism), [full name], passport [number]. I, [full name], born [date], of [city], work as [designation] at [employer] since [year]. I am applying for a single-entry tourist visa from [entry date] to [exit date], [number] nights in total. [Country] is my main destination, with [x] nights in [city] and [city], followed by [y] nights in [second country]. Flights: [Indian city] to [city] on [date], returning [date]; between cities by [train or flight]. I will stay at [hotel 1], [city] ([dates]) and [hotel 2], [city] ([dates]). My leave is approved from [date] to [date]. I will pay for the trip myself; my bank statements for the last three months, payslips and income tax returns for the last two assessment years are attached. I will resume work on [date]. Enclosures: [list]. [Signature, name, phone, email]."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa cover letter for a couple"
+      },
+      {
+        "type": "p",
+        "text": "Each spouse files an application, so each needs a letter with the same dates and itinerary. When one spouse pays for both, the EU list asks a sponsored applicant for proof of sponsorship, and Germany's checklist asks for a sponsor letter, the sponsor's passport copy and bank statements, and the marriage certificate when the sponsor is the spouse."
+      },
+      {
+        "type": "callout",
+        "label": "Sample: married couple, one spouse sponsoring",
+        "text": "Subject: Application for a Schengen short-stay visa (tourism), [spouse 2 full name], passport [number]. I, [spouse 2], am applying together with my [husband or wife], [spouse 1], passport [number]. We were married on [date] in [city]. We will travel to [country] from [date] to [date], [number] nights, staying in [city] ([nights]) and [city] ([nights]) at [hotels]. I am a [homemaker, or job and employer]. My [husband or wife] will pay all costs for both of us, including flights, hotels, insurance and daily expenses; [his or her] sponsor letter, passport copy, bank statements for the last three months and income tax returns, and our marriage certificate are attached. We will both return to India on [date]. Yours faithfully, [signature], [name], [phone]."
+      },
+      {
+        "type": "p",
+        "text": "On a honeymoon, put the wedding date first; the marriage certificate then explains both the trip and the sponsorship."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa cover letter for a family and a minor"
+      },
+      {
+        "type": "p",
+        "text": "Name every child, with age and passport number, in each letter. If a child under 18 travels with only one parent, the EU list requires written consent from the other parent certified by a notary, or a court order or other proof of sole custody, plus copies of the parents' identity documents. Some missions ask for more. Italy's Bengaluru checklist wants the parents' affidavit notarised and legalised by the state Home Department, or a declaration legalised by an Italian embassy or consulate."
+      },
+      {
+        "type": "callout",
+        "label": "Sample: family with children",
+        "text": "We, [parent 1], passport [number], and [parent 2], passport [number], are applying with our children [name], aged [x], passport [number], and [name], aged [y], passport [number], for a family holiday in [country] from [date] to [date]. Itinerary: [cities, nights and hotels]; flights: [details]. I, [parent 1], will pay for the trip; my bank statements, payslips and income tax returns are attached to each application. We will all return on [date]."
+      },
+      {
+        "type": "callout",
+        "label": "Sample: minor travelling with one parent",
+        "text": "My daughter, [name], born [date], passport [number], will travel with me, her mother, [name], passport [number], to [country] from [date] to [date] to visit [purpose and places]. Her father, [name], is not travelling. His written consent, certified by a notary, and a copy of his passport are attached. [Or: I have sole custody; the court order is attached.] We will stay at [hotels] and return to India on [date], before her school reopens on [date]."
+      },
+      {
+        "type": "h2",
+        "text": "Cover letter samples for a business owner and retired parents"
+      },
+      {
+        "type": "h3",
+        "text": "Business owner on a holiday"
+      },
+      {
+        "type": "p",
+        "text": "The EU list asks company owners for the company registration certificate with its GST number, business bank statements and income tax returns with a verifiable barcode. Italy wants a proprietor's covering letter on company letterhead."
+      },
+      {
+        "type": "callout",
+        "label": "Sample: business owner",
+        "text": "[On company letterhead.] I, [full name], passport [number], am the [proprietor or director] of [firm], [city], GST number [number]. I am applying for a tourist visa to visit [country] from [date] to [date] with [companions, or alone]. Itinerary: [cities, nights and hotels]; flights: [details]. I will pay for the trip from my own funds; the company registration certificate, business and personal bank statements and income tax returns are attached. [Name] will run the business while I am away; I return on [date]. [Signature and seal]."
+      },
+      {
+        "type": "h3",
+        "text": "Retired parents visiting children in Europe"
+      },
+      {
+        "type": "p",
+        "text": "For a family visit, the EU list asks for an invitation from the family member with their address, contact details and intended period of stay, and proof of their legal residence. Retired applicants show pension statements for the last three months and/or regular income from property or business. Some countries add a national form, such as Spain's invitation letter issued by the Spanish national police."
+      },
+      {
+        "type": "callout",
+        "label": "Sample: retired parents",
+        "text": "We, [father's name], passport [number], and [mother's name], passport [number], both retired, of [city], Gujarat, are applying to visit our [son or daughter], [name], who lives at [address] in [city, country] as a [citizen or residence permit holder]. We will stay at [his or her] home from [date] to [date]. [Name] will pay for our flights and stay; [his or her] invitation, passport and residence permit copies are attached. We also have our own income: [father's] pension statements for the last three months are attached. We own our home in [city], and will return on [date]."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents often sign a letter their child drafted abroad. Read it to them in Gujarati or Hindi before they sign. If the officer asks about the trip, their answers should match the letter."
+      },
+      {
+        "type": "h2",
+        "text": "Schengen visa cover letter for multiple entry"
+      },
+      {
+        "type": "p",
+        "text": "Ask for multiple entry in the letter only if your travel history supports it. Since April 2024, the EU's \"cascade\" for Indian nationals living in India allows a **two-year** multiple-entry visa after you have obtained and lawfully used **two visas within the previous three years**, normally followed by a **five-year** visa if your passport has enough validity left, says the EU Delegation to India."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Not automatic:** Germany's missions say applicants have no entitlement to the cascade, and the consulate can still issue a visa for the trip dates only.",
+          "**Passport validity:** if your passport cannot cover the visa plus three months, Germany gives the next lower category.",
+          "**Insurance:** for multiple entries, Germany asks for travel medical insurance covering your first trip and a signed statement on the form."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Sample: multiple-entry request paragraph",
+        "text": "I request a multiple-entry visa. I have obtained and lawfully used two Schengen visas within the last three years: [visa 1: issuing country, visa number, validity, dates travelled] and [visa 2: same details]. Copies of both visas and the entry and exit stamps are attached. This trip is to [country] from [date] to [date] for [purpose]. I will travel again in [months] because [my daughter lives in Munich, or regular supplier meetings in Milan]. My passport is valid until [date]. My travel insurance covers this first trip, and I will hold insurance for each later trip."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes that get a Schengen cover letter flagged"
+      },
+      {
+        "type": "p",
+        "text": "The most common problem is a letter that does not match the form and the bookings."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Dates that don't match:** the letter, application form, flights, hotels, insurance and leave letter must show the same entry and exit dates.",
+          "**Wrong main destination:** you apply to the country that is your main destination by length or purpose of stay. Germany's missions advise applying with the country where you spend the most days. A letter naming Italy as the main trip, with 5 nights in Paris and 3 in Rome, points to France.",
+          "**Generic copied text:** \"I wish to explore the rich culture of Europe\" says nothing. Give cities, dates and hotels.",
+          "**Missing companions:** the EU list requires their names.",
+          "**A sponsor with no proof:** if someone else pays, attach their letter, income proof and relationship proof.",
+          "**Hiding a past refusal:** Spain's Mumbai checklist asks for the refusal notice or an explanation. Declare it and say what has changed."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team writes your cover letter after the bookings are final and matches it to the application form and the checklist of the country you are applying to, for solo, couple, family, business-owner and parents' files. We prepare parents' files in English and brief them in Gujarati or Hindi. NRI children abroad can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. Our office is in Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 23 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 23 November 2026. We checked the European Commission's list of supporting documents for India (C(2025) 4379), the EU Delegation to India's cascade notice, the German missions' tourism checklist and visa FAQs, NetherlandsWorldwide's India tourism checklist, the Italian consulates' checklists in Mumbai and Bengaluru, the Spanish consulate's Mumbai checklist and the Swiss embassy's tourist checklist. Download the current checklist for your country before you write."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission: C(2025) 4379, list of supporting documents for short-stay visa applicants in India",
+        "url": "https://home-affairs.ec.europa.eu/document/download/e9890b44-c893-40f9-9a6e-161e86d20efc_en"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      },
+      {
+        "label": "German Missions in India: Checklist for a Schengen visa for Tourism",
+        "url": "https://india.diplo.de/in-en/2674158-2674158"
+      },
+      {
+        "label": "German Missions in India: Visa FAQs",
+        "url": "https://india.diplo.de/in-en/service/schengen-visa-faq-2610538"
+      },
+      {
+        "label": "NetherlandsWorldwide: Checklist: Applying for a Schengen visa in India for tourism",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/checklist-schengen-visa-tourism/india"
+      },
+      {
+        "label": "Consulate General of Italy in Bengaluru (via VFS Global): Requisites for tourist visa (C), 2025 (PDF)",
+        "url": "https://www.vfsglobal.com/one-pager/italy/india/bangalore/english/pdf/Checklist-TOURISM-(C)-2025.pdf"
+      },
+      {
+        "label": "Consulate General of Italy in Mumbai: Tourist Visa Application Checklist (PDF)",
+        "url": "https://consmumbai.esteri.it/wp-content/uploads/2024/07/requisite_documents_for_tourist_visa.pdf"
+      },
+      {
+        "label": "Consulate General of Spain in Mumbai: Tourism / private visit document checklist (PDF)",
+        "url": "https://india.blsspainvisa.com/assets/pdf/english/Tourist-Visa.pdf"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Checklist for Schengen visa, Tourist (PDF)",
+        "url": "https://www.schweiz-indien.eda.admin.ch/dam/en/eda-cms/Ge-fqqWRnxrs/Checklist_Tourist-EN.pdf"
+      }
+    ]
+  },
+  {
     "slug": "netherlands-visa-for-indians-2026",
     "title": "Netherlands Visa for Indians 2026: Cost, Processing Time, Documents and Tracking",
     "metaTitle": "Netherlands Visa for Indians 2026: Cost, Time & Docs | Travlys",
@@ -27,9 +1035,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-visa-cover-letter-sample-india-2026",
       "france-visa-for-indians-2026",
-      "easiest-schengen-visa-for-indians-2026",
-      "schengen-visa-refused-appeal-reapply-2026"
+      "easiest-schengen-visa-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -3585,9 +4593,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-visa-cover-letter-sample-india-2026",
       "italy-visa-for-indians-2026",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-visa-for-christmas-new-year-trips-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -4267,9 +5275,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1559511260-66a654ae982a?w=1600&h=900&fit=crop",
     "related": [
+      "canada-visitor-visa-documents-checklist-india-2026",
       "canada-visitor-visa-from-india-2026",
-      "canada-visitor-visa-for-parents-from-india-2026",
-      "canada-visa-refused-what-to-do-2026"
+      "canada-visitor-visa-for-parents-from-india-2026"
     ],
     "cta": {
       "slug": "canada-visa",
@@ -7870,9 +8878,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1529108190281-9a4f620bc2d8?w=1600&h=900&fit=crop",
     "related": [
+      "australia-visitor-visa-documents-checklist-india-2026",
       "australia-visitor-visa-subclass-600-from-india-2026",
-      "australia-visa-biometrics-india-2026",
-      "us-visa-for-parents-from-india-2026"
+      "australia-visa-biometrics-india-2026"
     ],
     "cta": {
       "slug": "australia-visa",
@@ -12052,9 +13060,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1600&h=900&fit=crop",
     "related": [
+      "canada-visitor-visa-documents-checklist-india-2026",
       "canada-visitor-visa-processing-time-after-biometrics-india-2026",
-      "canada-visitor-visa-from-india-2026",
-      "canada-visa-refused-what-to-do-2026"
+      "canada-visitor-visa-from-india-2026"
     ],
     "cta": {
       "slug": "canada-visa",
@@ -15763,9 +16771,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1524293581917-878a6d017c71?w=1600&h=900&fit=crop",
     "related": [
+      "australia-visitor-visa-documents-checklist-india-2026",
       "australia-visa-for-parents-from-india-2026",
-      "australia-visa-biometrics-india-2026",
-      "visa-rejection-reasons-india"
+      "australia-visa-biometrics-india-2026"
     ],
     "cta": {
       "slug": "australia-visa",
@@ -22903,9 +23911,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1600&h=900&fit=crop",
     "related": [
+      "australia-visitor-visa-documents-checklist-india-2026",
       "australia-visa-for-parents-from-india-2026",
-      "visa-application-centres-ahmedabad-addresses-2026",
-      "australia-visitor-visa-subclass-600-from-india-2026"
+      "visa-application-centres-ahmedabad-addresses-2026"
     ],
     "cta": {
       "slug": "australia-visa",
@@ -26445,9 +27453,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1600&h=900&fit=crop",
     "related": [
+      "canada-visitor-visa-documents-checklist-india-2026",
       "canada-visitor-visa-processing-time-after-biometrics-india-2026",
-      "canada-study-permit-for-indians-2027",
-      "canada-visa-refused-what-to-do-2026"
+      "canada-study-permit-for-indians-2027"
     ],
     "cta": {
       "slug": "canada-visa",
@@ -30986,7 +31994,7 @@ export const BLOG_POSTS = [
     category: 'Schengen visas',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['netherlands-visa-for-indians-2026', 'italy-visa-for-indians-2026', 'switzerland-visa-for-indians-2026'],
+    related: ['schengen-visa-cover-letter-sample-india-2026', 'netherlands-visa-for-indians-2026', 'italy-visa-for-indians-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {

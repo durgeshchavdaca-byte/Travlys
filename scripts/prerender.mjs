@@ -888,6 +888,9 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'schengen-visa-cover-letter-sample-india-2026',
+  'canada-visitor-visa-documents-checklist-india-2026',
+  'australia-visitor-visa-documents-checklist-india-2026',
   'netherlands-visa-for-indians-2026',
   'austria-visa-for-indians-2026',
   'us-visa-documents-checklist-b1-b2-india-2026',
