@@ -8,6 +8,672 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "dubai-visa-documents-required-for-indians-2026",
+    "title": "Dubai Visa Documents Required for Indians 2026: Full Checklist, Fees, Photo Rules and Sponsor Papers",
+    "metaTitle": "Dubai Visa Documents Required for Indians 2026 | Travlys",
+    "metaDescription": "Dubai visa documents for Indians: passport valid 6 months, white-background photo, return ticket, UAE insurance. 30-day visa is AED 200 plus 5% VAT.",
+    "excerpt": "The official Dubai tourist visa list is short, but airlines and agencies add their own items. Here is every document an Indian traveller needs, what a sponsor in Dubai provides, the fees and the mistakes that hold files up.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 13,
+    "category": "Checklists",
+    "tags": [
+      "Dubai visa",
+      "UAE visa",
+      "Document checklist",
+      "Dubai visa fees",
+      "GDRFA",
+      "Visa photo"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?w=1600&h=900&fit=crop",
+    "related": [
+      "uae-visa-on-arrival-for-indians-2026",
+      "dubai-visa-rejected-reasons-reapply-2026",
+      "uae-5-year-multiple-entry-tourist-visa-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "uae-visa",
+      "label": "Get your Dubai visa filed"
+    },
+    "faqs": [
+      {
+        "q": "What documents are required for Dubai visa for Indian?",
+        "a": "For a Dubai tourist visa you need a colour copy of your passport valid for at least 6 months, a recent colour photo on a white background, a return or onward ticket and medical insurance valid in the UAE. Emirates also asks for a hotel booking or your host's tenancy contract. If a relative in Dubai sponsors you, add proof of relationship and the sponsor's salary certificate or employment contract. Indians do not need a national ID card copy."
+      },
+      {
+        "q": "What is the Dubai visa fees for Indian in 2026?",
+        "a": "GDRFA Dubai charges AED 200 plus 5% VAT for a 30-day single-entry tourist visa, which is AED 210 or about ₹5,300. A 60-day single-entry visa is AED 300 plus VAT, and multiple-entry visas cost AED 300 for 30 days or AED 500 for 60 days, plus VAT. There is no security deposit on these. Your agency or airline adds its own service charge, so ask for the full amount in writing."
+      },
+      {
+        "q": "Is bank statement required for Dubai tourist visa?",
+        "a": "Not for the standard 30-day or 60-day tourist visa. The GDRFA Dubai and ICP lists for these visas ask for a passport copy, photo, ticket and UAE medical insurance, not a bank statement. Some agencies still ask for one as their own check. The 5-year multiple-entry tourist visa is different: it needs a bank balance of USD 4,000 or equivalent during the last six months. Keep a recent statement ready in case anyone asks."
+      },
+      {
+        "q": "Can I apply Dubai visa by myself from India?",
+        "a": "Usually not for a normal tourist visa. GDRFA Dubai says the sponsor must be a tourism establishment and only accredited tourism offices can issue it, so you apply through an airline, a hotel, a licensed travel agency or a relative living in the UAE. UAE embassies do not issue tourist visas. The exceptions are the self-sponsored 5-year tourist visa and the ICP visa for Indians holding a US, UK or EU visa or residence permit."
+      },
+      {
+        "q": "How many days does it take to get Dubai visa from India?",
+        "a": "GDRFA Dubai gives 48 hours as the expected time for its tourist and relative visit visas, and ICP gives 2 days for its 14-day and 60-day visas. Airlines quote longer: Emirates says about 3 to 4 working days and asks you to apply at least four working days before arrival, while flydubai says at least 5 working days. Weekends, UAE holidays and photo or scan problems add time, so file at least a week before travel."
+      },
+      {
+        "q": "Can Indian with US visa get Dubai visa on arrival?",
+        "a": "Yes, if you hold an ordinary Indian passport and a valid US visa or green card. ICP also accepts a valid UK or EU visa or residence permit, or a residence permit from Japan, South Korea, Australia, Canada, Singapore or New Zealand. ICP lists a 14-day visa at AED 200 in total, about ₹5,050, extendable once, and a 60-day version at AED 350. Your passport must be valid for at least 6 months."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "To get a Dubai tourist visa, Indians need a **passport valid for at least 6 months**, a colour passport copy, a white-background photo, a return ticket and UAE medical insurance. A UAE sponsor such as an airline, hotel, licensed agency or resident relative files it for you. GDRFA Dubai charges **AED 200 plus 5% VAT** for 30 days and quotes **48 hours**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Who applies:** a UAE sponsor (airline, hotel, licensed agency or resident relative), not you. **30-day single entry:** AED 200 plus 5% VAT, about ₹5,300. **60-day single entry:** AED 300 plus 5% VAT, about ₹7,950. **Passport:** valid for at least 6 months. **Core documents:** passport copy, photo, return ticket, UAE medical insurance. **Bank statement:** not on the official list for 30 or 60-day visas. **Processing:** 48 hours at GDRFA Dubai, 2 days at ICP. **With a US, UK or EU visa:** ICP 14-day visa for AED 200."
+      },
+      {
+        "type": "h2",
+        "text": "Which Dubai visa do Indians need?"
+      },
+      {
+        "type": "p",
+        "text": "Most Indian tourists need a pre-arranged tourist visa for 30 or 60 days, in single or multiple entry. Dubai's immigration authority, GDRFA Dubai, lists four versions, all sponsored by a tourism establishment in the UAE, with no security deposit:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**30 days, single entry:** AED 200 plus 5% VAT, so AED 210 (about ₹5,300).",
+          "**60 days, single entry:** AED 300 plus 5% VAT, so AED 315 (about ₹7,950).",
+          "**30 days, multiple entry:** AED 300 plus 5% VAT, so AED 315 (about ₹7,950).",
+          "**60 days, multiple entry:** AED 500 plus 5% VAT, so AED 525 (about ₹13,250)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "GDRFA notes that the total can vary with the applicant's circumstances. If the visitor is already inside the UAE, it adds AED 10 Knowledge Dirham, AED 10 Innovation Dirham and an AED 500 fee. Whoever files for you will also add a service charge, so ask for the total before you pay."
+      },
+      {
+        "type": "p",
+        "text": "If you visit often, there is also a **5-year multiple-entry tourist visa**. The UAE government portal says it is self-sponsored, allows 90 days per visit (extendable by another 90), and needs a bank balance of **USD 4,000** or equivalent over the last six months, UAE health insurance and a return ticket. Our separate guide covers its cost and the refundable guarantee."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visa for Indians with a US visa or green card"
+      },
+      {
+        "type": "p",
+        "text": "If you hold a valid US visa or green card, you have a faster route. ICP, the federal authority, lists a **14-day visa** for ordinary Indian passport holders and their family members who hold a valid visa, residence permit or US green card issued by the US, the UK or an EU country, or a valid residence permit from Japan, South Korea, Australia, Canada, Singapore or New Zealand."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**14-day visa:** AED 100 issuance plus AED 100 smart services, so AED 200 in total (about ₹5,050). You must enter within 30 days, and it can be extended once for the same period.",
+          "**60-day visa:** AED 250 issuance plus AED 100 smart services, so AED 350 (about ₹8,850). It cannot be extended.",
+          "**Documents:** passport valid for at least 6 months, a personal photo and a copy of the US, UK or EU visa, residence permit or green card."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Our visa on arrival guide explains how this works at the airport and through airlines. Everything below is for Indians who do not hold one of these visas."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visa documents required for Indians: the full checklist"
+      },
+      {
+        "type": "p",
+        "text": "The official GDRFA list is short. Airlines and agencies add a few items of their own, so prepare the full set below before anyone asks."
+      },
+      {
+        "type": "h3",
+        "text": "What GDRFA Dubai and ICP ask for"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport copy:** a clear colour copy of your passport, valid for at least 6 months. GDRFA also says the passport must allow you to return to your country of residence.",
+          "**Personal photo:** one recent colour photo (see the photo rules below).",
+          "**Return or onward ticket:** GDRFA asks for a ticket to continue your journey or leave the UAE. ICP lists a return travel ticket.",
+          "**Medical insurance:** a policy valid in the UAE. GDRFA lists it for tourist visas, and ICP lists a valid health insurance policy within the UAE for its visit visas.",
+          "**National ID card:** only for nationals of Iraq, Pakistan, Iran and Afghanistan. Indians do not need it."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "What airlines and agencies usually add"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Hotel booking or host's tenancy contract:** Emirates asks for a confirmed hotel reservation for your whole stay, or a tenancy contract showing your family member's name if you stay with them. ICP's tourism-establishment category lists a tour programme statement.",
+          "**Passport cover page:** Emirates asks for a colour copy of the passport's external cover page.",
+          "**Previous UAE stamps:** flydubai asks for the latest UAE entry and exit stamp pages if you have travelled to the UAE before.",
+          "**Application form:** Emirates and flydubai each use their own visa application form.",
+          "**Bank statement:** not on the GDRFA or ICP list for 30 or 60-day tourist visas. Some agencies ask for one anyway, and it is required for the 5-year visa."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "A file sent back for a blurry passport scan or a phone-camera photo loses days, even when nothing else is wrong. Scan the passport flat, in colour, with all four corners and the machine-readable lines at the bottom visible."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visa photo size and specification"
+      },
+      {
+        "type": "p",
+        "text": "GDRFA's tourist visa pages ask for one personal photo but publish no size. ICP's published photo standard follows ICAO rules:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Recent, high quality and on a white background.",
+          "Clear facial features and eyes, with no shadows or reflections.",
+          "No hats or sunglasses. Medical glasses are allowed only if they do not cover the eyes.",
+          "Face straight to the camera with a neutral expression."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Neither authority's visa pages give pixel dimensions, so follow the format your airline or agency's upload screen asks for. A plain passport-style photo from a studio, scanned at good resolution, meets these rules."
+      },
+      {
+        "type": "h2",
+        "text": "Documents your sponsor in Dubai must give"
+      },
+      {
+        "type": "p",
+        "text": "If a relative or friend living in Dubai sponsors you instead of a tourism company, the visa type changes and so does the paperwork. GDRFA's single-entry visit visa for a relative or friend covers 30, 60 or 90 days and asks for:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Two personal photos and a passport copy valid for at least 6 months.",
+          "Proof of relationship and the reason for the visit, such as a marriage contract or birth certificate.",
+          "The sponsor's salary certificate (government, semi-government or free zone employer), employment contract (private company) or partnership contract (business partner)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "GDRFA charges AED 200, 300 or 400 for 30, 60 or 90 days, plus 5% VAT, plus medical insurance of AED 40, 60 or 90. It also takes a refundable security deposit of **AED 1,000** (about ₹25,250) with an AED 20 service fee and an AED 40 collection and refund fee."
+      },
+      {
+        "type": "p",
+        "text": "Salary rules differ by channel. ICP's federal page asks resident sponsors for a minimum monthly salary of **AED 4,000** for first-degree relatives (parents, spouse, children), AED 8,000 for second and third-degree relatives and AED 15,000 for friends. Emirates lists its own bands, from AED 4,000 for spouse, children and parents to AED 10,000 for friends. GDRFA Dubai's page states no minimum. Ask whoever files which rule applies before your sponsor starts."
+      },
+      {
+        "type": "h2",
+        "text": "Can Indians apply for a Dubai visa directly?"
+      },
+      {
+        "type": "p",
+        "text": "Not for the standard tourist visa. GDRFA Dubai says the sponsor must be an establishment working in tourism, and that only accredited tourism offices in the emirate can issue the single-entry tourist visa. The UAE government portal says UAE embassies do not issue tourist visas. Your options are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**An airline:** Emirates and flydubai arrange visas for passengers flying with them. Emirates needs a confirmed, issued Emirates ticket with flights into and out of Dubai on one booking, and flydubai needs a confirmed, paid return booking with flydubai to collect the visa.",
+          "**A hotel or licensed UAE travel agent:** the UAE portal says they can arrange a visa if you book through them.",
+          "**A travel agency in India:** it works with a UAE tour operator. The UAE portal advises checking that the operator is genuine before you pay or send documents.",
+          "**A relative or friend living in the UAE:** through the relative visit visa above."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The exceptions are the self-sponsored 5-year tourist visa and the ICP visa for Indians holding a US, UK or EU visa or residence permit. ICP's page says its online service requires a UAE Pass login, so check that you can log in before choosing that route. Emirates also lets eligible Indians apply for this entry permit through its Manage your booking page."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visa processing time"
+      },
+      {
+        "type": "p",
+        "text": "GDRFA Dubai gives **48 hours** as the expected time for its tourist and relative visit visas, and ICP gives **2 days** for its 14-day and 60-day visas. Airline channels quote longer:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Emirates:** about 3 to 4 working days, and it asks you to apply at least four working days before you arrive in Dubai.",
+          "**flydubai:** at least 5 working days from submission, provided all documents are correct."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These are official targets, not promises. UAE weekends, public holidays and a returned photo or scan push the date back, so file at least a week before you fly. GDRFA's single-entry tourist visa page does not state how long you have to enter; ICP's visit visa page says you must enter within 60 days of issue."
+      },
+      {
+        "type": "h2",
+        "text": "Dubai visa rejected: what the official sources say"
+      },
+      {
+        "type": "p",
+        "text": "Officially, very little. Neither ICP nor GDRFA Dubai publishes a list of refusal reasons on the visa pages we checked, and none of those pages promises an explanation. A rejection marked \"security\" or \"general\" usually arrives with no detail, and nobody outside the authorities can tell you the exact cause."
+      },
+      {
+        "type": "p",
+        "text": "The airlines say the same in their own words. Emirates states that entry into the UAE is subject to immigration approval and that visa fees are non-refundable, and flydubai says acceptance of an application is subject to immigration. Before you reapply, check the passport scan, the name spelling and any past overstay fines, and do not send the identical file again. Our guide to Dubai visa rejections covers status checks, refunds and when reapplying makes sense."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes that get Dubai visa applications stuck"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Name mismatches:** your name must match your passport exactly on the ticket, the hotel booking and the application. Emirates also asks that ticket dates match your hotel dates.",
+          "**Low-quality photos:** shadows, a coloured background, glasses over the eyes or a cropped selfie fail ICP's photo standard.",
+          "**Incomplete passport scans:** a cut-off corner, missing machine-readable lines, no cover page for Emirates or no old UAE stamps for flydubai.",
+          "**Passport expiring too soon:** both authorities ask for at least 6 months of validity. Count it from your travel date, and renew first if you are close.",
+          "**Past overstays:** ICP charges **AED 50 a day** for overstaying, and Emirates says the sponsor or applicant is responsible for overstay fines. Clear any old fine before you apply.",
+          "**Wrong visa type:** a tourism company's tourist visa and a relative's visit visa have different documents and fees. Decide who sponsors you first."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "If your son or daughter lives in Dubai, compare their relative visa with an agency tourist visa before you book flights. The relative visa allows up to 90 days on one entry but ties up a refundable AED 1,000 deposit; the tourist visa has no deposit but stops at 60 days."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Dubai visa"
+      },
+      {
+        "type": "p",
+        "text": "Our team at 605 Shivalik Shilp II, Vastrapur, Ahmedabad prepares Dubai visa files for travellers across India. We check passport scans and photos against the official rules, match names and dates across tickets and bookings, and tell you which route fits your trip before you pay anyone. If your son or daughter lives in Dubai and is sponsoring you, they can brief us on WhatsApp at +91 82009 18967 and we coordinate with you in India."
+      },
+      {
+        "type": "h2",
+        "text": "When this post was last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 23 November 2026. We checked GDRFA Dubai's tourist visa and relative visit visa pages, ICP's 14-day, 60-day and visit visa service pages, ICP's photo standards and the UAE government portal's tourist visa page. Emirates' and flydubai's live visa pages would not load for us, so their details come from their latest archived versions; confirm them with the airline. Rupee figures use the UAE Central Bank rate of 20 November 2026 and are approximate. Re-check fees on GDRFA Dubai and ICP before you apply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GDRFA Dubai: Issuance of a single-entry tourist visa",
+        "url": "https://www.gdrfad.gov.ae/en/services/f9e586fe-0642-11ec-0320-0050569629e8"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a tourist visa for several entries",
+        "url": "https://www.gdrfad.gov.ae/en/services/f9e586fb-0642-11ec-0320-0050569629e8"
+      },
+      {
+        "label": "GDRFA Dubai: Issuing a visit visa for a relative or friend for one entry",
+        "url": "https://www.gdrfad.gov.ae/en/services/d551ce89-52e8-11ea-0320-0050569629e8"
+      },
+      {
+        "label": "ICP: Issuance of a 14-day visa for nationals of certain countries residing abroad",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68e3532c5ae59b0011738404"
+      },
+      {
+        "label": "ICP: Issuance of a 60-day visa for nationals of certain countries",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=68f5bcdb8c587a0011cb16d5"
+      },
+      {
+        "label": "ICP: Issuance of a Visa (visit, tourism and relatives)",
+        "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e60"
+      },
+      {
+        "label": "ICP: Frequently asked questions (approved photo standards)",
+        "url": "https://icp.gov.ae/en/faq/"
+      },
+      {
+        "label": "UAE Government portal (u.ae): Tourist visa",
+        "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa"
+      },
+      {
+        "label": "Emirates: UAE visa information",
+        "url": "https://www.emirates.com/in/english/before-you-fly/visa-passport-information/uae-visa-information/"
+      },
+      {
+        "label": "flydubai: Dubai visa rules",
+        "url": "https://www.flydubai.com/en/flying-with-us/visas-and-passports/dubai-visas/"
+      }
+    ]
+  },
+  {
+    "slug": "portugal-visa-for-indians-2026",
+    "title": "Portugal Visa for Indians 2026: Cost, Documents, Rejection Rate and Where to Apply",
+    "metaTitle": "Portugal Visa for Indians 2026: Fees, Documents | Travlys",
+    "metaDescription": "Portugal visa for Indians: €90 fee (₹9,736 at VFS) plus ₹3,384 service charge. Gujarat files go via VFS Ahmedabad to New Delhi. Documents, timing, refusals.",
+    "excerpt": "Indians visiting Portugal need a Schengen visa: €90 plus a ₹3,384 VFS charge, decided in New Delhi for Gujarat and in Goa for Maharashtra. The official checklist, timing for winter trips, the 2025 refusal numbers and how to appeal.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 12,
+    "category": "Schengen visas",
+    "tags": [
+      "Portugal",
+      "Schengen visa",
+      "Portugal visa fees",
+      "VFS Ahmedabad",
+      "Visa refusal",
+      "Lisbon"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?w=1600&h=900&fit=crop",
+    "related": [
+      "spain-visa-for-indians-2026",
+      "easiest-schengen-visa-for-indians-2026",
+      "schengen-visa-cover-letter-sample-india-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Portugal visa filed"
+    },
+    "faqs": [
+      {
+        "q": "Portugal visa fees for Indians in rupees?",
+        "a": "The Portugal tourist visa fee is €90 for adults, which VFS currently collects as ₹9,736, and €45 for children aged 6 to 11, collected as ₹4,868. Children under 6 pay no visa fee. VFS adds a service charge of ₹3,384 per applicant, including GST, so one adult pays about ₹13,120 at the centre. VFS says the rupee fee follows the exchange rate and can change without notice. Neither fee is refunded if the visa is refused."
+      },
+      {
+        "q": "Portugal visa for Indians how many days?",
+        "a": "A Portugal Schengen visa allows a stay of up to 90 days in any 180-day period, and the embassy or consulate decides how many days to grant based on your trip. Tourism, family visits and business trips each have their own Schengen checklist. For longer stays Portugal has separate national visas under Portuguese law: VFS says temporary stay visas usually take about 30 days and residence visas 60 days, after any interview."
+      },
+      {
+        "q": "Portugal visa documents for Indians?",
+        "a": "The Portuguese checklists ask for the signed application form, a passport issued within 10 years with two blank pages, two white-background photos, a cover letter, return flight reservations, hotel bookings and original insurance with €30,000 cover. Employees add three months' salary slips and bank statements, ITR-V for two years and a leave letter. Self-employed and retired applicants add business or pension proof. Bank documents must be originals with the bank's stamp and signature."
+      },
+      {
+        "q": "Portugal visa processing time in India?",
+        "a": "The Portuguese Embassy and the Goa consulate state a standard processing time of 15 calendar days, counted from the day your file reaches the mission. VFS needs up to two working days to send it there, and mission holidays do not count. EU rules allow up to 45 days when more checks are needed. Both missions strongly advise applying at least one month before travel, and you can apply up to six months ahead."
+      },
+      {
+        "q": "Portugal visa for Indians with US visa?",
+        "a": "No, a US visa does not let an Indian passport holder enter Portugal. You still need a Schengen visa from the Portuguese Embassy in New Delhi or the Consulate General in Goa. A valid US, UK or Canada visa only helps as a supporting document: both Portuguese checklists ask for clear photocopies of it. If you fly on to the US after Portugal, the checklist says you must get that onward visa first."
+      },
+      {
+        "q": "Portugal visa rejection rate for Indians?",
+        "a": "Portugal did not issue about 20.3% of the Schengen visa applications it decided in India in 2025, according to the European Commission's statistics. That is 3,138 of 15,422 applications. The rate was 22.6% at the embassy in New Delhi, which handles Gujarat, and 11.1% at the Goa consulate, which handles Maharashtra. The average for all Schengen countries in India was 15.8%. The figures cover every short-stay purpose and record no reasons."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Planning Lisbon, Porto or the Algarve and worried about refusal? Indians need a **Schengen short-stay visa** for Portugal: a **€90** visa fee (₹9,736 at VFS), a VFS service charge of **₹3,384**, and a stay of up to **90 days in any 180**. Gujarat files go to the **Portuguese Embassy in New Delhi** through VFS Ahmedabad. In 2025 Portugal did not issue about **20.3%** of applications in India."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Visa type:** Schengen short-stay visa, purpose tourism. **Stay:** up to 90 days in any 180-day period. **Visa fee:** €90 adult (₹9,736 at VFS); €45 for children aged 6 to 11 (₹4,868); free under 6. **VFS service charge:** ₹3,384 per applicant, including GST. **Who decides:** the Embassy of Portugal in New Delhi for most of India, including Gujarat; the Consulate General in Goa for Goa, Maharashtra, Daman, Diu and Dadra and Nagar Haveli. **Provider:** VFS Global only. **Ahmedabad centre:** yes, for the New Delhi embassy. **Processing:** 15 calendar days from the day the file reaches the mission, up to 45 days in some cases. **Apply:** up to 6 months ahead; at least one month before travel is advised. **Insurance:** at least €30,000 cover. **2025 not-issued rate in India:** 20.3%."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal visa for Indians: which visa do you need?"
+      },
+      {
+        "type": "p",
+        "text": "For a holiday, a family visit or a short business trip of up to 90 days you need a **Schengen short-stay visa**. Portugal is one of 29 Schengen countries, so the same visa covers Spain, France or Italy on the trip, within the dates and days printed on it."
+      },
+      {
+        "type": "h3",
+        "text": "What about Portugal work and residence visas?"
+      },
+      {
+        "type": "p",
+        "text": "Many Indians also search for the Portugal **D7** and the **job seeker visa**. These are national visas, outside this guide. Two points from the VFS Portugal India page: the D7 is a residence visa for retirees, religious workers and people living on rents, investments or other personal income, and since **23 October 2025** the old job seeker visa is no longer accepted. VFS says a new skilled job seeker visa will open only once Portuguese law regulates it."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal visa cost for Indians in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The VFS Portugal page for India lists:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Adults:** €90, collected as ₹9,736.",
+          "**Children aged 6 to 11:** €45, collected as ₹4,868. The embassy and VFS write \"6 to 12 years\"; the EU Visa Code sets the band as from age six and below age 12.",
+          "**Children under 6:** no visa fee.",
+          "**VFS service charge:** ₹3,384 per applicant, including 18% GST, paid online when you book.",
+          "**Optional:** courier ₹750, SMS updates ₹350 and premium lounge ₹3,500, each per application.",
+          "**Payment:** cash, Visa, Mastercard or RuPay at the centre.",
+          "**Refunds:** no fee is refunded if the visa is refused or the application is withdrawn during processing."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For one adult the fixed cost is about **₹13,120**, before insurance and photos. A family of two adults and one child aged 8 pays about ₹34,492. The rupee fee follows the exchange rate and can change without notice."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply for a Portugal visa from Gujarat and Maharashtra"
+      },
+      {
+        "type": "p",
+        "text": "Portugal has two visa-issuing missions in India, and where you live decides which one handles your file:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Embassy of Portugal, New Delhi:** all of India except Goa, Maharashtra, Daman and Diu, and Dadra and Nagar Haveli. **Gujarat is under New Delhi.**",
+          "**Consulate General of Portugal, Goa:** Goa, Maharashtra, Daman, Diu, and Dadra and Nagar Haveli.",
+          "**Provider:** the embassy states that VFS Global is the only service provider authorised to file Portuguese visas in India. There is no BLS route for Portugal.",
+          "**Centres for New Delhi:** VFS lists New Delhi, Jalandhar, Chandigarh, Chennai, Kolkata, Bengaluru, **Ahmedabad**, Hyderabad and Lucknow.",
+          "**Centres for Goa:** VFS Mumbai, Pune and Goa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So a family in Ahmedabad, Surat, Vadodara or Rajkot submits at **VFS Ahmedabad** and New Delhi decides; Mumbai or Pune families go to Goa. The embassy adds that you must have lived legally in the jurisdiction for **at least six months**, and no third person can submit for you: you attend in person for fingerprints and a photograph."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal with Spain: which country do you apply to?"
+      },
+      {
+        "type": "p",
+        "text": "Apply to Portugal only if Portugal is your **main destination**. The embassy lists this as a basic requirement. The EU Visa Code defines the main destination by the length of stay, counted in days, or the purpose of stay. If no main destination can be found, you apply to the country whose external border you cross first. Examples for typical Indian itineraries:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**4 nights in Lisbon, 2 in Porto, 3 in Madrid:** Portugal has 6 nights, so apply to Portugal.",
+          "**3 nights in Lisbon, 5 in Barcelona and Seville:** apply to Spain. Our Spain visa guide covers that file.",
+          "**4 nights in Lisbon, 4 in Madrid, flying into Lisbon:** the days are equal and you enter Schengen in Portugal, so apply to Portugal.",
+          "**Same split, flying into Madrid:** apply to Spain instead."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Count nights from your hotel bookings, not from the flight dates, and make the cover letter tell the same story. If the letter says six nights in Portugal but the hotels show four, the file no longer shows Portugal as the main destination, and that is the first thing an officer can question."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal visa documents for Indians: the official checklist"
+      },
+      {
+        "type": "p",
+        "text": "The New Delhi embassy and the Goa consulate each publish a **Checklist for Schengen Visa (Tourism)** on the VFS site. Use the one for your jurisdiction, sign it and submit the documents in the order given, unstapled. Every applicant needs:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Application form**, filled in and signed, all pages. A parent signs for a minor.",
+          "**Passport** issued within the last 10 years, valid at least three months after your return, with two blank pages. Handwritten passports, or passports with manual changes to name, date or place of birth or sex made after 1 April 2010, are not accepted.",
+          "**Old passports**, held with a rubber band, plus photocopies of any earlier Schengen visas.",
+          "**Two photos** with a white background, 35 to 40 mm wide, not older than six months. The Goa consulate does not accept photos with glasses.",
+          "**Cover letter** explaining the plan of the trip. Goa also wants the names, passport numbers and relationship of everyone travelling with you.",
+          "**Return flight reservation** and, for several Schengen countries, proof of the onward train, flight or car hire.",
+          "**Original travel insurance** with at least €30,000 cover (about ₹32.5 lakh at the VFS rate) for the whole Schengen stay, plus the signed travel health declaration.",
+          "**Hotel bookings** or a tour package covering the whole stay.",
+          "**Refused visas:** if you were refused a visa before, the refusal letter or a written explanation."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Proof of money and ties, by applicant type"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Employed:** last three months' salary slips and the salary account statements for the same months, last three months' personal bank statements, ITR-V or acknowledgement for the last two assessment years, and the employer's leave approval letter.",
+          "**Self-employed or company owner:** business registration, GST registration with annexures A and B, partnership deed or proof of proprietorship, three months' personal and business bank statements, and company and personal ITRs for two years. Goa adds a letter from your business partners, if any.",
+          "**Retired:** three months' pension account statements and proof of income from property or business.",
+          "**Students:** enrolment letter and NOC from the college, plus a parent's bank statements, ITRs and support letter.",
+          "**Invited by someone in Portugal:** the notarised Termo de Responsabilidade (statement of responsibility) with the host's ID, Portuguese tax returns, payslips, bank statements and property or rental papers.",
+          "**Minors:** birth certificate with Hague apostille, and notarised consent from the parent not travelling."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Bank documents must be originals with the bank's stamp and signature, and everything must be in English or Portuguese. The embassy keeps any original submitted without a copy."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Put your own mobile number and an email you check daily on the form. VFS says the embassy can treat a file with an agent's phone number as incomplete, and the Goa checklist says a message sent to the email on your form counts as delivered by the fifth working day, even if you never open it."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal visa processing time and when to apply"
+      },
+      {
+        "type": "p",
+        "text": "Both Portuguese missions state a **standard processing time of 15 calendar days**, counted from when the file reaches New Delhi or Goa (up to two working days from VFS), excluding mission holidays. The EU Visa Code allows up to **45 days** when more scrutiny is needed, such as an interview or a bank check."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Earliest:** six months before travel, per the embassy, the Goa consulate and EU law. One line on the VFS page still says three months, so confirm with VFS when booking.",
+          "**Latest:** 15 days before travel under EU law, but VFS accepts files only up to 15 working days before departure.",
+          "**Advised:** both checklists strongly advise applying at least one month before travel.",
+          "**Flight tickets:** a booked ticket does not speed up processing."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For Christmas, New Year and January honeymoons, work backwards. If you fly on 10 January, submit at VFS by early December so the file has a month and the Christmas holidays do not eat into it. For a December trip, check VFS slots today."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal visa for Indians with US visa: do you still need one?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. A US visa does not replace a Schengen visa for Indian passport holders, and nothing on the Portuguese mission pages says otherwise. A valid **US, UK or Canada visa** helps only as a supporting document: both checklists ask for clear photocopies of it. If you go on to the US, UK or Canada after Portugal, the checklist says the next country's visa has to be obtained first."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal visa rejection rate for Indians: the 2025 numbers"
+      },
+      {
+        "type": "p",
+        "text": "In 2025 Portugal received **15,422** Schengen visa applications in India, issued **12,284** visas and did not issue **3,138**, according to the European Commission's 2025 statistics by consulate. The Commission's not-issued rate is visas not issued divided by all decisions (visas issued, limited-validity visas and visas not issued). On that basis Portugal's rate in India was **20.3%**."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**New Delhi embassy (covers Gujarat):** 12,385 applications, 9,583 issued, 2,802 not issued, a rate of **22.6%**.",
+          "**Goa consulate (covers Maharashtra):** 3,037 applications, 2,701 issued, 336 not issued, a rate of **11.1%**.",
+          "**All Schengen countries in India:** 1,153,748 applications and a not-issued rate of **15.8%**.",
+          "**Spain, the usual pairing:** 15.4% across its missions in India."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These figures cover every short-stay purpose and record no reasons. You cannot pick Goa over New Delhi: the six-month residence rule decides your mission."
+      },
+      {
+        "type": "h2",
+        "text": "Portugal visa rejected: reasons and how to appeal"
+      },
+      {
+        "type": "p",
+        "text": "A refusal comes on the EU's standard form, which ticks one or more set reasons. The ones that matter most for tourists from India are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Justification for the purpose and conditions of the stay was not provided.",
+          "No proof of sufficient means of subsistence for the stay and the return.",
+          "No proof of adequate and valid travel medical insurance.",
+          "Reasonable doubts about the authenticity of supporting documents or the truth of their contents.",
+          "Reasonable doubts about the reliability of your statements.",
+          "Reasonable doubts about your intention to leave Schengen before the visa expires."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The embassy says a refused applicant has the **right of appeal**, filed through VFS with a fee of **€75 plus taxes** (about ₹8,100 before taxes). The Goa consulate also lists appeals at €75. Neither page states a deadline, so read the appeal section of your refusal form: EU law requires it to state the procedure, and appeals follow Portuguese law."
+      },
+      {
+        "type": "p",
+        "text": "You can also reapply. For most tourists, a fresh file that fixes the ticked reason is faster. Disclose the refusal, as the checklist requires."
+      },
+      {
+        "type": "h2",
+        "text": "Multiple-entry Portugal visas and the 2024 cascade for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Since April 2024 the EU has a visa cascade for Indian nationals living in India who apply in India. After you have **obtained and lawfully used two visas within the previous three years**, you can receive a **two-year multiple-entry visa**, normally followed by a **five-year visa** if your passport has enough validity left."
+      },
+      {
+        "type": "p",
+        "text": "The cascade is not automatic. In 2025, 31.5% of the visas Portugal issued in India were multiple-entry (13.1% at Goa, 36.6% at New Delhi), against 57.6% for all Schengen countries in India. If you qualify, list your earlier Schengen visas on the form and attach copies."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Portugal visa"
+      },
+      {
+        "type": "p",
+        "text": "Our team settles the main-destination question first, then builds your file against the New Delhi or Goa checklist: a cover letter that matches your bookings, the right financial proof, and a refusal review if you were turned down before. NRI children abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate with parents in India. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked: 23 November 2026"
+      },
+      {
+        "type": "p",
+        "text": "Fees and checklists change. Before you book, re-check the New Delhi embassy and Goa consulate visa pages, the VFS Global Portugal India page for the rupee fee and centres, and the tourism checklist for your jurisdiction."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of Portugal in New Delhi: Visas",
+        "url": "https://novadeli.embaixadaportugal.mne.gov.pt/en/consular-section/visas"
+      },
+      {
+        "label": "Consulate General of Portugal in Goa: Visa",
+        "url": "https://goa.consuladoportugal.mne.gov.pt/en/consular-matters/visa"
+      },
+      {
+        "label": "VFS Global: Portugal visa information for India",
+        "url": "https://visa.vfsglobal.com/one-pager/portugal/india/english/"
+      },
+      {
+        "label": "Embassy of Portugal in New Delhi: Checklist for Schengen visa (tourism) (PDF)",
+        "url": "https://visa.vfsglobal.com/one-pager/portugal/india/english/pdf/tourism-checklist-newdelhi.pdf"
+      },
+      {
+        "label": "Consulate General of Portugal in Goa: Checklist for Schengen visa (tourism), August 2025 (PDF)",
+        "url": "https://visa.vfsglobal.com/one-pager/portugal/india/english/pdf/checklist_for_schengen_visa_tourism_cg_new.pdf"
+      },
+      {
+        "label": "European Commission: 2025 Schengen visa statistics by consulate (Excel)",
+        "url": "https://home-affairs.ec.europa.eu/document/download/56816949-e59f-442b-9091-5d03360bf860_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Statistics on short-stay visas",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/eu-visa-policy/statistics-short-stay-visas_en"
+      },
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated 28.06.2024)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240628"
+      },
+      {
+        "label": "Delegation of the European Union to India: European Union adopts more favourable Schengen visa rules for Indians",
+        "url": "https://www.eeas.europa.eu/delegations/india/european-union-adopts-more-favourable-schengen-visa-rules-indians_en"
+      }
+    ]
+  },
+  {
     "slug": "canada-visitor-visa-documents-checklist-india-2026",
     "title": "Canada Visitor Visa Documents Checklist from India 2026: New Delhi List, Funds, Invitation and Uploads",
     "metaTitle": "Canada Visitor Visa Documents Checklist from India | Travlys",
@@ -2511,9 +3177,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=1600&h=900&fit=crop",
     "related": [
+      "portugal-visa-for-indians-2026",
       "netherlands-visa-for-indians-2026",
-      "schengen-visa-documents-checklist-2026",
-      "schengen-5-year-multiple-entry-visa-for-indians-2026"
+      "schengen-visa-documents-checklist-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -3524,9 +4190,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=1600&h=900&fit=crop",
     "related": [
+      "portugal-visa-for-indians-2026",
       "france-visa-for-indians-2026",
-      "airport-transit-visa-for-indians-europe-2026",
-      "schengen-visa-documents-checklist-2026"
+      "airport-transit-visa-for-indians-europe-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -6644,9 +7310,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&h=900&fit=crop",
     "related": [
+      "dubai-visa-documents-required-for-indians-2026",
       "dubai-visa-cost-from-india-2026",
-      "uae-visa-on-arrival-for-indians-2026",
-      "visa-rejection-reasons-india"
+      "uae-visa-on-arrival-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -11261,9 +11927,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
     "related": [
+      "dubai-visa-documents-required-for-indians-2026",
       "dubai-visa-cost-from-india-2026",
-      "uae-visa-on-arrival-for-indians-2026",
-      "us-visa-for-parents-from-india-2026"
+      "uae-visa-on-arrival-for-indians-2026"
     ],
     "cta": {
       "slug": "uae-visa",
@@ -29652,9 +30318,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&h=900&fit=crop",
     "related": [
+      "dubai-visa-documents-required-for-indians-2026",
       "uae-5-year-multiple-entry-tourist-visa-for-indians-2026",
-      "uae-visa-for-parents-from-india-2026",
-      "countries-visa-free-for-indians-with-us-visa-2026"
+      "uae-visa-for-parents-from-india-2026"
     ],
     "cta": {
       "slug": "uae-visa",
