@@ -8,6 +8,672 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "schengen-travel-insurance-india-2026",
+    "title": "Travel Insurance for Schengen Visa from India 2026: The €30,000 Rule and Approved Insurers",
+    "metaTitle": "Travel Insurance for Schengen Visa from India 2026 | Travlys",
+    "metaDescription": "Schengen visa insurance from India needs €30,000 medical cover in all Schengen states for the whole stay, from an insurer on the consulates' approved list.",
+    "excerpt": "Schengen travel insurance from India must give at least €30,000 of medical cover across all Schengen states for the whole stay. Here is what Article 15 requires, which missions accept only approved Indian insurers, age limits for parents, refunds and the mistakes that cause refusals.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 10,
+    "category": "Schengen visas",
+    "tags": [
+      "Schengen visa",
+      "Travel insurance",
+      "€30,000 cover",
+      "Approved insurers",
+      "Visa documents",
+      "Senior travellers"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1517400508447-f8dd518b86db?w=1600&h=900&fit=crop",
+    "related": [
+      "schengen-visa-documents-checklist-2026",
+      "schengen-visa-for-parents-from-india-2026",
+      "schengen-visa-refused-appeal-reapply-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your Schengen file prepared"
+    },
+    "faqs": [
+      {
+        "q": "Which travel insurance is accepted for Schengen visa from India?",
+        "a": "Schengen consulates in India accept Indian travel medical insurance only from companies on their common approved list. The policy must give at least €30,000 of medical cover, including repatriation, valid in all Schengen states for your whole stay. Your age must fall inside the insurer's approved band for that plan. A foreign insurer can also be accepted if claims against it are recoverable in a Schengen state. Always check the list version your mission links."
+      },
+      {
+        "q": "Is ICICI Lombard travel insurance accepted for Schengen visa?",
+        "a": "ICICI Lombard General Insurance appears on the approved list of Indian insurers published by the German Missions in India. Being on the list is not the whole test. The list gives an approved age range for each insurer, and your certificate must still show €30,000 of medical cover, all Schengen states and your full travel dates. Travlys does not recommend or sell any insurer, so check the current list your mission links before you buy."
+      },
+      {
+        "q": "Is 30000 euro insurance mandatory for Schengen visa?",
+        "a": "Yes, €30,000 is the legal minimum under Article 15 of the EU Visa Code, about ₹30.6 lakh. It must cover medical repatriation, urgent medical care, emergency hospital treatment and death, in every Schengen state, for the whole stay. More cover is fine, less is not. If your Indian policy is written in US dollars, check that the medical limit is at least €30,000 at the current exchange rate. Only diplomatic passport holders and some groups such as seafarers are exempt."
+      },
+      {
+        "q": "Is Schengen travel insurance refundable if visa is rejected?",
+        "a": "It depends on your policy, because no Schengen rule requires a refund. NetherlandsWorldwide notes that some insurers refund all or part of the premium if the visa is denied, and many policies can be cancelled before the cover starts. Before you buy, ask the insurer in writing whether a refusal qualifies, whether the refund is full or partial, which documents they need, such as the refusal letter, and any time limit for the claim."
+      },
+      {
+        "q": "How many days travel insurance is required for Schengen visa?",
+        "a": "Your insurance must cover the entire period of your intended stay, so buy it from the day you leave India to the day you return. Some missions add their own minimum. The Consulate General of Italy in Mumbai's checklist asks for at least 10 days from the travel date, even for a shorter trip. For a multiple-entry visa, the policy you show at application only needs to cover your first trip."
+      },
+      {
+        "q": "Do I need travel insurance for every trip on multiple entry Schengen visa?",
+        "a": "Yes. When you apply, you only prove cover for your first intended trip, but you sign a statement in the form that you know you need insurance for later stays. NetherlandsWorldwide says you must be able to show proof of insurance for each later trip on the same visa. Buy a new policy for every trip, or an annual plan that meets the same rules, and carry the certificate when you travel."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Travel insurance for a Schengen visa from India must give at least **€30,000** (about ₹30.6 lakh) of medical cover, be valid in **all Schengen states** for the **whole stay**, and include medical repatriation. If you buy it from an Indian company, the Schengen consulates in India accept only insurers on their **approved list**. For a multiple-entry visa, cover for the **first trip** is enough when you apply."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Minimum cover:** €30,000 of medical cover, about ₹30.6 lakh. **Where valid:** every Schengen state, not just the country you apply to. **How long:** the entire intended stay, from the day you land to the day you leave. **Must cover:** medical repatriation, urgent medical care, emergency hospital treatment and death. **Indian insurers:** only those on the approved list of the Schengen consular posts in India. **Multiple-entry visa:** proof for the first trip at application, and you must hold cover for every later trip. **Legal basis:** Article 15 of the EU Visa Code, Regulation (EC) No 810/2009. **Exempt:** holders of diplomatic passports."
+      },
+      {
+        "type": "h2",
+        "text": "What is the travel insurance requirement for a Schengen visa?"
+      },
+      {
+        "type": "p",
+        "text": "The rule is Article 15 of the EU Visa Code, and it is the same for every Schengen country. You must prove you hold \"adequate and valid travel medical insurance\" that pays for repatriation for medical reasons, urgent medical attention, emergency hospital treatment or death during your stay."
+      },
+      {
+        "type": "p",
+        "text": "Article 15 then sets four conditions that consulates check on your certificate:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Amount:** minimum coverage of **€30,000**.",
+          "**Territory:** valid throughout the territory of the Schengen states, not one country.",
+          "**Period:** the entire period of your intended stay or transit.",
+          "**Recoverable claims:** the consulate checks whether claims against the insurer could be recovered in a Schengen state."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You should, in principle, buy the insurance in your country of residence, which for most readers means India. Someone else can buy it in your name, for example a son or daughter in Europe, as long as the same conditions are met. NetherlandsWorldwide says a sponsor in the Netherlands can take out the insurance for you there."
+      },
+      {
+        "type": "p",
+        "text": "Holders of diplomatic passports are exempt. The Visa Code also allows an exemption for some professional groups already covered through work, such as seafarers. Everyone else, including children, must be covered by name."
+      },
+      {
+        "type": "h2",
+        "text": "Is €30,000 enough? The 30000 euro rule explained"
+      },
+      {
+        "type": "p",
+        "text": "€30,000 is the legal minimum, not a recommended amount. A policy with more cover is fine. A policy with less is not, even by a small margin."
+      },
+      {
+        "type": "p",
+        "text": "The Netherlands spells out what the €30,000 must cover, and its list matches the Visa Code:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hospital admission and treatment.",
+          "Emergency treatment.",
+          "Prescription medicine.",
+          "Repatriation to your country of residence, including in the event of death."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Dutch page adds that the proof, such as the first page of the policy (the policy schedule), must show that **you** are covered, that the cover applies in all Schengen countries for your whole stay, and the €30,000 medical limit. If the document does not show these points, the Dutch advice is to get insurance from an insurer that can issue proof with them."
+      },
+      {
+        "type": "p",
+        "text": "Indian policies are often written in US dollars. The rule is in euros, so check that the medical limit on your certificate is at least €30,000 at the current exchange rate. Do not assume a round dollar figure is enough."
+      },
+      {
+        "type": "h2",
+        "text": "Which Schengen embassies in India accept only approved insurers?"
+      },
+      {
+        "type": "p",
+        "text": "All of them, in practice. The Schengen consular posts in India have agreed one common list of Indian insurance companies whose travel medical policies they accept. The Czech Embassy's copy of the list note says it is applied by all 29 Schengen states, plus Cyprus."
+      },
+      {
+        "type": "p",
+        "text": "The note on that list is direct: other travel medical insurance issued by Indian insurance companies is not accepted for the Schengen visa procedure. You may instead buy insurance in another country, as long as claims against that insurer would be recoverable in a Schengen state."
+      },
+      {
+        "type": "p",
+        "text": "These missions publish the list or point to it:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Germany:** the German Missions in India have a travel medical insurance page with the list, and the tourism checklist says German Missions accept Indian policies only from approved Indian insurers.",
+          "**Switzerland:** the Swiss Embassy's tourist checklist asks for insurance from a company on its approved list of Indian insurers.",
+          "**Austria:** the Austria information page on VFS Global says that from 1 January 2026, insurance is accepted only from a company on the approved list, and links a list updated in March 2026.",
+          "**Greece:** the Embassy of Greece's document notice says that since 1 October 2013, insurance for applications lodged in India is accepted only from specific Indian insurance companies.",
+          "**Spain:** the Consulate General in Mumbai's tourism checklist, which covers Gujarat, links to the list of approved Indian insurers.",
+          "**Czech Republic:** the Embassy in New Delhi has a travel medical insurance page with the list as a PDF."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "Check the date on the list",
+        "text": "The copies are not all the same version. The German Missions' page shows a list marked effective July 2022, the Czech Embassy links a file dated February 2023, and the Austria VFS page links a list updated in March 2026. Insurers are added, renamed or merged between versions. Use the copy linked by the mission you are applying to, and check your insurer and plan against it on the day you buy."
+      },
+      {
+        "type": "p",
+        "text": "Greece shows why reading carefully matters. The GVCW page for Greek visas says you can buy cover from any insurer you choose and links to a European insurance partner. The Embassy's own notice says Indian policies are accepted only from specific Indian companies. The two fit together: an Indian policy must come from a listed company, and a foreign policy can be accepted if claims are recoverable in a Schengen state."
+      },
+      {
+        "type": "h2",
+        "text": "Age limits on the approved list matter for parents"
+      },
+      {
+        "type": "p",
+        "text": "The list does not just name insurers. Against each one it gives an approved age range for full coverage, and some plans are named separately. On the German Missions' copy, some standard plans stop at 50, 55, 60 or 70 years, while other insurers show a separate senior or Schengen plan, or no age limit."
+      },
+      {
+        "type": "p",
+        "text": "So the question for a 68-year-old parent is not only \"is this insurer on the list?\" but \"is this plan, at this age, inside the approved band?\". Check the age column before you pay."
+      },
+      {
+        "type": "p",
+        "text": "The list note adds two conditions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Corporate travel policies** from listed insurers are approved with 70 years as the upper limit of full coverage.",
+          "**Group policies** for tours or incentive groups, also up to 70 years, are accepted only if the consulate can check each member's cover on the General Insurance Council's travel insurance portals. If that check fails, the consulate may ask for a new policy."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Families travelling on a tour package often assume the group policy covers the grandparents. Read the certificate for each person's name and age. If a parent is over 70, a separate individual plan inside the approved age band usually saves a back-and-forth at the consulate."
+      },
+      {
+        "type": "h2",
+        "text": "How much does Schengen travel insurance cost from India?"
+      },
+      {
+        "type": "p",
+        "text": "There is no official price, and we do not quote one. Premiums depend on the insurer, the plan, your age, the number of days and any extras. Travlys does not sell insurance and has no tie-up with any insurer."
+      },
+      {
+        "type": "p",
+        "text": "Compare plans on what the consulate checks, not on price alone: the insurer is on the current list, your age is inside its approved band, the medical cover is at least €30,000, the territory is all Schengen states, and the dates cover your whole stay. A cheap policy that fails one of these costs you far more when the visa is refused."
+      },
+      {
+        "type": "h2",
+        "text": "Is Schengen travel insurance refundable if the visa is refused?"
+      },
+      {
+        "type": "p",
+        "text": "Sometimes, and it depends entirely on the policy. NetherlandsWorldwide notes that some insurers refund all or part of the premium if the visa application is denied. No Schengen rule requires a refund."
+      },
+      {
+        "type": "p",
+        "text": "Many policies allow cancellation before the cover starts, but the terms vary. Before you buy, read the policy wording or ask the insurer in writing:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Can the policy be cancelled if the visa is refused, and is the refund full or partial?",
+          "Which documents are needed, such as a copy of the refusal letter?",
+          "Is there a time limit for asking for the refund?",
+          "What happens if your travel dates change after the visa is issued?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Travel insurance for a multiple-entry Schengen visa"
+      },
+      {
+        "type": "p",
+        "text": "For a multiple-entry visa, you only need to prove cover for your **first intended trip** when you apply. The Visa Code, the German Missions and the Swiss checklist all say this. You also sign a statement in the application form that you know you need insurance for later trips."
+      },
+      {
+        "type": "p",
+        "text": "That statement is a real obligation. NetherlandsWorldwide says that on later trips with the same visa, you must be able to show proof of insurance for each stay. Buy a fresh policy for every trip, or an annual multi-trip plan if it meets the same rules, and carry the certificate when you fly."
+      },
+      {
+        "type": "h2",
+        "text": "When should the policy start and end?"
+      },
+      {
+        "type": "p",
+        "text": "The policy must cover the entire period of your intended stay. Set the start date as the day you leave India, so the day you land in Europe is covered, and the end date as the day you get back, so your return flight is covered."
+      },
+      {
+        "type": "p",
+        "text": "Some missions add their own rule. The Consulate General of Italy in Mumbai's tourist checklist says insurance of at least 10 days from the travel date is mandatory, with €30,000 cover including repatriation. So a 6-day Italy trip from Gujarat still needs a policy of 10 days or more."
+      },
+      {
+        "type": "p",
+        "text": "Greece's GVCW page words it as cover valid in all Schengen countries during the whole validity of the issued visa, while the Embassy notice says the entire period of the intended stay. If you apply for Greece, ask at submission which period they want, or buy cover matching the visa dates you request."
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes with Schengen travel insurance"
+      },
+      {
+        "type": "p",
+        "text": "Most insurance problems we see are small errors on the certificate, and each one can lead to a refusal or a request for a new policy:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Cover starting on the wrong date:** a policy starting the day after you fly leaves your arrival day uncovered.",
+          "**A single-country policy:** cover for \"France\" or \"Europe excluding\" some states fails the all-Schengen rule. The certificate should say all Schengen states.",
+          "**Deductibles:** none of the official pages we checked sets a rule on excess or deductibles. If your plan has one, make sure the certificate still states the €30,000 medical cover clearly, and ask the insurer to confirm in writing that the plan meets Schengen visa requirements.",
+          "**Cover under €30,000:** watch dollar limits and plans with a lower limit for medical expenses than the headline sum.",
+          "**A policy that ends before the return flight:** match the end date to your return booking, not to your last hotel night.",
+          "**An insurer or age band not on the list:** a listed insurer with a plan outside its approved age range can still be rejected.",
+          "**Missing names:** every traveller, including children, must be named on a policy. One family policy is fine if it lists everyone."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Before submission, put the insurance certificate next to the flight reservation. If the dates do not match night for night, fix the policy first. It takes minutes with the insurer and saves explaining it to the consulate later."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your Schengen file"
+      },
+      {
+        "type": "p",
+        "text": "We do not sell insurance. Our team checks the certificate you buy against the rules and the current approved list for your mission, including the age band for parents, and makes sure it matches your flights, hotels and cover letter. Our office is in Vastrapur, Ahmedabad, and we file Schengen visas for clients across India. NRI children abroad can brief us on WhatsApp at +91 82009 18967 and we coordinate with their parents here."
+      },
+      {
+        "type": "h2",
+        "text": "Last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 23 November 2026. Before you buy, re-check Article 15 of the EU Visa Code on EUR-Lex, the travel medical insurance pages of the German Missions in India and the Czech Embassy in New Delhi, the checklist of the mission you are applying to (Swiss, Austrian, Greek, Spanish or Italian), and the NetherlandsWorldwide insurance page. The approved list changes, so always use the copy your mission links on the day."
+      }
+    ],
+    "sources": [
+      {
+        "label": "EUR-Lex: Regulation (EC) No 810/2009, Community Code on Visas (consolidated), Article 15",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0810-20200202"
+      },
+      {
+        "label": "German Missions in India: Information on Travel Medical Insurance",
+        "url": "https://india.diplo.de/in-en/service/1984578-1984578"
+      },
+      {
+        "label": "German Missions in India: Checklist for a Schengen visa for Tourism",
+        "url": "https://india.diplo.de/in-en/2674158-2674158"
+      },
+      {
+        "label": "Embassy of the Czech Republic in New Delhi: Travel Medical Insurance",
+        "url": "https://mzv.gov.cz/newdelhi/en/ko/visa_information/schengen_visa_up_to_90_days/travel_medical_insurance.html"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Checklist for Schengen visa, Tourist (PDF)",
+        "url": "https://www.schweiz-indien.eda.admin.ch/dam/en/eda-cms/Ge-fqqWRnxrs/Checklist_Tourist-EN.pdf"
+      },
+      {
+        "label": "VFS Global: Austria visa information for India",
+        "url": "https://visa.vfsglobal.com/one-pager/austria/india/english/"
+      },
+      {
+        "label": "Embassy of Greece in New Delhi, Consular Section: Schengen visa documents to be submitted (PDF, October 2026)",
+        "url": "https://in-gr.gvcworld.eu/sites/default/files/paragraph/files/notice_from_the_embassy_of_greece_29102026.pdf"
+      },
+      {
+        "label": "Consulate General of Spain in Mumbai: Tourism / private visit document checklist",
+        "url": "https://india.blsspainvisa.com/assets/pdf/english/Tourist-Visa.pdf"
+      },
+      {
+        "label": "Consulate General of Italy in Mumbai: Tourist Visa Application Checklist",
+        "url": "https://consmumbai.esteri.it/wp-content/uploads/2024/07/requisite_documents_for_tourist_visa.pdf"
+      },
+      {
+        "label": "NetherlandsWorldwide: What kind of insurance do I need when applying for a visa for the Netherlands?",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/requirements-insurance-schengen-visa"
+      }
+    ]
+  },
+  {
+    "slug": "singapore-visa-documents-required-for-indians-2026",
+    "title": "Singapore Visa Documents Required for Indians 2026: Form 14A, Photo Size and Full Checklist",
+    "metaTitle": "Singapore Visa Documents Required for Indians | Travlys",
+    "metaDescription": "Singapore visa documents for Indians: signed Form 14A, 35x45 mm photos, passport valid 6 months, filed via an authorised agent. Fee ₹2,100, 3 to 5 days.",
+    "excerpt": "The full Singapore visa document list for Indian applicants in 2026, from ICA and the Singapore missions in New Delhi and Mumbai: Form 14A part by part, photo size, supporting papers, local contact rules, fees and the SG Arrival Card.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 12,
+    "category": "Checklists",
+    "tags": [
+      "Singapore",
+      "Singapore visa",
+      "Documents checklist",
+      "Form 14A",
+      "Visa photo",
+      "SG Arrival Card"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=1600&h=900&fit=crop",
+    "related": [
+      "singapore-visa-for-indians-2026",
+      "singapore-visa-rejected-reasons-reapply-2026",
+      "visa-photo-size-by-country-for-indians-2026"
+    ],
+    "cta": {
+      "slug": "singapore-visa",
+      "label": "Get your Singapore visa filed"
+    },
+    "faqs": [
+      {
+        "q": "What documents are required for Singapore tourist visa from India?",
+        "a": "The core documents are a Form 14A signed by you, a passport valid for at least six months on the date you enter Singapore, a copy of its bio-data page and recent colour photos taken within the last three months. New Delhi asks for two photos, Mumbai for one. A Letter of Introduction (Form V39A) and other supporting papers, such as bank statements or bookings, may be asked for case by case."
+      },
+      {
+        "q": "What is the Singapore visa photo size for Indians?",
+        "a": "The Singapore High Commission in New Delhi asks for a colour photo 35 mm wide by 45 mm high, with no border, on a plain white background without shadows. It must be taken within the last three months and show your full face and upper shoulders with eyes open. If the photo is uploaded through ICA's e-Services, ICA says it must be 400 x 514 pixels, in JPG, JPEG, HEIC, HEIF or PNG, up to 8 MB."
+      },
+      {
+        "q": "Is bank statement required for Singapore visa?",
+        "a": "A bank statement is not on the fixed checklist published by the Singapore missions in New Delhi and Mumbai. Both say additional supporting documents may be required case by case, and the High Commission lists sufficient funds for your stay as an entry requirement. Form 14A also asks for your annual income in Singapore dollars. Keep recent statements ready so you can show that figure is real if the agent or mission asks."
+      },
+      {
+        "q": "Can I apply for Singapore visa without an agent?",
+        "a": "Only if you have a local contact in Singapore. ICA says that without a local contact holding a Singpass or Corppass account, you apply through an authorised visa agent appointed by a Singapore mission, or through the mission itself. In India, the New Delhi and Mumbai pages send applicants to their authorised agents. The local contact must be a Singapore citizen or permanent resident aged at least 21."
+      },
+      {
+        "q": "Is flight ticket required for Singapore visa application?",
+        "a": "No. The Singapore High Commission in New Delhi says you do not need to buy a flight ticket before applying for an entry visa. If you buy one anyway, you carry the risk of losing the money if the visa is refused or the approved dates do not match your trip. At the airport, though, ICA can ask for a confirmed onward or return ticket as part of entry requirements, so book it once the visa is approved."
+      },
+      {
+        "q": "How many days before travel should I apply for Singapore visa?",
+        "a": "The Singapore Consulate-General in Mumbai, which covers Gujarat, advises applying within 30 days before you arrive in Singapore. Processing generally takes 3 to 5 working days, not counting the day of submission, weekends and public holidays, and some files take longer. For a busy period such as Christmas or New Year, apply early in that 30-day window so there is time to fix a rejected photo or a missing document."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A Singapore visa for Indians needs a short official list: a **signed Form 14A**, a passport valid **at least six months** from entry, recent colour photos sized **35 mm x 45 mm** on white, and a bio-data page copy. You file through an authorised visa agent, pay a **₹2,100** processing fee plus up to **₹1,300** agent charge, and wait **3 to 5 working days**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Form:** Form 14A, filled in completely and signed by you. **Passport:** Valid at least six months on the date you enter Singapore, plus a bio-data page copy. **Photos:** Colour, 35 mm x 45 mm, white background, taken within three months (New Delhi asks for 2, Mumbai for 1). **Online photo size:** 400 x 514 pixels on ICA e-Services. **Letter of Introduction:** Form V39A, case by case. **How to apply:** Through an authorised visa agent, or a Singapore citizen or PR contact with Singpass. **Fee:** ₹2,100 plus up to ₹1,300 agent charge. **Processing:** 3 to 5 working days. **SG Arrival Card:** Free, within 3 days before arrival."
+      },
+      {
+        "type": "h2",
+        "text": "Singapore visa documents list for Indians"
+      },
+      {
+        "type": "p",
+        "text": "The Singapore High Commission in New Delhi and the Consulate-General in Mumbai publish the same core list for a social (tourist or family) or business visit. The mission accepts the application only when all of these are in order:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Form 14A**, completed and signed by you. Mumbai notes that your application is decided on what you declare in this form.",
+          "**Passport** valid for at least six months on the date you enter Singapore. Mumbai asks for a **photocopy of the bio-data page**.",
+          "**Colour photographs** taken within the last three months. New Delhi asks for **two**, Mumbai for **one**. Carry two to be safe.",
+          "**Form V39A (Letter of Introduction)** from a local contact in Singapore. New Delhi says it may be required case by case. Mumbai lists it as a document.",
+          "**English translations** of any document in Hindi, including official notes. In practice, translate Gujarati or other regional-language papers too.",
+          "**Additional supporting documents**, which both missions say may be asked for case by case."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "That is the whole published checklist. Indian applicants often expect a long list like Schengen or the UK. Singapore's is shorter, but the officer reads Form 14A closely, so the supporting papers you keep ready matter."
+      },
+      {
+        "type": "h2",
+        "text": "Documents required for Singapore tourist visa: supporting papers"
+      },
+      {
+        "type": "p",
+        "text": "Bank statements, a cover letter and bookings are not on the fixed official checklist, but they back up what you write on Form 14A. The form asks for your **occupation**, your **annual income in Singapore dollars**, your **expected date of arrival**, how long you will stay and the **address where you will stay**. The High Commission also lists **sufficient funds** and a **confirmed onward or return air ticket** (if applicable) as entry requirements at the border."
+      },
+      {
+        "type": "p",
+        "text": "Keep these ready, and give them to the agent if asked:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Recent bank statements**, showing the income you declared on Form 14A is real.",
+          "**Proof of work**: a leave letter or employment letter for salaried people, or business registration and income tax returns for the self-employed.",
+          "**Hotel booking** matching the Singapore address on Form 14A, or the host's address if you stay with family or friends.",
+          "**Flight itinerary**. You do not need to buy a ticket before applying, as covered below.",
+          "**A cover letter**, if the agent or mission asks for one. Keep it to a few lines: who you are, your dates, where you will stay, who pays and when you return to India.",
+          "**For children 12 or under**: Form 14A asks for the details of the travelling companion, so keep the accompanying parent's passport copy handy."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "The files that go through quietly are the ones where every paper tells the same story. If Form 14A says you are a salaried accountant earning a certain income, the leave letter, salary credits in the bank statement and the hotel dates should all match it."
+      },
+      {
+        "type": "h2",
+        "text": "Form 14A: how to fill it without mistakes"
+      },
+      {
+        "type": "p",
+        "text": "Form 14A is ICA's application for an entry visa, and the form itself says it is issued free. Download the current copy from the ICA website rather than reusing an old one. It has five parts:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Part I, particulars of applicant:** name exactly as in your passport, date of birth, marital status, passport number, issue and expiry dates, and home address.",
+          "**Part II, other details:** email, phone, occupation, qualifications, annual income in SGD, expected arrival date, type of visa (single, double, triple or multiple journey), purpose (social or business) and whether you will stay less or more than 30 days. Stays over 30 days need a reason.",
+          "**Address in Singapore:** hotel, relative's or friend's place, with full address. It also asks if you lived outside India for one year or more in the last five years.",
+          "**Part III, local contact:** a person, company or hotel in Singapore, with relationship, email and phone.",
+          "**Part IV, antecedents:** whether you were ever refused entry or deported from any country, convicted by a court, prohibited from entering Singapore, or entered Singapore under different personal details.",
+          "**Part V, declaration:** your signature, confirming the information is true and complete."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Answer Part IV honestly. The declaration warns that concealing information or giving false details can lead to prosecution. If you are unsure whether something in your past counts, ask before you sign, not after."
+      },
+      {
+        "type": "h2",
+        "text": "Singapore visa photo size and specifications"
+      },
+      {
+        "type": "p",
+        "text": "The High Commission in New Delhi asks for a photo **35 mm wide by 45 mm high**, without borders, and lists these rules:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Taken within the **last three months**, in colour, clear and in focus.",
+          "**Plain white background**, with no shadows.",
+          "Avoid white headgear and plain white clothing. Religious headgear is fine if it does not hide facial features.",
+          "Full face with upper shoulders visible, facing forward, **eyes open**.",
+          "Hair must not cover the eyebrows or eyes.",
+          "Even exposure, not taken under direct lighting.",
+          "Spectacle frames must not cover the eyes, and lenses must not reflect or glare."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For digital photos, ICA says a photo uploaded through its e-Services must be **400 x 514 pixels**, in JPG, JPEG, HEIC, HEIF or PNG, up to **8 MB**. ICA warns that selfies usually do not meet its requirements and that you must not use filters or alter your face. For printed copies, it asks for a matte or semi-matte finish."
+      },
+      {
+        "type": "h2",
+        "text": "Who must apply through an authorised visa agent"
+      },
+      {
+        "type": "p",
+        "text": "Almost every Indian traveller applies through an agent. ICA does not accept visa applications at immigration counters, and says that if you have no local contact with a Singpass or Corppass account, you apply through an authorised visa agent appointed by a Singapore mission, or through the mission. In India, the New Delhi and Mumbai visa pages direct applicants to their authorised agents, who submit the file online to the mission."
+      },
+      {
+        "type": "p",
+        "text": "Which mission handles your file depends on where you live:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**High Commission, New Delhi:** agents in Delhi NCR, West Bengal, Rajasthan, Uttar Pradesh, Punjab and Nepal. The agent list was last updated on 3 August 2026.",
+          "**Consulate-General, Mumbai:** Maharashtra, Madhya Pradesh, Chhattisgarh, Goa, **Gujarat** and Odisha. Applicants from Ahmedabad, Surat, Vadodara or Rajkot fall here.",
+          "**Other states:** check the visa page of the Singapore Consulate-General in Chennai for its agent list."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Use only an agent on the mission's official list. A travel shop that is not on the list must pass your file to one that is, which adds a step where details can go wrong."
+      },
+      {
+        "type": "h2",
+        "text": "Local contact or sponsor: is it required?"
+      },
+      {
+        "type": "p",
+        "text": "A local contact is not compulsory for a normal tourist visa filed through an agent, but it is the only way to apply without one. The local contact must be a **Singapore citizen or permanent resident aged at least 21**. Mumbai adds that they need a **Singpass or Corppass** account. They can issue **Form V39A**, the Letter of Introduction, and ICA lets them submit the application online."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Family or social visits:** a relative or friend who is a citizen or PR can act as the local contact.",
+          "**Business visits:** for negotiations or discussions, the local contact must act on behalf of a Singapore-registered business.",
+          "**No local contact:** both missions say a Letter of Introduction from your own embassy or High Commission may be accepted. Most tourists simply file through an agent without one."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Singapore visa fees and processing time"
+      },
+      {
+        "type": "p",
+        "text": "The visa processing fee is **₹2,100** per application, and authorised agents may charge a service fee of **₹1,300** on top, so budget about **₹3,400** per person. Mumbai says the ₹2,100 fee applies from 1 January 2026 and that agents make no extra charge for urgent applications. The fee is **non-refundable**, even if the visa is refused or you withdraw after submitting."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Processing:** generally 3 to 5 working days, not counting the day you submit, weekends and public holidays. Some files take longer.",
+          "**When to apply:** Mumbai advises applying within 30 days before you arrive.",
+          "**Flight tickets:** you do not need to buy one before applying. If you do and the visa is refused, the loss is yours.",
+          "**Status check:** on the ICA website, with the application reference number from your agent. The same route lets you print a lost e-Visa copy.",
+          "**New passport:** Mumbai no longer transfers visas to a new passport. A visa becomes invalid when a new passport is issued, so you apply again."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "SG Arrival Card: the step after your visa"
+      },
+      {
+        "type": "p",
+        "text": "The SG Arrival Card (SGAC) is **not a visa**, but every traveller must submit it, with its electronic health declaration, before arriving. Submit it **within 3 days before arrival, counting the day you arrive**. ICA's example: arriving on 30 June, you can submit from 28 June. It is **free** on the ICA e-Service or the MyICA app, and ICA says it does not endorse any business charging a fee to submit it for you."
+      },
+      {
+        "type": "p",
+        "text": "Enter an email address you check. Since 11 March 2022, ICA sends your visit pass (e-Pass) by email instead of stamping your passport, and the e-Pass shows how long you may stay and your last allowed day. If you only transit at Changi without clearing immigration, you do not need an SGAC."
+      },
+      {
+        "type": "h2",
+        "text": "Visa-free transit (VFTF) for Indians"
+      },
+      {
+        "type": "p",
+        "text": "Indian nationals may enter Singapore for up to **96 hours without a visa** under the Visa Free Transit Facility, but only when travelling to or from a third country. ICA's conditions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Enter by any mode, but **leave by air or sea** on a valid onward ticket departing within 96 hours.",
+          "Hold a visa or long-term pass valid **at least one month** from entry, issued by or valid for entry into **Australia, Canada, Germany, Japan, New Zealand, Switzerland, the UK or the US**. New Delhi adds that Schengen visas valid for Germany or Switzerland count.",
+          "Single Journey Visa holders may qualify on the return leg, travelling directly from the issuing country through Singapore home.",
+          "The stay **cannot be extended**, and ICA officers still decide entry."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A round trip from India to Singapore and back never qualifies. If any condition is unclear for your ticket, get a visa."
+      },
+      {
+        "type": "h2",
+        "text": "Common mistakes that delay or sink a Singapore visa"
+      },
+      {
+        "type": "p",
+        "text": "Both missions warn that incomplete forms or documents may lead to rejection or delay. The mistakes we see most:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Blank fields in Form 14A**, especially the Singapore address, local contact or annual income.",
+          "**Spelling or dates that do not match the passport**, or a form not signed by the applicant.",
+          "**An old or wrong-size photo**: older than three months, a selfie, a coloured background or glare on spectacles.",
+          "**Passport validity cut close.** Six months is counted from your date of entry, not the application date. Since 30 January 2026, ICA can direct airlines to deny boarding to travellers without a valid visa or a passport with at least six months' validity.",
+          "**Part IV answered wrongly**, such as hiding a past deportation or refused entry.",
+          "**Income on the form that the bank statement does not support.**",
+          "**Using an unlisted agent**, or paying third-party websites for the free SG Arrival Card."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Parents travelling to see children working in Singapore do best when the child, if a citizen or PR, issues Form V39A. Where the child is on a work pass, we keep the child's pass copy and address with the file, so the Form 14A address and local contact line are filled without guesswork."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps"
+      },
+      {
+        "type": "p",
+        "text": "Our team fills and checks your Form 14A against your passport and papers, gets the photo right first time, and files through the authorised visa agent route for your region. We work from 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and file Singapore visas for clients across India. NRI children abroad can brief us on WhatsApp at +91 82009 18967, and we coordinate with their parents in India."
+      },
+      {
+        "type": "h2",
+        "text": "When this guide was last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 23 November 2026. Before you apply, re-check the visa pages of the Singapore High Commission in New Delhi and the Consulate-General in Mumbai for fees and the document list, the current Form 14A and photo guidelines on the ICA website, and ICA's SG Arrival Card and Visa Free Transit Facility pages. Agent charges and checklists can change without notice."
+      }
+    ],
+    "sources": [
+      {
+        "label": "High Commission of Singapore, New Delhi: Visa information",
+        "url": "https://new-delhi.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "High Commission of Singapore, New Delhi: Authorised Visa Agents",
+        "url": "https://new-delhi.mfa.gov.sg/consular-services/visa-information/authorised-visa-agents/"
+      },
+      {
+        "label": "Consulate-General of Singapore, Mumbai: Visa information",
+        "url": "https://mumbai.mfa.gov.sg/consular-services/visa-information/"
+      },
+      {
+        "label": "ICA: Visa Guidelines",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements"
+      },
+      {
+        "label": "ICA: Form 14A, Application for Entry Visa (PDF)",
+        "url": "https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf"
+      },
+      {
+        "label": "ICA: Photo Guidelines",
+        "url": "https://www.ica.gov.sg/photo-guidelines"
+      },
+      {
+        "label": "ICA: SG Arrival Card with Electronic Health Declaration",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card"
+      },
+      {
+        "label": "ICA: Visa Free Transit Facility",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility"
+      },
+      {
+        "label": "ICA: ICA to Issue No-Boarding Directives from 30 January 2026",
+        "url": "https://www.ica.gov.sg/news-and-publications/newsroom/media-release/ica-to-issue-no-boarding-directives-from-30-january-2026"
+      }
+    ]
+  },
+  {
     "slug": "bank-balance-for-visa-from-india-2026",
     "title": "Bank Balance for Visa from India 2026: How Much, How Many Months, Country by Country",
     "metaTitle": "Bank Balance for Visa from India 2026: By Country | Travlys",
@@ -4160,9 +4826,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1554072675-66db59dba46f?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-travel-insurance-india-2026",
       "austria-visa-for-indians-2026",
-      "germany-visa-for-parents-from-india-2026",
-      "schengen-visa-documents-checklist-2026"
+      "germany-visa-for-parents-from-india-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -5571,9 +6237,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1600&h=900&fit=crop",
     "related": [
+      "schengen-travel-insurance-india-2026",
       "austria-visa-for-indians-2026",
-      "italy-visa-for-indians-2026",
-      "honeymoon-destinations-visa-free-for-indian-couples-2026-27"
+      "italy-visa-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -8297,9 +8963,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=1600&h=900&fit=crop",
     "related": [
+      "singapore-visa-documents-required-for-indians-2026",
       "singapore-visa-for-indians-2026",
-      "visa-rejection-reasons-india",
-      "countries-visa-free-for-indians-with-us-visa-2026"
+      "visa-rejection-reasons-india"
     ],
     "cta": {
       "slug": "singapore-visa",
@@ -24613,7 +25279,7 @@ export const BLOG_POSTS = [
     "metaDescription": "Indians need a Singapore visa in 2026, filed through an authorised visa agent. Fee ₹2,100 plus agent charge, 3 to 5 working days. Documents and transit rules.",
     "excerpt": "Indian passport holders still need a visa for Singapore, filed through an authorised visa agent. Here is the 2026 fee, the documents, the timeline for a December–January trip and the 96-hour transit option.",
     "date": "2026-10-28",
-    "updated": "2026-11-14",
+    "updated": "2026-11-23",
     "readMinutes": 8,
     "category": "Country guides",
     "tags": [
@@ -24626,9 +25292,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=1600&h=900&fit=crop",
     "related": [
+      "singapore-visa-documents-required-for-indians-2026",
       "singapore-visa-rejected-reasons-reapply-2026",
-      "visa-photo-size-by-country-for-indians-2026",
-      "malaysia-visa-free-for-indians-2026"
+      "visa-photo-size-by-country-for-indians-2026"
     ],
     "cta": {
       "slug": "singapore-visa",
@@ -24689,7 +25355,7 @@ export const BLOG_POSTS = [
       {
         "type": "ul",
         "items": [
-          "**New Delhi High Commission:** Agents in Delhi NCR, West Bengal, Rajasthan, Uttar Pradesh, Punjab and Nepal. The list was last revised on 1 August 2026.",
+          "**New Delhi High Commission:** Agents in Delhi NCR, West Bengal, Rajasthan, Uttar Pradesh, Punjab and Nepal. The list was last updated on 3 August 2026.",
           "**Mumbai Consulate-General:** Maharashtra, Madhya Pradesh, Chhattisgarh, Goa, Gujarat and Odisha. If you live in Ahmedabad or anywhere in Gujarat, this is your mission.",
           "**Chennai Consulate-General:** Agents in Chennai, Bengaluru and Hyderabad."
         ]
@@ -24730,7 +25396,7 @@ export const BLOG_POSTS = [
         "items": [
           "**Form 14A**, filled in completely and signed by you.",
           "**Passport** valid for at least six months from the date you enter Singapore, plus a copy of the bio-data page. Chennai also asks for the last page.",
-          "**One recent colour photo**, passport size, taken within the last three months and meeting the mission's photo guidelines.",
+          "**Recent colour photos**, 35 mm x 45 mm on a white background, taken within the last three months. New Delhi asks for two and Mumbai for one, so carry two.",
           "**Form V39A (Letter of Introduction)**, which Delhi may ask for case by case and Mumbai lists as a document. Mumbai also accepts an LOI from your embassy if you have no local contact.",
           "**English translations** of any document in Hindi or another language."
         ]
@@ -24796,7 +25462,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "Example: you fly Ahmedabad to Singapore to Sydney with an Australian visitor visa valid for six more months. You can stop over for up to four days. A Schengen visa from France or Italy does not count; only Germany is on the list. If you transit airside at Changi without clearing immigration, you need neither a visa nor the VFTF. If any condition is uncertain, get a visa."
+        "text": "Example: you fly Ahmedabad to Singapore to Sydney with an Australian visitor visa valid for six more months. You can stop over for up to four days. A Schengen visa from France or Italy does not count; of the Schengen countries, only Germany and Switzerland are on the list. If you transit airside at Changi without clearing immigration, you need neither a visa nor the VFTF. If any condition is uncertain, get a visa."
       },
       {
         "type": "h2",
@@ -33316,7 +33982,7 @@ export const BLOG_POSTS = [
     category: 'Schengen visas',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['bank-balance-for-visa-from-india-2026', 'schengen-visa-cover-letter-sample-india-2026', 'netherlands-visa-for-indians-2026'],
+    related: ['schengen-travel-insurance-india-2026', 'bank-balance-for-visa-from-india-2026', 'schengen-visa-cover-letter-sample-india-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
