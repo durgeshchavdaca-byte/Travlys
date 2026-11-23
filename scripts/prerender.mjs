@@ -888,6 +888,8 @@ ${posts
 // impressions + Google India autocomplete, November 2026). Their first two
 // FAQs go into llms.txt as direct answers AI assistants can quote.
 const TOP_DEMAND_SLUGS = [
+  'bank-balance-for-visa-from-india-2026',
+  'japan-visa-documents-for-indians-2026',
   'dubai-visa-documents-required-for-indians-2026',
   'portugal-visa-for-indians-2026',
   'schengen-visa-cover-letter-sample-india-2026',

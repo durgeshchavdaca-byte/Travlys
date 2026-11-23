@@ -8,6 +8,662 @@
 
 export const BLOG_POSTS = [
   {
+    "slug": "bank-balance-for-visa-from-india-2026",
+    "title": "Bank Balance for Visa from India 2026: How Much, How Many Months, Country by Country",
+    "metaTitle": "Bank Balance for Visa from India 2026: By Country | Travlys",
+    "metaDescription": "Bank balance for visa from India: most countries set no minimum. Italy asks €269.60 for 1-5 days; Schengen wants 3 months of statements, Canada 6.",
+    "excerpt": "Most visa systems publish no minimum bank balance, but Italy does and several Schengen countries set daily reference amounts. The official position for Schengen, the UK, US, Canada, Australia and Dubai, plus deposits, sponsors and FDs.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 12,
+    "category": "Checklists",
+    "tags": [
+      "Bank balance",
+      "Bank statement",
+      "Proof of funds",
+      "Schengen visa",
+      "Visa documents",
+      "Sponsor"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&h=900&fit=crop",
+    "related": [
+      "italy-visa-for-indians-2026",
+      "uk-visitor-visa-documents-checklist-india-2026",
+      "canada-visitor-visa-documents-checklist-india-2026"
+    ],
+    "cta": {
+      "slug": "netherlands-visa",
+      "label": "Get your visa file checked"
+    },
+    "faqs": [
+      {
+        "q": "How much bank balance is required for Schengen visa from India?",
+        "a": "There is no single Schengen figure. The EU list for India asks for three months of stamped bank statements and two years of ITR, with no amount. Some countries publish daily reference amounts: France €65 a day with hotels, the Netherlands €55, Switzerland about CHF 100 and Spain €122.10 with a €1,098.90 floor. Italy has a fixed table starting at €269.60 for a solo trip of 1 to 5 days. Your balance should cover the trip and fit your income."
+      },
+      {
+        "q": "How much bank balance is required for Switzerland visa from India in INR?",
+        "a": "Switzerland's reference amount is about CHF 100 per person per day, roughly ₹11,000, or CHF 30 a day for students with a valid student card. So a 7-day solo trip points to about CHF 700, roughly ₹77,000, as a floor. If you stay with a host in Switzerland, the host can sign a declaration of liability instead. The Swiss checklist asks for 3 months of original bank statements with the bank's stamp and signature, and two years of ITR-V."
+      },
+      {
+        "q": "How much bank balance is required for Italy visa from India?",
+        "a": "Italy is the one Schengen country here with a fixed table. A solo traveller needs €269.60 for a trip of 1 to 5 days, about ₹27,500, and €44.93 a day for 6 to 10 days, so a solo 10-day trip needs at least €449.30, about ₹45,800. Groups of two or more need less per person. Longer trips use a fixed sum plus a daily sum. These are minimums set by an Interior Ministry directive, not a guarantee of approval."
+      },
+      {
+        "q": "Bank statement for visa how many months?",
+        "a": "It depends on the country. The EU list for India asks for 3 months for all Schengen countries, and Switzerland asks for 3. Spain's Mumbai checklist asks for 6, although the consulate's web page says 3, so give 6. Canada's New Delhi visa office asks for 6 months plus two years of tax returns. Australia suggests itemised statements for 3 months. The UK and US set no period, so show enough months to explain where your money came from."
+      },
+      {
+        "q": "Can I deposit money in my account before visa application?",
+        "a": "You can, but a sudden large deposit with no explanation can hurt your application. UK caseworker guidance says that where most funds have not been held for long, caseworkers may check where the money came from, and undeclared third-party money is not counted. Schengen and Canada ask for statements showing movements over 3 or 6 months, so every credit is visible. If money came from an FD maturity, a property sale or family, attach the proof and explain it."
+      },
+      {
+        "q": "Can I show my parents' bank statement for my visa?",
+        "a": "Yes, if they are sponsoring you, but add proof that links them to you. Spain's Mumbai checklist asks for the sponsor's six-month bank statements, a signed letter saying what they will cover and proof of relationship. Canada asks for a signed letter from the payer, their ID and a bank certificate, dated within three months. In the UK, declare the support on your form. Many Schengen countries also use their own national sponsorship form, so check your consulate's list."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Worried that your bank balance is too low for a visa? Most countries publish **no fixed minimum**. Italy is the clear exception: its table asks a solo tourist for **€269.60** for 1 to 5 days and **€44.93 a day** for 6 to 10 days. For statements, the EU list for India asks for **3 months**, Spain's Mumbai checklist **6**, Canada's New Delhi list **6** and Australia **3**."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Fixed minimum:** Italy only (€269.60 for a solo trip of 1 to 5 days, about ₹27,500). **Daily reference amounts:** France €65 with hotels, Netherlands €55, Switzerland about CHF 100. **Schengen statements:** 3 months; Spain's Mumbai checklist says 6. **UK and US:** no set figure. **Canada:** no figure; 6 months of statements. **Australia:** no figure; 3 months. **Dubai 30 or 60-day tourist visa:** no bank statement on the GDRFA list."
+      },
+      {
+        "type": "h2",
+        "text": "How much bank balance is required for a visa from India?"
+      },
+      {
+        "type": "p",
+        "text": "Usually there is no magic number. The officer compares the likely cost of your trip with your income and savings, and asks whether the money is really yours and fits your job and ITR. A large balance that arrived last week can look weaker than a smaller one built up from salary credits. Where a country does publish an amount, treat it as a floor, not a target."
+      },
+      {
+        "type": "p",
+        "text": "Country | fixed minimum? | months of statements | source. Rupee figures use the European Central Bank rate of 20 November 2026 and are approximate."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Italy (Schengen)** | yes: €269.60 for 1 to 5 days solo, then a daily table | 3 months (EU list for India) | Italian Foreign Ministry table",
+          "**France (Schengen)** | reference amount: €65 a day with a hotel booking, €120 without, €32.50 if hosted | 3 months (EU list) | EU reference amounts annex",
+          "**Switzerland (Schengen)** | reference amount: about CHF 100 a day, CHF 30 for students | 3 months | Swiss Embassy tourist checklist and EU annex",
+          "**Spain (Schengen)** | reference amount: €122.10 a day, at least €1,098.90 in total | 6 months on the Mumbai checklist, 3 on the consulate's web page | Consulate General of Spain, Mumbai",
+          "**Netherlands (Schengen)** | reference amount: €55 a day, applied flexibly | 3 months (EU list) | EU annex",
+          "**Germany (Schengen)** | no mandatory amount; €45 a day only as a fallback | 3 months (EU list) | EU annex",
+          "**Greece (Schengen)** | €50 a day, at least €300 for up to 5 days | 3 months (EU list) | EU annex",
+          "**Portugal (Schengen)** | €75 per entry plus €40 a day | 3 months (EU list) | EU annex",
+          "**Austria (Schengen)** | none, case by case | 3 months (EU list) | EU annex",
+          "**United Kingdom** | none: \"no set level of funds\" | not set | Home Office caseworker guidance",
+          "**United States** | none | not set; documents may be requested | US State Department",
+          "**Canada** | none published | 6 months (New Delhi list) | IRCC, IMM 5881",
+          "**Australia** | none published | 3 months, itemised | Department of Home Affairs",
+          "**Dubai (30 or 60-day tourist visa)** | not required | not on the official list | GDRFA Dubai"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How much bank balance is required for Schengen visa from India in INR?"
+      },
+      {
+        "type": "p",
+        "text": "The EU's list of supporting documents for India (Commission decision C(2025) 4379, July 2025) sets the base for every Schengen country. You need an **original personal bank statement showing movements in the last three months**, stamped and signed by the bank, and income tax return acknowledgements for the **last two assessment years**. Employees add three months of payslips. Retired applicants add three months of pension statements and/or proof of regular income from property or a business."
+      },
+      {
+        "type": "p",
+        "text": "The list gives no amount. The amounts sit in a separate EU document: the reference amounts each Schengen country sets for crossing its external border. The European Commission publishes them as an annex to the Visa Code Handbook (latest version dated 8 June 2026). Per person per day:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**France:** €65 (about ₹6,600) with a hotel booking, €120 (about ₹12,200) with no proof of accommodation, and €32.50 (about ₹3,300) if your host has given you an official attestation d'accueil. With hotels for part of the trip, it is €65 for those nights and €120 for the rest.",
+          "**Switzerland:** about CHF 100 (about ₹11,000) if you pay your own costs, or CHF 30 for students with a valid student card. If you stay with a private host, the host signs a declaration of liability instead.",
+          "**Spain:** 10% of the gross national minimum wage, given as €122.10 (about ₹12,400) a day, with a floor of €1,098.90 (about ₹1.12 lakh) per person whatever the length of stay.",
+          "**Netherlands:** €55 (about ₹5,600), applied flexibly according to the length of stay, the purpose and your circumstances.",
+          "**Greece:** €50 (about ₹5,100), and at least €300 for a stay of up to 5 days. Half for minors.",
+          "**Portugal:** €75 per entry plus €40 a day (about ₹7,600 and ₹4,100). It can be waived if your board and lodging are guaranteed.",
+          "**Germany:** no mandatory daily amount. Officials look at your circumstances, and €45 a day (about ₹4,600) applies only if you cannot show or credibly explain them.",
+          "**Austria:** no reference amount. Decisions are case by case."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A worked example: a couple spending 8 nights in France with every hotel booked should show at least 8 x €65 x 2 = €1,040 (about ₹1.06 lakh) between them, as a floor."
+      },
+      {
+        "type": "h3",
+        "text": "Italy: the one fixed table"
+      },
+      {
+        "type": "p",
+        "text": "Italy's Foreign Ministry publishes a table set by an Interior Ministry directive of 1 March 2000. Per person, for tourism:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**1 to 5 days:** €269.60 in total for one traveller (about ₹27,500), or €212.81 each for two or more.",
+          "**6 to 10 days:** €44.93 a day for one traveller (about ₹4,600), or €26.33 a day each for two or more.",
+          "**11 to 20 days:** €51.64 plus €36.67 a day for one traveller, or €25.82 plus €22.21 a day each for two or more.",
+          "**More than 20 days:** €206.58 plus €27.89 a day for one traveller, or €118.79 plus €17.04 a day each for two or more."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So a solo 10-day trip needs at least €449.30 (about ₹45,800), and a couple on the same trip €526.60 between them (about ₹53,600)."
+      },
+      {
+        "type": "h3",
+        "text": "Spain: 6 months or 3?"
+      },
+      {
+        "type": "p",
+        "text": "The Spanish consulate in Mumbai's tourist checklist asks for original, stamped and signed bank statements of the applicant and any sponsor for the **last six months**. The consulate's own Schengen visa web page says **three months**. When two official pages disagree, give six. It removes the doubt."
+      },
+      {
+        "type": "h2",
+        "text": "Bank statement for visa: how many months?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Schengen (EU list for India):** 3 months, original, stamped and signed by the bank, showing movements.",
+          "**Switzerland:** 3 months, originals on A4 paper with the bank's stamp and signature. When a family applies together, only the head of the family attaches bank statements and ITR.",
+          "**Spain (Mumbai):** 6 months on the checklist, 3 on the web page.",
+          "**Canada (New Delhi list):** bank statements or a bank book covering the past 6 months, plus income tax returns for the past two years.",
+          "**Australia:** itemised personal bank statements for a 3 month period.",
+          "**UK and US:** no period is set. Show enough months to explain where your money comes from."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How much bank balance is required for UK and US visitor visas?"
+      },
+      {
+        "type": "p",
+        "text": "**UK:** none is fixed. The Home Office caseworker guidance says plainly: \"There is no set level of funds required.\" Caseworkers weigh the likely cost of your stay against your income or savings, minus your ongoing commitments in India and any dependants you support, including those not travelling with you."
+      },
+      {
+        "type": "p",
+        "text": "**US:** the State Department publishes no list of financial documents and no figure. It says extra documents may be requested, for example evidence of your ability to pay all costs of the trip, and that evidence of your employment or family ties may be enough to show the purpose of the trip and your intent to return. A consular officer decides at the interview."
+      },
+      {
+        "type": "h2",
+        "text": "Bank balance for Canada, Australia and Dubai visas"
+      },
+      {
+        "type": "p",
+        "text": "**Canada:** IRCC publishes no fixed figure. The New Delhi visa office checklist (IMM 5881, May 2026) says you must provide income tax returns for the past two years and bank statements or a bank book covering the past six months, plus other relevant papers such as payslips, pension proof, business registration or investments."
+      },
+      {
+        "type": "p",
+        "text": "**Australia:** Home Affairs asks only that you have enough money for your stay. Its suggested evidence is itemised personal bank statements for a 3 month period, pay slips, audited accounts, tax records, term deposits and credit card statements."
+      },
+      {
+        "type": "p",
+        "text": "**Dubai:** GDRFA Dubai's page for the 30 or 60-day single-entry tourist visa lists a photo, a passport copy, a passport valid for six months, an onward or return ticket and medical insurance valid in the UAE. A bank statement is not on the list."
+      },
+      {
+        "type": "h2",
+        "text": "Unexplained deposits and funds parking: what officers check"
+      },
+      {
+        "type": "p",
+        "text": "Moving money into your account just before you apply, often called funds parking, is a mistake we see often. Here is why it backfires."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**UK:** where most of the money has not been held for long, caseworkers \"may want to make further checks to establish the origin of this money\". Third-party money that you have not declared, and cannot show is genuinely yours, is not counted at all.",
+          "**Schengen:** the EU list asks for a statement showing movements over three months, so the officer sees every credit, not just the closing balance."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "If a large amount came in recently, from an FD maturity, a property sale or a gift from a parent, attach the proof and explain it in one line in your cover letter. Salary or pension credits arriving month after month tell a cleaner story than a high closing balance that appeared last week."
+      },
+      {
+        "type": "h2",
+        "text": "Can I use my sponsor's bank statement for a visa?"
+      },
+      {
+        "type": "p",
+        "text": "Yes, in most systems, but the sponsor's papers must stand on their own and the link to you must be clear."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Schengen:** the EU list asks for proof of sponsorship and/or private accommodation, on the destination country's national form where one exists. Spain's Mumbai checklist asks for the sponsor's original bank statements for six months, a signed letter stating what they will cover and how much, and proof of the relationship.",
+          "**Switzerland:** a host in Switzerland signs a declaration of liability, set at CHF 30,000, in place of you showing the daily amount.",
+          "**UK:** declare the support on the form. Caseworkers look at your relationship, the sponsor's history of sponsoring visitors and whether they have enough to support themselves too.",
+          "**US:** if you cannot cover all costs, you may show that another person will cover some or all of them. You still have to qualify on your own ties to India, and an invitation letter or Affidavit of Support is not one of the factors in the decision.",
+          "**Canada:** a letter signed by the person paying, a copy of their passport or photo ID and a bank certificate showing enough funds, dated within three months of applying, plus how they are related to you.",
+          "**Australia:** if a relative or friend in Australia is paying, provide proof of their funds."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Do fixed deposits, PPF and property count for a visa?"
+      },
+      {
+        "type": "p",
+        "text": "They help, but most official lists treat them as support for your bank statement, not a replacement for it."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Fixed or term deposits:** Australia names term deposits as evidence of funds. Spain's checklist asks for proof of deposits \"when relevant\". Canada's list includes investments among additional documents.",
+          "**Property:** the EU list and the Swiss checklist accept proof of regular income from property or a business for retired applicants. Neither lists a title deed as proof of funds.",
+          "**PPF:** none of the official lists we checked mentions PPF. Add the passbook if you wish, but keep your main proof in a savings account statement.",
+          "**Credit cards:** Australia lists credit card statements, and Germany's border rules list credit cards among accepted proof of means."
+        ]
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "If most of your savings sit in FDs, keep enough in your savings account to cover the trip, and add the FD receipts as a second layer. Every list we checked asks for the bank statement; the FDs back it up."
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys helps with your bank and funds papers"
+      },
+      {
+        "type": "p",
+        "text": "Our team checks your bank statements, ITRs and sponsor papers against the official list for your destination before you book an appointment, and drafts the one-line explanations for any large credits. For parents, we prepare the file in English and brief them in Gujarati or Hindi. NRI children abroad can brief us on WhatsApp (+91 82009 18967) and we coordinate with their parents in India. Our office is at 605 Shivalik Shilp II, Vastrapur, Ahmedabad, and we file for clients across India."
+      },
+      {
+        "type": "h2",
+        "text": "When this guide was last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 23 November 2026. Before you apply, re-check the EU list for India, the EU reference amounts annex, Italy's means of support table, your consulate's own checklist, the UK visit caseworker guidance, IRCC's IMM 5881, the Home Affairs Tourist stream page and GDRFA Dubai. Rupee figures use the ECB rate of 20 November 2026 (€1 = ₹101.85, CHF 1 = about ₹110) and are approximate."
+      }
+    ],
+    "sources": [
+      {
+        "label": "European Commission: C(2025) 4379, list of supporting documents for short-stay visa applicants in India",
+        "url": "https://home-affairs.ec.europa.eu/document/download/e9890b44-c893-40f9-9a6e-161e86d20efc_en"
+      },
+      {
+        "label": "European Commission, Migration and Home Affairs: Reference amounts required for the crossing of the external border fixed by national authorities (Annex 25, consolidated version)",
+        "url": "https://home-affairs.ec.europa.eu/document/download/97f68496-caf8-47b0-8017-bdd4aad90303_en?filename=handbook-annex-25_en_0.pdf"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Italy: Table for determining the means of support required for entry",
+        "url": "https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/mezzi_finanziari/tabella_mezzi_sussistenza/"
+      },
+      {
+        "label": "Consulate General of Spain in Mumbai: Tourism / private visit document checklist",
+        "url": "https://india.blsspainvisa.com/assets/pdf/english/Tourist-Visa.pdf"
+      },
+      {
+        "label": "Embassy of Switzerland in India: Checklist for Schengen visa, Tourist (PDF)",
+        "url": "https://www.schweiz-indien.eda.admin.ch/dam/en/eda-cms/Ge-fqqWRnxrs/Checklist_Tourist-EN.pdf"
+      },
+      {
+        "label": "GOV.UK: Visit caseworker guidance",
+        "url": "https://www.gov.uk/government/publications/visit-guidance/visit-caseworker-guidance-accessible--2"
+      },
+      {
+        "label": "U.S. Department of State: Visitor Visa",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html"
+      },
+      {
+        "label": "IRCC: New Delhi Visa Additional Document Checklist, Temporary Resident Visa (IMM 5881, 05-2026)",
+        "url": "https://ircc.canada.ca/english/pdf/kits/forms/IMM5881E.pdf"
+      },
+      {
+        "label": "Department of Home Affairs: Visitor visa (subclass 600) Tourist stream (apply outside Australia)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas"
+      },
+      {
+        "label": "GDRFA Dubai: Issuance of a single-entry tourist visa",
+        "url": "https://www.gdrfad.gov.ae/en/services/f9e586fe-0642-11ec-0320-0050569629e8"
+      }
+    ]
+  },
+  {
+    "slug": "japan-visa-documents-for-indians-2026",
+    "title": "Japan Visa Documents for Indians 2026: Full Checklist, Schedule of Stay and Guarantor Papers",
+    "metaTitle": "Japan Visa Documents Required for Indians 2026 | Travlys",
+    "metaDescription": "Japan visa documents for Indians: passport, form, 2x2 photo, itinerary, bookings, 3 months of bank statements and ITR. Visa fee ₹500 at VFS. Full list.",
+    "excerpt": "The full Japan tourist visa document list for Indian applicants in 2026, from the VFS checklist and Japan's Foreign Ministry: bank statements, ITR, the schedule of stay format, guarantor papers, photo size, fee and processing time.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "readMinutes": 12,
+    "category": "Checklists",
+    "tags": [
+      "Japan",
+      "Japan visa",
+      "Documents checklist",
+      "VFS Global",
+      "eVISA",
+      "Schedule of stay"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1600&h=900&fit=crop",
+    "related": [
+      "japan-visa-for-indians-2026",
+      "japan-specified-skilled-worker-visa-for-indians-2026",
+      "visa-application-centres-ahmedabad-addresses-2026"
+    ],
+    "cta": {
+      "slug": "singapore-visa",
+      "label": "Add a Singapore stopover to your Japan trip"
+    },
+    "faqs": [
+      {
+        "q": "What documents are required for Japan tourist visa from India?",
+        "a": "You need your passport (valid for 6 months from entry) plus old passports, a copy of the bio pages, a signed application form with photo, a cover letter, a detailed itinerary, flight and hotel bookings, your latest ITR and 3 months of personal bank statements. Employees add a leave letter or NOC, business owners add proof of ownership, and students add parents' consent and bank statements. Print everything on A4, unstapled, in checklist order."
+      },
+      {
+        "q": "How much bank balance is required for Japan visa from India?",
+        "a": "Japan publishes no minimum bank balance for Indian tourists. The Mumbai-region VFS page makes your last 3 months of personal bank statements and your personal ITR mandatory, and Japan's Foreign Ministry asks for proof that you can pay for the trip. In practice the balance and your declared income should clearly cover flights, hotels and daily costs for the days on your itinerary, with no large unexplained deposits just before you apply."
+      },
+      {
+        "q": "Can I apply for Japan eVISA online from India?",
+        "a": "No, not by yourself. Japan's Foreign Ministry lists India among the places where the eVISA must go through an accredited agency, and the Embassy says you submit at a VFS Global centre as before. If approved, a single-entry tourist visa for up to 90 days is issued electronically. At the airport you must show the visa issuance notice on your phone with internet access; screenshots, PDFs and printouts are not accepted."
+      },
+      {
+        "q": "Where do Gujarat residents apply for Japan visa?",
+        "a": "Gujarat falls under the Consulate-General of Japan in Mumbai, so Gujarat residents apply at a VFS Global centre in its area, including Ahmedabad. The Consulate stopped taking applications directly after 20 April 2026, so everything goes through VFS. If your passport was issued outside this region, VFS asks for government address proof such as a rent agreement, electricity bill or Aadhaar card. Check VFS for current appointment rules before you go."
+      },
+      {
+        "q": "What is the Japan visa photo size for Indian applicants?",
+        "a": "It depends on where you apply. The VFS page for the Mumbai consulate area (Gujarat, Maharashtra, Goa and nearby states) asks for one 2 x 2 inch colour photo with a plain white background, taken in the last 6 months, with the face filling 70 to 80% of the frame. The VFS page for the Embassy in New Delhi asks for 45 mm x 35 mm. Use the size your own centre's page states."
+      },
+      {
+        "q": "Do I need confirmed flight tickets for Japan visa?",
+        "a": "Not paid tickets, according to Japan's Foreign Ministry, which says reservations and payments for flights and hotels are not required at the time of application. However, the VFS checklist for the Mumbai area lists a confirmed travel booking for flights and hotels. The safe middle path is a flight reservation and hotel bookings that you can cancel, with dates that match your itinerary exactly. Do not pay for non-refundable tickets before approval."
+      }
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Japan gives no reason when it refuses a visa, so your file has to be complete the first time. For a tourist visa, Indians need a **passport valid for 6 months** from entry, a signed form, one photo, a cover letter, a day-by-day itinerary, travel bookings, **3 months of bank statements** and the latest ITR. You submit at VFS Global and pay **₹500** plus an ₹800 service charge."
+      },
+      {
+        "type": "callout",
+        "label": "At a glance",
+        "text": "**Where Gujarat applies:** VFS Global centres for the Consulate-General of Japan in Mumbai, including Ahmedabad. **Visa issued:** single-entry tourist eVISA, up to 90 days. **Bank statements:** personal, last 3 months. **ITR:** latest return, mandatory. **Photo:** 2 x 2 inch, white background, under 6 months (Mumbai-area VFS). **Visa fee:** ₹500 for Indian nationals. **VFS service charge:** ₹800 including GST; courier return ₹550, optional. **Processing:** minimum 5 working days; VFS indicates 10 days for Mumbai and 12 for Ahmedabad, Pune and Goa. **Earliest you can apply:** 3 months before travel."
+      },
+      {
+        "type": "h2",
+        "text": "Japan visa documents required for Indian tourists"
+      },
+      {
+        "type": "p",
+        "text": "If you pay for your own trip, the VFS checklist for the Mumbai consulate area (form CL-01, November 2025) lists these documents. Japan's Foreign Ministry list is shorter, but VFS checks your file against its own checklist, so prepare all of it."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Passport** valid for at least 6 months from your date of entry, plus any old passports.",
+          "**Copy of your current passport,** first and last pages.",
+          "**Visa application form,** fully filled in and signed, with your photo.",
+          "**Cover letter** stating the purpose of your visit.",
+          "**Detailed itinerary** (see the schedule of stay format below).",
+          "**Travel bookings** for flights and hotels.",
+          "**Latest income tax return** and **personal bank statements for the last 3 months.**",
+          "**Leave sanctioned by your employer, or an NOC,** if you are employed.",
+          "**Proof of relationship** (marriage or birth certificate) if dependants travel with you."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The checklist also asks for your travel history to Australia, Canada, Europe, the USA and Japan in the last 2 years. VFS says all papers must be on A4, unstapled, arranged in the same order as the checklist, with a copy of the checklist attached. Japan's Foreign Ministry adds that documents must have been issued within the last three months."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "Fill in the travel history box even if the only trip was Dubai or Thailand years ago and it falls outside the 2 years. A blank box tells the officer nothing. A clean record of past visas from the US, UK, Schengen or Australia is the strongest support a first-time Japan applicant has."
+      },
+      {
+        "type": "h2",
+        "text": "Extra documents for employees, business owners and students"
+      },
+      {
+        "type": "p",
+        "text": "Your profile decides the last few documents. VFS lists these on its Mumbai-area checklists:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Salaried:** leave sanctioned by your employer, or a no-objection certificate (NOC).",
+          "**Business owner:** proof of ownership, such as a Director Identification Number approval, a proprietorship document from your bank or an import-export licence (VFS's older guidance sheet), with the cover letter on company letterhead.",
+          "**Student or dependant:** consent from parents or spouse, their bank statements and latest ITR, and a copy of the student ID card.",
+          "**Travelling with family:** proof of relationship for each dependant."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "There is no separate line for retired parents. If a son or daughter is paying, they are the funding source, so their consent letter, bank statements and ITR should go in the file with yours."
+      },
+      {
+        "type": "h2",
+        "text": "Bank statement and ITR for Japan visa: how much is enough?"
+      },
+      {
+        "type": "p",
+        "text": "No official minimum exists. The VFS page for the Mumbai area says personal bank statements for the last 3 months and personal ITR are mandatory, printed on A4. If you use a bank passbook, VFS's older sheet says a copy of the passbook is accepted. Japan's Foreign Ministry checklist asks for one proof that you can pay your travel expenses: an income certificate or tax return issued by a public agency, or a bank statement or balance certificate."
+      },
+      {
+        "type": "p",
+        "text": "What matters is that your ITR income, the credits in your statement and the cost of the trip on your itinerary make sense together. VFS asks only for the latest ITR; if your income varies a lot, earlier returns can go in the checklist's additional documents space."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "A large deposit a week before you apply is the first thing an officer notices. If the money came from an FD maturity, a property sale or a gift from family, add one line in your cover letter saying so and attach the proof."
+      },
+      {
+        "type": "h2",
+        "text": "Japan schedule of stay format (Itinerary in Japan)"
+      },
+      {
+        "type": "p",
+        "text": "Japan has its own form for this. In the Foreign Ministry's checklist it is called **Itinerary in Japan** and reads \"The schedule of stay in Japan of the visa applicant(s) is as follows\", with four columns: Date, Activity Plan, Contact and Accommodation. For a tourist, it is a document you prepare yourself."
+      },
+      {
+        "type": "p",
+        "text": "The Ministry says the itinerary must include your arrival and departure dates and flight details, where you stay (hotel name, address and phone number, or your host's full address), and what you plan to do. If the same plan continues for several days, you may write SAME AS ABOVE. A typical row looks like this:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Date:** day and date of the trip.",
+          "**Activity Plan:** for example, arrive at Narita on your flight number at your arrival time, check in, evening in Shinjuku.",
+          "**Contact:** the hotel's phone number, or your host's number.",
+          "**Accommodation:** hotel name, full address and phone number."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "On bookings, the official sources differ. The Foreign Ministry says reservations and payments for flights, hotels and transport are not required at the time of application. The VFS checklist for the Mumbai area lists a confirmed travel booking for flights and hotels. Carry reservations you can cancel, and make sure every date matches the itinerary."
+      },
+      {
+        "type": "h2",
+        "text": "Japan visa with a guarantor or invitation from Japan"
+      },
+      {
+        "type": "p",
+        "text": "If a relative or friend in Japan invites you, or pays for your trip, the file changes. Japan's Foreign Ministry checklist for visiting relatives or friends asks for these from the person in Japan:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Invitation letter,** addressed to the Ambassador or Consul General of Japan in India. It must describe the planned activities; the Ministry says vague wording such as \"tourism\" or \"visiting relatives\" is not acceptable.",
+          "**Document explaining the reason for the invitation,** such as a graduation date, a wedding invitation or a medical certificate.",
+          "**List of Visa Applicants,** if more than one person is applying.",
+          "**Itinerary in Japan.**",
+          "**Letter of guarantee,** if the guarantor covers your expenses. It guarantees your stay expenses, your return trip and your compliance with Japanese law.",
+          "**Proof of the guarantor's funds:** the latest certificate of income or taxation, a tax return (Form 2), or a balance certificate. A withholding tax slip is not accepted.",
+          "**Certificate of residence (Juminhyo)** showing the relationship to all family members.",
+          "**If the guarantor is a foreign national,** for example an Indian working in Japan: both sides of their residence card and a copy of their passport. VFS also asks for a copy of their latest valid Japan visa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You also prove the relationship: a birth certificate, marriage certificate or family register for relatives, or photos, emails, call history or letters for friends. Copies of documents prepared in Japan are accepted, but originals may be requested, and each must be issued within the last three months."
+      },
+      {
+        "type": "callout",
+        "label": "From our desk",
+        "text": "When parents in Gujarat visit a son or daughter working in Japan, most of the paperwork comes from Japan. Ask your child to send scans of the invitation, guarantee, schedule of stay, Juminhyo and income certificate in one go, at least three weeks before you plan to submit, so nothing expires on the way."
+      },
+      {
+        "type": "h2",
+        "text": "Where to apply: VFS centres and jurisdiction"
+      },
+      {
+        "type": "p",
+        "text": "You apply through VFS Global at the centre for the Japanese mission that covers your state. VFS lists five regions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Consulate-General, Mumbai:** Maharashtra, Goa, Gujarat, Madhya Pradesh, Chhattisgarh, Daman, Diu, and Dadra and Nagar Haveli.",
+          "**Embassy, New Delhi:** Delhi, Haryana, Punjab, Rajasthan, Uttar Pradesh, Uttarakhand, Himachal Pradesh, Jammu and Kashmir, Chandigarh, the North-East states, Andaman and Nicobar, and Lakshadweep.",
+          "**Consulate-General, Kolkata:** West Bengal, Bihar, Jharkhand and Odisha.",
+          "**Consulate-General, Chennai:** Tamil Nadu, Andhra Pradesh, Telangana, Kerala and Puducherry.",
+          "**Consulate-General, Bengaluru:** Karnataka."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The Mumbai Consulate stopped accepting applications directly after 20 April 2026, so Gujarat and Maharashtra applicants go through the VFS centres at Mumbai, Ahmedabad, Pune or Goa. If your passport was issued outside the Mumbai region, VFS asks for government address proof such as a rent agreement, electricity bill or Aadhaar card. The checklist has a space for an agent's signature, so someone else can submit for you."
+      },
+      {
+        "type": "p",
+        "text": "Appointment rules at western India centres have changed more than once in 2026. The Embassy's page says no prior appointment is needed for submissions under New Delhi. VFS's live news page did not load for us, so check the VFS Japan site for your centre before you travel to submit."
+      },
+      {
+        "type": "h2",
+        "text": "Japan eVISA for residents of India"
+      },
+      {
+        "type": "p",
+        "text": "The Embassy says the JAPAN eVISA started in India on **1 April 2024**. It covers a **single-entry short-term visa for tourism, for up to 90 days**, for Indian and foreign nationals living in India. You still submit at VFS as before; only the result is electronic."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**No self-filing:** Japan's Foreign Ministry lists India among the places where applications must go through an accredited agency. The do-it-yourself eVISA website is for residents of a short list of other countries.",
+          "**Interview possible:** the Ministry says you may be asked to appear in person at the Japanese mission for an interview.",
+          "**Ordinary passports only,** for arrival by air or on certain scheduled ferries.",
+          "**At the airport:** you must show the visa issuance notice on a mobile device with internet access. PDFs, photos, screenshots and printed copies are not accepted.",
+          "**Other purposes:** visits for other purposes, such as business, are applied for at the mission and get a visa sticker in the passport."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Japan visa photo size and fee in rupees"
+      },
+      {
+        "type": "p",
+        "text": "Photo rules differ by centre. The VFS page for the Mumbai area asks for one photo, 2 x 2 inches, colour, plain white background, taken in the last 6 months, face covering 70 to 80%, looking straight ahead, on good quality paper. The VFS page for the Embassy in New Delhi asks for 45 mm x 35 mm with the same other rules. Use the size your centre states."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Visa fee:** ₹500 for Indian nationals, single or multiple entry, for applications from 1 July 2026 to 31 March 2027 (Mumbai Consulate). Other nationals now pay ₹8,650 single entry.",
+          "**VFS service charge:** ₹800 per application, including GST, charged even if you are exempt from the visa fee.",
+          "**Courier return (optional):** ₹550 per application.",
+          "**Typical total:** ₹1,300, or ₹1,850 with courier.",
+          "**Payment:** cash, debit or credit card and UPI at Mumbai, Pune, Ahmedabad and Goa.",
+          "**Refunds:** VFS says the visa fee is refunded only if the visa is not approved. The service charge is not refunded."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Japan visa processing time from India"
+      },
+      {
+        "type": "p",
+        "text": "The Mumbai Consulate says processing generally takes a **minimum of 5 working days** after it receives your application, and that it cannot be expedited or prioritised around your travel date. VFS gives indicative times of **10 days for Mumbai and 12 days for Ahmedabad, Pune and Goa**. It can take longer if the mission asks for more documents or consults Tokyo."
+      },
+      {
+        "type": "p",
+        "text": "You can apply from **3 months before your travel date**, according to the Embassy. The missions do not answer questions on application status, and the Foreign Ministry states that reasons for refusal cannot be given. Submit at least three to four weeks before departure."
+      },
+      {
+        "type": "h2",
+        "text": "Mistakes to avoid in a Japan visa file"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "**Dates that do not match.** Itinerary, flight reservation and hotel bookings should show the same arrival and departure dates.",
+          "**A vague invitation letter.** \"Tourism\" or \"visiting relatives\" is not enough; describe the actual plan.",
+          "**Old papers.** Documents issued more than three months ago can be rejected.",
+          "**The wrong proof from a guarantor.** A withholding tax slip is not accepted as proof of funds.",
+          "**Stapled or non-A4 copies,** or documents out of checklist order.",
+          "**A screenshot of the eVISA** at the airport, or no mobile data when you land.",
+          "**Paying anyone to \"expedite\".** The Embassy says you pay only the visa fee and service charge, and it never asks for payment by phone or email."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Travlys can help with a Japan trip"
+      },
+      {
+        "type": "p",
+        "text": "Travlys does not file Japan visas, so submit your file at VFS yourself using the checklist above. We can plan the rest of the trip around your visa timeline from our office at 605 Shivalik Shilp II, Vastrapur, Ahmedabad. If you are adding a stopover on the way, we file Singapore and Thailand visas, along with USA, UK, Schengen, Canada and Australia visas. Message us on WhatsApp at +91 82009 18967 with your dates."
+      },
+      {
+        "type": "h2",
+        "text": "When this post was last checked"
+      },
+      {
+        "type": "p",
+        "text": "Last checked: 23 November 2026. We checked the Embassy of Japan in India's visa and eVISA pages, the Consulate-General in Mumbai's visa page, the Foreign Ministry's eVISA page and single-entry checklist, and the VFS Global pages and checklists for Mumbai and New Delhi. VFS's appointment news page did not load for us. Before you apply, re-check the VFS Japan site for your centre's appointment rules and checklist version."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Embassy of Japan in India: Visa",
+        "url": "https://www.in.emb-japan.go.jp/itpr_en/Visa.html"
+      },
+      {
+        "label": "Embassy of Japan in India: The JAPAN eVISA system",
+        "url": "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01148.html"
+      },
+      {
+        "label": "Consulate-General of Japan in Mumbai: Visa",
+        "url": "https://www.mumbai.in.emb-japan.go.jp/itpr_en/visa_information.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: The JAPAN eVISA system (electronic visa)",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
+      },
+      {
+        "label": "Ministry of Foreign Affairs of Japan: Checklist for Single-Entry Short-Term Stay Visa (PDF, April 2025)",
+        "url": "https://www.mofa.go.jp/files/000121327.pdf"
+      },
+      {
+        "label": "VFS Global: Japan visa information, Mumbai jurisdiction",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html"
+      },
+      {
+        "label": "VFS Global: Checklist CL-01, Temporary Visitor Visa for Sightseeing without Guarantor (PDF, November 2025)",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/CL-01-Visitor-Visa-Without-Guarantor.pdf"
+      },
+      {
+        "label": "VFS Global: Checklist CL-02, Temporary Visitor Visa with Guarantor (PDF, November 2025)",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/CL-02-Visitor-Visa-With-Guarantor.pdf"
+      },
+      {
+        "label": "VFS Global: Japan visa information, New Delhi",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/delhi/index.html"
+      },
+      {
+        "label": "VFS Global: Japan visa jurisdictions in India",
+        "url": "https://www.vfsglobal.com/one-pager/japan/india/english/"
+      }
+    ]
+  },
+  {
     "slug": "dubai-visa-documents-required-for-indians-2026",
     "title": "Dubai Visa Documents Required for Indians 2026: Full Checklist, Fees, Photo Rules and Sponsor Papers",
     "metaTitle": "Dubai Visa Documents Required for Indians 2026 | Travlys",
@@ -2766,9 +3422,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1600&h=900&fit=crop",
     "related": [
+      "bank-balance-for-visa-from-india-2026",
       "uk-visa-for-indians-2026-fees-processing-time",
-      "uk-visa-refused-what-to-do-2026",
-      "uk-visa-for-parents-from-india-2026"
+      "uk-visa-refused-what-to-do-2026"
     ],
     "cta": {
       "slug": "uk-visa",
@@ -3822,9 +4478,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1600&h=900&fit=crop",
     "related": [
+      "bank-balance-for-visa-from-india-2026",
       "france-visa-for-indians-2026",
-      "switzerland-visa-for-indians-2026",
-      "schengen-visa-appointment-india-how-to-get-slot-2026"
+      "switzerland-visa-for-indians-2026"
     ],
     "cta": {
       "slug": "netherlands-visa",
@@ -4030,7 +4686,7 @@ export const BLOG_POSTS = [
       },
       {
         "type": "p",
-        "text": "A solo 10-day trip therefore needs at least €449.30 (about ₹48,000). A couple on the same trip needs €526.60 between them (about ₹56,000). These are floors, not targets. Officers also look at whether the balance fits your income and the cost of the trip you have booked."
+        "text": "A solo 10-day trip therefore needs at least €449.30 (about ₹45,800). A couple on the same trip needs €526.60 between them (about ₹53,600). These are floors, not targets. Officers also look at whether the balance fits your income and the cost of the trip you have booked."
       },
       {
         "type": "h2",
@@ -6966,9 +7622,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1600&h=900&fit=crop",
     "related": [
+      "japan-visa-documents-for-indians-2026",
       "japan-visa-for-indians-2026",
-      "germany-opportunity-card-chancenkarte-for-indians-2026",
-      "visa-consultant-vs-diy"
+      "germany-opportunity-card-chancenkarte-for-indians-2026"
     ],
     "cta": {
       "slug": "usa-visa",
@@ -28404,9 +29060,9 @@ export const BLOG_POSTS = [
     ],
     "heroImage": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1600&h=900&fit=crop",
     "related": [
+      "japan-visa-documents-for-indians-2026",
       "japan-specified-skilled-worker-visa-for-indians-2026",
-      "visa-photo-size-by-country-for-indians-2026",
-      "vietnam-e-visa-for-indians-2026"
+      "visa-photo-size-by-country-for-indians-2026"
     ],
     "faqs": [
       {
@@ -32660,7 +33316,7 @@ export const BLOG_POSTS = [
     category: 'Schengen visas',
     tags: ['Schengen', 'Documents', 'Europe', 'Insurance'],
     heroImage: 'https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600&h=900&fit=crop',
-    related: ['schengen-visa-cover-letter-sample-india-2026', 'netherlands-visa-for-indians-2026', 'italy-visa-for-indians-2026'],
+    related: ['bank-balance-for-visa-from-india-2026', 'schengen-visa-cover-letter-sample-india-2026', 'netherlands-visa-for-indians-2026'],
     cta: { slug: 'netherlands-visa', label: 'See Schengen visa pricing' },
     faqs: [
       {
