@@ -22122,8 +22122,8 @@ export const BLOG_POSTS = [
   {
     "slug": "phu-quoc-visa-free-for-indians-2026",
     "title": "Phu Quoc Visa Free for Indians: The 30-Day Rule in 2026",
-    "metaTitle": "Phu Quoc Visa Free for Indians 2026 | Travlys",
-    "metaDescription": "Yes, Indians can visit Phu Quoc visa-free for up to 30 days if they fly in directly and stay on the island. Mainland Vietnam needs an e-visa. Rules and flights.",
+    "metaTitle": "Phu Quoc Visa for Indians 2026: Visa-Free 30 Days | Travlys",
+    "metaDescription": "Is Phu Quoc visa free for Indians? Yes: 30 days with no visa or visa on arrival if you fly straight into Phu Quoc and stay on the island. Mainland needs an e-visa.",
     "excerpt": "Indians can visit Vietnam's Phu Quoc island without a visa for up to 30 days, but only if they enter directly and never leave the island. Here is how the rule works, when you need an e-visa, and the new direct flight from Ahmedabad.",
     "date": "2026-10-29",
     "updated": "2026-10-29",
@@ -25882,8 +25882,8 @@ export const BLOG_POSTS = [
   {
     "slug": "australia-visa-biometrics-india-2026",
     "title": "Australia Visa Biometrics in India from 26 October 2026",
-    "metaTitle": "Australia Visa Biometrics in India 2026: ₹1,425 Fee, 16 Centres | Travlys",
-    "metaDescription": "Australian visa applications lodged in India from 26 Oct 2026 may need fingerprints and a photo. Who is asked, 16 VFS centres, ₹1,425 fee and Immi App option.",
+    "metaTitle": "Australian Biometrics Collection Centres in India: Fee | Travlys",
+    "metaDescription": "All 16 Australian biometrics collection centres in India, from Delhi and Mumbai to Hyderabad and Ahmedabad, the ₹1,425 fee, how to book and who is exempt.",
     "excerpt": "Australia now collects fingerprints and a facial image from visa applicants in India. Here is who gets asked, where to go, what it costs and how it affects your timeline.",
     "date": "2026-10-27",
     "updated": "2026-10-27",
